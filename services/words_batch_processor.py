@@ -453,6 +453,9 @@ class WordsBatchProcessor:
         last_save_time = time_module.time()
         SAVE_INTERVAL = 30  # Save state every 30 seconds
 
+        # Track pending batches to avoid duplicates
+        pending_batches = set()
+
         try:
             while True:
                 # Check max batches limit
@@ -460,19 +463,34 @@ class WordsBatchProcessor:
                     print(f'Reached max batches limit: {max_batches}')
                     break
 
-                # Collect pending batches
+                # Collect pending batches (thread-safe)
                 pending_ranges = []
-                for _ in range(self.max_workers):
-                    if max_batches is not None and len(pending_ranges) + len(batch_times) >= max_batches:
-                        break
-                    batch_range = self.get_next_batch_range(completed_batches)
-                    if batch_range is None:
-                        break
-                    pending_ranges.append(batch_range)
+                with self._lock:
+                    for _ in range(self.max_workers):
+                        if max_batches is not None and len(pending_ranges) + len(batch_times) >= max_batches:
+                            break
+
+                        # Create combined set of completed + pending batches
+                        unavailable_batches = completed_batches | pending_batches
+                        batch_range = self.get_next_batch_range(unavailable_batches)
+                        if batch_range is None:
+                            break
+
+                        start, end = batch_range
+                        batch_id = f'{start}-{end}'
+                        pending_ranges.append((start, end))
+                        pending_batches.add(batch_id)
 
                 if not pending_ranges:
-                    print('All batches completed!')
-                    break
+                    # Check if there are actually more batches to process
+                    all_unavailable = completed_batches | pending_batches
+                    if self.get_next_batch_range(all_unavailable) is None:
+                        print('All batches completed!')
+                        break
+                    else:
+                        # All workers are busy, wait a bit
+                        time.sleep(0.5)
+                        continue
 
                 # Submit batches to thread pool
                 with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
@@ -493,6 +511,10 @@ class WordsBatchProcessor:
                         try:
                             result = future.result()
                             batch_id = result['batch_id']
+
+                            # Remove from pending (whether success or failure)
+                            with self._lock:
+                                pending_batches.discard(batch_id)
 
                             if result['success']:
                                 consecutive_failures = 0  # Reset on success
@@ -518,6 +540,9 @@ class WordsBatchProcessor:
                                 time.sleep(RETRY_DELAY)
 
                         except Exception as e:
+                            # Remove from pending on exception
+                            with self._lock:
+                                pending_batches.discard(batch_id)
                             print(f'  UNEXPECTED ERROR for batch {batch_id}: {e}')
                             consecutive_failures += 1
 
