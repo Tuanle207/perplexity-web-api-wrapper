@@ -5,9 +5,11 @@ import json
 import os
 import re
 import time
+import threading
 from datetime import datetime
 from pathlib import Path
 from typing import Optional, Callable, Tuple, Set, Dict, List
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from config import (
     BATCH_SIZE,
@@ -36,6 +38,7 @@ class WordsBatchProcessor:
         model: str = BATCH_MODEL,
         process_start_index: Optional[int] = PROCESS_START_INDEX,
         process_end_index: Optional[int] = PROCESS_END_INDEX,
+        max_workers: int = 1,
     ):
         self.cookies = cookies
         self.batch_size = batch_size
@@ -44,7 +47,12 @@ class WordsBatchProcessor:
         self.model = model
         self.process_start_index = process_start_index
         self.process_end_index = process_end_index
+        self.max_workers = max_workers
         self.client = PerplexityService(cookies)
+
+        # Thread safety for concurrent operations
+        self._lock = threading.Lock()
+        self._state_lock = threading.Lock()
 
         # Ensure output directory exists
         Path(WORDS_OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
@@ -173,7 +181,7 @@ class WordsBatchProcessor:
 
         # Send to Perplexity
         print(f'  Sending to Perplexity (mode={self.mode}, model={self.model})...')
-        response = self.client.ask_advanced(prompt, mode=self.mode, model=self.model, incognito=False)
+        response = self.client.ask_advanced(prompt, mode=self.mode, model=self.model, incognito=True)
 
         # Validate response
         items_count = end - start + 1  # Assuming one item per word in response
@@ -188,6 +196,62 @@ class WordsBatchProcessor:
         print(f'  Saved to {output_path}')
 
         return response
+
+    def _process_single_batch_safe(
+        self,
+        start: int,
+        end: int,
+        completed_batches: Set[str],
+        failed_batches: List[str],
+        batch_times: List[float],
+    ) -> Dict:
+        """
+        Thread-safe wrapper for processing a single batch.
+        Used by concurrent executor.
+
+        Args:
+            start: Starting index (1-based)
+            end: Ending index (1-based)
+            completed_batches: Set of completed batch IDs (shared, thread-safe)
+            failed_batches: List of failed batch IDs (shared, thread-safe)
+            batch_times: List of batch durations (shared, thread-safe)
+
+        Returns:
+            Result dict with status and metadata
+        """
+        batch_id = f'{start}-{end}'
+        result = {
+            'batch_id': batch_id,
+            'start': start,
+            'end': end,
+            'success': False,
+            'duration': 0,
+            'error': None,
+        }
+
+        import time as time_module
+        batch_start_time = time_module.time()
+
+        try:
+            # Process the batch
+            self.process_batch(start, end)
+
+            # Thread-safe updates
+            with self._lock:
+                completed_batches.add(batch_id)
+                duration = time_module.time() - batch_start_time
+                batch_times.append(duration)
+                result['success'] = True
+                result['duration'] = duration
+
+        except Exception as e:
+            # Thread-safe updates for failure
+            with self._lock:
+                failed_batches.append(batch_id)
+                result['error'] = str(e)
+                result['duration'] = time_module.time() - batch_start_time
+
+        return result
 
     def save_state(self, processed_batches: List, current_batch: Optional[str] = None):
         """Save current processing state to file."""
@@ -240,6 +304,7 @@ class WordsBatchProcessor:
         print(f'Total batches in range: {total_batches}')
         print(f'Batch size: {self.batch_size}')
         print(f'Mode: {self.mode}, Model: {self.model}')
+        print(f'Concurrent workers: {self.max_workers}')
 
         # Get completed batches
         completed_batches = self.get_completed_batches()
@@ -264,6 +329,19 @@ class WordsBatchProcessor:
         import time as time_module
         start_time = time_module.time()
         batch_times = []  # Track time for each completed batch
+
+        # Use concurrent processing if max_workers > 1
+        if self.max_workers > 1:
+            return self._process_concurrent(
+                total_batches=total_batches,
+                max_batches=max_batches,
+                on_progress=on_progress,
+                completed_batches=completed_batches,
+                batch_times=batch_times,
+                failed_batches=failed_batches,
+            )
+
+        # Sequential processing (original behavior)
 
         try:
             while True:
@@ -333,6 +411,137 @@ class WordsBatchProcessor:
 
         # Final state save
         self.save_state(sorted(completed_batches))
+
+        return {
+            'total_words': total_words,
+            'total_batches': total_batches,
+            'completed_batches': len(completed_batches),
+            'processed_this_run': processed_count,
+            'failed_batches': failed_batches,
+            'consecutive_failures': consecutive_failures,
+        }
+
+    def _process_concurrent(
+        self,
+        total_batches: int,
+        max_batches: Optional[int],
+        on_progress: Optional[Callable],
+        completed_batches: Set[str],
+        batch_times: List[float],
+        failed_batches: List[str],
+    ) -> Dict:
+        """
+        Process batches concurrently using ThreadPoolExecutor.
+
+        Args:
+            total_batches: Total number of batches to process
+            max_batches: Maximum number of batches to process (None for unlimited)
+            on_progress: Progress callback function
+            completed_batches: Set of completed batch IDs
+            batch_times: List of batch durations for ETA calculation
+            failed_batches: List of failed batch IDs
+
+        Returns:
+            Summary dict with processing stats
+        """
+        import time as time_module
+
+        print(f'Using concurrent processing with {self.max_workers} workers')
+
+        consecutive_failures = 0
+        MAX_CONSECUTIVE_FAILURES = 10
+        last_save_time = time_module.time()
+        SAVE_INTERVAL = 30  # Save state every 30 seconds
+
+        try:
+            while True:
+                # Check max batches limit
+                if max_batches is not None and len(batch_times) >= max_batches:
+                    print(f'Reached max batches limit: {max_batches}')
+                    break
+
+                # Collect pending batches
+                pending_ranges = []
+                for _ in range(self.max_workers):
+                    if max_batches is not None and len(pending_ranges) + len(batch_times) >= max_batches:
+                        break
+                    batch_range = self.get_next_batch_range(completed_batches)
+                    if batch_range is None:
+                        break
+                    pending_ranges.append(batch_range)
+
+                if not pending_ranges:
+                    print('All batches completed!')
+                    break
+
+                # Submit batches to thread pool
+                with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
+                    futures = {}
+                    for start, end in pending_ranges:
+                        future = executor.submit(
+                            self._process_single_batch_safe,
+                            start, end,
+                            completed_batches, failed_batches, batch_times
+                        )
+                        futures[future] = (start, end)
+
+                    # Process completed futures
+                    for future in as_completed(futures):
+                        start, end = futures[future]
+                        batch_id = f'{start}-{end}'
+
+                        try:
+                            result = future.result()
+                            batch_id = result['batch_id']
+
+                            if result['success']:
+                                consecutive_failures = 0  # Reset on success
+
+                                # Progress callback
+                                if on_progress:
+                                    avg_time = sum(batch_times) / len(batch_times) if batch_times else 0
+                                    remaining = total_batches - len(completed_batches)
+                                    eta_seconds = int(avg_time * remaining)
+                                    on_progress(start, end, len(completed_batches), total_batches, eta_seconds)
+
+                            else:
+                                consecutive_failures += 1
+                                print(f'  ERROR processing batch {batch_id}: {result["error"]}')
+
+                                # Stop if too many consecutive failures
+                                if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
+                                    print(f'  Stopping: {consecutive_failures} consecutive failures reached.')
+                                    break
+
+                                # Delay before retry
+                                print(f'  Waiting {RETRY_DELAY}s before retry...')
+                                time.sleep(RETRY_DELAY)
+
+                        except Exception as e:
+                            print(f'  UNEXPECTED ERROR for batch {batch_id}: {e}')
+                            consecutive_failures += 1
+
+                # Periodic state save
+                current_time = time_module.time()
+                if current_time - last_save_time >= SAVE_INTERVAL:
+                    self.save_state(sorted(completed_batches))
+                    last_save_time = current_time
+                    print(f'  State saved ({len(completed_batches)} batches completed)')
+
+        except KeyboardInterrupt:
+            print('\nInterrupted by user. Saving state...')
+
+        # Final state save
+        self.save_state(sorted(completed_batches))
+
+        return {
+            'total_words': self.get_total_words(),
+            'total_batches': total_batches,
+            'completed_batches': len(completed_batches),
+            'processed_this_run': len(batch_times),
+            'failed_batches': failed_batches,
+            'consecutive_failures': consecutive_failures,
+        }
 
         return {
             'total_words': total_words,

@@ -104,6 +104,12 @@ def main():
         action='store_true',
         help='Disable progress callback',
     )
+    parser.add_argument(
+        '--workers',
+        type=int,
+        default=2,
+        help='Number of concurrent workers (default: 1, use >1 for concurrent processing)',
+    )
 
     args = parser.parse_args()
 
@@ -114,6 +120,7 @@ def main():
     print(f'Delay: {args.delay}s')
     print(f'Mode: {args.mode}')
     print(f'Model: {args.model}')
+    print(f'Workers: {args.workers}')
     if args.start_index:
         print(f'Start index: {args.start_index}')
     if args.end_index:
@@ -131,6 +138,7 @@ def main():
         model=args.model,
         process_start_index=args.start_index,
         process_end_index=args.end_index,
+        max_workers=args.workers,
     )
 
     # Run processing
