@@ -1,0 +1,383 @@
+```json
+{
+  "items": [
+    {
+      "term": "abstentions",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "instances of choosing not to vote or take part in a decision",
+          "examples": ["There were several abstentions during the vote.", "The motion passed despite many abstentions."],
+          "collocations": ["record abstentions", "many abstentions", "vote abstentions", "abstentions counted"],
+          "synonyms": ["nonparticipation", "nonvoting"],
+          "antonyms": ["votes", "participation"],
+          "register": null,
+          "domain": ["politics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "abstentious",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "showing self-restraint, especially in eating or drinking",
+          "examples": ["He led an abstentious lifestyle.", "Her abstentious habits impressed others."],
+          "collocations": ["abstentious life", "abstentious habits", "abstentious diet"],
+          "synonyms": ["moderate", "self-restrained", "temperate"],
+          "antonyms": ["indulgent", "excessive"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "absterge",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to clean or wipe away impurities",
+          "examples": ["The solution helps absterge wounds.", "He absterged the surface carefully."],
+          "collocations": ["absterge wounds", "absterge impurities", "absterge surface"],
+          "synonyms": ["cleanse", "purify", "wipe"],
+          "antonyms": ["dirty", "contaminate"],
+          "register": "archaic",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "absterged",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "cleaned or wiped away impurities",
+          "examples": ["The wound was absterged before treatment."],
+          "collocations": ["absterged wound", "absterged surface"],
+          "synonyms": ["cleansed", "purified"],
+          "antonyms": ["contaminated"],
+          "register": "archaic",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "abstergent",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having the ability to cleanse or purify",
+          "examples": ["An abstergent substance was applied."],
+          "collocations": ["abstergent solution", "abstergent agent"],
+          "synonyms": ["cleansing", "purifying"],
+          "antonyms": ["dirtying"],
+          "register": "archaic",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "absterges",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "cleans or wipes away impurities",
+          "examples": ["This solution absterges effectively."],
+          "collocations": ["absterges wounds", "absterges dirt"],
+          "synonyms": ["cleanses", "purifies"],
+          "antonyms": ["contaminates"],
+          "register": "archaic",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "absterging",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "cleaning or removing impurities",
+          "examples": ["Absterging the wound is necessary."],
+          "collocations": ["absterging wounds", "absterging surface"],
+          "synonyms": ["cleansing", "purifying"],
+          "antonyms": ["contaminating"],
+          "register": "archaic",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "absterse",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to cleanse or wipe away",
+          "examples": ["He abstersed the wound."],
+          "collocations": ["absterse impurities"],
+          "synonyms": ["cleanse"],
+          "antonyms": ["dirty"],
+          "register": "archaic",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "abstersion",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of cleansing or wiping clean",
+          "examples": ["Abstersion of wounds is essential."],
+          "collocations": ["wound abstersion"],
+          "synonyms": ["cleansing", "purification"],
+          "antonyms": ["contamination"],
+          "register": "archaic",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "abstersive",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having cleansing properties",
+          "examples": ["An abstersive lotion was used."],
+          "collocations": ["abstersive agent"],
+          "synonyms": ["cleansing"],
+          "antonyms": ["dirtying"],
+          "register": "archaic",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "abstinence",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the practice of not doing or having something, especially alcohol or sex",
+          "examples": ["He chose abstinence from alcohol.", "Religious abstinence is common in some cultures."],
+          "collocations": ["practice abstinence", "total abstinence", "abstinence from alcohol"],
+          "synonyms": ["self-denial", "restraint"],
+          "antonyms": ["indulgence"],
+          "register": null,
+          "domain": ["general", "health"]
+        }
+      ]
+    },
+    {
+      "term": "abstinent",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not doing or having something by choice",
+          "examples": ["He remained abstinent for a year.", "She is abstinent from alcohol."],
+          "collocations": ["remain abstinent", "abstinent lifestyle"],
+          "synonyms": ["self-controlled", "restrained"],
+          "antonyms": ["indulgent"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "abstinently",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows self-restraint",
+          "examples": ["He lived abstinently."],
+          "collocations": ["live abstinently"],
+          "synonyms": ["moderately"],
+          "antonyms": ["indulgently"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "abstract",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "based on ideas and not on physical things",
+          "examples": ["The concept is abstract.", "Abstract art can be hard to understand."],
+          "collocations": ["abstract idea", "abstract concept", "abstract art"],
+          "synonyms": ["theoretical", "conceptual"],
+          "antonyms": ["concrete"],
+          "register": null,
+          "domain": ["general", "art"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a short summary of a text or article",
+          "examples": ["Read the abstract before the paper.", "The abstract explains the study."],
+          "collocations": ["research abstract", "paper abstract"],
+          "synonyms": ["summary", "overview"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["academic"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to remove or take something away",
+          "examples": ["The data was abstracted from reports."],
+          "collocations": ["abstract data", "abstract information"],
+          "synonyms": ["extract", "remove"],
+          "antonyms": ["add"],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "abstracted",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "thinking deeply and not paying attention to what is happening",
+          "examples": ["He looked abstracted during the meeting."],
+          "collocations": ["abstracted look", "abstracted expression"],
+          "synonyms": ["distracted", "preoccupied"],
+          "antonyms": ["focused"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "abstraction",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an idea that is general and not based on specific examples",
+          "examples": ["Freedom is an abstraction.", "The theory deals with abstractions."],
+          "collocations": ["pure abstraction", "level of abstraction"],
+          "synonyms": ["concept", "idea"],
+          "antonyms": ["reality"],
+          "register": null,
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "abstractionism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a style of art that does not represent real objects",
+          "examples": ["He studies abstractionism in painting."],
+          "collocations": ["modern abstractionism"],
+          "synonyms": ["abstract art"],
+          "antonyms": ["realism"],
+          "register": null,
+          "domain": ["art"]
+        }
+      ]
+    },
+    {
+      "term": "abstractionist",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an artist who creates abstract art",
+          "examples": ["She is a well-known abstractionist."],
+          "collocations": ["leading abstractionist"],
+          "synonyms": ["abstract artist"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["art"]
+        }
+      ]
+    },
+    {
+      "term": "abstractly",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way based on ideas rather than real things",
+          "examples": ["Think abstractly about the problem."],
+          "collocations": ["think abstractly"],
+          "synonyms": ["conceptually"],
+          "antonyms": ["concretely"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "abstractness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being abstract",
+          "examples": ["The abstractness of the idea confused students."],
+          "collocations": ["high abstractness"],
+          "synonyms": ["theoretical nature"],
+          "antonyms": ["concreteness"],
+          "register": null,
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "abstractor",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who prepares summaries or extracts information",
+          "examples": ["The abstractor summarized the report."],
+          "collocations": ["legal abstractor"],
+          "synonyms": ["summarizer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "law"]
+        }
+      ]
+    }
+  ]
+}
+```

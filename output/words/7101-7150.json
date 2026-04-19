@@ -1,0 +1,529 @@
+```json
+{
+  "items": [
+    {
+      "term": "aggrading",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "building up land by adding sediment",
+          "examples": ["The river is aggrading its banks.", "Sediments are aggrading the delta."],
+          "collocations": ["aggrading river", "aggrading process", "aggrading sediment", "aggrading channel"],
+          "synonyms": ["build up", "accumulate"],
+          "antonyms": ["erode"],
+          "register": "formal",
+          "domain": ["geography", "science"]
+        }
+      ]
+    },
+    {
+      "term": "aggrammatism",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a speech disorder where grammar is used incorrectly or omitted",
+          "examples": ["Aggrammatism affects sentence structure.", "Patients with aggrammatism speak in short phrases."],
+          "collocations": ["severe aggrammatism", "speech aggrammatism", "language disorder aggrammatism"],
+          "synonyms": ["agrammatism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandise",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make someone or something seem more important or powerful",
+          "examples": ["He tried to aggrandise his role in the project.", "The story aggrandises the hero."],
+          "collocations": ["aggrandise oneself", "aggrandise achievements", "aggrandise reputation"],
+          "synonyms": ["exaggerate", "inflate", "magnify"],
+          "antonyms": ["downplay", "diminish"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandised",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of aggrandise; made something seem more important",
+          "examples": ["He aggrandised his achievements.", "The media aggrandised the event."],
+          "collocations": ["aggrandised role", "aggrandised version", "self-aggrandised image"],
+          "synonyms": ["exaggerated", "inflated"],
+          "antonyms": ["reduced", "minimized"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandisement",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of increasing power, importance, or status",
+          "examples": ["The policy led to the aggrandisement of the state.", "Personal aggrandisement was his goal."],
+          "collocations": ["self-aggrandisement", "political aggrandisement", "territorial aggrandisement"],
+          "synonyms": ["enhancement", "expansion"],
+          "antonyms": ["reduction"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandisements",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of aggrandisement",
+          "examples": ["The empire pursued territorial aggrandisements."],
+          "collocations": ["territorial aggrandisements", "personal aggrandisements"],
+          "synonyms": ["expansions"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandiser",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who makes themselves or others seem more important",
+          "examples": ["He is known as a self-aggrandiser."],
+          "collocations": ["self-aggrandiser", "political aggrandiser"],
+          "synonyms": ["boaster"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandisers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of aggrandiser",
+          "examples": ["History remembers them as aggrandisers."],
+          "collocations": ["self-aggrandisers"],
+          "synonyms": ["boasters"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandises",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of aggrandise",
+          "examples": ["He aggrandises his achievements."],
+          "collocations": ["aggrandises himself", "aggrandises success"],
+          "synonyms": ["exaggerates"],
+          "antonyms": ["downplays"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandising",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of aggrandise",
+          "examples": ["She is aggrandising her role.", "Aggrandising oneself can seem arrogant."],
+          "collocations": ["self-aggrandising", "aggrandising behavior"],
+          "synonyms": ["inflating", "exaggerating"],
+          "antonyms": ["minimizing"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandizable",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be made more important or impressive",
+          "examples": ["His achievements are easily aggrandizable."],
+          "collocations": ["aggrandizable image"],
+          "synonyms": ["expandable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandize",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to increase power, importance, or reputation",
+          "examples": ["They aggrandize their influence.", "He aggrandized his story."],
+          "collocations": ["aggrandize oneself", "aggrandize power"],
+          "synonyms": ["inflate", "enhance"],
+          "antonyms": ["reduce", "diminish"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandized",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of aggrandize",
+          "examples": ["The leader aggrandized his authority."],
+          "collocations": ["aggrandized image"],
+          "synonyms": ["inflated"],
+          "antonyms": ["reduced"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandizement",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "increase in power or importance",
+          "examples": ["The policy led to aggrandizement of the nation."],
+          "collocations": ["self-aggrandizement"],
+          "synonyms": ["expansion"],
+          "antonyms": ["decline"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandizements",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of aggrandizement",
+          "examples": ["Their aggrandizements were controversial."],
+          "collocations": ["territorial aggrandizements"],
+          "synonyms": ["expansions"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandizer",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "someone who increases their own importance",
+          "examples": ["He is an aggrandizer of his own success."],
+          "collocations": ["self-aggrandizer"],
+          "synonyms": ["boaster"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandizers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of aggrandizer",
+          "examples": ["They are seen as aggrandizers."],
+          "collocations": ["political aggrandizers"],
+          "synonyms": ["boasters"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandizes",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of aggrandize",
+          "examples": ["She aggrandizes her achievements."],
+          "collocations": ["aggrandizes himself"],
+          "synonyms": ["inflates"],
+          "antonyms": ["downplays"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggrandizing",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of aggrandize",
+          "examples": ["Aggrandizing behavior is common in politics."],
+          "collocations": ["self-aggrandizing"],
+          "synonyms": ["exaggerating"],
+          "antonyms": ["minimizing"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggrate",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to please or satisfy (rare use)",
+          "examples": ["The gift aggrated him."],
+          "collocations": ["aggrate someone"],
+          "synonyms": ["please"],
+          "antonyms": ["displease"],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggravate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make a problem or situation worse",
+          "examples": ["Lack of sleep can aggravate stress.", "The delay aggravated the situation."],
+          "collocations": ["aggravate symptoms", "aggravate a problem", "aggravate pain"],
+          "synonyms": ["worsen", "intensify"],
+          "antonyms": ["improve", "ease"],
+          "register": null,
+          "domain": ["general", "medicine"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to annoy someone",
+          "examples": ["His behavior aggravates me.", "Stop aggravating your sister."],
+          "collocations": ["aggravate someone", "deeply aggravate"],
+          "synonyms": ["annoy", "irritate"],
+          "antonyms": ["please"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "aggravated",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "made worse or more serious",
+          "examples": ["He has an aggravated injury."],
+          "collocations": ["aggravated assault", "aggravated condition"],
+          "synonyms": ["worsened"],
+          "antonyms": ["improved"],
+          "register": null,
+          "domain": ["law", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "aggravating",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "causing annoyance or irritation",
+          "examples": ["That noise is aggravating.", "His tone was aggravating."],
+          "collocations": ["aggravating behavior", "aggravating noise"],
+          "synonyms": ["annoying", "irritating"],
+          "antonyms": ["pleasant"],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "aggravatingly",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that causes annoyance",
+          "examples": ["He spoke aggravatingly slowly."],
+          "collocations": ["aggravatingly slow"],
+          "synonyms": ["annoyingly"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "aggravation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a feeling of annoyance or a worsening of a situation",
+          "examples": ["Traffic caused great aggravation.", "This leads to aggravation of symptoms."],
+          "collocations": ["source of aggravation", "cause aggravation"],
+          "synonyms": ["annoyance", "irritation"],
+          "antonyms": ["relief"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggregable",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be grouped or collected together",
+          "examples": ["The data is aggregable."],
+          "collocations": ["aggregable data"],
+          "synonyms": ["collectable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "aggregate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a total formed by combining parts",
+          "examples": ["The aggregate of scores was high."],
+          "collocations": ["aggregate total", "in the aggregate"],
+          "synonyms": ["total", "sum"],
+          "antonyms": ["part"],
+          "register": null,
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to collect or combine into a whole",
+          "examples": ["They aggregate data from many sources."],
+          "collocations": ["aggregate data", "aggregate results"],
+          "synonyms": ["combine", "collect"],
+          "antonyms": ["separate"],
+          "register": null,
+          "domain": ["business", "technology"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "formed by combining several elements",
+          "examples": ["The aggregate score determines the winner."],
+          "collocations": ["aggregate score"],
+          "synonyms": ["combined"],
+          "antonyms": ["individual"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aggregation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of gathering things together",
+          "examples": ["Data aggregation helps analysis."],
+          "collocations": ["data aggregation", "aggregation process"],
+          "synonyms": ["collection", "combination"],
+          "antonyms": ["separation"],
+          "register": null,
+          "domain": ["technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "aggregator",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a tool or service that collects information from different sources",
+          "examples": ["The app is a news aggregator.", "Price aggregators compare products."],
+          "collocations": ["news aggregator", "data aggregator"],
+          "synonyms": ["collector"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    }
+  ]
+}
+```

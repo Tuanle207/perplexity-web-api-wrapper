@@ -1,0 +1,366 @@
+```json
+{
+  "items": [
+    {
+      "term": "accelerated",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "happening or moving faster than usual",
+          "examples": ["The course is accelerated to finish in three weeks.", "He is in an accelerated program at school."],
+          "collocations": ["accelerated growth", "accelerated course", "accelerated pace", "accelerated program"],
+          "synonyms": ["fast", "rapid", "quickened"],
+          "antonyms": ["slowed", "delayed"],
+          "register": null,
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "acceleratedly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a faster than normal way",
+          "examples": ["The process moved acceleratedly after approval."],
+          "collocations": ["move acceleratedly", "grow acceleratedly"],
+          "synonyms": ["rapidly", "quickly"],
+          "antonyms": ["slowly"],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "accelerates",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "increases speed or rate",
+          "examples": ["The car accelerates quickly.", "Technology accelerates change."],
+          "collocations": ["accelerates quickly", "accelerates growth", "accelerates development"],
+          "synonyms": ["speeds up", "quickens"],
+          "antonyms": ["slows", "decelerates"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "accelerating",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "becoming faster or increasing in speed",
+          "examples": ["The accelerating trend worries experts."],
+          "collocations": ["accelerating trend", "accelerating pace", "accelerating growth"],
+          "synonyms": ["speeding", "quickening"],
+          "antonyms": ["slowing"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acceleratingly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that becomes faster over time",
+          "examples": ["Costs are rising acceleratingly."],
+          "collocations": ["rise acceleratingly", "increase acceleratingly"],
+          "synonyms": ["increasingly rapidly"],
+          "antonyms": ["steadily"],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "acceleration",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the increase in speed or rate",
+          "examples": ["The car’s acceleration is impressive.", "There is acceleration in economic growth."],
+          "collocations": ["rapid acceleration", "rate of acceleration", "economic acceleration"],
+          "synonyms": ["speeding up", "increase"],
+          "antonyms": ["deceleration"],
+          "register": null,
+          "domain": ["general", "physics"]
+        }
+      ]
+    },
+    {
+      "term": "accelerations",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of acceleration; increases in speed or rate",
+          "examples": ["Sudden accelerations can be dangerous."],
+          "collocations": ["sudden accelerations", "multiple accelerations"],
+          "synonyms": ["increases"],
+          "antonyms": ["decelerations"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "accelerative",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "causing faster movement or growth",
+          "examples": ["The policy has an accelerative effect."],
+          "collocations": ["accelerative effect", "accelerative force"],
+          "synonyms": ["speeding", "stimulating"],
+          "antonyms": ["slowing"],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "accelerator",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device that increases speed, especially in a vehicle",
+          "examples": ["He pressed the accelerator.", "The program acts as a startup accelerator."],
+          "collocations": ["press the accelerator", "startup accelerator", "accelerator pedal"],
+          "synonyms": ["gas pedal", "catalyst"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "accelerators",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "devices or programs that increase speed or progress",
+          "examples": ["Business accelerators support startups."],
+          "collocations": ["business accelerators", "particle accelerators"],
+          "synonyms": ["boosters", "catalysts"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "acceleratory",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or causing acceleration",
+          "examples": ["Acceleratory forces act on the object."],
+          "collocations": ["acceleratory force"],
+          "synonyms": ["accelerative"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["physics"]
+        }
+      ]
+    },
+    {
+      "term": "accelerograph",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device that records acceleration, especially during earthquakes",
+          "examples": ["The accelerograph recorded ground motion."],
+          "collocations": ["install an accelerograph", "accelerograph data"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "accelerometer",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device that measures changes in speed or movement",
+          "examples": ["Smartphones use an accelerometer.", "The accelerometer detects motion."],
+          "collocations": ["built-in accelerometer", "accelerometer data"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "accelerometers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of accelerometer",
+          "examples": ["The system uses multiple accelerometers."],
+          "collocations": ["install accelerometers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "accent",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a way of pronouncing words typical of a place or group",
+          "examples": ["She has a strong French accent.", "His accent is easy to understand."],
+          "collocations": ["strong accent", "local accent", "foreign accent"],
+          "synonyms": ["pronunciation", "tone"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["language"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to emphasize something",
+          "examples": ["The design accents the main feature."],
+          "collocations": ["accent a point", "accent features"],
+          "synonyms": ["highlight", "emphasize"],
+          "antonyms": ["downplay"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "accented",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "spoken with a noticeable accent",
+          "examples": ["He speaks accented English."],
+          "collocations": ["heavily accented"],
+          "synonyms": ["non-native"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["language"]
+        }
+      ]
+    },
+    {
+      "term": "accentuate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something more noticeable",
+          "examples": ["The lighting accentuates her features."],
+          "collocations": ["accentuate differences", "accentuate features"],
+          "synonyms": ["highlight", "emphasize"],
+          "antonyms": ["hide", "reduce"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "accept",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to agree to take or receive something",
+          "examples": ["She accepted the gift.", "He accepted the job offer."],
+          "collocations": ["accept an offer", "accept responsibility", "accept a gift"],
+          "synonyms": ["receive", "agree"],
+          "antonyms": ["refuse", "reject"],
+          "register": null,
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to believe something is true",
+          "examples": ["I accept your explanation."],
+          "collocations": ["accept a fact", "accept the truth"],
+          "synonyms": ["believe", "acknowledge"],
+          "antonyms": ["deny"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acceptable",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "good enough or allowed",
+          "examples": ["This behavior is not acceptable.", "The quality is acceptable."],
+          "collocations": ["acceptable standard", "socially acceptable"],
+          "synonyms": ["satisfactory", "adequate"],
+          "antonyms": ["unacceptable"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acceptability",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being acceptable",
+          "examples": ["The acceptability of the plan is debated."],
+          "collocations": ["social acceptability", "level of acceptability"],
+          "synonyms": ["suitability"],
+          "antonyms": ["unacceptability"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}
+```

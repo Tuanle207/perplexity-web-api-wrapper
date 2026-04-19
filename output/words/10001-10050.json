@@ -1,0 +1,854 @@
+{
+  "items": [
+    {
+      "term": "allegatum",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "something that is alleged or stated without proof",
+          "examples": ["The claim was treated as an allegatum until evidence appeared."],
+          "collocations": ["legal allegatum", "mere allegatum", "unproven allegatum"],
+          "synonyms": ["claim", "assertion"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "allege",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to say something is true without giving proof",
+          "examples": ["They allege that the company broke the law.", "He alleged fraud in the election."],
+          "collocations": ["allege wrongdoing", "allege fraud", "allege abuse", "allege misconduct"],
+          "synonyms": ["claim", "assert", "state"],
+          "antonyms": ["deny", "disprove"],
+          "register": null,
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "allegeable",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be alleged or claimed",
+          "examples": ["Only certain facts are legally allegeable."],
+          "collocations": ["legally allegeable", "facts allegeable"],
+          "synonyms": ["claimable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "allegeance",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a misspelling or variant of allegiance",
+          "examples": ["He pledged allegeance to the crown."],
+          "collocations": ["pledge allegeance"],
+          "synonyms": ["loyalty"],
+          "antonyms": ["disloyalty"],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "allegeances",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of allegeance",
+          "examples": ["Their allegeances were divided."],
+          "collocations": ["divided allegeances"],
+          "synonyms": ["loyalties"],
+          "antonyms": ["betrayals"],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "alleged",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "said to be true but not yet proven",
+          "examples": ["The alleged thief was arrested.", "Police questioned the alleged suspect."],
+          "collocations": ["alleged crime", "alleged victim", "alleged incident"],
+          "synonyms": ["supposed", "claimed"],
+          "antonyms": ["proven", "confirmed"],
+          "register": null,
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "allegedly",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "according to what is said but not proven",
+          "examples": ["He allegedly stole the money.", "The plan was allegedly approved."],
+          "collocations": ["allegedly involved", "allegedly committed", "allegedly said"],
+          "synonyms": ["supposedly", "reportedly"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "allegement",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an assertion or claim made without proof",
+          "examples": ["The allegement lacked evidence."],
+          "collocations": ["false allegement", "legal allegement"],
+          "synonyms": ["allegation", "claim"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "alleger",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who makes an allegation",
+          "examples": ["The alleger must provide evidence."],
+          "collocations": ["original alleger", "main alleger"],
+          "synonyms": ["accuser", "claimant"],
+          "antonyms": ["defender"],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "allegers",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of alleger",
+          "examples": ["The allegers presented their statements."],
+          "collocations": ["multiple allegers"],
+          "synonyms": ["accusers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "alleges",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of allege",
+          "examples": ["She alleges misconduct.", "The report alleges corruption."],
+          "collocations": ["alleges wrongdoing", "alleges abuse"],
+          "synonyms": ["claims", "asserts"],
+          "antonyms": ["denies"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "allegge",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "misspelling of allege",
+          "examples": ["He tried to allegge a complaint."],
+          "collocations": ["incorrect allegge"],
+          "synonyms": ["allege"],
+          "antonyms": [],
+          "register": null,
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "allegged",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "misspelling of alleged",
+          "examples": ["The allegged suspect was released."],
+          "collocations": ["allegged case"],
+          "synonyms": ["alleged"],
+          "antonyms": [],
+          "register": null,
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "allegges",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "misspelling of alleges",
+          "examples": ["He allegges wrongdoing."],
+          "collocations": ["allegges claim"],
+          "synonyms": ["alleges"],
+          "antonyms": [],
+          "register": null,
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "allegging",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "misspelling of alleging",
+          "examples": ["She is allegging fraud."],
+          "collocations": ["allegging claim"],
+          "synonyms": ["alleging"],
+          "antonyms": [],
+          "register": null,
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "alleghenian",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the Allegheny region or mountains",
+          "examples": ["Alleghenian forests are rich in wildlife."],
+          "collocations": ["Alleghenian region", "Alleghenian plateau"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "allegheny",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a river and mountain range in the eastern United States",
+          "examples": ["The Allegheny River flows through Pennsylvania."],
+          "collocations": ["Allegheny Mountains", "Allegheny River"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "allegiance",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "loyalty or support for a person, group, or country",
+          "examples": ["He swore allegiance to the king.", "Her allegiance lies with the team."],
+          "collocations": ["pledge allegiance", "swear allegiance", "shift allegiance"],
+          "synonyms": ["loyalty", "devotion"],
+          "antonyms": ["disloyalty", "betrayal"],
+          "register": null,
+          "domain": ["general", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "allegiances",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of allegiance",
+          "examples": ["He has multiple allegiances."],
+          "collocations": ["conflicting allegiances"],
+          "synonyms": ["loyalties"],
+          "antonyms": ["betrayals"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "allegiancy",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an old or rare form of allegiance",
+          "examples": ["They declared allegiancy to the ruler."],
+          "collocations": ["declare allegiancy"],
+          "synonyms": ["loyalty"],
+          "antonyms": ["disloyalty"],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "allegiant",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "loyal or faithful to a leader or cause",
+          "examples": ["The soldiers remained allegiant."],
+          "collocations": ["remain allegiant", "allegiant supporter"],
+          "synonyms": ["loyal", "faithful"],
+          "antonyms": ["disloyal"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "allegiantly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a loyal or faithful way",
+          "examples": ["He served allegiantly."],
+          "collocations": ["serve allegiantly"],
+          "synonyms": ["loyally"],
+          "antonyms": ["disloyally"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "allegiants",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who are loyal to a cause or leader",
+          "examples": ["The leader gathered his allegiants."],
+          "collocations": ["faithful allegiants"],
+          "synonyms": ["followers", "supporters"],
+          "antonyms": ["opponents"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "allegiare",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "an archaic form related to allege",
+          "examples": ["They allegiare their rights."],
+          "collocations": ["allegiare claim"],
+          "synonyms": ["allege"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "alleging",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of allege",
+          "examples": ["She is alleging misconduct."],
+          "collocations": ["alleging fraud", "alleging abuse"],
+          "synonyms": ["claiming"],
+          "antonyms": ["denying"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "allegoric",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to allegory or symbolic storytelling",
+          "examples": ["The poem has an allegoric meaning."],
+          "collocations": ["allegoric meaning"],
+          "synonyms": ["symbolic"],
+          "antonyms": ["literal"],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorical",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "using symbols to represent deeper meanings",
+          "examples": ["The story is allegorical."],
+          "collocations": ["allegorical story", "allegorical meaning"],
+          "synonyms": ["symbolic", "figurative"],
+          "antonyms": ["literal"],
+          "register": null,
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorically",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a symbolic or allegorical way",
+          "examples": ["The tale is told allegorically."],
+          "collocations": ["interpret allegorically"],
+          "synonyms": ["symbolically"],
+          "antonyms": ["literally"],
+          "register": null,
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegoricalness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being allegorical",
+          "examples": ["The allegoricalness of the text is clear."],
+          "collocations": ["degree of allegoricalness"],
+          "synonyms": ["symbolism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegoricalnesses",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of allegoricalness",
+          "examples": ["Different allegoricalnesses appear in the work."],
+          "collocations": ["various allegoricalnesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegories",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "stories or works that use symbols to convey deeper meanings",
+          "examples": ["Many fables are allegories."],
+          "collocations": ["political allegories", "religious allegories"],
+          "synonyms": ["fables", "parables"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorisation",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of interpreting or creating allegory",
+          "examples": ["The allegorisation of myths is common."],
+          "collocations": ["literary allegorisation"],
+          "synonyms": ["symbolization"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorisations",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of allegorisation",
+          "examples": ["Various allegorisations exist."],
+          "collocations": ["different allegorisations"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorise",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to express ideas using allegory",
+          "examples": ["Writers allegorise moral lessons."],
+          "collocations": ["allegorise a story"],
+          "synonyms": ["symbolize"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorised",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of allegorise",
+          "examples": ["The author allegorised the events."],
+          "collocations": ["allegorised tale"],
+          "synonyms": ["symbolized"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegoriser",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who creates allegories",
+          "examples": ["He was known as a skilled allegoriser."],
+          "collocations": ["skilled allegoriser"],
+          "synonyms": ["symbolist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorisers",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of allegoriser",
+          "examples": ["Famous allegorisers shaped literature."],
+          "collocations": ["noted allegorisers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorises",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of allegorise",
+          "examples": ["She allegorises social issues."],
+          "collocations": ["allegorises themes"],
+          "synonyms": ["symbolizes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorising",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of allegorise",
+          "examples": ["He is allegorising history."],
+          "collocations": ["allegorising events"],
+          "synonyms": ["symbolizing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorism",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the use or interpretation of allegory",
+          "examples": ["The text invites allegorism."],
+          "collocations": ["biblical allegorism"],
+          "synonyms": ["symbolism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorist",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a writer or interpreter of allegories",
+          "examples": ["He was a famous allegorist."],
+          "collocations": ["medieval allegorist"],
+          "synonyms": ["symbolist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorister",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare term for allegorist",
+          "examples": ["The allegorister shaped symbolic narratives."],
+          "collocations": ["early allegorister"],
+          "synonyms": ["allegorist"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegoristic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or characteristic of allegory",
+          "examples": ["The style is highly allegoristic."],
+          "collocations": ["allegoristic style"],
+          "synonyms": ["symbolic"],
+          "antonyms": ["literal"],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorists",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of allegorist",
+          "examples": ["Allegorists often use symbolism."],
+          "collocations": ["famous allegorists"],
+          "synonyms": ["symbolists"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorization",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of turning something into allegory",
+          "examples": ["The allegorization of history is common."],
+          "collocations": ["literary allegorization"],
+          "synonyms": ["symbolization"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorizations",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of allegorization",
+          "examples": ["Different allegorizations appear."],
+          "collocations": ["multiple allegorizations"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorize",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to represent ideas through allegory",
+          "examples": ["Authors allegorize social issues."],
+          "collocations": ["allegorize themes"],
+          "synonyms": ["symbolize"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorized",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of allegorize",
+          "examples": ["He allegorized the story."],
+          "collocations": ["allegorized narrative"],
+          "synonyms": ["symbolized"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorizer",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who creates allegories",
+          "examples": ["She is an allegorizer."],
+          "collocations": ["skilled allegorizer"],
+          "synonyms": ["allegorist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "allegorizers",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of allegorizer",
+          "examples": ["Many allegorizers shaped literature."],
+          "collocations": ["famous allegorizers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    }
+  ]
+}

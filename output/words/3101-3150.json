@@ -1,0 +1,548 @@
+{
+  "items": [
+    {
+      "term": "acquereur",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who buys or obtains something, especially in legal or business contexts",
+          "examples": ["The acquereur signed the contract for the property."],
+          "collocations": ["property acquereur", "legal acquereur", "primary acquereur"],
+          "synonyms": ["buyer", "purchaser"],
+          "antonyms": ["seller"],
+          "register": "formal",
+          "domain": ["law", "business"]
+        }
+      ]
+    },
+    {
+      "term": "acquest",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "property or goods gained or acquired, especially after marriage",
+          "examples": ["The acquest was divided equally between spouses."],
+          "collocations": ["marital acquest", "shared acquest"],
+          "synonyms": ["gain", "property"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "acquests",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "properties or goods acquired, especially in marriage",
+          "examples": ["Their acquests included land and savings."],
+          "collocations": ["community acquests", "joint acquests"],
+          "synonyms": ["assets", "gains"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "acquiesce",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to accept something quietly without arguing, even if you disagree",
+          "examples": ["She acquiesced to the decision.", "He finally acquiesced after long debate."],
+          "collocations": ["acquiesce in", "acquiesce to demands", "reluctantly acquiesce"],
+          "synonyms": ["accept", "yield", "comply"],
+          "antonyms": ["resist", "refuse"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquiesced",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "accepted something quietly without protest (past form)",
+          "examples": ["They acquiesced to the rules."],
+          "collocations": ["acquiesced quietly", "acquiesced to authority"],
+          "synonyms": ["accepted", "yielded"],
+          "antonyms": ["resisted"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquiescement",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of accepting something quietly",
+          "examples": ["His acquiescement surprised everyone."],
+          "collocations": ["silent acquiescement"],
+          "synonyms": ["acceptance"],
+          "antonyms": ["resistance"],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquiescence",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "quiet acceptance of something without protest",
+          "examples": ["Her acquiescence was unexpected."],
+          "collocations": ["silent acquiescence", "acquiescence to authority"],
+          "synonyms": ["acceptance", "compliance"],
+          "antonyms": ["opposition", "resistance"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquiescences",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "instances of accepting something quietly",
+          "examples": ["Repeated acquiescences weakened his position."],
+          "collocations": ["multiple acquiescences"],
+          "synonyms": ["agreements"],
+          "antonyms": ["refusals"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquiescency",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a state of quiet acceptance",
+          "examples": ["His acquiescency was clear."],
+          "collocations": ["passive acquiescency"],
+          "synonyms": ["compliance"],
+          "antonyms": ["defiance"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquiescent",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "willing to accept something without protest",
+          "examples": ["She remained acquiescent."],
+          "collocations": ["acquiescent attitude", "politically acquiescent"],
+          "synonyms": ["compliant", "submissive"],
+          "antonyms": ["resistant"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquiescently",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows quiet acceptance",
+          "examples": ["He nodded acquiescently."],
+          "collocations": ["smile acquiescently"],
+          "synonyms": ["compliantly"],
+          "antonyms": ["defiantly"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquiescents",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who accept something without protest",
+          "examples": ["The acquiescents stayed silent."],
+          "collocations": ["group of acquiescents"],
+          "synonyms": ["followers"],
+          "antonyms": ["protesters"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquiescer",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who accepts something without protest",
+          "examples": ["He was an acquiescer rather than a challenger."],
+          "collocations": ["habitual acquiescer"],
+          "synonyms": ["complier"],
+          "antonyms": ["resister"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquiesces",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "accepts something quietly (present form)",
+          "examples": ["She acquiesces too easily."],
+          "collocations": ["acquiesces to pressure"],
+          "synonyms": ["accepts"],
+          "antonyms": ["refuses"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquiescing",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "accepting something quietly (continuous form)",
+          "examples": ["He is acquiescing to their demands."],
+          "collocations": ["acquiescing quietly"],
+          "synonyms": ["yielding"],
+          "antonyms": ["resisting"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquiescingly",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows acceptance without protest",
+          "examples": ["She agreed acquiescingly."],
+          "collocations": ["nod acquiescingly"],
+          "synonyms": ["obediently"],
+          "antonyms": ["reluctantly"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquiesence",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "misspelling of acquiescence",
+          "examples": ["This spelling is incorrect: acquiesence."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquiet",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to calm or settle (rare form)",
+          "examples": ["The noise began to acquiet."],
+          "collocations": ["acquiet fears"],
+          "synonyms": ["quiet", "calm"],
+          "antonyms": ["agitate"],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquight",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "an old form of acquit meaning to free from blame",
+          "examples": ["He was acquight of all charges."],
+          "collocations": ["acquight someone"],
+          "synonyms": ["acquit"],
+          "antonyms": ["convict"],
+          "register": "archaic",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "acquighting",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "freeing someone from blame (old continuous form)",
+          "examples": ["The court was acquighting him."],
+          "collocations": ["acquighting the accused"],
+          "synonyms": ["acquitting"],
+          "antonyms": ["convicting"],
+          "register": "archaic",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "acquights",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "frees from blame (old present form)",
+          "examples": ["The judge acquights him."],
+          "collocations": ["acquights the defendant"],
+          "synonyms": ["acquits"],
+          "antonyms": ["convicts"],
+          "register": "archaic",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "acquirabilities",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "qualities of being able to be obtained",
+          "examples": ["The acquirabilities of skills vary."],
+          "collocations": ["skill acquirabilities"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "acquirability",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the ability of something to be obtained",
+          "examples": ["Language acquirability differs among learners."],
+          "collocations": ["high acquirability"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "acquirable",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be obtained or learned",
+          "examples": ["These skills are easily acquirable."],
+          "collocations": ["acquirable skills"],
+          "synonyms": ["obtainable", "learnable"],
+          "antonyms": ["unattainable"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquire",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to get or gain something",
+          "examples": ["She acquired new skills.", "The company acquired a startup."],
+          "collocations": ["acquire knowledge", "acquire assets", "acquire skills"],
+          "synonyms": ["gain", "obtain", "get"],
+          "antonyms": ["lose", "give"],
+          "register": null,
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "acquired",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "gained or developed over time",
+          "examples": ["He has acquired taste for coffee."],
+          "collocations": ["acquired skill", "acquired taste"],
+          "synonyms": ["learned"],
+          "antonyms": ["innate"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquirer",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or company that buys or gains something",
+          "examples": ["The acquirer expanded rapidly."],
+          "collocations": ["corporate acquirer"],
+          "synonyms": ["buyer"],
+          "antonyms": ["seller"],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "acquisition",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of getting something",
+          "examples": ["Language acquisition takes time.", "The acquisition of the company was successful."],
+          "collocations": ["data acquisition", "company acquisition"],
+          "synonyms": ["purchase", "gain"],
+          "antonyms": ["loss"],
+          "register": null,
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "acquisitions",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "things that have been obtained",
+          "examples": ["The museum displayed new acquisitions."],
+          "collocations": ["recent acquisitions"],
+          "synonyms": ["gains"],
+          "antonyms": ["losses"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquisitive",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "eager to get and own things",
+          "examples": ["He is highly acquisitive."],
+          "collocations": ["acquisitive nature"],
+          "synonyms": ["greedy", "grasping"],
+          "antonyms": ["generous"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquisitively",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows desire to own things",
+          "examples": ["She looked acquisitively at the items."],
+          "collocations": ["stare acquisitively"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "acquisitiveness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a strong desire to own things",
+          "examples": ["His acquisitiveness caused problems."],
+          "collocations": ["human acquisitiveness"],
+          "synonyms": ["greed"],
+          "antonyms": ["generosity"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

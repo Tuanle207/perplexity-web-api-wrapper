@@ -1,0 +1,691 @@
+```json
+{
+  "items": [
+    {
+      "term": "anaqua",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "anarcestean",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "anarcestes",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "anarch",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who rebels against authority or supports no government",
+          "examples": ["The anarch called for the removal of all state power."],
+          "collocations": ["political anarch", "radical anarch", "self-declared anarch"],
+          "synonyms": ["rebel", "radical"],
+          "antonyms": ["loyalist", "conformist"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchal",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or characterized by absence of government",
+          "examples": ["The region was in an anarchal state after the collapse."],
+          "collocations": ["anarchal system", "anarchal society"],
+          "synonyms": ["lawless", "ungoverned"],
+          "antonyms": ["ordered", "regulated"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchial",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to anarchy or lack of order",
+          "examples": ["The city descended into anarchial chaos."],
+          "collocations": ["anarchial condition", "anarchial unrest"],
+          "synonyms": ["chaotic", "lawless"],
+          "antonyms": ["stable", "orderly"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "anarchic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without order or control; chaotic",
+          "examples": ["The protest became anarchic by nightfall."],
+          "collocations": ["anarchic situation", "anarchic behavior"],
+          "synonyms": ["chaotic", "disorderly"],
+          "antonyms": ["organized", "controlled"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "anarchical",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or resembling anarchy",
+          "examples": ["The country entered an anarchical phase."],
+          "collocations": ["anarchical state", "anarchical tendencies"],
+          "synonyms": ["lawless", "chaotic"],
+          "antonyms": ["orderly", "stable"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchically",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a chaotic or lawless way",
+          "examples": ["The system functioned anarchically after the collapse."],
+          "collocations": ["act anarchically", "behave anarchically"],
+          "synonyms": ["chaotically"],
+          "antonyms": ["orderly"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "anarchies",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of anarchy; situations without government or order",
+          "examples": ["The historian studied ancient anarchies."],
+          "collocations": ["periods of anarchies"],
+          "synonyms": ["chaos"],
+          "antonyms": ["order"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "anarchise",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to cause disorder or lack of control",
+          "examples": ["The rebellion threatened to anarchise the region."],
+          "collocations": ["anarchise society"],
+          "synonyms": ["destabilize", "disrupt"],
+          "antonyms": ["stabilize"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchised",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of anarchise",
+          "examples": ["The conflict anarchised the state."],
+          "collocations": ["anarchised region"],
+          "synonyms": ["destabilized"],
+          "antonyms": ["stabilized"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchises",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of anarchise",
+          "examples": ["War anarchises fragile societies."],
+          "collocations": ["anarchises systems"],
+          "synonyms": ["disrupts"],
+          "antonyms": ["organizes"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchising",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of anarchise",
+          "examples": ["They are anarchising the region."],
+          "collocations": ["anarchising forces"],
+          "synonyms": ["destabilizing"],
+          "antonyms": ["stabilizing"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchism",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a political belief that there should be no government",
+          "examples": ["He studied anarchism in university."],
+          "collocations": ["political anarchism", "radical anarchism"],
+          "synonyms": ["anti-authoritarianism"],
+          "antonyms": ["statism"],
+          "register": null,
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchisms",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "different forms or types of anarchism",
+          "examples": ["Various anarchisms developed over time."],
+          "collocations": ["schools of anarchisms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who supports anarchism",
+          "examples": ["The anarchist opposed all government control."],
+          "collocations": ["radical anarchist", "political anarchist"],
+          "synonyms": ["rebel"],
+          "antonyms": ["loyalist"],
+          "register": null,
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchistic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to anarchism or supporting no government",
+          "examples": ["He expressed anarchistic ideas."],
+          "collocations": ["anarchistic views"],
+          "synonyms": ["anti-government"],
+          "antonyms": ["pro-government"],
+          "register": null,
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchistically",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that reflects anarchism",
+          "examples": ["They organized anarchistically without leaders."],
+          "collocations": ["act anarchistically"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchists",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of anarchist",
+          "examples": ["The anarchists gathered for a meeting."],
+          "collocations": ["group of anarchists"],
+          "synonyms": ["rebels"],
+          "antonyms": ["loyalists"],
+          "register": null,
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchize",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to bring about disorder or absence of authority",
+          "examples": ["The crisis could anarchize the system."],
+          "collocations": ["anarchize society"],
+          "synonyms": ["destabilize"],
+          "antonyms": ["stabilize"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchized",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of anarchize",
+          "examples": ["The war anarchized the country."],
+          "collocations": ["anarchized region"],
+          "synonyms": ["destabilized"],
+          "antonyms": ["stabilized"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchizes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of anarchize",
+          "examples": ["Violence anarchizes communities."],
+          "collocations": ["anarchizes society"],
+          "synonyms": ["disrupts"],
+          "antonyms": ["organizes"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchizing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of anarchize",
+          "examples": ["They are anarchizing the system."],
+          "collocations": ["anarchizing forces"],
+          "synonyms": ["destabilizing"],
+          "antonyms": ["stabilizing"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarcho",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "prefix",
+          "definition": "relating to anarchism",
+          "examples": ["He identifies as anarcho-socialist."],
+          "collocations": ["anarcho movement"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchoindividualist",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who supports individualist anarchism",
+          "examples": ["The anarchoindividualist values personal freedom above all."],
+          "collocations": ["radical anarchoindividualist"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchosocialist",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who combines anarchism with socialism",
+          "examples": ["The anarchosocialist rejected both state and capitalism."],
+          "collocations": ["anarchosocialist theory"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchosyndicalism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a form of anarchism focused on labor unions controlling industry",
+          "examples": ["Anarchosyndicalism grew among workers."],
+          "collocations": ["anarchosyndicalism movement"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchosyndicalist",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a supporter of anarchosyndicalism",
+          "examples": ["The anarchosyndicalist organized workers."],
+          "collocations": ["anarchosyndicalist group"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchs",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of anarch",
+          "examples": ["The anarchs opposed the regime."],
+          "collocations": ["group of anarchs"],
+          "synonyms": ["rebels"],
+          "antonyms": ["loyalists"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "anarchy",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a situation with no government or control",
+          "examples": ["The country fell into anarchy."],
+          "collocations": ["state of anarchy", "political anarchy"],
+          "synonyms": ["chaos", "lawlessness"],
+          "antonyms": ["order", "stability"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "anarcotin",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "anareta",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "anaretic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "anaretical",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "anargyroi",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "anargyros",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "anarithia",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "anarithmia",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "anarthria",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "loss of the ability to speak due to brain damage",
+          "examples": ["The patient developed anarthria after the stroke."],
+          "collocations": ["severe anarthria"],
+          "synonyms": ["speech loss"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "anarthrias",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of anarthria",
+          "examples": ["Cases of anarthrias are rare."],
+          "collocations": ["types of anarthrias"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "anarthric",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or affected by inability to speak",
+          "examples": ["The patient was anarthric."],
+          "collocations": ["anarthric condition"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "anarthropod",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "anarthropoda",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "anarthropodous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "anarthrosis",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of joint that does not move",
+          "examples": ["The skull contains anarthrosis joints."],
+          "collocations": ["fibrous anarthrosis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "anarthrous",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "lacking an article like 'a' or 'the' in grammar",
+          "examples": ["Greek often uses anarthrous nouns."],
+          "collocations": ["anarthrous noun"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "anarthrously",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "without using an article",
+          "examples": ["The word is used anarthrously."],
+          "collocations": ["used anarthrously"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "anarthrousness",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of lacking articles in grammar",
+          "examples": ["Anarthrousness is common in some languages."],
+          "collocations": ["degree of anarthrousness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "anartismos",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    }
+  ]
+}
+```

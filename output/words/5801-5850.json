@@ -1,0 +1,558 @@
+```json
+{
+  "items": [
+    {
+      "term": "aerogenes",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of bacteria that produces gas, especially in fermentation",
+          "examples": ["Aerogenes bacteria are often found in soil.", "The sample contained aerogenes organisms."],
+          "collocations": ["aerogenes bacteria", "gas-producing aerogenes", "aerogenes strain"],
+          "synonyms": ["Enterobacter", "bacteria"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "aerogenesis",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the formation or production of gases",
+          "examples": ["Aerogenesis occurs during decomposition.", "The process of aerogenesis releases methane."],
+          "collocations": ["process of aerogenesis", "natural aerogenesis", "gas aerogenesis"],
+          "synonyms": ["gas formation", "gas production"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "aerogenic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "producing or related to the production of gas",
+          "examples": ["Aerogenic bacteria were detected.", "The reaction is aerogenic."],
+          "collocations": ["aerogenic bacteria", "aerogenic process", "aerogenic activity"],
+          "synonyms": ["gas-forming"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "aerogenically",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that produces or involves gas formation",
+          "examples": ["The substance behaves aerogenically.", "Gas is released aerogenically."],
+          "collocations": ["act aerogenically", "react aerogenically"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "aerogenous",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "producing or containing gas",
+          "examples": ["Aerogenous tissues release gases.", "The material is aerogenous."],
+          "collocations": ["aerogenous tissue", "aerogenous material"],
+          "synonyms": ["gas-producing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "aerogeography",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study of geographic features using aerial observation",
+          "examples": ["Aerogeography helps map remote regions.", "The project used aerogeography techniques."],
+          "collocations": ["study of aerogeography", "aerogeography survey"],
+          "synonyms": ["aerial geography"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "aerogeologist",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a scientist who studies geology using aerial methods",
+          "examples": ["The aerogeologist analyzed satellite images.", "An aerogeologist joined the survey team."],
+          "collocations": ["professional aerogeologist", "aerogeologist team"],
+          "synonyms": ["geologist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "aerogeology",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study of Earth's surface using aerial data such as photos or radar",
+          "examples": ["Aerogeology reveals hidden structures.", "They used aerogeology to map the desert."],
+          "collocations": ["aerogeology survey", "aerogeology data"],
+          "synonyms": ["remote geology"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "aerognosy",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study of the composition of the atmosphere",
+          "examples": ["Aerognosy focuses on air composition.", "The field of aerognosy overlaps with meteorology."],
+          "collocations": ["study of aerognosy"],
+          "synonyms": ["atmospheric science"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "aerogram",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a thin sheet of paper used to write and send letters by air mail",
+          "examples": ["She sent an aerogram overseas.", "Aerograms were popular before email."],
+          "collocations": ["send an aerogram", "write an aerogram", "airmail aerogram"],
+          "synonyms": ["air letter"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "aerogramme",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a British spelling of aerogram",
+          "examples": ["He mailed an aerogramme to London."],
+          "collocations": ["send an aerogramme"],
+          "synonyms": ["aerogram"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "aerogrammes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of aerogramme",
+          "examples": ["She collected old aerogrammes."],
+          "collocations": ["old aerogrammes"],
+          "synonyms": ["aerograms"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "aerograms",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of aerogram",
+          "examples": ["Aerograms are rarely used today."],
+          "collocations": ["send aerograms"],
+          "synonyms": ["air letters"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "aerograph",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device that sprays paint using air pressure",
+          "examples": ["He used an aerograph to paint the model.", "The artist prefers an aerograph."],
+          "collocations": ["use an aerograph", "aerograph painting"],
+          "synonyms": ["airbrush"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["art"]
+        }
+      ]
+    },
+    {
+      "term": "aerographer",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who uses or studies aerography",
+          "examples": ["The aerographer worked on detailed designs."],
+          "collocations": ["professional aerographer"],
+          "synonyms": ["artist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["art"]
+        }
+      ]
+    },
+    {
+      "term": "aerographic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to aerography or air-based drawing techniques",
+          "examples": ["Aerographic techniques are used in design."],
+          "collocations": ["aerographic art"],
+          "synonyms": ["airbrush"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["art"]
+        }
+      ]
+    },
+    {
+      "term": "aerographical",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "related to aerography or atmospheric description",
+          "examples": ["Aerographical data was collected."],
+          "collocations": ["aerographical study"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "aerographics",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the practice or study of drawing or imaging using air-based methods",
+          "examples": ["Aerographics is used in modern design."],
+          "collocations": ["study aerographics"],
+          "synonyms": ["airbrushing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["art"]
+        }
+      ]
+    },
+    {
+      "term": "aerographies",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of aerography",
+          "examples": ["Various aerographies were displayed."],
+          "collocations": ["different aerographies"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["art"]
+        }
+      ]
+    },
+    {
+      "term": "aerographs",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of aerograph",
+          "examples": ["The studio owns several aerographs."],
+          "collocations": ["use aerographs"],
+          "synonyms": ["airbrushes"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["art"]
+        }
+      ]
+    },
+    {
+      "term": "aerography",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the art of painting or drawing using an airbrush",
+          "examples": ["Aerography is common in illustration.", "He studied aerography."],
+          "collocations": ["study aerography", "aerography technique"],
+          "synonyms": ["airbrushing"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["art"]
+        }
+      ]
+    },
+    {
+      "term": "aerogun",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a gun that shoots pellets using compressed air",
+          "examples": ["He practiced with an aerogun.", "Aeroguns are used for target shooting."],
+          "collocations": ["use an aerogun", "aerogun shooting"],
+          "synonyms": ["air gun"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "aerohydrodynamic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the movement of air and water together",
+          "examples": ["Aerohydrodynamic forces affect ships and planes."],
+          "collocations": ["aerohydrodynamic design"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering"]
+        }
+      ]
+    },
+    {
+      "term": "aerohydropathy",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a therapy using air and water for health treatment",
+          "examples": ["Aerohydropathy was once popular."],
+          "collocations": ["practice aerohydropathy"],
+          "synonyms": ["hydrotherapy"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "aerohydroplane",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an aircraft designed to take off from and land on water",
+          "examples": ["The aerohydroplane landed on the lake."],
+          "collocations": ["fly an aerohydroplane"],
+          "synonyms": ["seaplane"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["transport"]
+        }
+      ]
+    },
+    {
+      "term": "aerohydroplanes",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of aerohydroplane",
+          "examples": ["Aerohydroplanes are used in coastal areas."],
+          "collocations": ["operate aerohydroplanes"],
+          "synonyms": ["seaplanes"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["transport"]
+        }
+      ]
+    },
+    {
+      "term": "aerohydrotherapy",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "treatment using both air and water for healing",
+          "examples": ["Aerohydrotherapy improves circulation."],
+          "collocations": ["use aerohydrotherapy"],
+          "synonyms": ["hydrotherapy"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "aerohydrous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "containing both air and water",
+          "examples": ["The substance is aerohydrous."],
+          "collocations": ["aerohydrous material"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "aeroides",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a genus of orchids known for growing in air rather than soil",
+          "examples": ["Aeroides plants are epiphytes."],
+          "collocations": ["aeroides orchid"],
+          "synonyms": ["orchid"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "aerolite",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a meteorite that falls to Earth",
+          "examples": ["An aerolite was discovered in the field."],
+          "collocations": ["find an aerolite"],
+          "synonyms": ["meteorite"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["astronomy"]
+        }
+      ]
+    },
+    {
+      "term": "aerolites",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of aerolite",
+          "examples": ["Several aerolites were collected."],
+          "collocations": ["study aerolites"],
+          "synonyms": ["meteorites"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["astronomy"]
+        }
+      ]
+    },
+    {
+      "term": "aerolith",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "another term for a meteorite",
+          "examples": ["The aerolith burned in the atmosphere."],
+          "collocations": ["falling aerolith"],
+          "synonyms": ["meteorite"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["astronomy"]
+        }
+      ]
+    },
+    {
+      "term": "aerolithologies",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of aerolithology",
+          "examples": ["Different aerolithologies were compared."],
+          "collocations": ["study aerolithologies"],
+         

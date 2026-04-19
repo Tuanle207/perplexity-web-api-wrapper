@@ -1,0 +1,854 @@
+{
+"items": [
+{
+"term": "amazed",
+"kind": "word",
+"cefrLevel": "A2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "feeling very surprised",
+"examples": ["I was amazed by the view.", "She looked amazed at the news."],
+"collocations": ["deeply amazed", "amazed expression", "amazed reaction", "amazed by", "amazed at"],
+"synonyms": ["astonished", "surprised", "stunned"],
+"antonyms": ["unsurprised", "indifferent"],
+"register": null,
+"domain": ["general", "everyday"]
+}
+]
+},
+{
+"term": "amazedly",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "adverb",
+"definition": "in a way that shows great surprise",
+"examples": ["He stared amazedly at the result."],
+"collocations": ["look amazedly", "stare amazedly", "gaze amazedly"],
+"synonyms": ["astonishedly", "surprisingly"],
+"antonyms": [],
+"register": "literary",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "amazedness",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "the state of being amazed",
+"examples": ["Her amazedness was obvious."],
+"collocations": ["feeling of amazedness"],
+"synonyms": ["astonishment", "amazement"],
+"antonyms": [],
+"register": "rare",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "amazednesses",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural form of amazedness",
+"examples": ["Different amazednesses were expressed."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "rare",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "amazeful",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "causing amazement",
+"examples": ["The amazeful sight shocked everyone."],
+"collocations": ["amazeful moment"],
+"synonyms": ["amazing"],
+"antonyms": [],
+"register": "archaic",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "amazement",
+"kind": "word",
+"cefrLevel": "B1",
+"senses": [
+{
+"pos": "noun",
+"definition": "a feeling of great surprise",
+"examples": ["She stared in amazement.", "To my amazement, he agreed."],
+"collocations": ["in amazement", "with amazement", "utter amazement"],
+"synonyms": ["astonishment", "wonder"],
+"antonyms": ["indifference"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "amazements",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural form of amazement",
+"examples": ["His amazements were clear."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "amazer",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a person or thing that amazes others",
+"examples": ["The magician was a true amazer."],
+"collocations": [],
+"synonyms": ["wonder", "marvel"],
+"antonyms": [],
+"register": "rare",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "amazers",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of amazer",
+"examples": ["They were real amazers."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "rare",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "amazes",
+"kind": "word",
+"cefrLevel": "A2",
+"senses": [
+{
+"pos": "verb",
+"definition": "makes someone feel very surprised",
+"examples": ["Her talent amazes me.", "It amazes them every time."],
+"collocations": ["amazes me", "amazes everyone", "amazes people"],
+"synonyms": ["astonishes", "stuns"],
+"antonyms": ["bores"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "amazia",
+"kind": "proper_noun",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a genus of plants",
+"examples": ["Amazia species grow in tropical areas."],
+"collocations": ["Amazia plant"],
+"synonyms": [],
+"antonyms": [],
+"register": "technical",
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "amazilia",
+"kind": "proper_noun",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a genus of hummingbirds",
+"examples": ["Amazilia birds are colorful."],
+"collocations": ["Amazilia hummingbird"],
+"synonyms": [],
+"antonyms": [],
+"register": "technical",
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "amazing",
+"kind": "word",
+"cefrLevel": "A1",
+"senses": [
+{
+"pos": "adjective",
+"definition": "very surprising or impressive",
+"examples": ["That movie was amazing.", "She did an amazing job."],
+"collocations": ["amazing experience", "amazing view", "amazing performance"],
+"synonyms": ["incredible", "fantastic", "wonderful"],
+"antonyms": ["terrible", "boring"],
+"register": null,
+"domain": ["general", "everyday"]
+}
+]
+},
+{
+"term": "amazingly",
+"kind": "word",
+"cefrLevel": "A2",
+"senses": [
+{
+"pos": "adverb",
+"definition": "in a way that is very surprising or impressive",
+"examples": ["She sings amazingly well."],
+"collocations": ["amazingly good", "amazingly fast"],
+"synonyms": ["incredibly", "surprisingly"],
+"antonyms": [],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "amazon",
+"kind": "word",
+"cefrLevel": "B1",
+"senses": [
+{
+"pos": "noun",
+"definition": "a very strong or tall woman",
+"examples": ["She was described as an amazon."],
+"collocations": ["female amazon"],
+"synonyms": ["warrior woman"],
+"antonyms": [],
+"register": "literary",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "amazona",
+"kind": "proper_noun",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a genus of parrots",
+"examples": ["Amazona parrots are common pets."],
+"collocations": ["Amazona parrot"],
+"synonyms": [],
+"antonyms": [],
+"register": "technical",
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "amazonian",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "related to the Amazon region",
+"examples": ["Amazonian rainforest is rich in wildlife."],
+"collocations": ["Amazonian forest", "Amazonian culture"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["geography"]
+}
+]
+},
+{
+"term": "amazonians",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "people from the Amazon region",
+"examples": ["Amazonians depend on the river."],
+"collocations": ["indigenous Amazonians"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["geography"]
+}
+]
+},
+{
+"term": "amazonism",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "behavior or qualities associated with Amazons",
+"examples": ["The story reflects amazonism."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "literary",
+"domain": ["literature"]
+}
+]
+},
+{
+"term": "amazonite",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a green mineral used as a gemstone",
+"examples": ["The ring features amazonite."],
+"collocations": ["amazonite stone"],
+"synonyms": [],
+"antonyms": [],
+"register": "technical",
+"domain": ["geology"]
+}
+]
+},
+{
+"term": "amazonites",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of amazonite",
+"examples": ["Amazonites are used in jewelry."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "technical",
+"domain": ["geology"]
+}
+]
+},
+{
+"term": "amazons",
+"kind": "word",
+"cefrLevel": "B1",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of amazon; strong or warrior-like women",
+"examples": ["The legend speaks of Amazons."],
+"collocations": ["mythical Amazons"],
+"synonyms": ["warrior women"],
+"antonyms": [],
+"register": "literary",
+"domain": ["history", "mythology"]
+}
+]
+},
+{
+"term": "amazonstone",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "another name for amazonite",
+"examples": ["Amazonstone is valued for its color."],
+"collocations": ["amazonstone jewelry"],
+"synonyms": ["amazonite"],
+"antonyms": [],
+"register": "technical",
+"domain": ["geology"]
+}
+]
+},
+{
+"term": "amazonstones",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of amazonstone",
+"examples": ["Amazonstones are polished for decoration."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "technical",
+"domain": ["geology"]
+}
+]
+},
+{
+"term": "amazulu",
+"kind": "proper_noun",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a Bantu language spoken in South Africa",
+"examples": ["Amazulu is related to Zulu."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "technical",
+"domain": ["linguistics"]
+}
+]
+},
+{
+"term": "amb",
+"kind": "abbreviation",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "short form for ambassador",
+"examples": ["The amb attended the meeting."],
+"collocations": ["US amb"],
+"synonyms": ["ambassador"],
+"antonyms": [],
+"register": "informal",
+"domain": ["government"]
+}
+]
+},
+{
+"term": "amba",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a title or term used in some cultures for a mother or goddess",
+"examples": ["She prayed to Amba."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "cultural",
+"domain": ["religion"]
+}
+]
+},
+{
+"term": "ambach",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a light wood from a tropical tree",
+"examples": ["Ambach is used for floats."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "technical",
+"domain": ["botany"]
+}
+]
+},
+{
+"term": "ambaches",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of ambach",
+"examples": ["Ambaches are harvested locally."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "technical",
+"domain": ["botany"]
+}
+]
+},
+{
+"term": "ambage",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "indirect or unclear speech",
+"examples": ["He spoke in ambage."],
+"collocations": ["use ambage"],
+"synonyms": ["circumlocution", "indirection"],
+"antonyms": ["clarity"],
+"register": "formal",
+"domain": ["language"]
+}
+]
+},
+{
+"term": "ambages",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "indirect expressions or roundabout speech",
+"examples": ["Avoid ambages in writing."],
+"collocations": ["speak in ambages"],
+"synonyms": ["circumlocutions"],
+"antonyms": ["directness"],
+"register": "formal",
+"domain": ["language"]
+}
+]
+},
+{
+"term": "ambagiosity",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the quality of being indirect in speech",
+"examples": ["His ambagiosity confused listeners."],
+"collocations": [],
+"synonyms": [],
+"antonyms": ["clarity"],
+"register": "rare",
+"domain": ["language"]
+}
+]
+},
+{
+"term": "ambagious",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "using indirect or roundabout language",
+"examples": ["Her ambagious reply avoided the issue."],
+"collocations": ["ambagious style"],
+"synonyms": ["indirect", "evasive"],
+"antonyms": ["direct"],
+"register": "formal",
+"domain": ["language"]
+}
+]
+},
+{
+"term": "ambagiously",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adverb",
+"definition": "in an indirect or roundabout way",
+"examples": ["He answered ambagiously."],
+"collocations": [],
+"synonyms": ["indirectly"],
+"antonyms": ["directly"],
+"register": "formal",
+"domain": ["language"]
+}
+]
+},
+{
+"term": "ambagiousness",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the quality of being indirect",
+"examples": ["Ambagiousness weakens arguments."],
+"collocations": [],
+"synonyms": ["indirectness"],
+"antonyms": ["directness"],
+"register": "formal",
+"domain": ["language"]
+}
+]
+},
+{
+"term": "ambagitory",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "characterized by indirectness",
+"examples": ["An ambagitory statement."],
+"collocations": [],
+"synonyms": ["evasive"],
+"antonyms": ["clear"],
+"register": "rare",
+"domain": ["language"]
+}
+]
+},
+{
+"term": "ambalam",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a public building or hall in South India",
+"examples": ["The meeting was held in the ambalam."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "cultural",
+"domain": ["architecture"]
+}
+]
+},
+{
+"term": "amban",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a historical Chinese official in Tibet",
+"examples": ["The amban governed the region."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "historical",
+"domain": ["history"]
+}
+]
+},
+{
+"term": "ambans",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of amban",
+"examples": ["Ambans were imperial representatives."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "historical",
+"domain": ["history"]
+}
+]
+},
+{
+"term": "ambar",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a form of amber or perfume substance",
+"examples": ["The scent included ambar."],
+"collocations": [],
+"synonyms": ["amber"],
+"antonyms": [],
+"register": "archaic",
+"domain": ["chemistry"]
+}
+]
+},
+{
+"term": "ambaree",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a seat placed on an elephant's back",
+"examples": ["The king rode in an ambaree."],
+"collocations": [],
+"synonyms": ["howdah"],
+"antonyms": [],
+"register": "historical",
+"domain": ["transport"]
+}
+]
+},
+{
+"term": "ambarella",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a tropical fruit tree and its fruit",
+"examples": ["Ambarella is popular in Southeast Asia."],
+"collocations": ["ambarella fruit"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["food", "botany"]
+}
+]
+},
+{
+"term": "ambari",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a type of plant fiber or plant",
+"examples": ["Ambari is used in textiles."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "technical",
+"domain": ["botany"]
+}
+]
+},
+{
+"term": "ambaries",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of ambary",
+"examples": ["Ambaries were used for storage."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "archaic",
+"domain": ["architecture"]
+}
+]
+},
+{
+"term": "ambaris",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of ambari",
+"examples": ["Ambaris grow in warm climates."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "technical",
+"domain": ["botany"]
+}
+]
+},
+{
+"term": "ambary",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a storage place for grain",
+"examples": ["The ambary was full after harvest."],
+"collocations": [],
+"synonyms": ["granary"],
+"antonyms": [],
+"register": "archaic",
+"domain": ["agriculture"]
+}
+]
+},
+{
+"term": "ambas",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of amba",
+"examples": ["Ambas are worshipped in some traditions."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "cultural",
+"domain": ["religion"]
+}
+]
+},
+{
+"term": "ambash",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "verb",
+"definition": "to ambush or attack suddenly",
+"examples": ["They planned to ambash the enemy."],
+"collocations": [],
+"synonyms": ["ambush"],
+"antonyms": [],
+"register": "archaic",
+"domain": ["military"]
+}
+]
+},
+{
+"term": "ambassade",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "an embassy or diplomatic mission",
+"examples": ["He visited the ambassade."],
+"collocations": [],
+"synonyms": ["embassy"],
+"antonyms": [],
+"register": "archaic",
+"domain": ["government"]
+}
+]
+},
+{
+"term": "ambassadeur",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "an ambassador",
+"examples": ["The ambassadeur arrived."],
+"collocations": [],
+"synonyms": ["ambassador"],
+"antonyms": [],
+"register": "archaic",
+"domain": ["government"]
+}
+]
+}
+]
+}

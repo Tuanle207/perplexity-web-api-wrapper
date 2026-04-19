@@ -1,0 +1,395 @@
+{
+  "items": [
+    {
+      "term": "advertisee",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or company that receives advertising attention",
+          "examples": ["The celebrity became the advertisee in the campaign."],
+          "collocations": ["target advertisee", "primary advertisee", "campaign advertisee"],
+          "synonyms": ["target", "recipient"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "marketing"]
+        }
+      ]
+    },
+    {
+      "term": "advertisement",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a notice or message that tells people about a product, service, or event",
+          "examples": ["I saw an advertisement for a new phone.", "The advertisement was on TV."],
+          "collocations": ["TV advertisement", "online advertisement", "place an advertisement", "advertisement campaign"],
+          "synonyms": ["ad", "commercial", "promotion"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "media"]
+        }
+      ]
+    },
+    {
+      "term": "advertisements",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of advertisement",
+          "examples": ["The magazine contains many advertisements."],
+          "collocations": ["print advertisements", "digital advertisements", "advertisements campaign"],
+          "synonyms": ["ads", "commercials"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["media"]
+        }
+      ]
+    },
+    {
+      "term": "advertiser",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or company that creates or pays for advertisements",
+          "examples": ["The advertiser targets young customers."],
+          "collocations": ["major advertiser", "online advertiser", "local advertiser"],
+          "synonyms": ["marketer", "promoter"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "marketing"]
+        }
+      ]
+    },
+    {
+      "term": "advertisers",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of advertiser",
+          "examples": ["Advertisers compete for attention."],
+          "collocations": ["global advertisers", "digital advertisers"],
+          "synonyms": ["marketers"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "advertises",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to tell people about something publicly to attract interest",
+          "examples": ["She advertises her products online."],
+          "collocations": ["advertises online", "advertises widely"],
+          "synonyms": ["promotes", "markets"],
+          "antonyms": ["conceals"],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "advertising",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the activity of creating and using advertisements",
+          "examples": ["Advertising is important for sales."],
+          "collocations": ["digital advertising", "advertising campaign", "advertising industry"],
+          "synonyms": ["promotion", "marketing"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "advertisings",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare plural form of advertising referring to different types",
+          "examples": ["Different advertisings were tested."],
+          "collocations": ["various advertisings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "advertizable",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be advertised",
+          "examples": ["The product is easily advertizable."],
+          "collocations": ["highly advertizable"],
+          "synonyms": ["marketable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "advertize",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "alternative spelling of advertise",
+          "examples": ["They advertize their services online."],
+          "collocations": ["advertize products"],
+          "synonyms": ["promote"],
+          "antonyms": [],
+          "register": "variant",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "advertorial",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a piece of writing that looks like an article but is actually an advertisement",
+          "examples": ["The magazine included an advertorial about travel."],
+          "collocations": ["paid advertorial", "online advertorial"],
+          "synonyms": ["sponsored content"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["media", "marketing"]
+        }
+      ]
+    },
+    {
+      "term": "advertorials",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of advertorial",
+          "examples": ["The website publishes advertorials."],
+          "collocations": ["digital advertorials"],
+          "synonyms": ["sponsored articles"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["media"]
+        }
+      ]
+    },
+    {
+      "term": "adverts",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal word for advertisements",
+          "examples": ["I skip adverts on TV."],
+          "collocations": ["TV adverts", "online adverts"],
+          "synonyms": ["ads"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["media"]
+        }
+      ]
+    },
+    {
+      "term": "advice",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an opinion or suggestion about what someone should do",
+          "examples": ["She gave me good advice.", "I need advice about my job."],
+          "collocations": ["give advice", "ask for advice", "helpful advice"],
+          "synonyms": ["guidance", "recommendation"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "advices",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "nonstandard plural of advice",
+          "examples": ["He gave many advices."],
+          "collocations": ["give advices"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "nonstandard",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "advisability",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being wise or suitable to do",
+          "examples": ["We discussed the advisability of the plan."],
+          "collocations": ["question the advisability"],
+          "synonyms": ["wisdom", "suitability"],
+          "antonyms": ["foolishness"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "advisable",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "wise or sensible to do",
+          "examples": ["It is advisable to save money."],
+          "collocations": ["highly advisable", "legally advisable"],
+          "synonyms": ["wise", "sensible"],
+          "antonyms": ["unwise"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "advisably",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is wise or sensible",
+          "examples": ["He acted advisably."],
+          "collocations": ["act advisably"],
+          "synonyms": ["wisely"],
+          "antonyms": ["foolishly"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "advise",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to tell someone what you think they should do",
+          "examples": ["I advise you to rest.", "She advised him carefully."],
+          "collocations": ["advise someone", "strongly advise", "advise against"],
+          "synonyms": ["recommend", "suggest"],
+          "antonyms": ["discourage"],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "advised",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having been told what to do",
+          "examples": ["He was advised to wait."],
+          "collocations": ["well advised", "legally advised"],
+          "synonyms": ["guided"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "adviser",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who gives advice professionally",
+          "examples": ["She works as a financial adviser."],
+          "collocations": ["financial adviser", "legal adviser"],
+          "synonyms": ["consultant", "counselor"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "advisers",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of adviser",
+          "examples": ["The president has several advisers."],
+          "collocations": ["senior advisers"],
+          "synonyms": ["consultants"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "advises",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of advise",
+          "examples": ["She advises her clients daily."],
+          "collocations": ["advises clients"],
+          "synonyms": ["recommends"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

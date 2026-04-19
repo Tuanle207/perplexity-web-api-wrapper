@@ -1,0 +1,7 @@
+from config import PERPLEXITY_COOKIES
+import perplexity
+
+
+client = perplexity.Client(PERPLEXITY_COOKIES)
+
+client.

@@ -1,0 +1,388 @@
+{
+  "items": [
+    {
+      "term": "accomplishes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "successfully completes something",
+          "examples": ["She accomplishes her tasks on time.", "He accomplishes his goals through hard work."],
+          "collocations": ["accomplishes goals", "accomplishes tasks", "accomplishes objectives", "accomplishes a mission"],
+          "synonyms": ["achieves", "completes", "fulfills"],
+          "antonyms": ["fails", "abandons"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "accomplishing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of successfully completing something",
+          "examples": ["She is accomplishing her goals.", "They are accomplishing a difficult task."],
+          "collocations": ["accomplishing goals", "accomplishing tasks", "accomplishing objectives"],
+          "synonyms": ["achieving", "completing"],
+          "antonyms": ["failing"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "accomplishment",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "something successfully achieved",
+          "examples": ["Graduating was a major accomplishment.", "This project is a great accomplishment."],
+          "collocations": ["major accomplishment", "great accomplishment", "sense of accomplishment"],
+          "synonyms": ["achievement", "success"],
+          "antonyms": ["failure"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "accomplishments",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "things that someone has successfully achieved",
+          "examples": ["Her accomplishments are impressive.", "He listed his accomplishments on his resume."],
+          "collocations": ["career accomplishments", "academic accomplishments", "list of accomplishments"],
+          "synonyms": ["achievements", "successes"],
+          "antonyms": ["failures"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "accomplisht",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "archaic spelling of accomplish",
+          "examples": ["He accomplisht the task long ago."],
+          "collocations": ["accomplisht task"],
+          "synonyms": ["accomplish"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "accompt",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "archaic spelling of account",
+          "examples": ["He gave an accompt of events."],
+          "collocations": ["give an accompt", "full accompt"],
+          "synonyms": ["account"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["historical"]
+        }
+      ]
+    },
+    {
+      "term": "accord",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "agreement between people or groups",
+          "examples": ["They signed a peace accord.", "The two sides reached an accord."],
+          "collocations": ["peace accord", "reach an accord", "trade accord"],
+          "synonyms": ["agreement", "treaty", "deal"],
+          "antonyms": ["disagreement", "conflict"],
+          "register": null,
+          "domain": ["general", "politics"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to give or grant something",
+          "examples": ["He was accorded great respect.", "The title was accorded to her."],
+          "collocations": ["accord respect", "accord recognition", "accord status"],
+          "synonyms": ["grant", "give", "bestow"],
+          "antonyms": ["deny", "refuse"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "accordance",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "agreement with a rule, idea, or law",
+          "examples": ["The work was done in accordance with the rules.", "Act in accordance with the law."],
+          "collocations": ["in accordance with", "strict accordance", "full accordance"],
+          "synonyms": ["compliance", "agreement"],
+          "antonyms": ["violation"],
+          "register": "formal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "according",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "as stated or reported by someone",
+          "examples": ["According to him, it's true.", "According to the report, sales increased."],
+          "collocations": ["according to", "according to data"],
+          "synonyms": ["as stated by"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "accordingly",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is suitable to the situation",
+          "examples": ["She adjusted her plans accordingly.", "Act accordingly."],
+          "collocations": ["act accordingly", "respond accordingly"],
+          "synonyms": ["therefore", "thus"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "accordion",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a musical instrument played by pressing keys and expanding bellows",
+          "examples": ["He plays the accordion.", "The accordion produces a rich sound."],
+          "collocations": ["play accordion", "accordion music"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "accordionist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who plays the accordion",
+          "examples": ["The accordionist performed beautifully."],
+          "collocations": ["professional accordionist", "talented accordionist"],
+          "synonyms": ["musician"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "accordionists",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who play the accordion",
+          "examples": ["Accordionists gathered for the festival."],
+          "collocations": ["group of accordionists"],
+          "synonyms": ["musicians"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "accordions",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of accordion",
+          "examples": ["Several accordions were on display."],
+          "collocations": ["play accordions"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "accords",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "agreements between people or groups",
+          "examples": ["The countries signed accords.", "Trade accords were discussed."],
+          "collocations": ["peace accords", "trade accords"],
+          "synonyms": ["agreements", "treaties"],
+          "antonyms": ["conflicts"],
+          "register": null,
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "accost",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to approach someone boldly and speak to them, often in an aggressive way",
+          "examples": ["He was accosted by a stranger.", "She accosted him on the street."],
+          "collocations": ["accost a stranger", "accost someone on the street"],
+          "synonyms": ["approach", "confront"],
+          "antonyms": ["avoid"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "accosted",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of accost",
+          "examples": ["He was accosted by a man."],
+          "collocations": ["was accosted"],
+          "synonyms": ["approached", "confronted"],
+          "antonyms": ["ignored"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "accosting",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of approaching someone boldly or aggressively",
+          "examples": ["He was accosting people for money."],
+          "collocations": ["accosting strangers"],
+          "synonyms": ["approaching", "confronting"],
+          "antonyms": ["avoiding"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "accosts",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of accost",
+          "examples": ["He accosts passersby."],
+          "collocations": ["accosts people"],
+          "synonyms": ["approaches"],
+          "antonyms": ["avoids"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "accouchement",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of giving birth",
+          "examples": ["The doctor assisted in the accouchement."],
+          "collocations": ["safe accouchement"],
+          "synonyms": ["childbirth", "delivery"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "accoucheur",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a male doctor who helps women give birth",
+          "examples": ["The accoucheur arrived quickly."],
+          "collocations": ["experienced accoucheur"],
+          "synonyms": ["obstetrician"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "accoucheuse",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a woman who helps in childbirth",
+          "examples": ["The accoucheuse assisted the delivery."],
+          "collocations": ["trained accoucheuse"],
+          "synonyms": ["midwife"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    }
+  ]
+}

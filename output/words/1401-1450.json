@@ -1,0 +1,281 @@
+```json
+{
+  "items": [
+    {
+      "term": "academia",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the world of universities, education, and research",
+          "examples": ["She plans to work in academia after finishing her PhD.", "Academia often values research over practical work."],
+          "collocations": ["work in academia", "academic career", "leave academia", "enter academia", "academia and industry"],
+          "synonyms": ["academic world", "higher education", "scholarly community"],
+          "antonyms": ["industry", "business world"],
+          "register": null,
+          "domain": ["education", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "academial",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to an academy or academic institutions",
+          "examples": ["The academial traditions were preserved.", "They discussed academial matters."],
+          "collocations": ["academial tradition", "academial system"],
+          "synonyms": ["academic"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "academian",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person involved in academic life",
+          "examples": ["He was known as a respected academian.", "The conference gathered leading academians."],
+          "collocations": ["leading academian", "respected academian"],
+          "synonyms": ["academic", "scholar"],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "academias",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of academia",
+          "examples": ["Different academias have different traditions."],
+          "collocations": ["global academias"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "academic",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "related to education, schools, or universities",
+          "examples": ["She has strong academic skills.", "The academic year starts in September."],
+          "collocations": ["academic performance", "academic year", "academic research", "academic success"],
+          "synonyms": ["educational", "scholarly"],
+          "antonyms": ["practical"],
+          "register": null,
+          "domain": ["education"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "based on theory rather than practical use",
+          "examples": ["The debate became purely academic.", "It's an academic question with no real impact."],
+          "collocations": ["academic question", "purely academic"],
+          "synonyms": ["theoretical", "abstract"],
+          "antonyms": ["practical"],
+          "register": null,
+          "domain": ["general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a person who teaches or does research at a university",
+          "examples": ["Academics attended the conference.", "She is a well-known academic."],
+          "collocations": ["university academic", "leading academic"],
+          "synonyms": ["scholar", "professor"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "academical",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to academic subjects or education",
+          "examples": ["He focused on academical studies.", "The academical approach was traditional."],
+          "collocations": ["academical study", "academical work"],
+          "synonyms": ["academic"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "academicalism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a focus on academic theory or style, often in an excessive way",
+          "examples": ["The work was criticized for academicalism.", "Too much academicalism can limit creativity."],
+          "collocations": ["excessive academicalism"],
+          "synonyms": ["formalism"],
+          "antonyms": ["practicality"],
+          "register": "rare",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "academically",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way related to education or study",
+          "examples": ["She performed well academically.", "The topic is discussed academically."],
+          "collocations": ["academically successful", "academically strong"],
+          "synonyms": ["educationally"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "academician",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of an official academic organization or academy",
+          "examples": ["He was elected as an academician.", "The academy includes many distinguished academicians."],
+          "collocations": ["distinguished academician", "elected academician"],
+          "synonyms": ["scholar"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "academicism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a style that follows traditional academic rules, especially in art or writing",
+          "examples": ["The painting shows strong academicism.", "He rejected academicism in favor of innovation."],
+          "collocations": ["artistic academicism", "strict academicism"],
+          "synonyms": ["traditionalism"],
+          "antonyms": ["innovation"],
+          "register": "formal",
+          "domain": ["art", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "academics",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "school subjects or activities related to studying",
+          "examples": ["He focuses more on sports than academics.", "Academics are important for future success."],
+          "collocations": ["strong academics", "focus on academics"],
+          "synonyms": ["studies", "schoolwork"],
+          "antonyms": ["sports"],
+          "register": null,
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "academy",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a school or organization for special training or study",
+          "examples": ["She attends a music academy.", "The police academy trains new officers."],
+          "collocations": ["military academy", "music academy", "academy training"],
+          "synonyms": ["school", "institution"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "acadia",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a historical region in eastern Canada",
+          "examples": ["Acadia has a rich cultural history.", "Many settlers lived in Acadia."],
+          "collocations": ["Acadia region", "Acadia history"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography", "history"]
+        }
+      ]
+    },
+    {
+      "term": "acadian",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person from the historical region of Acadia",
+          "examples": ["The Acadians have a unique culture."],
+          "collocations": ["Acadian culture", "Acadian people"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culture", "history"]
+        }
+      ]
+    },
+    {
+      "term": "acai",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small purple fruit from a tropical palm tree, often used in drinks or bowls",
+          "examples": ["She ordered an acai bowl.", "Acai is popular in smoothies."],
+          "collocations": ["acai bowl", "acai smoothie", "acai berries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food"]
+        }
+      ]
+    }
+  ]
+}
+```

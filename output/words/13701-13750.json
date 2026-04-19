@@ -1,0 +1,876 @@
+```json
+{
+  "items": [
+    {
+      "term": "analogue",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "something similar to another thing, used for comparison",
+          "examples": ["This device is the modern analogue of an old machine."],
+          "collocations": ["modern analogue", "digital analogue", "historical analogue"],
+          "synonyms": ["equivalent", "parallel"],
+          "antonyms": ["opposite"],
+          "register": null,
+          "domain": ["general", "technology"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to a system where information is shown as continuous signals",
+          "examples": ["The watch uses analogue technology."],
+          "collocations": ["analogue signal", "analogue clock"],
+          "synonyms": ["non-digital"],
+          "antonyms": ["digital"],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "analogues",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of analogue",
+          "examples": ["These tools are modern analogues of older designs."],
+          "collocations": ["direct analogues", "historical analogues"],
+          "synonyms": ["equivalents"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "analogy",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a comparison between things to explain an idea",
+          "examples": ["He used an analogy to explain the concept."],
+          "collocations": ["draw an analogy", "use an analogy"],
+          "synonyms": ["comparison", "parallel"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "analphabet",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who cannot read or write",
+          "examples": ["The program helps analphabets learn basic skills."],
+          "collocations": ["adult analphabet"],
+          "synonyms": ["illiterate"],
+          "antonyms": ["literate"],
+          "register": "formal",
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "analphabete",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "variant spelling of analphabet",
+          "examples": ["The term analphabete is rarely used."],
+          "collocations": [],
+          "synonyms": ["illiterate"],
+          "antonyms": ["literate"],
+          "register": "archaic",
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "analphabetes",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of analphabet",
+          "examples": ["Programs aim to reduce the number of analphabetes."],
+          "collocations": [],
+          "synonyms": ["illiterates"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "analphabetic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to inability to read or write",
+          "examples": ["He grew up in an analphabetic environment."],
+          "collocations": ["analphabetic population"],
+          "synonyms": ["illiterate"],
+          "antonyms": ["literate"],
+          "register": "formal",
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "analphabetical",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not arranged in alphabetical order",
+          "examples": ["The list is analphabetical."],
+          "collocations": [],
+          "synonyms": ["unordered"],
+          "antonyms": ["alphabetical"],
+          "register": "rare",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "analphabetics",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who cannot read or write",
+          "examples": ["Education programs support analphabetics."],
+          "collocations": [],
+          "synonyms": ["illiterates"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "analphabetism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the condition of being unable to read or write",
+          "examples": ["Analphabetism remains an issue in some regions."],
+          "collocations": ["combat analphabetism"],
+          "synonyms": ["illiteracy"],
+          "antonyms": ["literacy"],
+          "register": "formal",
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "analphabetisms",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of analphabetism",
+          "examples": ["Different analphabetisms affect communities."],
+          "collocations": [],
+          "synonyms": ["illiteracies"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "analphabets",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of analphabet",
+          "examples": ["Many analphabets benefit from literacy programs."],
+          "collocations": [],
+          "synonyms": ["illiterates"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "analysability",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being able to be analyzed",
+          "examples": ["The analysability of data is important."],
+          "collocations": ["data analysability"],
+          "synonyms": ["examinability"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analysable",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be examined in detail",
+          "examples": ["The results are analysable."],
+          "collocations": ["analysable data"],
+          "synonyms": ["examinable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analysand",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person undergoing psychoanalysis",
+          "examples": ["The analysand discussed dreams with the therapist."],
+          "collocations": ["patient analysand"],
+          "synonyms": ["patient"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "analysands",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of analysand",
+          "examples": ["Analysands meet regularly with therapists."],
+          "collocations": [],
+          "synonyms": ["patients"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "analysation",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of analyzing something",
+          "examples": ["The analysation of results took hours."],
+          "collocations": ["data analysation"],
+          "synonyms": ["analysis"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analysations",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of analysation",
+          "examples": ["Several analysations were conducted."],
+          "collocations": [],
+          "synonyms": ["analyses"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analyse",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to examine something carefully to understand it",
+          "examples": ["Scientists analyse the data."],
+          "collocations": ["analyse data", "analyse results"],
+          "synonyms": ["examine", "study"],
+          "antonyms": ["ignore"],
+          "register": null,
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analysed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of analyse",
+          "examples": ["They analysed the results."],
+          "collocations": ["carefully analysed"],
+          "synonyms": ["examined"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analyser",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or person that analyzes something",
+          "examples": ["The analyser measured air quality."],
+          "collocations": ["gas analyser"],
+          "synonyms": ["detector"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "analysers",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of analyser",
+          "examples": ["Several analysers were used."],
+          "collocations": [],
+          "synonyms": ["devices"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "analyses",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of analysis",
+          "examples": ["The analyses show clear trends."],
+          "collocations": ["data analyses"],
+          "synonyms": ["studies"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["academic"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person singular of analyse",
+          "examples": ["She analyses the samples."],
+          "collocations": [],
+          "synonyms": ["examines"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analysing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of analyse",
+          "examples": ["They are analysing the data."],
+          "collocations": ["analysing results"],
+          "synonyms": ["examining"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analysis",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a detailed examination of something",
+          "examples": ["The analysis took several days."],
+          "collocations": ["data analysis", "detailed analysis"],
+          "synonyms": ["examination", "study"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analyst",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who studies data or situations carefully",
+          "examples": ["The analyst reviewed the report."],
+          "collocations": ["data analyst", "financial analyst"],
+          "synonyms": ["examiner"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "analysts",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of analyst",
+          "examples": ["Analysts predict market changes."],
+          "collocations": [],
+          "synonyms": ["experts"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "analyt",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or incomplete form related to analysis",
+          "examples": ["The term analyt is rarely used."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "analyte",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance being measured in a chemical test",
+          "examples": ["The analyte concentration was recorded."],
+          "collocations": ["target analyte"],
+          "synonyms": ["substance"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "analytes",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of analyte",
+          "examples": ["Multiple analytes were detected."],
+          "collocations": [],
+          "synonyms": ["substances"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "analytic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to analysis or logical thinking",
+          "examples": ["She has an analytic mind."],
+          "collocations": ["analytic skills"],
+          "synonyms": ["logical"],
+          "antonyms": ["emotional"],
+          "register": null,
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analytical",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "using careful thought and reasoning",
+          "examples": ["He is very analytical."],
+          "collocations": ["analytical thinking"],
+          "synonyms": ["logical", "systematic"],
+          "antonyms": ["intuitive"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "analytically",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that uses careful analysis",
+          "examples": ["She approached the problem analytically."],
+          "collocations": ["think analytically"],
+          "synonyms": ["logically"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "analyticities",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of analyticity",
+          "examples": ["The analyticities of statements were discussed."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "analyticity",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being true by meaning alone",
+          "examples": ["Analyticity is discussed in philosophy."],
+          "collocations": ["logical analyticity"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "analytics",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the use of data analysis to gain insights",
+          "examples": ["Companies rely on analytics."],
+          "collocations": ["data analytics", "web analytics"],
+          "synonyms": ["data analysis"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "analytique",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "a rare or foreign form meaning analytical",
+          "examples": ["The term analytique appears in some texts."],
+          "collocations": [],
+          "synonyms": ["analytical"],
+          "antonyms": [],
+          "register": "foreign",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "analyzabilities",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of analyzability",
+          "examples": ["Different analyzabilities were compared."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analyzability",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the ability to be analyzed",
+          "examples": ["The analyzability of the data matters."],
+          "collocations": ["system analyzability"],
+          "synonyms": ["examinability"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analyzable",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be analyzed",
+          "examples": ["The sample is analyzable."],
+          "collocations": ["analyzable data"],
+          "synonyms": ["examinable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analyzation",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of analyzing something",
+          "examples": ["The analyzation took time."],
+          "collocations": ["data analyzation"],
+          "synonyms": ["analysis"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analyzations",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of analyzation",
+          "examples": ["Several analyzations were completed."],
+          "collocations": [],
+          "synonyms": ["analyses"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analyze",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to study something carefully to understand it",
+          "examples": ["They analyze market trends."],
+          "collocations": ["analyze data", "analyze results"],
+          "synonyms": ["examine", "study"],
+          "antonyms": ["ignore"],
+          "register": null,
+          "domain": ["academic", "business"]
+        }
+      ]
+    },
+    {
+      "term": "analyzed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of analyze",
+          "examples": ["She analyzed the report."],
+          "collocations": ["carefully analyzed"],
+          "synonyms": ["examined"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analyzer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a tool or person that analyzes",
+          "examples": ["The analyzer checks air quality."],
+          "collocations": ["gas analyzer"],
+          "synonyms": ["detector"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "analyzers",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of analyzer",
+          "examples": ["Multiple analyzers were installed."],
+          "collocations": [],
+          "synonyms": ["devices"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "analyzes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of analyze",
+          "examples": ["He analyzes the data."],
+          "collocations": [],
+          "synonyms": ["examines"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "analyzing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of analyze",
+          "examples": ["They are analyzing the situation."],
+          "collocations": ["analyzing data"],
+          "synonyms": ["examining"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "anam",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a historical name related to a region in Vietnam",
+          "examples": ["Anam appears in historical texts."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "historical",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "anama",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or unclear term with limited usage",
+          "examples": ["The meaning of anama is unclear."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "rare",
+          "domain": []
+        }
+      ]
+    }
+  ]
+}
+```

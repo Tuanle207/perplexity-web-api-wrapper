@@ -1,0 +1,722 @@
+{
+  "items": [
+    {
+      "term": "adjacences",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of adjacency; situations where things are next to each other",
+          "examples": ["The design considers adjacences between rooms."],
+          "collocations": ["spatial adjacences", "room adjacences", "urban adjacences"],
+          "synonyms": ["proximities", "nearness"],
+          "antonyms": ["distance", "separation"],
+          "register": "formal",
+          "domain": ["academic", "design"]
+        }
+      ]
+    },
+    {
+      "term": "adjacencies",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of adjacency; relationships of being next to something",
+          "examples": ["The map shows adjacencies between regions."],
+          "collocations": ["geographical adjacencies", "data adjacencies", "logical adjacencies"],
+          "synonyms": ["proximities", "connections"],
+          "antonyms": ["gaps", "separations"],
+          "register": null,
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "adjacency",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being next to or close to something",
+          "examples": ["The adjacency of the park adds value to the house."],
+          "collocations": ["adjacency list", "adjacency matrix", "close adjacency"],
+          "synonyms": ["nearness", "proximity"],
+          "antonyms": ["distance", "remoteness"],
+          "register": null,
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "adjacent",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "next to or very close to something",
+          "examples": ["The hotel is adjacent to the station.", "They live in adjacent houses."],
+          "collocations": ["adjacent building", "adjacent room", "adjacent area"],
+          "synonyms": ["nearby", "neighboring", "next-door"],
+          "antonyms": ["distant", "remote"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "adjacently",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is next to something",
+          "examples": ["The offices are adjacently located."],
+          "collocations": ["adjacently positioned", "adjacently placed"],
+          "synonyms": ["nearby", "closely"],
+          "antonyms": ["distantly"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "adjacents",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "things that are next to each other",
+          "examples": ["The adjacents must be considered in planning."],
+          "collocations": ["spatial adjacents", "building adjacents"],
+          "synonyms": ["neighbors", "nearby items"],
+          "antonyms": ["separated items"],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "adjag",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "adject",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to add or attach something",
+          "examples": ["The editor adjects notes to the text."],
+          "collocations": ["adject a clause", "adject information"],
+          "synonyms": ["add", "attach"],
+          "antonyms": ["remove"],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "adjection",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of adding something",
+          "examples": ["The adjection of comments improved clarity."],
+          "collocations": ["adjection of words", "grammatical adjection"],
+          "synonyms": ["addition", "insertion"],
+          "antonyms": ["removal"],
+          "register": "archaic",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "adjectional",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "adjectitious",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "added from outside; not natural",
+          "examples": ["The flavor is adjectitious rather than natural."],
+          "collocations": ["adjectitious quality", "adjectitious addition"],
+          "synonyms": ["artificial", "added"],
+          "antonyms": ["natural"],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "adjectival",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or functioning as an adjective",
+          "examples": ["This is an adjectival phrase."],
+          "collocations": ["adjectival clause", "adjectival phrase"],
+          "synonyms": ["descriptive"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["grammar"]
+        }
+      ]
+    },
+    {
+      "term": "adjectivally",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that relates to adjectives",
+          "examples": ["The word is used adjectivally."],
+          "collocations": ["used adjectivally"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["grammar"]
+        }
+      ]
+    },
+    {
+      "term": "adjective",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a word that describes a noun",
+          "examples": ["'Happy' is an adjective.", "She used many adjectives."],
+          "collocations": ["descriptive adjective", "comparative adjective"],
+          "synonyms": ["descriptor"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["grammar"]
+        }
+      ]
+    },
+    {
+      "term": "adjectively",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in the manner of an adjective",
+          "examples": ["The term is used adjectively."],
+          "collocations": ["function adjectively"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["grammar"]
+        }
+      ]
+    },
+    {
+      "term": "adjectives",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of adjective; words that describe nouns",
+          "examples": ["Adjectives make writing more vivid."],
+          "collocations": ["use adjectives", "list of adjectives"],
+          "synonyms": ["descriptive words"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["grammar"]
+        }
+      ]
+    },
+    {
+      "term": "adjectivism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "excessive use of adjectives",
+          "examples": ["The writing suffers from adjectivism."],
+          "collocations": ["avoid adjectivism"],
+          "synonyms": ["over-description"],
+          "antonyms": ["conciseness"],
+          "register": "formal",
+          "domain": ["writing"]
+        }
+      ]
+    },
+    {
+      "term": "adjectivitis",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "humorous term for overusing adjectives",
+          "examples": ["His essay shows adjectivitis."],
+          "collocations": ["severe adjectivitis"],
+          "synonyms": ["wordiness"],
+          "antonyms": ["brevity"],
+          "register": "informal",
+          "domain": ["writing"]
+        }
+      ]
+    },
+    {
+      "term": "adjiga",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "adjiger",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "adjigo",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "adjigos",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "adjoin",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to be next to or joined with something",
+          "examples": ["The garden adjoins the house."],
+          "collocations": ["adjoin a building", "adjoin land"],
+          "synonyms": ["border", "touch"],
+          "antonyms": ["separate"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "adjoinant",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": []
+    },
+    {
+      "term": "adjoined",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of adjoin",
+          "examples": ["The rooms were adjoined by a hallway."],
+          "collocations": ["adjoined rooms"],
+          "synonyms": ["connected"],
+          "antonyms": ["separated"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "adjoinedly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "adjoiner",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "something that adjoins another thing",
+          "examples": ["The adjoiner connects two sections."],
+          "collocations": ["structural adjoiner"],
+          "synonyms": ["connector"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technical"]
+        }
+      ]
+    },
+    {
+      "term": "adjoining",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "next to or connected with something",
+          "examples": ["We stayed in adjoining rooms."],
+          "collocations": ["adjoining land", "adjoining property"],
+          "synonyms": ["adjacent", "neighboring"],
+          "antonyms": ["separate"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "adjoiningness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "adjoins",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of adjoin",
+          "examples": ["The park adjoins the school."],
+          "collocations": ["adjoins property"],
+          "synonyms": ["borders"],
+          "antonyms": ["separates"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "adjoint",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "something added or attached, especially in math or science",
+          "examples": ["The adjoint of the matrix was calculated."],
+          "collocations": ["adjoint operator", "adjoint matrix"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["mathematics"]
+        }
+      ]
+    },
+    {
+      "term": "adjoints",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of adjoint",
+          "examples": ["The adjoints are used in the calculation."],
+          "collocations": ["matrix adjoints"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["mathematics"]
+        }
+      ]
+    },
+    {
+      "term": "adjourn",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to stop a meeting or event until a later time",
+          "examples": ["The judge adjourned the court.", "They adjourned for lunch."],
+          "collocations": ["adjourn a meeting", "adjourn court"],
+          "synonyms": ["pause", "suspend"],
+          "antonyms": ["continue"],
+          "register": null,
+          "domain": ["law", "business"]
+        }
+      ]
+    },
+    {
+      "term": "adjournal",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "adjourned",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of adjourn",
+          "examples": ["The meeting was adjourned early."],
+          "collocations": ["adjourned session"],
+          "synonyms": ["paused"],
+          "antonyms": ["continued"],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "adjourning",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of adjourn",
+          "examples": ["They are adjourning the session."],
+          "collocations": ["adjourning proceedings"],
+          "synonyms": ["pausing"],
+          "antonyms": ["continuing"],
+          "register": null,
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "adjournment",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a temporary stop of a meeting or court session",
+          "examples": ["The adjournment lasted two hours."],
+          "collocations": ["court adjournment", "temporary adjournment"],
+          "synonyms": ["pause", "break"],
+          "antonyms": ["continuation"],
+          "register": null,
+          "domain": ["law", "business"]
+        }
+      ]
+    },
+    {
+      "term": "adjournments",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of adjournment",
+          "examples": ["Multiple adjournments delayed the case."],
+          "collocations": ["frequent adjournments"],
+          "synonyms": ["delays"],
+          "antonyms": ["continuations"],
+          "register": null,
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "adjourns",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of adjourn",
+          "examples": ["The court adjourns at noon."],
+          "collocations": ["adjourns session"],
+          "synonyms": ["pauses"],
+          "antonyms": ["continues"],
+          "register": null,
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "adjoust",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "adjt",
+      "kind": "abbreviation",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "short form of adjutant (a military officer)",
+          "examples": ["He served as adjt in the unit."],
+          "collocations": ["unit adjt"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "adjudge",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make an official decision about something",
+          "examples": ["The court adjudged him guilty."],
+          "collocations": ["adjudge a case", "adjudge guilty"],
+          "synonyms": ["decide", "rule"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "adjudgeable",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "adjudged",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of adjudge",
+          "examples": ["He was adjudged responsible."],
+          "collocations": ["adjudged guilty"],
+          "synonyms": ["ruled"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "adjudgement",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an official decision made by a court",
+          "examples": ["The adjudgement was final."],
+          "collocations": ["court adjudgement"],
+          "synonyms": ["judgment", "ruling"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "adjudgements",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of adjudgement",
+          "examples": ["Several adjudgements were issued."],
+          "collocations": ["legal adjudgements"],
+          "synonyms": ["rulings"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "adjudger",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who makes a formal judgment",
+          "examples": ["The adjudger reviewed the evidence."],
+          "collocations": ["official adjudger"],
+          "synonyms": ["judge"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "adjudges",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of adjudge",
+          "examples": ["The court adjudges fairly."],
+          "collocations": ["adjudges cases"],
+          "synonyms": ["decides"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "adjudging",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of adjudge",
+          "examples": ["The panel is adjudging entries."],
+          "collocations": ["adjudging competition"],
+          "synonyms": ["judging"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "adjudgment",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an official legal decision",
+          "examples": ["The adjudgment resolved the dispute."],
+          "collocations": ["final adjudgment"],
+          "synonyms": ["judgment", "decision"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    }
+  ]
+}

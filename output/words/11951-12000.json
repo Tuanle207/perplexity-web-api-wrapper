@@ -1,0 +1,346 @@
+```json
+{
+  "items": [
+    {
+      "term": "amenableness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being pleasant, friendly, and willing to agree",
+          "examples": ["Her amenableness made her easy to work with.", "He is known for his amenableness in meetings."],
+          "collocations": ["personal amenableness", "natural amenableness", "display amenableness", "sense of amenableness"],
+          "synonyms": ["agreeableness", "friendliness", "pleasantness"],
+          "antonyms": ["hostility", "unfriendliness"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "amenablenesses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of amenableness",
+          "examples": ["Different amenablenesses were observed among the group."],
+          "collocations": ["various amenablenesses"],
+          "synonyms": ["agreeablenesses"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "amenably",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a pleasant and cooperative way",
+          "examples": ["They settled the dispute amenably.", "She responded amenably to the suggestion."],
+          "collocations": ["behave amenably", "respond amenably", "settle amenably"],
+          "synonyms": ["agreeably", "pleasantly"],
+          "antonyms": ["hostilely"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "amenage",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to manage or handle carefully (archaic or rare)",
+          "examples": ["He amenaged the situation with care."],
+          "collocations": ["amenage resources", "amenage affairs"],
+          "synonyms": ["manage", "handle"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "amenaged",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of amenage",
+          "examples": ["She amenaged the task effectively."],
+          "collocations": ["amenaged carefully"],
+          "synonyms": ["managed"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "amenages",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of amenage",
+          "examples": ["He amenages the estate."],
+          "collocations": ["amenages property"],
+          "synonyms": ["manages"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "amenaging",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of amenage",
+          "examples": ["She is amenaging the project."],
+          "collocations": ["amenaging duties"],
+          "synonyms": ["managing"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "amenance",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "pleasantness or agreeableness (rare)",
+          "examples": ["The amenance of the setting impressed guests."],
+          "collocations": ["natural amenance"],
+          "synonyms": ["pleasantness"],
+          "antonyms": ["harshness"],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "amend",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to change something slightly to improve it or correct it",
+          "examples": ["They amended the law.", "Please amend the document before sending."],
+          "collocations": ["amend a law", "amend a document", "amend a proposal"],
+          "synonyms": ["revise", "modify", "correct"],
+          "antonyms": ["keep", "maintain"],
+          "register": null,
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "amendable",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be changed or improved",
+          "examples": ["The contract is amendable.", "Errors are amendable."],
+          "collocations": ["amendable law", "amendable rules"],
+          "synonyms": ["changeable", "modifiable"],
+          "antonyms": ["fixed", "unchangeable"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "amendment",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small change made to improve something",
+          "examples": ["They proposed an amendment.", "The amendment was approved."],
+          "collocations": ["make an amendment", "constitutional amendment", "propose amendment"],
+          "synonyms": ["revision", "modification"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "amends",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "something done to correct a mistake or make up for harm",
+          "examples": ["He made amends for his mistake.", "She tried to make amends."],
+          "collocations": ["make amends", "offer amends"],
+          "synonyms": ["compensation", "reparation"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "amenity",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a feature or service that makes a place comfortable or enjoyable",
+          "examples": ["The hotel has many amenities.", "Parks are important city amenities."],
+          "collocations": ["local amenities", "modern amenities", "public amenities"],
+          "synonyms": ["facility", "feature"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "amenities",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of amenity",
+          "examples": ["The building offers many amenities."],
+          "collocations": ["hotel amenities", "basic amenities"],
+          "synonyms": ["facilities"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "amenorrhea",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the medical condition of not having menstrual periods",
+          "examples": ["Amenorrhea can have many causes.", "She was diagnosed with amenorrhea."],
+          "collocations": ["primary amenorrhea", "secondary amenorrhea"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "amenorrheic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or affected by amenorrhea",
+          "examples": ["Amenorrheic patients require evaluation."],
+          "collocations": ["amenorrheic condition"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "amens",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of amen (expressions of agreement or prayer ending)",
+          "examples": ["The congregation said their amens."],
+          "collocations": ["say amens"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "ament",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of flower cluster shaped like a hanging spike",
+          "examples": ["The tree produces aments in spring."],
+          "collocations": ["willow ament"],
+          "synonyms": ["catkin"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "amenta",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of ament",
+          "examples": ["The branches were covered with amenta."],
+          "collocations": ["flowering amenta"],
+          "synonyms": ["catkins"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "amentia",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a severe mental condition involving confusion and lack of awareness",
+          "examples": ["The patient showed signs of amentia."],
+          "collocations": ["acute amentia"],
+          "synonyms": ["confusion", "delirium"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    }
+  ]
+}
+```

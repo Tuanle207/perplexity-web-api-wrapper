@@ -1,0 +1,854 @@
+{
+"items": [
+{
+"term": "agroan",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a sound made by animals, especially cattle",
+"examples": ["The agroan echoed across the field."],
+"collocations": ["deep agroan", "low agroan", "animal agroan"],
+"synonyms": ["groan", "lowing"],
+"antonyms": [],
+"register": "archaic",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "agrobacterium",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a type of bacteria that can transfer DNA to plants",
+"examples": ["Scientists used agrobacterium in genetic engineering."],
+"collocations": ["agrobacterium strain", "agrobacterium-mediated transfer"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "agrobiologic",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "related to the biology of agriculture",
+"examples": ["They studied agrobiologic processes in soil."],
+"collocations": ["agrobiologic research", "agrobiologic system"],
+"synonyms": ["agricultural-biological"],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrobiological",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "connected to the biological aspects of farming",
+"examples": ["Agrobiological methods improve crop yield."],
+"collocations": ["agrobiological study", "agrobiological factors"],
+"synonyms": ["agrobiologic"],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrobiologically",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adverb",
+"definition": "in a way related to agricultural biology",
+"examples": ["The crops were analyzed agrobiologically."],
+"collocations": ["study agrobiologically"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrobiologies",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of agrobiology",
+"examples": ["Different agrobiologies are studied worldwide."],
+"collocations": ["various agrobiologies"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrobiologist",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a scientist who studies the biology of agriculture",
+"examples": ["The agrobiologist researched soil organisms."],
+"collocations": ["professional agrobiologist"],
+"synonyms": ["agricultural biologist"],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrobiologists",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of agrobiologist",
+"examples": ["Agrobiologists work on crop health."],
+"collocations": ["team of agrobiologists"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrobiology",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the study of biological processes in agriculture",
+"examples": ["Agrobiology helps improve farming methods."],
+"collocations": ["study agrobiology", "agrobiology field"],
+"synonyms": ["agricultural biology"],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrobusiness",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "business related to farming and food production",
+"examples": ["He works in agrobusiness."],
+"collocations": ["large agrobusiness", "agrobusiness sector"],
+"synonyms": ["agribusiness"],
+"antonyms": [],
+"register": null,
+"domain": ["business"]
+}
+]
+},
+{
+"term": "agrobusinesses",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of agrobusiness",
+"examples": ["Many agrobusinesses export crops."],
+"collocations": ["global agrobusinesses"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["business"]
+}
+]
+},
+{
+"term": "agrochemical",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a chemical used in farming, such as fertilizer or pesticide",
+"examples": ["Farmers use agrochemicals to protect crops."],
+"collocations": ["use agrochemicals", "harmful agrochemical"],
+"synonyms": ["farm chemical"],
+"antonyms": [],
+"register": null,
+"domain": ["agriculture"]
+}
+]
+},
+{
+"term": "agrochemicals",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of agrochemical",
+"examples": ["Agrochemicals can affect the environment."],
+"collocations": ["reduce agrochemicals"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["agriculture"]
+}
+]
+},
+{
+"term": "agrodolce",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "having a sweet and sour taste",
+"examples": ["The sauce had an agrodolce flavor."],
+"collocations": ["agrodolce sauce"],
+"synonyms": ["sweet-and-sour"],
+"antonyms": [],
+"register": "formal",
+"domain": ["food"]
+}
+]
+},
+{
+"term": "agrodolces",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of agrodolce dishes",
+"examples": ["Italian agrodolces are popular."],
+"collocations": ["serve agrodolces"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["food"]
+}
+]
+},
+{
+"term": "agroecological",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "relating to ecological principles in agriculture",
+"examples": ["Agroecological farming protects biodiversity."],
+"collocations": ["agroecological approach"],
+"synonyms": ["ecological farming"],
+"antonyms": [],
+"register": null,
+"domain": ["environment"]
+}
+]
+},
+{
+"term": "agroecologies",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of agroecology systems",
+"examples": ["Different agroecologies exist worldwide."],
+"collocations": ["local agroecologies"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["environment"]
+}
+]
+},
+{
+"term": "agroecology",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the study of ecological processes in agriculture",
+"examples": ["Agroecology promotes sustainable farming."],
+"collocations": ["study agroecology"],
+"synonyms": ["ecological agriculture"],
+"antonyms": [],
+"register": null,
+"domain": ["environment"]
+}
+]
+},
+{
+"term": "agroforester",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a person who practices agroforestry",
+"examples": ["The agroforester planted trees with crops."],
+"collocations": ["trained agroforester"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["agriculture"]
+}
+]
+},
+{
+"term": "agroforesters",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of agroforester",
+"examples": ["Agroforesters manage land sustainably."],
+"collocations": ["team of agroforesters"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["agriculture"]
+}
+]
+},
+{
+"term": "agroforestries",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of agroforestry systems",
+"examples": ["Different agroforestries improve soil health."],
+"collocations": ["various agroforestries"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["agriculture"]
+}
+]
+},
+{
+"term": "agroforestry",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a farming method combining trees and crops",
+"examples": ["Agroforestry helps prevent erosion."],
+"collocations": ["practice agroforestry"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["agriculture"]
+}
+]
+},
+{
+"term": "agrogeological",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "relating to geology in agriculture",
+"examples": ["Agrogeological surveys assess soil."],
+"collocations": ["agrogeological study"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrogeologically",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adverb",
+"definition": "in a way related to agricultural geology",
+"examples": ["The land was analyzed agrogeologically."],
+"collocations": ["analyze agrogeologically"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrogeology",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the study of soil and geological factors in farming",
+"examples": ["Agrogeology supports crop planning."],
+"collocations": ["study agrogeology"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agroindustrial",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "adjective",
+"definition": "related to industry based on agricultural products",
+"examples": ["Agroindustrial companies process crops."],
+"collocations": ["agroindustrial sector"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["business"]
+}
+]
+},
+{
+"term": "agroindustries",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "industries that process agricultural products",
+"examples": ["Agroindustries drive rural economies."],
+"collocations": ["growing agroindustries"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["business"]
+}
+]
+},
+{
+"term": "agroindustry",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "an industry based on farming products",
+"examples": ["The agroindustry is expanding rapidly."],
+"collocations": ["modern agroindustry"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["business"]
+}
+]
+},
+{
+"term": "agrologic",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "relating to the science of soil and agriculture",
+"examples": ["Agrologic data was collected."],
+"collocations": ["agrologic analysis"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrological",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "connected with agrology",
+"examples": ["Agrological surveys help farmers."],
+"collocations": ["agrological study"],
+"synonyms": ["agrologic"],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrologically",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adverb",
+"definition": "in terms of agrology",
+"examples": ["The soil was studied agrologically."],
+"collocations": ["analyze agrologically"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrologies",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of agrology",
+"examples": ["Various agrologies are compared."],
+"collocations": ["different agrologies"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrologist",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a scientist who studies soils and agriculture",
+"examples": ["The agrologist tested soil quality."],
+"collocations": ["professional agrologist"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrologists",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of agrologist",
+"examples": ["Agrologists advise farmers."],
+"collocations": ["team of agrologists"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrology",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the study of soils in relation to agriculture",
+"examples": ["Agrology improves land use."],
+"collocations": ["study agrology"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "agrom",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a rare or unclear term with no widely accepted meaning",
+"examples": ["The term agrom is rarely used."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "archaic",
+"domain": []
+}
+]
+},
+{
+"term": "agromania",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "an extreme enthusiasm for agriculture",
+"examples": ["His agromania led him to buy farmland."],
+"collocations": ["develop agromania"],
+"synonyms": ["obsession"],
+"antonyms": [],
+"register": "rare",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "agromyza",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a genus of small flies that feed on plants",
+"examples": ["Agromyza species damage crops."],
+"collocations": ["agromyza species"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "agromyzid",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a fly belonging to the Agromyzidae family",
+"examples": ["The agromyzid larvae feed on leaves."],
+"collocations": ["agromyzid fly"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "agromyzidae",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a family of small plant-feeding flies",
+"examples": ["Agromyzidae includes many pests."],
+"collocations": ["family Agromyzidae"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "agron",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a unit of land measurement in ancient Greece",
+"examples": ["The agron was used historically."],
+"collocations": ["measure agron"],
+"synonyms": [],
+"antonyms": [],
+"register": "archaic",
+"domain": ["history"]
+}
+]
+},
+{
+"term": "agronome",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a specialist in agronomy",
+"examples": ["The agronome advised on crops."],
+"collocations": ["trained agronome"],
+"synonyms": ["agronomist"],
+"antonyms": [],
+"register": "formal",
+"domain": ["agriculture"]
+}
+]
+},
+{
+"term": "agronomial",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "relating to agronomy",
+"examples": ["Agronomial practices improve yields."],
+"collocations": ["agronomial methods"],
+"synonyms": ["agronomic"],
+"antonyms": [],
+"register": null,
+"domain": ["agriculture"]
+}
+]
+},
+{
+"term": "agronomic",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "adjective",
+"definition": "related to the science of soil and crop production",
+"examples": ["Agronomic techniques boost productivity."],
+"collocations": ["agronomic research"],
+"synonyms": ["agricultural"],
+"antonyms": [],
+"register": null,
+"domain": ["agriculture"]
+}
+]
+},
+{
+"term": "agronomical",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "another form of agronomic",
+"examples": ["Agronomical studies were conducted."],
+"collocations": ["agronomical data"],
+"synonyms": ["agronomic"],
+"antonyms": [],
+"register": null,
+"domain": ["agriculture"]
+}
+]
+},
+{
+"term": "agronomically",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adverb",
+"definition": "in a way related to agronomy",
+"examples": ["The soil was treated agronomically."],
+"collocations": ["manage agronomically"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["agriculture"]
+}
+]
+},
+{
+"term": "agronomics",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "the science of crop production and soil management",
+"examples": ["Agronomics helps increase crop yields."],
+"collocations": ["study agronomics"],
+"synonyms": ["agronomy"],
+"antonyms": [],
+"register": null,
+"domain": ["agriculture"]
+}
+]
+},
+{
+"term": "agronomies",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of agronomy",
+"examples": ["Different agronomies are practiced globally."],
+"collocations": ["various agronomies"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["agriculture"]
+}
+]
+},
+{
+"term": "agronomist",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a scientist who studies crops and soil",
+"examples": ["The agronomist improved irrigation methods."],
+"collocations": ["professional agronomist"],
+"synonyms": ["crop scientist"],
+"antonyms": [],
+"register": null,
+"domain": ["agriculture"]
+}
+]
+},
+{
+"term": "agronomists",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of agronomist",
+"examples": ["Agronomists advise farmers worldwide."],
+"collocations": ["team of agronomists"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["agriculture"]
+}
+]
+}
+]
+}

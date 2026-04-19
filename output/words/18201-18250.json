@@ -1,0 +1,856 @@
+```json
+{
+  "items": [
+    {
+      "term": "antimoniureted",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "containing or combined with antimony",
+          "examples": ["The compound is antimoniureted in composition."],
+          "collocations": ["antimoniureted compound", "antimoniureted metal", "antimoniureted alloy"],
+          "synonyms": ["antimony-containing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "antimoniuretted",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "combined with or containing antimony",
+          "examples": ["The antimoniuretted sample reacted quickly."],
+          "collocations": ["antimoniuretted compound", "antimoniuretted substance"],
+          "synonyms": ["antimony-containing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "antimonopolism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "opposition to monopolies or control of markets by one company",
+          "examples": ["The policy reflects strong antimonopolism.", "Antimonopolism shaped early economic reforms."],
+          "collocations": ["economic antimonopolism", "policy of antimonopolism", "support antimonopolism"],
+          "synonyms": ["anti-monopoly stance", "competition advocacy"],
+          "antonyms": ["monopolism"],
+          "register": "formal",
+          "domain": ["business", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "antimonopolist",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who opposes monopolies",
+          "examples": ["She is a strong antimonopolist.", "Antimonopolists protested the merger."],
+          "collocations": ["leading antimonopolist", "antimonopolist activist", "antimonopolist group"],
+          "synonyms": ["competition advocate"],
+          "antonyms": ["monopolist"],
+          "register": null,
+          "domain": ["business", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "antimonopolistic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "opposing monopolies or supporting fair competition",
+          "examples": ["The law is antimonopolistic.", "They adopted antimonopolistic measures."],
+          "collocations": ["antimonopolistic law", "antimonopolistic policy", "antimonopolistic regulation"],
+          "synonyms": ["pro-competition"],
+          "antonyms": ["monopolistic"],
+          "register": null,
+          "domain": ["business", "law"]
+        }
+      ]
+    },
+    {
+      "term": "antimonopolists",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who oppose monopolies",
+          "examples": ["Antimonopolists criticized the deal."],
+          "collocations": ["group of antimonopolists", "antimonopolists campaign"],
+          "synonyms": ["competition advocates"],
+          "antonyms": ["monopolists"],
+          "register": null,
+          "domain": ["business", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "antimonopolization",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of preventing or reducing monopolies",
+          "examples": ["Antimonopolization policies were introduced."],
+          "collocations": ["antimonopolization policy", "economic antimonopolization"],
+          "synonyms": ["market regulation"],
+          "antonyms": ["monopolization"],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "antimonopoly",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "intended to prevent monopolies",
+          "examples": ["The government passed antimonopoly laws."],
+          "collocations": ["antimonopoly law", "antimonopoly policy", "antimonopoly regulation"],
+          "synonyms": ["pro-competition"],
+          "antonyms": ["monopoly"],
+          "register": null,
+          "domain": ["business", "law"]
+        }
+      ]
+    },
+    {
+      "term": "antimonous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to antimony in a lower oxidation state",
+          "examples": ["Antimonous compounds are studied in chemistry."],
+          "collocations": ["antimonous compound", "antimonous oxide"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "antimonsoon",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a wind that blows opposite to a monsoon",
+          "examples": ["The region experienced an antimonsoon pattern."],
+          "collocations": ["antimonsoon wind", "antimonsoon flow"],
+          "synonyms": [],
+          "antonyms": ["monsoon"],
+          "register": "formal",
+          "domain": ["geography", "weather"]
+        }
+      ]
+    },
+    {
+      "term": "antimony",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical element used in alloys and flame-proof materials",
+          "examples": ["Antimony is used in batteries.", "The alloy contains antimony."],
+          "collocations": ["antimony compound", "antimony alloy", "antimony metal"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "antimonyl",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical group containing antimony and oxygen",
+          "examples": ["The compound includes an antimonyl group."],
+          "collocations": ["antimonyl group", "antimonyl compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "antimonyls",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of antimonyl",
+          "examples": ["Different antimonyls were analyzed."],
+          "collocations": ["various antimonyls"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "antimoral",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "opposed to moral principles or standards",
+          "examples": ["The story has an antimoral message."],
+          "collocations": ["antimoral stance", "antimoral idea"],
+          "synonyms": ["immoral"],
+          "antonyms": ["moral"],
+          "register": null,
+          "domain": ["philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "antimoralism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rejection of traditional moral values",
+          "examples": ["His philosophy reflects antimoralism."],
+          "collocations": ["philosophy of antimoralism"],
+          "synonyms": ["amoralism"],
+          "antonyms": ["moralism"],
+          "register": "formal",
+          "domain": ["philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "antimoralist",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who rejects moral rules",
+          "examples": ["The character is an antimoralist."],
+          "collocations": ["radical antimoralist"],
+          "synonyms": ["amoralist"],
+          "antonyms": ["moralist"],
+          "register": "formal",
+          "domain": ["philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "antimoralistic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "opposing moral judgments or moral systems",
+          "examples": ["The text is antimoralistic."],
+          "collocations": ["antimoralistic view"],
+          "synonyms": ["amoral"],
+          "antonyms": ["moralistic"],
+          "register": "formal",
+          "domain": ["philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "antimorality",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of opposing moral values",
+          "examples": ["The work explores antimorality."],
+          "collocations": ["concept of antimorality"],
+          "synonyms": ["immorality"],
+          "antonyms": ["morality"],
+          "register": "formal",
+          "domain": ["philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "antimosquito",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "designed to prevent or repel mosquitoes",
+          "examples": ["They used antimosquito spray."],
+          "collocations": ["antimosquito spray", "antimosquito net", "antimosquito device"],
+          "synonyms": ["mosquito-repellent"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday", "health"]
+        }
+      ]
+    },
+    {
+      "term": "antimuon",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a particle that is the antiparticle of a muon",
+          "examples": ["Antimuons are studied in particle physics."],
+          "collocations": ["antimuon detection", "antimuon particle"],
+          "synonyms": [],
+          "antonyms": ["muon"],
+          "register": "formal",
+          "domain": ["physics"]
+        }
+      ]
+    },
+    {
+      "term": "antimuons",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of antimuon",
+          "examples": ["Scientists observed antimuons in the experiment."],
+          "collocations": ["high-energy antimuons"],
+          "synonyms": [],
+          "antonyms": ["muons"],
+          "register": "formal",
+          "domain": ["physics"]
+        }
+      ]
+    },
+    {
+      "term": "antimusic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "sound or style that rejects traditional music structure",
+          "examples": ["The performance was described as antimusic."],
+          "collocations": ["experimental antimusic"],
+          "synonyms": ["noise art"],
+          "antonyms": ["music"],
+          "register": "literary",
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "antimusical",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "lacking musical quality or appreciation",
+          "examples": ["His voice is antimusical."],
+          "collocations": ["antimusical tone", "antimusical sound"],
+          "synonyms": ["unmusical"],
+          "antonyms": ["musical"],
+          "register": null,
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "antimusically",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that lacks musical quality",
+          "examples": ["She sang antimusically."],
+          "collocations": ["sing antimusically"],
+          "synonyms": ["unmusically"],
+          "antonyms": ["musically"],
+          "register": null,
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "antimusicalness",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "lack of musical quality or ability",
+          "examples": ["His antimusicalness was obvious."],
+          "collocations": ["sense of antimusicalness"],
+          "synonyms": ["unmusicality"],
+          "antonyms": ["musicality"],
+          "register": null,
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "antimusics",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural forms or types of antimusic",
+          "examples": ["Various antimusics were explored."],
+          "collocations": ["experimental antimusics"],
+          "synonyms": [],
+          "antonyms": ["music"],
+          "register": "literary",
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "antimutagen",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance that reduces or prevents mutations in DNA",
+          "examples": ["Vitamin C can act as an antimutagen."],
+          "collocations": ["natural antimutagen", "antimutagen compound"],
+          "synonyms": [],
+          "antonyms": ["mutagen"],
+          "register": "formal",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "antimutagens",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "substances that prevent genetic mutations",
+          "examples": ["Researchers study antimutagens."],
+          "collocations": ["dietary antimutagens"],
+          "synonyms": [],
+          "antonyms": ["mutagens"],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "antimycin",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an antibiotic substance used in research and medicine",
+          "examples": ["Antimycin affects cellular respiration."],
+          "collocations": ["antimycin compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "antimycins",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of antimycin",
+          "examples": ["Different antimycins were tested."],
+          "collocations": ["types of antimycins"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "antimycotic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "preventing or treating fungal infections",
+          "examples": ["He used an antimycotic cream."],
+          "collocations": ["antimycotic drug", "antimycotic treatment"],
+          "synonyms": ["antifungal"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "antimystic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "opposed to mystical beliefs",
+          "examples": ["He takes an antimystic approach."],
+          "collocations": ["antimystic view"],
+          "synonyms": ["skeptical"],
+          "antonyms": ["mystic"],
+          "register": "formal",
+          "domain": ["philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "antimystical",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "rejecting or opposing mysticism",
+          "examples": ["The philosophy is antimystical."],
+          "collocations": ["antimystical stance"],
+          "synonyms": ["non-mystical"],
+          "antonyms": ["mystical"],
+          "register": "formal",
+          "domain": ["philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "antimystically",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that rejects mysticism",
+          "examples": ["He argued antimystically."],
+          "collocations": ["argue antimystically"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "antimysticalness",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of rejecting mysticism",
+          "examples": ["The antimysticalness of the work is clear."],
+          "collocations": ["sense of antimysticalness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "antimysticism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "opposition to mystical beliefs or practices",
+          "examples": ["His writing shows antimysticism."],
+          "collocations": ["philosophy of antimysticism"],
+          "synonyms": ["skepticism"],
+          "antonyms": ["mysticism"],
+          "register": "formal",
+          "domain": ["philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "antimythic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "opposed to myths or myth-making",
+          "examples": ["The text is antimythic."],
+          "collocations": ["antimythic narrative"],
+          "synonyms": ["demythologizing"],
+          "antonyms": ["mythic"],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "antimythical",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "rejecting myths or legendary explanations",
+          "examples": ["He takes an antimythical view."],
+          "collocations": ["antimythical approach"],
+          "synonyms": ["non-mythical"],
+          "antonyms": ["mythical"],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "antinarcotic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "intended to prevent or counteract narcotic drugs",
+          "examples": ["The campaign is antinarcotic."],
+          "collocations": ["antinarcotic policy", "antinarcotic program"],
+          "synonyms": ["anti-drug"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["law", "health"]
+        }
+      ]
+    },
+    {
+      "term": "antinarcotics",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "measures or efforts to prevent illegal drug use",
+          "examples": ["Antinarcotics units were deployed."],
+          "collocations": ["antinarcotics unit", "antinarcotics effort"],
+          "synonyms": ["drug enforcement"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "antinarrative",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "rejecting or avoiding traditional storytelling structure",
+          "examples": ["The film is antinarrative."],
+          "collocations": ["antinarrative style"],
+          "synonyms": ["non-narrative"],
+          "antonyms": ["narrative"],
+          "register": "literary",
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "antinarratives",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "forms of expression that avoid traditional storytelling",
+          "examples": ["The exhibit featured antinarratives."],
+          "collocations": ["experimental antinarratives"],
+          "synonyms": [],
+          "antonyms": ["narratives"],
+          "register": "literary",
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "antinational",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "opposed to national interests or identity",
+          "examples": ["The policy was called antinational."],
+          "collocations": ["antinational activity", "antinational stance"],
+          "synonyms": ["anti-state"],
+          "antonyms": ["national"],
+          "register": null,
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "antinationalism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "opposition to nationalism",
+          "examples": ["His views reflect antinationalism."],
+          "collocations": ["political antinationalism"],
+          "synonyms": [],
+          "antonyms": ["nationalism"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "antinationalist",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who opposes nationalism",
+          "examples": ["He is an antinationalist."],
+          "collocations": ["radical antinationalist"],
+          "synonyms": [],
+          "antonyms": ["nationalist"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "antinationalistic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "opposing nationalism",
+          "examples": ["The movement is antinationalistic."],
+          "collocations": ["antinationalistic ideology"],
+          "synonyms": [],
+          "antonyms": ["nationalistic"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "antinationalistically",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that opposes nationalism",
+          "examples": ["They argued antinationalistically."],
+          "collocations": ["act antinationalistically"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "antinationalists",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who oppose nationalism",
+          "examples": ["Antinationalists protested the policy."],
+          "collocations": ["group of antinationalists"],
+          "synonyms": [],
+          "antonyms": ["nationalists"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "antinationalization",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of opposing or reversing nationalization",
+          "examples": ["The policy led to antinationalization."],
+          "collocations": ["economic antinationalization"],
+          "synonyms": ["privatization"],
+          "antonyms": ["nationalization"],
+          "register": "formal",
+          "domain": ["economics"]
+        }
+      ]
+    },
+    {
+      "term": "antinationally",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that opposes national interests",
+          "examples": ["The act was seen as antinationally motivated."],
+          "collocations": ["act antinationally"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    }
+  ]
+}
+```

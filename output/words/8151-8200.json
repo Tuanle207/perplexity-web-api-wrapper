@@ -1,0 +1,499 @@
+```json
+{
+  "items": [
+    {
+      "term": "airplaned",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "traveled by airplane",
+          "examples": ["She airplaned to Paris last week."],
+          "collocations": ["airplaned to", "airplaned across", "airplaned home"],
+          "synonyms": ["flew", "traveled by air"],
+          "antonyms": ["drove", "sailed"],
+          "register": "informal",
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "airplaner",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who travels frequently by airplane",
+          "examples": ["Frequent airplaners prefer aisle seats."],
+          "collocations": ["frequent airplaner", "regular airplaner"],
+          "synonyms": ["air traveler"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "airplanes",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "machines with wings that fly in the sky",
+          "examples": ["Airplanes fly over the city every day."],
+          "collocations": ["passenger airplanes", "military airplanes", "board airplanes"],
+          "synonyms": ["planes", "aircraft"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["transport"]
+        }
+      ]
+    },
+    {
+      "term": "airplaning",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "traveling by airplane",
+          "examples": ["They are airplaning across Europe."],
+          "collocations": ["airplaning across", "airplaning to"],
+          "synonyms": ["flying"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "airplanist",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person connected with airplanes, especially in early use",
+          "examples": ["The early airplanist tested new designs."],
+          "collocations": ["early airplanist", "skilled airplanist"],
+          "synonyms": ["aviator"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["aviation"]
+        }
+      ]
+    },
+    {
+      "term": "airplay",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the broadcasting of music on radio or TV",
+          "examples": ["The song got a lot of airplay."],
+          "collocations": ["radio airplay", "heavy airplay", "gain airplay"],
+          "synonyms": ["broadcasting", "exposure"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["media"]
+        }
+      ]
+    },
+    {
+      "term": "airplays",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "instances of music being broadcast on radio or TV",
+          "examples": ["The track received many airplays."],
+          "collocations": ["multiple airplays", "radio airplays"],
+          "synonyms": ["broadcasts"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["media"]
+        }
+      ]
+    },
+    {
+      "term": "airplot",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plotted course or map used in air navigation",
+          "examples": ["The pilot checked the airplot before departure."],
+          "collocations": ["flight airplot", "prepare airplot"],
+          "synonyms": ["flight plan"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["aviation"]
+        }
+      ]
+    },
+    {
+      "term": "airport",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place where airplanes take off and land",
+          "examples": ["We arrived at the airport early."],
+          "collocations": ["international airport", "airport terminal", "airport security"],
+          "synonyms": ["airfield"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["transport"]
+        }
+      ]
+    },
+    {
+      "term": "airports",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "places where airplanes take off and land",
+          "examples": ["Many airports were closed due to weather."],
+          "collocations": ["major airports", "busy airports"],
+          "synonyms": ["airfields"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["transport"]
+        }
+      ]
+    },
+    {
+      "term": "airpost",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "mail carried by aircraft",
+          "examples": ["The letter was sent by airpost."],
+          "collocations": ["send airpost", "airpost service"],
+          "synonyms": ["airmail"],
+          "antonyms": ["surface mail"],
+          "register": null,
+          "domain": ["communication"]
+        }
+      ]
+    },
+    {
+      "term": "airposts",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "items of mail carried by aircraft",
+          "examples": ["Airposts arrived quickly."],
+          "collocations": ["deliver airposts"],
+          "synonyms": ["airmails"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["communication"]
+        }
+      ]
+    },
+    {
+      "term": "airpower",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "military strength using aircraft",
+          "examples": ["The country relies on strong airpower."],
+          "collocations": ["military airpower", "airpower strategy"],
+          "synonyms": ["air force strength"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "airpowers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "countries or forces with strong military aircraft capabilities",
+          "examples": ["Major airpowers influence global security."],
+          "collocations": ["global airpowers"],
+          "synonyms": ["military powers"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "airproof",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not allowing air to pass through",
+          "examples": ["The container is airproof."],
+          "collocations": ["airproof seal", "airproof container"],
+          "synonyms": ["airtight"],
+          "antonyms": ["porous"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "airprox",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a situation where two aircraft come dangerously close",
+          "examples": ["The incident was reported as an airprox."],
+          "collocations": ["airprox incident", "report airprox"],
+          "synonyms": ["near miss"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["aviation"]
+        }
+      ]
+    },
+    {
+      "term": "airs",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person's affected or proud behavior",
+          "examples": ["She puts on airs to impress others."],
+          "collocations": ["put on airs", "false airs"],
+          "synonyms": ["pretension", "affectation"],
+          "antonyms": ["humility"],
+          "register": null,
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "airscape",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the view or design of the sky and air environment",
+          "examples": ["The city's airscape includes many drones."],
+          "collocations": ["urban airscape"],
+          "synonyms": ["skyscape"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["environment"]
+        }
+      ]
+    },
+    {
+      "term": "airscrew",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a propeller that moves an aircraft through the air",
+          "examples": ["The airscrew was damaged during landing."],
+          "collocations": ["aircraft airscrew"],
+          "synonyms": ["propeller"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["aviation"]
+        }
+      ]
+    },
+    {
+      "term": "airshaft",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a vertical space in a building that allows air to move",
+          "examples": ["The apartment faces an airshaft."],
+          "collocations": ["building airshaft"],
+          "synonyms": ["vent shaft"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "airshed",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a region where air pollution shares the same environment",
+          "examples": ["The city is part of a large airshed."],
+          "collocations": ["regional airshed"],
+          "synonyms": ["air basin"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["environment"]
+        }
+      ]
+    },
+    {
+      "term": "airship",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large aircraft filled with gas that floats in the air",
+          "examples": ["The airship moved slowly across the sky."],
+          "collocations": ["giant airship", "fly airship"],
+          "synonyms": ["blimp"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["transport"]
+        }
+      ]
+    },
+    {
+      "term": "airshow",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a public event where aircraft perform flying displays",
+          "examples": ["We watched an airshow last weekend."],
+          "collocations": ["annual airshow", "airshow display"],
+          "synonyms": ["flight show"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "airsick",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "feeling ill when traveling by air",
+          "examples": ["She felt airsick during the flight."],
+          "collocations": ["feel airsick", "airsick passenger"],
+          "synonyms": ["nauseous"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["health"]
+        }
+      ]
+    },
+    {
+      "term": "airsickness",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the feeling of illness caused by flying",
+          "examples": ["He suffers from airsickness."],
+          "collocations": ["prevent airsickness"],
+          "synonyms": ["motion sickness"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["health"]
+        }
+      ]
+    },
+    {
+      "term": "airside",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the part of an airport beyond security",
+          "examples": ["Only staff can access airside areas."],
+          "collocations": ["airside access", "airside operations"],
+          "synonyms": [],
+          "antonyms": ["landside"],
+          "register": null,
+          "domain": ["aviation"]
+        }
+      ]
+    },
+    {
+      "term": "airspace",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the sky above a country or area, controlled by law",
+          "examples": ["The plane entered restricted airspace."],
+          "collocations": ["restricted airspace", "national airspace"],
+          "synonyms": ["sky territory"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["aviation"]
+        }
+      ]
+    },
+    {
+      "term": "airspeed",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the speed of an aircraft relative to the air",
+          "examples": ["The pilot checked the airspeed."],
+          "collocations": ["maintain airspeed"],
+          "synonyms": ["flight speed"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["aviation"]
+        }
+      ]
+    },
+    {
+      "term": "airstream",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a flow of air moving in a particular direction",
+          "examples": ["The bird glided on an airstream."],
+          "collocations": ["warm airstream"],
+          "synonyms": ["air current"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["science"]
+        }
+      ]
+    }
+  ]
+}
+```

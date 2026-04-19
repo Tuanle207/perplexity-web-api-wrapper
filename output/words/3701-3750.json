@@ -1,0 +1,854 @@
+{
+"items": [
+{
+"term": "activated",
+"kind": "word",
+"cefrLevel": "B1",
+"senses": [
+{
+"pos": "adjective",
+"definition": "made active or ready to work",
+"examples": ["The alarm system is activated at night.", "Activated charcoal is used in filters."],
+"collocations": ["activated system", "activated carbon", "activated device"],
+"synonyms": ["enabled", "started", "triggered"],
+"antonyms": ["deactivated", "disabled"],
+"register": null,
+"domain": ["general", "technology"]
+}
+]
+},
+{
+"term": "activates",
+"kind": "word",
+"cefrLevel": "B1",
+"senses": [
+{
+"pos": "verb",
+"definition": "turns something on or makes it start working",
+"examples": ["Pressing the button activates the machine.", "The app activates your camera."],
+"collocations": ["activates system", "activates function", "activates process"],
+"synonyms": ["starts", "triggers", "enables"],
+"antonyms": ["stops", "deactivates"],
+"register": null,
+"domain": ["general", "technology"]
+}
+]
+},
+{
+"term": "activating",
+"kind": "word",
+"cefrLevel": "B1",
+"senses": [
+{
+"pos": "verb",
+"definition": "making something start working",
+"examples": ["She is activating the software.", "Activating the alarm takes seconds."],
+"collocations": ["activating system", "activating feature", "activating device"],
+"synonyms": ["starting", "triggering", "enabling"],
+"antonyms": ["deactivating", "stopping"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "activation",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the process of making something active or working",
+"examples": ["Activation of the account is required.", "Muscle activation occurs during exercise."],
+"collocations": ["account activation", "activation process", "activation energy"],
+"synonyms": ["start", "initiation", "triggering"],
+"antonyms": ["deactivation", "shutdown"],
+"register": null,
+"domain": ["general", "science"]
+}
+]
+},
+{
+"term": "activations",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of activation; processes of making things active",
+"examples": ["The system recorded multiple activations.", "There were several activations during testing."],
+"collocations": ["multiple activations", "system activations"],
+"synonyms": ["starts", "initiations"],
+"antonyms": ["deactivations"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "activator",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "a substance or device that makes something start working",
+"examples": ["The chemical acts as an activator.", "Use the activator to begin the reaction."],
+"collocations": ["chemical activator", "enzyme activator"],
+"synonyms": ["starter", "trigger"],
+"antonyms": ["inhibitor"],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "activators",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of activator",
+"examples": ["These activators speed up reactions.", "Different activators were tested."],
+"collocations": ["enzyme activators", "chemical activators"],
+"synonyms": ["triggers"],
+"antonyms": ["inhibitors"],
+"register": null,
+"domain": ["science"]
+}
+]
+},
+{
+"term": "active",
+"kind": "word",
+"cefrLevel": "A2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "doing things; not passive or still",
+"examples": ["She is very active in sports.", "He has an active lifestyle."],
+"collocations": ["active lifestyle", "active role", "active member"],
+"synonyms": ["busy", "energetic", "lively"],
+"antonyms": ["inactive", "lazy"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "actively",
+"kind": "word",
+"cefrLevel": "B1",
+"senses": [
+{
+"pos": "adverb",
+"definition": "in a way that involves action or effort",
+"examples": ["She actively supports the project.", "He is actively looking for a job."],
+"collocations": ["actively participate", "actively seek", "actively support"],
+"synonyms": ["energetically", "diligently"],
+"antonyms": ["passively"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "activeness",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "the quality of being active",
+"examples": ["His activeness impressed the team.", "Physical activeness improves health."],
+"collocations": ["physical activeness", "mental activeness"],
+"synonyms": ["activity", "energy"],
+"antonyms": ["inactivity"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "activenesses",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of activeness",
+"examples": ["Different activenesses were observed."],
+"collocations": ["levels of activenesses"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": []
+}
+]
+},
+{
+"term": "actives",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "people or things that are currently involved or working",
+"examples": ["The actives are listed separately.", "Active members joined the meeting."],
+"collocations": ["active members", "active users"],
+"synonyms": ["participants"],
+"antonyms": ["inactives"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "activewear",
+"kind": "word",
+"cefrLevel": "B1",
+"senses": [
+{
+"pos": "noun",
+"definition": "clothes worn for sports or exercise",
+"examples": ["She bought new activewear.", "Activewear is popular for daily use."],
+"collocations": ["sports activewear", "comfortable activewear"],
+"synonyms": ["sportswear", "athletic clothing"],
+"antonyms": [],
+"register": null,
+"domain": ["fashion", "everyday"]
+}
+]
+},
+{
+"term": "activin",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a protein that controls certain biological processes",
+"examples": ["Activin affects cell growth.", "Researchers studied activin levels."],
+"collocations": ["activin protein", "activin signaling"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "activise",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "verb",
+"definition": "to make something active (British spelling)",
+"examples": ["They activise the system quickly."],
+"collocations": ["activise system"],
+"synonyms": ["activate"],
+"antonyms": ["deactivate"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "activised",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "verb",
+"definition": "past form of activise",
+"examples": ["The device was activised earlier."],
+"collocations": ["activised system"],
+"synonyms": ["activated"],
+"antonyms": ["deactivated"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "activises",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "verb",
+"definition": "third person form of activise",
+"examples": ["The program activises automatically."],
+"collocations": ["activises process"],
+"synonyms": ["activates"],
+"antonyms": ["deactivates"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "activising",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "verb",
+"definition": "present participle of activise",
+"examples": ["They are activising the system."],
+"collocations": ["activising system"],
+"synonyms": ["activating"],
+"antonyms": ["deactivating"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "activism",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "action taken to support or oppose a cause",
+"examples": ["She is involved in environmental activism.", "Activism can bring social change."],
+"collocations": ["political activism", "social activism"],
+"synonyms": ["advocacy", "campaigning"],
+"antonyms": ["apathy"],
+"register": null,
+"domain": ["society"]
+}
+]
+},
+{
+"term": "activisms",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of activism",
+"examples": ["Different activisms focus on various issues."],
+"collocations": ["forms of activisms"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": []
+}
+]
+},
+{
+"term": "activist",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a person who works to bring change in society",
+"examples": ["He is a human rights activist.", "Activists organized a protest."],
+"collocations": ["environmental activist", "political activist"],
+"synonyms": ["campaigner", "advocate"],
+"antonyms": [],
+"register": null,
+"domain": ["society"]
+}
+]
+},
+{
+"term": "activistic",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "adjective",
+"definition": "relating to activism",
+"examples": ["Her activistic efforts gained attention."],
+"collocations": ["activistic approach"],
+"synonyms": ["activist"],
+"antonyms": [],
+"register": null,
+"domain": ["society"]
+}
+]
+},
+{
+"term": "activists",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of activist",
+"examples": ["Activists marched in the streets."],
+"collocations": ["group of activists"],
+"synonyms": ["campaigners"],
+"antonyms": [],
+"register": null,
+"domain": ["society"]
+}
+]
+},
+{
+"term": "activital",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "adjective",
+"definition": "not a standard English word; meaning unclear",
+"examples": ["The term activital is rarely used."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": []
+}
+]
+},
+{
+"term": "activities",
+"kind": "word",
+"cefrLevel": "A2",
+"senses": [
+{
+"pos": "noun",
+"definition": "things that people do for work, fun, or daily life",
+"examples": ["School activities start early.", "Outdoor activities are popular."],
+"collocations": ["daily activities", "group activities"],
+"synonyms": ["tasks", "events"],
+"antonyms": [],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "activity",
+"kind": "word",
+"cefrLevel": "A2",
+"senses": [
+{
+"pos": "noun",
+"definition": "something that people do",
+"examples": ["Reading is a quiet activity.", "Physical activity is healthy."],
+"collocations": ["physical activity", "daily activity"],
+"synonyms": ["task", "action"],
+"antonyms": ["inactivity"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "activize",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "verb",
+"definition": "to make something active (American spelling)",
+"examples": ["They activize the system."],
+"collocations": ["activize system"],
+"synonyms": ["activate"],
+"antonyms": ["deactivate"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "activized",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "verb",
+"definition": "past form of activize",
+"examples": ["The feature was activized."],
+"collocations": ["activized feature"],
+"synonyms": ["activated"],
+"antonyms": ["deactivated"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "activizes",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "verb",
+"definition": "third person form of activize",
+"examples": ["It activizes automatically."],
+"collocations": ["activizes system"],
+"synonyms": ["activates"],
+"antonyms": ["deactivates"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "activizing",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "verb",
+"definition": "present participle of activize",
+"examples": ["They are activizing the system."],
+"collocations": ["activizing process"],
+"synonyms": ["activating"],
+"antonyms": ["deactivating"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "actless",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "without action or movement",
+"examples": ["The play felt actless and dull."],
+"collocations": ["actless scene"],
+"synonyms": ["inactive", "motionless"],
+"antonyms": ["active"],
+"register": "literary",
+"domain": ["literature"]
+}
+]
+},
+{
+"term": "actomyosin",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a protein complex important for muscle movement",
+"examples": ["Actomyosin enables muscle contraction."],
+"collocations": ["actomyosin complex"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "actomyosins",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of actomyosin",
+"examples": ["Actomyosins play key roles in cells."],
+"collocations": ["actomyosins proteins"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "acton",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a padded garment worn under armor in the past",
+"examples": ["The knight wore an acton."],
+"collocations": ["medieval acton"],
+"synonyms": [],
+"antonyms": [],
+"register": "archaic",
+"domain": ["history"]
+}
+]
+},
+{
+"term": "actons",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of acton",
+"examples": ["Actons were used in battle."],
+"collocations": ["padded actons"],
+"synonyms": [],
+"antonyms": [],
+"register": "archaic",
+"domain": ["history"]
+}
+]
+},
+{
+"term": "actor",
+"kind": "word",
+"cefrLevel": "A2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a person who performs in plays or movies",
+"examples": ["He is a famous actor.", "The actor won an award."],
+"collocations": ["film actor", "lead actor"],
+"synonyms": ["performer"],
+"antonyms": [],
+"register": null,
+"domain": ["entertainment"]
+}
+]
+},
+{
+"term": "actorish",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "behaving like an actor, often in an exaggerated way",
+"examples": ["His gestures seemed actorish."],
+"collocations": ["actorish style"],
+"synonyms": ["dramatic"],
+"antonyms": [],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "actorly",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "relating to actors or acting",
+"examples": ["She had an actorly presence."],
+"collocations": ["actorly skills"],
+"synonyms": ["theatrical"],
+"antonyms": [],
+"register": null,
+"domain": ["entertainment"]
+}
+]
+},
+{
+"term": "actors",
+"kind": "word",
+"cefrLevel": "A2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of actor",
+"examples": ["Actors rehearsed the scene."],
+"collocations": ["group of actors"],
+"synonyms": ["performers"],
+"antonyms": [],
+"register": null,
+"domain": ["entertainment"]
+}
+]
+},
+{
+"term": "actorship",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the profession or role of being an actor",
+"examples": ["He pursued actorship."],
+"collocations": ["career in actorship"],
+"synonyms": ["acting"],
+"antonyms": [],
+"register": "formal",
+"domain": ["entertainment"]
+}
+]
+},
+{
+"term": "actory",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "adjective",
+"definition": "relating to acting (rare usage)",
+"examples": ["An actory style was noted."],
+"collocations": ["actory behavior"],
+"synonyms": ["theatrical"],
+"antonyms": [],
+"register": "rare",
+"domain": []
+}
+]
+},
+{
+"term": "actos",
+"kind": "proper_noun",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a brand name for a medicine used to treat diabetes",
+"examples": ["Actos is prescribed for type 2 diabetes."],
+"collocations": ["Actos medication"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["medicine"]
+}
+]
+},
+{
+"term": "actress",
+"kind": "word",
+"cefrLevel": "A2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a woman who performs in plays or movies",
+"examples": ["She is a famous actress.", "The actress starred in the film."],
+"collocations": ["lead actress", "film actress"],
+"synonyms": ["performer"],
+"antonyms": [],
+"register": null,
+"domain": ["entertainment"]
+}
+]
+},
+{
+"term": "actresses",
+"kind": "word",
+"cefrLevel": "A2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of actress",
+"examples": ["Actresses attended the event."],
+"collocations": ["famous actresses"],
+"synonyms": ["performers"],
+"antonyms": [],
+"register": null,
+"domain": ["entertainment"]
+}
+]
+},
+{
+"term": "actressy",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "adjective",
+"definition": "like an actress, often in a showy or dramatic way",
+"examples": ["Her style was very actressy."],
+"collocations": ["actressy look"],
+"synonyms": ["dramatic"],
+"antonyms": [],
+"register": "informal",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "acts",
+"kind": "word",
+"cefrLevel": "A2",
+"senses": [
+{
+"pos": "noun",
+"definition": "things that are done",
+"examples": ["Kind acts are appreciated.", "His acts surprised everyone."],
+"collocations": ["acts of kindness", "criminal acts"],
+"synonyms": ["actions", "deeds"],
+"antonyms": ["inaction"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "actu",
+"kind": "abbreviation",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "short form of 'actualité' in French, meaning news",
+"examples": ["Check the actu for updates."],
+"collocations": ["latest actu"],
+"synonyms": ["news"],
+"antonyms": [],
+"register": "informal",
+"domain": ["media"]
+}
+]
+},
+{
+"term": "actual",
+"kind": "word",
+"cefrLevel": "B1",
+"senses": [
+{
+"pos": "adjective",
+"definition": "real or true, not imagined",
+"examples": ["The actual cost was higher.", "These are the actual results."],
+"collocations": ["actual result", "actual cost"],
+"synonyms": ["real", "true"],
+"antonyms": ["fake", "imaginary"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "actualisation",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "the process of making something real or achieving it",
+"examples": ["Self-actualisation is a key idea in psychology."],
+"collocations": ["self-actualisation"],
+"synonyms": ["realization", "fulfillment"],
+"antonyms": [],
+"register": "formal",
+"domain": ["psychology"]
+}
+]
+},
+{
+"term": "actualisations",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of actualisation",
+"examples": ["Different actualisations of the idea exist."],
+"collocations": ["multiple actualisations"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["academic"]
+}
+]
+}
+]
+}

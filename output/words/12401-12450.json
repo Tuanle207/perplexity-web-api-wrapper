@@ -1,0 +1,854 @@
+{
+  "items": [
+    {
+      "term": "ammoniation",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of treating something with ammonia or adding ammonia",
+          "examples": ["The ammoniation of soil improves its nitrogen content.", "Ammoniation is used in fertilizer production."],
+          "collocations": ["ammoniation process", "soil ammoniation", "ammoniation treatment", "industrial ammoniation"],
+          "synonyms": ["ammonia treatment", "ammonia addition"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "ammoniations",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of ammoniation; multiple processes of adding ammonia",
+          "examples": ["Different ammoniations were tested in the lab.", "The study compared various ammoniations of organic matter."],
+          "collocations": ["various ammoniations", "industrial ammoniations"],
+          "synonyms": ["ammonia treatments"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or containing ammonium or ammonia",
+          "examples": ["Ammonic compounds are common in fertilizers.", "The solution has ammonic properties."],
+          "collocations": ["ammonic compounds", "ammonic solution", "ammonic salts"],
+          "synonyms": ["ammonium-based", "ammoniacal"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonical",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "containing or relating to ammonia",
+          "examples": ["The ammonical smell was strong in the lab.", "They analyzed ammonical compounds."],
+          "collocations": ["ammonical odor", "ammonical solution", "ammonical compounds"],
+          "synonyms": ["ammoniacal"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammoniemia",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a condition with excess ammonia in the blood",
+          "examples": ["Ammoniemia can affect brain function.", "The patient showed signs of ammoniemia."],
+          "collocations": ["severe ammoniemia", "diagnose ammoniemia"],
+          "synonyms": ["hyperammonemia"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "ammonification",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process by which organic nitrogen is converted into ammonia",
+          "examples": ["Ammonification is part of the nitrogen cycle.", "Bacteria play a role in ammonification."],
+          "collocations": ["nitrogen ammonification", "soil ammonification", "microbial ammonification"],
+          "synonyms": ["nitrogen conversion"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonifications",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of ammonification",
+          "examples": ["Different ammonifications occur in various soils.", "The study examined multiple ammonifications."],
+          "collocations": ["soil ammonifications"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "ammonified",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "treated with ammonia or converted into ammonia form",
+          "examples": ["The waste was ammonified before disposal.", "Ammonified compounds were measured."],
+          "collocations": ["ammonified waste", "ammonified material"],
+          "synonyms": ["treated", "converted"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonifier",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an organism or substance that produces ammonia from organic matter",
+          "examples": ["Soil bacteria act as ammonifiers.", "The ammonifier helps break down waste."],
+          "collocations": ["soil ammonifier", "microbial ammonifier"],
+          "synonyms": ["decomposer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "ammonifies",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "converts organic nitrogen into ammonia",
+          "examples": ["The bacteria ammonifies waste quickly.", "This process ammonifies proteins."],
+          "collocations": ["ammonifies waste", "ammonifies nitrogen"],
+          "synonyms": ["convert", "transform"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "ammonify",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to convert organic matter into ammonia",
+          "examples": ["Microbes ammonify dead plants.", "They ammonify organic waste."],
+          "collocations": ["ammonify waste", "ammonify nitrogen"],
+          "synonyms": ["convert", "decompose"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "ammonifying",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or performing the process of producing ammonia",
+          "examples": ["Ammonifying bacteria are essential in soil.", "The ammonifying activity increased."],
+          "collocations": ["ammonifying bacteria", "ammonifying process"],
+          "synonyms": ["decomposing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "ammoniojarosite",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mineral containing ammonium and iron sulfate",
+          "examples": ["Ammoniojarosite forms in acidic environments.", "The sample contained ammoniojarosite."],
+          "collocations": ["ammoniojarosite mineral", "iron ammoniojarosite"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "ammonion",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an ion derived from ammonia",
+          "examples": ["The ammonion reacts with acids.", "Ammonion stability depends on conditions."],
+          "collocations": ["ammonion reaction"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonionitrate",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical compound used mainly as a fertilizer and explosive",
+          "examples": ["Ammonionitrate is widely used in agriculture.", "The factory produces ammonionitrate."],
+          "collocations": ["ammonionitrate fertilizer", "ammonionitrate production"],
+          "synonyms": ["ammonium nitrate"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["chemistry", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "ammonite",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fossil shell of an extinct marine animal with a spiral shape",
+          "examples": ["They found an ammonite in the rock.", "Ammonites lived millions of years ago."],
+          "collocations": ["ammonite fossil", "spiral ammonite"],
+          "synonyms": ["fossil"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "ammonites",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of ammonite",
+          "examples": ["Ammonites are common fossils.", "The museum displays ammonites."],
+          "collocations": ["fossil ammonites"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "ammonitess",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female member of an ancient group called Ammonites",
+          "examples": ["The text refers to an ammonitess.", "She was described as an ammonitess in the story."],
+          "collocations": ["ancient ammonitess"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "ammonitic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to ammonites or ammonia compounds",
+          "examples": ["Ammonitic fossils were studied.", "The rock has ammonitic features."],
+          "collocations": ["ammonitic fossils"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "ammoniticone",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical compound derived from ammonia (rare term)",
+          "examples": ["The study mentioned ammoniticone.", "Ammoniticone is rarely used."],
+          "collocations": ["ammoniticone compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonitiferous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "containing ammonite fossils",
+          "examples": ["The ammonitiferous rock layer was rich in fossils.", "They explored ammonitiferous strata."],
+          "collocations": ["ammonitiferous rock", "ammonitiferous strata"],
+          "synonyms": ["fossil-bearing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "ammonitish",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "somewhat like an ammonite or related to it",
+          "examples": ["The shape looked ammonitish.", "They described the fossil as ammonitish."],
+          "collocations": ["ammonitish shape"],
+          "synonyms": ["similar"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "ammonitoid",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fossil marine animal related to ammonites",
+          "examples": ["Ammonitoids lived in ancient oceans.", "The fossil was an ammonitoid."],
+          "collocations": ["ammonitoid fossil"],
+          "synonyms": ["ammonite"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "ammonitoidea",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a subclass of extinct marine mollusks that includes ammonites",
+          "examples": ["Ammonitoidea includes many fossil species.", "Scientists study Ammonitoidea fossils."],
+          "collocations": ["Ammonitoidea subclass"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "ammonium",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical ion formed from ammonia, common in fertilizers",
+          "examples": ["Ammonium is important for plant growth.", "The solution contains ammonium ions."],
+          "collocations": ["ammonium ion", "ammonium salt", "ammonium compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["chemistry", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "ammoniums",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of ammonium",
+          "examples": ["Different ammoniums were tested.", "The compounds contain ammoniums."],
+          "collocations": ["various ammoniums"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammoniuret",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a compound formed from ammonia and another substance",
+          "examples": ["The reaction produced an ammoniuret.", "Ammoniuret compounds are unstable."],
+          "collocations": ["ammoniuret compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammoniureted",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "treated or combined with ammonia",
+          "examples": ["The material was ammoniureted.", "They tested ammoniureted samples."],
+          "collocations": ["ammoniureted material"],
+          "synonyms": ["treated"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammoniuria",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the presence of ammonia in urine",
+          "examples": ["Ammoniuria can indicate disease.", "The test showed ammoniuria."],
+          "collocations": ["detect ammoniuria"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "ammonization",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of adding ammonia to a substance",
+          "examples": ["Ammonization improves soil quality.", "The plant uses ammonization techniques."],
+          "collocations": ["soil ammonization"],
+          "synonyms": ["ammoniation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "ammono",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "prefix",
+          "definition": "relating to ammonia or ammonium",
+          "examples": ["Ammono compounds are studied in chemistry.", "The term ammono indicates ammonia relation."],
+          "collocations": ["ammono compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonobasic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "containing one ammonium group",
+          "examples": ["The compound is ammonobasic.", "They analyzed ammonobasic salts."],
+          "collocations": ["ammonobasic salt"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonocarbonic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to compounds of ammonia and carbonic acid",
+          "examples": ["Ammonocarbonic salts were examined.", "The reaction forms ammonocarbonic compounds."],
+          "collocations": ["ammonocarbonic compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonocarbonous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "containing ammonia and carbon compounds",
+          "examples": ["Ammonocarbonous materials were tested.", "The solution is ammonocarbonous."],
+          "collocations": ["ammonocarbonous compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonoid",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an extinct marine animal related to ammonites",
+          "examples": ["Ammonoids are important fossils.", "The rock contains ammonoids."],
+          "collocations": ["ammonoid fossil"],
+          "synonyms": ["ammonite"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "ammonoidea",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a group of extinct marine animals including ammonoids",
+          "examples": ["Ammonoidea lived millions of years ago.", "Fossils of Ammonoidea are common."],
+          "collocations": ["Ammonoidea fossils"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "ammonoidean",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to ammonoids",
+          "examples": ["Ammonoidean fossils were found.", "The shell is ammonoidean."],
+          "collocations": ["ammonoidean fossil"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "ammonoids",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of ammonoid",
+          "examples": ["Ammonoids are studied in paleontology.", "The site is rich in ammonoids."],
+          "collocations": ["fossil ammonoids"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "ammonolitic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the breakdown or decomposition involving ammonia",
+          "examples": ["Ammonolitic reactions occur in soil.", "The process is ammonolitic."],
+          "collocations": ["ammonolitic reaction"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonolyses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of ammonolysis",
+          "examples": ["Different ammonolyses were compared.", "The reactions include several ammonolyses."],
+          "collocations": ["chemical ammonolyses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonolysis",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical reaction where ammonia breaks down a compound",
+          "examples": ["Ammonolysis is used in synthesis.", "The process involves ammonolysis."],
+          "collocations": ["chemical ammonolysis"],
+          "synonyms": ["reaction"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonolytic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or causing ammonolysis",
+          "examples": ["Ammonolytic reactions were observed.", "The compound is ammonolytic."],
+          "collocations": ["ammonolytic reaction"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonolyze",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to break down a compound using ammonia",
+          "examples": ["They ammonolyze the substance in the lab.", "The reaction ammonolyzes the material."],
+          "collocations": ["ammonolyze compound"],
+          "synonyms": ["decompose"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonolyzed",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "broken down by ammonia",
+          "examples": ["The ammonolyzed sample was analyzed.", "Ammonolyzed compounds show changes."],
+          "collocations": ["ammonolyzed sample"],
+          "synonyms": ["decomposed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammonolyzing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "in the process of breaking down using ammonia",
+          "examples": ["The ammonolyzing reaction continued.", "Ammonolyzing conditions were applied."],
+          "collocations": ["ammonolyzing reaction"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammons",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural or variant related to ammonia compounds (rare usage)",
+          "examples": ["The text mentions ammons.", "Ammons are discussed in the study."],
+          "collocations": ["chemical ammons"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammophila",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of grass that grows in sandy areas",
+          "examples": ["Ammophila stabilizes sand dunes.", "The beach had ammophila plants."],
+          "collocations": ["ammophila grass"],
+          "synonyms": ["dune grass"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "ammophilous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "growing or living in sandy environments",
+          "examples": ["Ammophilous plants thrive in dunes.", "The species is ammophilous."],
+          "collocations": ["ammophilous plants"],
+          "synonyms": ["sand-loving"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "ammoresinol",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a resin-like organic substance (rare term)",
+          "examples": ["Ammoresinol was extracted from the sample.", "The compound includes ammoresinol."],
+          "collocations": ["ammoresinol compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "ammoreslinol",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a variant spelling of ammoresinol",
+          "examples": ["Ammoreslinol appears in older texts.", "The sample contained ammoreslinol."],
+          "collocations": ["ammoreslinol compound"],
+          "synonyms": ["ammoresinol"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["chemistry"]
+        }
+      ]
+    }
+  ]
+}

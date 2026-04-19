@@ -1,0 +1,303 @@
+{
+  "items": [
+    {
+      "term": "allergenic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to cause an allergic reaction",
+          "examples": ["Peanuts are highly allergenic for some people.", "This product is labeled as non-allergenic."],
+          "collocations": ["allergenic substances", "allergenic foods", "allergenic reaction", "highly allergenic", "allergenic potential"],
+          "synonyms": ["allergy-causing", "sensitizing"],
+          "antonyms": ["hypoallergenic", "non-allergenic"],
+          "register": null,
+          "domain": ["medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "allergenicities",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of allergenicity; the abilities to cause allergic reactions",
+          "examples": ["Researchers compared the allergenicities of different proteins."],
+          "collocations": ["varying allergenicities", "protein allergenicities"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "allergenicity",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the ability of a substance to cause an allergic reaction",
+          "examples": ["The allergenicity of the new drug was tested.", "Food processing can reduce allergenicity."],
+          "collocations": ["low allergenicity", "reduce allergenicity", "assess allergenicity"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "allergens",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "substances that cause allergic reactions",
+          "examples": ["Dust and pollen are common allergens.", "The label lists major allergens."],
+          "collocations": ["common allergens", "food allergens", "avoid allergens", "airborne allergens"],
+          "synonyms": ["irritants"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "allergia",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a medical condition involving allergy or sensitivity",
+          "examples": ["The patient was diagnosed with allergia."],
+          "collocations": ["seasonal allergia"],
+          "synonyms": ["allergy"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "allergic",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a reaction to something like food, dust, or medicine",
+          "examples": ["She is allergic to peanuts.", "I'm allergic to cats."],
+          "collocations": ["allergic reaction", "allergic to", "severely allergic", "mildly allergic"],
+          "synonyms": ["sensitive"],
+          "antonyms": ["tolerant"],
+          "register": null,
+          "domain": ["medicine", "everyday"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "strongly disliking or avoiding something",
+          "examples": ["He is allergic to hard work.", "She seems allergic to criticism."],
+          "collocations": ["allergic to change", "allergic to responsibility"],
+          "synonyms": ["averse", "opposed"],
+          "antonyms": ["open", "accepting"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "allergics",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who have allergies",
+          "examples": ["This product is safe for most allergics."],
+          "collocations": ["food allergics", "help allergics"],
+          "synonyms": ["allergy sufferers"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "allergies",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "conditions where the body reacts badly to certain substances",
+          "examples": ["He suffers from seasonal allergies.", "Food allergies can be dangerous."],
+          "collocations": ["seasonal allergies", "food allergies", "severe allergies"],
+          "synonyms": ["sensitivities"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "allergin",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance that causes an allergic reaction (rare term)",
+          "examples": ["The compound acts as an allergin."],
+          "collocations": ["natural allergin"],
+          "synonyms": ["allergen"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "allergins",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of allergin",
+          "examples": ["Various allergins were identified."],
+          "collocations": ["common allergins"],
+          "synonyms": ["allergens"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "allergist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a doctor who specializes in allergies",
+          "examples": ["She visited an allergist for testing.", "The allergist recommended treatment."],
+          "collocations": ["consult an allergist", "see an allergist"],
+          "synonyms": ["allergy specialist"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "allergology",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study of allergies and allergic diseases",
+          "examples": ["He works in allergology research."],
+          "collocations": ["clinical allergology"],
+          "synonyms": ["allergy science"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "allergy",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a condition in which the body reacts badly to certain substances",
+          "examples": ["She has a milk allergy.", "Allergy symptoms include sneezing."],
+          "collocations": ["food allergy", "allergy symptoms", "allergy test"],
+          "synonyms": ["sensitivity"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "alleviate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something less severe or painful",
+          "examples": ["The medicine helps alleviate pain.", "Steps were taken to alleviate poverty."],
+          "collocations": ["alleviate pain", "alleviate suffering", "alleviate stress", "alleviate pressure"],
+          "synonyms": ["reduce", "ease", "relieve"],
+          "antonyms": ["worsen", "increase"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "alleviation",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of making something less severe",
+          "examples": ["The treatment brought alleviation of symptoms."],
+          "collocations": ["pain alleviation", "poverty alleviation"],
+          "synonyms": ["relief", "reduction"],
+          "antonyms": ["worsening"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "alley",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a narrow street or passage between buildings",
+          "examples": ["They walked down a dark alley.", "The shop is in a small alley."],
+          "collocations": ["dark alley", "narrow alley", "back alley"],
+          "synonyms": ["lane", "passage"],
+          "antonyms": ["avenue"],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "alleyway",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a narrow path or street between buildings",
+          "examples": ["They hid in an alleyway.", "The alleyway was quiet."],
+          "collocations": ["dark alleyway", "narrow alleyway"],
+          "synonyms": ["alley", "passage"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    }
+  ]
+}
