@@ -1,0 +1,510 @@
+{
+  "items": [
+    {
+      "term": "proteids",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the basic organic compounds that make up living tissues and are the building blocks of proteins; the proteins of living organisms collectively",
+          "examples": [
+            "Proteids are essential for growth and repair of body tissues.",
+            "The lab measured the proteids in the blood sample."
+          ],
+          "collocations": ["dietary proteids", "digest proteids", "proteids intake", "protein proteids"],
+          "synonyms": ["protein", "peptide"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "health"]
+        }
+      ]
+    },
+    {
+      "term": "proteiform",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having the form or appearance of a protein; in biology, varying in protein-like structure",
+          "examples": [
+            "The proteiform structure allowed diverse binding.",
+            "Proteiform materials can mimic natural proteins in function."
+          ],
+          "collocations": ["proteiform structure", "proteiform material", "proteiform behavior"],
+          "synonyms": ["protein-like", "polypeptide-like"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "biochemistry", "materials science"]
+        }
+      ]
+    },
+    {
+      "term": "protein",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large, complex molecule that is essential for the structure, function, and regulation of the body's tissues and organs",
+          "examples": [
+            "Eggs are a good source of protein.",
+            "Muscle is made largely of protein."
+          ],
+          "collocations": ["protein powder", "protein intake", "protein synthesis", "high-protein diet"],
+          "synonyms": ["peptide", "polypeptide"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nutrition", "biology", "health"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a particular kind of dietary or structural protein, such as a specific protein found in foods",
+          "examples": [
+            "Whey protein is popular among athletes.",
+            "Casein is a slow-digesting protein."
+          ],
+          "collocations": ["whey protein", "casein protein", "protein types"],
+          "synonyms": ["protein type"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nutrition", "food science"]
+        }
+      ]
+    },
+    {
+      "term": "proteinaceous",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "containing or made of protein or protein-like substances",
+          "examples": [
+            "The seeds have a proteinaceous coating.",
+            "Proteinaceous matter was found in the sample."
+          ],
+          "collocations": ["proteinaceous material", "proteinaceous coating", "proteinaceous content"],
+          "synonyms": ["protein-based", "peptide-derived"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "chemistry", "textile science"]
+        }
+      ]
+    },
+    {
+      "term": "proteinase",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an enzyme that breaks down proteins by hydrolyzing peptide bonds",
+          "examples": [
+            "Proteinases are used in digestion and various industrial processes.",
+            "The sample contained protease and proteinase activities."
+          ],
+          "collocations": ["protease enzyme", "proteinase activity", "proteinase inhibitor"],
+          "synonyms": ["protease"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "biochemistry", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "proteinases",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of proteinase; enzymes that break down proteins",
+          "examples": [
+            "The study examined various proteinases in digestive fluids.",
+            "Proteinases play a role in disease processes if unregulated."
+          ],
+          "collocations": ["matrix metalloproteinases", "proteinases activity", "proteinases inhibitors"],
+          "synonyms": ["proteases"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "medicine", "biochemistry"]
+        }
+      ]
+    },
+    {
+      "term": "proteinate",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to bind a metal ion with a protein or to form a complex with a protein that includes a metal",
+          "examples": [
+            "The solution proteinated the metal ion with a protein ligand.",
+            "They proteinate several trace metals for analysis."
+          ],
+          "collocations": ["proteinate metal", "proteinates complex", "proteinated complex"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "biochemistry", "laboratory science"]
+        }
+      ]
+    },
+    {
+      "term": "proteinic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "related to or resembling protein; having the characteristics of a protein",
+          "examples": [
+            "The proteinic texture of the gel mimicked real tissue.",
+            "Proteinic properties were observed in the synthetic material."
+          ],
+          "collocations": ["proteinic properties", "proteinic content", "proteinic nature"],
+          "synonyms": ["protein-like", "peptide-like"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "materials science"]
+        }
+      ]
+    },
+    {
+      "term": "proteinochromogen",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance that forms a chromogen (colored compound) upon reaction with protein; used in certain biochemical tests",
+          "examples": [
+            "Proteinochromogen is used to visualize protein-containing solutions.",
+            "The assay employed a proteinochromogen to indicate protein presence."
+          ],
+          "collocations": ["proteinochromogen test", "proteinochromogen indicator"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "biochemistry", "diagnostics"]
+        }
+      ]
+    },
+    {
+      "term": "proteinous",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "consisting of or containing protein; made of proteins",
+          "examples": [
+            "Proteinous matter was extracted from the sample.",
+            "The diet included proteinous foods like meat and legumes."
+          ],
+          "collocations": ["proteinous material", "proteinous diet"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "proteinphobia",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an fear or aversion to protein or foods rich in protein; rare but used in some medical or psychological contexts",
+          "examples": [
+            "Proteinphobia can complicate dietary management in certain patients.",
+            "Some instructors discuss proteinphobia in nutrition courses."
+          ],
+          "collocations": ["proteinphobia in patients", "address proteinphobia"],
+          "synonyms": ["protein aversion"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "nutrition", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "proteins",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "large, complex molecules that are essential for the structure, function, and regulation of the body's tissues and organs",
+          "examples": [
+            "Proteins help build and repair body tissues.",
+            "Milk, eggs, and meat are good sources of proteins."
+          ],
+          "collocations": ["protein intake", "protein-rich foods", "protein synthesis"],
+          "synonyms": ["proteins (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nutrition", "biology", "health"]
+        }
+      ]
+    },
+    {
+      "term": "proteinuria",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the presence of abnormal amounts of protein in the urine, which can indicate kidney disease",
+          "examples": [
+            "Proteinuria can be a sign of kidney problems.",
+            "The patient underwent tests to determine the cause of proteinuria."
+          ],
+          "collocations": ["persistent proteinuria", "nephrotic proteinuria", "urine protein test"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "nephrology", "health"]
+        }
+      ]
+    },
+    {
+      "term": "proteinurias",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of proteinuria; instances of protein in urine",
+          "examples": [
+            "The report noted several proteinurias across the patient cohort.",
+            "Variable proteinurias were observed in the study."
+          ],
+          "collocations": ["proteinurias levels", "document proteinurias"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "nephrology"]
+        }
+      ]
+    },
+    {
+      "term": "proteinuric",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or causing protein in the urine",
+          "examples": [
+            "Proteinuric conditions require careful renal monitoring.",
+            "The proteinuric state suggested kidney involvement."
+          ],
+          "collocations": ["proteinuric patient", "proteinuric state"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "nephrology"]
+        }
+      ]
+    },
+    {
+      "term": "proteles",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a taxonomic genus name; historically used in zoology for a group of prehistoric mammals",
+          "examples": [
+            "Proteles is an archaic taxonomic term used in older literature.",
+            "The fossil record references proteles in discussions of early carnivorans."
+          ],
+          "collocations": ["Proteles genus"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "medical/scientific",
+          "domain": ["biology", "paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "protelidae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a taxonomic family name in zoological classification, used in historical contexts",
+          "examples": [
+            "Protelidae appears in some older taxonomic schemes.",
+            "The assignment of protelidae has changed with new phylogenetic data."
+          ],
+          "collocations": ["Protelidae family"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "taxonomy", "paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "protelytroptera",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an extinct or historical order of insects (or a term used in ancient classifications) in some taxonomic systems",
+          "examples": [
+            "Protelytroptera is encountered in older entomological literature."
+          ],
+          "collocations": ["Protelytroptera order"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "taxonomy", "paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "protelytropteran",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of the historical group Protelytroptera; may appear in old scientific texts",
+          "examples": [
+            "A protelytropteran was described in the fossil record."
+          ],
+          "collocations": ["protelytropteran specimen"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "taxonomy", "paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "protelytropteron",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a form or term used in historical taxonomic literature for a fragmentary organism within Protelytroptera",
+          "examples": [
+            "The protelytropteron lineage is debated among researchers."
+          ],
+          "collocations": ["protelytropteron specimen"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "taxonomy"]
+        }
+      ]
+    },
+    {
+      "term": "protelytropterous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to Protelytroptera or its characteristics; historically used",
+          "examples": [
+            "Protelytropterous features were noted in fossil analysis."
+          ],
+          "collocations": ["protelytropterous form"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "protemperance",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term meaning forward or early temperance; used historically in temperance discourse",
+          "examples": [
+            "In some reform writings, temperance was pursued with protemperance rhetoric."
+          ],
+          "collocations": ["protemperance movement"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "historical",
+          "domain": ["history", "social movements"]
+        }
+      ]
+    },
+    {
+      "term": "protempirical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to provisional or temporary empirical evidence or procedures",
+          "examples": [
+            "The researchers relied on protempirical data until confirmatory results arrived."
+          ],
+          "collocations": ["protempirical evidence", "protempirical method"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "research"]
+        }
+      ]
+    },
+    {
+      "term": "protemporaneous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "happening in the near present; immediate or current",
+          "examples": [
+            "Protemporaneous reaction required quick adjustment."
+          ],
+          "collocations": ["protemporaneous decision"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "protend",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to indicate or foreshadow a future event; to point forward",
+          "examples": [
+            "Dark clouds protend a coming storm.",
+            "Her statement protends an upcoming policy change."
+          ],
+          "collocations": ["protend doom", "protend changes"],
+          "synonyms": ["portend", "foretell"],
+          "antonyms": ["happen", "occur"],
+          "register": "formal",
+          "domain": ["literature", "forecasting", "mythology"]
+        }
+      ]
+    }
+  ]
+}

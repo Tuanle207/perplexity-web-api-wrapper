@@ -1,0 +1,588 @@
+{
+  "items": [
+    {
+      "term": "proctorages",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the position or offices of a proctor; the duties or status associated with being a proctor",
+          "examples": [
+            "The university announced changes to the proctorages overseeing examinations.",
+            "Her proctorages included supervising exams and maintaining exam integrity."
+          ],
+          "collocations": [
+            "proctorage duties",
+            "academic proctorage",
+            "legal proctorage",
+            "grant proctorage"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "proctoral",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "of or relating to a proctor, particularly in an academic setting",
+          "examples": [
+            "The proctoral staff monitored the exam room.",
+            "She wore proctoral insignia during the test period."
+          ],
+          "collocations": [
+            "proctoral duties",
+            "proctoral staff",
+            "proctoral supervision"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "proctored",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "monitored or supervised during an examination to prevent cheating",
+          "examples": [
+            "The exam was proctored to ensure fair conduct.",
+            "Students must arrive early for proctored testing."
+          ],
+          "collocations": [
+            "proctored exam",
+            "proctored test",
+            "proctored setting"
+          ],
+          "synonyms": ["supervised", "monitored"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "proctorial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a proctor; connected with supervision during examinations",
+          "examples": [
+            "Proctorial rules apply in all examination rooms.",
+            "The proctorial staff handle seating and timing."
+          ],
+          "collocations": [
+            "proctorial rules",
+            "proctorial staff",
+            "proctorial duties"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "proctorially",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a proctorial manner; with supervision during an examination",
+          "examples": [
+            "Students were proctorially monitored during the assessment.",
+            "The room was proctorially organized to minimize cheating."
+          ],
+          "collocations": [
+            "proctorially monitored",
+            "proctorially arranged"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "proctorical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "see proctorial; relating to a proctor",
+          "examples": [
+            "The proctorical procedures were followed precisely.",
+            "He wore proctorical insignia."
+          ],
+          "collocations": [
+            "proctorical procedures",
+            "proctorical insignia"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "proctoring",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of supervising an examination to prevent cheating",
+          "examples": [
+            "Proctoring is required for online quizzes.",
+            "Automated proctoring raises privacy concerns."
+          ],
+          "collocations": [
+            "online proctoring",
+            "examination proctoring",
+            "remote proctoring",
+            "proctoring software"
+          ],
+          "synonyms": ["supervision", "monitoring"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "proctorise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to supervise or administer a test; to appoint a proctor for an examination",
+          "examples": [
+            "The school plans to proctorise all final exams.",
+            "They decided to proctorise the online assessment."
+          ],
+          "collocations": [
+            "proctorise exams",
+            "proctorise tests",
+            "proctorise online assessments"
+          ],
+          "synonyms": ["supervise", "administer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "proctorised",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "having been supervised or administered a test by a proctor",
+          "examples": [
+            "The exams were proctorised to ensure integrity.",
+            "She was proctorised using remote monitoring software."
+          ],
+          "collocations": [
+            "proctorised exams",
+            "proctorised assessment"
+          ],
+          "synonyms": ["supervised", "monitored"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "proctorizes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of proctorize; supervises or administers tests",
+          "examples": [
+            "The platform proctorizes exams for online learners.",
+            "It proctorizes assessments to prevent cheating."
+          ],
+          "collocations": [
+            "proctorizes exams",
+            "proctorizes assessments"
+          ],
+          "synonyms": ["supervises", "monitors"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "proctorising",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of proctorise; supervising or administering tests",
+          "examples": [
+            "The platform is proctorising the online course.",
+            "They are proctorising exams to ensure fairness."
+          ],
+          "collocations": [
+            "proctorising exams",
+            "proctorising assessments"
+          ],
+          "synonyms": ["supervising", "monitoring"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "proctorization",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of proctoring or the state of being proctored",
+          "examples": [
+            "Proctorization helps maintain exam integrity.",
+            "Concerns about proctorization include privacy."
+          ],
+          "collocations": [
+            "examination proctorization",
+            "remote proctorization",
+            "proctorization process"
+          ],
+          "synonyms": ["supervision", "monitoring"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "proctorize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to supervise or administer a test; to appoint a proctor",
+          "examples": [
+            "They decided to proctorize the final examination.",
+            "The system can proctorize tests remotely."
+          ],
+          "collocations": [
+            "proctorize exams",
+            "proctorize assessment"
+          ],
+          "synonyms": ["supervise", "administer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "proctorized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "having been supervised or administered a test by a proctor",
+          "examples": [
+            "The exams were proctorized with strict identity checks.",
+            "Students completed proctorized assessments remotely."
+          ],
+          "collocations": [
+            "proctorized exams",
+            "proctorized assessment"
+          ],
+          "synonyms": ["supervised", "monitored"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "proctorizes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of proctorize; supervises or administers tests",
+          "examples": [
+            "The software proctorizes exams for remote students.",
+            "It proctorizes assessments to preserve integrity."
+          ],
+          "collocations": [
+            "proctorizes exams",
+            "proctorizes assessments"
+          ],
+          "synonyms": ["supervises", "monitors"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "proctorizing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of proctorize; supervising or administering tests",
+          "examples": [
+            "The system is proctorizing exams.",
+            "They discussed proctorizing practices for online courses."
+          ],
+          "collocations": [
+            "proctorizing exams",
+            "proctorizing assessments"
+          ],
+          "synonyms": ["supervising", "monitoring"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "proctorling",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or practice of proctoring; supervising examinations",
+          "examples": [
+            "Proctorling is essential for online test integrity.",
+            "They reviewed proctorling guidelines."
+          ],
+          "collocations": [
+            "examination proctoring",
+            "online proctorling",
+            "proctorling guidelines"
+          ],
+          "synonyms": ["supervision", "monitoring"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "proctorrhagia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "abnormally heavy vaginal bleeding during or after pregnancy monitored by a proctor in medical contexts; note: presence is extremely rare and technical",
+          "examples": [
+            "The case described proctorrhagia as a rare obstetric complication.",
+            "Medical records noted episodes of proctorrhagia requiring intervention."
+          ],
+          "collocations": [
+            "proctorrhagia episodes",
+            "obstetric proctorrhagia"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["medicine", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "proctorrhaphy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "surgical repair of a proctor; extremely uncommon term in medical literature; may appear in obstetric or urologic contexts",
+          "examples": [
+            "The report mentioned proctorrhaphy as part of complex pelvic surgery."
+          ],
+          "collocations": [
+            "proctorrhaphy procedure"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["medicine", "surgery"]
+        }
+      ]
+    },
+    {
+      "term": "proctorrhea",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "extremely rare or misspelled term; no established meaning in contemporary English",
+          "examples": [
+            "There is little to no usage of proctorrhea in dictionaries."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "proctors",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who supervise examinations to prevent cheating",
+          "examples": [
+            "The proctors circulated quietly during the finals.",
+            "Proctors can request identification before entering the room."
+          ],
+          "collocations": [
+            "exams proctors",
+            "examination proctors",
+            "temporary proctors"
+          ],
+          "synonyms": ["supervisors", "monitors"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "proctorship",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the position or role of a proctor; the duties of supervising examinations",
+          "examples": [
+            "She was offered a proctorship at the university.",
+            "The proctorship involves training in test security."
+          ],
+          "collocations": [
+            "take on proctorship",
+            "proctorship duties",
+            "proctorship program"
+          ],
+          "synonyms": ["supervision role", "monitoring role"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "proctorships",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of proctorship; multiple proctor positions or roles",
+          "examples": [
+            "Several proctorships are available for trained applicants.",
+            "The university announced new proctorships for online exams."
+          ],
+          "collocations": [
+            "several proctorships",
+            "new proctorships",
+            "proctorship programs"
+          ],
+          "synonyms": ["supervision roles", "monitoring roles"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "proctoscope",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a medical instrument for examining the anus and lower rectum",
+          "examples": [
+            "The doctor used a proctoscope to inspect the patient’s rectum.",
+            "Proctoscopes are designed for easy insertion and viewing."
+          ],
+          "collocations": [
+            "rectal examination",
+            "proctoscope procedure",
+            "proctoscope usage"
+          ],
+          "synonyms": ["anoscope", "rectoscope"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "proctoscopes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of proctoscope; multiple medical instruments used for examining the rectum",
+          "examples": [
+            "The clinic stocked several proctoscopes for procedures.",
+            "Proctoscopes vary in length and viewing angle."
+          ],
+          "collocations": [
+            "medical proctoscopes",
+            "proctoscope models",
+            "rectal examination tools"
+          ],
+          "synonyms": ["anoscopes", "rectoscopes"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "healthcare"]
+        }
+      ]
+    }
+  ]
+}

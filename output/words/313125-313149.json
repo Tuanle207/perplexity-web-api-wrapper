@@ -1,0 +1,702 @@
+{
+  "items": [
+    {
+      "term": "psychiatry",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the medical field that studies, treats, and helps prevent mental illnesses and disorders",
+          "examples": [
+            "She decided to study psychiatry after volunteering in a mental health clinic.",
+            "Psychiatry often works with psychology and social services to support patients."
+          ],
+          "collocations": [
+            "medical psychiatry",
+            "psychiatry residency",
+            "psychiatry clinic",
+            "psychiatry department"
+          ],
+          "synonyms": [
+            "psychiatry (medical field)",
+            "mental health medicine"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical", "healthcare", "general"]
+        }
+      ]
+    },
+    {
+      "term": "psychic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who claims to have abilities to know things beyond normal senses, such as seeing the future or reading minds",
+          "examples": [
+            "The psychic told her she would travel soon.",
+            "Some people visit psychics for guidance."
+          ],
+          "collocations": [
+            "famous psychic",
+            "psychic powers",
+            "visit a psychic",
+            "psychic reading"
+          ],
+          "synonyms": [
+            "telepath",
+            "seer",
+            "clairvoyant"
+          ],
+          "antonyms": ["skeptic", "nonbeliever"],
+          "register": "neutral",
+          "domain": ["general", "occult", "entertainment"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to the mind or the supposed ability to perceive things without using the senses",
+          "examples": [
+            "psychic phenomena are often debated by scientists.",
+            "She has a psychic connection with her sister."
+          ],
+          "collocations": [
+            "psychic ability",
+            "psychic power",
+            "psychic reading"
+          ],
+          "synonyms": [
+            "mental",
+            "spiritual (less precise)"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "paranormal"]
+        }
+      ]
+    },
+    {
+      "term": "psychical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the mind or to mental processes; sometimes used historically for spiritual or paranormal things",
+          "examples": [
+            "They discussed psychical research in the 19th century.",
+            "Some people believed psychical energies affected thoughts."
+          ],
+          "collocations": [
+            "psychical research",
+            "psychical phenomena"
+          ],
+          "synonyms": [
+            "mental",
+            "psychological"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "paranormal", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "psychically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that relates to the mind or to psychic abilities",
+          "examples": [
+            "She seemed to sense danger psychically.",
+            "The events are thought to be connected psychically."
+          ],
+          "collocations": [
+            "psychically connected",
+            "psychically aware"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "paranormal"]
+        }
+      ]
+    },
+    {
+      "term": "psychichthys",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a genus name used in taxonomy; a type of fish classification within Ichthyology, often not used in everyday language",
+          "examples": [
+            "The specimen belonged to the genus Psychichthys."
+          ],
+          "collocations": [
+            "genus Psychichthys",
+            "species within Psychichthys"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "psychicism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the belief in or study of psychic powers or mental processes; often used to refer to spiritual or paranormal thinking",
+          "examples": [
+            "Her writings explored psychicism and intuition.",
+            "Psychicism is a controversial topic in science."
+          ],
+          "collocations": [
+            "psychicism movement",
+            "practices of psychicism"
+          ],
+          "synonyms": [
+            "psychic belief",
+            "parapsychology (related field)"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "paranormal", "philosophical"]
+        }
+      ]
+    },
+    {
+      "term": "psychicisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "claims or beliefs in psychic powers; the quality of being psychic or relating to psychics",
+          "examples": [
+            "The book collects various psychicisms from different cultures.",
+            "Critics dismissed these psychicisms as superstition."
+          ],
+          "collocations": [
+            "various psychicisms",
+            "types of psychicisms"
+          ],
+          "synonyms": [
+            "psychic beliefs",
+            "paranormal claims"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "paranormal"]
+        }
+      ]
+    },
+    {
+      "term": "psychicist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who studies or claims to study psychic phenomena; sometimes used for researchers in parapsychology",
+          "examples": [
+            "The conference invited a well-known psychicist.",
+            "Psychicists test claims of telepathy."
+          ],
+          "collocations": [
+            "renowned psychicist",
+            "psychicist research"
+          ],
+          "synonyms": [
+            "parapsychologist",
+            "seer (informal)"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic", "paranormal"]
+        }
+      ]
+    },
+    {
+      "term": "psychicists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of psychicist; multiple people who study or claim to study psychic phenomena",
+          "examples": [
+            "The symposium featured several psychicists from different countries."
+          ],
+          "collocations": [
+            "psychicists gathering",
+            "psychicists panel"
+          ],
+          "synonyms": [
+            "parapsychologists"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic", "paranormal"]
+        }
+      ]
+    },
+    {
+      "term": "psychics",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who claim to have psychic abilities such as reading minds or predicting the future",
+          "examples": [
+            "The town has a famous psychic who visits every month.",
+            "Many people go to psychics for guidance."
+          ],
+          "collocations": [
+            "famous psychic",
+            "psychics offer readings",
+            "visit a psychic"
+          ],
+          "synonyms": [
+            "clairvoyants",
+            "seers"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "psychid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a larva stage of a bagworm moth, feeding on leaves and forming protective cases",
+          "examples": [
+            "Psychid larvae create portable cases covered with silk and plant material."
+          ],
+          "collocations": [
+            "psychid larva",
+            "psychid case"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "natural_science"]
+        }
+      ]
+    },
+    {
+      "term": "psychidae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the family of moths that includes bagworms, known as Psychidae",
+          "examples": [
+            "Psychidae is a family of moths notable for their protective cases."
+          ],
+          "collocations": [
+            "Psychidae family",
+            "psychid moths"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "taxonomy"]
+        }
+      ]
+    },
+    {
+      "term": "psyching",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of stimulating, exciting, or revving up a person or team; also slang for getting ready or pumped up",
+          "examples": [
+            "The coach was psyching the players before kickoff."
+          ],
+          "collocations": [
+            "psyching up",
+            "psyching the crowd"
+          ],
+          "synonyms": [
+            "exciting",
+            "revving up"
+          ],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports", "general"]
+        }
+      ]
+    },
+    {
+      "term": "psychism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the belief in or study of mind-related or psychic phenomena",
+          "examples": [
+            "Philosophers debated psychism and its implications for consciousness."
+          ],
+          "collocations": [
+            "concept of psychism",
+            "psychism and consciousness"
+          ],
+          "synonyms": [
+            "parapsychology",
+            "telepathy belief"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "philosophical"]
+        }
+      ]
+    },
+    {
+      "term": "psychisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "beliefs or ideas about mind-related or psychic phenomena; plural form of psychism",
+          "examples": [
+            "The anthology collects various psychisms from around the world."
+          ],
+          "collocations": [
+            "different psychisms",
+            "psychisms across cultures"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "psychist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who studies or believes in psychism or psychic phenomena",
+          "examples": [
+            "As a self-described psychist, she explored intuition and perception."
+          ],
+          "collocations": [
+            "practicing psychist",
+            "psychist researcher"
+          ],
+          "synonyms": [
+            "parapsychologist"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic", "paranormal"]
+        }
+      ]
+    },
+    {
+      "term": "psychists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of psychist; multiple people who study or believe in psychism",
+          "examples": [
+            "The conference gathered several psychists from different countries."
+          ],
+          "collocations": [
+            "group of psychists",
+            "psychists meeting"
+          ],
+          "synonyms": [
+            "parapsychologists"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic", "paranormal"]
+        }
+      ]
+    },
+    {
+      "term": "psycho",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a socially used, sometimes offensive term referring to a person who is mentally unstable or who acts irrationally",
+          "examples": [
+            "The nickname was used to insult him as a 'psycho'."
+          ],
+          "collocations": [
+            "crazy psycho",
+            "violent psycho"
+          ],
+          "synonyms": [
+            "madman",
+            "lunatic" 
+          ],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "slang"]
+        },
+        {
+          "pos": "prefix",
+          "definition": "a combining form meaning mind; used to form words related to mental processes or psychological topics",
+          "examples": [
+            "psychoanalysis",
+            "psychohistory"
+          ],
+          "collocations": [
+            "psycho- prefixes"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "psychoacoustic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the psychological and physiological aspects of sound perception",
+          "examples": [
+            "Psychoacoustic research studies how humans hear and interpret sounds."
+          ],
+          "collocations": [
+            "psychoacoustic research",
+            "psychoacoustic experiments"
+          ],
+          "synonyms": [
+            "auditory perception",
+            "perceptual acoustics"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "psychoacoustics",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the science studying how humans perceive sound, including loudness, pitch, and timbre",
+          "examples": [
+            "Psychoacoustics explains why certain sounds seem louder than others."
+          ],
+          "collocations": [
+            "psychoacoustics research",
+            "psychoacoustics theory"
+          ],
+          "synonyms": [
+            "auditory perception science"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "psychoactive",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "substances that affect the mind or behavior, such as drugs that change mood or perception",
+          "examples": [
+            "Cannabis is a psychoactive substance.",
+            "The drug is used for its psychoactive effects."
+          ],
+          "collocations": [
+            "psychoactive drug",
+            "psychoactive effect",
+            "psychoactive substances"
+          ],
+          "synonyms": [
+            "mind-altering",
+            "psychedelic (contextual)"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "psychoanal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "abbreviated or historical term for a person trained in psychoanalysis (less common in modern usage)",
+          "examples": [
+            "The psychoanal attended the seminar."
+          ],
+          "collocations": [
+            "psychoanal term"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["psychology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "psychoanalyse",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to perform psychoanalysis on someone; to analyze mental processes and emotions",
+          "examples": [
+            "The therapist decided to psychoanalyse the patient to explore unresolved conflicts."
+          ],
+          "collocations": [
+            "psychoanalyse the patient",
+            "psychoanalyse sessions"
+          ],
+          "synonyms": [
+            "psychoanalyze"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["psychology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "psychoanalysed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of psychoanalyse; underwent psychoanalysis",
+          "examples": [
+            "She psychoanalysed her childhood memories in therapy."
+          ],
+          "collocations": [
+            "psychoanalysed memories",
+            "psychoanalysed reports"
+          ],
+          "synonyms": [
+            "psychoanalyzed"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["psychology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "psychoanalyser",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who performs psychoanalysis; a psychoanalyst",
+          "examples": [
+            "The psychoanalyst or psychoanalyser listened carefully."
+          ],
+          "collocations": [
+            "senior psychoanalyser",
+            "psychoanalyser training"
+          ],
+          "synonyms": [
+            "psychoanalyst"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["psychology", "medicine", "therapy"]
+        }
+      ]
+    },
+    {
+      "term": "psychoanalysed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of psychoanalyse; underwent psychoanalysis",
+          "examples": [
+            "She psychoanalysed her childhood memories in therapy."
+          ],
+          "collocations": [
+            "psychoanalysed memories",
+            "psychoanalysed reports"
+          ],
+          "synonyms": [
+            "psychoanalyzed"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["psychology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "psychoanalyser",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who performs psychoanalysis; a psychoanalyst",
+          "examples": [
+            "The psychoanalyst or psychoanalyser listened carefully."
+          ],
+          "collocations": [
+            "senior psychoanalyser",
+            "psychoanalyser training"
+          ],
+          "synonyms": [
+            "psychoanalyst"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["psychology", "medicine", "therapy"]
+        }
+      ]
+    }
+  ]
+}

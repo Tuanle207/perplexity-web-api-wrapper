@@ -1,0 +1,582 @@
+{
+  "items": [
+    {
+      "term": "presbyterially",
+      "kind": "adverb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a manner related to or resembling a presbytery or presbyters (elders) in church government.",
+          "examples": [
+            "The council discussed the issue presbyterially, with input from several elders.",
+            "They organized the meeting presbyterially, following the structure of the elder-led system."
+          ],
+          "collocations": [
+            "presbyterially organized",
+            "presbyterially led",
+            "presbyterially governed"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presbyterials",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form referring to matters or items pertaining to presbyteries or presbyterial governance.",
+          "examples": [
+            "The documents outline several presbyterials that govern regional churches.",
+            "They collected presbyterials from across the network."
+          ],
+          "collocations": [
+            "presbyterials governed",
+            "presbyterials documents",
+            "presbyterials network"
+          ],
+          "synonyms": ["presbyteries-related matters"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presbyterian",
+      "kind": "adjective",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or characteristic of a Presbyterian church or its governance; Presbyterian in denomination.",
+          "examples": [
+            "She attends a Presbyterian church.",
+            "The Presbyterian system uses elected elders to govern the church."
+          ],
+          "collocations": [
+            "Presbyterian church",
+            "Presbyterian governance",
+            "Presbyterian denomination",
+            "Presbyterian doctrine"
+          ],
+          "synonyms": ["Protestant", "Reformed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presbyterianise",
+      "kind": "verb",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To make something governed or organized in accordance with Presbyterian principles or structures.",
+          "examples": [
+            "The new constitution was presbyterianised to align with elder-led governance.",
+            "They attempted to presbyterianise the organizational framework."
+          ],
+          "collocations": [
+            "presbyterianise governance",
+            "presbyterianise structure",
+            "presbyterianise church affairs"
+          ],
+          "synonyms": ["reorganize along presbyterian lines"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presbyterianism",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The Protestant Christian church government and doctrine that uses a system of elected elders (presbyters) and presbyteries.",
+          "examples": [
+            "Presbyterianism emphasizes rule by eldership and doctrinal Calvinist roots.",
+            "They studied Presbyterianism to understand its church governance."
+          ],
+          "collocations": [
+            "Presbyterianism history",
+            "Presbyterianism doctrine",
+            "Presbyterianism structure",
+            "Presbyterianism church"
+          ],
+          "synonyms": ["Reformed church government"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "presbyterianize",
+      "kind": "verb",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To adopt or implement Presbyterian form of governance or doctrine; to make something Presbyterian in character.",
+          "examples": [
+            "The organization was Presbyterianized to include elder oversight.",
+            "They decided to Presbyterianize the governance model."
+          ],
+          "collocations": [
+            "Presbyterianize governance",
+            "Presbyterianize structure",
+            "Presbyterianize church operations"
+          ],
+          "synonyms": ["reorganize along presbyterian lines"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "organization", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presbyterianly",
+      "kind": "adverb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a manner typical of Presbyterian governance or doctrine; in a way that reflects Presbyterian principles.",
+          "examples": [
+            "The council acted presbyterianly, with careful elder input.",
+            "They organized the meeting presbyterianly, following established procedures."
+          ],
+          "collocations": [
+            "act presbyterianly",
+            "govern presbyterianly",
+            "organize presbyterianly"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presbyterians",
+      "kind": "noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Members or followers of the Presbyterian church.",
+          "examples": [
+            "The Presbyterians gathered for worship.",
+            "Presbyterians emphasize elder-led governance."
+          ],
+          "collocations": [
+            "Presbyterians church",
+            "Presbyterians worship",
+            "Presbyterians beliefs"
+          ],
+          "synonyms": ["Presbyterians members"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presbyteries",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Groups of elders and ministers that govern local congregations in Presbyterian church structure; the regional governing bodies.",
+          "examples": [
+            "The presbyteries meet to decide on church policy.",
+            "Membership in several presbyteries affects presidency decisions."
+          ],
+          "collocations": [
+            "local presbyteries",
+            "presbyteries meeting",
+            "presbyteries system"
+          ],
+          "synonyms": ["elder councils", "regional synods"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "presbyterium",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The body of presbyters or the spiritual leadership within a diocese or church.",
+          "examples": [
+            "The presbyterium congregated to discuss the new policy.",
+            "He spoke with the presbyterium about the church's future."
+          ],
+          "collocations": [
+            "presbyterium governance",
+            "presbyterium meeting",
+            "presbyterium leadership"
+          ],
+          "synonyms": ["presbytery leadership"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "presbyters",
+      "kind": "noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Elders in the Christian church who are part of the governance; priests in some traditions.",
+          "examples": [
+            "The presbyters led the council meeting.",
+            "She consulted the presbyters before making a decision."
+          ],
+          "collocations": [
+            "senior presbyters",
+            "presbyters council",
+            "ordained presbyters"
+          ],
+          "synonyms": ["elders", "priests (in some contexts)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presbytership",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The office or tenure of a presbyter; the body of presbyters collectively.",
+          "examples": [
+            "Her presbytership lasted several decades.",
+            "The presbytership provided governance for the denomination."
+          ],
+          "collocations": [
+            "presbytership tenure",
+            "presbytership leadership",
+            "presbytership role"
+          ],
+          "synonyms": ["elderhood", "presbytery leadership"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "presbyterships",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple offices or tenures of presbyters; collective elder leadership positions.",
+          "examples": [
+            "The presbyterships across regions were reorganized.",
+            "Several presbyterships met to review church policy."
+          ],
+          "collocations": [
+            "regional presbyterships",
+            "presbyterships meetings",
+            "presbyterships governance"
+          ],
+          "synonyms": ["elder leaderships", "presbyteries"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "presbytery",
+      "kind": "noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A district governed by a group of presbyters; also the house of a Catholic priest in some contexts.",
+          "examples": [
+            "The presbytery met to discuss church matters.",
+            "They visited the priest at the presbytery."
+          ],
+          "collocations": [
+            "local presbytery",
+            "presbytery house",
+            "presbytery governance"
+          ],
+          "synonyms": ["diocesan council", "elder body"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["religion", "geography", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presbytes",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form; not a standard common word; may refer to items or records associated with presbyteries in specialized contexts.",
+          "examples": [
+            "They filed the presbytes for the regional church audit."
+          ],
+          "collocations": [
+            "presbytes records",
+            "presbytes documents"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "presbytia",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A plural or genus-related term in ecclesiastical contexts; not a common everyday word in English.",
+          "examples": [
+            "The term presbytia appeared in historical church documents."
+          ],
+          "collocations": [
+            "presbytia terminology"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "presbytic",
+      "kind": "adjective",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Of or relating to presbytery or Presbyterian governance; archaic or rare in modern usage.",
+          "examples": [
+            "A presbytic tradition influenced their liturgical practices."
+          ],
+          "collocations": [
+            "presbytic doctrine",
+            "presbytic governance"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "presbytinae",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Taxonomic or scholarly plural term; not common in everyday usage; may refer to a subfamily within a biological naming system.",
+          "examples": [
+            "The fossil group belongs to the Presbytinae subfamily in paleontology texts."
+          ],
+          "collocations": [
+            "Presbytinae classification"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "presbytis",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A genus in biology; not common in everyday language.",
+          "examples": [
+            "Presbytis is a genus of old world monkeys."
+          ],
+          "collocations": [
+            "Presbytis genus",
+            "Presbytis species"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "scientific",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "presbytism",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A doctrine or practice associated with presbyterian governance; rarely used in modern English.",
+          "examples": [
+            "The treatise discusses presbytism in early church governance."
+          ],
+          "collocations": [
+            "presbytism doctrine",
+            "presbytism practice"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "presbytisms",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of presbytism; rare in ordinary use.",
+          "examples": [
+            "Various presbytisms are discussed in the historical text."
+          ],
+          "collocations": [
+            "presbytisms theories"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "prescan",
+      "kind": "verb",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To scan or examine something in advance, especially before a main process or action.",
+          "examples": [
+            "They will prescan the data before the full analysis.",
+            "The system can prescan files for viruses."
+          ],
+          "collocations": [
+            "prescan data",
+            "prescan files",
+            "prescan for"
+          ],
+          "synonyms": ["pre-scan"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prescapula",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Anatomical term referring to the area in front of the scapula (shoulder blade); used in medical contexts.",
+          "examples": [
+            "Pain under the prescapula can indicate muscle strain."
+          ],
+          "collocations": [
+            "prescapula region",
+            "prescapula pain"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "prescapular",
+      "kind": "adjective",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Situated in front of the scapula; relating to the prescapular area.",
+          "examples": [
+            "Prescapular lymph nodes were examined during the checkup."
+          ],
+          "collocations": [
+            "prescapular region",
+            "prescapular lymph"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "prescapularis",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Latin-derived taxonomic or anatomical term; rarely used in general English.",
+          "examples": [
+            "The paper cites the prescapularis muscle in its schematic diagram."
+          ],
+          "collocations": [
+            "prescapularis muscle"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "medical/academic",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    }
+  ]
+}

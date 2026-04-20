@@ -1,0 +1,279 @@
+{
+  "items": [
+    {
+      "term": "retracks",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "returns along the same path again",
+          "examples": ["He retracks his steps to find the lost key."],
+          "collocations": ["retracks steps", "retracks path", "retracks route"],
+          "synonyms": ["backtrack", "reverse", "return"],
+          "antonyms": ["advance", "proceed"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "retract",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to take back a statement or opinion",
+          "examples": ["She retracted her earlier claim.", "The newspaper retracted the false story."],
+          "collocations": ["retract a statement", "retract a claim", "retract an apology"],
+          "synonyms": ["withdraw", "take back", "recant"],
+          "antonyms": ["confirm", "assert"],
+          "register": null,
+          "domain": ["general", "media"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to pull something back into its original place",
+          "examples": ["The cat retracted its claws.", "The wheels retract during flight."],
+          "collocations": ["retract claws", "retract wheels", "retract arm"],
+          "synonyms": ["pull back", "withdraw", "draw in"],
+          "antonyms": ["extend", "expand"],
+          "register": null,
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "retractability",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the ability to be pulled back or withdrawn",
+          "examples": ["The retractability of the roof is useful.", "Engineers tested the retractability of the device."],
+          "collocations": ["retractability feature", "retractability mechanism"],
+          "synonyms": ["withdrawability"],
+          "antonyms": ["fixity"],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "retractable",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be pulled back or drawn in",
+          "examples": ["The plane has retractable landing gear.", "Use a retractable pen."],
+          "collocations": ["retractable roof", "retractable claws", "retractable pen"],
+          "synonyms": ["withdrawable", "foldable"],
+          "antonyms": ["fixed", "permanent"],
+          "register": null,
+          "domain": ["technology", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "retractation",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of taking back a statement",
+          "examples": ["His retractation came too late."],
+          "collocations": ["issue a retractation"],
+          "synonyms": ["retraction", "recantation"],
+          "antonyms": ["assertion"],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "retractations",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of retractation",
+          "examples": ["Several retractations were published."],
+          "collocations": ["multiple retractations"],
+          "synonyms": ["retractions"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "retracted",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of retract",
+          "examples": ["He retracted his statement.", "The claws were retracted."],
+          "collocations": ["retracted statement", "retracted claim"],
+          "synonyms": ["withdrawn", "taken back"],
+          "antonyms": ["confirmed"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "retractibility",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "ability to be pulled back",
+          "examples": ["The retractibility of the antenna is useful."],
+          "collocations": ["high retractibility"],
+          "synonyms": ["retractability"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "retractible",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be pulled back (variant spelling)",
+          "examples": ["The retractible cable saves space."],
+          "collocations": ["retractible cable"],
+          "synonyms": ["retractable"],
+          "antonyms": ["fixed"],
+          "register": "formal",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "retractile",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to draw back or contract",
+          "examples": ["Cats have retractile claws."],
+          "collocations": ["retractile claws", "retractile mechanism"],
+          "synonyms": ["contractile", "withdrawable"],
+          "antonyms": ["extendable"],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "retraction",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of taking back a statement",
+          "examples": ["The company issued a retraction.", "He demanded a public retraction."],
+          "collocations": ["issue a retraction", "public retraction"],
+          "synonyms": ["withdrawal", "recantation"],
+          "antonyms": ["confirmation"],
+          "register": null,
+          "domain": ["media"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the act of pulling something back",
+          "examples": ["The retraction of the claws was quick."],
+          "collocations": ["claw retraction", "muscle retraction"],
+          "synonyms": ["withdrawal", "pullback"],
+          "antonyms": ["extension"],
+          "register": null,
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "retractor",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a tool used to pull back tissue or parts",
+          "examples": ["The surgeon used a retractor.", "Retractors hold tissue aside."],
+          "collocations": ["surgical retractor", "use a retractor"],
+          "synonyms": ["instrument"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "retrain",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to learn new skills for a different job",
+          "examples": ["He retrained as a teacher.", "Workers retrain after layoffs."],
+          "collocations": ["retrain workers", "retrain for a job"],
+          "synonyms": ["reskill", "re-educate"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "education"]
+        }
+      ]
+    },
+    {
+      "term": "retraining",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of learning new skills for a new job",
+          "examples": ["Retraining programs help workers.", "He entered retraining."],
+          "collocations": ["job retraining", "retraining program"],
+          "synonyms": ["reskilling"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "retranscribe",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to write or record something again",
+          "examples": ["She retranscribed the interview.", "The notes were retranscribed."],
+          "collocations": ["retranscribe data", "retranscribe recording"],
+          "synonyms": ["rewrite", "transcribe again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["academic"]
+        }
+      ]
+    }
+  ]
+}

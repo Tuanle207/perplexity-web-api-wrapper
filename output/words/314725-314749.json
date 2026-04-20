@@ -1,0 +1,537 @@
+{
+  "items": [
+    {
+      "term": "puncture",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a hole made by a sharp object; a hole caused by puncturing",
+          "examples": [
+            "The tire went flat after a nail caused a puncture.",
+            "The balloon developed a puncture and slowly deflated."
+          ],
+          "collocations": ["puncture wound", "puncture hole", "flat puncture", "air puncture"],
+          "synonyms": ["hole", "perforation", "breach"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "medical"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to make a hole in something with a pointed object",
+          "examples": [
+            "A nail punctured the inner tube.",
+            "The needle punctures the fabric to let air through."
+          ],
+          "collocations": ["puncture a tire", "puncture skin", "puncture the cloth"],
+          "synonyms": ["pierce", "perforate", "stab"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "technical"]
+        }
+      ]
+    },
+    {
+      "term": "punctured",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a hole made by a sharp object",
+          "examples": [
+            "The punctured tire needed replacing.",
+            "He showed a punctured bag after the fall."
+          ],
+          "collocations": ["punctured tire", "punctured bag", "punctured skin"],
+          "synonyms": ["perforated", "pierced"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "transport"]
+        }
+      ]
+    },
+    {
+      "term": "punctureless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not punctured; without a hole or perforation",
+          "examples": [
+            "The punctureless tire remained intact after the trip.",
+            "A punctureless balloon is hard to pop."
+          ],
+          "collocations": ["punctureless tire", "punctureless balloon"],
+          "synonyms": ["unperforated", "intact"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "punctureproof",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "designed to resist being punctured; not easily penetrated",
+          "examples": [
+            "They installed punctureproof tires for the off-road trip.",
+            "The punctureproof casing protects the device from damage."
+          ],
+          "collocations": ["punctureproof tire", "punctureproof seal", "punctureproof coating"],
+          "synonyms": ["puncture-resistant", "resistant to puncture"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "puncturer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that punctures",
+          "examples": [
+            "A puncturer repaired the tire after the puncture.",
+            "The puncturer of the balloon caused it to deflate."
+          ],
+          "collocations": ["tire puncturer", "balloon puncturer"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "puncturers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people or devices that puncture",
+          "examples": [
+            "Road crews equipped with puncturers worked at the site.",
+            "The puncturers list included several common tools."
+          ],
+          "collocations": ["puncturers list", "puncturers equipment"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "work"]
+        }
+      ]
+    },
+    {
+      "term": "punctures",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "holes made by puncturing; holes in tires or other objects",
+          "examples": [
+            "The punctures in the tire caused a slow leak.",
+            "You should fix punctures before driving again."
+          ],
+          "collocations": ["tire punctures", "puncture punctures"],
+          "synonyms": ["perforations", "holes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "transport"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person singular of puncture; makes holes",
+          "examples": [
+            "The nail punctures the tube when pressure increases.",
+            "The needle punctures the fabric with ease."
+          ],
+          "collocations": ["punctures the tire", "punctures the film"],
+          "synonyms": ["pierces", "perforates"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "technical"]
+        }
+      ]
+    },
+    {
+      "term": "puncturing",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "gerund",
+          "definition": "the act of making a hole by a sharp object",
+          "examples": [
+            "Puncturing the balloon ruined the surprise.",
+            "Puncturing tires is dangerous on the road."
+          ],
+          "collocations": ["puncturing tires", "puncturing a balloon"],
+          "synonyms": ["piercing", "perforating"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "punctus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an anatomical or musical term meaning a point or dot; in anatomy a small point of the tooth root; in music a point or stroke",
+          "examples": [
+            "In anatomy, a punctus is used in some descriptions of points.",
+            "The term punctus appears in old musical notation."
+          ],
+          "collocations": ["punctus notation", "punctus in anatomy"],
+          "synonyms": ["point", "dot"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic", "medicine", "music"]
+        }
+      ]
+    },
+    {
+      "term": "pundigrion",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or coined term; no established meaning in common usage",
+          "examples": [
+            "The manuscript mentions pundigrion in a glossary.",
+            "Pundigrion is not widely recognized in modern English."
+          ],
+          "collocations": ["pundigrion term"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "pundigrions",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pundigrion; no established common use",
+          "examples": [
+            "Several pundigrions were listed in the glossary."
+          ],
+          "collocations": ["pundigrions list"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "pundit",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a famous or expert person who gives opinions publicly, especially on politics or current events",
+          "examples": [
+            "The pundit debated the policy on television.",
+            "Many pundits predicted a market downturn."
+          ],
+          "collocations": ["political pundit", "media pundit", "pundit panel"],
+          "synonyms": ["expert", "commentator"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media", "business", "politics"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a person who is highly opinionated and presumes to judge others' ideas",
+          "examples": [
+            "Don't be a pundit; just listen first.",
+            "The book targets pundits who overcomment on every issue."
+          ],
+          "collocations": ["media pundit", "celebrity pundit"],
+          "synonyms": ["commentator", "critic"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["culture", "society"]
+        }
+      ]
+    },
+    {
+      "term": "pundita",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female pundit; a woman who is a recognized expert or commentator",
+          "examples": [
+            "The conference featured several renowned punditas.",
+            "She became a respected pundita in international relations."
+          ],
+          "collocations": ["female pundit", "pundita panel"],
+          "synonyms": ["expert", "commentator (female)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "punditic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to pundits or their style of commentary",
+          "examples": [
+            "Her punditic analysis drew strong responses.",
+            "The punditic coverage was sharper than usual."
+          ],
+          "collocations": ["punditic commentary", "punditic style"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "punditically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that relates to pundits or their commentary",
+          "examples": [
+            "The article is punditically biased.",
+            "Punditically speaking, the issue is complex."
+          ],
+          "collocations": ["punditically biased", "punditically speaking"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "punditocracies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "governments or systems ruled by pundits or expert commentators rather than by traditional political bodies",
+          "examples": [
+            "Critics argued the era resembled a punditocracy more than a democracy.",
+            "The term punditocracy describes a state where media personalities influence policy."
+          ],
+          "collocations": ["punditocracy governance", "media-led punditocracy"],
+          "synonyms": ["expertocracy", "mediaocracy"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "media"]
+        }
+      ]
+    },
+    {
+      "term": "punditocracy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rule or government by pundits; a system dominated by media experts and opinion leaders",
+          "examples": [
+            "Some argued the country had become a punditocracy rather than a democracy.",
+            "The rise of punditocracy changed how policies were shaped."
+          ],
+          "collocations": ["rise of punditocracy", "punditocracy influence"],
+          "synonyms": ["expertocracy", "punditocracy (redundant)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "media"]
+        }
+      ]
+    },
+    {
+      "term": "punditries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "collection or group of pundits; sources of pundit commentary",
+          "examples": [
+            "The punditries offered a range of viewpoints.",
+            "Media outlets rely on several punditries for analysis."
+          ],
+          "collocations": ["punditries network", "punditries opinions"],
+          "synonyms": ["commentator groups", "experts"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media"]
+        }
+      ]
+    },
+    {
+      "term": "punditry",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the work or behavior of pundits; the activity of giving opinions publicly",
+          "examples": [
+            "Punditry often happens on TV talk shows.",
+            "He enjoyed a long career in punditry."
+          ],
+          "collocations": ["punditry on television", "punditry career"],
+          "synonyms": ["commentary", "analysis"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "pundits",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pundit; expert commentators",
+          "examples": [
+            "The pundits debated the budget on the morning show.",
+            "Several pundits disagreed with the analysis."
+          ],
+          "collocations": ["political pundits", "media pundits"],
+          "synonyms": ["experts", "commentators"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "pundonor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term indicating a proud or haughty attitude of a pundit; not widely used",
+          "examples": [
+            "The essay critiques pundonor in public discourse."
+          ],
+          "collocations": ["pundonor attitude"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "pundonores",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pundonore; rare term not in common use",
+          "examples": [
+            "References to pundonores appear in some glossaries."
+          ],
+          "collocations": ["pundonores list"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "pundum",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an undefined or placeholder term; not widely used",
+          "examples": [
+            "The draft used the word pundum as a placeholder."
+          ],
+          "collocations": ["pundum placeholder"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "puneca",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term with no established meaning in standard English; possibly a proper noun or foreign word",
+          "examples": [
+            "Puneca appeared as a name in the list."
+          ],
+          "collocations": ["puneca name"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["unknown"]
+        }
+      ]
+    },
+    {
+      "term": "punese",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an undefined term; likely not part of standard English",
+          "examples": [
+            "Punese does not have a standard meaning in English."
+          ],
+          "collocations": ["punese term"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["unknown"]
+        }
+      ]
+    }
+  ]
+}

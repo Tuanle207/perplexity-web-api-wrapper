@@ -1,0 +1,559 @@
+{
+  "items": [
+    {
+      "term": "ptyalin",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an enzyme (alpha-amylase) in saliva that begins the digestion of starch",
+          "examples": [
+            "ptyalin starts breaking down starch as soon as food enters the mouth.",
+            "Saliva contains ptyalin, which helps convert starch into simpler sugars."
+          ],
+          "collocations": [
+            "saliva contains ptyalin",
+            "ptyalin enzyme",
+            "pancreatic ptyalin" 
+          ],
+          "synonyms": ["amylase", "salivary amylase"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalins",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form referring to multiple instances of ptyalin (salivary amylase) enzymes",
+          "examples": [
+            "ptyalins vary in activity among individuals."
+          ],
+          "collocations": [
+            "ptyalins activity",
+            "varying ptyalins levels"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalise",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to convert or transform starch into sugar by using the enzyme ptyalin; to cause saliva to flow in a way associated with ptyalin activity",
+          "examples": [
+            "The tongue activity can ptyalise the saliva flow during chewing.",
+            "In the test, the sample was ptyalised by exposing it to starch and ptyalin."
+          ],
+          "collocations": [
+            "ptyalise starch",
+            "ptyalise saliva",
+            "ptyalise enzyme activity"
+          ],
+          "synonyms": ["amylase activity", "salivate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalised",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "describing saliva or a process that has been acted upon by ptyalin; having produced or converted starch by salivary amylase",
+          "examples": [
+            "ptyalised saliva shows starch breakdown in the assay.",
+            "a ptyalised sample indicates enzymatic activity."
+          ],
+          "collocations": [
+            "ptyalised saliva",
+            "ptyalised sample"
+          ],
+          "synonyms": ["enzyme-treated", "amylase-treated"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "laboratory"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalises",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular form of ptyalise; causes saliva flow or starch digestion via ptyalin",
+          "examples": [
+            "The enzyme ptyalin ptyalises starch in the mouth.",
+            "Certain stimuli ptyalises the glands, increasing saliva production."
+          ],
+          "collocations": [
+            "ptyalises starch",
+            "ptyalises saliva production"
+          ],
+          "synonyms": ["causes enzymatic activity", "stimulates salivation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalising",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of ptyalise; currently causing or undergoing salivary amylase activity",
+          "examples": [
+            "The test involves ptyalising starch under controlled conditions.",
+            "Ptyalising the sample reveals enzymatic activity."
+          ],
+          "collocations": [
+            "ptyalising starch",
+            "ptyalising saliva"
+          ],
+          "synonyms": ["enzymatic processing", "amylase activity"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "chemistry", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalism",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "medical condition of excessive saliva production",
+          "examples": [
+            "Ptyalism can occur during pregnancy or due to certain medications.",
+            "The patient suffered from ptyalism and needed help managing drooling."
+          ],
+          "collocations": [
+            "severe ptyalism",
+            "ptyalism during pregnancy",
+            "treatment for ptyalism"
+          ],
+          "synonyms": ["hypersalivation", "sialorrhea"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of ptyalism; multiple instances of hypersalivation",
+          "examples": [
+            "Various ptyalisms can complicate medical management."
+          ],
+          "collocations": [
+            "different ptyalisms"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalize",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to produce saliva or to act as a catalyst for starch digestion by ptyalin; to treat with saliva in enzymatic context",
+          "examples": [
+            "Researchers can ptyalize samples to study salivary enzymes.",
+            "The process may be used to ptyalize the starch for analysis."
+          ],
+          "collocations": [
+            "ptyalize starch",
+            "ptyalize samples",
+            "ptyalize enzymes"
+          ],
+          "synonyms": ["salivate", "enzy-matize" ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "chemistry", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalized",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "describing something that has been treated with saliva or enzymatically processed by ptyalin",
+          "examples": [
+            "a ptyalized specimen for assay",
+            "the ptyalized sample showed clear starch breakdown"
+          ],
+          "collocations": [
+            "ptyalized specimen",
+            "ptyalized sample"
+          ],
+          "synonyms": ["enzyme-treated", "salivated"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "laboratory"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalizes",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of ptyalize; causes saliva production or enzymatic digestion by ptyalin",
+          "examples": [
+            "The enzyme ptyalin ptyalizes starch in the mouth.",
+            "Certain stimuli ptyalizes salivary glands."
+          ],
+          "collocations": [
+            "ptyalizes starch",
+            "ptyalizes the sample"
+          ],
+          "synonyms": ["causes salivation", "enzymatically processes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalizing",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of ptyalize; currently causing or undergoing salivary enzyme activity",
+          "examples": [
+            "The procedure involves ptyalizing the starch.",
+            "Researchers are ptyalizing samples for analysis."
+          ],
+          "collocations": [
+            "ptyalizing starch",
+            "ptyalizing samples"
+          ],
+          "synonyms": ["enzymatic processing", "salivating"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "chemistry", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalocele",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "medical term for a herniation or pouch-like protrusion related to ptyal or salivary structures (rare/obsolete usage)",
+          "examples": [
+            "The diagnosis mentioned a ptyalocele, though rarely used."
+          ],
+          "collocations": [
+            "ptyalocele occurrence"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalogenic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "producing or causing ptyalism (excessive saliva) in origin",
+          "examples": [
+            "The lesion was ptyalogenic, provoking excess salivation."
+          ],
+          "collocations": [
+            "ptyalogenic stimulus"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalolith",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a salivary stone formed in a duct or gland",
+          "examples": [
+            "A ptyalolith can block saliva flow and require treatment."
+          ],
+          "collocations": [
+            "ptyalolith blockage",
+            "remove a ptyalolith"
+          ],
+          "synonyms": ["sialolith"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalolithiasis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the condition of having salivary stones in the ducts or glands",
+          "examples": [
+            "Ptyalolithiasis is a rare cause of swelling in the mouth."
+          ],
+          "collocations": [
+            "ptyalolithiasis diagnosis",
+            "treatment for ptyalolithiasis"
+          ],
+          "synonyms": ["sialolithiasis"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "ptyalorrhea",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "excessive flow or discharge of saliva",
+          "examples": [
+            "Ptyalorrhea can cause drooling and discomfort."
+          ],
+          "collocations": [
+            "ptyalorrhea symptoms",
+            "manage ptyalorrhea"
+          ],
+          "synonyms": ["ptyalism", " hypersalivation"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "ptychoparia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a taxonomic group (class) within ancient marine organisms; a genus descriptor in paleontology",
+          "examples": [
+            "The fossil belongs to the ptychoparia group."
+          ],
+          "collocations": [
+            "ptychoparia species",
+            "ptychoparia fossil"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "scientific",
+          "domain": ["science", "paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "ptychoparid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of the order Ptychopariida, an extinct group of trilobite-like arthropods",
+          "examples": [
+            "The specimen is a ptychoparid."
+          ],
+          "collocations": [
+            "ptychoparid fossil"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "scientific",
+          "domain": ["science", "paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "ptychopariid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternate form of ptychoparid; a member of the order Ptychopariida",
+          "examples": [
+            "The class includes several ptychopariids."
+          ],
+          "collocations": [
+            "ptychopariid fossil"
+          ],
+          "synonyms": ["ptychoparid"],
+          "antonyms": [],
+          "register": "scientific",
+          "domain": ["science", "paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "ptychopterygial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or resembling Ptychopteria (an extinct genus) or its wing-like structures",
+          "examples": [
+            "The fossil shows ptychopterygial features."
+          ],
+          "collocations": [
+            "ptychopterygial wing"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "scientific",
+          "domain": ["science", "paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "ptychopterygium",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a genus name in paleontology referring to a specific extinct arthropod",
+          "examples": [
+            "Ptychopterygium is discussed in the fossil record."
+          ],
+          "collocations": [
+            "Ptychopterygium fossil"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "scientific",
+          "domain": ["science", "paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "ptychosperma",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a genus of palm trees (ptychosperma)",
+          "examples": [
+            "The garden features a rare ptychosperma."
+          ],
+          "collocations": [
+            "ptychosperma palm"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "ptysmagogue",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is excessively talkative about certain topics",
+          "examples": [
+            "A ptysmaogue may dominate conversations about their field."
+          ],
+          "collocations": [
+            "academic ptysmaguogue",
+            "political ptysmaguogue"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["communication", "social"]
+        }
+      ]
+    },
+    {
+      "term": "ptyxes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of ptyx, a term used in zoology or paleontology for certain small organisms or structures",
+          "examples": [
+            "The specimens were labeled ptyxes."
+          ],
+          "collocations": [
+            "ptyxes group"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "scientific",
+          "domain": ["science"]
+        }
+      ]
+    }
+  ]
+}

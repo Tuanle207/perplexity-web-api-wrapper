@@ -1,0 +1,513 @@
+{
+  "items": [
+    {
+      "term": "predevelopment",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the stage or period before development occurs",
+          "examples": [
+            "The project faced delays during predevelopment planning.",
+            "Predevelopment activities include research and feasibility analysis."
+          ],
+          "collocations": ["predevelopment phase", "predevelopment planning", "predevelopment costs", "predevelopment stage"],
+          "synonyms": ["preparatory phase", "preliminary stage"],
+          "antonyms": ["development", "postdevelopment"],
+          "register": "formal",
+          "domain": ["general", "business", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "predevelopments",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of predevelopment; multiple preparatory stages or plans before development",
+          "examples": [
+            "The report compares several predevelopments in urban planning.",
+            "Costs rise with each predevelopments phase."
+          ],
+          "collocations": ["predevelopments plans", "predevelopments stage", "predevelopments costs"],
+          "synonyms": ["preparatory steps", "preliminary stages"],
+          "antonyms": ["developments"],
+          "register": "formal",
+          "domain": ["general", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "predevelops",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to undertake or cause to undergo development in advance",
+          "examples": [
+            "The team predevelops ideas before starting the project.",
+            "We predevelop concepts to save time later."
+          ],
+          "collocations": ["predevelop ideas", "predevelop strategies"],
+          "synonyms": ["preplan", "preprepare"],
+          "antonyms": ["develops", "develop"],
+          "register": "formal",
+          "domain": ["general", "business", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "predevise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to devise or plan something in advance",
+          "examples": [
+            "They predevise a strategy for the merger.",
+            "We predevise several backup options."
+          ],
+          "collocations": ["predevise a plan", "predevise strategies"],
+          "synonyms": ["preplan", "forethink"],
+          "antonyms": ["devise", "invent"],
+          "register": "formal",
+          "domain": ["business", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "predevised",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "having devised something in advance",
+          "examples": [
+            "A predevised plan guided the early negotiations.",
+            "The team followed a predevised approach."
+          ],
+          "collocations": ["predevised plan", "predevised approach"],
+          "synonyms": ["foreplanned", "preplanned"],
+          "antonyms": ["devised", "invented"],
+          "register": "formal",
+          "domain": ["business", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "predevising",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of devising in advance; planning ahead",
+          "examples": [
+            "Predevising contingencies helps reduce risk.",
+            "They are predevising a backup course of action."
+          ],
+          "collocations": ["predevising contingencies", "predevising plans"],
+          "synonyms": ["foreplanning", "preplanning"],
+          "antonyms": ["devising", "inventing"],
+          "register": "formal",
+          "domain": ["planning"]
+        }
+      ]
+    },
+    {
+      "term": "predevote",
+      "kind": "word",
+          "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to dedicate something in advance for a purpose",
+          "examples": [
+            "They predevote resources to research.",
+            "We predevote time for risk assessment."
+          ],
+          "collocations": ["predevote resources", "predevote time"],
+          "synonyms": ["preallocate", "earmark beforehand"],
+          "antonyms": ["devote", "allocate"],
+          "register": "formal",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "predevotion",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of devoting something in advance; prior dedication",
+          "examples": [
+            "Her predevotion to the project shaped early decisions.",
+            "The plan reflected predevotion to quality."
+          ],
+          "collocations": ["predevotion to", "predevotion effort"],
+          "synonyms": ["fore dedication", "precommitment"],
+          "antonyms": ["aversion", "indifference"],
+          "register": "formal",
+          "domain": ["general", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "predevour",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to eat or consume in advance; to gorge prior to others eating",
+          "examples": [
+            "The crew predevour the supplies to prevent spoilage.",
+            "They predevour the snacks before the meeting."
+          ],
+          "collocations": ["predevour food", "predevour supplies"],
+          "synonyms": ["guzzle", "devour prematurely"],
+          "antonyms": ["nibble", "savour"],
+          "register": "informal",
+          "domain": ["living", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "prediabetes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a health condition where blood sugar levels are higher than normal but not high enough to be type 2 diabetes",
+          "examples": [
+            "Prediabetes increases the risk of developing diabetes.",
+            "Lifestyle changes can help prevent progression from prediabetes."
+          ],
+          "collocations": ["prediabetes risk", "screen for prediabetes", "prediabetes symptoms"],
+          "synonyms": ["impaired glucose tolerance (MODY)"],  // placeholder; actual term is "impaired fasting glucose" or "impaired glucose tolerance"
+          "antonyms": ["diabetes"],
+          "register": "medical",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "prediabeteses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prediabetes; multiple cases of this condition",
+          "examples": [
+            "Several patients collected results showing prediabeteses.",
+            "Public health data tracks prediabeteses to plan interventions."
+          ],
+          "collocations": ["prediabeteses prevalence", "screening for prediabeteses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "prediabetic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having prediabetes; in a state between normal blood sugar and diabetes",
+          "examples": [
+            "He is prediabetic and has to change his diet.",
+            "Prediabetic individuals can reduce risk with exercise."
+          ],
+          "collocations": ["prediabetic condition", "prediabetic patient"],
+          "synonyms": ["at risk", "pre-diabetic"],
+          "antonyms": ["diabetic"],
+          "register": "medical",
+          "domain": ["medicine", "health"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a person who has prediabetes",
+          "examples": [
+            "Being a prediabetic doesn't guarantee diabetes, but risk is higher.",
+            "The program helps prediabetics manage lifestyle changes."
+          ],
+          "collocations": ["prediabetic person", "prediabetic patient"],
+          "synonyms": ["at-risk person"],
+          "antonyms": ["diabetic"],
+          "register": "medical",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "prediabetics",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prediabetic; multiple people with prediabetes",
+          "examples": [
+            "Community programs support several prediabetics.",
+            "Prediabetics benefit from weight loss and exercise."
+          ],
+          "collocations": ["prediabetics risk", "prediabetics group"],
+          "synonyms": ["at-risk individuals"],
+          "antonyms": ["diabetics"],
+          "register": "medical",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "prediagnoses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of diagnosing a condition before symptoms appear; early diagnosis",
+          "examples": [
+            "Prediagnoses help in initiating preventive care early.",
+            "The tool flags prediagnoses based on risk factors."
+          ],
+          "collocations": ["prediagnoses predictors", "prediagnoses results"],
+          "synonyms": ["early diagnosis", "preliminary diagnosis"],
+          "antonyms": ["postdiagnosis"],
+          "register": "formal",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "prediagnosis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an initial or provisional diagnosis made before full assessment",
+          "examples": [
+            "A prediagnosis suggested possible conditions before tests.",
+            "Clinicians document prediagnosis in the chart."
+          ],
+          "collocations": ["prediagnosis assessment", "prediagnosis label"],
+          "synonyms": ["preliminary diagnosis"],
+          "antonyms": ["diagnosis"],
+          "register": "formal",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "prediagnostic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a diagnosis that occurs before full testing or after initial assessment",
+          "examples": [
+            "Prediagnostic tests guide further testing.",
+            "The prediagnostic phase informs treatment planning."
+          ],
+          "collocations": ["prediagnostic criteria", "prediagnostic testing"],
+          "synonyms": ["preliminary diagnostic", "initial diagnostic"],
+          "antonyms": ["diagnostic"],
+          "register": "formal",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "predial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a predial system or to prepayment platforms in finance or agriculture (rare; etymology varies by context)",
+          "examples": [
+            "Predial duties were levied in the colonial era.",
+            "Predial arrangements affected land use."
+          ],
+          "collocations": ["predial system", "predial duties"],
+          "synonyms": ["prepaid", "pre-due"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "law"]
+        }
+      ]
+    },
+    {
+      "term": "predialist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who lists or plans things before an event or process; a preparatory planner",
+          "examples": [
+            "The predialist mapped out all tasks before the project began.",
+            "As a predialist, she organized the schedule in advance."
+          ],
+          "collocations": ["predialist task list", "predialist schedule"],
+          "synonyms": ["planner", "preparer"],
+          "antonyms": ["executer"],
+          "register": "formal",
+          "domain": ["work", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "predialities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prediality; early or pre-due traits or conditions (rare/archaic usage)",
+          "examples": [
+            "Scholars discuss various predialities in historical documents."
+          ],
+          "collocations": ["predialities of the era"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "prediality",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being predial or pre-due; a preexisting condition or obligation (rare/archaic)",
+          "examples": [
+            "Prediality influenced early debts and land tenure."
+          ],
+          "collocations": ["prediality terms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "law"]
+        }
+      ]
+    },
+    {
+      "term": "predials",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of predial; items related to predial systems or duties",
+          "examples": [
+            "The estate records include several predials."
+          ],
+          "collocations": ["predials records"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "law"]
+        }
+      ]
+    },
+    {
+      "term": "prediastolic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "occurring before the diastolic phase in the heartbeat; relating to systolic events preceding diastole",
+          "examples": [
+            "Prediastolic measurements help assess heart function.",
+            "The prediastolic interval was highlighted in the report."
+          ],
+          "collocations": ["prediastolic pressure", "prediastolic interval"],
+          "synonyms": ["pre-diastolic"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "prediatory",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "adjacent to or characteristic of predation; seeking to exploit others",
+          "examples": [
+            "Predatory animals hunt for food.",
+            "Predatory lending harmed many borrowers."
+          ],
+          "collocations": ["predatory behavior", "predatory lender"],
+          "synonyms": ["devouring", "exploitative"],
+          "antonyms": ["harmless", "nonpredatory"],
+          "register": "neutral",
+          "domain": ["biology", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "predicabilities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of predicability; the quality of being predictable",
+          "examples": [
+            "The predicabilities of the model varied across datasets."
+          ],
+          "collocations": ["levels of predicability"],
+          "synonyms": ["predictability"],
+          "antonyms": ["unpredictability"],
+          "register": "neutral",
+          "domain": ["technology", "data science"]
+        }
+      ]
+    },
+    {
+      "term": "predicability",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being predictable; likelihood of outcomes",
+          "examples": [
+            "High predicability makes forecasting easier.",
+            "We evaluated the model's predicability."
+          ],
+          "collocations": ["level of predicability", "predicability score"],
+          "synonyms": ["predictability"],
+          "antonyms": ["unpredictability"],
+          "register": "neutral",
+          "domain": ["technology", "data science"]
+        }
+      ]
+    }
+  ]
+}

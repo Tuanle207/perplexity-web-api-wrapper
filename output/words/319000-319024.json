@@ -1,0 +1,498 @@
+{
+  "items": [
+    {
+      "term": "racemizations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of converting a compound that exists as a pair of mirror-image forms (enantiomers) into a mixture containing both forms or converting one form into its mirror image.",
+          "examples": [
+            "The racemizations were monitored to determine the enantiomeric purity of the drug.",
+            "Given the sample's racemizations, the final product contained equal amounts of both enantiomers."
+          ],
+          "collocations": ["racemization process", "optical activity", "enantiomeric excess", "stereochemistry", "base-catalyzed racemization"],
+          "synonyms": ["enantiomerization", "racemate formation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "research", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "racemize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to convert a compound so that it contains equal amounts of both mirror-image forms (enantiomers).",
+          "examples": [
+            "The catalyst can racemize the chiral center under mild conditions.",
+            "If the molecule racemizes, the drug's effectiveness may vary between batches."
+          ],
+          "collocations": ["racemize a compound", "racemize center", "racemize under conditions"],
+          "synonyms": ["enantiomerize", "racemate form"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "research"]
+        }
+      ]
+    },
+    {
+      "term": "racemized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "describes a substance that has been converted to contain equal amounts of both mirror-image forms.",
+          "examples": [
+            "The product was racemized during the reaction.",
+            "Racemized amino acids can affect the drug's behavior in the body."
+          ],
+          "collocations": ["racemized product", "racemized mixture", "racemized sample"],
+          "synonyms": ["enantiomerized", "racemate-form"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "research"]
+        }
+      ]
+    },
+    {
+      "term": "racemizes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of racemize; causes a compound to form a racemic mixture.",
+          "examples": [
+            "The catalyst racemizes the substrate at room temperature.",
+            "Some reagents racemize chiral molecules under heat."
+          ],
+          "collocations": ["racemizes the substrate", "slow racemizes", "induces racemization"],
+          "synonyms": ["enantiomerizes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "research"]
+        }
+      ]
+    },
+    {
+      "term": "racemizing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of racemize; undergoing racemization.",
+          "examples": [
+            "The solution is racemizing under these conditions.",
+            "Racemizing solvents can alter optical purity."
+          ],
+          "collocations": ["racemizing process", "racemizing conditions", "racemizing agent"],
+          "synonyms": ["enantiomerizing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "research"]
+        }
+      ]
+    },
+    {
+      "term": "racemocarbonate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical carbonate compound that exists as a racemic mixture of enantiomers.",
+          "examples": [
+            "The racemocarbonate showed no optical activity due to racemization.",
+            "Synthesis of the racemocarbonate requires careful control of stereochemistry."
+          ],
+          "collocations": ["racemocarbonate synthesis", "racemocarbonate compound", "racemocarbonate solution"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "research"]
+        }
+      ]
+    },
+    {
+      "term": "racemocarbonic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a racemic form of a carbonic compound or to a racemization of a carbonic substance.",
+          "examples": [
+            "Racemocarbonic acid is not a typical term; see related racemic carbonates.",
+            "The racemocarbonic species lacks optical activity."
+          ],
+          "collocations": ["racemocarbonic acid", "racemocarbonic compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "racemoid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term used in chemistry or biology to describe a substance that resembles a racemate but is not strictly one; a misnomer sometimes used for a mixture of enantiomers.",
+          "examples": [
+            "The sample was labeled racemoid, though it contained mostly one enantiomer.",
+            "Racemoid substances can complicate analysis of chiral purity."
+          ],
+          "collocations": ["racemoid mixture", "racemoid compound"],
+          "synonyms": ["racemate-like compound"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "research"]
+        }
+      ]
+    },
+    {
+      "term": "racemomethylate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to methylate a compound in a way that produces a racemic mixture.",
+          "examples": [
+            "The procedure racemomethylates the chiral center under basic conditions.",
+            "Racemomethylate reagents can be used to study stereochemical outcomes."
+          ],
+          "collocations": ["racemomethylate substrate", "racemomethylation reaction"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "research"]
+        }
+      ]
+    },
+    {
+      "term": "racemose",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "in botany, describing a branching inflorescence where small flowers are arranged along an elongated axis in a raceme.",
+          "examples": [
+            "The plant has a racemose inflorescence with many tiny flowers.",
+            "Racemose arrangements are common in many flowering plants."
+          ],
+          "collocations": ["racemose inflorescence", "racemose arrangement"],
+          "synonyms": ["racemose inflorescence"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "botany", "education"]
+        }
+      ]
+    },
+    {
+      "term": "racemosely",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a raceme-like arrangement; in a racemose manner.",
+          "examples": [
+            "The flowers are arranged racemosely along the axis.",
+            "Racemosely, the garden parterres showed a linear display."
+          ],
+          "collocations": ["arranged racemosely", "growing racemosely"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "botany", "education"]
+        }
+      ]
+    },
+    {
+      "term": "racemous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "lacking a definite color or form; racemous is an archaic or rare term describing something with a racemic or mixed form.",
+          "examples": [
+            "The mixture appeared racemous and unseparated."
+          ],
+          "collocations": ["racemous mixture"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["chemistry", "history"]
+        }
+      ]
+    },
+    {
+      "term": "racemously",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a racemous manner; in a mixed or racemic way.",
+          "examples": [
+            "The product was racemously contaminated with the opposite enantiomer."
+          ],
+          "collocations": ["racemously mixed", "racemously formed"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["chemistry", "history"]
+        }
+      ]
+    },
+    {
+      "term": "racemule",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small raceme; a tiny raceme-like cluster of flowers.",
+          "examples": [
+            "The plant bears a delicate racemule at each node."
+          ],
+          "collocations": ["racemule of flowers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "botany", "education"]
+        }
+      ]
+    },
+    {
+      "term": "racemulose",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small raceme-like inflorescence; a diminutive raceme.",
+          "examples": [
+            "The plant features a racemulose inflorescence with tiny blossoms."
+          ],
+          "collocations": ["racemulose inflorescence"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "botany", "education"]
+        }
+      ]
+    },
+    {
+      "term": "racepath",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a path or route used for a race; a course or track for racing.",
+          "examples": [
+            "The runners lined up at the starting line of the racepath.",
+            "Emergency crews closed the racepath for maintenance."
+          ],
+          "collocations": ["racepath course", "racepath route"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "events", "general"]
+        }
+      ]
+    },
+    {
+      "term": "racepaths",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of racepath; multiple race routes or courses.",
+          "examples": [
+            "The festival featured several racepaths for different distances."
+          ],
+          "collocations": ["racepaths for", "alternative racepaths"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "events"]
+        }
+      ]
+    },
+    {
+      "term": "raceplate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plate or badge displaying a race number in a competition.",
+          "examples": [
+            "The athlete attached the raceplate to her jersey.",
+            "Race officials checked raceplates before the start."
+          ],
+          "collocations": ["raceplate number", "raceplate badge"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "events"]
+        }
+      ]
+    },
+    {
+      "term": "racer",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who races, especially in a competition or sport.",
+          "examples": [
+            "The cyclist is a professional racer.",
+            "All racers lined up at the starting line."
+          ],
+          "collocations": ["racecar racer", "professional racer", "racer team"],
+          "synonyms": ["competitor", "athlete"],
+          "antonyms": ["spectator"],
+          "register": "neutral",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "racers",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of racer; multiple people who race.",
+          "examples": [
+            "The race attracted several local racers.",
+            "Two racers crashed on the first turn."
+          ],
+          "collocations": ["racer team", "elite racers"],
+          "synonyms": ["competitors"],
+          "antonyms": ["spectators"],
+          "register": "neutral",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "racerunner",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or program that runs a race game or simulation; could be a software component or equipment used by racers.",
+          "examples": [
+            "The video game includes a race runner to manage laps.",
+            "The race runner synchronized with timing sensors."
+          ],
+          "collocations": ["race runner software", "timing race runner"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "gaming", "sport"]
+        }
+      ]
+    },
+    {
+      "term": "races",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of race; groups of people classified by shared ancestry or appearance in some contexts; or competitions.",
+          "examples": [
+            "Many races participate in the charity race.",
+            "The human races have diverse cultures."
+          ],
+          "collocations": ["different races", "racial races", "horse races"],
+          "synonyms": ["ethnic groups", "species (in biology)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["society", "sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "racetrack",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a track where races take place, such as horse racing or car racing.",
+          "examples": [
+            "They walked around the racetrack before the race.",
+            "The new racetrack opened last year."
+          ],
+          "collocations": ["horse racetrack", "car racetrack", "oval racetrack"],
+          "synonyms": ["racecourse"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "leisure"]
+        }
+      ]
+    },
+    {
+      "term": "racetracker",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or device that tracks races, such as a statistician or timing system.",
+          "examples": [
+            "The racetracker provided lap-by-lap data.",
+            "Fans used the racetracker to follow the race live."
+          ],
+          "collocations": ["live racetracker", "statistical racetracker"],
+          "synonyms": ["timer", "data tracker"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "racetrackers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of racetracker; multiple trackers or devices tracking races.",
+          "examples": [
+            "The team uses several racetrackers to monitor each car."
+          ],
+          "collocations": ["race data racetrackers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "technology"]
+        }
+      ]
+    }
+  ]
+}

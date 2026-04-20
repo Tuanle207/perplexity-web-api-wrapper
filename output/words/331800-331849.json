@@ -1,0 +1,444 @@
+```json
+{
+  "items": [
+    {
+      "term": "resolutive",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to solve or settle a problem or difficulty",
+          "examples": ["The committee took a resolutive approach to the conflict.", "Her resolutive actions ended the dispute quickly."],
+          "collocations": ["resolutive action", "resolutive approach", "resolutive measure", "resolutive strategy"],
+          "synonyms": ["decisive", "solution-focused", "effective"],
+          "antonyms": ["indecisive", "ineffective"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resolutory",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "intended to solve or bring something to an end",
+          "examples": ["The court issued a resolutory order.", "They adopted resolutory measures to settle the case."],
+          "collocations": ["resolutory clause", "resolutory condition", "resolutory action"],
+          "synonyms": ["decisive", "final"],
+          "antonyms": ["prolonging", "delaying"],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "resolvabilities",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of resolvability; the qualities of being able to be solved",
+          "examples": ["The study compares the resolvabilities of different problems."],
+          "collocations": ["problem resolvabilities", "issue resolvabilities"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "resolvability",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the ability of a problem or situation to be solved",
+          "examples": ["The resolvability of the issue depends on cooperation.", "Scientists studied the resolvability of complex equations."],
+          "collocations": ["problem resolvability", "issue resolvability", "question resolvability"],
+          "synonyms": ["solvability"],
+          "antonyms": ["insolvability"],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "resolvable",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be solved or settled",
+          "examples": ["The conflict is resolvable with dialogue.", "Most technical issues are resolvable."],
+          "collocations": ["resolvable issue", "resolvable conflict", "resolvable problem"],
+          "synonyms": ["solvable", "fixable"],
+          "antonyms": ["unsolvable", "irreparable"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resolvableness",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being able to be solved",
+          "examples": ["They debated the resolvableness of the case."],
+          "collocations": ["resolvableness of a problem"],
+          "synonyms": ["solvability"],
+          "antonyms": ["insolvability"],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "resolvancy",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being resolvable or able to be settled",
+          "examples": ["The resolvancy of the dispute is uncertain."],
+          "collocations": ["resolvancy of issues"],
+          "synonyms": ["solvability"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resolve",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to find a solution to a problem or difficulty",
+          "examples": ["They resolved the issue quickly.", "We need to resolve this conflict."],
+          "collocations": ["resolve a problem", "resolve a conflict", "resolve an issue", "resolve differences"],
+          "synonyms": ["solve", "settle", "fix"],
+          "antonyms": ["create", "worsen"],
+          "register": null,
+          "domain": ["general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "strong determination to do something",
+          "examples": ["She showed great resolve.", "His resolve never weakened."],
+          "collocations": ["strong resolve", "firm resolve", "show resolve"],
+          "synonyms": ["determination", "willpower"],
+          "antonyms": ["hesitation", "weakness"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resolved",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "firmly decided or determined",
+          "examples": ["She was resolved to succeed.", "He remained resolved despite difficulties."],
+          "collocations": ["deeply resolved", "firmly resolved", "resolved attitude"],
+          "synonyms": ["determined", "decided"],
+          "antonyms": ["uncertain", "indecisive"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resolvedly",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a determined and firm way",
+          "examples": ["She spoke resolvedly.", "He acted resolvedly in the crisis."],
+          "collocations": ["act resolvedly", "speak resolvedly"],
+          "synonyms": ["firmly", "determinedly"],
+          "antonyms": ["hesitantly"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resolvedness",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being determined or firm in decision",
+          "examples": ["Her resolvedness impressed everyone."],
+          "collocations": ["sense of resolvedness"],
+          "synonyms": ["determination"],
+          "antonyms": ["indecision"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resolvednesses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of resolvedness",
+          "examples": ["Different resolvednesses were observed."],
+          "collocations": ["levels of resolvednesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "resolvend",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance that is dissolved in a solution",
+          "examples": ["Salt is the resolvend in water."],
+          "collocations": ["chemical resolvend"],
+          "synonyms": ["solute"],
+          "antonyms": ["solvent"],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "resolvent",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance that dissolves another substance",
+          "examples": ["Water acts as a resolvent."],
+          "collocations": ["chemical resolvent"],
+          "synonyms": ["solvent"],
+          "antonyms": ["solute"],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "resolver",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that solves problems",
+          "examples": ["She is a skilled problem resolver.", "The system acts as a resolver."],
+          "collocations": ["problem resolver", "conflict resolver"],
+          "synonyms": ["solver"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resolving",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the process of finding a solution",
+          "examples": ["Resolving issues takes time.", "They are resolving the conflict."],
+          "collocations": ["resolving conflicts", "resolving issues"],
+          "synonyms": ["solving", "settling"],
+          "antonyms": ["creating"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resonance",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a deep, full sound that continues to vibrate",
+          "examples": ["The bell's resonance filled the room.", "His voice had a warm resonance."],
+          "collocations": ["deep resonance", "acoustic resonance"],
+          "synonyms": ["echo", "reverberation"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["physics", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a strong emotional effect or connection",
+          "examples": ["The story has emotional resonance.", "Her words found resonance with the audience."],
+          "collocations": ["emotional resonance", "cultural resonance"],
+          "synonyms": ["impact", "connection"],
+          "antonyms": ["indifference"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resonant",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "producing a deep, clear, and continuing sound",
+          "examples": ["He has a resonant voice.", "The hall is resonant."],
+          "collocations": ["resonant tone", "resonant voice"],
+          "synonyms": ["echoing", "vibrant"],
+          "antonyms": ["flat"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resonate",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to produce or be filled with a deep, vibrating sound",
+          "examples": ["The room resonated with music."],
+          "collocations": ["resonate with sound"],
+          "synonyms": ["echo"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["physics"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to create a strong emotional connection",
+          "examples": ["The message resonated with people.", "His ideas resonate widely."],
+          "collocations": ["resonate with audience", "resonate strongly"],
+          "synonyms": ["connect", "strike a chord"],
+          "antonyms": ["alienate"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resonator",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or structure that increases or produces resonance",
+          "examples": ["The instrument uses a wooden resonator."],
+          "collocations": ["acoustic resonator"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["physics", "music"]
+        }
+      ]
+    },
+    {
+      "term": "resoothe",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to soothe again or calm once more",
+          "examples": ["She tried to resoothe the crying child."],
+          "collocations": ["resoothe someone"],
+          "synonyms": ["calm again"],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resorb",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to absorb again, especially in the body",
+          "examples": ["The body can resorb the material.", "Calcium is resorbed into the bloodstream."],
+          "collocations": ["resorb tissue", "resorb nutrients"],
+          "synonyms": ["reabsorb"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "resorbent",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being absorbed again",
+          "examples": ["Resorbent materials are used in medicine."],
+          "collocations": ["resorbent material"],
+          "synonyms": ["absorbable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "resorcinol",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical compound used in medicine and industry",
+          "examples": ["Resorcinol is used in skin treatments."],
+          "collocations": ["resorcinol solution"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "medicine"]
+        }
+      ]
+    }
+  ]
+}
+```

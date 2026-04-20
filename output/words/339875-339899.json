@@ -1,0 +1,547 @@
+{
+  "items": [
+    {
+      "term": "rustling",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a soft, unsettled sound made by soft, light movements of leaves, paper, or fabric; the sound of things rustling.",
+          "examples": [
+            "The rustling of the leaves outside the window lulled her to sleep.",
+            "There was a rustling in the bushes as the wind moved the branches."
+          ],
+          "collocations": ["sound", "rustling of leaves", "snapping and rustling"],
+          "synonyms": ["whispering", "susurration"],
+          "antonyms": ["silence", "rustiness"],
+          "register": "neutral",
+          "domain": ["everyday", "nature"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the act of moving or stirring something with a soft, light sound, or the noise produced by such movement.",
+          "examples": [
+            "A faint rustling indicated there were small creatures in the undergrowth.",
+            "The rustling of pages signaled that someone was turning a book."
+          ],
+          "collocations": ["rustling sound", "rustling leaves", "rustling paper"],
+          "synonyms": ["murmur", "soft movement"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "rustlingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a rustling manner; producing a soft, fluttering sound.",
+          "examples": [
+            "The fabric moved rustlingly in the breeze.",
+            "The leaves rustled rustlingly as the wind shifted."
+          ],
+          "collocations": ["rustlingly soft", "move rustlingly"],
+          "synonyms": ["susurrantly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literature", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "rustlingness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality or state of producing a rustling sound; light, soft movement.",
+          "examples": [
+            "The rustlingness of the fabric calmed her.",
+            "They enjoyed the rustlingness of the leaves in the breeze."
+          ],
+          "collocations": ["rustlingness of leaves", "gentle rustlingness"],
+          "synonyms": ["susurration", "soft movement"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "rustlings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rustling; small, soft sounds or movements.",
+          "examples": [
+            "There were several rustlings in the bushes.",
+            "The rustlings of the pages kept him awake."
+          ],
+          "collocations": ["rustlings in the bushes", "little rustlings"],
+          "synonyms": ["susurrations"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "rustly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "covered with rust or having a rusty appearance; dull or brownish-red in color.",
+          "examples": [
+            "The metal fence looked rustly after years in the rain.",
+            "His old car was rustly and worn."
+          ],
+          "collocations": ["rustly surface", "rustly color"],
+          "synonyms": ["rusty", "rust-covered"],
+          "antonyms": ["rust-free", "polished"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rustproof",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "treated to resist rust; protected from corrosion.",
+          "examples": [
+            "We bought a rustproof coating for the bike.",
+            "Rustproof hardware lasts longer in humid climates."
+          ],
+          "collocations": ["rustproof coating", "rustproof hardware", "rustproof finish"],
+          "synonyms": ["corrosion-resistant"],
+          "antonyms": ["rust-prone"],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to treat or coat something to prevent rust.",
+          "examples": [
+            "They rustproof the car chassis before selling it.",
+            "Rustproofing helps extend the life of metal parts."
+          ],
+          "collocations": ["rustproof the", "rustproofing"],
+          "synonyms": ["protect from rust"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "maintenance"]
+        }
+      ]
+    },
+    {
+      "term": "rustproofed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "coated or treated to resist rust.",
+          "examples": [
+            "The rustproofed door hinges prevented further corrosion.",
+            "We chose rustproofed screws for the project."
+          ],
+          "collocations": ["rustproofed surface", "rustproofed screws"],
+          "synonyms": ["corrosion-resistant"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "maintenance"]
+        }
+      ]
+    },
+    {
+      "term": "rustproofing",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of applying a rust-proof coating or treatment.",
+          "examples": [
+            "Rustproofing protectives extend metal life.",
+            "Rustproofing is common on cars and bicycles."
+          ],
+          "collocations": ["rustproofing treatment", "rustproofing process"],
+          "synonyms": ["corrosion protection"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "maintenance"]
+        }
+      ]
+    },
+    {
+      "term": "rustproofings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rustproofing; instances or types of rust-proof treatments.",
+          "examples": [
+            "Several rustproofings were available for shop coatings.",
+            "He compared different rustproofings before choosing one."
+          ],
+          "collocations": ["different rustproofings", "rustproofings available"],
+          "synonyms": ["corrosion protections"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "maintenance"]
+        }
+      ]
+    },
+    {
+      "term": "rustproofs",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rust proofs; tests or proofs that something is rust-resistant, or products marketed as rustproof.",
+          "examples": [
+            "The label claims rustproofs for five years.",
+            "They checked the rustproofs before purchasing."
+          ],
+          "collocations": ["rustproofs label", "rustproofs warranty"],
+          "synonyms": ["corrosion protection claims"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "marketing"]
+        }
+      ]
+    },
+    {
+      "term": "rustre",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "obsolete or dialect form; not commonly used in modern English.",
+          "examples": [
+            "The word rustre appears in old texts, not in modern usage."
+          ],
+          "collocations": ["archaic term"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "rustred",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "fully rust-colored or deeply rust-toned.",
+          "examples": [
+            "The field had a rustred hue at sunset."
+          ],
+          "collocations": ["rustred color", "rustred hue"],
+          "synonyms": ["rust-colored"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "art"]
+        }
+      ]
+    },
+    {
+      "term": "rustres",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare or erroneous form; not a standard English term.",
+          "examples": [
+            "Rustres is not a common word in English."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "rusts",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of becoming or being affected by rust; corrosion of iron or steel.",
+          "examples": [
+            "The rusts on the fence are getting worse.",
+            "Rusts appear when metal reacts with moisture."
+          ],
+          "collocations": ["surface rusts", "rusts over time"],
+          "synonyms": ["corrosion"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["material science", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of rust; to corrode or oxidize.",
+          "examples": [
+            "Iron rusts when left outside.",
+            "The pipes rusts over time."  // Note: in standard usage this should be "rusts"; included for sense completeness
+          ],
+          "collocations": ["rusts away", "rusts quickly"],
+          "synonyms": ["corrode"],
+          "antonyms": ["prevent rust", "armor"],
+          "register": "neutral",
+          "domain": ["science", "maintenance"]
+        }
+      ]
+    },
+    {
+      "term": "rusty",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "covered with rust; corroded; or lacking practice or smoothness in skill.",
+          "examples": [
+            "The old bucket is rusty.",
+            "His memory is rusty after the long break."
+          ],
+          "collocations": ["rusty hinge", "rusty nail", "rusty memory"],
+          "synonyms": ["corroded", "rust-coated", "dull"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "rustyback",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term for a plant or animal? (not standard; may be dialect or rare).",
+          "examples": [
+            "Rustyback is not commonly used in modern English."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["unknown"]
+        }
+      ]
+    },
+    {
+      "term": "rustyish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "somewhat rusty in appearance or performance; partially corroded or out of practice.",
+          "examples": [
+            "His rustyish bike needed maintenance.",
+            "Her rustyish singing voice returned after practice."
+          ],
+          "collocations": ["rustyish appearance", "rustyish performance"],
+          "synonyms": ["rust-like", "rusty"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "ruswut",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "slang/novel term; not standard English; possibly a nonce or error.",
+          "examples": [
+            "Ruswut appears to be nonstandard."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["informal", "internet"]
+        }
+      ]
+    },
+    {
+      "term": "rut",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fixed routine or habit; a boring, predictable way of doing things.",
+          "examples": [
+            "He fell into a daily rut of work and home life.",
+            "She wanted to break out of her rut and try something new."
+          ],
+          "collocations": ["daily rut", "ruts of life"],
+          "synonyms": ["routine", "habit"],
+          "antonyms": ["change", "novelty"],
+          "register": "neutral",
+          "domain": ["everyday", "psychology"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to cause someone or something to become stuck in a rut; to travel in a fixed path.",
+          "examples": [
+            "The car got stuck in a rut on the muddy road.",
+            "Routine can rut your thinking if you're not careful."
+          ],
+          "collocations": ["rut the wheels", "rut along"],
+          "synonyms": ["stagnate", "drill"],
+          "antonyms": ["vary", "diverge"],
+          "register": "neutral",
+          "domain": ["everyday", "transport"]
+        }
+      ]
+    },
+    {
+      "term": "ruta",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a path or itinerary in some languages; in English often seen in proper names or botanical terms.",
+          "examples": [
+            "The botanical term ruta refers to a genus in the citrus family."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "rutabaga",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large purple and yellow root vegetable, also called swede in some places.",
+          "examples": [
+            "They served mashed rutabaga as a side dish.",
+            "Rutabaga is denser than potato and has a mildly sweet taste."
+          ],
+          "collocations": ["boiled rutabaga", "mashed rutabaga"],
+          "synonyms": ["swede (in British usage)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "rutabagas",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rutabaga; multiple rutabaga vegetables.",
+          "examples": [
+            "They bought rutabagas for the stew.",
+            "Rutabagas were on sale at the market."
+          ],
+          "collocations": ["rutabagas for the stew"],
+          "synonyms": ["swedes (pl.)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "rutaceae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the botanical family that includes citrus fruits; known as the rue or citrus family.",
+          "examples": [
+            "Rutaceae is the family that includes oranges and lemons."
+          ],
+          "collocations": ["Rutaceae family", "citrus Rutaceae"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "rutaceous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "of or belonging to the Rutaceae family; citrus-related.",
+          "examples": [
+            "Rutaceous plants include many common citrus species."
+          ],
+          "collocations": ["rutaceous plants", "rutaceous characteristics"],
+          "synonyms": ["citrus family-related"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "rutaecarpine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical compound found in certain plants; used in research.",
+          "examples": [
+            "Rutaecarpine has been studied for various medicinal properties."
+          ],
+          "collocations": ["rutaecarpine compound", "rutaecarpine isolation"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["chemistry", "pharmacology"]
+        }
+      ]
+    }
+  ]
+}

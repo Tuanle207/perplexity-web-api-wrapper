@@ -1,0 +1,450 @@
+{
+  "items": [
+    {
+      "term": "puzzleheadednesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or quality of being puzzleheaded; the tendency to be puzzled or perplexed",
+          "examples": ["Her puzzleheadednesses faded after she read the manual."],
+          "collocations": ["great puzzleheadedness", "show puzzleheadedness", "reveal puzzleheadedness"],
+          "synonyms": ["confusion", "perplexity", "bewilderment"],
+          "antonyms": ["clarity", "understanding", "lucidity"],
+          "register": "informal",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "puzzleman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who creates or specializes in puzzles; a puzzle enthusiast",
+          "examples": ["The puzzleman spent hours crafting a new cross‑number puzzle."],
+          "collocations": ["famous puzzleman", "retired puzzleman", "puzzleman of riddles"],
+          "synonyms": ["puzzlemaker", "puzzler", "riddler"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "leisure"]
+        }
+      ]
+    },
+    {
+      "term": "puzzlement",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a feeling of being puzzled or confused",
+          "examples": ["She looked at the map with puzzlement on her face."],
+          "collocations": ["great puzzlement", "confusion and puzzlement", "puzzlement about"],
+          "synonyms": ["confusion", "bewilderment", "perplexity"],
+          "antonyms": ["clarity", "understanding"],
+          "register": "formal",
+          "domain": ["everyday", "general"]
+        }
+        ,
+        {
+          "pos": "noun",
+          "definition": "an instance of puzzlement in a mystery or problem",
+          "examples": ["The diary entry ended in puzzlement about the next clue."],
+          "collocations": ["mystery puzzlement", "puzzle and puzzlement"],
+          "synonyms": ["enigma", "riddle"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "puzzlements",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of puzzlement; multiple instances of confusion or puzzling things",
+          "examples": ["The report contained several puzzlements that needed clarification."],
+          "collocations": ["raise puzzlements", "avoid puzzlements", "areas of puzzlement"],
+          "synonyms": ["confusions", "bewilderments"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "puzzlepate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who ponders or puzzles over things; a thoughtful thinker",
+          "examples": ["The puzzlepate considered every possible solution."],
+          "collocations": ["elder puzzlepate", "wise puzzlepate"],
+          "synonyms": ["thinker", "ponderer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "puzzlepated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make someone puzzled; to cause perplexity",
+          "examples": ["The new findings puzzlepated the scientists."],
+          "collocations": ["puzzlepated by", "puzzlepated question"],
+          "synonyms": ["baffle", "confuse", "perplex"],
+          "antonyms": ["explain", "clarify"],
+          "register": "formal",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "puzzlepatedness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being puzzled or perplexed",
+          "examples": ["Her puzzlepatedness disappeared after the hint was provided."],
+          "collocations": ["sense of puzzlepatedness", "in a state of puzzlepatedness"],
+          "synonyms": ["perplexity", "bewilderment"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "puzzler",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who creates or solves puzzles; a difficult problem or question",
+          "examples": ["That math puzzle is a real puzzler.", "She is known as the queen of puzzlers."],
+          "collocations": ["tough puzzler", "classic puzzler", "puzzle‑puzzleer"],
+          "synonyms": ["puzzlemaker", "riddler", "poser"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["leisure", "general"]
+        }
+      ]
+    },
+    {
+      "term": "puzzlers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of puzzler; people who solve or create puzzles",
+          "examples": ["The magazine features many puzzlers from around the world."],
+          "collocations": ["famous puzzlers", "young puzzlers", "competition for puzzlers"],
+          "synonyms": ["puzzlemakers", "riddlers", "solvers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "puzzles",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "things that are hard to understand or mysterious problems; games that test logic and problem solving",
+          "examples": ["The homework is full of puzzles.", "We enjoy solving word puzzles."],
+          "collocations": ["crossword puzzles", "jigsaw puzzles", "puzzle book"],
+          "synonyms": ["enigmas", "riddles", "conundrums"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["leisure", "education"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to cause someone to feel curious or perplexed; to baffle",
+          "examples": ["The magician puzzled the audience with a clever trick."],
+          "collocations": ["puzzle someone", "puzzle over a problem", "puzzle out an answer"],
+          "synonyms": ["baffle", "bewilder", "confuse"],
+          "antonyms": ["solve", "reveal"],
+          "register": "neutral",
+          "domain": ["general", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "puzzling",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "causing someone to feel puzzled or confused; hard to understand",
+          "examples": ["The instructions were puzzling and unclear."],
+          "collocations": ["puzzling question", "puzzling behavior", "puzzling data"],
+          "synonyms": ["bewildering", "confusing", "mysterious"],
+          "antonyms": ["clear", "understandable"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "puzzlingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that causes puzzlement or confusion",
+          "examples": ["The map was puzzlingly unclear."],
+          "collocations": ["puzzlingly complicated", "puzzlingly silent"],
+          "synonyms": ["confusingly", "mysteriously"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "puzzlingness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being puzzling; the state of causing confusion",
+          "examples": ["Her puzzlingness made the riddle more intriguing."],
+          "collocations": ["great puzzlingness", "puzzlingness of the clue"],
+          "synonyms": ["bewilderment", "mystery"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "puzzlings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of puzzling; things that cause puzzlement",
+          "examples": ["The book contains several puzzlings to solve."],
+          "collocations": ["various puzzlings", "mysterious puzzlings"],
+          "synonyms": ["enigmas", "conundrums"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "puzzolan",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of volcanic ash used in cement and construction material; also a term in geology.",
+          "examples": ["Puzzolan is used to improve the strength of concrete."],
+          "collocations": ["pozzolanic cement", "natural puzzolan"],
+          "synonyms": ["pozzolan", "pozzolanic material"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "puzzolana",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of volcanic ash material used in cement; synonym of puzzolan",
+          "examples": ["Puzzolana cement contains puzzolana for durability."],
+          "collocations": ["puzzolana cement", "use puzzolana"],
+          "synonyms": ["pozzolan", "pozzolanic material"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "puzzolanas",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of puzzolana; several types of volcanic ash materials used in cement",
+          "examples": ["Different puzzolanas affect cement properties differently."],
+          "collocations": ["various puzzolanas", "puzzolanas in concrete"],
+          "synonyms": ["pozzolanic materials"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "pvt",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "abbreviation for private; often used in military or organizational contexts",
+          "examples": ["PVT is the rank abbreviation in some armies."],
+          "collocations": ["PVT rank", "private (PVT)"],
+          "synonyms": ["private", "rank"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["military", "general"]
+        }
+      ]
+    },
+    {
+      "term": "pwca",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "initialism that may stand for specific organization or term; varies by context",
+          "examples": ["PWCA conference was held yesterday."],
+          "collocations": ["PWCA member", "PWCA meeting"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["organization", "tech"]
+        }
+      ]
+    },
+    {
+      "term": "pwr",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "abbreviation for power; or power ratings in electronics or computing",
+          "examples": ["The device requires more PWR to operate."],
+          "collocations": ["increase PWR", "PWR supply"],
+          "synonyms": ["power"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "pwt",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "abbreviation that could stand for various terms (e.g., 'paid with transfer' or 'pounds weight ton') depending on context",
+          "examples": ["Check the label for PWT meaning."],
+          "collocations": ["PWT value", "PWT unit"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "pya",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "abbreviation or code that may refer to specific domain terms; context needed",
+          "examples": ["Pya is used in some datasets."],
+          "collocations": ["Pya label", "Pya value"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["data", "tech"]
+        }
+      ]
+    },
+    {
+      "term": "pyaemia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a serious bacterial infection in the blood with pus-forming bacteria",
+          "examples": ["Pyaemia is a dangerous medical condition that requires treatment."],
+          "collocations": ["acute pyaemia", "pyaemia of the bloodstream"],
+          "synonyms": ["septicemia", "bacteremia with pus-forming infection"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "pyaemias",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pyaemia; multiple cases of this infection",
+          "examples": ["Several patients developed pyaemias after the surgery."],
+          "collocations": ["cases of pyaemias", "pyaemias in hospital"],
+          "synonyms": ["septicemias with pus-forming bacteria"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "pyaemic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to pyaemia; caused by or resembling pyaemia",
+          "examples": ["Pyaemic conditions require urgent care."],
+          "collocations": ["pyaemic infection", "pyaemic symptoms"],
+          "synonyms": ["septicemic"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    }
+  ]
+}

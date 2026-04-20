@@ -1,0 +1,449 @@
+{
+  "items": [
+    {
+      "term": "pretty",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "pleasing to the senses; attractive or nice in appearance",
+          "examples": ["She wore a pretty dress for the party.", "The garden looked pretty in the spring sunshine."],
+          "collocations": ["pretty girl", "pretty good", "pretty little", "pretty much", "pretty soon"],
+          "synonyms": ["attractive", "lovely", "beautiful"],
+          "antonyms": ["ugly", "unattractive"],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        },
+        {
+          "pos": "adv",
+          "definition": "to a moderately high degree; quite",
+          "examples": ["The movie was pretty good.", "It's pretty cold outside today."],
+          "collocations": ["pretty well", "pretty much", "pretty enough"],
+          "synonyms": ["quite", "fairly", "somewhat"],
+          "antonyms": ["barely", "hardly"],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a term of endearment or a term used to refer to an attractive person (informal)",
+          "examples": ["Hey, pretty, can you help me with this?"], 
+          "collocations": ["pretty friend", "pretty face", "pretty person"],
+          "synonyms": ["beauty", "hottie"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "prettyface",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is attractive; a handsome or beautiful face",
+          "examples": ["The model was known as a prettyface in the industry."],
+          "collocations": ["young prettyface", "celebrity prettyface"],
+          "synonyms": ["beauty", "face", "looker"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prettying",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something more attractive or nicer",
+          "examples": ["She is prettying up the room for the party."],
+          "collocations": ["prettying up", "prettying the place", "start prettying"],
+          "synonyms": ["beautifying", "decorating"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prettyish",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "somewhat pretty; moderately attractive",
+          "examples": ["The painting is prettyish, not outstanding."],
+          "collocations": ["prettyish tone", "prettyish idea"],
+          "synonyms": ["somewhat attractive", "moderately pretty"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "prettyism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a joking or fictional belief in being attractive; not a standard word in common usage",
+          "examples": ["The author coined 'prettyism' as a playful concept."],
+          "collocations": ["concept of prettyism"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "prettyisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prettyism; playful terms or beliefs about attractiveness",
+          "examples": ["The essay lists several prettyisms as examples."],
+          "collocations": ["prettyisms collection"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "pretubercular",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "before tuberculosis; relating to the period before TB infection",
+          "examples": ["Pretubercular symptoms were not yet evident."],
+          "collocations": ["pretubercular stage", "pretubercular infection"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medical"]
+        }
+      ]
+    },
+    {
+      "term": "pretuberculous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "before tuberculosis or not yet tuberculous",
+          "examples": ["Pretuberculous conditions were monitored."],
+          "collocations": ["pretuberculous conditions"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medical"]
+        }
+      ]
+    },
+    {
+      "term": "pretympanic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "in front of the tympanic membrane or relating to the tympanic cavity",
+          "examples": ["Pretympanic structures were examined during the procedure."],
+          "collocations": ["pretympanic space", "pretympanic region"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medical"]
+        }
+      ]
+    },
+    {
+      "term": "pretype",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an earlier example or specimen of a type used for comparison",
+          "examples": ["The fossil serves as a pretype for comparison."],
+          "collocations": ["pretype specimen"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "pretyped",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "typed or prepared beforehand",
+          "examples": ["Pretyped data was ready for analysis."],
+          "collocations": ["pretyped document", "pretyped input"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "pretypes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "earlier types used as references",
+          "examples": ["The pretypes informed the classification."],
+          "collocations": ["pretypes dataset"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "pretyphoid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "occurring before typhoid fever; pre-typhoid",
+          "examples": ["Pretyphoid symptoms appeared gradually."],
+          "collocations": ["pretyphoid phase"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medical"]
+        }
+      ]
+    },
+    {
+      "term": "pretypified",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "made into a pretype or set as a standard example",
+          "examples": ["The codebase was pretypified for consistency."],
+          "collocations": ["pretypified patterns"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "pretypify",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to assign a pretype to something; to standardize as a prototype",
+          "examples": ["We will pretypify the dataset before analysis."],
+          "collocations": ["pretypify data", "pretypify models"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "pretypifying",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of making something a pretype or standard example",
+          "examples": ["Pretypifying helps maintain consistency."],
+          "collocations": ["pretypifying process"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "pretyping",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of assigning a pretype or typing in advance",
+          "examples": ["Pretyping can speed up classification."],
+          "collocations": ["pretyping step"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "pretypographical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "before or relating to typography or printed letters",
+          "examples": ["Pretypographical notes were added."],
+          "collocations": ["pretypographical guidelines"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "print", "design"]
+        }
+      ]
+    },
+    {
+      "term": "pretyrannical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "extremely tyrannical or oppressive before assuming power",
+          "examples": ["The regime was pretyrannical in its early days."],
+          "collocations": ["pretyrannical rule"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "pretyranny",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "tyranny or oppressive rule before formal power is established",
+          "examples": ["They feared pretyranny would rise again."],
+          "collocations": ["pretyranny period"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "pretzel",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a baked bread snack twisted into a knot shape",
+          "examples": ["I bought a salted pretzel at the street market."],
+          "collocations": ["soft pretzel", "salted pretzel", "pretzel sticks"],
+          "synonyms": ["bread snack"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "pretzels",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pretzel",
+          "examples": ["We shared two pretzels and a drink."],
+          "collocations": ["soft pretzels", "pretzels with cheese dip"],
+          "synonyms": ["bread snacks"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "preultimate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "before the final; just prior to the last",
+          "examples": ["The preultimate chapter sets up the ending."],
+          "collocations": ["preultimate stage", "preultimate chapter"],
+          "synonyms": ["penultimate"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "preultimately",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "before the ultimate conclusion; beforehand",
+          "examples": ["Preultimately, we reviewed the plan."],
+          "collocations": ["preultimately decided"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "preumbonal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "before the umbones or bones near the shoulder; in anatomy, before the shoulder blades (rare usage)",
+          "examples": ["Preumbonal anatomy terms appeared in the atlas."],
+          "collocations": ["preumbonal region"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medical"]
+        }
+      ]
+    }
+  ]
+}

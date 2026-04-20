@@ -1,0 +1,854 @@
+{
+  "items": [
+    {
+      "term": "rewardably",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that deserves a reward",
+          "examples": ["She worked rewardably and gained recognition."],
+          "collocations": ["act rewardably", "perform rewardably"],
+          "synonyms": ["deservedly", "meritoriously"],
+          "antonyms": ["undeservedly"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rewarded",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "gave something good in return for effort or behavior",
+          "examples": ["She was rewarded for her hard work.", "The company rewarded him with a bonus."],
+          "collocations": ["rewarded with money", "rewarded for effort", "highly rewarded"],
+          "synonyms": ["compensated", "paid", "honored"],
+          "antonyms": ["punished", "penalized"],
+          "register": null,
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "rewardedly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner that receives or shows reward",
+          "examples": ["He smiled rewardedly after finishing the task."],
+          "collocations": ["feel rewardedly"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rewarder",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that gives a reward",
+          "examples": ["The employer was a generous rewarder."],
+          "collocations": ["generous rewarder", "fair rewarder"],
+          "synonyms": ["giver", "benefactor"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rewarders",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people or things that give rewards",
+          "examples": ["Organizations can be strong rewarders of talent."],
+          "collocations": ["major rewarders", "financial rewarders"],
+          "synonyms": ["providers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "rewardful",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "bringing reward or benefit",
+          "examples": ["It was a rewardful experience."],
+          "collocations": ["rewardful effort"],
+          "synonyms": ["beneficial", "profitable"],
+          "antonyms": ["useless"],
+          "register": "rare",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rewardfulness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being rewarding or beneficial",
+          "examples": ["She appreciated the rewardfulness of the job."],
+          "collocations": ["sense of rewardfulness"],
+          "synonyms": ["benefit", "value"],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rewarding",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "giving satisfaction or benefit",
+          "examples": ["Teaching is a rewarding job.", "The work felt very rewarding."],
+          "collocations": ["highly rewarding", "rewarding experience", "emotionally rewarding"],
+          "synonyms": ["fulfilling", "satisfying"],
+          "antonyms": ["frustrating", "boring"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rewardingly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that gives satisfaction or benefit",
+          "examples": ["The project progressed rewardingly."],
+          "collocations": ["rewardingly challenging"],
+          "synonyms": ["satisfyingly"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rewardingness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being rewarding",
+          "examples": ["He valued the rewardingness of the role."],
+          "collocations": ["sense of rewardingness"],
+          "synonyms": ["fulfillment"],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rewardless",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without reward or benefit",
+          "examples": ["It felt like a rewardless effort."],
+          "collocations": ["rewardless task"],
+          "synonyms": ["fruitless", "unprofitable"],
+          "antonyms": ["rewarding"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rewardproof",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not influenced or motivated by rewards",
+          "examples": ["The child seemed rewardproof."],
+          "collocations": ["rewardproof behavior"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["psychology"]
+        }
+      ]
+    },
+    {
+      "term": "rewards",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "things given in return for good work or behavior",
+          "examples": ["Employees receive rewards for performance.", "The rewards were worth the effort."],
+          "collocations": ["financial rewards", "offer rewards", "earn rewards"],
+          "synonyms": ["benefits", "prizes"],
+          "antonyms": ["penalties"],
+          "register": null,
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "rewarehouse",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to store again in a warehouse",
+          "examples": ["The goods were rewarehoused after inspection."],
+          "collocations": ["rewarehouse goods"],
+          "synonyms": ["restock"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["business", "logistics"]
+        }
+      ]
+    },
+    {
+      "term": "rewarewa",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of tree native to New Zealand",
+          "examples": ["The rewarewa produces distinctive flowers."],
+          "collocations": ["rewarewa tree"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "rewarewas",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rewarewa trees",
+          "examples": ["Rewarewas grow in forest areas."],
+          "collocations": ["native rewarewas"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "rewarm",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to heat something again",
+          "examples": ["She rewarmed the leftovers."],
+          "collocations": ["rewarm food", "rewarm soup"],
+          "synonyms": ["reheat"],
+          "antonyms": ["cool"],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewarmed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "heated again",
+          "examples": ["He rewarmed the coffee."],
+          "collocations": ["rewarmed meal"],
+          "synonyms": ["reheated"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewarming",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of heating again",
+          "examples": ["Rewarming food can affect taste."],
+          "collocations": ["rewarming leftovers"],
+          "synonyms": ["reheating"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewarms",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "heats again",
+          "examples": ["He rewarms his lunch daily."],
+          "collocations": ["rewarms food"],
+          "synonyms": ["reheats"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewarn",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to warn again",
+          "examples": ["They rewarned the public about the risk."],
+          "collocations": ["rewarn users"],
+          "synonyms": ["remind", "alert again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rewarrant",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to justify or guarantee again",
+          "examples": ["The repair was rewarranted."],
+          "collocations": ["rewarrant a product"],
+          "synonyms": ["rejustify"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "rewash",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to wash something again",
+          "examples": ["She had to rewash the clothes."],
+          "collocations": ["rewash clothes"],
+          "synonyms": ["wash again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewashed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "washed again",
+          "examples": ["The dishes were rewashed."],
+          "collocations": ["rewashed laundry"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewashes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "washes again",
+          "examples": ["He rewashes items if they smell."],
+          "collocations": ["rewashes clothes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewashing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of washing again",
+          "examples": ["Rewashing may damage fabric."],
+          "collocations": ["rewashing clothes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewater",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to add water again",
+          "examples": ["They rewatered the dry plants."],
+          "collocations": ["rewater plants"],
+          "synonyms": ["water again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewatered",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "added water again",
+          "examples": ["The soil was rewatered."],
+          "collocations": ["rewatered soil"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewatering",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of adding water again",
+          "examples": ["Rewatering helps plants recover."],
+          "collocations": ["rewatering plants"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewaters",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "adds water again",
+          "examples": ["She rewaters daily."],
+          "collocations": ["rewaters crops"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewave",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to wave again or form waves again",
+          "examples": ["She rewaved her hair."],
+          "collocations": ["rewave hair"],
+          "synonyms": ["wave again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewax",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to apply wax again",
+          "examples": ["They rewaxed the floor."],
+          "collocations": ["rewax floors"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewaxed",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "applied wax again",
+          "examples": ["The surface was rewaxed."],
+          "collocations": ["rewaxed surface"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewaxes",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "applies wax again",
+          "examples": ["He rewaxes the car monthly."],
+          "collocations": ["rewaxes car"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewaxing",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of applying wax again",
+          "examples": ["Rewaxing protects the floor."],
+          "collocations": ["rewaxing floors"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewaybill",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to issue a new waybill for transported goods",
+          "examples": ["The shipment was rewaybilled."],
+          "collocations": ["rewaybill cargo"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["logistics"]
+        }
+      ]
+    },
+    {
+      "term": "rewayle",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to lament again",
+          "examples": ["He rewayled his loss."],
+          "collocations": ["rewayle grief"],
+          "synonyms": ["lament again"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "reweaken",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to become weak again or make something weak again",
+          "examples": ["The illness reweakened him."],
+          "collocations": ["reweaken body"],
+          "synonyms": ["weaken again"],
+          "antonyms": ["strengthen"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rewear",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to wear something again",
+          "examples": ["She rewore her favorite dress."],
+          "collocations": ["rewear clothes"],
+          "synonyms": ["wear again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewearing",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of wearing again",
+          "examples": ["Rewearing outfits saves money."],
+          "collocations": ["rewearing clothes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rewears",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "wears again",
+          "examples": ["He rewears jackets often."],
+          "collocations": ["rewears outfits"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "reweave",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to weave again or repair fabric by weaving",
+          "examples": ["They reweave damaged cloth."],
+          "collocations": ["reweave fabric"],
+          "synonyms": ["repair"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["craft"]
+        }
+      ]
+    },
+    {
+      "term": "reweaved",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "wove again or repaired by weaving",
+          "examples": ["The textile was reweaved."],
+          "collocations": ["reweaved cloth"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["craft"]
+        }
+      ]
+    },
+    {
+      "term": "reweaves",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "weaves again",
+          "examples": ["She reweaves torn fabric."],
+          "collocations": ["reweaves garments"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["craft"]
+        }
+      ]
+    },
+    {
+      "term": "reweaving",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of weaving again",
+          "examples": ["Reweaving restores textiles."],
+          "collocations": ["reweaving cloth"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["craft"]
+        }
+      ]
+    },
+    {
+      "term": "rewed",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to marry again",
+          "examples": ["She rewed after many years."],
+          "collocations": ["rewed partner"],
+          "synonyms": ["remarry"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rewedded",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "married again",
+          "examples": ["They rewedded in a small ceremony."],
+          "collocations": ["rewedded couple"],
+          "synonyms": ["remarried"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rewedding",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or event of marrying again",
+          "examples": ["Their rewedding was private."],
+          "collocations": ["rewedding ceremony"],
+          "synonyms": ["remarriage"],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reweds",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "marries again",
+          "examples": ["He reweds later in life."],
+          "collocations": ["reweds partner"],
+          "synonyms": ["remarries"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reweigh",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to weigh something again",
+          "examples": ["They reweighed the package."],
+          "collocations": ["reweigh items", "reweigh evidence"],
+          "synonyms": ["weigh again", "reassess"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

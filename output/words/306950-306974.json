@@ -1,0 +1,504 @@
+{
+  "items": [
+    {
+      "term": "preventible",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be prevented or avoided",
+          "examples": [
+            "The disease is not always preventible with vaccination.",
+            "Some accidents are preventible with careful safety measures."
+          ],
+          "collocations": ["preventible illness", "preventible by", "preventible by vaccination"],
+          "synonyms": ["preventable", "avoidably preventable"],
+          "antonyms": ["unpreventable", "inevitable"],
+          "register": "formal",
+          "domain": ["general", "health"]
+        }
+      ]
+    },
+    {
+      "term": "preventibly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that can be prevented",
+          "examples": [
+            "The spread of the disease can preventibly be stopped with quick action.",
+            "Preventibly, many injuries could be avoided by following safety rules."
+          ],
+          "collocations": ["preventibly avoidable", "preventibly by"],
+          "synonyms": ["preventably"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "health"]
+        }
+      ]
+    },
+    {
+      "term": "preventing",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of stopping something from happening or existing",
+          "examples": [
+            "Preventing illness is easier than treating it.",
+            "The campaign is about preventing accidents."
+          ],
+          "collocations": ["preventing disease", "preventing accidents", "preventing failure"],
+          "synonyms": ["avoiding", "stopping"],
+          "antonyms": ["causing", "allowing"],
+          "register": "neutral",
+          "domain": ["general", "health", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "preventingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner that prevents or evades something",
+          "examples": [
+            "The doors were closed preventingly to avoid the crowd entering.",
+            "She acted preventingly to avert a problem."
+          ],
+          "collocations": ["act preventingly", "preventingly effective"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prevention",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the action of stopping something bad from happening",
+          "examples": [
+            "Prevention of disease is key to public health.",
+            "Safety measures focus on injury prevention."
+          ],
+          "collocations": ["disease prevention", "prevention program", "prevention measures"],
+          "synonyms": ["precluding", "avoiding"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["health", "general", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "preventionism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a policy or doctrine that emphasizes preventing harm or disease",
+          "examples": [
+            "Preventionism shapes many public health campaigns.",
+            "Critics argue that preventionism can overlook treatment needs."
+          ],
+          "collocations": ["health preventionism", "preventionist policy"],
+          "synonyms": ["preventiveism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["health", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "preventionist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who emphasizes prevention in policy or practice",
+          "examples": [
+            "The preventionist argued for stricter vaccination programs.",
+            "As a preventionist, she focuses on early intervention."
+          ],
+          "collocations": ["public health preventionist", "preventionist stance"],
+          "synonyms": ["preventive advocate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["health", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "preventions",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prevention; acts or measures that stop something bad from happening",
+          "examples": [
+            "Multiple preventions reduced the risk.",
+            "There are various preventions for flu season."
+          ],
+          "collocations": ["injury preventions", "safety preventions"],
+          "synonyms": ["preventions"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "preventive",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or designed to prevent something",
+          "examples": [
+            "They took preventive measures.",
+            "Regular exercise has preventive health benefits."
+          ],
+          "collocations": ["preventive care", "preventive measures", "preventive maintenance"],
+          "synonyms": ["prophylactic", "preventing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "preventively",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a preventive way",
+          "examples": [
+            "They acted preventively to stop the spread.",
+            "The system is designed preventively."
+          ],
+          "collocations": ["act preventively", "preventively designed"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["health", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "preventiveness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of preventing or being preventive",
+          "examples": [
+            "The preventiveness of the policy surprised critics.",
+            "Preventiveness reduces long-term costs."
+          ],
+          "collocations": ["focus on preventiveness", "level of preventiveness"],
+          "synonyms": ["preventivity"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["policy", "health"]
+        }
+      ]
+    },
+    {
+      "term": "preventivenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of preventiveness; instances or measures of being preventive",
+          "examples": [
+            "The preventivenesses across sectors varied.",
+            "We reviewed several preventivenesses during the audit."
+          ],
+          "collocations": ["multiple preventivenesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["policy", "health"]
+        }
+      ]
+    },
+    {
+      "term": "preventives",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "things or methods that prevent something from happening",
+          "examples": [
+            "Vaccines are preventives against disease.",
+            "He collected various preventives for the trip."
+          ],
+          "collocations": ["vaccines as preventives", "preventives against", "oral preventives"],
+          "synonyms": ["prophylactics"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "general"]
+        }
+      ]
+    },
+    {
+      "term": "preventoria",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of preventorium; places or facilities designed to prevent disease",
+          "examples": [
+            "Historically, preventoria housed at-risk individuals.",
+            "The idea of a preventorium faded as medicine advanced."
+          ],
+          "collocations": ["preventoria institutions"],
+          "synonyms": ["preventarium (sing.)"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "preventorium",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place or facility intended to prevent disease",
+          "examples": [
+            "The ward served as a preventorium.",
+            "Preventoria were more common in the past."
+          ],
+          "collocations": ["opening a preventorium", "preventorium facility"],
+          "synonyms": ["preventarium"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "preventoriums",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of preventorium",
+          "examples": [
+            "Several preventoriums operated in the city historically.",
+            "Records show different preventoriums were used at different times."
+          ],
+          "collocations": ["historic preventoriums"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "preventral",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "situated toward the front or anterior side",
+          "examples": [
+            "The preventral region of the organism was examined.",
+            "A preventral incision was made."
+          ],
+          "collocations": ["preventral area", "preventral side"],
+          "synonyms": ["anterior", "frontal"],
+          "antonyms": ["posterior", "dorsal"],
+          "register": "scientific",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "prevents",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of prevent; stops from happening",
+          "examples": [
+            "He prevents mistakes by checking twice.",
+            "The vaccine helps prevents disease (colloquial)."
+          ],
+          "collocations": ["prevents crime", "prevents illness"],
+          "synonyms": ["stops", "avoids"],
+          "antonyms": ["causes", "allows"],
+          "register": "neutral",
+          "domain": ["general", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "preventtoria",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of preventtorium; not standard in modern usage",
+          "examples": [
+            "Some historical texts mention preventtoria.",
+            "The term is rarely used today."
+          ],
+          "collocations": ["historic preventtoria"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "preventure",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plan or action taken in advance to prevent something; prevention",
+          "examples": [
+            "They discussed a preventure to reduce risk.",
+            "A preventure was put in place after the incident."
+          ],
+          "collocations": ["risk preventure", "financial preventure"],
+          "synonyms": ["prevention plan"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "preventured",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having been prevented; previously prevented",
+          "examples": [
+            "The preventured issue was later resolved.",
+            "A preventured approach saved time."
+          ],
+          "collocations": ["preventured outcome"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "health"]
+        }
+      ]
+    },
+    {
+      "term": "preventuring",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an act of preventing; prevention in process (rare)",
+          "examples": [
+            "Preventuring was discussed in the meeting.",
+            "The team focused on preventuring measures."
+          ],
+          "collocations": ["preventuring activity"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "preverb",
+            "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of small word that appears before a verb to modify its meaning",
+          "examples": [
+            "In linguistics, a preverb can modify aspect.",
+            "The sentence uses a preverb to intensify the action."
+          ],
+          "collocations": ["linguistic preverb"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "education"]
+        }
+      ]
+    },
+    {
+      "term": "preverbal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or occurring before a verb",
+          "examples": [
+            "Preverbal cues help us guess meaning.",
+            "The preverbal phase includes certain intonations."
+          ],
+          "collocations": ["preverbal communication", "preverbal cues"],
+          "synonyms": ["preverbalized (rare)", "pre-verb"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "preverbs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of preverb; multiple preverbal elements",
+          "examples": [
+            "The study lists several preverbs in the language.",
+            "Preverbs can modify verb semantics."
+          ],
+          "collocations": ["language preverbs"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["linguistics", "language"]
+        }
+      ]
+    }
+  ]
+}

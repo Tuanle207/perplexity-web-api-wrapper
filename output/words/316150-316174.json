@@ -1,0 +1,429 @@
+{
+  "items": [
+    {
+      "term": "pyritohedral",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a pyritohedron or describing a crystal shape with pyritohedral symmetry",
+          "examples": ["The mineral has a pyritohedral habit, with twelve pentagonal faces."],
+          "collocations": ["pyritohedral symmetry", "pyritohedral crystal", "pyritohedral shape"],
+          "synonyms": ["pyritohedral-shaped"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "pyritohedron",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a polyhedron with pyritohedral symmetry, typically consisting of 12 pentagonal faces and 30 edges",
+          "examples": ["The pyritohedron is a common model used to illustrate pyritohedral symmetry in crystallography."],
+          "collocations": ["pyritohedron model", "crystal pyritohedron", "pyritohedral pyritohedron"],
+          "synonyms": ["icositetrahedron (in some contexts)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "geometry", "crystallography"]
+        }
+      ]
+    },
+    {
+      "term": "pyritoid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling or containing pyrite in appearance or composition",
+          "examples": ["A pyritoid mineral often looks metallic and brassy."],
+          "collocations": ["pyritoid mineral", "pyritoid surface"],
+          "synonyms": ["pyrite-like"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "mineralogy"]
+        }
+      ]
+    },
+    {
+      "term": "pyritology",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study of pyrite and pyrite-like minerals",
+          "examples": ["In pyritology, researchers examine the formation of iron sulfide crystals."],
+          "collocations": ["field of pyritology", "pyritology research"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "geology", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "pyritous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "containing or resembling pyrite; iron sulfide-rich",
+          "examples": ["A pyritous crust was observed on the mineral surface."],
+          "collocations": ["pyritous crust", "pyritous deposit"],
+          "synonyms": ["pyrite-rich"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "mineralogy"]
+        }
+      ]
+    },
+    {
+      "term": "pyro",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "prefix",
+          "definition": "a prefix meaning fire or heat, used in many scientific terms",
+          "examples": ["pyrolysis is the decomposition brought about by heat."],
+          "collocations": ["pyro- compounds", "pyrolysis", "pyrotechnics"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "pyroacetic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or derived from pyroacetic acid or processes involving heat and acetic environments",
+          "examples": ["Pyroacetic reagents were used in the synthesis."],
+          "collocations": ["pyroacetic process", "pyroacetic reagent"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry", "laboratory"]
+        }
+      ]
+    },
+    {
+      "term": "pyroacid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an acid formed by heating or a compound that releases acid upon heating",
+          "examples": ["The sample contained a strong pyroacid."],
+          "collocations": ["pyroacid formulation", "strong pyroacid"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry", "chemical engineering"]
+        }
+      ]
+    },
+    {
+      "term": "pyroantimonate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical compound containing antimony and oxygens formed under high heat",
+          "examples": ["The catalyst is a pyroantimonate salt."],
+          "collocations": ["pyroantimonate salt", "pyroantimonate catalyst"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry", "materials science"]
+        }
+      ]
+    },
+    {
+      "term": "pyroantimonic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or containing antimony oxides formed at high temperatures; very powerful as a superacid (historical usage)",
+          "examples": ["A pyroantimonic acid is among the strongest known superacids."],
+          "collocations": ["pyroantimonic acid", "pyroantimonic reagent"],
+          "synonyms": ["superacid-related"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry", "acid chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyroarsenate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an arsenic-containing oxyanion or salt formed under heat",
+          "examples": ["The solution contained a trace of pyroarsenate."],
+          "collocations": ["pyroarsenate salt", "pyroarsenate ion"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry", "environmental science"]
+        }
+      ]
+    },
+    {
+      "term": "pyroarsenic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to arsenic compounds produced by heating",
+          "examples": ["pyroarsenic compounds were detected in the sample."],
+          "collocations": ["pyroarsenic compounds", "pyroarsenic chemistry"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyroarsenious",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "of or containing arsenous acid or arsenite produced by heating",
+          "examples": ["Pyroarsenious compounds were studied for their reactivity."],
+          "collocations": ["pyroarsenious compound", "pyroarsenious acid"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyroarsenite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an arsenite salt or ester formed under heat",
+          "examples": ["The sample contained a pyroarsenite derivative."],
+          "collocations": ["pyroarsenite salt", "pyroarsenite derivative"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyroballogies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fanciful or incorrect plural form of 'pyrobology' used to describe the study of fire-related topics; likely rare or erroneous",
+          "examples": ["References to pyroballogies are uncommon in modern texts."],
+          "collocations": ["pyroballogies theory"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "pyroballogy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study of fire or combustion; a rare or historical term",
+          "examples": ["Some early treatises on combustion were framed as pyroballogy."],
+          "collocations": ["pyroballogy theory", "pyroballogy text"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "science"]
+        }
+      ]
+    },
+    {
+      "term": "pyrobelonite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mineral or mineral-like substance containing phosphorus and other elements formed under heat",
+          "examples": ["The specimen resembled a pyrobelonite crystal."],
+          "collocations": ["pyrobelonite crystal", "pyrobelonite mineral"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "pyrobi",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a unit of measure or function in a specialized field (rare; context-dependent)",
+          "examples": ["The device uses pyrobi in its measurement protocol."],
+          "collocations": ["pyrobi unit", "pyrobi measurement"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "pyrobitumen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "bitumen that has been treated with heat or contains heat-reactive components",
+          "examples": ["The pyrobitumen layer hardened under sun exposure."],
+          "collocations": ["pyrobitumen layer", "pyrobitumen coating"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "materials science"]
+        }
+      ]
+    },
+    {
+      "term": "pyrobituminous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or resembling pyrobitumen; heated bitumen-based",
+          "examples": ["A pyrobituminous pitch was collected during sampling."],
+          "collocations": ["pyrobituminous material", "pyrobituminous coating"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "materials science"]
+        }
+      ]
+    },
+    {
+      "term": "pyroborate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a borate compound formed under heat or a borate salt with pyro properties",
+          "examples": ["The catalyst was a pyroborate salt."],
+          "collocations": ["pyroborate salt", "pyroborate catalyst"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyroboric",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to boric acid or borates produced by heating",
+          "examples": ["Pyroboric acid was studied for synthesis applications."],
+          "collocations": ["pyroboric acid", "pyroboric compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyrocatechin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a benzene diol compound also known as catechol, found in some plants",
+          "examples": ["Pyrocatechin derivatives were synthesized in the lab."],
+          "collocations": ["pyrocatechin derivative", "pyrocatechin compound"],
+          "synonyms": ["catechol"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["chemistry", "biochemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyrocatechinol",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a reduced or alcohol derivative of pyrocatechin (catechinol)",
+          "examples": ["The pyrocatechinol spectrum showed characteristic peaks."],
+          "collocations": ["pyrocatechinol synthesis", "pyrocatechinol derivative"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyrocatechins",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pyrocatechin; catechin-like compounds with phenolic structure",
+          "examples": ["Pyrocatechins are studied for antioxidant properties."],
+          "collocations": ["pyrocatechins analysis", "pyrocatechins content"],
+          "synonyms": ["catechins (specific subset)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["chemistry", "biochemistry"]
+        }
+      ]
+    }
+  ]
+}

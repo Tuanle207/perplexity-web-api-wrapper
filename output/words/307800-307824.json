@@ -1,0 +1,655 @@
+{
+  "items": [
+    {
+      "term": "privets",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of privet, a small evergreen shrub or hedge plant",
+          "examples": [
+            "The garden was bordered by privets.",
+            "We trimmed the privets along the path."
+          ],
+          "collocations": [
+            "privet hedge",
+            "privet bush",
+            "plant privets",
+            "cut back privets",
+            "dense privets"
+          ],
+          "synonyms": ["privet plant", "Ligustrum (genus)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "garden"]
+        }
+      ]
+    },
+    {
+      "term": "privier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative form of private; more intimate or secret",
+          "examples": [
+            "They shared privier thoughts in private.",
+            "This room feels privier than the others."
+          ],
+          "collocations": [
+            "a privier conversation",
+            "privier setting",
+            "feel privier"
+          ],
+          "synonyms": ["more private", "closer"],
+          "antonyms": ["public", "open"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "privies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of privy; an outdoor toilet; a small building for sanitation",
+          "examples": [
+            "The old school had wooden privies at the back.",
+            "The privies were cleaned daily."
+          ],
+          "collocations": [
+            "outhouse",
+            "privy pit",
+            "bathroom",
+            "toilet block"
+          ],
+          "synonyms": ["outhouse", "latrine"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "priviest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative form of private; most intimate or secret",
+          "examples": [
+            "In the priviest moments of their life, they spoke softly.",
+            "That room is the priviest place in the house."
+          ],
+          "collocations": [
+            "the priviest moments",
+            "priviest corner"
+          ],
+          "synonyms": ["most private", "secretest"],
+          "antonyms": ["publicest", "most open"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "priviledge",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an incorrect spelling of privilege; a special advantage or benefit",
+          "examples": [
+            "It was a priveledge to meet the author.",
+            "He spoke of the privilege of serving his country."
+          ],
+          "collocations": [
+            "special privilege",
+            "privilege card",
+            "educational privilege"
+          ],
+          "synonyms": ["advantage", "benefit", "concession"],
+          "antonyms": ["disadvantage", "handicap"],
+          "register": "neutral",
+          "domain": ["general", "society"]
+        }
+      ]
+    },
+    {
+      "term": "privilege",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a special right or advantage granted to a person or group",
+          "examples": [
+            "Having access to the VIP lounge is a privilege.",
+            "Education is a privilege in some countries."
+          ],
+          "collocations": [
+            "special privilege",
+            "legal privilege",
+            "vote privilege",
+            "privilege program",
+            "privilege card"
+          ],
+          "synonyms": ["benefit", "advantage", "concession"],
+          "antonyms": ["disadvantage", "duty"],
+          "register": "formal",
+          "domain": ["general", "law", "society"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to grant someone a special right or advantage",
+          "examples": [
+            "The university privileges international students with scholarship options.",
+            "Certain clubs privilege members with early access."
+          ],
+          "collocations": [
+            "privilege someone",
+            "privilege access",
+            "privilege status"
+          ],
+          "synonyms": ["entitle", "authorize", "allow"],
+          "antonyms": ["deny", "restrict"],
+          "register": "formal",
+          "domain": ["education", "society"]
+        }
+      ]
+    },
+    {
+      "term": "privileged",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having special rights, advantages, or immunities that others do not have",
+          "examples": [
+            "She comes from a privileged background.",
+            "Privileged information should be handled carefully."
+          ],
+          "collocations": [
+            "privileged position",
+            "privileged class",
+            "privileged information"
+          ],
+          "synonyms": ["favored", " advantaged", "proud"],
+          "antonyms": ["unprivileged", "disadvantaged"],
+          "register": "formal",
+          "domain": ["society", "education", "business"]
+        }
+      ]
+    },
+    {
+      "term": "privileger",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who bestows privileges or who enjoys privileges; a beneficiary or grantor",
+          "examples": [
+            "The company is a privilege giver, not a privilege taker.",
+            "She is a privilege recipient among peers."
+          ],
+          "collocations": [
+            "privilege giver",
+            "privilege recipient",
+            "privileger status"
+          ],
+          "synonyms": ["benefactor", "grantor", "patron"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "privileges",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of privilege; rights or advantages granted",
+          "examples": [
+            "The privileges of membership include discounts and access to events.",
+            "Privilege and responsibility go hand in hand."
+          ],
+          "collocations": [
+            "rights and privileges",
+            "exclusive privileges",
+            "privileges of membership"
+          ],
+          "synonyms": ["benefits", "advantages"],
+          "antonyms": ["disadvantages", "restrictions"],
+          "register": "formal",
+          "domain": ["general", "business", "society"]
+        }
+      ]
+    },
+    {
+      "term": "privileging",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of granting privilege; the act of giving special treatment",
+          "examples": [
+            "Privileging certain viewpoints can limit discussion.",
+            "The privileging of elite voices is controversial."
+          ],
+          "collocations": [
+            " privileging of",
+            " privileging process"
+          ],
+          "synonyms": ["preferencing", "favoring"],
+          "antonyms": ["equalizing", "demoting"],
+          "register": "formal",
+          "domain": ["academic", "society"]
+        }
+      ]
+    },
+    {
+      "term": "privily",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a private or secret way; secretly",
+          "examples": [
+            "They privily watched from behind the door.",
+            "She privily recorded the conversation."
+          ],
+          "collocations": [
+            "look privily",
+            "privily whisper"
+          ],
+          "synonyms": ["secretly", "covertly"],
+          "antonyms": ["openly", "publicly"],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "priviness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being private or personal; intimate seclusion",
+          "examples": [
+            "He valued his priviness and kept to himself.",
+            "Priviness in a crowded city is rare."
+          ],
+          "collocations": [
+            "sense of priviness",
+            "privacy and priviness"
+          ],
+          "synonyms": ["secrecy", "intimacy"],
+          "antonyms": ["openness", "publicity"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "privities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of privy; things that are private or secret; innermost matters",
+          "examples": [
+            "They discussed the privities of their relationship.",
+            "The document reveals many privities of the case."
+          ],
+          "collocations": [
+            "private privities",
+            "hidden privities"
+          ],
+          "synonyms": ["secrets", "intimates"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "privity",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being in a close or private relationship; a relationship giving rights or duties between parties",
+          "examples": [
+            "There is no privity between the two neighboring businesses.",
+            "Privity of contract binds the parties to the agreement."
+          ],
+          "collocations": [
+            "privity of contract",
+            "commercial privity",
+            "privity relationship"
+          ],
+          "synonyms": ["consent", "relation", "kinship"],
+          "antonyms": ["lack of relation", "incompatibility"],
+          "register": "formal",
+          "domain": ["law", "business"]
+        }
+      ]
+    },
+    {
+      "term": "privy",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "sharing in the knowledge of something secret or private",
+          "examples": [
+            "She was privy to the confidential information.",
+            "Only a few were privy to the plan."
+          ],
+          "collocations": [
+            "privy to",
+            "be privy",
+            "privy information"
+          ],
+          "synonyms": ["informed", "aware", "trusted"],
+          "antonyms": ["ignorant", "unaware"],
+          "register": "formal",
+          "domain": ["business", "law", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a toilet or lavatory, especially in old usage",
+          "examples": [
+            "The privy behind the shed is out of use.",
+            "They still kept a privy at the edge of the yard."
+          ],
+          "collocations": [
+            "outdoor privy",
+            "old privy"
+          ],
+          "synonyms": ["outhouse", "latrine"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prix",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "French word meaning 'price'; used in some English contexts for pricing or awards (as in 'prix fixe' or 'prix de Rome')",
+          "examples": [
+            "The restaurant offers a menu with a prix fixe option.",
+            "The Prix de Lausanne is a famous dance competition."
+          ],
+          "collocations": [
+            "prix fixe",
+            "prix de Rome",
+            "award prix"
+          ],
+          "synonyms": ["price", "award"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "prizable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being prize or rewarded; worthy of winning a prize",
+          "examples": [
+            "The inventor's risky project is prize-worthy and prizeable.",
+            "A prizeable achievement deserves recognition."
+          ],
+          "collocations": [
+            "prize-worthy",
+            "prizable award"
+          ],
+          "synonyms": ["worthy", "awardable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "prize",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "something offered as a reward for a success in a competition",
+          "examples": [
+            "She won the prize for singing.",
+            "The prize was a new bicycle."
+          ],
+          "collocations": [
+            "grand prize",
+            "cash prize",
+            "first prize",
+            "prize winner"
+          ],
+          "synonyms": ["award", "reward", "trophy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "competition"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to value or prize something highly; to treat as precious",
+          "examples": [
+            "Parents prize their children’s safety.",
+            "She prizes her independence."
+          ],
+          "collocations": [
+            "prize highly",
+            "prize independence",
+            "prize life"
+          ],
+          "synonyms": ["value", "treasure", " cherish"],
+          "antonyms": ["disregard"],
+          "register": "neutral",
+          "domain": ["general", "emotion"]
+        }
+      ]
+    },
+    {
+      "term": "prizeable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being prize or awarded; deserving of a prize",
+          "examples": [
+            "A prizeable candidate would be selected for the grant.",
+            "The prizeable features include innovation and impact."
+          ],
+          "collocations": [
+            "prizeable achievement",
+            "prizeable work"
+          ],
+          "synonyms": ["awardable", "worthy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "prized",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "highly valued or treasured",
+          "examples": [
+            "Her prized possession is a vintage watch.",
+            "These are my most prized memories."
+          ],
+          "collocations": [
+            "prized possession",
+            "prized memory",
+            "prized award"
+          ],
+          "synonyms": ["valued", "treasured", "cherished"],
+          "antonyms": ["worthless", "discarded"],
+          "register": "neutral",
+          "domain": ["general", "emotion"]
+        }
+      ]
+    },
+    {
+      "term": "prizefight",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a boxing match for a prize; a boxing fight for a purse",
+          "examples": [
+            "The prizefight drew a large crowd.",
+            "They scheduled the prizefight for Friday night."
+          ],
+          "collocations": [
+            "title prizefight",
+            "world prizefight",
+            "boxing prizefight"
+          ],
+          "synonyms": ["boxing match", "bout"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport"]
+        }
+      ]
+    },
+    {
+      "term": "prizefighter",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a professional boxer; a boxer who fights for prize money",
+          "examples": [
+            "The prizefighter trained every day.",
+            "Many prizefighters rise from local gyms to the world stage."
+          ],
+          "collocations": [
+            "professional prizefighter",
+            "fighting as a prizefighter"
+          ],
+          "synonyms": ["boxer", "fighter"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport"]
+        }
+      ]
+    },
+    {
+      "term": "prizefighters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prizefighter; professional boxers as a group",
+          "examples": [
+            "The prizefighters from the tournament earned substantial purses.",
+            "Several prizefighters trained together at the gym."
+          ],
+          "collocations": [
+            "group of prizefighters",
+            "elite prizefighters"
+          ],
+          "synonyms": ["boxers", "fighters"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport"]
+        }
+      ]
+    },
+    {
+      "term": "prizefighting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the sport or activity of boxing for prize money",
+          "examples": [
+            "Prizefighting has a long and controversial history.",
+            "Rules in prizefighting have evolved to protect fighters."
+          ],
+          "collocations": [
+            "professional prizefighting",
+            "modern prizefighting"
+          ],
+          "synonyms": ["boxing", "pugilism"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "history"]
+        }
+      ]
+    },
+    {
+      "term": "prizefightings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prizefighting; instances of prizefighting",
+          "examples": [
+            "Historic prizefightings drew crowds worldwide.",
+            "The book documents many prizefightings from the era."
+          ],
+          "collocations": [
+            "historic prizefightings",
+            "record prizefightings"
+          ],
+          "synonyms": ["boxing matches", "prizefights"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "history"]
+        }
+      ]
+    },
+    {
+      "term": "",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    }
+  ]
+}

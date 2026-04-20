@@ -1,0 +1,512 @@
+{
+  "items": [
+    {
+      "term": "probabilism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a philosophical or theological doctrine that human reason cannot determine truth with certainty and that probabilities should guide belief or action",
+          "examples": [
+            "The monk discussed probabilism as a way to navigate uncertain theological questions.",
+            "In his writings, probabilism is contrasted with strict determinism."
+          ],
+          "collocations": ["probabilism in philosophy", "theological probabilism", "probabilism doctrine"],
+          "synonyms": ["probability ethics", "probabilist approach"],
+          "antonyms": ["absolutism", "certain knowledge"],
+          "register": "formal",
+          "domain": ["philosophy", "theology", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "probabilisms",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of probabilism; multiple instances or varieties of probabilism in different contexts",
+          "examples": [
+            "Scholars debated the various probabilisms found in different religious traditions.",
+            "The article contrasted several probabilisms and their implications."
+          ],
+          "collocations": ["different probabilisms", "methods of probabilism"],
+          "synonyms": ["probabilist approaches"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy", "theology", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "probabilist",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who believes or advocates probabilism; a thinker who relies on probabilities to guide beliefs or decisions",
+          "examples": [
+            "The probabilist argued that belief should be based on probable rather than certain knowledge.",
+            "As a probabilist, she often weighs which outcomes are most likely."
+          ],
+          "collocations": ["religious probabilist", "probabilist thinker", "probabilist approach"],
+          "synonyms": ["probabilist thinker", "probability theorist"],
+          "antonyms": ["dogmatist"],
+          "register": "formal",
+          "domain": ["philosophy", "theology", "academia"]
+        },
+        {
+          "pos": "noun",
+          "definition": "someone who studies or uses probability in other fields (e.g., statistics, risk assessment)",
+          "examples": [
+            "A probabilist by training, he models risk in finance.",
+            "The probabilist contributed to the study of uncertain events."
+          ],
+          "collocations": ["probabilist in statistics"],
+          "synonyms": ["statistician", "risk analyst"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "economics", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "probabilistic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or based on probability; describing something that is not certain but likely",
+          "examples": [
+            "The probabilistic model estimates the chance of rain.",
+            "A probabilistic approach was used to predict outcomes."
+          ],
+          "collocations": ["probabilistic model", "probabilistic reasoning", "probabilistic method"],
+          "synonyms": ["probability-based", "likelihood-based"],
+          "antonyms": ["definite", "certain"],
+          "register": "formal",
+          "domain": ["science", "mathematics", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "probabilistically",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that relates to or is based on probability; likely but not certain",
+          "examples": [
+            "The system estimates outcomes probabilistically.",
+            "Probabilistically, the option has a higher chance of success."
+          ],
+          "collocations": ["approach probabilistically", "probabilistically speaking"],
+          "synonyms": ["likelihood-wise", "statistically"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "statistics", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "probabilists",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of probabilist; people who study or advocate probabilism or use probability in reasoning",
+          "examples": [
+            "The probabilists contributed several papers on decision theory.",
+            "A group of probabilists discussed probabilism in ethics."
+          ],
+          "collocations": ["group of probabilists", "probabilists in ethics"],
+          "synonyms": ["statisticians", "probability researchers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "science"]
+        }
+      ]
+    },
+    {
+      "term": "probabilities",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the chances that something will happen; the likelihood of events",
+          "examples": [
+            "The probabilities say it will rain today.",
+            "We calculated the probabilities of winning the game."
+          ],
+          "collocations": ["low probability", "probabilities increase", "calculate probabilities"],
+          "synonyms": ["likelihoods", "odds"],
+          "antonyms": ["certainties"],
+          "register": "neutral",
+          "domain": ["general", "science", "daily life"]
+        }
+      ]
+    },
+    {
+      "term": "probability",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the measure of how likely something is to happen",
+          "examples": [
+            "What is the probability that he arrives on time?",
+            "Probability helps us make informed guesses."
+          ],
+          "collocations": ["high probability", "low probability", "probability of"],
+          "synonyms": ["likelihood", "odds"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["math", "science", "daily life"]
+        }
+      ]
+    },
+    {
+      "term": "probabilize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something more probabilistic or to introduce probability into something",
+          "examples": [
+            "Researchers attempted to probabilize the forecast model.",
+            "They probabilize risk assessments to account for uncertainty."
+          ],
+          "collocations": ["probabilize the model", "probabilize risk"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "probabl",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "unknown",
+          "definition": "nonstandard or incomplete form; not a recognized word in standard dictionaries",
+          "examples": [
+            "The dataset contains an entry 'probabl' which seems truncated.",
+            "Treatment of 'probabl' is unclear in the lexicon."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "probable",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "likely to happen or be true; having a good chance",
+          "examples": [
+            "She is probable to arrive around noon.",
+            "That is the probable cause of the issue."
+          ],
+          "collocations": ["probable cause", "probable effect", "probable outcome"],
+          "synonyms": ["likely", "plausible", "presumed"],
+          "antonyms": ["improbable", "unlikely"],
+          "register": "neutral",
+          "domain": ["general", "daily life", "law"]
+        }
+      ]
+    },
+    {
+      "term": "probableness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being probable; the degree to which something is likely",
+          "examples": [
+            "Her probableness as a witness was questioned.",
+            "We evaluated the probableness of different scenarios."
+          ],
+          "collocations": ["high probableness", "measure probableness"],
+          "synonyms": ["likelihood", "probability"],
+          "antonyms": ["unlikeliness", "improbability"],
+          "register": "formal",
+          "domain": ["science", "law", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "probables",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people or things that are likely to occur or happen; the likely candidates",
+          "examples": [
+            "The probables for the next round include three participants.",
+            "Only the probables remained after the reductions."
+          ],
+          "collocations": ["the probables", "probables list"],
+          "synonyms": ["likelys", "front-runners"],
+          "antonyms": ["improbables"],
+          "register": "neutral",
+          "domain": ["general", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "probably",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "used to say something is likely or to express likelihood",
+          "examples": [
+            "It will probably rain today.",
+            "She probably forgot the meeting."
+          ],
+          "collocations": ["probably true", "probably not", "probably going to"],
+          "synonyms": ["likely", "possibly"],
+          "antonyms": ["possibly not"],
+          "register": "neutral",
+          "domain": ["daily life", "general"]
+        }
+      ]
+    },
+    {
+      "term": "probachelor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "unknown",
+          "definition": "not a standard English word; possibly a neologism or typo",
+          "examples": [
+            "The term 'probachelor' appears in the text but is not recognized.",
+            "No established definition for probachelor."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "probal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "unknown",
+          "definition": "likely a truncation or error; not a valid standalone word in standard English",
+          "examples": [
+            "This looks like a truncation of 'probable' or 'probability'."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "proball",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "unknown",
+          "definition": "not a standard word; could be a brand name or a coined term",
+          "examples": [
+            "Proball might refer to a brand or a game term."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "proballoon",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "unknown",
+          "definition": "not a standard word; may be a nickname or coined term",
+          "examples": [
+            "Proballoon could be a product name or playful compound."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "proband",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "in medical or genetic research, the person being studied or who has the condition being investigated",
+          "examples": [
+            "The proband shows the earliest signs of the trait in the family tree.",
+            "Researchers traced the mutation from the proband to other family members."
+          ],
+          "collocations": ["proband in a study", "the proband's data"],
+          "synonyms": ["index case", "patient zero"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "genetics", "research"]
+        }
+      ]
+    },
+    {
+      "term": "probandi",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural or variant form related to proband; not standard",
+          "examples": [
+            "The term probandi appears in some genealogical records."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "probands",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of proband; multiple index cases in studies",
+          "examples": [
+            "The probands were examined to understand heritable patterns.",
+            "Several probands were identified across the family tree."
+          ],
+          "collocations": ["multiple probands", "identify probands"],
+          "synonyms": ["index cases", "patients zeroes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "genetics", "research"]
+        }
+      ]
+    },
+    {
+      "term": "probang",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a medical instrument used to remove material from a body cavity; historically used for throat cleaning",
+          "examples": [
+            "The doctor used a probang to clear secretions from the esophagus.",
+            "Probangs are rarely used in modern practice."
+          ],
+          "collocations": ["probang procedure", "use of probang"],
+          "synonyms": ["goblet", "catheter?"] ,
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "history"]
+        }
+      ]
+    },
+    {
+      "term": "probangs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of probang; medical instruments or procedures",
+          "examples": [
+            "Probangs were described in old surgical manuals."
+          ],
+          "collocations": ["probangs in surgery"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "history"]
+        }
+      ]
+    },
+    {
+      "term": "probanishment",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of banishing or exile from a place; expulsion",
+          "examples": [
+            "The probanishment of the traitor was announced.",
+            "Historically, probanishment occurred for crimes against the state."
+          ],
+          "collocations": ["probbanishment", "state probanishment"],
+          "synonyms": ["exile", "banishment", "expulsion"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "history"]
+        }
+      ]
+    },
+    {
+      "term": "probankruptcy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being bankrupt; financial ruin",
+          "examples": [
+            "He faced probankruptcy after the failed business venture.",
+            "Probankruptcy can lead to restructuring or liquidation."
+          ],
+          "collocations": ["risk of probankruptcy", "avoid probankruptcy"],
+          "synonyms": ["insolvency", "bankruptcy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["finance", "business"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,884 @@
+{
+  "items": [
+    {
+      "term": "reservedness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being quiet and not showing feelings or opinions openly",
+          "examples": ["Her reservedness made her seem distant at first.", "He spoke with a calm reservedness during the meeting."],
+          "collocations": ["natural reservedness", "social reservedness", "emotional reservedness", "sense of reservedness"],
+          "synonyms": ["shyness", "restraint", "reserve", "reticence"],
+          "antonyms": ["openness", "expressiveness"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reservednesses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of reservedness",
+          "examples": ["Their different reservednesses affected how they communicated."],
+          "collocations": ["different reservednesses", "varying reservednesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reservee",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person for whom something is reserved",
+          "examples": ["The table is ready for the reservee.", "Only the reservee may claim this seat."],
+          "collocations": ["named reservee", "official reservee"],
+          "synonyms": ["recipient", "holder"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reserveful",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "showing restraint or holding back feelings",
+          "examples": ["He gave a reserveful reply.", "Her tone remained reserveful throughout."],
+          "collocations": ["reserveful manner", "reserveful tone"],
+          "synonyms": ["restrained", "guarded"],
+          "antonyms": ["open", "expressive"],
+          "register": "rare",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reserveless",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without restraint or hesitation",
+          "examples": ["She spoke in a reserveless way.", "His praise was reserveless and sincere."],
+          "collocations": ["reserveless honesty", "reserveless praise"],
+          "synonyms": ["open", "frank"],
+          "antonyms": ["reserved", "guarded"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reserver",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who books or keeps something for future use",
+          "examples": ["The reserver confirmed the hotel booking.", "Each reserver must provide ID."],
+          "collocations": ["ticket reserver", "seat reserver"],
+          "synonyms": ["booker", "holder"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "reservers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reserver",
+          "examples": ["Reservers must arrive early."],
+          "collocations": ["registered reservers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "reservery",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place where things are reserved or stored (rare usage)",
+          "examples": ["The documents were kept in a reservery."],
+          "collocations": ["central reservery"],
+          "synonyms": ["storage", "repository"],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reserves",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "supplies kept for future use",
+          "examples": ["The country has large oil reserves.", "We used our emergency reserves."],
+          "collocations": ["oil reserves", "cash reserves", "emergency reserves"],
+          "synonyms": ["supplies", "stock"],
+          "antonyms": ["shortage"],
+          "register": null,
+          "domain": ["business", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "keeps something for future use or for a specific person",
+          "examples": ["She reserves a table every Friday."],
+          "collocations": ["reserve a seat", "reserve a room"],
+          "synonyms": ["book", "hold"],
+          "antonyms": ["cancel"],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "reservice",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to service or repair something again",
+          "examples": ["The machine needs to be reservice regularly."],
+          "collocations": ["reservice equipment", "reservice system"],
+          "synonyms": ["repair again", "maintain"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "reserviced",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of reservice",
+          "examples": ["The engine was reserviced last week."],
+          "collocations": ["recently reserviced"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "reservices",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of reservice",
+          "examples": ["He reservices the equipment monthly."],
+          "collocations": ["regularly reservices"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "reservicing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of servicing something again",
+          "examples": ["Reservicing the system improved performance."],
+          "collocations": ["equipment reservicing"],
+          "synonyms": ["repairing again"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "reserving",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of booking or keeping something",
+          "examples": ["She is reserving a hotel room."],
+          "collocations": ["reserving tickets", "reserving seats"],
+          "synonyms": ["booking", "holding"],
+          "antonyms": ["canceling"],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "reservist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of a military reserve force",
+          "examples": ["He serves as a reservist on weekends."],
+          "collocations": ["army reservist", "military reservist"],
+          "synonyms": ["part-time soldier"],
+          "antonyms": ["active soldier"],
+          "register": null,
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "reservists",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reservist",
+          "examples": ["Reservists were called to duty."],
+          "collocations": ["trained reservists"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "reservoir",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large natural or artificial lake used to store water",
+          "examples": ["The reservoir supplies water to the city."],
+          "collocations": ["water reservoir", "artificial reservoir"],
+          "synonyms": ["lake", "storage basin"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["environment"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a supply or source of something",
+          "examples": ["She has a reservoir of knowledge."],
+          "collocations": ["reservoir of energy", "reservoir of talent"],
+          "synonyms": ["source", "store"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["figurative"]
+        }
+      ]
+    },
+    {
+      "term": "reservoired",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "stored in or as in a reservoir",
+          "examples": ["Water was reservoired for dry seasons."],
+          "collocations": ["water reservoired"],
+          "synonyms": ["stored"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["environment"]
+        }
+      ]
+    },
+    {
+      "term": "reservoiring",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of storing in a reservoir",
+          "examples": ["Reservoiring water helps manage droughts."],
+          "collocations": ["water reservoiring"],
+          "synonyms": ["storing"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["environment"]
+        }
+      ]
+    },
+    {
+      "term": "reservoirs",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reservoir",
+          "examples": ["The region has several reservoirs."],
+          "collocations": ["large reservoirs"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["environment"]
+        }
+      ]
+    },
+    {
+      "term": "reservor",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a misspelling or rare form of reservoir",
+          "examples": ["Reservor is often a spelling error."],
+          "collocations": [],
+          "synonyms": ["reservoir"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reses",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of re (a musical note)",
+          "examples": ["The scale includes several res."],
+          "collocations": ["musical res"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "reset",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to set something again or return it to its original state",
+          "examples": ["Reset the computer if it freezes."],
+          "collocations": ["reset system", "reset password"],
+          "synonyms": ["restart", "restore"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        },
+        {
+          "pos": "noun",
+          "definition": "an act of returning something to its starting condition",
+          "examples": ["The device needs a reset."],
+          "collocations": ["factory reset"],
+          "synonyms": ["restart"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "resets",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of reset",
+          "examples": ["The system resets automatically."],
+          "collocations": ["automatically resets"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "resettable",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be reset",
+          "examples": ["The counter is resettable."],
+          "collocations": ["resettable device"],
+          "synonyms": ["adjustable"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "resetted",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "nonstandard past form of reset",
+          "examples": ["He resetted the system (incorrect form)."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resetter",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or device that resets something",
+          "examples": ["The resetter fixed the system."],
+          "collocations": ["automatic resetter"],
+          "synonyms": ["restarter"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "resetters",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of resetter",
+          "examples": ["Resetters are installed in the system."],
+          "collocations": ["circuit resetters"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "resetting",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the process of returning something to its original state",
+          "examples": ["Resetting the phone solved the issue."],
+          "collocations": ["resetting system"],
+          "synonyms": ["restarting"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "resettings",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of resetting",
+          "examples": ["Multiple resettings were required."],
+          "collocations": ["system resettings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "resettle",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to move people to a new place to live",
+          "examples": ["The government plans to resettle refugees."],
+          "collocations": ["resettle families", "resettle refugees"],
+          "synonyms": ["relocate"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "resettled",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of resettle",
+          "examples": ["They were resettled in a new town."],
+          "collocations": ["recently resettled"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "resettlement",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of moving people to a new place to live",
+          "examples": ["The resettlement program helped many families."],
+          "collocations": ["resettlement program"],
+          "synonyms": ["relocation"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "resettlements",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of resettlement",
+          "examples": ["Several resettlements took place."],
+          "collocations": ["mass resettlements"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "resettles",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of resettle",
+          "examples": ["The agency resettles families yearly."],
+          "collocations": ["resettles refugees"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "resettling",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of moving to a new place",
+          "examples": ["They are resettling in a new country."],
+          "collocations": ["resettling families"],
+          "synonyms": ["relocating"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "resever",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or incorrect form related to reserve",
+          "examples": ["Resever appears as a spelling error."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resew",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to sew something again",
+          "examples": ["She had to resew the button."],
+          "collocations": ["resew seam", "resew button"],
+          "synonyms": ["stitch again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "resewed",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of resew",
+          "examples": ["He resewed the torn shirt."],
+          "collocations": ["carefully resewed"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "resewing",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of sewing again",
+          "examples": ["Resewing the fabric fixed it."],
+          "collocations": ["resewing clothes"],
+          "synonyms": ["repairing"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "resewn",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past participle of resew",
+          "examples": ["The seam has been resewn."],
+          "collocations": ["neatly resewn"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "resews",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of resew",
+          "examples": ["She resews damaged clothes."],
+          "collocations": ["resews garments"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "resex",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to determine or assign sex again (rare usage)",
+          "examples": ["Scientists may resex animals in studies."],
+          "collocations": ["resex specimens"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "resgat",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an obscure or rare term with unclear meaning",
+          "examples": ["The word resgat is rarely used."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resh",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the twentieth letter of the Hebrew alphabet",
+          "examples": ["Resh is used in Hebrew writing."],
+          "collocations": ["Hebrew letter resh"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["language"]
+        }
+      ]
+    },
+    {
+      "term": "reshake",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to shake something again",
+          "examples": ["Reshake the bottle before use."],
+          "collocations": ["reshake mixture"],
+          "synonyms": ["shake again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "reshaken",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past participle of reshake",
+          "examples": ["The drink was reshaken."],
+          "collocations": ["freshly reshaken"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "reshaking",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of shaking again",
+          "examples": ["Reshaking ensures proper mixing."],
+          "collocations": ["reshaking liquid"],
+          "synonyms": ["mixing again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "reshape",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to change the shape or structure of something",
+          "examples": ["Technology reshapes society."],
+          "collocations": ["reshape future", "reshape policy"],
+          "synonyms": ["transform", "reform"],
+          "antonyms": ["preserve"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reshaped",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of reshape",
+          "examples": ["The company reshaped its strategy."],
+          "collocations": ["recently reshaped"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

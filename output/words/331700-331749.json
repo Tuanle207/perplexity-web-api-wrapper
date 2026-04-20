@@ -1,0 +1,854 @@
+{
+  "items": [
+    {
+      "term": "reskilling",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of learning new skills for a different job or role",
+          "examples": ["The company offers reskilling for workers.", "Reskilling helps people adapt to new industries."],
+          "collocations": ["reskilling programs", "employee reskilling", "reskilling initiatives", "digital reskilling"],
+          "synonyms": ["retraining", "upskilling"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "education"]
+        }
+      ]
+    },
+    {
+      "term": "reskillings",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of reskilling; multiple instances of learning new skills",
+          "examples": ["Different reskillings are needed for each role."],
+          "collocations": ["various reskillings", "multiple reskillings"],
+          "synonyms": ["retrainings"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "reskills",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "teaches new skills for a different job",
+          "examples": ["The program reskills workers quickly."],
+          "collocations": ["reskills employees", "reskills staff"],
+          "synonyms": ["retrains"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "reskin",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to change the appearance of something without changing its function",
+          "examples": ["They reskinned the app interface.", "The game was reskinned for a new audience."],
+          "collocations": ["reskin a game", "reskin software", "reskin interface"],
+          "synonyms": ["redesign", "redecorate"],
+          "antonyms": ["rebuild"],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "reskinned",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of reskin",
+          "examples": ["They reskinned the website last year."],
+          "collocations": ["reskinned app", "reskinned version"],
+          "synonyms": ["redesigned"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "reskinning",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of changing appearance without changing function",
+          "examples": ["Reskinning is common in gaming."],
+          "collocations": ["game reskinning", "interface reskinning"],
+          "synonyms": ["redesign"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "reskins",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "versions of something with a different appearance",
+          "examples": ["The game offers many reskins."],
+          "collocations": ["character reskins", "cosmetic reskins"],
+          "synonyms": ["variants"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "gaming"]
+        }
+      ]
+    },
+    {
+      "term": "reskue",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "nonstandard spelling of rescue",
+          "examples": ["He tried to reskue the dog."],
+          "collocations": ["reskue attempt"],
+          "synonyms": ["rescue"],
+          "antonyms": ["abandon"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reskued",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "nonstandard past form of rescue",
+          "examples": ["They reskued the victims."],
+          "collocations": ["reskued people"],
+          "synonyms": ["rescued"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reskues",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "nonstandard spelling of rescues",
+          "examples": ["She reskues animals."],
+          "collocations": ["reskues animals"],
+          "synonyms": ["rescues"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reskuing",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "nonstandard spelling of rescuing",
+          "examples": ["He is reskuing a cat."],
+          "collocations": ["reskuing effort"],
+          "synonyms": ["rescuing"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reslander",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to slander again or repeat harmful false statements",
+          "examples": ["He tried to reslander his opponent."],
+          "collocations": ["reslander someone", "reslander claims"],
+          "synonyms": ["defame again"],
+          "antonyms": ["praise"],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "reslash",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to cut again or reduce sharply again",
+          "examples": ["They reslashed the budget."],
+          "collocations": ["reslash prices", "reslash budget"],
+          "synonyms": ["cut again", "reduce further"],
+          "antonyms": ["increase"],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "reslate",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to cover again with slate or schedule again",
+          "examples": ["They reslated the roof."],
+          "collocations": ["reslate roof"],
+          "synonyms": ["re-roof"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "reslated",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of reslate",
+          "examples": ["The house was reslated."],
+          "collocations": ["reslated building"],
+          "synonyms": ["re-roofed"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "reslates",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of reslate",
+          "examples": ["He reslates old roofs."],
+          "collocations": ["reslates roofs"],
+          "synonyms": ["re-roofs"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "reslating",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of covering again with slate",
+          "examples": ["Reslating takes time."],
+          "collocations": ["roof reslating"],
+          "synonyms": ["re-roofing"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "reslay",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to kill again or kill in return",
+          "examples": ["The hero reslayed the monster."],
+          "collocations": ["reslay enemy"],
+          "synonyms": ["kill again"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "reslide",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to slide again",
+          "examples": ["The door reslid easily."],
+          "collocations": ["reslide door"],
+          "synonyms": ["slide again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reslot",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to assign a new time or position",
+          "examples": ["They reslotted the meeting."],
+          "collocations": ["reslot meeting", "reslot schedule"],
+          "synonyms": ["reschedule"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "resmell",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to smell again",
+          "examples": ["He resmelled the perfume."],
+          "collocations": ["resmell scent"],
+          "synonyms": ["smell again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resmelt",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to melt again, especially metal",
+          "examples": ["They resmelt scrap metal."],
+          "collocations": ["resmelt metal", "resmelt ore"],
+          "synonyms": ["remelt"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["industry"]
+        }
+      ]
+    },
+    {
+      "term": "resmelted",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of resmelt",
+          "examples": ["The metal was resmelted."],
+          "collocations": ["resmelted steel"],
+          "synonyms": ["remelted"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["industry"]
+        }
+      ]
+    },
+    {
+      "term": "resmelting",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of melting something again",
+          "examples": ["Resmelting improves purity."],
+          "collocations": ["metal resmelting"],
+          "synonyms": ["remelting"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["industry"]
+        }
+      ]
+    },
+    {
+      "term": "resmelts",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of resmelt",
+          "examples": ["He resmelts old materials."],
+          "collocations": ["resmelts metal"],
+          "synonyms": ["remelts"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["industry"]
+        }
+      ]
+    },
+    {
+      "term": "resmethrin",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical used as an insecticide",
+          "examples": ["Resmethrin is used to control mosquitoes."],
+          "collocations": ["resmethrin spray"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "resmile",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to smile again",
+          "examples": ["She resmiled after hearing the joke."],
+          "collocations": ["resmile warmly"],
+          "synonyms": ["smile again"],
+          "antonyms": ["frown"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resmooth",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make smooth again",
+          "examples": ["He resmoothed the fabric."],
+          "collocations": ["resmooth surface"],
+          "synonyms": ["smooth again"],
+          "antonyms": ["roughen"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resmoothed",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of resmooth",
+          "examples": ["The surface was resmoothed."],
+          "collocations": ["resmoothed area"],
+          "synonyms": ["smoothed again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resmoothing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of making something smooth again",
+          "examples": ["Resmoothing is needed after repairs."],
+          "collocations": ["surface resmoothing"],
+          "synonyms": ["smoothing again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resmooths",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of resmooth",
+          "examples": ["She resmooths the table."],
+          "collocations": ["resmooths surface"],
+          "synonyms": ["smooths again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resnap",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to snap again or take another quick photo",
+          "examples": ["He resnapped the picture."],
+          "collocations": ["resnap photo"],
+          "synonyms": ["retake"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "resnatch",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to snatch again or take back quickly",
+          "examples": ["She resnatched the bag."],
+          "collocations": ["resnatch item"],
+          "synonyms": ["grab again"],
+          "antonyms": ["release"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resnatron",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of mineral salt used historically",
+          "examples": ["Resnatron was used in ancient processes."],
+          "collocations": ["resnatron deposits"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "resnatrons",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of resnatron",
+          "examples": ["Resnatrons were collected in the area."],
+          "collocations": ["natural resnatrons"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "resnub",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to reject or ignore again",
+          "examples": ["He resnubbed the offer."],
+          "collocations": ["resnub invitation"],
+          "synonyms": ["reject again"],
+          "antonyms": ["accept"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resoak",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to soak again in liquid",
+          "examples": ["She resoaked the beans."],
+          "collocations": ["resoak clothes", "resoak fabric"],
+          "synonyms": ["soak again"],
+          "antonyms": ["dry"],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "resoaked",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of resoak",
+          "examples": ["The items were resoaked overnight."],
+          "collocations": ["resoaked items"],
+          "synonyms": ["soaked again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "resoaking",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of soaking something again",
+          "examples": ["Resoaking improves texture."],
+          "collocations": ["resoaking process"],
+          "synonyms": ["soaking again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "resoaks",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of resoak",
+          "examples": ["He resoaks the material."],
+          "collocations": ["resoaks fabric"],
+          "synonyms": ["soaks again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "resoap",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to apply soap again",
+          "examples": ["She resoaped her hands."],
+          "collocations": ["resoap hands"],
+          "synonyms": ["wash again"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "resocialisation",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of learning new social behaviors and norms",
+          "examples": ["Resocialisation occurs after major life changes."],
+          "collocations": ["social resocialisation"],
+          "synonyms": ["re-education"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["sociology"]
+        }
+      ]
+    },
+    {
+      "term": "resocialise",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to teach new social norms or behaviors",
+          "examples": ["The program helps prisoners resocialise."],
+          "collocations": ["resocialise individuals"],
+          "synonyms": ["re-educate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["sociology"]
+        }
+      ]
+    },
+    {
+      "term": "resocialised",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of resocialise",
+          "examples": ["He was resocialised successfully."],
+          "collocations": ["resocialised group"],
+          "synonyms": ["re-educated"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["sociology"]
+        }
+      ]
+    },
+    {
+      "term": "resocialises",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of resocialise",
+          "examples": ["The system resocialises offenders."],
+          "collocations": ["resocialises people"],
+          "synonyms": ["re-educates"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["sociology"]
+        }
+      ]
+    },
+    {
+      "term": "resocialising",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of learning new social behaviors",
+          "examples": ["Resocialising takes time."],
+          "collocations": ["resocialising process"],
+          "synonyms": ["re-education"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["sociology"]
+        }
+      ]
+    },
+    {
+      "term": "resocialization",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of adopting new social norms",
+          "examples": ["Resocialization helps integrate people."],
+          "collocations": ["cultural resocialization"],
+          "synonyms": ["re-education"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["sociology"]
+        }
+      ]
+    },
+    {
+      "term": "resocializations",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of resocialization",
+          "examples": ["Different resocializations occur in life."],
+          "collocations": ["multiple resocializations"],
+          "synonyms": ["re-educations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["sociology"]
+        }
+      ]
+    },
+    {
+      "term": "resocialize",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to teach new social behaviors or norms",
+          "examples": ["Programs resocialize former inmates."],
+          "collocations": ["resocialize offenders"],
+          "synonyms": ["re-educate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["sociology"]
+        }
+      ]
+    },
+    {
+      "term": "resocialized",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of resocialize",
+          "examples": ["He was resocialized into society."],
+          "collocations": ["resocialized individuals"],
+          "synonyms": ["re-educated"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["sociology"]
+        }
+      ]
+    }
+  ]
+}

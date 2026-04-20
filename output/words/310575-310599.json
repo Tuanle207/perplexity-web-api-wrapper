@@ -1,0 +1,767 @@
+{
+  "items": [
+    {
+      "term": "prospect",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a possibility or likely future event or outcome",
+          "examples": [
+            "There is every prospect of success.",
+            "The prospect of rain discouraged the picnic.",
+            "She is a prospect for a scholarship."
+          ],
+          "collocations": ["good/bright prospect", "economic prospect", "career prospect", "long-term prospect", "prospect of", "of prospect"],
+          "synonyms": ["likelihood", "chance", "possibility", "outlook"],
+          "antonyms": ["improbability", "uncertainty"],
+          "register": "neutral",
+          "domain": ["general", "economy", "planning"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the mental view of what might happen in the future; a vision or expectation",
+          "examples": [
+            "Her prospects for advancement are strong.",
+            "The town's prospects look better after the new factory opened."
+          ],
+          "collocations": ["future prospects", "prospects for", "career prospects"],
+          "synonyms": ["opportunity", "potential"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "careers"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to search or explore for mineral or valuable substances, especially oil or gold",
+          "examples": [
+            "They prospect the area for oil.",
+            "Miners prospected the valley for copper."
+          ],
+          "collocations": ["to prospect the area", "prospect for", "prospecting expedition"],
+          "synonyms": ["explore", "search", "survey"],
+          "antonyms": ["ignore", "discard"],
+          "register": "neutral",
+          "domain": ["geology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prospected",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "explored or searched for mineral deposits",
+          "examples": [
+            "They prospected the desert for oil.",
+            "The team prospected several sites, but found nothing."
+          ],
+          "collocations": ["prospected sites", "prospected area", "prospect for"],
+          "synonyms": ["explored", "surveyed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "business"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "having been explored or considered as a possibility",
+          "examples": [
+            "prospected locations were mapped for potential mining.",
+            "The prospected site showed potential reserves."
+          ],
+          "collocations": ["prospected sites", "prospected reserves"],
+          "synonyms": ["explored", "investigated"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prospecting",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the activity of searching for mineral deposits or potential customers or opportunities",
+          "examples": [
+            "Prospecting for gold has declined in recent years.",
+            "He spent the morning prospecting new leads."
+          ],
+          "collocations": ["gold prospecting", "prospecting for oil", "customer prospecting"],
+          "synonyms": ["exploration", "scouting"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "business"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle of prospect; to search for mineral deposits or new business opportunities",
+          "examples": [
+            "They are prospecting in the riverbed for diamonds.",
+            "Sales teams are prospecting aggressively."
+          ],
+          "collocations": ["prospecting for", "prospecting leads", "prospecting trip"],
+          "synonyms": ["exploring", "scouting"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prospectings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of prospecting; instances or acts of searching for mineral deposits or opportunities",
+          "examples": [
+            "The prospectings around the ridge yielded several samples.",
+            "Several prospectings failed to locate usable minerals."
+          ],
+          "collocations": ["prospectings around", "prospectings conducted"],
+          "synonyms": ["explorations", "scoutings"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prospection",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of exploring or examining to find something valuable; the act of prospecting",
+          "examples": [
+            "The prospection of the area revealed rich mineral veins.",
+            "Company-wide prospection is essential before drilling."
+          ],
+          "collocations": ["prospection activities", "prospection data"],
+          "synonyms": ["prospecting", "exploration"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prospections",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prospection; attempts or acts of exploring for minerals or opportunities",
+          "examples": [
+            "Several prospections were undertaken this quarter.",
+            "Prospections have increased with new equipment."
+          ],
+          "collocations": ["prospections conducted", "environmental prospections"],
+          "synonyms": ["prospection", "exploration"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prospective",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "likely to happen or be true in the future; concerning future possibilities",
+          "examples": [
+            "They discussed prospective earnings.",
+            "The project has many prospective buyers."
+          ],
+          "collocations": ["prospective customer", "prospective tenant", "prospective earnings"],
+          "synonyms": ["likely", "possible", "potential"],
+          "antonyms": ["unprospective", "uncertain"],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a person who is considered likely to become a customer, member, or affiliate",
+          "examples": [
+            "The company interviewed many prospective employees.",
+            "We met several prospective investors at the event."
+          ],
+          "collocations": ["prospective client", "prospective employee"],
+          "synonyms": ["candidate", "potential", "hopeful"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "employment"]
+        }
+      ]
+    },
+    {
+      "term": "prospectively",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that relates to or considers the future",
+          "examples": [
+            "The project will be prospectively expanded next year.",
+            "They prospectively assessed potential risks."
+          ],
+          "collocations": ["prospectively planned", "prospectively analyzed"],
+          "synonyms": ["forwardly", "ahead"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "prospectiveness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of having potential or likelihood for future success",
+          "examples": [
+            "The prospectiveness of the venture attracted investors.",
+            "They evaluated the prospectiveness of the new market."
+          ],
+          "collocations": ["prospectiveness of the market"],
+          "synonyms": ["potential", "promise"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "prospectives",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of prospective or a set of perspectives; in some uses, early forms or types of view",
+          "examples": [
+            "The prospectives of the report vary by department.",
+            "They discussed different historical prospectives."
+          ],
+          "collocations": ["different prospectives"],
+          "synonyms": ["perspectives", "viewpoints"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prospectless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having no future prospects; hopeless or barren",
+          "examples": [
+            "The town looked prospectless after the mine closed.",
+            "A prospectless career path can be discouraging."
+          ],
+          "collocations": ["prospectless future", "prospectless area"],
+          "synonyms": ["hopeless", "desolate"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prospector",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who searches for mineral deposits, especially gold or oil",
+          "examples": [
+            "The prospector found a vein of ore.",
+            "Prospectors panned for gold in the river."
+          ],
+          "collocations": ["mineral prospector", "prospector's claim"],
+          "synonyms": ["miner", "explorer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prospectors",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prospector; multiple people who search for minerals",
+          "examples": [
+            "Several prospectors joined the expedition.",
+            "The prospectors worked the canyon this season."
+          ],
+          "collocations": ["prospectors in the area"],
+          "synonyms": ["miners", "explorers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prospects",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the chances or possibilities for something to happen; potential outcomes",
+          "examples": [
+            "The job offers good prospects for growth.",
+            "Her prospects improved after the interview."
+          ],
+          "collocations": ["good prospects", "bright prospects", "economic prospects"],
+          "synonyms": ["outlook", "potential", "opportunity"],
+          "antonyms": ["dead end", "uncertainty"],
+          "register": "neutral",
+          "domain": ["general", "career"]
+        }
+      ]
+    },
+    {
+      "term": "prospectus",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small book or document describing a business, school, or investment offering; used to attract investors or students",
+          "examples": [
+            "The university published its prospectus for applicants.",
+            "Investors read the prospectus before buying shares."
+          ],
+          "collocations": ["annual prospectus", "company prospectus", "educational prospectus"],
+          "synonyms": ["brochure", "pamphlet", "document"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prospectuses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prospectus; multiple informational documents",
+          "examples": [
+            "The fund issued two prospectuses for different share classes.",
+            "Review the prospectuses before investing."
+          ],
+          "collocations": ["mutual fund prospectuses"],
+          "synonyms": ["brochures", "documents"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prospectusless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "lacking a prospectus; without informational materials or offerings",
+          "examples": [
+            "The new fund was prospectusless at launch.",
+            "An offer without a prospectus would be unusual in regulated markets."
+          ],
+          "collocations": ["prospectusless offer"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["finance", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prospeculation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a coinage combining prospects and speculation; not common in standard usage",
+          "examples": [
+            "The report mentions prospeculation as a risky approach.",
+            "In most contexts, use 'prospect' or 'speculation' separately."
+          ],
+          "collocations": ["prospeculation risk"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "prosper",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to be successful or to become financially strong",
+          "examples": [
+            "The town prospered after the factory opened.",
+            "Small businesses prosper when customers buy more."
+          ],
+          "collocations": ["prosper economically", "prosper together", "prosper well"],
+          "synonyms": ["thrive", "flourish", "do well"],
+          "antonyms": ["decline", "struggle"],
+          "register": "neutral",
+          "domain": ["general", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "prosperation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare or erroneous form; the intended term is typically 'prosperity' or 'prosperation' is uncommon",
+          "examples": [
+            "Some texts may misspell prosperity as prosperation."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prospered",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of prosper; was successful or grew financially",
+          "examples": [
+            "The company prospered during the boom years.",
+            "They prospered after moving to the city."
+          ],
+          "collocations": ["prospered greatly", "prospered due to", "well-prospered"],
+          "synonyms": ["thrived", "flourished", "grew"],
+          "antonyms": ["failed", "declined"],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prosperer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who prospers; someone who becomes successful",
+          "examples": [
+            "The town's prosperer invested in new schools.",
+            "He became a prosperer through careful investments."
+          ],
+          "collocations": ["local prosperer"],
+          "synonyms": ["success", "wealthier person"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["economy", "society"]
+        }
+      ]
+    },
+    {
+      "term": "prospering",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of prosper; growing in wealth or success",
+          "examples": [
+            "The business is prospering after the rebranding.",
+            "Prospering households often save more."
+          ],
+          "collocations": ["prospering economy", "prospering business"],
+          "synonyms": ["thriving", "flourishing"],
+          "antonyms": ["declining", "struggling"],
+          "register": "neutral",
+          "domain": ["economy", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prosperities",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "wealth, success, or good fortune; especially a period of successful wealth",
+          "examples": [
+            "Prosperities came to the region after the new mine opened.",
+            "Many people enjoyed the era's prosperity."
+          ],
+          "collocations": ["immense prosperities", "economic prosperities"],
+          "synonyms": ["wealth", "luxury", "fortune"],
+          "antonyms": ["poverty", "misfortune"],
+          "register": "neutral",
+          "domain": ["economy", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prosperity",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being successful or wealthy; good fortune and success",
+          "examples": [
+            "Economic prosperity is back in the region.",
+            "She wished for peace and prosperity for her family."
+          ],
+          "collocations": ["economic prosperity", "prosperity and growth", "prosperity for all"],
+          "synonyms": ["wealth", "affluence", "flourishing"],
+          "antonyms": ["poverty", "misfortune"],
+          "register": "neutral",
+          "domain": ["economy", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prospectus",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a document describing a business or investment offering; a brochure used to attract investors or students",
+          "examples": [
+            "The university published its prospectus for applicants.",
+            "Investors read the prospectus before buying shares."
+          ],
+          "collocations": ["company prospectus", "educational prospectus", "annual prospectus"],
+          "synonyms": ["brochure", "pamphlet", "document"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prospectuses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prospectus; multiple informational brochures or documents",
+          "examples": [
+            "The fund issued two prospectuses for different share classes.",
+            "Review the prospectuses before investing."
+          ],
+          "collocations": ["mutual fund prospectuses"],
+          "synonyms": ["brochures", "documents"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prospectusless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "lacking a prospectus; without informational materials",
+          "examples": [
+            "An offer prospectusless by regulation would be unusual.",
+            "The deal was prospectusless and risky."
+          ],
+          "collocations": ["prospectusless offer"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["finance", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prospeculation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rarely used term combining prospect and speculation; not standard",
+          "examples": [
+            "Some editors avoid prospeculation due to ambiguity."
+          ],
+          "collocations": ["prospeculation risk"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["finance", "language"]
+        }
+      ]
+    },
+    {
+      "term": "prosper",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to become successful or wealthy; to thrive",
+          "examples": [
+            "The business began to prosper after the new strategy.",
+            "People prosper when they invest wisely."
+          ],
+          "collocations": ["prosper in life", "prosper financially"],
+          "synonyms": ["thrive", "flourish", "do well"],
+          "antonyms": ["go bankrupt", "decline"],
+          "register": "neutral",
+          "domain": ["general", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "prosperation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "uncommon or erroneous form; typically replaced by 'prosperity'",
+          "examples": [
+            "Prosperation is rarely used; 'prosperity' is standard."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prospered",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of prosper; became successful or wealthy",
+          "examples": [
+            "The city prospered after the festival.",
+            "They prospered through smart investments."
+          ],
+          "collocations": ["prospered greatly", "well-prospered"],
+          "synonyms": ["thrived", "flourished"],
+          "antonyms": ["declined", "failed"],
+          "register": "neutral",
+          "domain": ["economy", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prosperer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who prospers; a successful person",
+          "examples": [
+            "The entrepreneur became a local prosperer.",
+            "Old money families were the region's longtime prosperers."
+          ],
+          "collocations": ["local prosperer"],
+          "synonyms": ["wealthy person", "success story"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["economy", "society"]
+        }
+      ]
+    },
+    {
+      "term": "prospering",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of prosper; growing in wealth or success",
+          "examples": [
+            "The company is prospering after reform.",
+            "Families in the area are prospering."
+          ],
+          "collocations": ["prospering economy", "prospering business"],
+          "synonyms": ["thriving", "flourishing"],
+          "antonyms": ["declining", "failing"],
+          "register": "neutral",
+          "domain": ["economy", "business"]
+        }
+      ]
+    },
+    {
+      "term": "prosperities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "forms of wealth and success in a community or country",
+          "examples": [
+            "The region enjoyed its prosperities for decades.",
+            "Prosperities returned after the market stabilized."
+          ],
+          "collocations": ["economic prosperities", "national prosperities"],
+          "synonyms": ["wealth", "fortune"],
+          "antonyms": ["poverty", "misfortune"],
+          "register": "neutral",
+          "domain": ["economy", "general"]
+        }
+      ]
+    }
+  ]
+}

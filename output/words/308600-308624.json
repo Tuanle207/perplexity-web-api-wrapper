@@ -1,0 +1,526 @@
+{
+  "items": [
+    {
+      "term": "prods",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "short for production or proponents? common uses: as a noun, 'prods' is the plural of 'prod' meaning things that prod or items used to poke; or as slang for prods as in 'prods' encouraging actions.",
+          "examples": [
+            "The cattle prod was used to guide the animals.",
+            "He gave the team a few prods to start the project."
+          ],
+          "collocations": ["prod", "cattle prod", "prod with", "prods of encouragement"],
+          "synonyms": ["jab", "prod", "spur"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "producal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not a standard English word; appears to be a misspelling or nonce form. no established senses in contemporary usage.",
+          "examples": [
+            "producal form is not recognized in dictionaries."
+          ],
+          "collocations": ["producal"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "produce",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "things that are grown or produced, especially fruits and vegetables.",
+          "examples": [
+            "The market sells fresh produce every day.",
+            "Local produce is available in season."
+          ],
+          "collocations": ["fresh produce", "farm produce", "organic produce"],
+          "synonyms": ["goods", "fruits", "vegetables"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "economy", "food"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to make or create something; to bring forth or yield.",
+          "examples": [
+            "The factory produces cars.",
+            "This policy will produce better results."
+          ],
+          "collocations": ["produce cars", "produce results", "produce income"],
+          "synonyms": ["create", "make", "generate"],
+          "antonyms": ["destroy", "consume"],
+          "register": "neutral",
+          "domain": ["general", "business", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "produceable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not a standard English word; appears to be a misspelling of 'producible'.",
+          "examples": [
+            "producing a 'produceable' result is unclear."
+          ],
+          "collocations": ["produceable"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "produceableness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "likely a misspelled or nonce noun intended to mean the quality of being producible.",
+          "examples": [
+            "the produceableness of a method is debated."
+          ],
+          "collocations": ["produceableness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "produced",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "made or created in the past.",
+          "examples": [
+            "The movie was produced in 2020.",
+            "These photos were produced by a studio."
+          ],
+          "collocations": ["produced by", "produced in", "produce results"],
+          "synonyms": ["made", "created", "developed"],
+          "antonyms": ["unmade", "destroyed"],
+          "register": "neutral",
+          "domain": ["general", "media", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "producement",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare or archaic form referring to production or act of producing.",
+          "examples": [
+            "The producement of goods increased."
+          ],
+          "collocations": ["producement of", "for producement"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "producements",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of producement; acts or results of producing; production outputs.",
+          "examples": [
+            "The company announced several producements for the quarter."
+          ],
+          "collocations": ["new producements", "production producements"],
+          "synonyms": ["productions", "outputs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "producent",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare or nonstandard spelling of 'producer', meaning a person or thing that produces.",
+          "examples": [
+            "a film producent (archaism) engaged in production."
+          ],
+          "collocations": ["film producent", "music producent"],
+          "synonyms": ["producer"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "producer",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person, company, or organization that makes or grows something to sell.",
+          "examples": [
+            "She is a wine producer in California.",
+            "The farmer is a small producer of organic vegetables."
+          ],
+          "collocations": ["film producer", "food producer", "electric producer"],
+          "synonyms": ["manufacturer", "maker", "creator"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "economy", "agriculture"]
+        },
+        {
+          "pos": "noun",
+          "definition": "someone who produces or hosts a TV or radio show.",
+          "examples": [
+            "The producer arranged the guest line-up.",
+            "The show producer secured the rights."
+          ],
+          "collocations": ["tv producer", "radio producer", "program producer"],
+          "synonyms": ["arranger", "organizer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media"]
+        }
+      ]
+    },
+    {
+      "term": "producers",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of producer; people or companies that create goods, media, or content.",
+          "examples": [
+            "The region has many small producers.",
+            "Farmers and manufacturers are both producers."
+          ],
+          "collocations": ["small producers", "local producers"],
+          "synonyms": ["manufacturers", "creators"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "agriculture", "media"]
+        }
+      ]
+    },
+    {
+      "term": "producership",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare noun form meaning the role or status of a producer; act or capacity of producing.",
+          "examples": [
+            "his producership influenced the project's direction."
+          ],
+          "collocations": ["producership of", "as producership"],
+          "synonyms": ["producer role", "production leadership"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "produces",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of 'produce': makes or yields.",
+          "examples": [
+            "The factory produces cars.",
+            "This tree produces fruit every year."
+          ],
+          "collocations": ["produces energy", "produces results"],
+          "synonyms": ["creates", "generates"],
+          "antonyms": ["consumes", "destroys"],
+          "register": "neutral",
+          "domain": ["general", "science"]
+        }
+      ]
+    },
+    {
+      "term": "producibilities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of producibility; the extent to which something can be produced or manufactured.",
+          "examples": [
+            "The producibilities of the method vary by material."
+          ],
+          "collocations": ["high producibilities", "material producibilities"],
+          "synonyms": ["feasibility", "produci- ability"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "producibility",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being able to be produced or manufactured.",
+          "examples": [
+            "The producibility of the design is critical for cost."
+          ],
+          "collocations": ["high producibility", "low producibility"],
+          "synonyms": ["feasibility", "manufacturability"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["engineering", "science"]
+        }
+      ]
+    },
+    {
+      "term": "producible",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be produced or manufactured.",
+          "examples": [
+            "The product is producible with the current technology.",
+            "Not all designs are producible at scale."
+          ],
+          "collocations": ["producible design", "producible at scale"],
+          "synonyms": [" manufacturable", "feasible"],
+          "antonyms": ["unproducible", "unachievable"],
+          "register": "neutral",
+          "domain": ["engineering", "business"]
+        }
+      ]
+    },
+    {
+      "term": "producibleness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare form meaning the quality of being producible.",
+          "examples": [
+            "the producibleness of the method is debated."
+          ],
+          "collocations": ["producibleness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "producing",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "gerund / present participle",
+          "definition": "the act of making or growing something; currently making.",
+          "examples": [
+            "The factory is producing cars.",
+            "Producing more energy is the goal."
+          ],
+          "collocations": ["producing goods", "producing energy"],
+          "synonyms": ["creating", "making"],
+          "antonyms": ["consuming", "destroying"],
+          "register": "neutral",
+          "domain": ["business", "industry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "product",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an item that is made or grown to be sold.",
+          "examples": [
+            "This is a new beauty product.",
+            "The product of the farm is fresh milk."
+          ],
+          "collocations": ["consumer product", "produce product", "product line"],
+          "synonyms": ["goods", "item", "manufactured good"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "economy", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the result of multiplying numbers; the answer to a multiplication.",
+          "examples": [
+            "Two times three equals six; the product is six."
+          ],
+          "collocations": ["product of two and three", "calculate product"],
+          "synonyms": ["result", "outcome"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["math", "education"]
+        }
+      ]
+    },
+    {
+      "term": "producted",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "nonstandard past tense form of 'produce'; should be 'produced'.",
+          "examples": [
+            "This sentence uses producted incorrectly."
+          ],
+          "collocations": ["producted by", "has producted"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "productibility",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "variant spelling for producibility; same meaning.",
+          "examples": [
+            "productibility is less common than producibility."
+          ],
+          "collocations": ["productibility measurements"],
+          "synonyms": ["producibility"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "productible",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being produced or manufactured.",
+          "examples": [
+            "A productible design is likely to be cost-effective."
+          ],
+          "collocations": ["productible design", "productible at scale"],
+          "synonyms": ["producible", " manufacturable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["engineering", "business"]
+        }
+      ]
+    },
+    {
+      "term": "productid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "likely a technical term resembling 'product ID', an identifier for a product.",
+          "examples": [
+            "Enter the productid to continue."
+          ],
+          "collocations": ["productid", "SKU", "identifier"],
+          "synonyms": ["product identifier", "ID"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "productidae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of a taxonomic suffix; not a common everyday term.",
+          "examples": [
+            "the Productidae family in the fossil record."
+          ],
+          "collocations": ["Productidae family"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "productile",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "unfamiliar term; likely a misspelling of 'prod- uctile' or 'projectile'.",
+          "examples": [
+            "productile is not a standard word."
+          ],
+          "collocations": ["productile"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "items": [
+    {
+      "term": "quantisation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of converting continuous values or measurements into discrete steps or units",
+          "examples": ["The quantisation of the continuous signal introduces small errors.", "In digital audio, quantisation affects resolution."],
+          "collocations": ["noise", "bit depth", "sampling", "algorithm", "error"],
+          "synonyms": ["discretisation", "discretization", "digitisation"],
+          "antonyms": ["continuous spectrum", "analog"],
+          "register": "formal",
+          "domain": ["technology", "general", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "quantisations",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quantisation; multiple instances of converting data from a continuous to a discrete form",
+          "examples": ["The quantisations differ in the chosen step size."],
+          "collocations": ["step size", "discrete levels", "digital signal processing"],
+          "synonyms": ["discretisations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "quantise",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to convert a continuous signal or value into a discrete one, usually by rounding or mapping to a finite set of levels",
+          "examples": ["We quantise the audio signal before encoding it.", "The system quantises measurements to reduce data size."],
+          "collocations": ["quantise the signal", "quantise data", "quantise to the nearest level"],
+          "synonyms": ["discretise", "discretize"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "quantised",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "represented or expressed in discrete levels after quantisation",
+          "examples": ["A quantised value reduces precision but saves space."],
+          "collocations": ["quantised value", "quantised data", "quantised levels"],
+          "synonyms": ["discretised", "discretized"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "quantiser",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or algorithm that performs quantisation",
+          "examples": ["The quantiser converts the analog input to digital levels."],
+          "collocations": ["digital quantiser", "signal quantiser", "step quantiser"],
+          "synonyms": ["discretiser", "discretizer", "quantizing device"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "quantisers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quantiser; devices or algorithms that perform quantisation",
+          "examples": ["Different quantisers yield different bit depths."],
+          "collocations": ["different quantisers", "digital quantisers"],
+          "synonyms": ["discretisers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "quantises",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of quantise; to convert to discrete levels",
+          "examples": ["The system quantises the input stream in real time."],
+          "collocations": ["quantises data", "quantises signals"],
+          "synonyms": ["discretises", "discretizes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "quantising",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of applying quantisation (present participle / gerund)",
+          "examples": ["Quantising improves compatibility with digital storage."],
+          "collocations": ["quantising process", "quantising step"],
+          "synonyms": ["discretising", "discretizing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "quantitation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or result of quantifying; measurement expressed as a number",
+          "examples": ["Quantitation of protein levels is essential for analysis."],
+          "collocations": ["amount", "level", "measurement", "data"],
+          "synonyms": ["measurement", "quantification"],
+          "antonyms": ["qualitative", "estimation"],
+          "register": "formal",
+          "domain": ["science", "medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quantitations",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quantitation; multiple measurements or quantifications",
+          "examples": ["Various quantitations were reported in the study."],
+          "collocations": ["multiple quantitations", "data quantitations"],
+          "synonyms": ["measurements", "quantifications"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "quantitative",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "related to measuring or expressing something with numbers",
+          "examples": ["They conducted quantitative research using surveys."],
+          "collocations": ["quantitative analysis", "quantitative data", "quantitative research"],
+          "synonyms": ["numerical", "measurable"],
+          "antonyms": ["qualitative"],
+          "register": "formal",
+          "domain": ["science", "research", "business"]
+        }
+      ]
+    },
+    {
+      "term": "quantitatively",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that relates to measuring or expressing quantities",
+          "examples": ["The results changed quantitatively after revision."],
+          "collocations": ["quantitatively assess", "quantitatively show"],
+          "synonyms": ["numerically"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "research"]
+        }
+      ]
+    },
+    {
+      "term": "quantitativeness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the property of relating to quantity or quantity-based measurement",
+          "examples": ["Quantitativeness may be important in economic models."],
+          "collocations": ["degree of quantitativeness", "level of quantify"],
+          "synonyms": ["numerical nature", "quantification tendency"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "science", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "quantitativenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quantitativeness; rarely used form referring to multiple aspects of quantity-mindedness",
+          "examples": ["Scholars discussed various quantitativenesses in the theory."],
+          "collocations": ["aspects of quantitativeness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "quantied",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense form of quanty? not standard; likely a misspelling or nonstandard variant of quantitated; treated as nonstandard form",
+          "examples": ["The data quantied poorly due to noise."],
+          "collocations": ["quantied data"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "quantities",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "amounts or measures of something",
+          "examples": ["We bought quantities of berries for the jam."],
+          "collocations": ["large quantities", "quantities of", "produce quantities"],
+          "synonyms": ["amounts", "masses", "totals"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "shopping", "science"]
+        }
+      ]
+    },
+    {
+      "term": "quantitive",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "alternative spelling of quantitative; relating to quantity measurements",
+          "examples": ["The study focused on quantitive analysis."],
+          "collocations": ["quantitive analysis"],
+          "synonyms": ["quantitative"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "research"]
+        }
+      ]
+    },
+    {
+      "term": "quantitively",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "alternative spelling of quantitatively; in a quantitative manner",
+          "examples": ["Results were analysed quantitively.","The data were measured quantitively."],
+          "collocations": ["analyse quantitatively"],
+          "synonyms": ["numerically"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "research"]
+        }
+      ]
+    },
+    {
+      "term": "quantitiveness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being about quantity or having many quantities",
+          "examples": ["The quantitiveness of the model is limited by data quality."],
+          "collocations": ["degree of quantitiveness"],
+          "synonyms": ["quantity-based nature"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "quantity",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an amount or number of something",
+          "examples": ["A large quantity of water was released."],
+          "collocations": ["large quantity", "quantity of", "quantity demanded"],
+          "synonyms": ["amount", "volume", "number"],
+          "antonyms": ["quality"],
+          "register": "neutral",
+          "domain": ["general", "business", "science"]
+        }
+      ]
+    },
+    {
+      "term": "quantivalence",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or technical term referring to the state of having a certain equivalence in quantity or/and valence",
+          "examples": ["The theory discusses quantivalence in reaction metrics."],
+          "collocations": ["quantivalence theory"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "theory"]
+        }
+      ]
+    }
+  ]
+}

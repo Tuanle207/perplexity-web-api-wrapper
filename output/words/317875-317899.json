@@ -1,0 +1,456 @@
+{
+  "items": [
+    {
+      "term": "questioning",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of asking questions to obtain information or to challenge something",
+          "examples": ["The police began questioning the suspect.", "There was a lot of questioning of the method used."],
+          "collocations": ["intense questioning", "police questioning", "legal questioning"],
+          "synonyms": ["interrogation", "inquiry", "interviewing"],
+          "antonyms": ["assurance", "silence"],
+          "register": "formal",
+          "domain": ["general", "law", "investigation"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to the act of asking questions or to questions in general",
+          "examples": ["There were questioning looks from the audience.", "The data came from questioning responses."],
+          "collocations": ["questioning attitude", "questioning gaze", "questioning process"],
+          "synonyms": ["inquisitive", "probing"],
+          "antonyms": ["definitive", "certain"],
+          "register": "neutral",
+          "domain": ["general", "education", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "questioningly",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that asks questions or shows doubt",
+          "examples": ["She looked at him questioningly.", "The data were questioningly incomplete."],
+          "collocations": ["looked questioningly", "ask questioningly", "gaze questioningly"],
+          "synonyms": ["inquisitively", "curiously"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "questionings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of questioning; instances of asking questions or challenging statements",
+          "examples": ["There were several questionings during the briefing.", "Multiple questionings of the procedure occurred."],
+          "collocations": ["mental questionings", "legal questionings"],
+          "synonyms": ["inquiries", "interrogations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "investigation"]
+        }
+      ]
+    },
+    {
+      "term": "questionist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who questions or interrogates; a questioner",
+          "examples": ["The questionist pressed for more details.", "A keen questionist by nature, she asked many follow-ups."],
+          "collocations": ["sharp questionist", "seasoned questionist"],
+          "synonyms": ["interrogator", "inquirer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "questionists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of questionist; multiple people who question or interrogate",
+          "examples": ["The group included several questionists from the committee."],
+          "collocations": ["group of questionists"],
+          "synonyms": ["inquirers", "interrogators"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "questionle",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a nonstandard or rare form; not widely used in modern English",
+          "examples": ["The term questionle appears in some dialect texts."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "questionless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without questions or without doubt; certain",
+          "examples": ["Her answer was questionless and direct."],
+          "collocations": ["presented questionless certainty"],
+          "synonyms": ["undoubting", "certain"],
+          "antonyms": ["questionful", "doubtful"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "questionlessly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner without questions or doubt; certainly",
+          "examples": ["He answered questionlessly, with full confidence."],
+          "collocations": ["speak questionlessly", "state questionlessly"],
+          "synonyms": ["certainly", "unquestionably"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "questionlessness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of having no questions or doubt; certainty",
+          "examples": ["Her questionlessness surprised the audience."],
+          "collocations": ["air of questionlessness", "notable questionlessness"],
+          "synonyms": ["certainty", "assurance"],
+          "antonyms": ["doubt", "uncertainty"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "questionnaire",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a set of questions used to collect information from many people",
+          "examples": ["We sent out a questionnaire to students.", "The questionnaire asked about study habits."],
+          "collocations": ["survey questionnaire", "online questionnaire", "lengthy questionnaire"],
+          "synonyms": ["survey", "poll"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "research", "education"]
+        }
+      ]
+    },
+    {
+      "term": "questionnaires",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of questionnaire; multiple sets of questions used for data collection",
+          "examples": ["The researchers analyzed several questionnaires."],
+          "collocations": ["multiple questionnaires"],
+          "synonyms": ["surveys", "polls"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "research"]
+        }
+      ]
+    },
+    {
+      "term": "questionous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "asking many questions; inquisitive",
+          "examples": ["Her questionous mind kept returning to the topic."],
+          "collocations": ["questionous mind", "questionous look"],
+          "synonyms": ["inquisitive", "curious"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "questions",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of question; things you ask or want to know",
+          "examples": ["I have three questions for the speaker.", "The exam includes difficult questions."],
+          "collocations": ["answer a question", "ask questions", "raise questions"],
+          "synonyms": ["queries", "inquiries"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "questionwise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in relation to questions; with regard to questions",
+          "examples": ["Questionwise, the chapter covers several common types."],
+          "collocations": ["questionwise approach"],
+          "synonyms": ["regarding questions"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "questman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a male seeker or adventurer; a person on a quest",
+          "examples": ["The questman rode into the village seeking clues."],
+          "collocations": ["brave questman", "seasoned questman"],
+          "synonyms": ["adventurer", "seeker"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "questmen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of questman; multiple male seekers",
+          "examples": ["A group of questmen gathered at dawn."],
+          "collocations": ["group of questmen"],
+          "synonyms": ["adventurers", "seekers"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "questmonger",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who promotes or peddles quests or quest-related stories",
+          "examples": ["The questmonger told tales of distant lands."],
+          "collocations": ["seasoned questmonger"],
+          "synonyms": ["promoter", "storyteller"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "questor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who undertakes a quest; a seeker",
+          "examples": ["The knight was a noble questor."],
+          "collocations": ["grand questor"],
+          "synonyms": ["seeker", "adventurer"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "questorial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a quest or quest narrative",
+          "examples": ["The questorial tale captivated readers."],
+          "collocations": ["questorial saga"],
+          "synonyms": ["narrative", "quest-related"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "questors",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of questor; multiple seekers",
+          "examples": ["Several questors joined the expedition."],
+          "collocations": ["group of questors"],
+          "synonyms": ["seekers", "adventurers"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "questorship",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the office, role, or state of being a questor/leader of a quest",
+          "examples": ["He held the questorship with pride."],
+          "collocations": ["office of questorship"],
+          "synonyms": ["leadership", "guidance"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "questorships",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of questorship; multiple offices or roles linked to quests",
+          "examples": ["Various questorships were available in the order."],
+          "collocations": ["several questorships"],
+          "synonyms": ["leadership roles"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "questrian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who rides horses; a horse rider",
+          "examples": ["The queen was followed by a renowned questrian."],
+          "collocations": ["skilled questrian", "professional questrian"],
+          "synonyms": ["equestrian"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "sport"]
+        }
+      ]
+    },
+    {
+      "term": "questrist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who participates in a quest; synonyms as quester",
+          "examples": ["A small group of questrists set out at dawn."],
+          "collocations": ["questing questrist"],
+          "synonyms": ["quester", "seeker"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "questrists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of questrist; multiple quest participants",
+          "examples": ["The questrists crossed the valley."],
+          "collocations": ["group of questrists"],
+          "synonyms": ["seekers", "questers"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "quests",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quest; journeys or missions to achieve a goal",
+          "examples": ["Many quests in stories shape the hero's path.", "Their quests for knowledge never ended."],
+          "collocations": ["long quest", "heroic quest", "quest for answers"],
+          "synonyms": ["journeys", "missions"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "literary"]
+        }
+      ]
+    }
+  ]
+}

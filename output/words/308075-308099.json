@@ -1,0 +1,581 @@
+I'm going to provide structured dictionary-like entries for the list of terms you provided. However, I currently don't have reliable, comprehensive data for all of these highly niche or compound terms, and several entries appear to be neologisms or domain-specific. I will give the most plausible, learner-friendly senses where possible and mark uncertain items accordingly. The output will be strictly in the requested JSON format.{
+  "items": [
+    {
+      "term": "probs",
+      "kind": "abbreviation",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Informal short form for 'probabilities' or 'probabilities/likelihoods'.",
+          "examples": [
+            "The probs of rain are high today.",
+            "We looked at the probs for different outcomes."
+          ],
+          "collocations": [
+            "high probs",
+            "probabilities",
+            "probability estimates"
+          ],
+          "synonyms": ["probabilities", "likelihoods"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "probudget",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A hypothesized or pro-leaning term meaning a budget that favors a particular policy or group; not a standard lexical item.",
+          "examples": [
+            "The plan is a probudget proposal, advocating more funding for education.",
+            "Some analysts called it a probudget approach."
+          ],
+          "collocations": [
+            "probudget proposal",
+            "probudget policy",
+            "favorable budget"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "probudgeting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An informal or constructed term referring to advocacy or support for budgeting approaches that align with specific interests.",
+          "examples": [
+            "The debate included probudgeting positions from several groups.",
+            "Critics dismissed probudgeting as biased."
+          ],
+          "collocations": [
+            "probudgeting positions",
+            "probudgeting policies"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "political"]
+        }
+      ]
+    },
+    {
+      "term": "probuilding",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "In favour of building or development; supportive of construction.",
+          "examples": [
+            "A probuilding stance was presented by the developers.",
+            "The council is probuilding but wants environmental safeguards."
+          ],
+          "collocations": [
+            "probuilding stance",
+            "probuilding policy",
+            "probuilding developers"
+          ],
+          "synonyms": ["pro-construction", "in favour of development"],
+          "antonyms": ["anti-building", "anti-development"],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "probusiness",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Supporting or favourable to business interests.",
+          "examples": [
+            "The administration issued probusiness policies.",
+            "She has a probusiness reform agenda."
+          ],
+          "collocations": [
+            "probusiness policies",
+            "probusiness environment",
+            "probusiness reform"
+          ],
+          "synonyms": ["business-friendly", "pro-business"],
+          "antonyms": ["anti-business", "pro-regulation"],
+          "register": "formal",
+          "domain": ["business", "political"]
+        }
+      ]
+    },
+    {
+      "term": "probuying",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "An informal or nonce term meaning to buy something, sometimes with a sense of optimism or likelihood; not a standard form.",
+          "examples": [
+            "We probuying a few samples for the test.",
+            "They probuying plan to expand next year."
+          ],
+          "collocations": [
+            "probuying plan",
+            "probuying samples"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "proc",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Short for 'procedure' or 'processor' depending on context; not a standalone lexical item with a single meaning.",
+          "examples": [
+            "Follow the proc for safety checks.",
+            "The CPU uses a powerful proc."
+          ],
+          "collocations": [
+            "proc for",
+            "system proc",
+            "proc steps"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "procaccia",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "Surname in Italian contexts; may refer to individuals or fictional characters.",
+          "examples": [
+            "Giovanni Procaccia published a paper on linguistics.",
+            "Procaccia's theory was cited in the article."
+          ],
+          "collocations": [
+            "Procaccia theory",
+            "Professor Procaccia"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "procaccio",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "Italian surname; could also appear as a given name in some contexts; uncommon in English usage.",
+          "examples": [
+            "Procaccio studied art history in Rome.",
+            "The Procaccio family hosted a gallery event."
+          ],
+          "collocations": [
+            "Procaccio family",
+            "Procaccio event"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "procacious",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "A rare or nonstandard adjective meaning having procacity; i.e., describing bold or impudent behavior.",
+          "examples": [
+            "His procacious remarks surprised the room."
+          ],
+          "collocations": [
+            "procacious remarks",
+            "procacious attitude"
+          ],
+          "synonyms": ["bold", "impudent", "brazen"],
+          "antonyms": ["timid", "modest"],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "procaciously",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a procacious manner; boldly or impudently.",
+          "examples": [
+            "He spoke procaciously to the committee.",
+            "She acted procaciously during the negotiation."
+          ],
+          "collocations": [
+            "procaciously insult",
+            "procaciously push boundaries"
+          ],
+          "synonyms": ["boldly", "impudently"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "procacities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of procacity; bold or impudent behavior.",
+          "examples": [
+            "Her procacities drew gasps from the audience.",
+            "The protagonist faced several procacities from rivals."
+          ],
+          "collocations": [
+            "procacities of the crowd",
+            "racial procacities" 
+          ],
+          "synonyms": ["boldness", "impudence"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "procacity",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Bold, impudent, or audacious behavior.",
+          "examples": [
+            "His procacity surprised the elders.",
+            "A moment of procacity changed the negotiation."
+          ],
+          "collocations": [
+            "display procacity",
+            "act with procacity"
+          ],
+          "synonyms": ["boldness", "impudence"],
+          "antonyms": ["humility", "modesty"],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "procaine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A local anesthetic drug also known as Novocain.",
+          "examples": [
+            "The doctor used procaine for the minor procedure.",
+            "Procaine is sometimes replaced by newer anesthetics."
+          ],
+          "collocations": [
+            "procaine anesthesia",
+            "inject procaine"
+          ],
+          "synonyms": ["Novocain"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "procaines",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of procaine; instances of the anesthetic drug.",
+          "examples": [
+            "The clinic used several procaines during the trials.",
+            "Procaines were administered to volunteers."
+          ],
+          "collocations": [
+            "procaines administration",
+            "procaines doses"
+          ],
+          "synonyms": ["Novocain doses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "procambia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A biological term referring to a structure in plant tissue (procambium).",
+          "examples": [
+            "The procambium gives rise to vascular tissue.",
+            "During growth, procambia differentiate into xylem and phloem."
+          ],
+          "collocations": [
+            "procambium development",
+            "vascular procambia"
+          ],
+          "synonyms": ["procambium (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "procambial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or derived from procambium.",
+          "examples": [
+            "Procambial tissues develop into vascular systems.",
+            "Procambial cells are essential in early plant development."
+          ],
+          "collocations": [
+            "procambial cell",
+            "procambial tissue"
+          ],
+          "synonyms": ["procambial-related"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "procambium",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A plant tissue that gives rise to vascular tissues (xylem and phloem) during growth.",
+          "examples": [
+            "The procambium is active in young stems.",
+            "Vascular tissues originate from the procambium."
+          ],
+          "collocations": [
+            "procambium formation",
+            "procambium activity"
+          ],
+          "synonyms": ["vascular cambium (contextual)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "procambiums",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of procambium.",
+          "examples": [
+            "Procambiums differentiate into mature vascular tissues.",
+            "The sample showed multiple procambiums."
+          ],
+          "collocations": [
+            "procambiums differentiate",
+            "procambiums in tissue"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "procanal",
+        "kind": "word",
+        "cefrLevel": "null",
+        "senses": [
+          {
+            "pos": "adjective",
+            "definition": "Relating to a canal or ducts; a nonstandard or rare usage combining 'pro-' with 'canal'.",
+            "examples": [
+              "Procanal pathways were examined in the study."
+            ],
+            "collocations": [
+              "procanal duct",
+              "procanal pathway"
+            ],
+            "synonyms": [],
+            "antonyms": [],
+            "register": "neutral",
+            "domain": ["biology", "medicine"]
+          }
+        ]
+    },
+    {
+      "term": "procancellation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of canceling a procedure, plan, or policy; a portmanteau-like coinage.",
+          "examples": [
+            "Procancellation affected the entire schedule.",
+            "There was procancellation without a clear replacement."
+          ],
+          "collocations": [
+            "procancellation notice",
+            "procancellation policy"
+          ],
+          "synonyms": ["cancellation", "repeal"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "procapital",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "In favor of capitalism or capital investment.",
+          "examples": [
+            "Procapital policies favored private enterprise.",
+            "Procapital voices dominated the debate."
+          ],
+          "collocations": [
+            "procapital policies",
+            "procapital stance"
+          ],
+          "synonyms": ["pro-market", "capitalist-friendly"],
+          "antonyms": ["anti-capitalist", "anti-market"],
+          "register": "formal",
+          "domain": ["political", "economic"]
+        }
+      ]
+    },
+    {
+      "term": "procapitalism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Advocacy for capitalism as an economic system.",
+          "examples": [
+            "The party promotes procapitalism as its core platform."
+          ],
+          "collocations": [
+            "procapitalism policy",
+            "procapitalism stance"
+          ],
+          "synonyms": ["capitalism advocacy"],
+          "antonyms": ["anti-capitalism", "socialism"],
+          "register": "formal",
+          "domain": ["political", "economic"]
+        }
+      ]
+    },
+    {
+      "term": "procapitalist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "In favor of capitalism or capitalist policies.",
+          "examples": [
+            "Procapitalist groups pushed for deregulation.",
+            "A procapitalist viewpoint influenced the debate."
+          ],
+          "collocations": [
+            "procapitalist groups",
+            "procapitalist policies"
+          ],
+          "synonyms": ["pro-market", "capitalist-friendly"],
+          "antonyms": ["anti-capitalist"],
+          "register": "neutral",
+          "domain": ["political", "economic"]
+        }
+      ]
+    },
+    {
+      "term": "procapitalists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "People who advocate for capitalism; plural form.",
+          "examples": [
+            "The rally attracted many probcapitalists.",
+            "Procapitalists argued for tax cuts."
+          ],
+          "collocations": [
+            "procapitalists advocate",
+            "coalition of probapitalists"
+          ],
+          "synonyms": ["capitalism advocates"],
+          "antonyms": ["anti-capitalists"],
+          "register": "neutral",
+          "domain": ["political", "economic"]
+        }
+      ]
+    }
+  ]
+}

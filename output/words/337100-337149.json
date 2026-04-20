@@ -1,0 +1,799 @@
+{
+  "items": [
+    {
+      "term": "roentgenize",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to examine or treat using X-rays",
+          "examples": ["The doctor roentgenized the patient's chest.", "They roentgenize samples to detect flaws."],
+          "collocations": ["roentgenize a patient", "roentgenize the chest", "roentgenize tissue", "roentgenize materials"],
+          "synonyms": ["x-ray", "radiograph"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenized",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of roentgenize; examined using X-rays",
+          "examples": ["The bone was roentgenized yesterday."],
+          "collocations": ["was roentgenized", "patient roentgenized"],
+          "synonyms": ["x-rayed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenizes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular of roentgenize",
+          "examples": ["She roentgenizes each sample carefully."],
+          "collocations": ["roentgenizes samples", "roentgenizes patients"],
+          "synonyms": ["x-rays"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenizing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of examining with X-rays",
+          "examples": ["They are roentgenizing the equipment."],
+          "collocations": ["roentgenizing equipment", "roentgenizing patients"],
+          "synonyms": ["x-raying"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenogram",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an image made using X-rays",
+          "examples": ["The roentgenogram showed a fracture."],
+          "collocations": ["chest roentgenogram", "dental roentgenogram"],
+          "synonyms": ["x-ray image", "radiograph"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenograms",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roentgenogram",
+          "examples": ["The doctor reviewed the roentgenograms."],
+          "collocations": ["review roentgenograms", "analyze roentgenograms"],
+          "synonyms": ["x-ray images"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenograph",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a photograph produced by X-rays",
+          "examples": ["The roentgenograph revealed damage."],
+          "collocations": ["take a roentgenograph"],
+          "synonyms": ["radiograph"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenographic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to X-ray imaging",
+          "examples": ["Roentgenographic evidence confirmed the diagnosis."],
+          "collocations": ["roentgenographic image", "roentgenographic study"],
+          "synonyms": ["radiographic"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenographically",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way related to X-ray imaging",
+          "examples": ["The condition was roentgenographically visible."],
+          "collocations": ["roentgenographically visible"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenographies",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roentgenography",
+          "examples": ["Several roentgenographies were conducted."],
+          "collocations": ["conduct roentgenographies"],
+          "synonyms": ["radiographies"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenographs",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roentgenograph",
+          "examples": ["The roentgenographs showed improvement."],
+          "collocations": ["compare roentgenographs"],
+          "synonyms": ["radiographs"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenography",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the use of X-rays to create images of the body",
+          "examples": ["Roentgenography is widely used in hospitals."],
+          "collocations": ["dental roentgenography", "medical roentgenography"],
+          "synonyms": ["radiography"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenologic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "related to X-rays or their medical use",
+          "examples": ["Roentgenologic findings were noted."],
+          "collocations": ["roentgenologic findings"],
+          "synonyms": ["radiologic"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenological",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the study or use of X-rays",
+          "examples": ["Roentgenological analysis was performed."],
+          "collocations": ["roentgenological analysis"],
+          "synonyms": ["radiological"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenologically",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "by means of X-ray study",
+          "examples": ["The disease was roentgenologically confirmed."],
+          "collocations": ["roentgenologically confirmed"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenologies",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roentgenology",
+          "examples": ["Different roentgenologies were studied."],
+          "collocations": ["study roentgenologies"],
+          "synonyms": ["radiologies"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenologist",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a doctor who specializes in X-ray imaging",
+          "examples": ["The roentgenologist examined the scans."],
+          "collocations": ["consult a roentgenologist"],
+          "synonyms": ["radiologist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenologists",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roentgenologist",
+          "examples": ["Roentgenologists reviewed the case."],
+          "collocations": ["team of roentgenologists"],
+          "synonyms": ["radiologists"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenology",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study and use of X-rays in medicine",
+          "examples": ["He studied roentgenology at university."],
+          "collocations": ["field of roentgenology"],
+          "synonyms": ["radiology"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenometer",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device used to measure X-ray radiation",
+          "examples": ["The roentgenometer recorded radiation levels."],
+          "collocations": ["use a roentgenometer"],
+          "synonyms": ["radiation meter"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenometries",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roentgenometry",
+          "examples": ["Various roentgenometries were conducted."],
+          "collocations": ["perform roentgenometries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenometry",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the measurement of X-ray radiation",
+          "examples": ["Roentgenometry ensures safety standards."],
+          "collocations": ["radiation roentgenometry"],
+          "synonyms": ["radiation measurement"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenopaque",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not allowing X-rays to pass through",
+          "examples": ["Metal is roentgenopaque."],
+          "collocations": ["roentgenopaque material"],
+          "synonyms": ["radiopaque"],
+          "antonyms": ["radiolucent"],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenoscope",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an instrument used to view X-ray images",
+          "examples": ["The roentgenoscope was used during surgery."],
+          "collocations": ["use a roentgenoscope"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenoscopes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roentgenoscope",
+          "examples": ["Modern roentgenoscopes are highly advanced."],
+          "collocations": ["advanced roentgenoscopes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenoscopic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to viewing with X-rays",
+          "examples": ["Roentgenoscopic techniques were applied."],
+          "collocations": ["roentgenoscopic technique"],
+          "synonyms": ["fluoroscopic"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenoscopies",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roentgenoscopy",
+          "examples": ["Several roentgenoscopies were done."],
+          "collocations": ["perform roentgenoscopies"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenoscopy",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the use of X-rays to view internal structures in real time",
+          "examples": ["Roentgenoscopy helps guide procedures."],
+          "collocations": ["perform roentgenoscopy"],
+          "synonyms": ["fluoroscopy"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgenotherapy",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "treatment using X-rays",
+          "examples": ["Roentgenotherapy was used to treat the tumor."],
+          "collocations": ["receive roentgenotherapy"],
+          "synonyms": ["radiotherapy"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roentgens",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "units used to measure X-ray radiation",
+          "examples": ["The exposure was measured in roentgens."],
+          "collocations": ["measure in roentgens"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "roentgentherapy",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "another term for treatment using X-rays",
+          "examples": ["Roentgentherapy was recommended."],
+          "collocations": ["undergo roentgentherapy"],
+          "synonyms": ["radiotherapy"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "roer",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "roes",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "fish eggs used as food",
+          "examples": ["They served salmon roes as a delicacy."],
+          "collocations": ["fish roes", "salmon roes"],
+          "synonyms": ["caviar"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "roesti",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Swiss dish made of fried grated potatoes",
+          "examples": ["We had roesti for breakfast."],
+          "collocations": ["potato roesti"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "roestis",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roesti",
+          "examples": ["They ordered two roestis."],
+          "collocations": ["serve roestis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "roestone",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "roestones",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "roey",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "full of fish eggs",
+          "examples": ["The fish was roey in season."],
+          "collocations": ["roey fish"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "rog",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "rogallo",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of flexible wing used in early hang gliders",
+          "examples": ["The Rogallo wing design influenced aviation."],
+          "collocations": ["Rogallo wing"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "rogallos",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "rogan",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rich red sauce or oil used in South Asian cooking",
+          "examples": ["The dish had a spicy rogan."],
+          "collocations": ["rogan sauce"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "rogation",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a religious ceremony asking for blessings",
+          "examples": ["Rogation was observed in the village."],
+          "collocations": ["rogation days"],
+          "synonyms": ["supplication"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "rogations",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rogation",
+          "examples": ["Rogations are held annually."],
+          "collocations": ["observe rogations"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "rogationtide",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the period when rogation days are observed",
+          "examples": ["Rogationtide occurs before Ascension Day."],
+          "collocations": ["during rogationtide"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "rogative",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to asking or prayer",
+          "examples": ["The rogative tone was clear."],
+          "collocations": ["rogative form"],
+          "synonyms": ["supplicatory"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["language", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "rogatory",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "expressing a request or plea",
+          "examples": ["He made a rogatory appeal."],
+          "collocations": ["rogatory appeal"],
+          "synonyms": ["pleading"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "roger",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "interjection",
+          "definition": "used in radio communication to mean message received and understood",
+          "examples": ["Roger, we will proceed."],
+          "collocations": ["roger that"],
+          "synonyms": ["understood", "got it"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["communication"]
+        }
+      ]
+    },
+    {
+      "term": "rogered",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to acknowledge a message in radio communication",
+          "examples": ["He rogered the instruction."],
+          "collocations": ["rogered the message"],
+          "synonyms": ["acknowledged"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["communication"]
+        }
+      ]
+    },
+    {
+      "term": "rogerian",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the ideas of psychologist Carl Rogers",
+          "examples": ["Rogerian therapy focuses on empathy."],
+          "collocations": ["Rogerian approach", "Rogerian therapy"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["psychology"]
+        }
+      ]
+    }
+  ]
+}

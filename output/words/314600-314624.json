@@ -1,0 +1,432 @@
+{
+  "items": [
+    {
+      "term": "pumpkins",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the large orange fruit of a squash plant, used for cooking or decorating, especially around Halloween.",
+          "examples": ["We carved pumpkins for Halloween.", "Pumpkins are rich in vitamin A."],
+          "collocations": ["pumpkin puree", "pumpkin pie", "pumpkin seeds", "sugar pumpkin", "pumpkin farm", "jack-o'-lantern"],
+          "synonyms": ["squash (generic)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "food"]
+        }
+      ]
+    },
+    {
+      "term": "pumpkinseed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a seed of a pumpkin, often eaten as a snack or used in cooking.",
+          "examples": ["He roasted pumpkinseeds for the trail mix.", "Pumpkinseed oil is used in some dressings."],
+          "collocations": ["roasted pumpkinseed", "pumpkinseed oil", "pumpkinseed snack"],
+          "synonyms": ["pumpkin seed", "pepitas"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "pumpkinseeds",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the seeds of a pumpkin, edible when roasted or used in recipes.",
+          "examples": ["She sprinkled pumpkinseeds on her salad.", "Pumpkinseeds are a good source of magnesium."],
+          "collocations": ["roasted pumpkinseeds", "pumpkinseeds snack", "pumpkinseeds oil"],
+          "synonyms": ["pumpkin seeds", "pepitas"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "pumpknot",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a knot or twist in a pumpkin vine stem; a rare or dialectal term with no common use.",
+          "examples": ["The farmer noticed a pumpknot on the vine (dialect meaning)."],
+          "collocations": ["pumpknot on vine"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "pumple",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to fill or stuff a container with a soft, bulky material; to puff up or swell.",
+          "examples": ["They pumple the pillow with down feathers.", "The bag pumples when you squeeze it."],
+          "collocations": ["pumple the cushion", "pumple with stuffing"],
+          "synonyms": ["stuff", "fill", "bulge"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "pumpless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without a pump; lacking a device that moves liquid or air by pressure.",
+          "examples": ["A pumpless irrigation system requires gravity feed.", "The device can run pumpless in a simple setup."],
+          "collocations": ["pumpless design", "pumpless system"],
+          "synonyms": ["unpumpable", "non-powered"],
+          "antonyms": ["pumped", "pumping"],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "pumplike",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling or similar to a pump in shape or function.",
+          "examples": ["The stem had a pumplike bulge.", "A pumplike mechanism moved the fluid."],
+          "collocations": ["pumplike shape", "pumplike mechanism"],
+          "synonyms": ["pump-shaped", "pumplike"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "pumpman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who operates a pump, especially in an industrial or mechanical setting.",
+          "examples": ["The pumpman started the water pumps at dawn.", "A skilled pumpman maintains the pressure system."],
+          "collocations": ["pumpman on site", "pumpman operator"],
+          "synonyms": ["pump operator"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["work", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "pumpmen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pumpman; multiple people who operate pumps.",
+          "examples": ["Two pumpmen checked the valves.", "The team of pumpmen stayed after shift."],
+          "collocations": ["pumpmen crew", "pumpmen on site"],
+          "synonyms": ["pump operators"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["work", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "pumps",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "devices that move liquids or gases by suction or pressure; a woman's undergarment or decorative footwear sense is not applicable here.",
+          "examples": ["The water pumps failed during the flood.", "He bought new pumps for the gym workout."],
+          "collocations": ["water pumps", "gas pumps", "pump system", "pump station"],
+          "synonyms": ["pumping devices", "pumping machines"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "infrastructure"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to move something with a pumping action, especially fluids; to push out or force with effort.",
+          "examples": ["The heart pumps blood through the body.", "They pumps the air out of the tire."],
+          "collocations": ["pump air", "pump blood", "pump up"],
+          "synonyms": ["push", "inflate", "press"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "pumpsman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who operates a pump; a pump operator.",
+          "examples": ["The pumpsman inspected the well."],
+          "collocations": ["pumpsman job", "pumpsman operator"],
+          "synonyms": ["pump operator"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["work", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "pumpwell",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place where a pump is installed, often for drawing water or pumping fluids; may be a proper name for a site.",
+          "examples": ["They stopped at the pumpwell to refill.", "The pumpwell is next to the irrigation channel."],
+          "collocations": ["oil pumpwell", "pumpwell station"],
+          "synonyms": ["pump station", "pump site"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["infrastructure", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "pumpwright",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a craftsman who builds or repairs pumps and pumping systems.",
+          "examples": ["The pumpwright installed a new centrifugal pump."],
+          "collocations": ["pumpwright repairs", "pumpwright installation"],
+          "synonyms": ["pump technician", "pumpmaker"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["work", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "pumy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a slang or informal term with unclear standard meaning; may be a name or error; not widely recognized in dictionary resources.",
+          "examples": ["The term pumy appeared in the note."],
+          "collocations": ["pumy usage"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["linguistic"]
+        }
+      ]
+    },
+    {
+      "term": "pun",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a joke that makes a joke by using a word with two meanings or and similar sounds.",
+          "examples": ["That was a clever pun.", "He told a pun that made everyone groan."],
+          "collocations": ["wordplay pun", "pun about", "pun contest"],
+          "synonyms": ["play on words"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["humor", "language"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to make a joke by exploiting the double meaning or similar sounds of a word.",
+          "examples": ["She loves to pun at parties.", "He puns about food all the time."],
+          "collocations": ["pun on", "pun with"],
+          "synonyms": ["joke", "make a play on words"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["humor", "language"]
+        }
+      ]
+    },
+    {
+      "term": "punaani",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "explicit vulgar slang for female genitalia; highly informal and offensive in many contexts.",
+          "examples": ["The term punaani is considered coarse language."],
+          "collocations": ["male gaze punaani"],
+          "synonyms": ["vulgar term for female anatomy"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["informal", "linguistic taboos"]
+        }
+      ]
+    },
+    {
+      "term": "punaany",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a misspelling or variant of punaani; same coarse slang meaning as above.",
+          "examples": ["The message used punaany as a crude term."],
+          "collocations": ["punaany usage"],
+          "synonyms": ["punaani"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["informal", "linguistic taboos"]
+        }
+      ]
+    },
+    {
+      "term": "punaise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a tiny bedbug; also a French term for a pin or stud; in English, a borrowed term for a device or nuisance in some contexts.",
+          "examples": ["The room is infested with punaises."],
+          "collocations": ["bedbug punaises", "punaise pin"],
+          "synonyms": ["bedbug"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "punalua",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a proper noun or place name; may be used in specific languages or communities; not a common English term.",
+          "examples": ["Punalua is a local place name."],
+          "collocations": ["Punalua village"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "punaluan",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a proper noun or surname in some cultures; not a common English word with defined senses.",
+          "examples": ["A person named Punalu an."],
+          "collocations": ["Punalu an family"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "punaluas",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of a proper noun Punalua; likely a place name or surname; no general sense in English.",
+          "examples": ["The Punaluas are locals."],
+          "collocations": ["the Punaluas family"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "punamu",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term from certain languages referring to a stone or wood material; in English usage, appears as loanword in specialized contexts.",
+          "examples": ["Punamu was used in carving."],
+          "collocations": ["punamu stone"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "art"]
+        }
+      ]
+    },
+    {
+      "term": "punan",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a proper noun or term; not widely used in general English.",
+          "examples": ["The river Pun an."],
+          "collocations": ["Pun an river"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "punani",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "slang for female genitalia; vulgar and offensive in many contexts.",
+          "examples": ["That buff uses punani in casual speech."],
+          "collocations": ["punani slang", "that punani"],
+          "synonyms": ["vulgar term for female anatomy"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["informal", "linguistic taboos"]
+        }
+      ]
+    }
+  ]
+}

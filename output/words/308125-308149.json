@@ -1,0 +1,439 @@
+{
+  "items": [
+    {
+      "term": "procedurals",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of procedural; relating to the steps or methods used to accomplish something, often in a systematic or formal way",
+          "examples": ["The report includes several procedural changes to the workflow.", "They studied the procedural manuals to understand the protocol."],
+          "collocations": ["procedural steps", "procedural guidelines", "procedural safeguards"],
+          "synonyms": ["processes", "protocols"],
+          "antonyms": ["nonprocedural", "improvised"],
+          "register": "formal",
+          "domain": ["general", "business", "education"]
+        }
+      ]
+    },
+    {
+      "term": "procedure",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a set of official or formal steps to do something",
+          "examples": ["Follow the safety procedure when handling chemicals.", "The voting procedure is explained in the guide."],
+          "collocations": ["safety procedure", "standard procedure", "legal procedure", "medical procedure"],
+          "synonyms": ["process", "step-by-step method", "protocol"],
+          "antonyms": ["unprocedureed (nonstandard)", "anomaly"],
+          "register": "formal",
+          "domain": ["general", "business", "law", "medicine"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a medical operation or surgical procedure",
+          "examples": ["She underwent a minor procedure yesterday.", "The procedure was performed under local anesthesia."],
+          "collocations": ["surgical procedure", "minor procedure", "elective procedure"],
+          "synonyms": ["operation", "surgery", "operation procedure"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "procedured",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having or showing a specified procedure or procedure-related quality",
+          "examples": ["a procedured workflow that follows strict steps", "procedured documents were filed for review"],
+          "collocations": ["procedured workflow", "procedured documents"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "procedures",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of procedure; the official steps or methods followed in accomplishing something",
+          "examples": ["The procedures for onboarding are simple.", "Legal procedures must be followed in court."],
+          "collocations": ["safety procedures", "operational procedures", "procedural procedures"],
+          "synonyms": ["processes", "protocols", "methods"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "business", "law"]
+        }
+      ]
+    },
+    {
+      "term": "proceduring",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of carrying out procedures; the process of following steps",
+          "examples": ["Proceduring is essential in quality control.", "Proceduring must be documented."],
+          "collocations": ["proceduring steps", "proceduring phase"],
+          "synonyms": ["carrying out", "execution"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "proceed",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to start or continue doing something; to move forward",
+          "examples": ["Please proceed with your plan.", "We will proceed to the next item on the agenda."],
+          "collocations": ["proceed with", "proceed to", "proceed carefully"],
+          "synonyms": ["go ahead", "continue", "advance"],
+          "antonyms": ["stop", "halt"],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "proceeded",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of proceed; moved forward or continued",
+          "examples": ["She proceeded to explain the plan.", "They proceeded after a short delay."],
+          "collocations": ["proceeded with", "proceeded to"],
+          "synonyms": ["advanced", "continued"],
+          "antonyms": ["stopped", "halted"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "proceeder",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that proceeds; one who progresses or continues a process",
+          "examples": ["He is a fast proceeder in the project team."],
+          "collocations": ["random proceeder", "key proceeder"],
+          "synonyms": ["continuator", "advancer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "proceeders",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of proceed; people who proceed or process forward",
+          "examples": ["The team of proceeders advanced the project."],
+          "collocations": ["group of proceeders"],
+          "synonyms": ["advancers", "continuers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "proceeding",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an event or series of events happening; the process of proceeding in a formal context",
+          "examples": ["The court proceeding lasted several hours.", "We will review the proceeding to ensure fairness."],
+          "collocations": ["legal proceeding", "court proceeding", "academic proceeding"],
+          "synonyms": ["event", "process", "procedure"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "proceedings",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the actions and events that take place in a formal setting, such as a meeting or court",
+          "examples": ["The proceedings were broadcast live.", "Minutes from the proceedings were published."],
+          "collocations": ["legal proceedings", "court proceedings", "proceedings table"],
+          "synonyms": ["events", "sessions"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "proceeds",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "money obtained from a sale or event; income",
+          "examples": ["The proceeds will fund the project.", "All proceeds go to charity."],
+          "collocations": ["sales proceeds", "proceeds from", "net proceeds"],
+          "synonyms": ["income", "revenue", "earnings"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business", "charity"]
+        }
+      ]
+    },
+    {
+      "term": "proceleusmatic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or producing the sound of a rapid, shaken breath; a term from poetry",
+          "examples": ["Proceleusmatic sounds appear in some ancient poems."],
+          "collocations": ["proceleusmatic sounds"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archais",
+          "domain": ["literary", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "proceleusmatics",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of proceleusmatic; devices or features that produce rapid breath-like sounds in poetry",
+          "examples": ["The poem uses several proceleusmatics."],
+          "collocations": ["proceleusmatics in poetry"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archais",
+          "domain": ["literary", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "procellaria",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a genus of petrels (sea birds) in the Procellariidae family",
+          "examples": ["The procellaria species nests on remote islands."],
+          "collocations": ["procellaria genus", "procellaria pelagica"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "procellarian",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of the Procellariidae family of seabirds; related adjective describing such birds",
+          "examples": ["The procellarian group includes many shearwaters."],
+          "collocations": ["procellarian birds"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "ecology"]
+        }
+      ]
+    },
+    {
+      "term": "procellarid",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of the Procellariidae family; synonyms include procellariiformes when used scientifically",
+          "examples": ["Procellarid species are seabirds."],
+          "collocations": ["procellarid family"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "ecology"]
+        }
+      ]
+    },
+    {
+      "term": "procellariidae",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the biological family that includes petrels and shearwaters",
+          "examples": ["Procellariidae is a family of seabirds."],
+          "collocations": ["family Procellariidae"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "ecology"]
+        }
+      ]
+    },
+    {
+      "term": "procellariiformes",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the order that includes petrels, shearwaters, and albatrosses",
+          "examples": ["Procellariiformes are seabirds adapted to long flights."],
+          "collocations": ["order Procellariiformes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "ecology"]
+        }
+      ]
+    },
+    {
+      "term": "procellariine",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a subfamily or subtribe within Procellariidae; sometimes used to describe its traits",
+          "examples": ["Procellariine characteristics include strong salt glands."],
+          "collocations": ["procellariine traits"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "procellas",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of procella; a term used historically or in taxonomic context",
+          "examples": ["Various procellas were catalogued in the study."],
+          "collocations": ["procellas species"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "taxonomy"]
+        }
+      ]
+    },
+    {
+      "term": "procello",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Latin-derived term in certain classical or botanical contexts; rarely used in everyday English",
+          "examples": ["In classical texts, procello appears as a stylistic device."],
+          "collocations": ["procello usage"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "procellose",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "characterized by or relating to the shell or shell-like structure; historically used in biology",
+          "examples": ["Procellose features were noted in the specimen."],
+          "collocations": ["procellose morphology"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "procellous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "full of crevices or cells; in botany or geology sometimes used to describe porous material",
+          "examples": ["The procellous rock absorbed water quickly."],
+          "collocations": ["procellous texture"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "procensorship",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or policy of censoring information or materials; a compound coinage in some contexts",
+          "examples": ["Debates over procensorship continue in the council."],
+          "collocations": ["state procensorship", "media procensorship"],
+          "synonyms": ["censorship", "suppression"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "politics", "media"]
+        }
+      ]
+    }
+  ]
+}
