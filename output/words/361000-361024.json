@@ -1,0 +1,516 @@
+{
+  "items": [
+    {
+      "term": "slaving",
+      "kind": "verb",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to force someone to work hard or endure harsh, exhausting labor, especially under coercion.",
+          "examples": [
+            "The prisoners were slaving away at forced labor for long hours.",
+            "She felt she was slaving over the project with little reward."
+          ],
+          "collocations": ["slaving away", "slaving contractor", "slaving under", "slaving labor"],
+          "synonyms": ["enslaving", "oppressing", "drudging"],
+          "antonyms": ["freeload", "free", "liberate"],
+          "register": "formal",
+          "domain": ["general", "work", "history"]
+        }
+      ]
+    },
+    {
+      "term": "slavish",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "showing a very strong, almost servile obedience or dedication; like a slave in manner or attitude.",
+          "examples": [
+            "He gave a slavish devotion to his employer.",
+            "The critic dismissed the slavish imitation as uninspired."
+          ],
+          "collocations": ["slavish devotion", "slavish imitation", "slavish adherence"],
+          "synonyms": ["servile", "submissive", "subservient"],
+          "antonyms": ["independent", "autonomous", "self-reliant"],
+          "register": "formal",
+          "domain": ["general", "behavior", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "slavishly",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows extreme or unquestioning obedience or imitation.",
+          "examples": [
+            "She followed the rules slavishly.",
+            "He copied the boss’s style slavishly."
+          ],
+          "collocations": ["work slavishly", "follow slavishly", "adapt slavishly"],
+          "synonyms": ["unthinkingly", "mechanically", "submissively"],
+          "antonyms": ["independently", "creatively", "freely"],
+          "register": "formal",
+          "domain": ["general", "work", "behavior"]
+        }
+      ]
+    },
+    {
+      "term": "slavishness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being excessively willing to obey or imitate; extreme servility.",
+          "examples": [
+            "The slavishness of his compliance angered his colleagues.",
+            "Her slavishness to tradition limited innovation."
+          ],
+          "collocations": ["slavishness to tradition", "tone of slavishness", "display slavishness"],
+          "synonyms": ["servility", "submissiveness", "conformity"],
+          "antonyms": ["independence", "creativity", "initiative"],
+          "register": "formal",
+          "domain": ["general", "sociology", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "slavishnesses",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slavishness; multiple instances of extreme servility or conformity.",
+          "examples": [
+            "The text critiques the slavishnesses of corporate culture.",
+            "They rejected the slavishnesses imposed by outdated norms."
+          ],
+          "collocations": ["various slavishnesses", "manifestations of slavishness"],
+          "synonyms": ["servilities", "submissivenesses", "conformities"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "culture", "sociology"]
+        }
+      ]
+    },
+    {
+      "term": "slavism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a movement or ideology that emphasizes loyalty to Slavic cultures; the belief in the political or cultural unity of Slavic peoples.",
+          "examples": [
+            "Scholars debated the implications of slavism in early European politics.",
+            "The book traces the rise of slavism and its influence on regional alliances."
+          ],
+          "collocations": ["modern slavism", "slavism movement", "slavism in politics"],
+          "synonyms": ["Slavic nationalism", "pan-Slavism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "politics", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "slavist",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who studies Slavic languages, literature, or cultures; a scholar of Slavic studies.",
+          "examples": [
+            "The conference featured several renowned slavists from Europe.",
+            "As a slavist, she specializes in Cyrillic languages."
+          ],
+          "collocations": ["academic slavist", "Slavist scholar", "Slavist conference"],
+          "synonyms": ["Slavicist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "academia", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "slavistic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to Slavic languages or the study of Slavic languages.",
+          "examples": [
+            "Slavistic research includes phonology and syntax of Russian and Polish.",
+            "She contributed Slavistic insights to the journal."
+          ],
+          "collocations": ["slavistic studies", "slavistic methods"],
+          "synonyms": ["Slavicist"/* note: used as adjective */, "Slavic studies-related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academia", "linguistics", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "slavization",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of becoming or making something Slavic in character or influence; incorporation into Slavic culture or political life.",
+          "examples": [
+            "The slavization of the region altered its linguistic landscape.",
+            "Policies aimed at slavization shaped local education."
+          ],
+          "collocations": ["slavization policy", "cultural slavization"],
+          "synonyms": ["Slavicization"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "politics", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "slavize",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make or become Slavic in culture, language, or influence.",
+          "examples": [
+            "The reform aimed to slavize regional rituals into a common identity.",
+            "Efforts to slavize education included introducing Slavic literature."
+          ],
+          "collocations": ["to slavize culture", "slavize education"],
+          "synonyms": ["Slavicize"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "culture", "education"]
+        }
+      ]
+    },
+    {
+      "term": "slavocracies",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "governments in which Slavic-speaking elites hold power; states with strong Slavic influence or control.",
+          "examples": [
+            "Historians debated the nature of the regional slavocracies in medieval times.",
+            "The alliance shifted when several slavocracies formed a bloc."
+          ],
+          "collocations": ["slavocracies in history", "alliance of slavocracies"],
+          "synonyms": ["Slavic regimes", "Slavic states"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "slavocracy",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rule or government by Slavic people; a system dominated by Slavic authorities.",
+          "examples": [
+            "Some researchers argued that slavocracy suppressed non-Slavic voices.",
+            "The term slavocracy appeared in debates about regional governance."
+          ],
+          "collocations": ["slavocracy regime", "rise of slavocracy"],
+          "synonyms": ["Slavic rule", "Slavic governance"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "slavocrat",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who supports or participates in slavocracy; a Slavic ruler or strong advocate of Slavic governance.",
+          "examples": [
+            "The historian identified the figure as a slavocrat in the late medieval court.",
+            "Slavocrats argued for protective policies for Slavic nations."
+          ],
+          "collocations": ["slavocrat leader", "slavocrat supporter"],
+          "synonyms": ["Slavic ruler", "Slavic advocate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "slavocratic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to slavocracy or Slavic governance; characteristic of a Slavocratic system.",
+          "examples": [
+            "The slavocratic regime faced internal resistance.",
+            "Slavocratic policies influenced regional trade."
+          ],
+          "collocations": ["slavocratic government", "slavocratic policy"],
+          "synonyms": ["Slavic-rule-based", "Slavic-dominated"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "slavocrats",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slavocrat; individuals who advocate or support slavocracy.",
+          "examples": [
+            "The slavocrats faced criticism from reform-minded groups.",
+            "Historically, slavocrats allied with other regional powers."
+          ],
+          "collocations": ["slavocrats in parliament", "slavocrat factions"],
+          "synonyms": ["Slavic rulers", "slavic advocates"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "slavonian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an ethnolinguistic group or person from Slavic or Slavic-influenced regions; historically used as a demonym or nationality term.",
+          "examples": [
+            "The scholars discussed Slavic groups, including Slavonians.",
+            "Literature from Slavonian writers is studied in class."
+          ],
+          "collocations": ["Slavonian people", "Slavonian culture"],
+          "synonyms": ["Slavic person", "Slav"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "slavonianize",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something Slavonian in character or influence; to assimilate into Slavonian culture.",
+          "examples": [
+            "Efforts were made to slavonianize the region’s schools.",
+            "The festival Slavonianized local traditions with Slavic motifs."
+          ],
+          "collocations": ["slavonianize education", "slavonianize culture"],
+          "synonyms": ["Slavicize", "Slavic-ize"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "culture", "education"]
+        }
+      ]
+    },
+    {
+      "term": "slavonic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to Slavic languages or peoples; used in older or more formal academic contexts.",
+          "examples": [
+            "Slavonic languages include Russian, Polish, and Czech.",
+            "They studied Slavonic literature in the graduate program."
+          ],
+          "collocations": ["Slavonic languages", "Slavonic literature"],
+          "synonyms": ["Slavic", "Slavic-speaking"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "literature", "history"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the Slavonic languages collectively; sometimes used to refer to groups of Slavic peoples.",
+          "examples": [
+            "The instructor taught several Slavonic excerpts from the 18th century.",
+            "Conversations covered key features of Slavonic grammar."
+          ],
+          "collocations": ["study of Slavonic", "Slavonic studies"],
+          "synonyms": ["Slavic languages"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "slavonically",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a Slavonic or Slavic manner, or in a way characteristic of Slavonic languages or culture.",
+          "examples": [
+            "The text was written slavonically, echoing older Slavic literary traditions.",
+            "She spoke slavonically with a cadence typical of the region."
+          ],
+          "collocations": ["slavonically composed", "slavonically influenced"],
+          "synonyms": ["Slavic-ly"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature", "linguistics", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "slavonicize",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to render in Slavonic style or to adopt Slavonic elements; to make more Slavonic in character.",
+          "examples": [
+            "The museum exhibit Slavonicized several artifacts with Slavic motifs.",
+            "Policy changes Slavonicize the cultural program."
+          ],
+          "collocations": ["slavonicize culture", "slavonicize artifacts"],
+          "synonyms": ["Slavicize"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["culture", "education", "museum studies"]
+        }
+      ]
+    },
+    {
+      "term": "slavonish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a jocular or informal/rare term referring to Slavic-related traits or people; used infrequently.",
+          "examples": [
+            "The mascot included a playful nod to slavonish culture.",
+            "A slavic-inspired accent gave the performance a slavonish flair."
+          ],
+          "collocations": ["slavonish traits", "slavonish culture"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["culture", "humor"]
+        }
+      ]
+    },
+    {
+      "term": "slavonism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Slavonic or Slavic linguistic, cultural, or political feature; a doctrine or belief relating to Slavic peoples.",
+          "examples": [
+            "Scholars debated the validity of certain slavonisms in modern text."
+          ],
+          "collocations": ["slavonism in language", "cultural slavonism"],
+          "synonyms": ["Slavicism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "culture", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "slavonization",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of Slavonizing; the act or policy of making something Slavonic in character.",
+          "examples": [
+            "Slavonization of the curriculum faced criticism from minority groups.",
+            "The report examined the effects of slavonization on regional identity."
+          ],
+          "collocations": ["slavonization policy", "cultural slavonization"],
+          "synonyms": ["Slavicization"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "culture", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "slavonize",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make Slavonic in character or to adopt Slavonic elements; to Slavicize.",
+          "examples": [
+            "There were attempts to slavonize regional traditions.",
+            "The curriculum was slavonized to include more Slavic literature."
+          ],
+          "collocations": ["to slavonize culture", "slavonize traditions"],
+          "synonyms": ["Slavicize"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["culture", "education", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "slavophil",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who strongly approves or loves Slavic culture and traditions.",
+          "examples": [
+            "The slavophil spoke proudly of Slavic heritage.",
+            "As a slavophil, he supported initiatives to preserve Slavic arts."
+          ],
+          "collocations": [" slavophil advocate", "slavophil sentiment"],
+          "synonyms": ["Slavic enthusiast", "Slavic patriot"],
+          "antonyms": ["slavophobe"],
+          "register": "formal",
+          "domain": ["culture", "politics", "ethnology"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "items": [
+    {
+      "term": "cakemaking",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the activity or skill of making cakes or decorating cakes",
+          "examples": ["CakeMaking is popular in culinary schools.", "She took a course in cakemaking to improve her decorating skills."],
+          "collocations": ["professional cakemaking", "home cakemaking", "cake decorating", "fondant icing"],
+          "synonyms": ["cake making", "cake baking"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "culinary"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the process or craft of producing cakes as a business or product",
+          "examples": ["The café focuses on artisanal cakemaking.", "Cakemaking requires precision in measurements and timing."],
+          "collocations": ["artisanal cakemaking", "industrial cakemaking"],
+          "synonyms": ["cake production"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "caker",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who bakes cakes or a person who bakes heavily on cakes in a social setting (colloquial, can be humorous or pejorative)",
+          "examples": ["The caker whipped up a chocolate ganache.", "Don't be a caker—eat your cake in moderation."],
+          "collocations": ["baker", "cake maker", "dessert enthusiast"],
+          "synonyms": ["baker", "cake maker"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "food"]
+        }
+      ]
+    },
+    {
+      "term": "cakes",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple or plural of cake; sweet baked foods often served in slices",
+          "examples": ["We bought three cakes for the party.", "She loves chocolate cakes."],
+          "collocations": ["sandwich cakes", "birthday cakes", "cupcakes and cakes"],
+          "synonyms": ["cake (singular)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "food"]
+        }
+      ]
+    },
+    {
+      "term": "cakette",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small cake or cake-like confection; a diminutive form used in some contexts",
+          "examples": ["She offered a cakette with tea.", "The pastry shop showcased small cakettes."],
+          "collocations": ["mini cake", "petite cake"],
+          "synonyms": ["petit four", "mini cake"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "food"]
+        }
+      ]
+    },
+    {
+      "term": "cakewalk",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an easy task or something very simple to achieve",
+          "examples": ["For him, passing the test was a cakewalk.", "Compared to last year, this project is a cakewalk."],
+          "collocations": ["easy cakewalk", "considered a cakewalk"],
+          "synonyms": ["easy task", "easy win", "cinch"],
+          "antonyms": ["hard task", "struggle"],
+          "register": "informal",
+          "domain": ["general", "education"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a procession or dance in a circle, originally a musical term from 19th century",
+          "examples": ["The old march included a cakewalk dance at the end."],
+          "collocations": ["cakewalk dance"],
+          "synonyms": ["procession", "dance"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "history"]
+        }
+      ]
+    },
+    {
+      "term": "cakewalked",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of cakewalk; performed an easy task or achieved something easily",
+          "examples": ["She cakewalked through the exam.", "They cakewalked to victory in the final round."],
+          "collocations": ["cakewalked through", "cakewalked to"],
+          "synonyms": ["eased through", "glided through"],
+          "antonyms": ["struggled", "bombed"],
+          "register": "informal",
+          "domain": ["general", "sports"]
+        }
+      ]
+    },
+    {
+      "term": "cakewalker",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who performs the cakewalk dance; occasionally used to refer to someone who does easy tasks",
+          "examples": ["The crowd cheered as the cakewalker twirled on stage."],
+          "collocations": ["professional cakewalker", "cakewalk dancer"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "cakewalkers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form referring to people who perform cakewalks or to a group with easy tasks",
+          "examples": ["The cakewalkers took the stage one after another."],
+          "collocations": ["group of cakewalkers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "cakewalking",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb or adjective present participle",
+          "definition": "participating in a cakewalk; performing an easy task; moving with a light, carefree style",
+          "examples": ["They were cakewalking through the rehearsal.", "A cakewalking performance impressed the judges."],
+          "collocations": ["cakewalking through", "cakewalking performance"],
+          "synonyms": ["easing through", "gliding through"],
+          "antonyms": ["struggling", "laboring"],
+          "register": "neutral",
+          "domain": ["culture", "performing arts"]
+        }
+      ]
+    },
+    {
+      "term": "cakewalks",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of cakewalk; easy tasks or events; dances",
+          "examples": ["The tasks were mere cakewalks.", "They organized several cakewalks at the fair."],
+          "collocations": ["easy cakewalks", "cakewalk events"],
+          "synonyms": ["easy tasks"],
+          "antonyms": ["difficult tasks"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "cakey",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having the taste or smell of cake; used to describe something that is cake-like in flavor",
+          "examples": ["The frosting had a cakey sweetness.", "This sponge cake is wonderfully cakey."],
+          "collocations": ["cakey texture", "cakey flavor"],
+          "synonyms": ["cake-like", "sweet"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "cakier",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "more cake-like in taste or texture",
+          "examples": ["This layer is cakier than the bottom.", "The batter becomes cakier when baked longer."],
+          "collocations": ["cakier texture", "cakier batter"],
+          "synonyms": ["more cake-like"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "cakiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "most cake-like in taste or texture",
+          "examples": ["This part is the cakiest crumb of the cake."],
+          "collocations": ["the cakiest crumb", "cakey and cakiest"],
+          "synonyms": ["most cake-like"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "cakile",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a word possibly sought to refer to a botanical term; in common usage, may be rare or erroneous spelling of cakey/cake-related terms",
+          "examples": ["The term cakile appears in some botanical lists.","Note: this item may be a misspelling or rare term."],
+          "collocations": ["rare term", "obscure word"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["academic", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "cakiness",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being cakey; having a cake-like texture or feel",
+          "examples": ["The cake's cakiness makes it very soft.", "Avoid overbaking to keep cakiness."],
+          "collocations": ["soft cakiness", "cakiness of crumb"],
+          "synonyms": ["cake-like texture"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "cakinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of cakiness; multiple instances of cake-like texture",
+          "examples": ["Different recipes show varying cakinesses."],
+          "collocations": ["varying cakinesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "caking",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the process of forming a solid layer of sugar, flour, or other material on a surface; or to accumulate cake-like substances",
+          "examples": ["Sugar began caking on the bowl edges.", "The dough is caking around the mixer blades."],
+          "collocations": ["dirt caking", "sugar caking", "icing caking"],
+          "synonyms": ["clumping", "forming a crust"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "cleaning"]
+        }
+      ]
+    },
+    {
+      "term": "cakings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of caking; instances of forming a cake-like crust or accumulation",
+          "examples": ["The cakeings around the edge were uneven."],
+          "collocations": ["areas of cakings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "cakra",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term from Indian spirituality referring to energy centers in the body",
+          "examples": ["Meditation focuses on the crown cakra."],
+          "collocations": ["heart cakra", "energy cakra"],
+          "synonyms": ["chakra"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["spirituality", "health"]
+        }
+      ]
+    },
+    {
+      "term": "cakravartin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a title in Indian tradition meaning a universal ruler or great king",
+          "examples": ["The cakravartin is a legendary monarch in Buddhist texts."],
+          "collocations": ["great cakravartin", "ruler cakravartin"],
+          "synonyms": ["universal ruler", "emperor"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "caky",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "rarely used variant meaning possibly cakey; not common in modern standard English",
+          "examples": ["This term is rarely used in everyday English."],
+          "collocations": ["caky texture (rare)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "cal",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "short form for calorie or calendar; also a nickname or abbreviation",
+          "examples": ["He burned 500 calories, or cal, today.", "Check the cal for the date."],
+          "collocations": ["calorie (cal)", "cal unit", "calendar (cal)"],
+          "synonyms": ["calorie", "calendar"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "time"]
+        }
+      ]
+    },
+    {
+      "term": "calaba",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant or place name; may appear in historical or regional contexts",
+          "examples": ["Calaba is mentioned in old travel writings."],
+          "collocations": ["Calaba plant", "Calaba region"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "history"]
+        }
+      ]
+    },
+    {
+      "term": "calabar",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a city in Nigeria or a type of red kola nut tree; can refer to the color Calabar greenish-blue or to Calabar language/classifications in historical texts",
+          "examples": ["Calabar is a city on the coast.", "Calabar beans were used in traditional medicine."],
+          "collocations": ["Calabar city", "Calabar bean"],
+          "synonyms": ["Calabar bean", "Nigeria city"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "biology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "calabari",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "historic term for people or items associated with Calabar region; may appear in historical or ethnographic text",
+          "examples": ["Calabari traders connected the coast with inland markets."],
+          "collocations": ["Calabari traders"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "calabari",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternate spelling or historical variant of Calabari; refers to people from Calabar region",
+          "examples": ["Calabari traders sailed the river routes."],
+          "collocations": ["Calabari traders"],
+          "synonyms": ["Calabari", "Calabar people"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "culture"]
+        }
+      ]
+    }
+  ]
+}

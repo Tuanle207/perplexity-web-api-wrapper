@@ -1,0 +1,504 @@
+{
+  "items": [
+    {
+      "term": "sequesters",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to remove or set something apart and isolate it, often to protect or preserve it or to keep it away from others",
+          "examples": [
+            "The court ordered the funds to be sequestered during the investigation.",
+            "The prisoner was sequestered from the main group to ensure safety."
+          ],
+          "collocations": ["sequester funds", "sequester assets", "sequester away", "sequester someone in a room"],
+          "synonyms": ["confiscate", "isolate", "detain"],
+          "antonyms": ["release", "unseat", "expose"],
+          "register": "formal",
+          "domain": ["law", "general", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "sequestra",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "plural noun",
+          "definition": "plural of sequestrum or a plural form referring to a series of sequestra (anatomical or botanical term rarely used outside specialist contexts)",
+          "examples": [
+            "The fossil displayed several sequestra along the specimen.",
+            "In anatomy texts, sequestra may describe separated bone fragments."
+          ],
+          "collocations": ["sequestra of bone", "sequestra in anatomy"],
+          "synonyms": ["sequestrum (singular)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "biology", "education"]
+        }
+      ]
+    },
+    {
+      "term": "sequestrable",
+      "kind": "adjective",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being sequestrated or removed and isolated",
+          "examples": [
+            "The assets were deemed sequestrable by the court.",
+            "Sequestrable funds can be frozen during legal proceedings."
+          ],
+          "collocations": ["sequestrable assets", "sequestrable property"],
+          "synonyms": ["sequesterable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "sequestral",
+      "kind": "adjective",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to sequestration or the act of sequestering; involving isolation or setting apart",
+          "examples": [
+            "Sequestral remedies were discussed in the legal brief.",
+            "A sequestral approach was taken to protect the artifacts."
+          ],
+          "collocations": ["sequestral proceedings", "sequestral custody"],
+          "synonyms": ["sequestral"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "medicine", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "sequestrant",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance that sequesters or binds substances to prevent reactions, often used in chemistry or medicine",
+          "examples": [
+            "The sequestrant helped prevent metal ion interference in the solution.",
+            "Food additives can act as sequestrants to preserve color."
+          ],
+          "collocations": ["food sequestrant", "metal sequestrant", "chelating sequestrant"],
+          "synonyms": ["chelating agent", "binding agent"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["chemistry", "food science", "pharmacology"]
+        }
+      ]
+    },
+    {
+      "term": "sequestrants",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "plural noun",
+          "definition": "multiple substances that sequester or bind to other compounds to inhibit reactions or bind ions",
+          "examples": [
+            "Examples of sequestrants include EDTA and Citric Acid as food preservatives.",
+            "Dietary supplements may include sequestrants to reduce mineral interactions."
+          ],
+          "collocations": ["sequestrants like EDTA", "food sequestrants", "metal sequestrants"],
+          "synonyms": ["chelating agents"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["chemistry", "food science", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "sequestrate",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to sequester; to take legal possession of property until a debt or claim is resolved",
+          "examples": [
+            "The court decided to sequestrate the debtor’s assets.",
+            "Authorities can sequestrate funds to secure repayment."
+          ],
+          "collocations": ["sequestrate assets", "sequestrate funds"],
+          "synonyms": ["seize", "confiscate", "confiscate and hold"],
+          "antonyms": ["release", "return"],
+          "register": "formal",
+          "domain": ["law", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "sequestrated",
+      "kind": "verb (past participle)",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "having been sequestrated; having assets or property taken into custody or isolation",
+          "examples": [
+            "The court-sequestrated funds were later released.",
+            "The seized assets were sequestrated for the duration of the case."
+          ],
+          "collocations": ["sequestrated assets", "sequestrated funds"],
+          "synonyms": ["seized", "confiscated"],
+          "antonyms": ["released", "restored"],
+          "register": "formal",
+          "domain": ["law", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "sequestrates",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of sequestrate; to sequester",
+          "examples": [
+            "The court sequestrates assets when disputes arise.",
+            "She sequestrates funds to prevent improper use."
+          ],
+          "collocations": ["sequestrates assets", "sequestrates funds"],
+          "synonyms": ["sequesters"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "sequestrating",
+      "kind": "verb (present participle)",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of sequestrating; the process of setting apart or confiscating",
+          "examples": [
+            "Authorities are sequestrating the disputed assets.",
+            "Sequestrating funds can delay payment."
+          ],
+          "collocations": ["sequestrating assets", "sequestrating funds"],
+          "synonyms": ["sequestering"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "sequestration",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of sequestration; the legal process of taking custody of assets or the state of being separated or isolated",
+          "examples": [
+            "Sequestration of assets occurred during the bankruptcy proceedings.",
+            "The sequestration of the animal’s habitat protected it from harm."
+          ],
+          "collocations": ["legal sequestration", "asset sequestration", "tax sequestration"],
+          "synonyms": ["confiscation", "isolation", "seizing"],
+          "antonyms": ["release", "return"],
+          "register": "formal",
+          "domain": ["law", "finance", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "sequestrations",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sequestration; instances of sequestration or measures of sequestration",
+          "examples": [
+            "Several sequestrations were reported in the case.",
+            "Tax sequestrations reduced available revenue."
+          ],
+          "collocations": ["sequestrations of funds", "asset sequestrations"],
+          "synonyms": ["confiscations", "seizures"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "sequestrator",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who sequestrates; an official who seizes or isolates assets or property",
+          "examples": [
+            "The sequestrator was cited for improper handling of funds.",
+            "Officials acted as sequestrators in the case."
+          ],
+          "collocations": ["court sequestrator", "asset sequestrator"],
+          "synonyms": ["seizer", "confiscator"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "government"]
+        }
+      ]
+    },
+    {
+      "term": "sequestrators",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "plural noun",
+          "definition": "multiple sequestrators; people or officials who sequester assets or property",
+          "examples": [
+            "The sequestrators placed holds on the funds.",
+            "Sequestrators must follow strict legal procedures."
+          ],
+          "collocations": ["sequestrators in the case"],
+          "synonyms": ["seizors", "confiscators"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "government"]
+        }
+      ]
+    },
+    {
+      "term": "sequestratrices",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "plural noun",
+          "definition": "feminine plural form of sequestratrix; female sequestrators",
+          "examples": [
+            "The sequestratrices oversaw the asset withdrawals.",
+            "Historically, sequestratrices played roles in property disputes."
+          ],
+          "collocations": ["female sequestratrices"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sequestratrix",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female sequestrator; a person who sequestrates assets or property",
+          "examples": [
+            "The sequestratrix filed the necessary documents.",
+            "As a sequestratrix, she managed the confiscated funds."
+          ],
+          "collocations": ["the sequestratrix"],
+          "synonyms": ["sequestrator (female)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "gendered titles"]
+        }
+      ]
+    },
+    {
+      "term": "sequestrectomy",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a surgical procedure to remove sequestra (dead bone fragments) from bone",
+          "examples": [
+            "The patient underwent sequestrectomy to treat osteomyelitis.",
+            "Postoperative imaging checked for complete sequestrum removal after sequestrectomy."
+          ],
+          "collocations": ["sequestrectomy procedure", "bone sequestrectomy"],
+          "synonyms": ["bone debridement"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "sequestrotomy",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a surgical operation to cut out sequestra from bone",
+          "examples": [
+            "Surgeons performed a sequestrotomy to remove infected bone.",
+            "Successful sequestrotomy reduced infection risk."
+          ],
+          "collocations": ["sequestrotomy procedure", "bone sequestrum removal"],
+          "synonyms": ["sequestrectomy", "bone debridement"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "sequestrum",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a piece of dead bone that has become separated from healthy bone due to infection or injury",
+          "examples": [
+            "X-rays showed a sequestrum in the jaw bone.",
+            "Treatment may involve removing the sequestrum to allow healing."
+          ],
+          "collocations": ["sequestrum formation", "bone sequestrum"],
+          "synonyms": ["dead bone fragment", "necrotic bone"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "orthopedics"]
+        }
+      ]
+    },
+    {
+      "term": "sequestrums",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sequestrum; multiple pieces of dead bone",
+          "examples": [
+            "The X-ray revealed several sequestrums in the affected area.",
+            "Treatment involved removing the sequestrums."
+          ],
+          "collocations": ["sequestrums in the bone"],
+          "synonyms": ["dead bone fragments"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "sequin",
+      "kind": "noun",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small shiny decoration sewn onto clothing, usually a flat disk with a hole in the middle",
+          "examples": [
+            "Her dress was covered with silver sequins.",
+            "The costume sparkled with colorful sequins."
+          ],
+          "collocations": ["sequin dress", "glittering sequins", "sequins on clothing"],
+          "synonyms": ["paillettes (alternative term)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "textile"]
+        }
+      ]
+    },
+    {
+      "term": "sequined",
+      "kind": "adjective",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "decorated with sequins",
+          "examples": [
+            "She wore a sequined top that shimmered in the light.",
+            "The sequined gown looked festive and bright."
+          ],
+          "collocations": ["sequined top", "sequined dress"],
+          "synonyms": ["sequillated (less common)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion"]
+        }
+      ]
+    },
+    {
+      "term": "sequining",
+      "kind": "verb",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of decorating with sequins",
+          "examples": [
+            "She is sequencing the fabric for the costume.",
+            "They are sequining the costumes for the show."
+          ],
+          "collocations": ["sequining fabric", "sequining costumes"],
+          "synonyms": ["sequinning (less common)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "sequinned",
+      "kind": "adjective",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "decorated with sequins",
+          "examples": [
+            "A sequinned dress glittered under the stage lights.",
+            "She wore a sequinned scarf to the party."
+          ],
+          "collocations": ["sequinned dress", "sequinned scarf"],
+          "synonyms": ["sequined"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion"]
+        }
+      ]
+    },
+    {
+      "term": "sequins",
+      "kind": "noun",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "tiny shining decorative pieces sewn onto clothing",
+          "examples": [
+            "The outfit was covered in blue sequins.",
+            "She added sequins to the costume for extra sparkle."
+          ],
+          "collocations": ["gold sequins", "silver sequins", "sequins on clothing"],
+          "synonyms": ["paillettes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "craft"]
+        }
+      ]
+    }
+  ]
+}

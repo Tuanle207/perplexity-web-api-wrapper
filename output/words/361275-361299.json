@@ -1,0 +1,614 @@
+{
+  "items": [
+    {
+      "term": "slick",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "smooth and glossy in appearance or texture",
+          "examples": [
+            "The car had a slick, polished finish.",
+            "She wore a slick, glossy hairstyle."
+          ],
+          "collocations": [
+            "slick surface",
+            "slick hair",
+            "slick design",
+            "slick finish",
+            "slick and professional"
+          ],
+          "synonyms": ["glossy", "sleek", "shiny"],
+          "antonyms": ["matte", "rough", "dull"],
+          "register": "formal",
+          "domain": ["general", "fashion", "design"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a person who is very smooth or stylish in manner; a clever or persuasive person",
+          "examples": [
+            "He's a real slick, always talking his way out of trouble.",
+            "The ad salesman is a smooth slick who knows how to close a deal."
+          ],
+          "collocations": [
+            "slick operator",
+            "slick talk",
+            "slick salesmanship"
+          ],
+          "synonyms": ["smooth-talker", "hustler", "conniver"],
+          "antonyms": ["boor", "clumsy person"],
+          "register": "informal",
+          "domain": ["general", "business", "media"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to make something smooth and glossy or to make slick by applying oil or polish",
+          "examples": [
+            "He slicked the bicycle chain to reduce friction.",
+            "She slicked back her hair with gel."
+          ],
+          "collocations": [
+            "slick back",
+            "slick down",
+            "slicked hair",
+            "slick finish"
+          ],
+          "synonyms": ["polish", "buff", "shine"],
+          "antonyms": ["roughen", "matte"],
+          "register": "neutral",
+          "domain": ["general", "fashion", "maintenance"]
+        }
+      ]
+    },
+    {
+      "term": "slicked",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having been made smooth and glossy or carefully arranged",
+          "examples": [
+            "His slicked hair gave him a neat appearance.",
+            "The floor looked slicked after the wax was applied."
+          ],
+          "collocations": [
+            "slicked hair",
+            "slicked back",
+            "slicked surface"
+          ],
+          "synonyms": ["polished", "glossed", "slick"],
+          "antonyms": ["rough", "unpolished"],
+          "register": "neutral",
+          "domain": ["general", "appearance"]
+        }
+      ]
+    },
+    {
+      "term": "slicken",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make or become slippery; to smooth by applying oil or moisture",
+          "examples": [
+            "Water slicken the rocks after rain.",
+            "The road slicken, causing drivers to slow down."
+          ],
+          "collocations": [
+            "slicken the floor",
+            "slicken rocks",
+            "slicken with oil"
+          ],
+          "synonyms": ["slippery", "slick", "oil"],
+          "antonyms": ["dry", "roughen"],
+          "register": "formal",
+          "domain": ["general", "environment", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "slickened",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "having been made smooth and glossy or slippery by applying oil or wax",
+          "examples": [
+            "The surface was slickened with a coat of wax.",
+            "The tires were slickened to improve grip."
+          ],
+          "collocations": [
+            "slickened surface",
+            "slickened by wax",
+            "slickened floor"
+          ],
+          "synonyms": ["polished", "glossed", "oiled"],
+          "antonyms": ["roughened", "dried"],
+          "register": "neutral",
+          "domain": ["general", "maintenance"]
+        }
+      ]
+    },
+    {
+      "term": "slickener",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance or device used to make something slick or glossy",
+          "examples": [
+            "Shine the old table with a commercial slickener.",
+            "The car polish acted as a slickener for the paint."
+          ],
+          "collocations": [
+            "polish slickener",
+            "gloss slickener"
+          ],
+          "synonyms": ["polish", "gloss", "shine agent"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "chemistry", "maintenance"]
+        }
+      ]
+    },
+    {
+      "term": "slickeners",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slickener; multiple substances used to make surfaces slick or glossy",
+          "examples": [
+            "They bought several slickeners for the showroom."
+          ],
+          "collocations": [
+            "various slickeners",
+            "include slickeners"
+          ],
+          "synonyms": ["polishes", "gloss agents"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "commerce"]
+        }
+      ]
+    },
+    {
+      "term": "slickening",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of making something slick or glossy; act of making more slippery",
+          "examples": [
+            "The slickening of the surface took several minutes."
+          ],
+          "collocations": [
+            "slickening process",
+            "start slickening"
+          ],
+          "synonyms": ["polishing", "glazing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "process"]
+        }
+      ]
+    },
+    {
+      "term": "slickens",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form not widely used; may refer to multiple items named slicken or brand-like term",
+          "examples": [
+            "The kit included several slickens."
+          ],
+          "collocations": [
+            "various slickens"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slickenside",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a particular face or side of a mineral or rock that has a smooth, glossy aspect",
+          "examples": [
+            "The slickenside of the rock revealed polished layers."
+          ],
+          "collocations": [
+            "slickenside surface",
+            "identify slickenside"
+          ],
+          "synonyms": ["sleek surface", "polished face"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science", " geology"]
+        }
+      ]
+    },
+    {
+      "term": "slickensided",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a slickenside; polished or smooth on one side",
+          "examples": [
+            "The slickensided rock shows clear tectonic features."
+          ],
+          "collocations": [
+            "slickensided rock",
+            "slickensided surface"
+          ],
+          "synonyms": ["polished-faced"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "slickensides",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slickenside; multiple polished faces on rocks or minerals",
+          "examples": [
+            "Geologists described several slickensides in the cliff."
+          ],
+          "collocations": [
+            "several slickensides",
+            "identify slickensides"
+          ],
+          "synonyms": ["polished faces"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "slicker",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a raincoat; a waterproof coat",
+          "examples": [
+            "He wore a slicker to stay dry in the rain.",
+            "The slicker kept the rain off during the walk."
+          ],
+          "collocations": [
+            "rain slicker",
+            "wear a slicker"
+          ],
+          "synonyms": ["raincoat", "mac"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "climate"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a person who is clever or persuasive; often used in a complimentary or teasing way",
+          "examples": [
+            "That slicker is a smooth talker."
+          ],
+          "collocations": [
+            "slicker attitude",
+            "smart slicker"
+          ],
+          "synonyms": ["smooth talker", "charmer"],
+          "antonyms": ["naive person"],
+          "register": "informal",
+          "domain": ["general", "personality"]
+        }
+      ]
+    },
+    {
+      "term": "slickered",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "wearing a slicker; dressed in a rainproof coat",
+          "examples": [
+            "She slickered up before heading out into the drizzle."
+          ],
+          "collocations": [
+            "slickered up",
+            "slickered coat"
+          ],
+          "synonyms": ["rainproofed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slickers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slicker; several raincoats or people described as slickers",
+          "examples": [
+            "The hikers wore different slickers to shield them from rain."
+          ],
+          "collocations": [
+            "rubber slickers",
+            "yellow slickers"
+          ],
+          "synonyms": ["raincoats"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slickery",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "state or quality of being slick; smoothness or shininess can suggest deceitful or cunning behavior",
+          "examples": [
+            "The slickery of his promises made the deal suspicious."
+          ],
+          "collocations": [
+            "air of slickery",
+            "noting slickery"
+          ],
+          "synonyms": ["slickness", "gloss"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "slickest",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative form of slick; most smooth, glossy, or cleverly executed",
+          "examples": [
+            "He wore the slickest suit at the party.",
+            "That was the slickest move in the negotiation."
+          ],
+          "collocations": [
+            "slickest move",
+            "slickest design"
+          ],
+          "synonyms": ["smoothest", "shiniest", "cleverest"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "fashion", "business"]
+        }
+      ]
+    },
+    {
+      "term": "slicking",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "act of making something smooth or glossy; applying polish or oil",
+          "examples": [
+            "The slicking of the floor reduced friction."
+          ],
+          "collocations": [
+            "floor slicking",
+            "hair slicking"
+          ],
+          "synonyms": ["polishing", "glossing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slickings",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slicking; acts of making things slick",
+          "examples": [
+            "Several slickings were performed during maintenance."
+          ],
+          "collocations": [
+            "different slickings"
+          ],
+          "synonyms": ["polishings"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slickly",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a smooth, clever, or polished way; with a lack of sincerity sometimes",
+          "examples": [
+            "She spoke slickly, concealing her true intentions.",
+            "The advertisement was slickly produced."
+          ],
+          "collocations": [
+            "talk slickly",
+            "slickly designed"
+          ],
+          "synonyms": ["smoothly", "cleverly"],
+          "antonyms": ["clumsily", "awkwardly"],
+          "register": "neutral",
+          "domain": ["general", "media"]
+        }
+      ]
+    },
+    {
+      "term": "slickness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being slick; smooth, shiny, or clever presentation",
+          "examples": [
+            "The slickness of the marketing pitch impressed the investors."
+          ],
+          "collocations": [
+            "surface slickness",
+            "slickness of presentation"
+          ],
+          "synonyms": ["smoothness", "gloss", "polish"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "slicknesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form; refers to multiple qualities of slickness",
+          "examples": [
+            "Various slicknesses were measured in the test."
+          ],
+          "collocations": [
+            "different slicknesses"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slickpaper",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of smooth, glossy paper; not a common everyday term",
+          "examples": [
+            "The pamphlet was printed on slickpaper for a premium look."
+          ],
+          "collocations": [
+            "premium slickpaper",
+            "slickpaper brochure"
+          ],
+          "synonyms": ["glossy paper"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "printing"]
+        }
+      ]
+    },
+    {
+      "term": "slickrock",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a smooth, rounded sandstone rock surface often found in arid landscapes",
+          "examples": [
+            "Hikers navigated the slickrock formation carefully."
+          ],
+          "collocations": [
+            "slickrock terrain",
+            "slickrock formation"
+          ],
+          "synonyms": ["slippery rock", "polished rock"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "slickrocks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slickrock",
+          "examples": [
+            "The canyon contains several slickrocks."
+          ],
+          "collocations": [
+            "several slickrocks"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "slicks",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of car or motorcycle part, or a slang term for tires; also a brand or device in some contexts",
+          "examples": [
+            "He bought a set of slicks for dry track days."
+          ],
+          "collocations": [
+            "drag slicks",
+            "racing slicks"
+          ],
+          "synonyms": ["tires", "tires with smooth tread"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "sports"]
+        }
+      ]
+    }
+  ]
+}

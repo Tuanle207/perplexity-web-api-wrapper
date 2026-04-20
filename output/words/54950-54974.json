@@ -1,0 +1,633 @@
+{
+  "items": [
+    {
+      "term": "calvin",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A given name; often associated with John Calvin, the 16th-century theologian, or as part of brand or character names.",
+          "examples": [
+            "Calvin is his grandfather's name.",
+            "Calvin is commemorated in local church history."
+          ],
+          "collocations": [
+            "Calvin family",
+            "St. Calvin's",
+            "Calvin appear in literature"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A surname or surname-derived given name; sometimes used to refer to John Calvin or Calvinism indirectly when context mentions theologian or doctrine.",
+          "examples": [
+            "The essays discuss Calvin and his influence.",
+            "Calvinism shaped many Reformed churches."
+          ],
+          "collocations": [
+            "John Calvin",
+            "Calvinist theologians",
+            "Calvinist traditions"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "calving",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "The act of a cow giving birth to a calf.",
+          "examples": [
+            "The farmer watched the cow calving in the barn.",
+            "Calving season begins in spring."
+          ],
+          "collocations": [
+            "calving season",
+            "calving interval",
+            "calving of a calf"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "animal_husbandry"]
+        },
+        {
+          "pos": "verb",
+          "definition": "The process by which a glacier or iceberg breaks off to form a new piece of ice.",
+          "examples": [
+            "Large chunks calving from the glacier created icebergs.",
+            "Calving accelerated due to warming temperatures."
+          ],
+          "collocations": [
+            "ice calving",
+            "glacier calving",
+            "calving front"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "calvinian",
+      "kind": "adjective",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to John Calvin, Calvinism, or the Reformed tradition.",
+          "examples": [
+            "Calvinian theology emphasizes predestination.",
+            "Calvinian doctrine influenced many churches."
+          ],
+          "collocations": [
+            "Calvinian theology",
+            "Calvinian tradition",
+            "Calvinian protestantism"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "theology"]
+        }
+      ]
+    },
+    {
+      "term": "calvinism",
+      "kind": "abbreviation",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The theological system attributed to John Calvin emphasizing God's sovereignty, predestination, and the depravity of humanity.",
+          "examples": [
+            "Calvinism teaches that salvation is determined by God.",
+            "Many Reformed churches adhere to Calvinism."
+          ],
+          "collocations": [
+            "Calvinism doctrine",
+            "embrace Calvinism",
+            "Calvinism and predestination"
+          ],
+          "synonyms": ["predestination theology"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["theology", "religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "calvinist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A follower of Calvinism; a person who believes in Calvinist doctrines.",
+          "examples": [
+            "She is a devout Calvinist.",
+            "Calvinists often belong to Reformed churches."
+          ],
+          "collocations": [
+            "Dutch Calvinist",
+            "Calvinist pastor",
+            "Calvinist community"
+          ],
+          "synonyms": ["Reformed believer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "society"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Relating to Calvinism or its adherents.",
+          "examples": [
+            "Calvinist theology",
+            "Calvinist principles"
+          ],
+          "collocations": [
+            "Calvinist doctrine",
+            "Calvinist ethics"
+          ],
+          "synonyms": ["Reformed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "calvinistic",
+      "kind": "adjective",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to Calvinism or its beliefs; characteristic of Calvinist doctrine.",
+          "examples": [
+            "Calvinistic teachings stress predestination.",
+            "Calvinistic churches are common in parts of Europe."
+          ],
+          "collocations": [
+            "Calvinistic beliefs",
+            "Calvinistic theology",
+            "Calvinistic approach"
+          ],
+          "synonyms": ["Reformed", "predestinarian"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "theology"]
+        }
+      ]
+    },
+    {
+      "term": "calvinistical",
+      "kind": "adjective",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to Calvinism; an archaic or literary variant of Calvinistic usage.",
+          "examples": [
+            "Calvinistical lectures drew large audiences.",
+            "Calvinistical leanings influenced the colony."
+          ],
+          "collocations": [
+            "calvinistical doctrine",
+            "calvinistical rigor"
+          ],
+          "synonyms": ["calvinistic"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "calvinistically",
+      "kind": "adverb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a Calvinistic manner; according to Calvinist beliefs.",
+          "examples": [
+            "The manifesto was calvinistically framed.",
+            "They argued calvinistically about predestination."
+          ],
+          "collocations": [
+            "calvinistically minded",
+            "calvinistically shaped policy"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "calvinists",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of Calvinist; multiple followers of Calvinism.",
+          "examples": [
+            "The calvinists met weekly for study.",
+            "Calvinists spread across Europe and America."
+          ],
+          "collocations": [
+            "many calvinists",
+            "calvinists church",
+            "calvinists community"
+          ],
+          "synonyms": ["Reformed believers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "society"]
+        }
+      ]
+    },
+    {
+      "term": "calvinize",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To influence or convert someone to Calvinism; to apply Calvinist ideas.",
+          "examples": [
+            "The preacher aimed to calvinize the congregation.",
+            "The movement attempted to calvinize policy."
+          ],
+          "collocations": [
+            "calvinize the church",
+            "calvinize public opinion"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "society"]
+        }
+      ]
+    },
+    {
+      "term": "calvish",
+      "kind": "adjective",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Characterized by stern religiosity or Calvinist strictness; puritanical in tone.",
+          "examples": [
+            "The calvish rules governed behavior closely.",
+            "Some viewed the policy as calvish and harsh."
+          ],
+          "collocations": [
+            "calvish behavior",
+            "calvish regulations"
+          ],
+          "synonyms": ["puritanical", "strict"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["society", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "calvities",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An archaic plural of calvitium; not commonly used in modern English; can appear in historical or anatomical contexts referring to a baldness patch or skull.",
+          "examples": [
+            "Ancient texts mentioned calvities as signs of age.",
+            "The term calvities appears in some old medical writings."
+          ],
+          "collocations": [
+            "calvities of the skull",
+            "resembling calvities"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "calvity",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A bald patch or cap on the skull; a baldness area.",
+          "examples": [
+            "The calvity left a noticeable shine.",
+            "He brushed his hair over the calvity."
+          ],
+          "collocations": [
+            "bald calvity",
+            "calvity patch"
+          ],
+          "synonyms": ["bald spot", "alopecia area"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "body"]
+        }
+      ]
+    },
+    {
+      "term": "calvous",
+      "kind": "adjective",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a bald head; bald or hairless.",
+          "examples": [
+            "The calvous man wore a hat.",
+            "A calvous dog often appears in the old tale."
+          ],
+          "collocations": [
+            "calvous head",
+            "calvous fashion"
+          ],
+          "synonyms": ["bald", "hairless"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["body", "descriptive"]
+        }
+      ]
+    },
+    {
+      "term": "calvus",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A head or a beard in Latin or botanical contexts; often used in historical or taxonomic names; also used to denote baldness in some technical terms.",
+          "examples": [
+            "Calvus appears in some botanical Latin names.",
+            "The term calvus is sometimes seen in anatomy texts."
+          ],
+          "collocations": [
+            "calvus head",
+            "calvus term"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "linguistics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "calx",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The root or lime component in minerals; in chemistry, a word used in names for certain calcareous minerals or compounds; also a historical spelling for lime or lime shell.",
+          "examples": [
+            "Calx of lime is used in cement.",
+            "The mineral specimen contains calx-rich areas."
+          ],
+          "collocations": [
+            "calx content",
+            "calx stone"
+          ],
+          "synonyms": ["lime", "calcium oxide (historic)"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "calxes",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of calx; mineral or chemical term referring to lime-bearing components.",
+          "examples": [
+            "Minerals with calxes were examined under the microscope.",
+            "Different calxes contribute to cement chemistry."
+          ],
+          "collocations": [
+            "calxes and oxides",
+            "calxes composition"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "calybite",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A mineral or fossil term; not widely used in modern dictionaries; may appear in specialized literature.",
+          "examples": [
+            "The specimen is identified as calybite.",
+            "Calybite composition is studied by mineralogists."
+          ],
+          "collocations": [
+            "calybite mineral",
+            "calybite specimen"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "specialized",
+          "domain": ["geology", "mineralogy"]
+        }
+      ]
+    },
+    {
+      "term": "calycanth",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A plant genus within the Calycanthaceae family; commonly known as sweetbay or Carolina allspice, with red-bloom varieties.",
+          "examples": [
+            "Calycanth flowers are fragrant in summer.",
+            "Gardeners plant calycanth for scent."
+          ],
+          "collocations": [
+            "calycanth flowers",
+            "calycanth species"
+          ],
+          "synonyms": ["sweetbay", "Carolina allspice"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["botany", "gardening"]
+        }
+      ]
+    },
+    {
+      "term": "calycanthaceae",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A family of flowering plants to which calycanth belongs.",
+          "examples": [
+            "Calycanthaceae includes several fragrant shrubs."
+          ],
+          "collocations": [
+            "Calycanthaceae family",
+            "Calycanthaceae species"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["botany", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "calycanthaceous",
+      "kind": "adjective",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to the Calycanthaceae family or its plants.",
+          "examples": [
+            "Calycanthaceous flowers perfume the garden.",
+            "A calycanthaceous shrub thrives in warm climates."
+          ],
+          "collocations": [
+            "calycanthaceous genus",
+            "calycanthaceous traits"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "calycanthemies",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The arrangement or structure of calyx and corona in flowers; a botanical term describing floral morphology.",
+          "examples": [
+            "The calycanthemies of the species are distinctive.",
+            "Botanists note variations in calycanthemies across varieties."
+          ],
+          "collocations": [
+            "calycanthemies patterns",
+            "flower calycanthemies"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["botany", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "calycanthemous",
+      "kind": "adjective",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a calyx (sepals) prominent in the flower; a botanical descriptor.",
+          "examples": [
+            "The calycanthemous bloom has a prominent calyx."
+          ],
+          "collocations": [
+            "calycanthemous flower",
+            "calycanthemous species"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "calycanthemy",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The study or description of the calyx and its appendages in botany; a specialized morphological term.",
+          "examples": [
+            "Calycanthemy explains sepal arrangement.",
+            "Her research focuses on calycanthemy in the genus."
+          ],
+          "collocations": [
+            "calycanthemy study",
+            "calycanthemy in plants"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["botany", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "calycanthin",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A chemical compound found in certain plants of the Calycanthaceae family.",
+          "examples": [
+            "Calycanthin is studied for its chemical properties."
+          ],
+          "collocations": [
+            "calycanthin compound",
+            "calycanthin extraction"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry", "botany"]
+        }
+      ]
+    }
+  ]
+}

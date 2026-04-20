@@ -1,0 +1,517 @@
+{
+  "items": [
+    {
+      "term": "catenate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to connect things in a series or chain; to link together end to end",
+          "examples": [
+            "The beads were catenated to form a long necklace.",
+            "The documentary catenates anecdotal stories to illustrate the pattern."
+          ],
+          "collocations": ["catenate strings", "catenate links", "catenate objects"],
+          "synonyms": ["link", "chain", "connect"],
+          "antonyms": ["detatch", "separate"],
+          "register": "formal",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "catenated",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "joined together in a chain; linked end to end",
+          "examples": [
+            "A catenated sequence of events led to the collapse.",
+            "The catenated beads formed a continuous strand."
+          ],
+          "collocations": ["catenated sequence", "catenated data", "catenated beads"],
+          "synonyms": ["linked", "connected", "measured"],
+          "antonyms": ["disconnected", "unglued"],
+          "register": "formal",
+          "domain": ["general", "science"]
+        }
+      ]
+    },
+    {
+      "term": "catenates",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of catenate; links things in a chain",
+          "examples": [
+            "The program catenates data from multiple sources.",
+            "She catenates the events to show a progress timeline."
+          ],
+          "collocations": ["catenates data", "catenates items", "catenates strings"],
+          "synonyms": ["links", "connects", "threads"],
+          "antonyms": ["separates", "detaches"],
+          "register": "formal",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "catenating",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of catenate; linking items in a chain",
+          "examples": [
+            "The algorithm is catenating URLs to form a sitemap.",
+            "He was catenating chapters to build a continuous narrative."
+          ],
+          "collocations": ["catenating items", "catenating strings", "catenating data"],
+          "synonyms": ["linking", "connecting", "binding"],
+          "antonyms": ["detaching", "unlinking"],
+          "register": "formal",
+          "domain": ["technology", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "catenation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of linking things in a chain; a sequence of linked items",
+          "examples": [
+            "The catenation of these events created a clear timeline.",
+            "In mathematics, catenation refers to joining strings end to end."
+          ],
+          "collocations": ["string catenation", "temporal catenation", "catenation operation"],
+          "synonyms": ["linking", "chain", "sequence"],
+          "antonyms": ["disconnection", "separation"],
+          "register": "formal",
+          "domain": ["general", "computing", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "catenations",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of catenation; multiple instances of linked sequences",
+          "examples": [
+            "The dataset includes several catenations of prefix and root forms.",
+            "Different catenations produce varying results in the algorithm."
+          ],
+          "collocations": ["multiple catenations", "catenations of strings"],
+          "synonyms": ["linkages", "chains"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["computing", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "catenative",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or forming a chain; used in linguistics to describe verbs that can be followed by another verb in a non-finite form",
+          "examples": [
+            "The language allows catenative verbs like want to eat.",
+            "Catenative sequences involve a chain of non-finite verbs."
+          ],
+          "collocations": ["catenative construction", "catenative verb"],
+          "synonyms": ["linking", "sequencing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "grammar", "general"]
+        }
+      ]
+    },
+    {
+      "term": "catenoid",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a surface formed by rotating a catenary around a central axis; a shape resembling a symmetric hourglass",
+          "examples": [
+            "The sculpture is shaped like a catenoid.",
+            "In geometry, a catenoid is the surface of revolution of a catenary."
+          ],
+          "collocations": ["mathematical catenoid", "catenoid surface"],
+          "synonyms": ["necked surface", "minimal surface"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["mathematics", "geometry"]
+        }
+      ]
+    },
+    {
+      "term": "catenoids",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of catenoid",
+          "examples": [
+            "The two catenoids shown are mirror images.",
+            "Researchers studied the properties of several catenoids."
+          ],
+          "collocations": ["multiple catenoids"],
+          "synonyms": ["necked surfaces"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["mathematics", "geometry"]
+        }
+      ]
+    },
+    {
+      "term": "catenulate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a small chain-like or linked structure; shaped like a chain",
+          "examples": [
+            "The leaf margins show a faint catenulate pattern.",
+            "A catenulate arrangement of cells was observed under the microscope."
+          ],
+          "collocations": ["catenulate pattern", "catenulate leaves"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "catepuce",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small wart-like outgrowth or a cat’s ear-like structure; rare usage",
+          "examples": [
+            "A catepuce appeared on the root of the plant.",
+            "Biologists noted a catepuce in the specimen."
+          ],
+          "collocations": ["catepuce formation"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "cater",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to provide food and drinks for an event; to satisfy a need or demand",
+          "examples": [
+            "The restaurant will cater the wedding reception.",
+            "The charity event was catered by a local caterer."
+          ],
+          "collocations": ["cater a party", "cater events", "cater to needs"],
+          "synonyms": ["supply", "provide", "accommodate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "food-service"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to provide what is wanted or needed by someone or something",
+          "examples": [
+            "The software caters to beginners and experts alike.",
+            "Policies cater to the interests of small businesses."
+          ],
+          "collocations": ["cater to", "cater for"],
+          "synonyms": ["suit", "fit", "serve"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "cateran",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of a Scottish border clan or group; historical term",
+          "examples": [
+            "The caterans were known as border raiders in the Middle Ages.",
+            "Historical novels sometimes feature caterans as protagonists."
+          ],
+          "collocations": ["cateran warriors", "cateran clans"],
+          "synonyms": ["raider", "warrior", "freebooter"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "caterans",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of cateran; border clan members",
+          "examples": [
+            "Medieval tales mention several caterans across the hills.",
+            "The caterans formed alliances for raids."
+          ],
+          "collocations": ["caterans of the border"],
+          "synonyms": ["raiders", "warriors"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "caterbrawl",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chaotic or noisy quarrel or fight about catering or food service; informal/folk usage",
+          "examples": [
+            "The kitchen erupted into a caterbrawl over the menu choices.",
+            "It started as a small debate and turned into a caterbrawl."
+          ],
+          "collocations": ["caterbrawl incident", "causing a caterbrawl"],
+          "synonyms": ["brawl", "quarrel", "fight"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "slang"]
+        }
+      ]
+    },
+    {
+      "term": "catercap",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a cap worn by a caterer or a metaphorical cap for service; rare term",
+          "examples": [
+            "The chef adjusted his catercap before the crowd.",
+            "In some regions, a catercap denotes headwear for servers."
+          ],
+          "collocations": ["catercap design"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food-service", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "catercorner",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "diagonally across from something; at the far corner",
+          "examples": [
+            "The shop is catercorner to the cafe.",
+            "They sat catercorner from us at the table."
+          ],
+          "collocations": ["catercorner from", "sit catercorner"],
+          "synonyms": ["diagonally", "across"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "catercornered",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "positioned diagonally opposite or across from something",
+          "examples": [
+            "They sat catercornered from each other.",
+            "A catercornered storefront catches the eye."
+          ],
+          "collocations": ["catercornered location"],
+          "synonyms": ["diagonal", "opposite"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "catercornerways",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a catercorner manner; diagonally or at an angle across",
+          "examples": [
+            "The house is catercornerways across the street.",
+            "They parked catercornerways from the entrance."
+          ],
+          "collocations": ["sit catercornerways", "stand catercornerways"],
+          "synonyms": ["diagonally", "across"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "catercousin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a cousin-in-law or a term of endearment for a close relative who is also a caterer; rare/colloquial",
+          "examples": [
+            "My catercousin helped plan the wedding catering.",
+            "A joke among the family: 'catercousin is on the guest list.'"
+          ],
+          "collocations": ["catercousin relation"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["family", "slang"]
+        }
+      ]
+    },
+    {
+      "term": "catered",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of cater; supplied food and drinks for an event",
+          "examples": [
+            "They catered the wedding last summer.",
+            "The party was catered by a local company."
+          ],
+          "collocations": ["catered event", "catered meal", "catered for guests"],
+          "synonyms": ["provided food", "served"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food-service", "events"]
+        }
+      ]
+    },
+    {
+      "term": "caterer",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or company that provides food and drinks for events",
+          "examples": [
+            "We hired a caterer for the wedding.",
+            "The caterer offered a vegetarian menu."
+          ],
+          "collocations": ["event caterer", "professional caterer", "catering company"],
+          "synonyms": ["cook", "food service", "catering company"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food-service", "business"]
+        }
+      ]
+    },
+    {
+      "term": "caterers",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of caterer",
+          "examples": [
+            "Several caterers bid for the company gala.",
+            "The caterers prepared a diverse menu."
+          ],
+          "collocations": ["different caterers", "caterers bidding"],
+          "synonyms": ["catering companies"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food-service", "business"]
+        }
+      ]
+    },
+    {
+      "term": "caterership",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the role or capacity of providing catering services; catering business",
+          "examples": [
+            "He joined a large caterership specializing in corporate events.",
+            "The caterership expanded to international venues."
+          ],
+          "collocations": ["caterership contracts", "caterership services"],
+          "synonyms": ["catering business", "food service"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "food-service"]
+        }
+      ]
+    },
+    {
+      "term": "cateress",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female caterer; archaic or rare feminine form",
+          "examples": [
+            "The old cookbook mentions a cateress.",
+            "Historically, a cateress might oversee a banquet."
+          ],
+          "collocations": ["female caterer", "cateress role"],
+          "synonyms": ["caterer (female)", "cook"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "food-service"]
+        }
+      ]
+    }
+  ]
+}

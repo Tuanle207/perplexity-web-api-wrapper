@@ -1,0 +1,531 @@
+{
+  "items": [
+    {
+      "term": "shooting",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of firing a weapon or the act of shooting a projectile",
+          "examples": [
+            "The police investigated the shooting downtown.",
+            "There were three shots fired in the shooting."
+          ],
+          "collocations": ["gun shooting", "mass shooting", "shooting incident", "police shooting", "shooting range"],
+          "synonyms": ["firing", "discharging"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "crime"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the act of taking photographs with a camera",
+          "examples": [
+            "They went on a shooting trip to the countryside.",
+            "Her latest movie features a dramatic hunting-shotting scene." 
+          ],
+          "collocations": ["film shooting", "photo shooting", "shooting schedule"],
+          "synonyms": ["photography session", "shooting session"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "arts"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to fire a weapon or to shoot at something",
+          "examples": [
+            "They began shooting into the air to celebrate.",
+            "The reporter witnessed someone shooting at the building."
+          ],
+          "collocations": ["shoot at", "shoot a gun", "shoot a target"],
+          "synonyms": ["fire", "discharge"],
+          "antonyms": ["aim", "miss"],
+          "register": "neutral",
+          "domain": ["general", "violence"]
+        }
+      ]
+    },
+    {
+      "term": "shootings",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shooting; multiple instances of firing a weapon or killing from gunfire",
+          "examples": [
+            "The city has seen several shootings this year.",
+            "There were three high-profile shootouts and shootings in the district."
+          ],
+          "collocations": ["fatal shootings", "gang shootings", "mass shootings"],
+          "synonyms": ["firing incidents", "gun violence events"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "shootist",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is skilled in shooting; a professional or proficient shooter",
+          "examples": [
+            "The famous shootist won the competition with precise shots.",
+            "In old Westerns, a shootist often faced off in duels."
+          ],
+          "collocations": ["deadly shootist", "expert shootist", "professional shootist"],
+          "synonyms": ["marksman", "sharpshooter", "gunslinger"],
+          "antonyms": ["novice", "amateur"],
+          "register": "neutral",
+          "domain": ["general", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "shootists",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shootist; multiple skilled shooters",
+          "examples": [
+            "The tournament attracted several renowned shootists.",
+            "Among the shootists, one stood out for his accuracy."
+          ],
+          "collocations": ["famous shootists", "competitive shootists"],
+          "synonyms": ["marksmen", "sharpshooters"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "sports"]
+        }
+      ]
+    },
+    {
+      "term": "shootman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rarely used or historical term; may refer to a person who shoots or a worker in certain shooting industries",
+          "examples": [
+            "The old ledger lists a shootman among the artisans.",
+            "In some regions, shootman referred to a person who operated a sports shooting gallery."
+          ],
+          "collocations": ["shootman role", "shootman position"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shootout",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a violent confrontation with gunfire between two or more parties; a competition to decide a winner often in sports or games",
+          "examples": [
+            "There was a dramatic shootout between rival gangs.",
+            "The teams had a penalty shootout to decide the match."
+          ],
+          "collocations": ["mass shootout", "shootout at dawn", "penalty shootout"],
+          "synonyms": ["gun battle", "firefight"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "crime", "sports"]
+        }
+      ]
+    },
+    {
+      "term": "shootouts",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shootout; multiple gunfights or deciding penalty situations in sports",
+          "examples": [
+            "The game ended in two dramatic shootouts.",
+            "Fans watched the shootouts with bated breath."
+          ],
+          "collocations": ["penalty shootouts", "gunfight shootouts"],
+          "synonyms": ["gun battles", "firefights"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "sport", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "shoots",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "new growth from a plant; young branches or stems",
+          "examples": [
+            "The shoots are starting to grow after the rain.",
+            "Cut back the shoots to encourage bushier growth."
+          ],
+          "collocations": ["new shoots", "shoot growth", "shoot tips"],
+          "synonyms": ["sprouts", "sprigs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general", "gardening"]
+        }
+      ]
+    },
+    {
+      "term": "shop",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a building or room where goods are sold or services are provided",
+          "examples": [
+            "I found a great little book shop downtown.",
+            "The shop sells fresh bread every morning."
+          ],
+          "collocations": ["craft shop", "gift shop", "book shop"],
+          "synonyms": ["store", "boutique"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "retail"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to visit shops to buy things",
+          "examples": [
+            "We went shopping to shop for a new sofa.",
+            "She shops for groceries on Saturdays."
+          ],
+          "collocations": ["go shopping", "shop online", "shop around"],
+          "synonyms": ["buy", "purchase"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "retail"]
+        }
+      ]
+    },
+    {
+      "term": "shopaholic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who loves shopping and buys a lot of goods, often excessively",
+          "examples": [
+            "She's a shopaholic who spends weekends at the mall.",
+            "Shopaholics often use loyalty apps to get discounts."
+          ],
+          "collocations": ["materials shopaholic", "recovering shopaholic"],
+          "synonyms": ["shopper", "consumer", "bargain hunter (informal)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "lifestyle"]
+        }
+      ]
+    },
+    {
+      "term": "shopaholics",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shopaholic; multiple people who love shopping",
+          "examples": [
+            "The conference brought together several shopaholics from across the country."
+          ],
+          "collocations": ["band of shopaholics"],
+          "synonyms": ["shopaholics" /* kept as is for plural */, "shopper", "consumer"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "lifestyle"]
+        }
+      ]
+    },
+    {
+      "term": "shopaholism",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the condition or mindset of being addicted to shopping",
+          "examples": [
+            "Shopaholism can lead to debt if not managed carefully.",
+            "Therapy helped him manage his shopaholism."
+          ],
+          "collocations": ["treatment for shopaholism", "severe shopaholism"],
+          "synonyms": ["compulsive shopping", "shopaholic tendency"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "shopaholisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shopaholism; multiple instances of compulsive shopping tendencies",
+          "examples": [
+            "Different shopaholisms can affect budgeting in various ways."
+          ],
+          "collocations": ["several shopaholisms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "shopboard",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a board used in a shop, possibly for pricing or display; uncommon term",
+          "examples": [
+            "The shopboard displayed today's specials."
+          ],
+          "collocations": ["price shopboard", "display shopboard"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shopboards",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shopboard",
+          "examples": [
+            "The shopboards were updated with new deals."
+          ],
+          "collocations": ["shopboards updated"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shopbook",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a ledger or record for shop transactions; a shop's book",
+          "examples": [
+            "She kept the daily sales in the shopbook."
+          ],
+          "collocations": ["sales shopbook", "inventory shopbook"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "shopbot",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a robot or automated software used to assist customers in a shop; or a term for a shopping bot",
+          "examples": [
+            "The shopbot helped customers find sizes online.",
+            "Shopbots compare prices across stores."
+          ],
+          "collocations": ["customer shopbot", "price-comparison shopbot"],
+          "synonyms": ["shopping bot", "retail bot"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "commerce"]
+        }
+      ]
+    },
+    {
+      "term": "shopbots",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shopbot; multiple shopping bots",
+          "examples": [
+            "Shopbots can monitor stock levels across retailers."
+          ],
+          "collocations": ["shopbots online"],
+          "synonyms": ["shopping bots"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "commerce"]
+        }
+      ]
+    },
+    {
+      "term": "shopboy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a male shop assistant or a boy who works in a shop",
+          "examples": [
+            "The shopboy helped me find the right size.",
+            "In old stories, a shopboy might greet customers at the door."
+          ],
+          "collocations": ["young shopboy", "shopboy uniform"],
+          "synonyms": ["shop assistant", "shop clerk (historical)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shopboys",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shopboy; multiple male shop assistants",
+          "examples": [
+            "The shopboys coordinated the window displays."
+          ],
+          "collocations": ["shopboys roster"],
+          "synonyms": ["shop assistants"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shopbreaker",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who breaks into shops or shop premises; a thief",
+          "examples": [
+            "The shopbreaker was caught on surveillance footage."
+          ],
+          "collocations": ["shopbreaker arrest", "shopbreaker activity"],
+          "synonyms": ["thief", "burglar"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["crime"]
+        }
+      ]
+    },
+    {
+      "term": "shopbreakers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shopbreaker; multiple thieves",
+          "examples": [
+            "Police investigated the series of shopbreakers in the district."
+          ],
+          "collocations": ["shopbreaker incidents"],
+          "synonyms": ["burglaries", "thieves"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["crime"]
+        }
+      ]
+    },
+    {
+      "term": "shopbreaking",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of breaking into shops or shop premises",
+          "examples": [
+            "Shopbreaking has increased in recent months."
+          ],
+          "collocations": ["shopbreaking incidents"],
+          "synonyms": ["burglary", "breaking and entering"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["crime"]
+        }
+      ]
+    },
+    {
+      "term": "shopbreakings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shopbreaking; multiple incidents of shop break-ins",
+          "examples": [
+            "Security cameras recorded several shopbreakings overnight."
+          ],
+          "collocations": ["shopbreaking incidents"],
+          "synonyms": ["burglary events"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["crime"]
+        }
+      ]
+    },
+    {
+      "term": "shope",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or obsolete form; possibly a misspelling or variant of 'shoppe' meaning a shop or store",
+          "examples": [
+            "They opened a quaint sho pe in the village."
+          ],
+          "collocations": ["old shope"],
+          "synonyms": ["shoppe"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

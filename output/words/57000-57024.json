@@ -1,0 +1,631 @@
+{
+  "items": [
+    {
+      "term": "capsids",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural of capsid)",
+          "definition": "the protein shell that encloses the genetic material of a virus",
+          "examples": [
+            "Viruses have a protective capsids made of protein subunits.",
+            "Researchers studied variations in capsids to understand viral stability."
+          ],
+          "collocations": [
+            "viral capsids",
+            "capsid protein",
+            "capsid shell",
+            "icosahedral capsid",
+            "capsid assembly"
+          ],
+          "synonyms": ["protein coat", "capsid shell"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "capsizable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be capped or covered; capable of receiving a cap or lid",
+          "examples": [
+            "The bottle is capsizable if you use a screw-on cap.",
+            "This container is designed to be capsizable for secure storage."
+          ],
+          "collocations": [
+            "capsizable bottle",
+            "capsizable container",
+            "not capsizable"
+          ],
+          "synonyms": ["capable of being capped", "receptive to a cap"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "capsizal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process or result of capsizing; overthrowing or turning over of a vessel",
+          "examples": [
+            "The capsizal of the boat occurred after a strong wave.",
+            "Emergency crews responded to the capsizal incident."
+          ],
+          "collocations": [
+            "capsizal event",
+            "risk of capsizal",
+            "capsizal accident"
+          ],
+          "synonyms": ["capsize event", "overturning"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "capsizals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "multiple capsizals; instances of overturning a vessel",
+          "examples": [
+            "The fleet reported several capsizals during the storm.",
+            "Casualties increased after repeated capsizals."
+          ],
+          "collocations": [
+            "capsizals during storms",
+            "avoid capsizals",
+            "record capsizals"
+          ],
+          "synonyms": ["overturnings", "capsizes (plural)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "capsize",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to turn a boat or ship upside down in the water",
+          "examples": [
+            "The boat unexpectedly capsized after the wave.",
+            "They watched as the canoe capsized near the shore."
+          ],
+          "collocations": [
+            "capsize (a) boat",
+            "capsize a canoe",
+            "capsize in rough seas"
+          ],
+          "synonyms": ["turn over", "overturn"],
+          "antonyms": ["stay upright", "remain afloat"],
+          "register": "neutral",
+          "domain": ["safety", "nature", "nautical"]
+        },
+        {
+          "pos": "verb (past tense)",
+          "definition": "the act of turning over in the past",
+          "examples": [
+            "The yacht capsized last night.",
+            "Several boats capsizeed during the storm."  // note: standard past tense is capsized; included for learner illustration
+          ],
+          "collocations": [
+            "capsized vessel",
+            "the boat was capsized"
+          ],
+          "synonyms": ["overturned", "upturned"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["safety", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "capsized",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having turned over in the water",
+          "examples": [
+            "A capsized boat drifted near the pier.",
+            "The capsized ship was righted by help from the harbor."
+          ],
+          "collocations": [
+            "capsized boat",
+            "capsized vessel",
+            "nearly capsized"
+          ],
+          "synonyms": ["overturned", "upturned"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["safety", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "capsizes",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb (third person singular)",
+          "definition": "turns a boat or ship upside down in the water",
+          "examples": [
+            "The small boat capsizes easily in rough seas.",
+            "Many vessels capsize when not properly balanced."
+          ],
+          "collocations": [
+            "capsizes regularly",
+            "capsize in storms"
+          ],
+          "synonyms": ["overturns", "upturns"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["safety", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "capsizing",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of turning over in the water; the process of capsizing",
+          "examples": [
+            "Capsizing is a major hazard for inexperienced sailors.",
+            "The event led to several rescues after capsizing."
+          ],
+          "collocations": [
+            "risk of capsizing",
+            "capsizing accident",
+            "avoid capsizing"
+          ],
+          "synonyms": ["overturning", "tipping over"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["safety", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "capsomer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a subunit of a virus capsid, made of proteins",
+          "examples": [
+            "Capsomers assemble to form the capsid.",
+            "Each capsomer contributes to the overall shape of the virus."
+          ],
+          "collocations": [
+            "capsomer protein",
+            "capsomer unit",
+            "capsomer arrangement"
+          ],
+          "synonyms": ["capsomere unit"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "capsomere",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a protein subunit that forms part of a capsid",
+          "examples": [
+            "Several capsomeres assemble into a complete capsid.",
+            "Capsomeres are arranged in a precise pattern."
+          ],
+          "collocations": [
+            "capsomere protein",
+            "capsomere unit",
+            "capsid-cap forming capsomeres"
+          ],
+          "synonyms": ["capsomer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "capsomeres",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple protein subunits that form the capsid",
+          "examples": [
+            "Capsomeres stack to create a protective shell.",
+            "The organization of capsomeres determines the capsid shape."
+          ],
+          "collocations": [
+            "capsomeres assemble",
+            "arrangement of capsomeres",
+            "capsomere proteins"
+          ],
+          "synonyms": ["capsomer units", "capsomeres (plural of capsomere)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "capstan",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a strong vertical drum on a ship used to wind rope or cable around for lifting or moving heavy weights",
+          "examples": [
+            "The sailors turned the capstan to raise the anchor.",
+            "A capstan supports tension on the mooring lines."
+          ],
+          "collocations": [
+            "capstan rope",
+            "wind the capstan",
+            "ship capstan"
+          ],
+          "synonyms": ["windlass (related device)", "drum crank"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nautical", "maritime"]
+        }
+      ]
+    },
+    {
+      "term": "capstans",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "multiple capstans; devices on ships used to wind ropes",
+          "examples": [
+            "The capstans groaned as the anchor was hauled.",
+            "Crew members checked the capstans before the operation."
+          ],
+          "collocations": [
+            "capstans on deck",
+            "repair capstans",
+            "operational capstans"
+          ],
+          "synonyms": ["windlasses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "capstone",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the top, usually ornamental stone on a column, structure, or the final and most important project of studies",
+          "examples": [
+            "The ancient column was crowned with a carved capstone.",
+            "Her master's thesis was the capstone of her degree."
+          ],
+          "collocations": [
+            "capstone project",
+            "capstone stone",
+            "capstone carving"
+          ],
+          "synonyms": ["summit", "finial", "apex"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["architecture", "education"]
+        }
+      ]
+    },
+    {
+      "term": "capstones",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "multiple capstones; the final or crowning achievements",
+          "examples": [
+            "The students presented their capstones to the panel.",
+            "Capstones of their careers often shape future opportunities."
+          ],
+          "collocations": [
+            "capstone projects",
+            "architectural capstones",
+            "capstones of careers"
+          ],
+          "synonyms": ["summits", "finials"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "career"]
+        }
+      ]
+    },
+    {
+      "term": "capsula",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small capsule or sac-like structure; plural may be capsulae",
+          "examples": [
+            "The medical capula contains the powdered medicine.",
+            "In biology, a capsula refers to a capsule-like body."
+          ],
+          "collocations": [
+            "capsula structure",
+            "capsula membrane"
+          ],
+          "synonyms": ["capsule-ish structure"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "capsulae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "plural of capsula; small capsule-like things",
+          "examples": [
+            "The capsules, or capsulae, release the drug slowly.",
+            "Capsulae are found in various microorganisms."
+          ],
+          "collocations": [
+            "capsulae in pharmacology",
+            "capsulae membrane"
+          ],
+          "synonyms": ["capsules (technical variant)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "pharmacology"]
+        }
+      ]
+    },
+    {
+      "term": "capsular",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a capsule or to a capsule-like covering",
+          "examples": [
+            "Capsular tissue surrounds the joint.",
+            "The capsule's capsular ligaments limit movement."
+          ],
+          "collocations": [
+            "capsular space",
+            "capsular tissue",
+            "capsular fibrosis"
+          ],
+          "synonyms": ["capsule-related"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["anatomy", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "capsulary",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "of or relating to a capsule; in a capsule-like form",
+          "examples": [
+            "Capsulary arrangement keeps the contents secure.",
+            "The plant's seeds are capsulary in a protective covering."
+          ],
+          "collocations": [
+            "capsulary cover",
+            "capsulary structure"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "botany", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "capsulate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to enclose contents in a capsule or to express the main idea briefly",
+          "examples": [
+            "Capsulate the main findings in a short abstract.",
+            "The drug is designed to capsulate the active ingredient."
+          ],
+          "collocations": [
+            "capsulate the idea",
+            "capsulate the drug",
+            "capsulate nutrients"
+          ],
+          "synonyms": ["enclose", "encapsulate", "summarize"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "pharmacology", "writing"]
+        }
+      ]
+    },
+    {
+      "term": "capsulated",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "enclosed in or as if in a capsule",
+          "examples": [
+            "Capsulated medicine is released slowly over time.",
+            "Capsulated data protects sensitive information."
+          ],
+          "collocations": [
+            "capsulated form",
+            "capsulated contents"
+          ],
+          "synonyms": ["encapsulated"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "information security"]
+        }
+      ]
+    },
+    {
+      "term": "capsulation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of enclosing in a capsule or the state of being encapsulated",
+          "examples": [
+            "Capsulation helps protect the active ingredient.",
+            "They discussed the capsulation of the patient data."
+          ],
+          "collocations": [
+            "capsulation process",
+            "capsulation of data"
+          ],
+          "synonyms": ["encapsulation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine", "data protection"]
+        }
+      ]
+    },
+    {
+      "term": "capsulations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "multiple encapsulations; acts of enclosing in capsules",
+          "examples": [
+            "Capsulations are used in drug delivery.",
+            "Capsulations vary by material and purpose."
+          ],
+          "collocations": [
+            "capsulations methods",
+            "capsulations in pharmacology"
+          ],
+          "synonyms": ["encapsulations"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "pharmacology"]
+        }
+      ]
+    },
+    {
+      "term": "capsule",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small case or container, often with a hard shell, used to hold substances",
+          "examples": [
+            "Take one capsule with water.",
+            "The capsule contains the medicine we need."
+          ],
+          "collocations": [
+            "gelatin capsule",
+            "capsule shell",
+            "capsule contents"
+          ],
+          "synonyms": ["pill", "softgel", "container"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "pharmacy", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the capsule of a plant or microorganism; a protective seed case",
+          "examples": [
+            "The plant produces a capsule that releases seeds.",
+            "Capsule of a microorganism may protect it."
+          ],
+          "collocations": [
+            "seed capsule",
+            "fruit capsule"
+          ],
+          "synonyms": ["seed capsule", "seed case"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["botany", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "capsule",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to enclose or encase in a capsule; to summarize briefly in a capsule",
+          "examples": [
+            "The report capsule the key findings in a few paragraphs.",
+            "Capsule the data into a single chart for the presentation."
+          ],
+          "collocations": [
+            "capsule data",
+            "capsule findings",
+            "capsule the narrative"
+          ],
+          "synonyms": ["encapsulate", "summarize"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["writing", "medicine", "science"]
+        }
+      ]
+    }
+  ]
+}

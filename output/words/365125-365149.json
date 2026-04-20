@@ -1,0 +1,572 @@
+{
+  "items": [
+    {
+      "term": "solvers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of solver: people or things that find answers or solutions to problems or puzzles",
+          "examples": [
+            "The solvers of the math contest finished the puzzles quickly.",
+            "These software solvers can find the roots of complex equations."
+          ],
+          "collocations": [
+            "math solvers",
+            "puzzle solvers",
+            "optimization solvers",
+            "linear solvers",
+            "solver app"
+          ],
+          "synonyms": ["problem-solver", "troubleshooter", "answerer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology", "education"]
+        }
+      ]
+    },
+    {
+      "term": "solves",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to find a solution to a problem or question; to resolve or answer something",
+          "examples": [
+            "She solves the riddle in under a minute.",
+            "This program solves complex equations automatically."
+          ],
+          "collocations": [
+            "solve a problem",
+            "solve an equation",
+            "solve the puzzle",
+            "solve the mystery"
+          ],
+          "synonyms": ["resolve", "work out", "answer"],
+          "antonyms": ["create problems", "complicate"],
+          "register": "neutral",
+          "domain": ["general", "education", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "solving",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb (gerund/present participle)",
+          "definition": "the act of finding a solution to a problem or puzzle",
+          "examples": [
+            "Solving puzzles is her hobby.",
+            "Solving the system of equations took longer than expected."
+          ],
+          "collocations": [
+            "solving problems",
+            "problem solving",
+            "solving equations",
+            "logical solving"
+          ],
+          "synonyms": ["solving", "resolution (less common)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "solvolyses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of solvolysis: chemical reactions where a solvent reacts with a solute to form new compounds",
+          "examples": [
+            "Solvolyses can occur in hydrolysis reactions.",
+            "Different solvents influence the rate of solvolyses."
+          ],
+          "collocations": [
+            "solvolyses of esters",
+            "solvolyses in organic chemistry",
+            "solvent-assisted solvolyses"
+          ],
+          "synonyms": ["solvolysis reactions"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "solvolysis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical reaction in which a solvent reacts with a solute to produce new compounds",
+          "examples": [
+            "Solvolysis is common in hydrolysis reactions.",
+            "The rate of solvolysis depends on the solvent used."
+          ],
+          "collocations": [
+            "solvolysis reaction",
+            "acid-catalyzed solvolysis",
+            "solvolysis rate"
+          ],
+          "synonyms": ["solvolysis reaction"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "solvolytic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to solvolysis; involving a solvent reacting with a solute",
+          "examples": [
+            "Solvolytic mechanisms involve solvent attack on a substrate.",
+            "Solvolytic cleavage occurs under acidic conditions."
+          ],
+          "collocations": [
+            "solvolytic reaction",
+            "solvolytic mechanism",
+            "solvolytic cleavage"
+          ],
+          "synonyms": ["solvolysis-related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "solvolyze",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to cause a solvolysis or to undergo solvolysis; to participate in a solvolytic reaction",
+          "examples": [
+            "The substrate will solvolyze in the chosen solvent.",
+            "Solvent A solvolyzes the ester group efficiently."
+          ],
+          "collocations": [
+            "solvolyze the substrate",
+            "solvolyze under heat"
+          ],
+          "synonyms": ["undergo solvolysis", "participate in solvolysis"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "solvolyzed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb (past tense)",
+          "definition": "having undergone solvolysis; having participated in a solvolytic reaction",
+          "examples": [
+            "The ester was solvolyzed in the sample solution.",
+            "Solvolyzed products were analyzed by NMR."
+          ],
+          "collocations": [
+            "solvolyzed product",
+            "solvolyzed by solvent"
+          ],
+          "synonyms": ["solvolyzed (past participle)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "solvolyzing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb (present participle)",
+          "definition": "the act of undergoing or causing solvolysis",
+          "examples": [
+            "Solvolyzing the compound requires a specific solvent.",
+            "They are solvolyzing the ester group under reflux."
+          ],
+          "collocations": [
+            "solvolyzing the substrate",
+            "solvolyzing conditions"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "solvsbergite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mineral name; a specific chemical compound with a given formula",
+          "examples": [
+            "Solvsbergite was identified in the ore sample."
+          ],
+          "collocations": [
+            "solvsbergite mineral",
+            "mineralogical specimen"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["geology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "solvus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a boundary in a phase diagram separating two solid phases in a system",
+          "examples": [
+            "The solvus line indicates where the solid solution changes phase."
+          ],
+          "collocations": [
+            "solvus line",
+            "solvus temperature",
+            "solvus curve"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "solyma",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a coined or rare term; likely a surname or proper noun; may not have a standard sense in general English",
+          "examples": [
+            "The manuscript mentions a place called Solyma."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "solymaean",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "likely a rare or coined term related to Solyma; not found as a standard English sense",
+          "examples": [
+            "The term solymaean appears in a fictional glossary."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fiction", "specialized"]
+        }
+      ]
+    },
+    {
+      "term": "som",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the part of the body; slang or abbreviation for somatic in some contexts; also used in psychology to refer to the body as a whole (less common)",
+          "examples": [
+            "He woke up with a sore som.",
+            "In some contexts, 'som' can shorthand 'somatic'."
+          ],
+          "collocations": [
+            "somatic symptoms",
+            "som body"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "psychology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "soma",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the cell body of a neuron; in biology a cell body; in literature a body or corpse (often in science fiction)",
+          "examples": [
+            "The neuron has a soma and dendrites.",
+            "In fiction, the protagonist’s soma was discovered near the river."
+          ],
+          "collocations": [
+            "neuron soma",
+            "cell soma",
+            "soma and dendrites"
+          ],
+          "synonyms": ["cell body"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "neuroscience", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "somacule",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small body or body-like structure; used in historical or mythological contexts",
+          "examples": [
+            "The somacule resembled a tiny figure."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["literature", "mythology", "anatomy (historical)"]
+        }
+      ]
+    },
+    {
+      "term": "somaesthesia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the subjective sense of the position and movement of one's own body; a medical term for body awareness",
+          "examples": [
+            "Somaesthesia can be affected after a nerve injury.",
+            "The patient reported altered somaesthesia in the left arm."
+          ],
+          "collocations": [
+            "proprioceptive somaesthesia",
+            "altered somaesthesia",
+            "somatic somaesthesia"
+          ],
+          "synonyms": ["somatic sense", "proprioception (related)"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "somaesthesias",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of somaesthesia; bodily sensations or feelings",
+          "examples": [
+            "Somaesthesias vary among individuals.",
+            "Philosophers discuss somaesthesias in relation to embodiment."
+          ],
+          "collocations": [
+            "bodily somaesthesias",
+            "sensory somaesthesias"
+          ],
+          "synonyms": ["bodily senses", "somatic sensations"],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["philosophy", "medicine", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "somaesthesis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the experience or study of the body as felt perception; the way the body is felt from inside",
+          "examples": [
+            "Somaesthesis is central to phenomenology of the body."
+          ],
+          "collocations": [
+            "somaesthesis and embodiment",
+            "bodily somaesthesis"
+          ],
+          "synonyms": ["somatic perception"],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["philosophy", "cognitive science"]
+        }
+      ]
+    },
+    {
+      "term": "somaesthesises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of somaesthesis; instances of somaesthesis",
+          "examples": [
+            "Various theories discuss somaesthesises in the literature."
+          ],
+          "collocations": [
+            "somaesthesises in theory",
+            "experiential somaesthesises"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["philosophy", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "somaesthetic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the sense of the body or bodily experience; aesthetically concerned with the body",
+          "examples": [
+            "Somaesthetic awareness can improve physical therapy outcomes."
+          ],
+          "collocations": [
+            "somaesthetic experience",
+            "somaesthetic training"
+          ],
+          "synonyms": ["bodily aesthetic"],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["philosophy", "medicine", "art"]
+        }
+      ]
+    },
+    {
+      "term": "somal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the soma or the body; in anatomy/neuroanatomy, somal refers to the cell body of a neuron",
+          "examples": [
+            "Somal features were observed under the microscope."
+          ],
+          "collocations": [
+            "somal region",
+            "somal body"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "somali",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun / adjective / proper_noun",
+          "definition": "a member of the Somali people; or the Somali language; also an adjective relating to Somalia or its people",
+          "examples": [
+            "She is Somali and speaks the Somali language.",
+            "Somali cuisine features spices from the Horn of Africa."
+          ],
+          "collocations": [
+            "Somali language",
+            "Somali people",
+            "Somali culture"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "culture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "somalia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a country in the Horn of Africa",
+          "examples": [
+            "Somalia has a long coastline on the Indian Ocean.",
+            "Diplomatic relations with Somalia continue to evolve."
+          ],
+          "collocations": [
+            "Somalia political situation",
+            "Somalia coast",
+            "Somalia government"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "politics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "somalo",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term found in certain mathematical or linguistic contexts; may appear in specialized notation or transliteration",
+          "examples": [
+            "The symbol somalo appears in the archaic algebra manuscript."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["mathematics", "linguistics"]
+        }
+      ]
+    }
+  ]
+}

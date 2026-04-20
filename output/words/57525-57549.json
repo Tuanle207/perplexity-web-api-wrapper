@@ -1,0 +1,641 @@
+{
+  "items": [
+    {
+      "term": "carboxyhemoglobin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A stable compound formed when carbon monoxide binds to hemoglobin in red blood cells, reducing the blood's ability to carry oxygen.",
+          "examples": [
+            "Exposure to exhaust fumes can increase carboxyhemoglobin levels.",
+            "High carboxyhemoglobin can lead to hypoxia if not treated."
+          ],
+          "collocations": ["carboxyhemoglobin level", "increase/decrease carboxyhemoglobin", "form carboxyhemoglobin"],
+          "synonyms": ["HbCO", "carbonylhemoglobin"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "carboxyl",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A chemical group consisting of a carbon atom double-bonded to oxygen and single-bonded to a hydroxyl group (–COOH); the functional group found in carboxylic acids.",
+          "examples": [
+            "The carboxyl group is a key feature of carboxylic acids.",
+            "A molecule containing a carboxyl group can lose a proton to become a carboxylate."
+          ],
+          "collocations": ["carboxyl group", "carboxyl terminus", "carboxylate formation"],
+          "synonyms": ["carboxylate group (informal/alternate phrasing)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "carboxylase",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An enzyme that catalyzes the carboxylation or decarboxylation of a substrate.",
+          "examples": [
+            "The enzyme carboxylase adds a carboxyl group to the substrate.",
+            "Some carboxylases are involved in photosynthesis pathways."
+          ],
+          "collocations": ["carbon fixation carboxylase", "carboxylase enzyme activity", "mitochondrial carboxylase"],
+          "synonyms": ["carboxylating enzyme"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "biochemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "carboxylases",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of carboxylase; multiple enzymes that catalyze carboxylation or decarboxylation reactions.",
+          "examples": [
+            "Different organisms use various carboxylases for metabolic steps.",
+            "Researchers studied several carboxylases in the pathway."
+          ],
+          "collocations": ["various carboxylases", "carboxylase families", "expression of carboxylases"],
+          "synonyms": ["carboxylating enzymes (pl.)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "biochemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "carboxylate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A negatively charged ion formed when a carboxyl group loses a hydrogen ion; a salt or ester of carboxylic acids.",
+          "examples": [
+            "Sodium carboxylate salts are common in soaps.",
+            "The reaction forms a carboxylate ion in solution."
+          ],
+          "collocations": ["carboxylate ion", "carboxylate salt", "sodium carboxylate"],
+          "synonyms": ["carboxylate ion", "RCOO− group"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "chemistry education", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "carboxylated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a carboxyl group attached to a molecule or having been treated to introduce carboxyl groups.",
+          "examples": [
+            "The protein was carboxylated to increase its reactivity.",
+            "Carboxylated cellulose improves solubility."
+          ],
+          "collocations": ["carboxylated compound", "carboxylated cellulose", "carboxylated molecules"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "biochemistry", "materials science"]
+        }
+      ]
+    },
+    {
+      "term": "carboxylates",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of carboxylate; negatively charged carboxyl groups in multiple molecules or salts.",
+          "examples": [
+            "The solution contained several carboxylates from the reaction.",
+            "Different metal salts form carboxylates with varying properties."
+          ],
+          "collocations": ["metal carboxylates", "alkali carboxylates", "dicarboxylates"],
+          "synonyms": ["carboxylate salts (pl.)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "industry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "carboxylating",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Introducing a carboxyl group into a molecule; a chemical reaction process.",
+          "examples": [
+            "The researchers are carboxylating the molecule to study changes.",
+            "Carboxylating agents help modify polymers."
+          ],
+          "collocations": ["carboxylating agent", "carboxylating reaction", "carboxylating step"],
+          "synonyms": ["carboxylate addition (process)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "biochemistry", "materials science"]
+        }
+      ]
+    },
+    {
+      "term": "carboxylation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The chemical process of adding a carboxyl group to a molecule or the removal of a carboxyl group in a decarboxylation reaction.",
+          "examples": [
+            "Carboxylation is a key step in some biosynthetic pathways.",
+            "Decarboxylation is the opposite of carboxylation."
+          ],
+          "collocations": ["carboxylation reaction", "biochemical carboxylation", "catalyzed carboxylation"],
+          "synonyms": ["carboxyl group addition"],
+          "antonyms": ["decarboxylation"],
+          "register": "formal",
+          "domain": ["chemistry", "biochemistry", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "carboxylations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of carboxylation; multiple instances of adding carboxyl groups to different substrates.",
+          "examples": [
+            "Several carboxylations were performed in the study.",
+            "Enzymatic carboxylations occur under specific conditions."
+          ],
+          "collocations": ["multiple carboxylations", "enzymatic carboxylations", "sequence carboxylations"],
+          "synonyms": ["carboxylation events"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "biochemistry", "research"]
+        }
+      ]
+    },
+    {
+      "term": "carboxylic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or containing a carboxyl group or carboxylic acids.",
+          "examples": [
+            "Carboxylic acids are common in biology.",
+            "The compound has a strong carboxylic acid character."
+          ],
+          "collocations": ["carboxylic acid", "carboxylic group", "carboxylic reaction"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "carboxyls",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of carboxyl; multiple carboxyl groups or sites in molecules.",
+          "examples": [
+            "The molecule contains several carboxyls.",
+            "Reactions at different carboxyls can occur simultaneously."
+          ],
+          "collocations": ["carboxyl group sites", "terminal carboxyls", "carboxyls in polymers"],
+          "synonyms": ["carboxyl groups (pl.)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "biochemistry", "polymer science"]
+        }
+      ]
+    },
+    {
+      "term": "carboxymethylcellulose",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A thick, water-soluble polymer derived from cellulose; used as a thickener or stabilizer in foods and pharmaceuticals.",
+          "examples": [
+            "Carboxymethylcellulose is used as a thickener in ice cream.",
+            "It helps improve texture in many products."
+          ],
+          "collocations": ["carboxymethylcellulose (CMC)", "CMC thickener", "water-soluble polymer"],
+          "synonyms": ["CMC"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "food science", "pharmacy"]
+        }
+      ]
+    },
+    {
+      "term": "carboxymethylcelluloses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of carboxymethylcellulose; multiple forms of the polymer used as thickeners or stabilizers.",
+          "examples": [
+            "The formulation includes several carboxymethylcelluloses to adjust viscosity.",
+            "Different grades of CMCs affect texture differently."
+          ],
+          "collocations": ["various carboxymethylcelluloses", "CMC grades", "carboxymethylcellulose polymers"],
+          "synonyms": ["carboxymethylcellulose polymers (pl.)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "food science", "pharmacy"]
+        }
+      ]
+    },
+    {
+      "term": "carboxypeptidase",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An enzyme that cleaves amino acids from the carboxyl end of proteins or peptides.",
+          "examples": [
+            "Carboxypeptidase removes amino acids from the C-terminus of peptides.",
+            "Some carboxypeptidases are used in protein processing."
+          ],
+          "collocations": ["carboxypeptidase enzyme", "C-terminal carboxypeptidase", "peptide carboxypeptidase"],
+          "synonyms": ["C-terminal peptidase"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biochemistry", "biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "carboxypeptidases",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of carboxypeptidase; multiple enzymes that cleave amino acids from the carboxyl end.",
+          "examples": [
+            "The study examined several carboxypeptidases and their specificity.",
+            "Different tissues express different carboxypeptidases."
+          ],
+          "collocations": ["various carboxypeptidases", "carboxypeptidase family", "active carboxypeptidases"],
+          "synonyms": ["C-terminal peptidases (pl.)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biochemistry", "biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "carboy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A large glass bottle used for storing liquids or chemicals, often with a narrow neck and a stopper.",
+          "examples": [
+            "The chemist filled a carboy with distilled water.",
+            "The laboratory stored reagents in several carboys."
+          ],
+          "collocations": ["glass carboy", "wine carboy", "storage carboy"],
+          "synonyms": ["drench jug (historic)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "laboratory", "food and beverage"]
+        }
+      ]
+    },
+    {
+      "term": "carboyed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of carboy; to store or transport in a carboy.",
+          "examples": [
+            "The chemical was carboyed to the storage room.",
+            "They carboyed several solutions for transport."
+          ],
+          "collocations": ["carboyed solution", "carboyed contents"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "logistics"]
+        }
+      ]
+    },
+    {
+      "term": "carboys",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of carboy; multiple large glass bottles for liquids.",
+          "examples": [
+            "The lab has several carboys of ethanol.",
+            "Store carboys upright to prevent spills."
+          ],
+          "collocations": ["glass carboys", "empty carboys", "carboy storage"],
+          "synonyms": ["glass bottles (pl.)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "laboratory", "storage"]
+        }
+      ]
+    },
+    {
+      "term": "carbro",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A term that may refer to a malapropism or a fictional/rare word; not a standard English lexical item.",
+          "examples": [
+            "Carbro is not commonly used in standard technical texts.",
+            "If you see carbro in a text, verify its meaning from context."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "lexicography"]
+        }
+      ]
+    },
+    {
+      "term": "carbromal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A chemical compound; a solvent or precursor in some industrial processes.",
+          "examples": [
+            "Carbromal is rarely encountered outside specialist contexts."
+          ],
+          "collocations": ["carbromal solvent", "carbromal chemical"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "carbs",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Short for carbohydrates, a type of nutrient providing energy.",
+          "examples": [
+            "Carbs give you energy for exercise.",
+            "Many people watch their carbs to stay fit."
+          ],
+          "collocations": ["simple carbs", "complex carbs", "high-carb diet"],
+          "synonyms": ["carbohydrates"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food", "health", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "carbuilder",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who builds or modifies cars; a custom car builder.",
+          "examples": [
+            "The carbuilder crafted a custom chassis.",
+            "He works as a carbuilder arranging performance parts."
+          ],
+          "collocations": ["professional carbuilder", "carbuilder workshop"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["cars", "manufacturing", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "carbuncle",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A large, inflamed boil on the skin; a severe stye or painful swelling.",
+          "examples": [
+            "The patient developed a painful carbuncle on the neck.",
+            "Carbuncle is a medical term for a cluster of boils."
+          ],
+          "collocations": ["skin carbuncle", "carbuncle infection"],
+          "synonyms": ["boil", "stye (historical)"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "carbuncled",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a carbuncle or carbuncles; described as afflicted with such lesions.",
+          "examples": [
+            "The carbuncled patient required antibiotics.",
+            "A carbuncled area needed careful dressing."
+          ],
+          "collocations": ["carbuncled skin", "carbuncled area"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "carboys",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of carboy; large glass containers for liquids.",
+          "examples": [
+            "They stored reagents in several carboys.",
+            "Carboys are often used in chemical labs."
+          ],
+          "collocations": ["glass carboys", "backup carboys"],
+          "synonyms": ["carboy (pl.)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "laboratory", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "carbro",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A nonstandard or obscure term; not a common dictionary entry.",
+          "examples": [
+            "Carbro is not widely used; verify context."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "lexicography"]
+        }
+      ]
+    },
+    {
+      "term": "carbromal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A chemical compound used as a solvent or intermediate in chemical synthesis.",
+          "examples": [
+            "Laboratories may handle carbromal under strict safety protocols."
+          ],
+          "collocations": ["carbromal solvent", "stock carbromal"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "carbs",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Short for carbohydrates; a nutrient group in food.",
+          "examples": [
+            "Avoid eating too many carbs before the workout.",
+            "Complex carbs supply steady energy."
+          ],
+          "collocations": ["simple carbs", "complex carbs", "low-carb"],
+          "synonyms": ["carbohydrates"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food", "health", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "carbuilder",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who builds or modifies cars; a custom car builder.",
+          "examples": [
+            "The carbuilder crafted a custom chassis.",
+            "He works as a carbuilder arranging performance parts."
+          ],
+          "collocations": ["professional carbuilder", "carbuilder workshop"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["cars", "manufacturing", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "carbuncle",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A large, inflamed boil on the skin; a severe stye or painful swelling.",
+          "examples": [
+            "The patient developed a painful carbuncle on the neck.",
+            "Carbuncle is a medical term for a cluster of boils."
+          ],
+          "collocations": ["skin carbuncle", "carbuncle infection"],
+          "synonyms": ["boil", "stye (historical)"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "carbuncled",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a carbuncle or carbuncles; described as afflicted with such lesions.",
+          "examples": [
+            "The carbuncled patient required antibiotics.",
+            "A carbuncled area needed careful dressing."
+          ],
+          "collocations": ["carbuncled skin", "carbuncled area"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    }
+  ]
+}

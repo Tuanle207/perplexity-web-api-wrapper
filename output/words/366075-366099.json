@@ -1,0 +1,598 @@
+{
+  "items": [
+    {
+      "term": "sorta",
+      "kind": "word",
+      "cefrLevel": "informal",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "approximately; roughly; not exactly the thing described",
+          "examples": [
+            "We arrived sorta late because of the traffic.",
+            "It's sorta like a mix between tea and juice."
+          ],
+          "collocations": [
+            "sorta like",
+            "sorta means",
+            "sorta feel"
+          ],
+          "synonyms": ["approximately", "kind of", "somewhat"],
+          "antonyms": ["exactly", "precisely"],
+          "register": "informal",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sortable",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be arranged or ordered in a particular sequence",
+          "examples": [
+            "The data is sortable by date.",
+            "She created a sortable table in the spreadsheet."
+          ],
+          "collocations": [
+            "sortable data",
+            "sortable table",
+            "sortable list"
+          ],
+          "synonyms": ["orderable", "arrangeable"],
+          "antonyms": ["unsortable", "unorderable"],
+          "register": "neutral",
+          "domain": ["general", "technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "sortably",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that can be sorted or arranged in a process",
+          "examples": [
+            "The items can be sorted sortably by size.",
+            "Data can be organized sortably for analysis."
+          ],
+          "collocations": [
+            "sortably by",
+            "sortably arranged"
+          ],
+          "synonyms": ["orderably"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sortal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term in philosophy: a word that fixes the identity of a kind of thing (a sortal) such as 'dog' or 'human' that determines counting, persistence, and identity over time",
+          "examples": [
+            "In philosophy, 'animal' is a sortal.",
+            "Sortals help determine whether two things are the same object over time."
+          ],
+          "collocations": [
+            "sortal concept",
+            "sortal term",
+            "sortal predicate"
+          ],
+          "synonyms": ["kind term", "identityTerm"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "sortals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sortal; philosophical category terms that indicate counting and identity",
+          "examples": [
+            "Sortals are used to talk about persistence in time.",
+            "The debate contrasted sortals with non-sortal predicates."
+          ],
+          "collocations": [
+            "sortals in ontology",
+            "the sortals of objects"
+          ],
+          "synonyms": ["kind terms", "identity terms"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "sortance",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a linguistic or archaic term referring to a kind of sorting or arrangement; uncommon",
+          "examples": [
+            "The manuscript discusses sortance in archival practice."
+          ],
+          "collocations": [
+            "sortance method",
+            "sortance in records"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["academic", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sortances",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sortance; rare term referring to instances of sorting",
+          "examples": [
+            "Several sortances were noted in the dataset."
+          ],
+          "collocations": [
+            "sortances in the dataset"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "sortation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of sorting items into categories",
+          "examples": [
+            "Sortation by size helps in packing.",
+            "The sortation system improved warehouse efficiency."
+          ],
+          "collocations": [
+            "automatic sortation",
+            "sortation process",
+            "sorting and sortation"
+          ],
+          "synonyms": ["sorting", "classification"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "technology", "logistics"]
+        }
+      ]
+    },
+    {
+      "term": "sortations",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sortation; multiple sorting processes or systems",
+          "examples": [
+            "The facility uses several sortations to route packages."
+          ],
+          "collocations": [
+            "multiple sortations",
+            "sortations network"
+          ],
+          "synonyms": ["sorting systems"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "sorted",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "in a desired or expected state; arranged or organized",
+          "examples": [
+            "All files are sorted and labeled.",
+            "The sorted list makes it easy to find names."
+          ],
+          "collocations": [
+            "sorted list",
+            "sorted order",
+            "sorted alphabetically"
+          ],
+          "synonyms": ["arranged", "organized", "ordered"],
+          "antonyms": ["unsorted", "disorganized"],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        },
+        {
+          "pos": "verb",
+          "definition": "past tense of sort; to arrange or categorize",
+          "examples": [
+            "She sorted the mail by recipient.",
+            "They sorted the data into groups."
+          ],
+          "collocations": [
+            "sorted by",
+            "sorted into",
+            "sorted out"
+          ],
+          "synonyms": ["categorized", "arranged", "organized"],
+          "antonyms": ["mixed", "disorganized"],
+          "register": "neutral",
+          "domain": ["general", "business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "sorter",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or device that sorts things into groups",
+          "examples": [
+            "The mail sorter directs letters to the correct bins.",
+            "We bought a sorter to speed up packaging."
+          ],
+          "collocations": [
+            "letter sorter",
+            "automatic sorter",
+            "sorting sorter"
+          ],
+          "synonyms": ["arranger", "classifier", "separator"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "sorters",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sorter; devices or people that sort",
+          "examples": [
+            "Various sorters are used in warehouses."
+          ],
+          "collocations": [
+            "package sorters",
+            "mail sorters"
+          ],
+          "synonyms": ["classifiers", "separators"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "sortes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of 'sorte' or archaic terms; in Latin, means 'oracles' or 'divinations' (historical usage) or as a surname placeholder",
+          "examples": [
+            "In classical texts, sortes referred to divinatory oracles."
+          ],
+          "collocations": [
+            " sortes at augury"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["classic", "history"]
+        },
+        {
+          "pos": "noun",
+          "definition": "rarely used plural form connected to sorting terms in some contexts",
+          "examples": [
+            "The note listed various sortes of data."
+          ],
+          "collocations": [
+            " sortes of data"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "sortiary",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rarely used term; possibly a small enclosure or garden area for sorting plants; historical or literary usage",
+          "examples": [
+            "The gardeners tended the sortiary with care."
+          ],
+          "collocations": [
+            "sortiary garden"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sortie",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small military attack or raid; a sudden attack",
+          "examples": [
+            "The troops conducted a brief sortie at dawn.",
+            "The defense repelled the enemy's sortie."
+          ],
+          "collocations": [
+            "air sortie",
+            "combat sortie",
+            "raid sortie"
+          ],
+          "synonyms": ["raid", "skirmish", "foray"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["military", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sortied",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of sortie; to make a sortie",
+          "examples": [
+            "The unit sortied at first light."
+          ],
+          "collocations": [
+            "sortied against",
+            "sortied from",
+            "have sortied"
+          ],
+          "synonyms": ["raided", "forayed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "sortieing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of sortie; performing a sortie",
+          "examples": [
+            "The squadron is sortieing again at dusk."
+          ],
+          "collocations": [
+            "sortieing missions",
+            "sortieing from base"
+          ],
+          "synonyms": ["raiding", "foraying"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "sorties",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sortie; multiple attacks or raids",
+          "examples": [
+            "The air force conducted several sorties today."
+          ],
+          "collocations": [
+            "combat sorties",
+            "air sorties",
+            "sortie missions"
+          ],
+          "synonyms": ["raids", "forays"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["military", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sortilege",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the practice of divination or magical prediction; a spell or charm",
+          "examples": [
+            "The wizard spoke of sortilege as a form of prophecy."
+          ],
+          "collocations": [
+            "sortilege ritual",
+            "sortilege spell"
+          ],
+          "synonyms": ["divination", "fortunetelling"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fantasy", "occult"]
+        }
+      ]
+    },
+    {
+      "term": "sortileger",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one who practices sortilege; a diviner or fortune-teller",
+          "examples": [
+            "The sortileger reads the signs to guide decisions."
+          ],
+          "collocations": [
+            "arcane sortileger",
+            "sortileger's circle"
+          ],
+          "synonyms": ["diviner", "fortuneteller"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fantasy", "occult"]
+        }
+      ]
+    },
+    {
+      "term": "sortilegers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sortileger; multiple practitioners of sortilege",
+          "examples": [
+            "The sortilegers gathered for a council."
+          ],
+          "collocations": [
+            "group of sortilegers"
+          ],
+          "synonyms": ["diviners"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fantasy", "occult"]
+        }
+      ]
+    },
+    {
+      "term": "sortileges",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sortilege (the magical effects or powers of a sortilege)",
+          "examples": [
+            "The sortileges of the talisman were strong."
+          ],
+          "collocations": [
+            "potent sortileges",
+            "sortilege powers"
+          ],
+          "synonyms": ["powers", "magical effects"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fantasy", "occult"]
+        }
+      ]
+    },
+    {
+      "term": "sortilegi",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sortilegi; terms for magical inscriptions or charms (rare)",
+          "examples": [
+            "Ancient sortilegi were inscribed on tablets."
+          ],
+          "collocations": [
+            "ancient sortilegi"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fantasy", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sortilegic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to sortilege; of or like magical divination",
+          "examples": [
+            "The sortilegic aura surrounded the relic."
+          ],
+          "collocations": [
+            "sortilegic power",
+            "sortilegic ritual"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fantasy", "occult"]
+        }
+      ]
+    },
+    {
+      "term": "sortilegies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sortilege; acts of divination or magical predictions",
+          "examples": [
+            "The sortilegies were consulted before the quest."
+          ],
+          "collocations": [
+            "sortilege practices",
+            "ancient sortilegies"
+          ],
+          "synonyms": ["divinations"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fantasy", "occult"]
+        }
+      ]
+    }
+  ]
+}

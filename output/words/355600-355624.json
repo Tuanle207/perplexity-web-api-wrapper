@@ -1,0 +1,626 @@
+{
+  "items": [
+    {
+      "term": "shiptimes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shiptime; historically refers to periods or durations related to maritime navigation or shipbuilding, but this term is very rare and not common in modern English.",
+          "examples": [
+            "Historical records mention several shiptimes in the era of wooden vessels.",
+            "The glossary notes shiptimes as a measurement used by sailors of old."
+          ],
+          "collocations": [
+            "shiptime records",
+            "navigation shiptime",
+            "historical shiptime"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general", "history", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "shipward",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "toward the direction of a ship; in the general vicinity of a ship's movement.",
+          "examples": [
+            "The boat tilted shipward as the waves rose.",
+            "They maneuvered shipward to avoid the reef."
+          ],
+          "collocations": [
+            "tilt shipward",
+            "move shipward",
+            "facing shipward"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "shipwards",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "toward the direction of a ship; in the area where ships are located or headed.",
+          "examples": [
+            "The crowd leaned shipwards to get a view of the harbor.",
+            "They pointed shipwards to indicate the fleet's location."
+          ],
+          "collocations": [
+            "lean shipwards",
+            "look shipwards",
+            "toward shipwards"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "shipway",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a path or route for ships to travel; a process or method for building or repairing ships.",
+          "examples": [
+            "The shipway along the coast was used to launch vessels.",
+            "During repairs, the shipway was carefully inspected."
+          ],
+          "collocations": [
+            "launch shipway",
+            "shipway construction",
+            "maintain shipway"
+          ],
+          "synonyms": ["slipway", "launching ramp"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "engineering", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "shipways",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shipway; multiple paths or methods for ships to travel or be constructed.",
+          "examples": [
+            "The harbor has several shipways for launching vessels.",
+            "Old shipways were preserved as historical sites."
+          ],
+          "collocations": [
+            "old shipways",
+            " naval shipways",
+            "maintain shipways"
+          ],
+          "synonyms": ["slipways"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "engineering", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "shipwork",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "work related to ships, such as construction, repair, or maintenance of vessels.",
+          "examples": [
+            "The shipyard mainly does shipwork for commercial fleets.",
+            "He specialized in shipwork and hull restoration."
+          ],
+          "collocations": [
+            "marine shipwork",
+            "shipyard shipwork",
+            "shipwork contract"
+          ],
+          "synonyms": ["shipbuilding", "ship repair"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "shipworm",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of marine worm that bores into wood, sometimes damaging ships.",
+          "examples": [
+            "Shipworms can cause serious damage to wooden hulls.",
+            "The shipworm infestation required immediate repair work."
+          ],
+          "collocations": [
+            "shipworms cause",
+            "treatment for shipworms",
+            "wooden hull shipworm"
+          ],
+          "synonyms": ["Teredo navalis (scientific name)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "nautical", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "shipworms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shipworm; multiple marine worms that bore into wood.",
+          "examples": [
+            "The shipworms damaged several planks of the hull.",
+            "Experts warned that shipworms were common in older ships."
+          ],
+          "collocations": [
+            "shipworms infestation",
+            "wooden hull shipworms",
+            "prevent shipworms"
+          ],
+          "synonyms": ["Teredo navalis (collective)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "nautical", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "shipwreck",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a ship that has sunk or been destroyed at sea.",
+          "examples": [
+            "The shipwreck lay off the coast for decades.",
+            "Divers explored the old shipwreck."
+          ],
+          "collocations": [
+            "underwater shipwreck",
+            "historic shipwreck",
+            "shipwreck site"
+          ],
+          "synonyms": ["wreck of a ship", "sunken ship"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["marine", "history", "nautical"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to be destroyed or sink as a ship; to ruin or fail completely.",
+          "examples": [
+            "The vessel wrecked after hitting the reef.",
+            "Their plans wrecked when the funding fell through."
+          ],
+          "collocations": [
+            "shipwrecked voyage",
+            "shipwrecked at sea",
+            "shipwrecked hope"
+          ],
+          "synonyms": ["destroyed", "sunk", "ruined"],
+          "antonyms": ["saved", "recovered"],
+          "register": "neutral",
+          "domain": ["general", "nautical", "business"]
+        }
+      ]
+    },
+    {
+      "term": "shipwrecked",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having experienced a shipwreck; stranded or ruined.",
+          "examples": [
+            "They were shipwrecked after the storm.",
+            "The shipwrecked sailors were rescued at dawn."
+          ],
+          "collocations": [
+            "be shipwrecked",
+            "shipwrecked crew",
+            "shipwrecked voyage"
+          ],
+          "synonyms": ["stranded", "ruined", "wrecked"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "shipwrecking",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of causing a shipwreck; deliberate wrecking or destruction of vessels.",
+          "examples": [
+            "The pirates engaged in shipwrecking to loot the cargo.",
+            "Shipwrecking is illegal in most waters."
+          ],
+          "collocations": [
+            "practice of shipwrecking",
+            "prevent shipwrecking",
+            "shipwrecking incident"
+          ],
+          "synonyms": ["wrecking ships", "scuttling"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "crime", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "shipwrecks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shipwreck; multiple ships that have been destroyed or sunk.",
+          "examples": [
+            "The coast is dotted with ancient shipwrecks.",
+            "Archaeologists studied several shipwrecks from the era."
+          ],
+          "collocations": [
+            "ancient shipwrecks",
+            "preserved shipwrecks",
+            "shipwreck site"
+          ],
+          "synonyms": ["sunken ships", "wrecks"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "nautical", "archeology"]
+        }
+      ]
+    },
+    {
+      "term": "shipwrecky",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "characterized by or resembling a shipwreck; chaotic or ruined in appearance.",
+          "examples": [
+            "The attic looked shipwrecky with piles of old crates.",
+            "Their desk was shipwrecky after the long week."
+          ],
+          "collocations": [
+            "shipwrecky appearance",
+            "shipwrecky room",
+            "shipwrecky style"
+          ],
+          "synonyms": ["ramshackle", "chaotic", "ruined"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "creative"]
+        }
+      ]
+    },
+    {
+      "term": "shipwright",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who builds or repairs ships; a shipbuilder.",
+          "examples": [
+            "The shipwright inspected the hull for damage.",
+            "He learned his trade as a shipwright at the harbor yard."
+          ],
+          "collocations": [
+            "master shipwright",
+            "shipwright workshop",
+            "shipwright skills"
+          ],
+          "synonyms": ["boatbuilder", "vessel carpenter"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["work", "craft", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "shipwrightery",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the craft or occupation of shipwrights; shipbuilding workshop or industry.",
+          "examples": [
+            "The city has a long tradition of shipwrightery.",
+            "Shipwrightery declined with the advent of steel ships."
+          ],
+          "collocations": [
+            "traditional shipwrightery",
+            "shipwrightery guild",
+            "shipwrightery industry"
+          ],
+          "synonyms": ["shipbuilding", "vessel carpentry"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "industry", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "shipwrightry",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternate or historical spelling/variant referring to the shipwright trade or its workshop.",
+          "examples": [
+            "Old logs mention the shipwrightry near the docks."
+          ],
+          "collocations": [
+            "the shipwrightry at the harbor",
+            "shipwrightry crafts"
+          ],
+          "synonyms": ["shipwrightery"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "shipwrights",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shipwright; multiple people who build or repair ships.",
+          "examples": [
+            "The shipwrights worked through the night to finish the hull.",
+            "Shipwrights in the old port were renowned for their skill."
+          ],
+          "collocations": [
+            "team of shipwrights",
+            "shipwrights guild",
+            "shipwrights workshop"
+          ],
+          "synonyms": ["boatbuilders"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["work", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "shipyard",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place where ships are built or repaired.",
+          "examples": [
+            "The shipyard employs hundreds of workers.",
+            "They visited the shipyard to see the new vessel."
+          ],
+          "collocations": [
+            "large shipyard",
+            "shipyard crane",
+            "shipyard workers"
+          ],
+          "synonyms": ["dockyard"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "nautical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "shipyards",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shipyard; multiple places where ships are built or repaired.",
+          "examples": [
+            "Several shipyards line the coast.",
+            "The renovation included three major shipyards."
+          ],
+          "collocations": [
+            "coastal shipyards",
+            "modern shipyards",
+            "shipyards renovation"
+          ],
+          "synonyms": ["dockyards"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "nautical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "shir",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A given name or nickname; could be a shortened form of Shiri or Shira in some cultures; in English, not a common standalone lexical item.",
+          "examples": [
+            "He introduced himself as Shir, a friend from college."
+          ],
+          "collocations": [
+            "Mr. Shir",
+            "Shir surname"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["personal"]
+        }
+      ]
+    },
+    {
+      "term": "shirakashi",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a proper noun; likely a place name or cultural term of Japanese origin; not common in general English vocabulary.",
+          "examples": [
+            "Shirakashi is celebrated in regional archives."
+          ],
+          "collocations": [
+            "Shirakashi city",
+            "Shirakashi festival"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shiralee",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that a wandering prospector or traveler carries with them; in Australian usage, a burdensome responsibility, often a portable burden carried on a journey.",
+          "examples": [
+            "He carried his mother as his shiralee through the desert.",
+            "The tale uses shiralee to describe the traveler’s heavy load."
+          ],
+          "collocations": [
+            "carry shiralee",
+            "shiralee tale",
+            "traveler's shiralee"
+          ],
+          "synonyms": ["burden", "load", "pack"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shiralees",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shiralee; multiple burdens or travelers’ burdens.",
+          "examples": [
+            "The caravan carried several shiralees across the dunes."
+          ],
+          "collocations": [
+            "carry shiralees",
+            "shiralees of travelers"
+          ],
+          "synonyms": ["burdens"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shirallee",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternate spelling of shiralee; a burdensome load carried by a traveler.",
+          "examples": [
+            "The shirallee slowed their march through the valley."
+          ],
+          "collocations": [
+            "long shirallee",
+            "bear shirallee"
+          ],
+          "synonyms": ["shiralee", "burden"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shiraz",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of deep red wine from the Shiraz region (also known as Syrah); also a city in Iran and name of a grape variety.",
+          "examples": [
+            "She enjoys a glass of Shiraz with dinner.",
+            "Shiraz is one of the oldest wine regions in the world."
+          ],
+          "collocations": [
+            "Shiraz wine",
+            "Australian Shiraz",
+            "Shiraz grape"
+          ],
+          "synonyms": ["Syrah (grape)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "wine", "geography"]
+        },
+        {
+          "pos": "proper_noun",
+          "definition": "a city in south-central Iran, famous for its cultural heritage.",
+          "examples": [
+            "Shiraz hosts many gardens and poets."
+          ],
+          "collocations": [
+            "Shiraz city",
+            "Shiraz Iran"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": [" geography", "culture"]
+        }
+      ]
+    }
+  ]
+}

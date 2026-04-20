@@ -1,0 +1,512 @@
+{
+  "items": [
+    {
+      "term": "timelines",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of timeline; a sequence of events in chronological order showing when they occurred.",
+          "examples": [
+            "The historian laid out the timelines of the two civilizations side by side.",
+            "We compared project timelines to estimate completion dates."
+          ],
+          "collocations": ["project timelines", "historical timelines", "timeline of events", "milestones on timelines"],
+          "synonyms": ["chronologies", "chronicles (less common)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "history", "education", "business"]
+        }
+      ]
+    },
+    {
+      "term": "timeliness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of happening at the right or an appropriate time; promptness.",
+          "examples": [
+            "The timeliness of her report impressed the manager.",
+            "Timeliness is crucial in emergency responses."
+          ],
+          "collocations": ["timeliness of", "great timeliness", "lack of timeliness"],
+          "synonyms": ["promptness", "punctuality", "opportune timing"],
+          "antonyms": ["lateness", "tardiness"],
+          "register": "neutral",
+          "domain": ["general", "business", "emergency", "logistics"]
+        }
+      ]
+    },
+    {
+      "term": "timelinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of timeliness; rarely used in modern English; generally treated as incorrect or tentative plural.",
+          "examples": [
+            "Some scholars discuss multiple timelinesses in project planning." 
+          ],
+          "collocations": ["timelinesses in", "various timelinesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "timeling",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "rare/archaic or nonce form meaning to time or schedule; not commonly used.",
+          "examples": [
+            "They began timeling the sequence of events."
+          ],
+          "collocations": ["timeling the events"],
+          "synonyms": ["scheduling", "timing"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "timely",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "happening at the right time or just in time.",
+          "examples": [
+            "The letter arrived at a timely moment.",
+            "He provided timely assistance."
+          ],
+          "collocations": ["timely manner", "timely manner", "timely intervention"],
+          "synonyms": ["opportune", "well-timed", "seasonable"],
+          "antonyms": ["untimely", "late", "delayed"],
+          "register": "neutral",
+          "domain": ["general", "business", "emergency"]
+        }
+      ]
+    },
+    {
+      "term": "timenoguy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "phrase",
+          "definition": "urban slang compound; refers to a person who is not punctual or is slow to act; not widely standardized.",
+          "examples": [
+            "Don't be a timenoguy—come on, we're starting soon."
+          ],
+          "collocations": ["timenoguy behavior", "stop being timenoguy"],
+          "synonyms": ["procrastinator (informal)", "slacker (informal)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "slang"]
+        }
+      ]
+    },
+    {
+      "term": "timenoguys",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "phrase",
+          "definition": "plural of timenoguy; slang term used for multiple people who are not punctual.",
+          "examples": [
+            "The timenoguys kept everyone waiting at the meeting."
+          ],
+          "collocations": ["timenoguys behavior", "acting like timenoguys"],
+          "synonyms": ["procrastinators (informal)", "slackers (informal)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "slang"]
+        }
+      ]
+    },
+    {
+      "term": "timeous",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "occurring at a good or appropriate time; timely.",
+          "examples": [
+            "The timeous arrival of supplies prevented a shutdown."
+          ],
+          "collocations": ["timeous arrival", "timeous intervention"],
+          "synonyms": ["opportune", "seasonable", "t timely (archaic)"],
+          "antonyms": ["untimely"],
+          "register": "formal",
+          "domain": ["general", "business", "logistics"]
+        }
+      ]
+    },
+    {
+      "term": "timeously",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a timely manner; promptly.",
+          "examples": [
+            "The document was received timeously by the committee."
+          ],
+          "collocations": ["acted timeously", "timeously delivered"],
+          "synonyms": ["promptly", "punctually", "without delay"],
+          "antonyms": ["delayedly (rare)", "untimely"],
+          "register": "formal",
+          "domain": ["general", "law", "business"]
+        }
+      ]
+    },
+    {
+      "term": "timeout",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a short period when you stop an activity on purpose; a break.",
+          "examples": [
+            "We paused for a 10-minute timeout.",
+            "The coach called a timeout to rethink the strategy."
+          ],
+          "collocations": ["time-out", "short timeout", "timeout break"],
+          "synonyms": ["break", "pause", "intermission"],
+          "antonyms": ["play", "continuation"],
+          "register": "neutral",
+          "domain": ["sports", "general", "education"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the act of timing out a computer or network connection; a session termination.",
+          "examples": [
+            "The server issued a timeout after no response.",
+            "Increase the timeout duration to avoid drops."
+          ],
+          "collocations": ["connection timeout", "timeout setting"],
+          "synonyms": ["session end", "disconnection"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "computing"]
+        }
+      ]
+    },
+    {
+      "term": "timeouts",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of timeout; multiple breaks or pauses.",
+          "examples": [
+            "The players requested several timeouts during the game."
+          ],
+          "collocations": ["timeouts in sports", "take timeouts"],
+          "synonyms": ["breaks", "pauses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timepass",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal term for activity done to while away time; trivial entertainment.",
+          "examples": [
+            "He watched videos as timepass."
+          ],
+          "collocations": ["timepass activity", "idle timepass"],
+          "synonyms": ["idle activity", "pastime"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "slang"]
+        }
+      ]
+    },
+    {
+      "term": "timepassed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of timepass; spent time idly.",
+          "examples": [
+            "They timepassed by chatting for hours."
+          ],
+          "collocations": ["timepassed by", "timepassed yesterday"],
+          "synonyms": ["idled", "wasted time"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "timepasses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular of timepass; spends time idly.",
+          "examples": [
+            "He timepasses by scrolling social media."
+          ],
+          "collocations": ["timepasses by"],
+          "synonyms": ["idles", "wastes time"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "timepassing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of time passing; the passage of time.",
+          "examples": [
+            "Timepassing brought changes to the town."
+          ],
+          "collocations": ["timepassing moments"],
+          "synonyms": ["elapsing time", "passing time"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "timepiece",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device that shows time, such as a clock or watch.",
+          "examples": [
+            "He wore a stylish antique timepiece.",
+            "The timepiece on the wall kept perfect time."
+          ],
+          "collocations": ["wrist timepiece", "antique timepiece", "new timepiece"],
+          "synonyms": ["watch", "clock", "chronometer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "fashion", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "timepieces",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of timepiece; multiple watches or clocks.",
+          "examples": [
+            "The museum displays several rare timepieces."
+          ],
+          "collocations": ["collection of timepieces", "luxury timepieces"],
+          "synonyms": ["watches", "clocks"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "museum", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "timepleaser",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who tries to please others as a main goal; people-pleaser.",
+          "examples": [
+            "She is a notorious timepleaser in meetings."
+          ],
+          "collocations": ["habitual timepleaser", "online timepleaser"],
+          "synonyms": ["people-pleaser"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "timepleasers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of timepleaser; multiple people-pleasers.",
+          "examples": [
+            "The team included several timepleasers."
+          ],
+          "collocations": ["group of timepleasers"],
+          "synonyms": ["people-pleasers"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "timeproof",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resistant to time; not easily outdated; long-lasting.",
+          "examples": [
+            "The design is timeproof and still stylish."
+          ],
+          "collocations": ["timeproof materials", "timeproof design"],
+          "synonyms": ["durable", "lasting", "long-lasting"],
+          "antonyms": ["time-sensitive", "temporary"],
+          "register": "neutral",
+          "domain": ["general", "business", "design"]
+        }
+      ]
+    },
+    {
+      "term": "timer",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device that measures or counts down time.",
+          "examples": [
+            "Set the timer for 10 minutes.",
+            "The kitchen timer rang."
+          ],
+          "collocations": ["egg timer", "digital timer", "countdown timer"],
+          "synonyms": ["timekeeper", "clock"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["kitchen", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timerau",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "uncommon or nonce term; lacks a standard meaning in contemporary English.",
+          "examples": [
+            "The term timerau appears in a linguistic footnote."
+          ],
+          "collocations": ["timerau discussion"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "timerity",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "excessive, bold, or reckless boldness; audacity.",
+          "examples": [
+            "It takes timerity to challenge the status quo."
+          ],
+          "collocations": ["great timerity", "remarkable timerity"],
+          "synonyms": ["boldness", "audacity", "nerve"],
+          "antonyms": ["timidity", "caution"],
+          "register": "formal",
+          "domain": ["general", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "timers",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of timer; devices that measure or count down time.",
+          "examples": [
+            "The kitchen timers beep when the food is ready."
+          ],
+          "collocations": ["kitchen timers", "digital timers"],
+          "synonyms": ["timekeepers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["kitchen", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "times",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of time; occurrences or instances; also used in phrases like 'in times'.",
+          "examples": [
+            "These are the times when we need to be careful.",
+            "In old times, people relied on sundials."
+          ],
+          "collocations": ["these times", "past times", "in times of"],
+          "synonyms": ["occurrences", "moments"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "history", "daily life"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the times of a clock or calendar; frequency or multiplication table sense (e.g., two times three is six).",
+          "examples": [
+            "Two times three equals six.",
+            "Multiply four times five."
+          ],
+          "collocations": ["times tables", "multiplication times"],
+          "synonyms": ["multiples", "periods"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "general"]
+        }
+      ]
+    }
+  ]
+}

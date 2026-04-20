@@ -1,0 +1,515 @@
+{
+  "items": [
+    {
+      "term": "shotproof",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "protected against being shot; able to withstand gunfire without suffering damage",
+          "examples": [
+            "The door is shotproof and can stop bullets.",
+            "They installed shotproof glass in the storefront."
+          ],
+          "collocations": ["shotproof door", "shotproof glass", "shotproof armor"],
+          "synonyms": ["bulletproof", "bullet-resistant"],
+          "antonyms": ["unprotected", "fragile"],
+          "register": "neutral",
+          "domain": ["general", "security", "defense"]
+        }
+      ]
+    },
+    {
+      "term": "shots",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shot; attempts or opportunities to do something; shots of a drink; gunfire or bullets fired",
+          "examples": [
+            "He took two shots at the target.",
+            "Would you like a few shots of espresso?",
+            "There were shots fired during the incident."
+          ],
+          "collocations": ["shots at", "shots of", "shots fired", "shots of espresso"],
+          "synonyms": ["attempts", "tries", "bullets", "rounds"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "military", "food and drink"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to fire a gun; to shoot a firearm",
+          "examples": [
+            "The guards shot at the fleeing suspect.",
+            "She accidentally shot the bottle off the fence."
+          ],
+          "collocations": ["shoot at", "shoot a gun", "shoot down"],
+          "synonyms": ["fire", "discharge"],
+          "antonyms": ["miss", "nonfire"],
+          "register": "neutral",
+          "domain": ["general", "military"]
+        }
+      ]
+    },
+    {
+      "term": "shotshell",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small cartridge containing pellets or a slug used in shotguns",
+          "examples": [
+            "The hunter loaded the shotgun with a 12-gauge shotshell.",
+            "A shell for a shotgun is called a shotshell."
+          ],
+          "collocations": ["shotshell cartridge", "12-gauge shotshell"],
+          "synonyms": ["shell", "cartridge (shotgun)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology", "hunting"]
+        }
+      ]
+    },
+    {
+      "term": "shotsman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who shoots, especially a hunter or marksman",
+          "examples": [
+            "The shotsman took aim from the ridge.",
+            "In old films, the shotsman stood ready with the rifle."
+          ],
+          "collocations": ["expert shotsman", "retired shotsman"],
+          "synonyms": ["marksman", "sharpshooter"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "military", "hunting"]
+        }
+      ]
+    },
+    {
+      "term": "shotstar",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fictional or brand name; not a widely recognized common term",
+          "examples": [
+            "The sci-fi novel featured a character called Shotstar."
+          ],
+          "collocations": ["Shotstar device"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fiction", "brand"]
+        }
+      ]
+    },
+    {
+      "term": "shott",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or dialectal form; not common in contemporary standard English",
+          "examples": [
+            "In old texts, a shott was a type of dart."
+          ],
+          "collocations": ["old shott", "shott weapon"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "history"]
+        }
+      ]
+    },
+    {
+      "term": "shotte",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an obsolete or dialect term; no current common meaning in standard English",
+          "examples": [
+            "The term shotte appears in historical documents."
+          ],
+          "collocations": ["olde shotte"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "shotted",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "armed with or covered by bullets; shot",
+          "examples": [
+            "The shotted door resisted the blast.",
+            "He stood shotted after the gunfight."
+          ],
+          "collocations": ["shotted by bullets"],
+          "synonyms": ["bullet-ridden", "shot"],
+          "antonyms": ["unshot", "unarmed"],
+          "register": "neutral",
+          "domain": ["general", "security"]
+        }
+      ]
+    },
+    {
+      "term": "shotten",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "injured by bullets; shot",
+          "examples": [
+            "The victim was shotten in the leg."
+          ],
+          "collocations": ["shotten wound"],
+          "synonyms": ["wounded", "injured"],
+          "antonyms": ["uninjured"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shotter",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "someone who shoots or is shooting; a shooter",
+          "examples": [
+            "The police questioned the shotter after the incident."
+          ],
+          "collocations": ["ripe shotter", "licensed shotter"],
+          "synonyms": ["shooter", "marksman"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "shottes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form with historical or dialectal usage; not common in modern standard English",
+          "examples": [
+            "Shottes are rarely mentioned in contemporary writing."
+          ],
+          "collocations": ["old shottes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "shotting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of firing a shot; the process of shooting",
+          "examples": [
+            "The shotting of the rifle continued for minutes."
+          ],
+          "collocations": ["gunshotting", "continuous shotting"],
+          "synonyms": ["firing", "shooting"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "military"]
+        }
+      ]
+    },
+    {
+      "term": "shottle",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mechanical part or slang term; not widely used in modern standard English",
+          "examples": [
+            "The farmer repaired the old shottle on the gate."
+          ],
+          "collocations": ["gate shottle"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "shottles",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shottle; not common in modern usage",
+          "examples": [
+            "The workshop kept several shottles in stock."
+          ],
+          "collocations": ["old shottles"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "shotts",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form; may refer to place name or dialectal term; not common as a standard meaning",
+          "examples": [
+            "The Shotts area was mentioned in the report."
+          ],
+          "collocations": ["Shotts town"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "shotty",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "of poor quality; dangerous or defective; informal slang",
+          "examples": [
+            "That shotty old lamp keeps flickering.",
+            "The construction was shotty and soon failed."
+          ],
+          "collocations": ["shotty workmanship", "shotty lens"],
+          "synonyms": ["shoddy", "defective"],
+          "antonyms": ["quality", "well-made"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shotweld",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a welding technique used to join metal pieces with a quick shot weld",
+          "examples": [
+            "The boat hull was reinforced with shotweld seams."
+          ],
+          "collocations": ["shotweld joint", "shotweld seam"],
+          "synonyms": ["spot weld", "arc weld"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["engineering", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "shou",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "historical or dialect form; not a standard modern term",
+          "examples": [
+            "In older dialects, shou referred to a sheep or a survey unit."
+          ],
+          "collocations": ["old shou"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "shough",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or dialect word; not common in modern usage",
+          "examples": [
+            "The dialect uses the word shough for a narrow pass."
+          ],
+          "collocations": ["shough road"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "shoughs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shough; not common in modern standard English",
+          "examples": [
+            "Shoughs are mentioned in the old map annotations."
+          ],
+          "collocations": ["old shoughs"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "should",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "modal_verb",
+          "definition": "used to indicate obligation, duty, or correctness; or to give recommendations",
+          "examples": [
+            "You should finish your homework.",
+            "If you should see him, tell him I called.",
+            "We should go now."
+          ],
+          "collocations": ["should have", "should be", "should not"],
+          "synonyms": ["ought to", "need to"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "shoulder",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the part of the body at the top of each arm; the area where the arm connects to the torso",
+          "examples": [
+            "She hurt her shoulder playing tennis.",
+            "He carried the bag on his shoulder."
+          ],
+          "collocations": ["bare shoulder", "shoulder blade", "shoulder strap"],
+          "synonyms": ["clavicle", "deltoid area"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["body", "health"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to push something up onto the shoulder or to take on a burden",
+          "examples": [
+            "She shouldered the backpack and walked away.",
+            "The team shouldered most of the responsibility."
+          ],
+          "collocations": ["shoulder burden", "shoulder responsibility"],
+          "synonyms": ["bear", "carry"],
+          "antonyms": ["unbear", "unload"],
+          "register": "neutral",
+          "domain": ["general", "work"]
+        }
+      ]
+    },
+    {
+      "term": "shouldered",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "bearing or carrying a burden or responsibility",
+          "examples": [
+            "The shouldered duties were distributed among the team."
+          ],
+          "collocations": ["shouldered burden", "shouldered responsibility"],
+          "synonyms": ["burdened", "carried"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "work"]
+        }
+      ]
+    },
+    {
+      "term": "shoulderer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one who shoulders; a person who carries or bears a burden",
+          "examples": [
+            "The shoulderer helped lift the crates onto the truck."
+          ],
+          "collocations": ["team shoulderer"],
+          "synonyms": ["bearer", "porter"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "work"]
+        }
+      ]
+    },
+    {
+      "term": "shoulderette",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a decorative piece for the shoulder; a term found in fashion or historical texts",
+          "examples": [
+            "The gown was trimmed with a delicate shoulderette."
+          ],
+          "collocations": ["feminine shoulderette"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "history"]
+        }
+      ]
+    }
+  ]
+}

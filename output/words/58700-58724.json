@@ -1,0 +1,622 @@
+{
+  "items": [
+    {
+      "term": "carry",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to support and move something from one place to another using hands or a device",
+          "examples": [
+            "She can carry a heavy box by herself.",
+            "The bags are too heavy to carry up the stairs."
+          ],
+          "collocations": [
+            "carry a bag",
+            "carry a suitcase",
+            "carry a load",
+            "carry someone",
+            "carry out",
+            "carry on"
+          ],
+          "synonyms": ["transport", "tote", "lift"],
+          "antonyms": ["unload", "drop", "remove"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to be equipped with something or to have a quality or feature",
+          "examples": [
+            "The book carries a lot of valuable information.",
+            "The loan carries a high interest rate."
+          ],
+          "collocations": [
+            "carry a label",
+            "carry a risk",
+            "carry a burden",
+            "carry authority"
+          ],
+          "synonyms": ["bear", "possess", "hold"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a device or part used to hold or transport things, such as a carry-on bag",
+          "examples": [
+            "He bought a new carry for his camera gear.",
+            "The carry can hold several items."
+          ],
+          "collocations": [
+            "carry bag",
+            "carry case",
+            "carry-on"
+          ],
+          "synonyms": ["container", "bag"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "carryable",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be carried or easily carried",
+          "examples": [
+            "The box is light and carryable.",
+            "We need a carryable tent for the trip."
+          ],
+          "collocations": [
+            "carryable item",
+            "carryable load",
+            "carryable goods"
+          ],
+          "synonyms": ["portable", "portableable"],
+          "antonyms": ["unportable", "untransportable"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "carryall",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large bag or case used for carrying many items",
+          "examples": [
+            "She packed her clothes into a carryall for the trip.",
+            "The carryall held all the sports gear."
+          ],
+          "collocations": [
+            "sports carryall",
+            "travel carryall",
+            "overnight carryall"
+          ],
+          "synonyms": ["duffel bag", "holdall"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "carryalls",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of carryall; large bags used for carrying items",
+          "examples": [
+            "They bought two carryalls for the team.",
+            "Carryalls were stacked by the door."
+          ],
+          "collocations": [
+            "team carryalls",
+            "carryalls packed"
+          ],
+          "synonyms": ["duffel bags", "holdalls"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "carryback",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of returning something to a previous place or state, often used in business or logistics",
+          "examples": [
+            "There was a carryback of unsold products to the warehouse.",
+            "The company faced a carryback of losses."
+          ],
+          "collocations": [
+            "carryback period",
+            "carryback option"
+          ],
+          "synonyms": ["reversal", "retreat"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "carrybacks",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of carryback; returns or reversals of previously moved items or decisions",
+          "examples": [
+            "Carrybacks were issued for several shipments.",
+            "They discussed multiple carrybacks in the meeting."
+          ],
+          "collocations": [
+            "carrybacks issued",
+            "carryback period"
+          ],
+          "synonyms": ["reversals", "returns"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "carrycot",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small, lightweight bed on wheels for a baby, used to move the baby around",
+          "examples": [
+            "She pushed the carrycot to the kitchen.",
+            "The baby slept in the carrycot beside the sofa."
+          ],
+          "collocations": [
+            "baby carrycot",
+            "carrycot with handle"
+          ],
+          "synonyms": ["bassinet", "pram (UK)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "family"]
+        }
+      ]
+    },
+    {
+      "term": "carrycots",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of carrycot; small beds for babies",
+          "examples": [
+            "The store sells several carrycots.",
+            "They bought two carrycots for twins."
+          ],
+          "collocations": [
+            "carrycots in stock",
+            "soft carrycots"
+          ],
+          "synonyms": ["bassinet", "prams"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "family"]
+        }
+      ]
+    },
+    {
+      "term": "carryed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "nonstandard past tense of 'carry'; correct form is 'carried'",
+          "examples": [
+            "This is carryed in some dialects, but standard English uses carried."
+          ],
+          "collocations": [
+            "carryed on"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "carryforward",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the amount of something that is moved forward to a future period, especially in accounting or finance",
+          "examples": [
+            "The tax carryforward reduces future obligations.",
+            "They planned a five-year carryforward of unused losses."
+          ],
+          "collocations": [
+            "tax carryforward",
+            "carryforward amount",
+            "carryforward period"
+          ],
+          "synonyms": ["forward roll", "deferral"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to move a value or balance to a future period",
+          "examples": [
+            "They will carryforward the losses to next year.",
+            "The unused credit can be carryforwarded."
+          ],
+          "collocations": [
+            "carryforward the balance",
+            "carryforward explicit amount"
+          ],
+          "synonyms": ["defer", "forward"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "carryforwards",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of carryforward; balances moved to future periods",
+          "examples": [
+            "Carryforwards of tax losses were allowed.",
+            "Carryforwards reduce future tax payments."
+          ],
+          "collocations": [
+            "tax carryforwards",
+            "business carryforwards"
+          ],
+          "synonyms": ["deferrals", "forward balances"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "carrying",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of holding or supporting something while moving",
+          "examples": [
+            "Her carrying of the bag was heavy.",
+            "The carrying of luggage through the station was tiring."
+          ],
+          "collocations": [
+            "heavy carrying",
+            "easy carrying"
+          ],
+          "synonyms": ["holding", "bearing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "carryings",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of carrying; acts of carrying things",
+          "examples": [
+            "Her many carryings of groceries took all afternoon."
+          ],
+          "collocations": [
+            "daily carryings"
+          ],
+          "synonyms": ["bearings", "loads"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "carryke",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "unknown",
+          "definition": "not a recognized English word; possibly a misspelling or placeholder",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "carryon",
+      "kind": "phrasal_verb",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to continue doing something; to proceed without stopping",
+          "examples": [
+            "Please carry on with your story.",
+            "We will carry on regardless of the weather."
+          ],
+          "collocations": [
+            "carry on talking",
+            "carry on regardless"
+          ],
+          "synonyms": ["continue", "persist"],
+          "antonyms": ["stop", "halt"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a bag or suitcase allowed to be taken on a plane",
+          "examples": [
+            "She packed her essentials in a carry-on.",
+            "The airline limits the size of your carry-on."
+          ],
+          "collocations": [
+            "carry-on bag",
+            "carry-on luggage"
+          ],
+          "synonyms": ["hand luggage", "cabin bag"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["travel", "general"]
+        }
+      ]
+    },
+    {
+      "term": "carryons",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of carry-on; bags brought onto a plane",
+          "examples": [
+            "They had two carryons each.",
+            "Carryons must fit in the overhead bin."
+          ],
+          "collocations": [
+            "extra carryons",
+            "small carryons"
+          ],
+          "synonyms": ["hand luggage", "cabin bags"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["travel", "general"]
+        }
+      ]
+    },
+    {
+      "term": "carryout",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "food prepared to be eaten elsewhere; takeout",
+          "examples": [
+            "We ordered carryout for dinner.",
+            "The restaurant offers quick carryout."
+          ],
+          "collocations": [
+            "pizza carryout",
+            "carryout meal"
+          ],
+          "synonyms": ["takeaway", "to-go"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "carryouts",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of carryout; takeout meals",
+          "examples": [
+            "Many people prefer carryouts on busy nights."
+          ],
+          "collocations": [
+            "fast carryouts",
+            "carryout orders"
+          ],
+          "synonyms": ["takeaways"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "carryover",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an amount or effect that continues into a later period",
+          "examples": [
+            "The tax carryover reduces next year's bill.",
+            "There is a carryover of unused vacation days."
+          ],
+          "collocations": [
+            "tax carryover",
+            "carryover effect",
+            "carryover balance"
+          ],
+          "synonyms": ["deferral", "leftover"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "science"]
+        }
+      ]
+    },
+    {
+      "term": "carryovers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of carryover; amounts or effects carried to future periods",
+          "examples": [
+            "We reviewed several carryovers from last quarter."
+          ],
+          "collocations": [
+            "carryovers in accounting"
+          ],
+          "synonyms": ["deferrals", "leftovers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "carrys",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "nonstandard or archaic form; standard is 'carries' or 'carry's depending on subject",
+          "examples": [
+            "He carrys the burden is a nonstandard form; correct is 'carries'."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "carrytale",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a piece of gossip or a tale carried to others; not common in modern usage",
+          "examples": [
+            "The term carrytale is rarely used today."
+          ],
+          "collocations": [],
+          "synonyms": ["tale", "rumor"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "carrytales",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of carrytale; rumors or tales carried to others",
+          "examples": [],
+          "collocations": [],
+          "synonyms": ["tales", "rumors"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "cars",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of car; vehicle with wheels used for transportation",
+          "examples": [
+            "The cars are lined up at the traffic light.",
+            "She buys a new car every few years."
+          ],
+          "collocations": [
+            "racing cars",
+            "electric cars",
+            "rental cars"
+          ],
+          "synonyms": ["automobile", "vehicle"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["transport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "carse",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "unknown",
+          "definition": "not a standard English word; possibly a misspelling",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    }
+  ]
+}

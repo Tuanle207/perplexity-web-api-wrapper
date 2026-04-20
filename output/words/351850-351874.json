@@ -1,0 +1,489 @@
+{
+  "items": [
+    {
+      "term": "sensors",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "devices that detect physical properties and provide signals to other equipment",
+          "examples": [
+            "The sensors on the smartphone measure light levels to adjust the screen brightness.",
+            "Motion sensors help turn on lights automatically."
+          ],
+          "collocations": ["motion sensor", "temperature sensor", "proximity sensor", "sensor data", "sensor array"],
+          "synonyms": ["detectors", "transducers"],
+          "antonyms": ["insensitive devices"],
+          "register": "formal",
+          "domain": ["technology", "general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "sensory",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the senses or sensation; connected with seeing, hearing, touch, taste, or smell",
+          "examples": [
+            "The film has strong sensory details that evoke the city’s atmosphere.",
+            "Sensory nerves send signals to the brain."
+          ],
+          "collocations": ["sensory input", "sensory experience", "sensory perception"],
+          "synonyms": ["perceptual", "aesthetic (in some contexts)"],
+          "antonyms": ["non-sensory"],
+          "register": "neutral",
+          "domain": ["science", "general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "sensu",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Latin term meaning 'in the sense of' used in citations (often 'sensu stricto') to specify scope or usage",
+          "examples": [
+            "This term is used sensu lato, not sensu stricto.",
+            "When citing sources, one may indicate sensu to clarify interpretation."
+          ],
+          "collocations": ["sensu lato", "sensu stricto"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "linguistics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "sensual",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to physical or sexual gratification; appealing to the senses",
+          "examples": [
+            "The painting is praised for its sensual use of color.",
+            "The novel contains sensual scenes that sparked controversy."
+          ],
+          "collocations": ["sensual appeal", "sensual experience", "sensual imagery"],
+          "synonyms": ["erotic", "voluptuous", "tactile"],
+          "antonyms": ["asexual", "platonist"],
+          "register": "neutral to formal",
+          "domain": ["arts", "literature", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sensualisation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of making something more sensual or appealing to the senses",
+          "examples": [
+            "The sensualisation of advertising aims to evoke desire.",
+            "Critics argue that sensualisation can distort social messaging."
+          ],
+          "collocations": ["sensualisation process", "advertising sensualisation"],
+          "synonyms": ["sensualization"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["media", "culture", "advertising"]
+        }
+      ]
+    },
+    {
+      "term": "sensualisations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sensualisation",
+          "examples": [
+            "Different sensualisations of the campaign were tested before launch."
+          ],
+          "collocations": ["various sensualisations", "marketing sensualisations"],
+          "synonyms": ["sensualizations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["media", "culture", "advertising"]
+        }
+      ]
+    },
+    {
+      "term": "sensualise",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something more appealing to the senses or to arouse sensual interest",
+          "examples": [
+            "The commercial tried to sensualise the product with lush imagery.",
+            "Some writers deliberately sensualise language for effect."
+          ],
+          "collocations": ["sensualise the product", "sensualise language", "sensualise imagery"],
+          "synonyms": ["sensualize", "embellish"],
+          "antonyms": ["deglamorise (rare)", "desensualise (less common)"],
+          "register": "formal",
+          "domain": ["advertising", "literature", "media"]
+        }
+      ]
+    },
+    {
+      "term": "sensualised",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of sensualise; made more sensual or appealing to the senses",
+          "examples": [
+            "The scene was sensualised with soft lighting."
+          ],
+          "collocations": ["sensualised lighting", "sensualised imagery"],
+          "synonyms": ["sensualized"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["arts", "film", "advertising"]
+        }
+      ]
+    },
+    {
+      "term": "sensualises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of sensualise; makes something more sensual or appealing to the senses",
+          "examples": [
+            "The advert sensualises the product with glamorous visuals."
+          ],
+          "collocations": ["sensualises visuals", "sensualises language"],
+          "synonyms": ["sensualizes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["advertising", "media"]
+        }
+      ]
+    },
+    {
+      "term": "sensualising",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "gerund or present participle of sensualise; the act of making something more sensual",
+          "examples": [
+            "The film is criticised for sensualising violence."
+          ],
+          "collocations": ["sensualising violence", "sensualising imagery"],
+          "synonyms": ["sensualizing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["film", "media", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "sensualism",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a philosophy or attitude that emphasizes physical pleasure and the senses",
+          "examples": [
+            "His sensualism influenced his approach to art and life.",
+            "The novel critiques the excesses of sensualism."
+          ],
+          "collocations": ["theory of sensualism", "artistic sensualism"],
+          "synonyms": ["sensual pleasure focus", "sensoryism"],
+          "antonyms": ["asceticism", "spiritualism"],
+          "register": "formal",
+          "domain": ["philosophy", "art", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "sensualisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sensualism; multiple instances or forms of sensualist ideas",
+          "examples": [
+            "Various sensualisms appear in the period's literature."
+          ],
+          "collocations": ["different sensualisms"],
+          "synonyms": ["sensualism (plural)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "sensualist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who pursues physical or sensory pleasures, often to excess",
+          "examples": [
+            "He was known as a sensualist who enjoyed fine food and luxury."
+          ],
+          "collocations": ["self-styled sensualist", "bourgeois sensualist"],
+          "synonyms": ["pleasure seeker", "epicure", "hedonist"],
+          "antonyms": ["ascetic", "stoic"],
+          "register": "neutral",
+          "domain": ["culture", "lifestyle"]
+        }
+      ]
+    },
+    {
+      "term": "sensualistic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to sensualism or focusing on the senses; emphasizing physical pleasure",
+          "examples": [
+            "A sensualistic approach to art emphasises texture and color."
+          ],
+          "collocations": ["sensualistic interpretations"],
+          "synonyms": ["sensualize-oriented"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["art", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "sensualists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sensualist; people who pursue sensory pleasures",
+          "examples": [
+            "The salon attracted many sensualists of the era."
+          ],
+          "collocations": ["wealthy sensualists", "artistic sensualists"],
+          "synonyms": ["hedonists", "pleasure seekers"],
+          "antonyms": ["ascetics"],
+          "register": "neutral",
+          "domain": ["culture", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sensualities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sensuality; the state or quality of being sensual; physical charm or attractiveness",
+          "examples": [
+            "The painting conveys sensualities of light and shadow.",
+            "Her sensualities were praised by critics."
+          ],
+          "collocations": ["body sensualities", "sensualities in art"],
+          "synonyms": ["sensual qualities", "appeal"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "culture", "theology"]
+        }
+      ]
+    },
+    {
+      "term": "sensuality",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being connected with physical or sexual desire; beauty and attractiveness to the senses",
+          "examples": [
+            "The novel explores the tension between sensuality and restraint.",
+            "The sculpture expresses sensuousness and sensuality."
+          ],
+          "collocations": ["sexual sensuality", "sensuality and desire", "pure sensuality"],
+          "synonyms": ["sensualism", "eroticism", "voluptuousness"],
+          "antonyms": ["repression", "asceticism"],
+          "register": "neutral",
+          "domain": ["literature", "art", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "sensualization",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of making something more sensual or appealing to the senses",
+          "examples": [
+            "The sensualization of media content raises ethical questions."
+          ],
+          "collocations": ["sensualization of media", "marketing sensualization"],
+          "synonyms": ["sensualisation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["media", "advertising"]
+        }
+      ]
+    },
+    {
+      "term": "sensualizations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sensualization; multiple efforts to make something more sensual",
+          "examples": [
+            "Various sensualizations were tested in the campaign."
+          ],
+          "collocations": ["different sensualizations"],
+          "synonyms": ["sensualisations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["marketing", "media"]
+        }
+      ]
+    },
+    {
+      "term": "sensualize",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something more sensual or appealing to the senses",
+          "examples": [
+            "The ad seeks to sensualize everyday objects."
+          ],
+          "collocations": ["sensualize the language", "sensualize the imagery"],
+          "synonyms": ["sensualize", "embellish"],
+          "antonyms": ["desensualize"],
+          "register": "formal",
+          "domain": ["advertising", "media", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "sensualized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of sensualize; made more sensual",
+          "examples": [
+            "The poster was sensualized with vivid colors."
+          ],
+          "collocations": ["sensualized imagery"],
+          "synonyms": ["sensualized"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["advertising", "art"]
+        }
+      ]
+    },
+    {
+      "term": "sensualizes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of sensualize; makes something more sensual",
+          "examples": [
+            "The campaign sensualizes the product with luxury visuals."
+          ],
+          "collocations": ["sensualizes visuals", "sensualizes language"],
+          "synonyms": ["sensualizes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["advertising", "media"]
+        }
+      ]
+    },
+    {
+      "term": "sensualizing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "gerund or present participle of sensualize; making something more sensual",
+          "examples": [
+            "The film is criticised for sensualizing violence."
+          ],
+          "collocations": ["sensualizing violence", "sensualizing imagery"],
+          "synonyms": ["sensualizing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["film", "media"]
+        }
+      ]
+    },
+    {
+      "term": "sensually",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that relates to the senses or sexual desire; in a sexual or erotic manner",
+          "examples": [
+            "The perfume smelled sensually in the evening air.",
+            "He spoke sensually, drawing her closer."
+          ],
+          "collocations": ["smell sensually", "talk sensually"],
+          "synonyms": ["erotically", "sensually"],
+          "antonyms": ["coldly", "tastelessly"],
+          "register": "neutral",
+          "domain": ["literature", "romance", "advertising"]
+        }
+      ]
+    },
+    {
+      "term": "sensualness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being attractive or connected with the senses or physical pleasure",
+          "examples": [
+            "The sensualness of the fabric impressed everyone."
+          ],
+          "collocations": ["sexual sensualness", "sensualness of the scene"],
+          "synonyms": ["sensuality", "eroticism"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "fashion", "culture"]
+        }
+      ]
+    }
+  ]
+}

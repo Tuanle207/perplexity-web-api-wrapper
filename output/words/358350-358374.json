@@ -1,0 +1,243 @@
+{
+  "items": [
+    {
+      "term": "simblum",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "simcha",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "simchas",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "simcon",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "sime",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "simeon",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "simeonism",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "simeonite",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "simi",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "simia",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "simiad",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "simial",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "simian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "simianity",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "simians",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "simiesque",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "simiid",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "simiidae",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "simiinae",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "similar",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having like qualities or characteristics; resembling another thing.",
+          "examples": [
+            "The two dresses are similar in color and style.",
+            "Her ideas are similar to mine."
+          ],
+          "collocations": ["similar to", "rather similar", "similar in", "highly similar"],
+          "synonyms": ["alike", "resembling", "close to"],
+          "antonyms": ["different", "dissimilar"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "similarily",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "similarities",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Ways in which two or more things are alike.",
+          "examples": [
+            "There are many similarities between the two languages.",
+            "The similarities between them helped them work well together."
+          ],
+          "collocations": ["similarities between", "clear similarities", "surface similarities"],
+          "synonyms": ["resemblances", "likenesses"],
+          "antonyms": ["differences"],
+          "register": "neutral",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "similarity",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The state of being alike or similar; a likeness between things.",
+          "examples": [
+            "There is a strong similarity between the paintings.",
+            "We compared the samples for similarity."
+          ],
+          "collocations": ["degree of similarity", "similarity measure", "visual similarity"],
+          "synonyms": ["likeness", "resemblance", "akinness"],
+          "antonyms": ["difference", "contrast"],
+          "register": "neutral",
+          "domain": ["general", "academic"]
+        },
+        {
+          "pos": "noun",
+          "definition": "In some contexts, a concept in mathematics or data analysis referring to how alike two objects are.",
+          "examples": [
+            "Cosine similarity is used in text analysis.",
+            "Compute the similarity between vectors."
+          ],
+          "collocations": ["cosine similarity", "similarity score", "Euclidean similarity"],
+          "synonyms": ["correlation", "equivalence"],
+          "antonyms": ["dissimilarity"],
+          "register": "formal",
+          "domain": ["technology", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "similarize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To make similar; to cause to resemble something else.",
+          "examples": [
+            "The designer tried to similarize the two looks.",
+            "We will similarize the styles for consistency."
+          ],
+          "collocations": ["similarize with", "attempt to similarize", "to similarize something"],
+          "synonyms": ["mimic", "emulate", "resemble"],
+          "antonyms": ["differentiate", "diverge"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "similarly",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a similar way; in a way that is like something else.",
+          "examples": [
+            "The two methods work similarly.",
+            "If one is risky, the other will likely be similarly risky."
+          ],
+          "collocations": ["similarly to", "work similarly", "are similarly"],
+          "synonyms": ["in a similar way", "likewise"],
+          "antonyms": ["differently"],
+          "register": "neutral",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "similarly",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": []
+    }
+  ]
+}

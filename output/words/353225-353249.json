@@ -1,0 +1,503 @@
+{
+  "items": [
+    {
+      "term": "sesquipedalism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the use of long or unusual words; pedantry in vocabulary",
+          "examples": [
+            "His talk was full of sesquipedalism, making it hard for the audience to follow.",
+            "The essay suffered from sesquipedalism and unnecessary jargon."
+          ],
+          "collocations": ["prominent sesquipedalism", "avoid sesquipedalism", "excessive sesquipedalism"],
+          "synonyms": ["verbosity", "grandiloquence", "sesquipedalianism"],
+          "antonyms": ["conciseness", "brevity"],
+          "register": "formal",
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sesquipedality",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality or state of using long words; lengthy vocabulary",
+          "examples": [
+            "Sesquipedality can obscure meaning if overused.",
+            "Readers often appreciate clarity over sesquipedality."
+          ],
+          "collocations": ["avoid sesquipedality", "style with sesquipedality", "precision over sesquipedality"],
+          "synonyms": ["sesquipedalianism", "long-word tendency"],
+          "antonyms": ["brevity", "conciseness"],
+          "register": "formal",
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sesquiplane",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an airplane design with two wings on one side smaller than the other, or with a single wing of one span on one side",
+          "examples": [
+            "The early aviation experiments included several sesquiplanes.",
+            "A sesquiplane has a larger upper wing and a smaller lower wing."
+          ],
+          "collocations": ["design", "aircraft type", "early aviation"],
+          "synonyms": ["biplane with unequal wings"],
+          "antonyms": ["monoplane", "biplane (with equal wings)"],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sesquiplicate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having one and a half times as much or many; not commonly used in modern English",
+          "examples": [
+            "The project required sesquiplicate measurements, though such usage is rare."
+          ],
+          "collocations": ["sesquiplicate proportion"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sesquiquadrate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical or mathematical term indicating a factor of one and a half to a quarter; used in specialized contexts",
+          "examples": [
+            "In chemistry, sesquiquadrate salts were mentioned prior to simplification of terminology."
+          ],
+          "collocations": ["sesquiquadrate salts", "sesquiquadrate ratio"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "sesquiquarta",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare fractional unit or division used in some specialized fields",
+          "examples": [
+            "Old mathematical texts sometimes reference sesquiquarta."
+          ],
+          "collocations": ["sesquiquarta notation"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["mathematics", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "sesquiquartal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a quantity equal to one and a half quarters; a rarely used fractional measure",
+          "examples": [
+            "The manuscript occasionally cites sesquiquartal values."
+          ],
+          "collocations": ["sesquiquartal fraction"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["mathematics", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "sesquiquartile",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a statistical term indicating a value one and a quarter of a quart; used in rare historical texts",
+          "examples": [
+            "The data described a sesquiquartile point in early reports."
+          ],
+          "collocations": ["sesquiquartile value"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["statistics", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "sesquiquinta",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fractional unit equal to one and a fifth; used in theoretical contexts",
+          "examples": [
+            "The theoretical model used a sesquiquinta portion."
+          ],
+          "collocations": ["sesquiquinta portion"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["mathematics", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "sesquiquintal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one and a half times a quintal; a historical measure",
+          "examples": [
+            "Some old trade records mention sesquiquintal quantities."
+          ],
+          "collocations": ["sesquiquintal measurement"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "sesquiquintile",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a statistical quartile divided into three; an uncommon term",
+          "examples": [
+            "The dataset was analyzed for sesquiquintile boundaries."
+          ],
+          "collocations": ["sesquiquintile boundary"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["statistics", "data science"]
+        }
+      ]
+    },
+    {
+      "term": "sesquisalt",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a salt containing one and a half equivalents of a particular ion; a rarely used chemical term",
+          "examples": [
+            "The lab prepared a sesquisalt solution."
+          ],
+          "collocations": ["sesquisalt solution"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "sesquiseptimal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "of or relating to one and seven halves in a given system; used in specialized contexts",
+          "examples": [
+            "The sesquiseptimal value was noted in the early study."
+          ],
+          "collocations": ["sesquiseptimal value"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["mathematics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "sesquisextal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one and a sixth part; a historical measurement",
+          "examples": [
+            "Historical documents referred to sesquisextal quantities."
+          ],
+          "collocations": ["sesquisextal measurement"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "science"]
+        }
+      ]
+    },
+    {
+      "term": "sesquisilicate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a silicate compound containing one and a half units of silica per unit",
+          "examples": [
+            "The material was analyzed for sesquisilicate content."
+          ],
+          "collocations": ["sesquisilicate compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "sesquisquare",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mathematical term indicating a 1.5-squared value; used in specialized math texts",
+          "examples": [
+            "The theorem involves a sesquisquare of the variable."
+          ],
+          "collocations": ["sesquisquare value"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["mathematics", "theory"]
+        }
+      ]
+    },
+    {
+      "term": "sesquisulphate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical compound containing one and a half equivalents of sulphate; historical term",
+          "examples": [
+            "The old recipe called for sesquisulphate crystals."
+          ],
+          "collocations": ["sesquisulphate crystals"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["chemistry", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sesquisulphide",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical compound containing one and a half equivalents of sulphide; rarely used term",
+          "examples": [
+            "Researchers studied sesquisulphide compounds."
+          ],
+          "collocations": ["sesquisulphide compounds"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "sesquisulphides",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sesquisulphide; multiple such compounds",
+          "examples": [
+            "The collection included several sesquisulphides."
+          ],
+          "collocations": ["sesquisulphides collection"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "sesquisulphuret",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a compound with one and a half equivalents of sulphur in the sulphide form; historical term",
+          "examples": [
+            "Old laboratories catalogued various sesquisulphuret salts."
+          ],
+          "collocations": ["sesquisulphuret salts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["chemistry", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sesquiterpene",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an unsaturated hydrocarbon containing three isoprene units; a class of natural products",
+          "examples": [
+            "Sesquiterpenes are common in essential oils.",
+            "The plant produced several sesquiterpenes with distinct scents."
+          ],
+          "collocations": ["sesquiterpene alcohols", "crude sesquiterpenes"],
+          "synonyms": ["sesquiterpenoid"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "chemistry", "natural_science"]
+        }
+      ]
+    },
+    {
+      "term": "sesquiterpenes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sesquiterpene; multiple compounds in this class",
+          "examples": [
+            "The oil contained several sesquiterpenes.",
+            "Researchers identified new sesquiterpenes in the plant."
+          ],
+          "collocations": ["sesquiterpenes profile", "essential oils contain sesquiterpenes"],
+          "synonyms": ["sesquiterpenoids"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "chemistry", "natural_science"]
+        }
+      ]
+    },
+    {
+      "term": "sesquitertia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one and a quarter; a fractional unit used in some contexts",
+          "examples": [
+            "The measure was described as a sesquitertia."
+          ],
+          "collocations": ["sesquitertia value"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["mathematics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sesquitertial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to one and a quarter; used in historical or specialized contexts",
+          "examples": [
+            "The sesquitertial ratio appeared in ancient texts."
+          ],
+          "collocations": ["sesquitertial ratio"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["mathematics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sesquitertian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "one and a third; used in rare mathematical or historical descriptions",
+          "examples": [
+            "A sesquitertian proportion was noted in the manuscript."
+          ],
+          "collocations": ["sesquitertian proportion"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["mathematics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sesquitertian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fraction or proportion equal to one and a third; used in historical contexts",
+          "examples": [
+            "The concept of sesquitertian was described in old texts."
+          ],
+          "collocations": ["sesquitertian fraction"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["mathematics", "history"]
+        }
+      ]
+    }
+  ]
+}

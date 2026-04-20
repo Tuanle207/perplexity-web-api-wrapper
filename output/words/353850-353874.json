@@ -1,0 +1,533 @@
+{
+  "items": [
+    {
+      "term": "shado",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A nonstandard or misspelled form of shadow; does not have a separate established meaning in contemporary English.",
+          "examples": ["This item is likely a misspelling of 'shadow'."],
+          "collocations": ["n/a"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+        ]
+    },
+    {
+      "term": "shadoof",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An ancient wooden lever or scoop used for lifting water in parts of Africa and the Middle East.",
+          "examples": ["A shadoof is traditionally used to raise water from a river.",
+            "The farmers relied on a shadoof before modern pumps."],
+          "collocations": ["shadoof structure", "using a shadoof", "water lifting"],
+          "synonyms": ["shaduff (variant spelling)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "shadoofs",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of shadoof; multiple ancient water-lifting devices.",
+          "examples": ["The village restored several shadoofs.",
+            "Photographs show old shadoofs along the riverbank."],
+          "collocations": ["shadoofs in the village", "repairing shadoofs"],
+          "synonyms": ["shadoofs (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "shadow",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A dark shape made when something blocks light.",
+          "examples": ["A shadow followed him across the street.", "The tree cast a long shadow in the afternoon sun."],
+          "collocations": ["shadow of doubt", "cast a shadow", "shadow length"],
+          "synonyms": [" silhouette "],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Someone who closely follows or tracks another person, or a close follower.",
+          "examples": ["The celebrity was followed by a shadow."],
+          "collocations": ["shadow follower", "shadowing someone"],
+          "synonyms": ["stalker (informal)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To follow someone closely and secretly.",
+          "examples": ["The journalist shadowed the candidate for weeks."],
+          "collocations": ["shadow a student", "shadow a politician"],
+          "synonyms": ["follow", "trail"],
+          "antonyms": ["lead"],
+          "register": "neutral",
+          "domain": ["general", "journalism"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To obscure or darken something by adding a shadow.",
+          "examples": ["The foliage shadowed the path."],
+          "collocations": ["shadowed by trees", "shadowing effect"],
+          "synonyms": ["shade"],
+          "antonyms": ["expose"],
+          "register": "neutral",
+          "domain": ["general", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "shadowable",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Able to be shadowed or capable of being covered or obscured by shadow.",
+          "examples": ["The path was shadowable by the tall hedges."],
+          "collocations": ["shadowable area", "shadowable effect"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shadowbox",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To fight or spar in a simulated fight without an audience; to practice boxing movements.",
+          "examples": ["The two boxers shadowbox in the mirror before practice.",
+            "She shadowboxes to warm up."],
+          "collocations": ["shadowbox in the ring", "shadowbox practice"],
+          "synonyms": ["spar in practice", "practice boxing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A training activity where a boxer practices movements without an opponent.",
+          "examples": ["He did twenty minutes of shadowboxing as a warm-up."],
+          "collocations": ["morning shadowboxing", "shadowboxing routine"],
+          "synonyms": ["pad work (contrast)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "shadowboxed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of shadowbox; performed shadowboxing.",
+          "examples": ["He shadowboxed for ten minutes before the match."],
+          "collocations": ["shadowboxed moves", "shadowboxed routine"],
+          "synonyms": ["shadowboxed (past)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "shadowboxes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A training activity or device for practicing boxing movements without an opponent.",
+          "examples": ["She did shadowboxes to loosen up."],
+          "collocations": ["warm-up shadowboxes", "home shadowboxes"],
+          "synonyms": ["shadowboxing drills"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "shadowboxing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of boxing with imaginary opponents as practice.",
+          "examples": ["Shadowboxing helps improve footwork."],
+          "collocations": ["do shadowboxing", "shadowboxing session"],
+          "synonyms": ["shadow box practice"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Present participle of shadowbox; performing shadowboxing.",
+          "examples": ["He is shadowboxing in the gym."],
+          "collocations": ["shadowboxing now", "shadowboxing routine"],
+          "synonyms": ["shadow box"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "shadowcast",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A projection or image created by a shadow or light effect; a cast shadow.",
+          "examples": ["The reveal relied on a careful shadowcast on the wall."],
+          "collocations": ["dramatic shadowcast", "shadowcast effect"],
+          "synonyms": ["cast shadow", "silhouette"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "theater", "general"]
+        }
+      ]
+    },
+    {
+      "term": "shadowcasting",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act or technique of creating shadows or silhouettes as a visual effect.",
+          "examples": ["The director used shadowcasting to create mood."],
+          "collocations": ["shadowcasting technique", "shadowcasting in cinema"],
+          "synonyms": ["shadow projection"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "film"]
+        }
+      ]
+    },
+    {
+      "term": "shadowcastings",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple instances or forms of shadowcasting effects.",
+          "examples": ["The gallery displayed several shadowcastings from different artists."],
+          "collocations": ["various shadowcastings", "shadowcasting works"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "gallery"]
+        }
+      ]
+    },
+    {
+      "term": "shadowcasts",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Images or shapes created by shadows; a shadow projection.",
+          "examples": ["The shadowcasts on the wall looked eerie."],
+          "collocations": ["shadowcasts appear", "shadowcasts on screen"],
+          "synonyms": ["silhouettes", "shadows"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "theater"]
+        }
+      ]
+    },
+    {
+      "term": "shadowed",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of shadow; to have been followed or obscured by shadows or to have been protected by someone.",
+          "examples": ["The path was shadowed by tall trees.", "He shadowed his mentor for weeks."],
+          "collocations": ["shadowed by doubt", "shadowed mentor"],
+          "synonyms": ["obscured", "covered"],
+          "antonyms": ["exposed"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shadower",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who shadows someone, i.e., follows or observes them closely.",
+          "examples": ["The reporter acted as a shadower to the celebrity."],
+          "collocations": ["private shadower", "shadower in training"],
+          "synonyms": ["shadower", "follower"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "journalism"]
+        }
+      ]
+    },
+    {
+      "term": "shadowers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "People who shadow others; multiple shadowers.",
+          "examples": ["Several shadowers followed the actor."],
+          "collocations": ["group of shadowers"],
+          "synonyms": ["followers", "shadowers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "journalism"]
+        }
+      ]
+    },
+    {
+      "term": "shadowfoot",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Not a commonly recognized standard term in contemporary English; may be a proper noun, nickname, or error.",
+          "examples": ["Context-dependent; not a standard dictionary entry."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shadowgram",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A concise, shadowy or minute image or outline; often used in historical or medical illustration contexts to describe a faint image.",
+          "examples": ["The shadowgram revealed a subtle silhouette."],
+          "collocations": ["shadowgram image", "shadowgram technique"],
+          "synonyms": ["silhouette image", "shadow image"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "history", "science"]
+        }
+      ]
+    },
+    {
+      "term": "shadowgraph",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A type of image produced by shadows; a photographic or illustrative silhouette used for study or art.",
+          "examples": ["The shadowgraph contrasted light and dark to show shape."],
+          "collocations": ["shadowgraph technique", "shadowgraph image"],
+          "synonyms": ["shadow image", "silhouette"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "shadowgraphic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or producing shadowgraphs; of or used in shadowgraphy.",
+          "examples": ["The exhibit featured shadowgraphic art pieces."],
+          "collocations": ["shadowgraphic technique", "shadowgraphic image"],
+          "synonyms": ["silhouette-based"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "education"]
+        }
+      ]
+    },
+    {
+      "term": "shadowgraphies",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of shadowgraphy; the study or creation of shadowgraphs.",
+          "examples": ["The gallery displayed several shadowgraphies."],
+          "collocations": ["collection of shadowgraphies"],
+          "synonyms": ["shadowgraphy works"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "education"]
+        }
+      ]
+    },
+    {
+      "term": "shadowgraphist",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who creates shadowgraphs; an artist or technician in this field.",
+          "examples": ["The shadowgraphist demonstrated techniques at the museum."],
+          "collocations": ["shadowgraphist workshop", "renowned shadowgraphist"],
+          "synonyms": ["shadowgraph artist"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "education"]
+        }
+      ]
+    },
+    {
+      "term": "shadowgraphs",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple shadowgraphs; several images created by shadowgraphic techniques.",
+          "examples": ["The book contained many shadowgraphs."],
+          "collocations": ["collection of shadowgraphs"],
+          "synonyms": ["shadowgraph images"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "education"]
+        }
+      ]
+    },
+    {
+      "term": "shadowgraphy",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The art or technique of creating shadowgraphs; the study or practice of shadowgraphy.",
+          "examples": ["Shadowgraphy can reveal shapes not seen in light alone."],
+          "collocations": ["practice of shadowgraphy", "shadowgraphy technique"],
+          "synonyms": ["shadowgraph technique"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "education"]
+        }
+      ]
+    },
+    {
+      "term": "shadowgraphie",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Alternative spelling variant of shadowgraphy; refers to the same field.",
+          "examples": ["Historically, shadowgraphie appeared in early texts."],
+          "collocations": ["shadowgraphie techniques"],
+          "synonyms": ["shadowgraphy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "history"]
+        }
+      ]
+    },
+    {
+      "term": "shadowgraphies",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple instances of shadowgraphies; several examples of the technique.",
+          "examples": ["The exhibition showcased shadowgraphies from several artists."],
+          "collocations": ["collection of shadowgraphies"],
+          "synonyms": ["shadowgraphy works"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "education"]
+        }
+      ]
+    },
+    {
+      "term": "shadowgraphy",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The practice or science of creating shadowgraphs; a form of visual analysis or art.",
+          "examples": ["She studied shadowgraphy to understand light and form."],
+          "collocations": ["practice of shadowgraphy", "shadowgraphy method"],
+          "synonyms": ["shadowgraph technique"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "education", "science"]
+        }
+      ]
+    },
+    {
+      "term": "shadowier",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "More shadowy; more obscured or darker in appearance.",
+          "examples": ["The cave looked shadowier than before."],
+          "collocations": ["shadowier corners", "shadowier mood"],
+          "synonyms": ["darker", "shadier"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

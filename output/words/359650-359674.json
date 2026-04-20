@@ -1,0 +1,342 @@
+```json
+{
+  "items": [
+    {
+      "term": "skates",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "shoes with blades or wheels used for moving on ice or hard ground",
+          "examples": ["She bought new skates for winter.", "He put on his skates and went onto the ice."],
+          "collocations": ["ice skates", "roller skates", "wear skates", "buy skates", "lace up skates"],
+          "synonyms": ["rollers", "blades"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday", "sports"]
+        },
+        {
+          "pos": "noun",
+          "definition": "large flat sea fish related to rays",
+          "examples": ["Skates live on the ocean floor.", "The fisherman caught several skates."],
+          "collocations": ["catch skates", "skates and rays", "sea skates"],
+          "synonyms": ["ray"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["animals"]
+        }
+      ]
+    },
+    {
+      "term": "skatikas",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "skatiku",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "skating",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the activity of moving on ice or a hard surface using skates",
+          "examples": ["Skating is popular in winter.", "They went skating on the frozen lake."],
+          "collocations": ["ice skating", "figure skating", "go skating", "skating rink", "skating lesson"],
+          "synonyms": ["gliding"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "skatings",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "instances or sessions of skating",
+          "examples": ["The club organizes weekly skatings.", "Winter skatings are very popular here."],
+          "collocations": ["weekly skatings", "public skatings"],
+          "synonyms": ["sessions"],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "skatist",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who plays skat, a German card game",
+          "examples": ["He is a skilled skatist.", "The tournament attracted many skatists."],
+          "collocations": ["professional skatist", "skilled skatist"],
+          "synonyms": ["player"],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["games"]
+        }
+      ]
+    },
+    {
+      "term": "skatol",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical compound with a strong smell found in feces",
+          "examples": ["Skatol contributes to the smell of waste.", "The lab studied skatol compounds."],
+          "collocations": ["skatol compound", "skatol smell"],
+          "synonyms": ["skatole"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "skatole",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a foul-smelling chemical produced in the intestines",
+          "examples": ["Skatole is present in manure.", "The odor comes from skatole."],
+          "collocations": ["skatole odor", "skatole production"],
+          "synonyms": ["skatol"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "skatoles",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of skatole",
+          "examples": ["Different skatoles were analyzed.", "The sample contained several skatoles."],
+          "collocations": ["types of skatoles"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "skatology",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study or interest in excrement or obscene matters",
+          "examples": ["The book contains elements of skatology.", "Skatology appears in some forms of satire."],
+          "collocations": ["study of skatology", "skatology humor"],
+          "synonyms": ["obscenity"],
+          "antonyms": ["refinement"],
+          "register": "formal",
+          "domain": ["academic", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "skatols",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "skatoma",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "skatoscopy",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "skatosine",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "skatoxyl",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "skats",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of skat, a German card game",
+          "examples": ["They played several skats during the evening.", "Skats are popular in Germany."],
+          "collocations": ["play skats", "game of skats"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["games"]
+        }
+      ]
+    },
+    {
+      "term": "skatt",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a tax in Scandinavian countries",
+          "examples": ["He paid his skatt on time.", "Skatt rates vary by country."],
+          "collocations": ["pay skatt", "income skatt"],
+          "synonyms": ["tax"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["government"]
+        }
+      ]
+    },
+    {
+      "term": "skatts",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of skatt",
+          "examples": ["The government increased skatts.", "Different skatts apply to goods."],
+          "collocations": ["various skatts"],
+          "synonyms": ["taxes"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["government"]
+        }
+      ]
+    },
+    {
+      "term": "skaw",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a narrow point of land that sticks out into the sea",
+          "examples": ["The ship passed the skaw.", "Birds gathered along the skaw."],
+          "collocations": ["rocky skaw", "coastal skaw"],
+          "synonyms": ["headland", "spit"],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "skaws",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of skaw",
+          "examples": ["The coastline has many skaws.", "Skaws extend into the sea."],
+          "collocations": ["coastal skaws"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "skayles",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "skean",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a short dagger or knife, especially in Scottish history",
+          "examples": ["He carried a skean at his belt.", "The skean was used in battle."],
+          "collocations": ["carry a skean", "sharp skean"],
+          "synonyms": ["dagger", "knife"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "skeane",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a variant spelling of skean",
+          "examples": ["The skeane was finely decorated.", "He drew his skeane."],
+          "collocations": ["sharp skeane"],
+          "synonyms": ["dagger"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "skeanes",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of skeane",
+          "examples": ["The warriors carried skeanes.", "Several skeanes were displayed."],
+          "collocations": ["old skeanes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "skeanockle",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    }
+  ]
+}
+```

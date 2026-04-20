@@ -1,0 +1,544 @@
+{
+  "items": [
+    {
+      "term": "slacked",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of slack, meaning to become less active, to decline, or to cause something to become looser or less tight",
+          "examples": [
+            "She slacked off on her studying during the exam period.",
+            "The rope slacked as the load was lowered."
+          ],
+          "collocations": ["slack off", "slack off on", "slack rope", "slacken by", "slackened tension"],
+          "synonyms": ["dawdled", "relaxed", "decreased activity"],
+          "antonyms": ["proceeded", "increased", "intensified"],
+          "register": "informal",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slacken",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to become less tight or to reduce in effort or speed",
+          "examples": [
+            "If you pull too hard, the rope will slacken.",
+            "He tends to slacken his pace when the crowd grows quiet."
+          ],
+          "collocations": ["slacken rope", "slacken pace", "slacken effort", "slacken off"],
+          "synonyms": ["loosen", "decelerate", "ease"],
+          "antonyms": ["tighten", "increase", "accelerate"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slackened",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of slacken; became looser or less tight, or became less active",
+          "examples": [
+            "The tension slackened after the accident was cleared.",
+            "Her grip slackened and the pen fell."
+          ],
+          "collocations": ["tension slackened", "grip slackened", "slackened off"],
+          "synonyms": ["loosened", "eased", "decreased"],
+          "antonyms": ["tightened", "tightened up"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slackener",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a thing that slackens; a device or person that causes looseness or reduces tension",
+          "examples": [
+            "The slackener on the cable is damaged.",
+            "He considered himself a slackener of procedures."
+          ],
+          "collocations": ["rope slackener", "tension slackener"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slackeners",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slackener; items or people that cause looseness or reduced tension",
+          "examples": [
+            "The slackeners were replaced to restore proper tension.",
+            "There are several slackeners in the system."
+          ],
+          "collocations": ["be slackeners", "replace slackeners"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slackening",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of becoming looser or less intense; a decrease in effort",
+          "examples": [
+            "There was a slackening of tempo in the music.",
+            "The team's slackening of pace worried the coach."
+          ],
+          "collocations": ["slackening of pace", "slackening of tension", "slackening trend"],
+          "synonyms": ["loosening", "easing", "decrease"],
+          "antonyms": ["tightening", "increase"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slackenings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slackening; instances of becoming looser or less intense",
+          "examples": [
+            "Several slackenings were observed during the trial.",
+            "The slackenings varied in duration."
+          ],
+          "collocations": ["multiple slackenings", "occasional slackenings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slackens",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present tense of slacken; to become looser or to reduce effort",
+          "examples": [
+            "The rope slackens when the load is lowered.",
+            "His grip slackens as fatigue sets in."
+          ],
+          "collocations": ["slackens rope", "slackens momentum"],
+          "synonyms": ["loosens", "decreases"],
+          "antonyms": ["tightens", "increases"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slacker",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is lazy or avoids work",
+          "examples": [
+            "Don't be a slacker; help finish the chores.",
+            "The class accused him of being a total slacker."
+          ],
+          "collocations": ["lazy slacker", "procrastinating slacker"],
+          "synonyms": ["lazy person", "procrastinator"],
+          "antonyms": ["hard worker", "go-getter"],
+          "register": "informal",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slackerism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the behavior or attitude of slacking; habit of avoiding work",
+          "examples": [
+            "His slackerism frustrated his team.",
+            "Slackerism can hurt a project’s progress."
+          ],
+          "collocations": ["culture of slackerism", "resist slackerism"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slackers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slacker; multiple lazy people",
+          "examples": [
+            "The group warned the slackers to join the effort.",
+            "Two slackers were asked to leave the team."
+          ],
+          "collocations": ["lazy slackers", "unmotivated slackers"],
+          "synonyms": ["lazy people", "procrastinators"],
+          "antonyms": ["hard workers", "dedicated team members"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slackest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative form of slacky or slack; most loose or least active",
+          "examples": [
+            "This is the slackest part of the rope.",
+            "He was the slackest student in the class."
+          ],
+          "collocations": ["the slackest period", "slackest zone"],
+          "synonyms": ["loosest", "laziest"],
+          "antonyms": ["tighest", "most active"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slackie",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal, affectionate term for a lazy or slack person; can be playful or mildly insulting",
+          "examples": [
+            "Quit being a slackie and finish your homework.",
+            "He jokes that he’s a total slackie on Sundays."
+          ],
+          "collocations": ["cute slackie", "old slackie"],
+          "synonyms": ["slacker (informal)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slacking",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of slack; avoiding work or reducing effort",
+          "examples": [
+            "The workers are slacking off instead of finishing the job.",
+            "She caught herself slacking and refocused."
+          ],
+          "collocations": ["slacking off", "slacking on"],
+          "synonyms": ["dawdling", "loafing", "idling"],
+          "antonyms": ["working hard", "pushing ahead"],
+          "register": "informal",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slackingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is slacking or lazy; without proper effort",
+          "examples": [
+            "He spoke slackingly, without much interest.",
+            "She slackedingly completed the task, barely finishing."
+          ],
+          "collocations": ["work slackingly", "slackingly slow"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slackly",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a slack or loose manner; not tight or straining",
+          "examples": [
+            "The rope hung slackly between the posts.",
+            "Her grip lay slackly on the handle."
+          ],
+          "collocations": ["hang slackly", "pull slackly"],
+          "synonyms": ["loosely", "laxly"],
+          "antonyms": ["tightly", "firmly"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slackminded",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a slack or lazy mindset; not careful or diligent",
+          "examples": [
+            "His slackminded approach led to mistakes.",
+            "A slackminded attitude won't help in exams."
+          ],
+          "collocations": ["slackminded attitude", "slackminded approach"],
+          "synonyms": ["careless", "slothful"],
+          "antonyms": ["conscientious", "careful"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slackmindedness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being slackminded; lack of focus or diligence",
+          "examples": [
+            "Her slackmindedness caused missing deadlines.",
+            "A culture of slackmindedness can damage productivity."
+          ],
+          "collocations": ["slackmindedness in work"],
+          "synonyms": ["carelessness", "negligence"],
+          "antonyms": ["focus", "diligence"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slackness",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being slack; lack of effort or tightness",
+          "examples": [
+            "There is slackness in the rope.",
+            "The slackness of discipline worried the coach."
+          ],
+          "collocations": ["slackness in rope", "financial slackness"],
+          "synonyms": ["looseness", "laxity"],
+          "antonyms": ["tightness", "rigor"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slacknesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slackness; multiple instances of looseness or laxity",
+          "examples": [
+            "The rope had several slacknesses along its length.",
+            "The report highlighted various financial slacknesses."
+          ],
+          "collocations": ["multiple slacknesses", "areas of slackness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slacks",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal trousers for casual wear; loosely fitting pants",
+          "examples": [
+            "He bought a new pair of slacks for the weekend.",
+            "Her beige slacks matched the shirt nicely."
+          ],
+          "collocations": ["dress slacks", "slacks pants", "comfortable slacks"],
+          "synonyms": ["trousers", "pants"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["fashion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "slacktivism",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "actions that support a political or social cause mainly through online activity rather than real-world effort",
+          "examples": [
+            "Many people engage in slacktivism by liking posts but not donating.",
+            "The campaign criticized slacktivism as insufficient for real change."
+          ],
+          "collocations": ["online slacktivism", "anti-slacktivism", "slacktivism movement"],
+          "synonyms": ["clicktivism"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["politics", "technology", "society"]
+        }
+      ]
+    },
+    {
+      "term": "slacktivisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slacktivism; online actions supporting causes with little real-world impact",
+          "examples": [
+            "The criticisms of slacktivisms grew louder during the campaign.",
+            "Skeptics argued that slacktivisms rarely lead to policy change."
+          ],
+          "collocations": ["various slacktivisms"],
+          "synonyms": ["clicktivisms"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["politics", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "slacktivist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who supports a cause primarily through online activity with little real-world action",
+          "examples": [
+            "Some people call him a slacktivist because he shares posts but never volunteers.",
+            "Critics say slacktivists fail to create real change."
+          ],
+          "collocations": ["online slacktivist", "privately critical slacktivist"],
+          "synonyms": ["clicktivist"],
+          "antonyms": ["activist", "volunteer"],
+          "register": "informal",
+          "domain": ["politics", "society"]
+        }
+      ]
+    },
+    {
+      "term": "slacktivists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slacktivist; multiple people who mainly act online for a cause",
+          "examples": [
+            "The event attracted many slacktivists who posted but did not participate in person.",
+            "Advocates argued that slacktivists still raise awareness."
+          ],
+          "collocations": ["group of slacktivists"],
+          "synonyms": ["clicktivists"],
+          "antonyms": ["activists", "fighters for change"],
+          "register": "informal",
+          "domain": ["politics", "society"]
+        }
+      ]
+    },
+    {
+      "term": "slacktivist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who supports a cause mainly through online activities rather than real-world actions",
+          "examples": [
+            "Don't be a slacktivist; join us on the ground too.",
+            "The article described slacktivists as a mixed blessing."
+          ],
+          "collocations": ["social slacktivist", "online slacktivist"],
+          "synonyms": ["clicktivist"],
+          "antonyms": ["active participant", "activist"],
+          "register": "informal",
+          "domain": ["politics", "society"]
+        }
+      ]
+    },
+    {
+      "term": "slacktivists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form referring to people who engage in slacktivism",
+          "examples": [
+            "The conference challenged slacktivists to take tangible actions.",
+            "Media debates whether slacktivists harm or help movements."
+          ],
+          "collocations": ["types of slacktivists"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "society"]
+        }
+      ]
+    }
+  ]
+}

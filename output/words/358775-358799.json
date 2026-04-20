@@ -1,0 +1,518 @@
+{
+  "items": [
+    {
+      "term": "singular",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "denoting something that is one; unique; solitary",
+          "examples": [
+            "a singular solution to the problem",
+            "the singular beauty of the sunset",
+            "her singular focus on her career"
+          ],
+          "collocations": ["singular focus", "singular importance", "singular instance"],
+          "synonyms": ["unique", "one-of-a-kind", "exceptional"],
+          "antonyms": ["plural", "common", "ordinary"],
+          "register": "formal",
+          "domain": ["general", "arts"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a form of a noun indicating one person or thing; the basic form of a word used to denote one member of a class",
+          "examples": [
+            "The word 'dog' is in its singular form here.",
+            "In English, nouns have singular and plural forms."
+          ],
+          "collocations": ["singular form", "singular noun"],
+          "synonyms": ["lemma"],
+          "antonyms": ["plural"],
+          "register": "neutral",
+          "domain": ["general", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "singularisation",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of converting or becoming singular; the act of making something one or unique",
+          "examples": [
+            "the singularisation of the record into a single theme",
+            "the gradual singularisation of the species name in the taxonomy"
+          ],
+          "collocations": ["process of singularisation", "singularisation of terms"],
+          "synonyms": ["unification", "monomorphism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "singularise",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make singular; to render one; to express something as unique",
+          "examples": [
+            "to singularise a collection into a single dataset",
+            "the plan singularises the main objective"
+          ],
+          "collocations": ["singularise a form", "singularise into a unit"],
+          "synonyms": ["unify", "unify into one", "monopolise"],
+          "antonyms": ["pluralise", "pluralize", "diversify"],
+          "register": "formal",
+          "domain": ["academic", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "singularised",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "made singular or unique; converted into a single form",
+          "examples": [
+            "the plural noun was singularised to match the header",
+            "a singularised dataset"
+          ],
+          "collocations": ["singularised form", "singularised version"],
+          "synonyms": ["unified", "monomorphised"],
+          "antonyms": ["pluralised"],
+          "register": "formal",
+          "domain": ["technology", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "singularises",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of singularise; makes something singular",
+          "examples": [
+            "the theory singularises the data into a single pattern",
+            "it singularises the argument by focusing on one point"
+          ],
+          "collocations": ["singularises the data", "singularises the argument"],
+          "synonyms": ["unifies", "monomorphises"],
+          "antonyms": ["pluralises"],
+          "register": "formal",
+          "domain": ["academic", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "singularising",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of singularise; the act of making something singular",
+          "examples": [
+            "singularising the dataset takes careful restructuring",
+            "they are singularising the noun phrases"
+          ],
+          "collocations": ["singularising process", "singularising data"],
+          "synonyms": ["unifying", "monomorphising"],
+          "antonyms": ["pluralising"],
+          "register": "formal",
+          "domain": ["academic", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "singularism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a doctrine or belief in the importance of being singular or unique; a focus on individuality",
+          "examples": [
+            "the philosophy of singularism emphasises individual perspective",
+            "critics call it a form of authoritarian singularism"
+          ],
+          "collocations": ["political singularism", "philosophical singularism"],
+          "synonyms": ["uniqueness focus", "individualism"],
+          "antonyms": ["pluralism", "universality"],
+          "register": "formal",
+          "domain": ["theory", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "singularisms",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of singularism; multiple theories or beliefs about individuality or uniqueness",
+          "examples": [
+            "the essay discusses various singularisms within the movement",
+            "plural singularisms were debated by scholars"
+          ],
+          "collocations": ["different singularisms", "political singularisms"],
+          "synonyms": ["unique-belief systems"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy", "social theory"]
+        }
+      ]
+    },
+    {
+      "term": "singularist",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who adheres to or advocates singularism; someone who stresses individuality",
+          "examples": [
+            "a vocal singularist argued for solitary focus",
+            "the panel included several singularists"
+          ],
+          "collocations": ["religious singularist", "academic singularist"],
+          "synonyms": ["individualist", "monist"],
+          "antonyms": ["pluralist"],
+          "register": "formal",
+          "domain": ["philosophy", "sociology"]
+        }
+      ]
+    },
+    {
+      "term": "singularists",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of singularist; people who advocate singularism",
+          "examples": [
+            "the conference brought together several singularists",
+            "plural of singularist opinions were debated"
+          ],
+          "collocations": ["group of singularists", "academic singularists"],
+          "synonyms": ["individualists", "monists"],
+          "antonyms": ["pluralists"],
+          "register": "formal",
+          "domain": ["philosophy", "sociology"]
+        }
+      ]
+    },
+    {
+      "term": "singularities",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "qualities of being singular or unique; peculiarities that distinguish something",
+          "examples": [
+            "the mathematical singularities of the function",
+            "the artist celebrated the song's lyrical singularities"
+          ],
+          "collocations": ["technical singularities", "biological singularities"],
+          "synonyms": ["peculiarities", "uniquenesses"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["mathematics", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "singularity",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being singular or unique; a point where a function or system becomes undefined or infinite",
+          "examples": [
+            "the technological singularity",
+            "a gravitational singularity",
+            "a singularity in the data set"
+          ],
+          "collocations": ["technological singularity", "gravitational singularity", "singularity point"],
+          "synonyms": ["uniqueness", "oddity", "anomaly"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "philosophy", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "singularization",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of making something singular; the act of defining as one",
+          "examples": [
+            "the singularization of the terms",
+            "linguistic singularization in the corpus"
+          ],
+          "collocations": ["singularization process", "linguistic singularization"],
+          "synonyms": ["unification", "monomorphism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "singularize",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make singular; to render one; to identify as a single item",
+          "examples": [
+            "to singularize data for analysis",
+            "the process can singularize several categories into one"
+          ],
+          "collocations": ["singularize data", "singularize terms"],
+          "synonyms": ["unify", "monomorphize"],
+          "antonyms": ["pluralize"],
+          "register": "formal",
+          "domain": ["data processing", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "singularized",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "made singular or unified; reduced to a single item",
+          "examples": [
+            "the data was singularized into a single series",
+            "singularized forms were easier to compare"
+          ],
+          "collocations": ["singularized data", "singularized forms"],
+          "synonyms": ["unified", "monomorphized"],
+          "antonyms": ["pluralized"],
+          "register": "formal",
+          "domain": ["data processing", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "singularizes",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of singularize; makes something singular",
+          "examples": [
+            "the dataset singularizes several trends into one",
+            "it singularizes the concept for clarity"
+          ],
+          "collocations": ["singularizes data", "singularizes trends"],
+          "synonyms": ["unifies", "monomorphizes"],
+          "antonyms": ["pluralizes"],
+          "register": "formal",
+          "domain": ["data processing", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "singularizing",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of singularize; the act of making something singular",
+          "examples": [
+            "singularizing data helps in clear reporting",
+            "they are singularizing categories into a single group"
+          ],
+          "collocations": ["singularizing process", "singularizing data"],
+          "synonyms": ["unifying", "monomorphizing"],
+          "antonyms": ["pluralizing"],
+          "register": "formal",
+          "domain": ["data processing", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "singularly",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a singular manner; exceptionally; notably",
+          "examples": [
+            "the project stands singularly in its field",
+            "she spoke singularly about the issue"
+          ],
+          "collocations": ["singularly important", "singularly unique"],
+          "synonyms": ["remarkably", "exceptionally", "notably"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "singularness",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being singular or unique; the state of being one of a kind",
+          "examples": [
+            "the singularness of his voice was unforgettable",
+            "we admired the singularness of the landscape"
+          ],
+          "collocations": ["degree of singularness", "singularness of nature"],
+          "synonyms": ["uniqueness", "oddity"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literary", "philosophical"]
+        }
+      ]
+    },
+    {
+      "term": "singularnesses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of singularness",
+          "examples": [
+            "the essay notes several singularnesses in the argument",
+            "exploring the various singularnesses of the theory"
+          ],
+          "collocations": ["different singularnesses", "philosophical singularnesses"],
+          "synonyms": ["unique qualities"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy", "literary criticism"]
+        }
+      ]
+    },
+    {
+      "term": "singulars",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of singular; things that are singular or unique; individuals",
+          "examples": [
+            "the exhibition features several singulars in design",
+            "each item is a singular in its own right"
+          ],
+          "collocations": ["rare singulars", "odd singulars"],
+          "synonyms": ["one-offs", "oddities"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "singulary",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "rare or obsolete variant meaning relating to being singular",
+          "examples": [
+            "a singulary approach (archaic usage)",
+            "the term appears in older texts as singulary"
+          ],
+          "collocations": ["singulary usage"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "singult",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "obsolete or rare term; a shortened form used in some dictionaries",
+          "examples": [
+            "the term singult appears in some older lexicons"
+          ],
+          "collocations": ["singult entry"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["lexicography"]
+        }
+      ]
+    },
+    {
+      "term": "singultation",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of crying or sobbing distinctly; in anatomy or medicine, a hiccup-like action",
+          "examples": [
+            "the patient experienced a prolonged singultation",
+            "singultation is sometimes described as a hiccup"
+          ],
+          "collocations": ["episodes of singultation", "painful singultation"],
+          "synonyms": ["hiccup", "hiccough"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "singultous",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or characterized by singultation; hiccuping",
+          "examples": [
+            "singultous sounds interrupted the speech",
+            "he had singultous episodes during the night"
+          ],
+          "collocations": ["singultous events", "singultous pain"],
+          "synonyms": ["hiccuping", "hysterical"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "literary"]
+        }
+      ]
+    }
+  ]
+}

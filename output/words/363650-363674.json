@@ -1,0 +1,603 @@
+{
+  "items": [
+    {
+      "term": "snoutish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having or resembling a snout; long or protruding nose",
+          "examples": [
+            "The dog had a snoutish muzzle that dragged along the ground.",
+            "She gave him a snoutish look, as if offended by the question."
+          ],
+          "collocations": ["snoutish appearance", "snoutish muzzle", "snoutish face"],
+          "synonyms": ["snoutlike", "snout-shaped", "mug-nosed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "snoutless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "lacking a snout or extended nose",
+          "examples": [
+            "The toy figure was snoutless and had a flat face.",
+            "Biologists noted that the breed is snoutless compared to others."
+          ],
+          "collocations": ["snoutless breed", "snoutless face", "snoutless nose"],
+          "synonyms": ["nose-less", "snout-free"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "snoutlike",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling or having a snout",
+          "examples": [
+            "The snoutlike projection extended from the front of the sculpture.",
+            "Its snoutlike nose gave the animal a distinctive look."
+          ],
+          "collocations": ["snoutlike projection", "snoutlike feature"],
+          "synonyms": ["snout-shaped", "proboscis-like"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "visual"]
+        }
+      ]
+    },
+    {
+      "term": "snouts",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the protruding nose or projecting part of an animal's head",
+          "examples": [
+            "The dog's snouts were wet after the rain.",
+            "Farmers use feed sacks to guide the animals by their snouts."
+          ],
+          "collocations": ["snouts of dogs", "pig snouts", "snouts in cartoons"],
+          "synonyms": ["snout", "nose"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "snouty",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a noticeable or prominent snout; long-nosed",
+          "examples": [
+            "The cat had a snouty face that made it look comical.",
+            "A snouty dog stood at the gate, sniffing around."
+          ],
+          "collocations": ["snouty face", "snouty nose", "snouty appearance"],
+          "synonyms": ["prognathous", "long-nosed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "snow",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "frozen water in the form of white crystals that fall from the sky and cover the ground",
+          "examples": [
+            "Snow covers the fields after the winter storm.",
+            "Children enjoy playing in the snow."
+          ],
+          "collocations": ["snowfall", "snowstorm", "snowflakes", "snow cover"],
+          "synonyms": ["frost", "ice crystals"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["weather", "general", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to fall as snow or to cover with snow",
+          "examples": [
+            "Snow began to fall in the night.",
+            "The yard was snowed under after the blizzard."
+          ],
+          "collocations": ["start snowing", "snowing heavily", "snowed in"],
+          "synonyms": ["flakes fall", "freeze"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["weather", "general"]
+        }
+      ]
+    },
+    {
+      "term": "snowball",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a ball of snow, typically formed by squeezing snow together",
+          "examples": [
+            "They threw snowballs at each other.",
+            "A snowball rolled down the hill gathering more snow."
+          ],
+          "collocations": ["snowball fight", "snowball effect", "snowball weapon"],
+          "synonyms": ["snowball-shaped ball", "snow pellet"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to grow rapidly in size or amount, like a snowball rolling downhill",
+          "examples": [
+            "The rumor snowballed into a bigger story.",
+            "Costs began to snowball as the project continued."
+          ],
+          "collocations": ["snowball into", "snowball effect", "snowballing growth"],
+          "synonyms": ["ball up", "amplify"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "snowballed",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of snowball; to increase rapidly or to roll as a snowball",
+          "examples": [
+            "The debt snowballed out of control.",
+            "Rumors snowballed after the press release."
+          ],
+          "collocations": ["snowballed into", "snowballed effects", "snowballed costs"],
+          "synonyms": ["ballooned", "accumulated"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "snowballing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of rapidly increasing; a chain reaction",
+          "examples": [
+            "The snowballing costs worried the investors.",
+            "Snowballing debt led to bankruptcy."
+          ],
+          "collocations": ["snowballing costs", "snowballing effect", "snowballing numbers"],
+          "synonyms": ["amplification", "escalation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle of snowball; increasing rapidly",
+          "examples": [
+            "Media attention was snowballing.",
+            "The conflict was snowballing into a regional crisis."
+          ],
+          "collocations": ["snowballing trend", "snowballing effect"],
+          "synonyms": ["escalating", "growing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "news"]
+        }
+      ]
+    },
+    {
+      "term": "snowballs",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of snowball; more than one snowball",
+          "examples": [
+            "The kids tossed snowballs at the teacher.",
+            "Two snowballs stuck to the window."
+          ],
+          "collocations": ["snowballs fight", "snowballs fight", "packing snowballs"],
+          "synonyms": ["snowball(s)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "snowbank",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large pile or bank of snow built up on the side of a road or area",
+          "examples": [
+            "A snowbank blocked part of the sidewalk.",
+            "They cleared the snowbank before the morning commute."
+          ],
+          "collocations": ["large snowbank", "edge of snowbank", "snowbank clearance"],
+          "synonyms": ["snowdrift", "snow pile"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "snowbanks",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of snowbank; multiple piles of snow",
+          "examples": [
+            "The snowbanks along the street were high after the storm.",
+            "Residents dug their cars out of the snowbanks."
+          ],
+          "collocations": ["high snowbanks", "plowed snowbanks"],
+          "synonyms": ["snowdrifts"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "snowbell",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant or flower with bell-shaped blossoms associated with snow",
+          "examples": [
+            "The garden featured a delicate snowbell in spring.",
+            "Snowbells hang gracefully from the branches."
+          ],
+          "collocations": ["snowbell tree", "snowbell flowers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["gardening", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "snowbells",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of snowbell; bell-shaped flowers",
+          "examples": [
+            "Snowbells covered the shrubs in white blossoms.",
+            "They admired the snowbells in the early spring garden."
+          ],
+          "collocations": ["snowbells bloom", "garden snowbells"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["gardening", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "snowbelt",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a region that experiences heavy snowfall regularly, often a geographic belt",
+          "examples": [
+            "The Niagara snowbelt gets heavy snow each winter.",
+            "Living in the snowbelt requires good winter tires."
+          ],
+          "collocations": ["snowbelt region", "snowbelt area"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "general"]
+        }
+      ]
+    },
+    {
+      "term": "snowbelts",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of snowbelt; multiple snowy regions",
+          "examples": [
+            "The Great Lakes snowbelts influence local tourism.",
+            "Snowbelts are known for heavy snowfalls."
+          ],
+          "collocations": ["snowbelt regions", "snowbelt areas"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "general"]
+        }
+      ]
+    },
+    {
+      "term": "snowberg",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mound or pile of snow, or a snowy mountain-like feature; may be a proper noun in specific locales",
+          "examples": [
+            "A snowberg blocked the path after the storm.",
+            "The ski resort offered tours around a snowberg formation."
+          ],
+          "collocations": ["snowberg formation", "standing snowberg"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "snowberries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant with white berries that may resemble snow",
+          "examples": [
+            "Snowberries brighten the winter garden.",
+            "Birds eat the ripe snowberries."
+          ],
+          "collocations": ["snowberry plant", "snowberry berries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["gardening", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "snowberry",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant that bears white, snowy-looking berries",
+          "examples": [
+            "The snowberry shrub is known for its bright white fruits.",
+            "Snowberry is often used in winter decoration."
+          ],
+          "collocations": ["snowberry shrub", "snowberry berries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["gardening", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "snowbird",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who migrates to warmer places during winter or a person who travels south for the winter",
+          "examples": [
+            "Many retirees become snowbirds, escaping the cold season.",
+            "Snowbirds head to Florida for the winter."
+          ],
+          "collocations": ["snowbird lifestyle", "snowbird season", "seasonal snowbird"],
+          "synonyms": ["migrant", "winter visitor"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["lifestyle", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "snowbirds",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of snowbird; people who migrate seasonally to warmer places",
+          "examples": [
+            "Winter brings many snowbirds to the island.",
+            "Snowbirds spend several months abroad."
+          ],
+          "collocations": ["snowbirds travel", "seasonal snowbirds"],
+          "synonyms": ["migrants", "winter visitors"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["lifestyle", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "snowblader",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who uses snowblades, a type of small, narrow skis",
+          "examples": [
+            "The snowblader zipped down the slope.",
+            "Snowbladers prefer quick, carving turns."
+          ],
+          "collocations": ["ski resort snowbladers", "experienced snowblader"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "recreation"]
+        }
+      ]
+    },
+    {
+      "term": "snowbladers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of snowblader; people who use snowblades",
+          "examples": [
+            "The group of snowbladers gathered at the lift.",
+            "Snowbladers showed impressive edge control today."
+          ],
+          "collocations": ["groups of snowbladers", "skate-style snowbladers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "recreation"]
+        }
+      ]
+    },
+    {
+      "term": "snowblades",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "short, narrow skis used for snow sports",
+          "examples": [
+            "She rented snowblades for a quick run down the hill.",
+            "Snowblades are lighter and shorter than regular skis."
+          ],
+          "collocations": ["rent snowblades", "learn snowblades", "snowblades skiing"],
+          "synonyms": ["skis", "mini-skis"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "recreation"]
+        }
+      ]
+    },
+    {
+      "term": "snowblading",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of riding snowblades on snow; to ski with snowblades",
+          "examples": [
+            "He took up snowblading last winter.",
+            "Snowblading requires quick turns and balance."
+          ],
+          "collocations": ["snowblading technique", "beginner snowblading"],
+          "synonyms": ["skis with snowblades", "blade-skiing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "recreation"]
+        }
+      ]
+    },
+    {
+      "term": "snowballs",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of snowball; multiple snowballs",
+          "examples": [
+            "They threw snowballs at the window.",
+            "Snowballs flew through the air during the game."
+          ],
+          "collocations": ["ice-cold snowballs", "snowball fight"],
+          "synonyms": ["snowball(s)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "snowballing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of snowball; increasing rapidly",
+          "examples": [
+            "The costs were snowballing beyond expectations.",
+            "Interest in the program is snowballing."
+          ],
+          "collocations": ["snowballing costs", "snowballing effect", "snowballing interest"],
+          "synonyms": ["escalating", "compounding"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "snowball",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a ball of packed snow used in winter play",
+          "examples": [
+            "They built a snowball fort.",
+            "A frozen snowball knocked over the statue."
+          ],
+          "collocations": ["hard-packed snowball", "snowball fight"],
+          "synonyms": ["snow ball"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    }
+  ]
+}
