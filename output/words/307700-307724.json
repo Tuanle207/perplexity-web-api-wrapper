@@ -1,0 +1,463 @@
+{
+  "items": [
+    {
+      "term": "prisometer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device for measuring the length of time or distance related to a prison term (note: this term is uncommon and not widely used in standard dictionaries).",
+          "examples": ["Historically, a prisometer was mentioned in niche texts about legal timing devices."],
+          "collocations": ["historical prisometer", "legal device"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prison",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a building where people are kept as punishment for committing crimes; a place for people who have been convicted or are awaiting trial.",
+          "examples": [
+            "He spent two years in prison for theft.",
+            "The prison has strict visiting hours."
+          ],
+          "collocations": ["jail and prison", "prison sentence", "state prison", "prison cell", "prison reform"],
+          "synonyms": ["jail (informal)", "penitentiary", "gaol (older spelling)"],
+          "antonyms": ["freedom", "liberty"],
+          "register": "neutral",
+          "domain": ["general", "law", "society"]
+        }
+      ]
+    },
+    {
+      "term": "prisonable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being imprisoned or punishable by imprisonment.",
+          "examples": ["The act is prisonable under the new law."],
+          "collocations": ["prisonable offense", "highly prisonable"],
+          "synonyms": ["punishable by imprisonment", "imprisonable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prisonbreak",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an escape from prison; the act of breaking out of a prison.",
+          "examples": ["The prisonbreak shocked the guards."],
+          "collocations": ["dramatic prisonbreak", "attempted prisonbreak", "prison break"],
+          "synonyms": ["escape", " breakout", "breakout"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "law", "society"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to escape from prison; to break out of confinement.",
+          "examples": ["The inmates planned to prisonbreak at night."],
+          "collocations": ["prisonbreak attempt", "attempt to prisonbreak"],
+          "synonyms": ["escape", "break out"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "prisondom",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or domain of being a prisoner; the condition of imprisonment.",
+          "examples": ["He lived in the grim prisondom for years."],
+          "collocations": ["prison life", "prison environment", "prisoner’s prisondom"],
+          "synonyms": ["imprisonment", "captivity"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "prisoned",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of imprison; placed in prison.",
+          "examples": ["He was prisoned for five years after the trial."],
+          "collocations": ["was prisoned", "prisoned for years"],
+          "synonyms": ["imprisoned", "confined"],
+          "antonyms": ["released", "freed"],
+          "register": "neutral",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "prisoner",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is kept in prison as a punishment or while awaiting trial.",
+          "examples": [
+            "The prisoner asked for water.",
+            "Prisoners have rights under international law."
+          ],
+          "collocations": ["female prisoner", "prisoner of war", "juvenile prisoner", "prisoner transport"],
+          "synonyms": ["convict", "inmate", "detainee"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "prisoners",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prisoner; multiple people who are imprisoned.",
+          "examples": [
+            "The prison housed 200 prisoners.",
+            "Prisoners were moved to a safer wing."
+          ],
+          "collocations": ["prisoners in custody", "prisoners' rights"],
+          "synonyms": ["inmates", "detainees"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "prisonful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "full to the prison; containing or filled with prisoners (rare; archaic/poetic usage).",
+          "examples": ["A prisonful of awaiting trials stood silent."],
+          "collocations": ["prisonful crowd"],
+          "synonyms": ["crowded with prisoners"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "prisonhouse",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place of confinement; a building or place that imprisons.",
+          "examples": ["The old fortress became a prisonhouse for the town."],
+          "collocations": ["prisonhouse of law", "become a prisonhouse"],
+          "synonyms": ["prison", "confined place"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prisoning",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of placing someone in prison; the act of imprisoning.",
+          "examples": ["Prisoning of political dissidents was common in the era."],
+          "collocations": ["prisoning acts", "unlawful prisoning"],
+          "synonyms": ["imprisoning", "detaining"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "history"]
+        }
+      ]
+    },
+    {
+      "term": "prisonlike",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling a prison; harsh, confining, or dreary.",
+          "examples": ["The dormitory had a prisonlike atmosphere."],
+          "collocations": ["prisonlike conditions", "prisonlike environment"],
+          "synonyms": ["dismal", "grim", "restrictive"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prisonment",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being in prison; the act of imprisoning someone.",
+          "examples": [
+            "His imprisonment lasted for five years.",
+            "International law protects prisoners' rights during imprisonment."
+          ],
+          "collocations": ["life imprisonment", "imprisonment terms", "pre-trial imprisonment"],
+          "synonyms": ["incarceration", "detention", "imprisonment"],
+          "antonyms": ["freedom", "release"],
+          "register": "neutral",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prisonments",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of imprisonment; multiple instances or periods of being imprisoned.",
+          "examples": ["Different eras saw varying prisonments for the same crime."],
+          "collocations": ["various imprisonments", "multiple imprisonments"],
+          "synonyms": ["incarcerations"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prisonous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "poisonous or resembling poison; dangerous or harmful.",
+          "examples": ["The gas released was prisonous to inhale."],
+          "collocations": ["prisonous gas", "prisonous substance"],
+          "synonyms": ["poisonous", "toxic"],
+          "antonyms": ["harmless", "benign"],
+          "register": "literary",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prisons",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prison; multiple confinement facilities.",
+          "examples": [
+            "There are many prisons across the country.",
+            "Prisons faced overcrowding."
+          ],
+          "collocations": ["state prisons", "federal prisons", "prisons reform"],
+          "synonyms": ["jails", "detention centers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "priss",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is very fussy or overly proper about manners or appearance (informal, often playful or derisive).",
+          "examples": [
+            "She's a total priss about her clothes.",
+            "Don't be such a priss; just relax."
+          ],
+          "collocations": ["big priss", "prissy priss"],
+          "synonyms": ["prig", "fussbudget", "puritan"],
+          "antonyms": ["sloven", "carefree person"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prissed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "acted like a priss; behaved in a fussy or overly proper way.",
+          "examples": ["She prissed about her outfit all day."],
+          "collocations": ["prissed around", "prissed behavior"],
+          "synonyms": ["fussed", "preened"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prisses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of priss; more than one priss.",
+          "examples": [
+            "The party had a few real prisses among the guests."
+          ],
+          "collocations": ["group of prisses"],
+          "synonyms": ["prigs", "fussbuckets"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prissier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "more prissy; fussier or more proper about appearance or manners.",
+          "examples": ["Today she is prissier than usual about her shoes."],
+          "collocations": ["prissier than before", "even more prissy"],
+          "synonyms": ["fussier", "primder"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prissies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prissy person; multiple fussy people.",
+          "examples": [
+            "The group included several prissies who refused to sit on the grass."
+          ],
+          "collocations": ["group of prissies"],
+          "synonyms": ["prigs"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prissiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "most prissy; extremely fussy or proper.",
+          "examples": ["He was the prissiest person at the party."],
+          "collocations": ["the prissiest person", "most prissy"],
+          "synonyms": ["fussiest", "primist"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prissily",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a prissy or fussy manner; overly proper.",
+          "examples": [
+            "She prissily adjusted her hat before stepping outside."
+          ],
+          "collocations": ["prissily arranged", "prissily correct"],
+          "synonyms": ["primly", "fussily"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prissiness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being prissy; fussiness about clothing or manners.",
+          "examples": ["Her prissiness about etiquette annoyed her friends."],
+          "collocations": ["excessive prissiness", "polite prissiness"],
+          "synonyms": ["fussiness", "primness"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prissinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prissiness; multiple instances of fussiness.",
+          "examples": ["Her various prissinesses annoyed the group."],
+          "collocations": ["series of prissinesses"],
+          "synonyms": ["fussinesses", "primnesses"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

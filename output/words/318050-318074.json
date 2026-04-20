@@ -1,0 +1,576 @@
+{
+  "items": [
+    {
+      "term": "quietage",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a period of quiet or silence; a state or condition of being quiet",
+          "examples": [
+            "The garden enjoyed a brief quietage after the rain.",
+            "There was a rare quietage in the library during the afternoon."
+          ],
+          "collocations": [
+            "moment of quietage",
+            "brief quietage",
+            "momentary quietage"
+          ],
+          "synonyms": ["silence", "calm", "hush"],
+          "antonyms": ["noise", "uproar", "turbulence"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "quieted",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "made or became quiet or calmer",
+          "examples": [
+            "The room was quieted by the soft music.",
+            "Police quieted the crowd with a brief announcement."
+          ],
+          "collocations": [
+            "quieted down",
+            "quieted by",
+            "quieted by fear"
+          ],
+          "synonyms": ["calmed", "lulled", "stilling"],
+          "antonyms": ["excited", "louded"], 
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "quieten",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make or become quieter or calmer",
+          "examples": [
+            "Please quieten the children before the movie starts.",
+            "He tried to quieten his nerves before the test."
+          ],
+          "collocations": [
+            "quieten down",
+            "quieten down the crowd",
+            "quieten opinions"
+          ],
+          "synonyms": ["calm", "tranquilize", "settle"],
+          "antonyms": ["stir", "disturb", "agitate"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "quietened",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "made quiet or calmer; became quieter or calmer",
+          "examples": [
+            "The crowd quietened after the speaker began.",
+            "Her voice quietened as she spoke softly."
+          ],
+          "collocations": [
+            "quietened by",
+            "quietened down"
+          ],
+          "synonyms": ["calmed", "lulled", "softened"],
+          "antonyms": ["raised", "loudened"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "quietener",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one who or something that quietens; a device or person that calms or reduces noise",
+          "examples": [
+            "The quietener of the crowd was the moderator."
+          ],
+          "collocations": [
+            "noise quietener",
+            "emotional quietener"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quieteners",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quietener; devices or people that quieten",
+          "examples": [
+            "The quieteners were installed to reduce noise in the hall."
+          ],
+          "collocations": [
+            "sound quieteners",
+            "peaceful quieteners"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quietening",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of making something quieter or calmer",
+          "examples": [
+            "The quietening of the crowd came after the announcement."
+          ],
+          "collocations": [
+            "prelude to quietening",
+            "period of quietening"
+          ],
+          "synonyms": ["calming", "settling"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quietenings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quietening; acts or instances of making things quieter",
+          "examples": [
+            "Several quietenings occurred during the debate."
+          ],
+          "collocations": [
+            "occasional quietenings",
+            "minor quietenings"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quietens",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "causes to become quieter or calmer; quiets",
+          "examples": [
+            "The noise quietens as the city slows down.",
+            "Her voice quietens when she speaks to children."
+          ],
+          "collocations": [
+            "quiets the crowd",
+            "quietens down"
+          ],
+          "synonyms": ["calms", "softens", "settles"],
+          "antonyms": ["excites", "agitates"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "quieter",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "more quiet; producing less noise or emotion",
+          "examples": [
+            "This room is quieter than the hallway.",
+            "She spoke in a quieter voice."
+          ],
+          "collocations": [
+            "a quieter environment",
+            "quieter evenings"
+          ],
+          "synonyms": ["calmer", "soft-er", "low-noise"],
+          "antonyms": ["louder", "noisier"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quieters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quieter; things that make something quieter",
+          "examples": [
+            "Noise quieters reduce the sound in the workshop."
+          ],
+          "collocations": [
+            "noise quieters",
+            "sound quieters"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quietest",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "the most quiet; producing the least noise",
+          "examples": [
+            "This is the quietest room in the building.",
+            "He spoke in the quietest possible whisper."
+          ],
+          "collocations": [
+            "the quietest place",
+            "quietest moment"
+          ],
+          "synonyms": ["calmest", "softest", "most tranquil"],
+          "antonyms": ["loudest", "noisiest"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quieti",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural or variant form related to quietus/quieti; not widely used in modern English",
+          "examples": [
+            "The term quieti appears in some historical texts."
+          ],
+          "collocations": [
+            "medieval quieti"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["academic", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "quieting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of making something quieter or calmer; the process of quieting",
+          "examples": [
+            "The quieting of the crowd took several minutes."
+          ],
+          "collocations": [
+            "process of quieting",
+            "quieting effect"
+          ],
+          "synonyms": ["calming", "settling"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quietings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quieting; acts of quieting",
+          "examples": [
+            "Several quietings occurred during the protest."
+          ],
+          "collocations": [
+            "moments of quieting"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quietism",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a philosophy or practice that emphasizes inner stillness and detachment from outward actions",
+          "examples": [
+            "Quietism influenced some mystics and spiritual writers.",
+            "The movement's ideas centered on passivity and contemplation."
+          ],
+          "collocations": [
+            "philosophical quietism",
+            "religious quietism",
+            "mystical quietism"
+          ],
+          "synonyms": ["mysticism", "silentism"],
+          "antonyms": ["activism", "engagement"],
+          "register": "neutral",
+          "domain": ["philosophy", "religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "quietisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quietism",
+          "examples": [
+            " scholarly debates covered various quietisms."
+          ],
+          "collocations": [
+            "different quietisms"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["philosophy", "religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "quietist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who adheres to quietism",
+          "examples": [
+            "The quietist advocated contemplation over action."
+          ],
+          "collocations": [
+            "religious quietist",
+            "political quietist"
+          ],
+          "synonyms": ["mystic", "stoic"],
+          "antonyms": ["activist", "opponent"],
+          "register": "neutral",
+          "domain": ["philosophy", "religion"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to or characteristic of quietism",
+          "examples": [
+            "quietist practices"
+          ],
+          "collocations": [
+            "quietist doctrine"
+          ],
+          "synonyms": ["mystic", "passive"],
+          "antonyms": ["active", "engaged"],
+          "register": "neutral",
+          "domain": ["philosophy", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "quietistic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to quietism or its practices; very calm or passive",
+          "examples": [
+            "quietistic meditation methods"
+          ],
+          "collocations": [
+            "quietistic approach",
+            "quietistic ideals"
+          ],
+          "synonyms": ["mystical", "passive"],
+          "antonyms": ["active", "dynamic"],
+          "register": "neutral",
+          "domain": ["philosophy", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "quietists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quietist; people who follow quietism",
+          "examples": [
+            "Quietists argued for inner peace over external action."
+          ],
+          "collocations": [
+            "religious quietists"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["philosophy", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "quietive",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "giving a sense of quiet or stillness; peaceful",
+          "examples": [
+            "The quietive landscape calmed the mind."
+          ],
+          "collocations": [
+            "quietive atmosphere",
+            "quietive mood"
+          ],
+          "synonyms": ["peaceful", "calm"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "quietives",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quietive; things that create quiet or stillness",
+          "examples": [
+            "The quietives of the garden are a refuge."
+          ],
+          "collocations": [
+            "quietive qualities"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quietlike",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling quiet; calm or subdued in appearance or behavior",
+          "examples": [
+            "The room had a quietlike atmosphere."
+          ],
+          "collocations": [
+            "quietlike stillness"
+          ],
+          "synonyms": ["calm", "placid"],
+          "antonyms": ["noisy", "busy"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quietly",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a quiet or soft manner; without making noise",
+          "examples": [
+            "She spoke quietly so as not to wake the baby.",
+            "They left quietly when the meeting ended."
+          ],
+          "collocations": [
+            "stand quietly",
+            "walk quietly"
+          ],
+          "synonyms": ["softly", "silently", "hushly"],
+          "antonyms": ["loudly", "noisily"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "quietness",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being quiet; calm and still",
+          "examples": [
+            "The quietness of the library helped her concentrate.",
+            "They enjoyed the quietness after the storm."
+          ],
+          "collocations": [
+            "deep quietness",
+            "unbroken quietness"
+          ],
+          "synonyms": ["calm", "silence", "peace"],
+          "antonyms": ["noise", "din", "uproar"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    }
+  ]
+}

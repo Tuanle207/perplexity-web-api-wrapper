@@ -1,0 +1,568 @@
+{
+  "items": [
+    {
+      "term": "psalmodize",
+      "kind": "verb",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to set or arrange to music the text of a psalm for singing in a worship service",
+          "examples": [
+            "The choir decided to psalmodize the ancient verses for the evening service.",
+            "They psalmodize psalms in a traditional Anglican chant.",
+            "The composer chose to psalmodize several psalms for the concert."
+          ],
+          "collocations": [
+            "psalmodize psalms",
+            "psalmodize a hymn",
+            "psalmodize choral pieces",
+            "psalmodize liturgical texts"
+          ],
+          "synonyms": ["chant", "intonate", "chantify (archaic)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music", "religion", "worship", "general"]
+        }
+      ]
+    },
+    {
+      "term": "psalmodized",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of psalmodize; set or arranged to music the text of a psalm for singing",
+          "examples": [
+            "She psalmodized the psalms for the morning service yesterday.",
+            "The choir psalmodized psalms in a somber, formal style."
+          ],
+          "collocations": [
+            "psalmodized psalms",
+            "psalmodized chant"
+          ],
+          "synonyms": ["chanting", "intonation (past)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music", "religion", "worship"]
+        }
+      ]
+    },
+    {
+      "term": "psalmodizes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of psalmodize; sets or arranges psalms to music for singing",
+          "examples": [
+            "The choir psalmodizes the psalms in a traditional manner.",
+            "They psalmodizes several verses for the service."
+          ],
+          "collocations": [
+            "psalmodizes psalms",
+            "psalmodizes liturgical texts"
+          ],
+          "synonyms": ["chant", "intonate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music", "religion", "worship"]
+        }
+      ]
+    },
+    {
+      "term": "psalmodizing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of psalmodize; the act of setting psalms to music for singing",
+          "examples": [
+            "Psalmodizing took place during the evening service.",
+            "The organist began psalmodizing with a steady, reverent pace."
+          ],
+          "collocations": [
+            "psalmodizing practice",
+            "psalmodizing psalms"
+          ],
+          "synonyms": ["chanting", "intoning"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music", "religion", "worship"]
+        }
+      ]
+    },
+    {
+      "term": "psalmody",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the practice or art of singing psalms; a collection or style of psalm tunes",
+          "examples": [
+            "The ancient psalmody of the church inspired the audience.",
+            "He studied traditional psalmody and its melodic modes."
+          ],
+          "collocations": [
+            "traditional psalmody",
+            "psalmody repertoire",
+            "biblical psalmody"
+          ],
+          "synonyms": ["psalm singing", "chanting"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music", "religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "psalmograph",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an instrument or device for recording or displaying the text of psalms (historical/rare term; not common in modern usage)",
+          "examples": [
+            "A psalmograph was described in antique music manuscripts.",
+            "The psalmograph is rarely used in contemporary libraries."
+          ],
+          "collocations": [
+            "psalmograph manuscript",
+            "historic psalmograph"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history", "musicology", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "psalmographer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who writes or studies psalms, especially their musical settings; a researcher or writer on psalmody",
+          "examples": [
+            "The psalmographer annotated early hymnals with notes on melody.",
+            "As a psalmographer, she specialized in medieval psalm tunes."
+          ],
+          "collocations": [
+            "psalmographer of hymnals",
+            "medieval psalmographer"
+          ],
+          "synonyms": ["psalmist (historical)", "hymnologist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["musicology", "religion", "literary studies"]
+        }
+      ]
+    },
+    {
+      "term": "psalmography",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study or description of psalms, especially their textual and musical aspects",
+          "examples": [
+            "Her psalmography traced the evolution of psalm melodies across centuries."
+          ],
+          "collocations": [
+            "psalmography of liturgical music",
+            "historical psalmography"
+          ],
+          "synonyms": ["psalm study", "psalmology (rare)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["musicology", "religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "psalms",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "holy songs from the Bible, traditionally sung in worship",
+          "examples": [
+            "They sang the psalms during the service.",
+            "The book of Psalms contains many beautiful prayers."
+          ],
+          "collocations": [
+            "psalms of David",
+            "sing psalms",
+            "ancient psalms",
+            "psalms and hymns"
+          ],
+          "synonyms": ["psalms_texts", "biblical songs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["religion", "literature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "psalmy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "pertaining to psalms; consisting of psalms; of or like a psalm",
+          "examples": [
+            "a psalmy chant",
+            "the psalmy rhythms of the service"
+          ],
+          "collocations": [
+            "psalmy chant",
+            "psalmy rhythms"
+          ],
+          "synonyms": ["psalmic", "psalmodic"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["religion", "music", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "psaloid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a psalmodic or psalm-like fragment; a psalm-related fragment (rare/technical term)",
+          "examples": [
+            "The manuscript contained a psaloid verse fragment."
+          ],
+          "collocations": [
+            "psaloid fragment"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["religion", "literature", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "psalter",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a book or collection of psalms; a stringed musical instrument in some traditions",
+          "examples": [
+            "The psalter contains many metrical psalms.",
+            "The psalter was used in liturgical services."
+          ],
+          "collocations": [
+            "book of psalms",
+            "psalter tune",
+            "psalter hymn"
+          ],
+          "synonyms": ["psalms book"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["religion", "literature", "history"]
+        }
+      ]
+    },
+    {
+      "term": "psalterer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one who composes or arranges psalms; a person who tunes or adapts psalms for singing",
+          "examples": [
+            "The psalterer updated the psalms for modern choirs."
+          ],
+          "collocations": [
+            "psalterer of hymns",
+            "elder psalterer"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music", "religion", "liturgy"]
+        }
+      ]
+    },
+    {
+      "term": "psalteria",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a collection or group of psalters; a musical instrument family in historical contexts",
+          "examples": [
+            "The monastery housed a psalteria of liturgical books."
+          ],
+          "collocations": [
+            "psalteria collection",
+            "psalteria manuscripts"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["religion", "history", "librarianship"]
+        }
+      ]
+    },
+    {
+      "term": "psalterial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to psalters or to psalms; of or pertaining to the book of psalms",
+          "examples": [
+            "psalterial melodies were common in early church music."
+          ],
+          "collocations": [
+            "psalterial tradition",
+            "psalterial music"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["religion", "musicology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "psalterian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who studies, writes about, or is expert in psalms or psalters",
+          "examples": [
+            "The psalterian provided a detailed commentary on the psalms."
+          ],
+          "collocations": [
+            "psalterian scholar",
+            "psalterian tradition"
+          ],
+          "synonyms": ["psalmist", "hymnologist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "literature", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "psalteries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of psaltery; instruments or books of psalms; medieval stringed instruments or the psalters containing psalms",
+          "examples": [
+            "Medieval psalteries produced a delicate plucked sound."
+          ],
+          "collocations": [
+            "psalteries in museums",
+            "psalteries repertoire"
+          ],
+          "synonyms": ["psalterium plural", "psalters"],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["musicology", "history", "librarianship"]
+        }
+      ]
+    },
+    {
+      "term": "psalterion",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of ancient small psaltery or psaltery-like stringed instrument",
+          "examples": [
+            "The relic included a carved psalterion from the medieval period."
+          ],
+          "collocations": [
+            "ancient psalterion"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["musicology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "psalterist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who writes, composes, or performs psalter tunes; a psalm composer or performer",
+          "examples": [
+            "The psalterist arranged several psalms for a small choir."
+          ],
+          "collocations": [
+            "renowned psalterist",
+            "psalterist composer"
+          ],
+          "synonyms": ["psalmist", "hymnist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music", "religion", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "psalterium",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "another term for psaltery, a medieval stringed instrument; sometimes used to refer to the psaltery family of instruments",
+          "examples": [
+            "The exhibition featured a carved psalterium from the 14th century."
+          ],
+          "collocations": [
+            "ancient psalterium",
+            "psalterium instrument"
+          ],
+          "synonyms": ["psaltery"],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["musicology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "psalters",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of psalter; books or collections containing the psalms",
+          "examples": [
+            "Different psalters show varying melodies."
+          ],
+          "collocations": [
+            "various psalters",
+            "biblical psalters"
+          ],
+          "synonyms": ["psalteries"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["religion", "history", "liturgy"]
+        }
+      ]
+    },
+    {
+      "term": "psaltery",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a biblical or historical stringed musical instrument played by plucking strings",
+          "examples": [
+            "The psaltery produced a soft, bright tone."
+          ],
+          "collocations": [
+            "wooden psaltery",
+            "medieval psaltery",
+            "psaltery music"
+          ],
+          "synonyms": ["psalterium (historical)", "zither (roughly)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "history", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "psaltes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of psalte; a type of psalter or psalm singer (rare historical usage)",
+          "examples": [
+            "The psaltes accompanied the service with psaltery."
+          ],
+          "collocations": [
+            "psaltes singers"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "psalteteria",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place where psalteries are kept; a collection or place of psalms or psaltereia (rare term)",
+          "examples": [
+            "A small psalteteria housed several antique instruments."
+          ],
+          "collocations": [
+            "psalteteria collection"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["history", "librarianship", "museum studies"]
+        }
+      ]
+    },
+    {
+      "term": "psaltress",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female psalm singer; a woman who sings psalms",
+          "examples": [
+            "The psaltress led the community in psalms."
+          ],
+          "collocations": [
+            "female psaltress",
+            "psalm-singing psaltress"
+          ],
+          "synonyms": ["psalm singer", "psalmist (female)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["religion", "music", "culture"]
+        }
+      ]
+    }
+  ]
+}

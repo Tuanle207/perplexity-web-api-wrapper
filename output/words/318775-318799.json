@@ -1,0 +1,429 @@
+{
+  "items": [
+    {
+      "term": "quoteworthy",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "worthy of being quoted or cited because it is notable or interesting",
+          "examples": ["The most quoteworthy lines of the speech were shared on social media."],
+          "collocations": ["quoteworthy line", "quoteworthy moment", "quoteworthy quote"],
+          "synonyms": ["citation-worthy", "noteworthy", "remarkable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "quoth",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to say; an archaic or literary form of 'say' used in reporting speech",
+          "examples": ["'Quoth the raven, Nevermore,' is a famous line from Poe."],
+          "collocations": ["quoth he", "quoth the crowd"],
+          "synonyms": ["say", "utter", "state"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quotha",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "interjection",
+          "definition": "an archaic or dialect exclamation, often appearing in combinations like 'quotha saw ye'",
+          "examples": ["Quotha! I had not expected that."],
+          "collocations": ["quotha", "quotha saw ye"],
+          "synonyms": ["fie", "pshaw"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature", "history"]
+        }
+      ]
+    },
+    {
+      "term": "quotid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a day or daily life; used in some historical or rare contexts to mean daily",
+          "examples": ["quotid topics appeared in old diaries."],
+          "collocations": ["quotid diary", "quotid routine"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "quotidian",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "occurring every day; ordinary or commonplace",
+          "examples": ["the quotidian rhythms of city life", "quotidian chores"],
+          "collocations": ["quotidian routine", "quotidian life", "quotidian tasks"],
+          "synonyms": ["daily", "diurnal", "everyday"],
+          "antonyms": ["extraordinary", "rare"],
+          "register": "formal",
+          "domain": ["general", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "quotidianly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a quotidian manner; daily or everyday",
+          "examples": ["They described quotidianly routine activities."],
+          "collocations": ["live quotidianly", "occur quotidianly"],
+          "synonyms": ["daily", "everyday"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "quotidianness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being daily or everyday life",
+          "examples": ["the quotidianness of urban life emphasizes routine."],
+          "collocations": ["quotidianness of life"],
+          "synonyms": ["daily nature", "everydayness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "quotidians",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "daily occurrences or items; uses the plural form to refer to daily things",
+          "examples": ["They recorded the quotidians of the week."],
+          "collocations": ["daily quotidians", "quotidians of life"],
+          "synonyms": ["daily events", "everydays"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotient",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the result when one number is divided by another",
+          "examples": ["Three is the quotient of six divided by two."],
+          "collocations": ["quotient of", "test quotient", "IQ quotient" ],
+          "synonyms": ["result of division", "ratio"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["math", "science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "quotients",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quotient; numbers obtained by division",
+          "examples": ["Several quotients are listed in the worksheet."],
+          "collocations": ["various quotients", "quotients table"],
+          "synonyms": ["division results"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["math", "education"]
+        }
+      ]
+    },
+    {
+      "term": "quoties",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or dialect plural of 'quota' or a term used in some historical texts; rarely used in modern English",
+          "examples": ["Ancient scribes noted the quotie when recording taxes."],
+          "collocations": ["quoties of the tax"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "law"]
+        }
+      ]
+    },
+    {
+      "term": "quotieties",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quotiety; a rarely used term related to quotas or quantities",
+          "examples": ["Various quotieties were allocated."],
+          "collocations": ["quotieties of grain"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "quotiety",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a quota or portion; a share allotted",
+          "examples": ["The quota was set as a quotiety of the total production."],
+          "collocations": ["quota", "quotiety of the harvest"],
+          "synonyms": ["quota", "portion", "allotment"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quoting",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of citing or repeating the exact words of another person",
+          "examples": ["She is quoting her mentor in the article.", "Quoting sources is important in essays."],
+          "collocations": ["quoting from", "quoting sources", "quoting someone"],
+          "synonyms": ["citing", "referencing", "parroting"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "writing", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quotingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that quotes or cites someone else",
+          "examples": ["He spoke quotingly, prefacing his statements with others' words."],
+          "collocations": ["quotingly stated", "quotingly expressed"],
+          "synonyms": ["citedly"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["writing", "speech"]
+        }
+      ]
+    },
+    {
+      "term": "quotition",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of quoting or a quotation; a citation",
+          "examples": ["The essay included a quotition from a famous scientist."],
+          "collocations": ["quotition from", "quotition marks"],
+          "synonyms": ["quotation", "citation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["writing", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "quotitions",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quotition; quotations or citations",
+          "examples": ["The book contains many quotitions from philosophers."],
+          "collocations": ["multiple quotitions"],
+          "synonyms": ["quotations", "citations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["writing", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "quotity",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a quantity or measure; amount corresponding to a quota",
+          "examples": ["The production was increased to meet the required quotity."],
+          "collocations": ["units of quotity", "quotity measure"],
+          "synonyms": ["quantity", "amount", "volume"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quotlibet",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a legal term meaning a right to choose or select; historically used in certain jurisdictions",
+          "examples": ["The document described a quotlibet right."],
+          "collocations": ["quotlibet right"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["law", "history"]
+        }
+      ]
+    },
+    {
+      "term": "quott",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an abbreviation or shorthand form related to quoting; not common in modern usage",
+          "examples": ["You can find the term 'quott' in old manuscripts."],
+          "collocations": ["quott notation"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "quotum",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fixed portion or quota; a set amount",
+          "examples": ["Each member received a quotum of magazines."],
+          "collocations": ["quotum of", "daily quotum"],
+          "synonyms": ["quota", "portion", "allotment"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["economics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quotums",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quotum; fixed portions or quotas",
+          "examples": ["Limited quotums were allocated for the week."],
+          "collocations": ["quotums of resources"],
+          "synonyms": ["quotas", "allotments"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["economics", "logistics"]
+        }
+      ]
+    },
+    {
+      "term": "qursh",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a traditional unit of weight or a money unit in some cultures; or a misspelling/variant of 'kurs' depending on context",
+          "examples": ["He paid the merchant in qursh."],
+          "collocations": ["qursh coin"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "qurshes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of qursh; historical monetary or weight units",
+          "examples": ["Ancient traders used qurshes for trade."],
+          "collocations": ["qurshes of gold"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "qurti",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a unit name from certain historical or region-specific systems; may appear in dialect texts",
+          "examples": ["A qurti of grain was requested."],
+          "collocations": ["qurti measurement"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "anthropology"]
+        }
+      ]
+    }
+  ]
+}

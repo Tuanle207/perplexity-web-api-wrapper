@@ -1,0 +1,505 @@
+{
+  "items": [
+    {
+      "term": "precipitator",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or substance that causes rain or other forms of precipitation to occur or fall, often used in weather modification or laboratory contexts",
+          "examples": [
+            "The smoke from the factory acted as a precipitating agent, forming clouds that could lead to rain.",
+            "Researchers tested a device claimed to be an atmospheric precipitating agent."
+          ],
+          "collocations": ["electrical precipitator", "dust precipitating", "precipitation precipitator"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "precipitators",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of precipitator; devices or substances that cause precipitation",
+          "examples": [
+            "The lab used several precipitators to study cloud formation.",
+            "Industrial precipitators help reduce airborne particles."
+          ],
+          "collocations": ["industrial precipitators", "electrostatic precipitators"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "precipititatousness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being precipitous; the condition of something steep or sudden",
+          "examples": [
+            "The precipititatousness of the cliff made the climb dangerous.",
+            "Her precipititatousness in decision-making worried her teammates."
+          ],
+          "collocations": ["extreme precipititatousness", "geographic precipititatousness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["geography", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "precipitin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an antibody that reacts with an antigen to form a precipitate in a laboratory test",
+          "examples": [
+            "The assay used a sheep anti-precipitin antibody.",
+            "Precipitin tests help identify specific pathogens."
+          ],
+          "collocations": ["anti-precipitin", "precipitin test"],
+          "synonyms": ["antibody"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "precipitinogen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an antigen that stimulates the formation of precipitin antibodies",
+          "examples": [
+            "The precipitinogen was introduced to elicit an antibody response.",
+            "Researchers studied the immune reaction to various precipitinogens."
+          ],
+          "collocations": ["precipitinogen assay", "antigen precursor precipitinogen"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "immunology"]
+        }
+      ]
+    },
+    {
+      "term": "precipitinogenic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of stimulating the production of precipitin antibodies",
+          "examples": [
+            "Some proteins are precipitinogenic and trigger strong immune responses.",
+            "The precipitinogenic properties were essential to the assay design."
+          ],
+          "collocations": ["precipitinogenic antigen", "precipitinogenic response"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "immunology"]
+        }
+      ]
+    },
+    {
+      "term": "precipitinogens",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of precipitinogen; antigens that stimulate precipitin antibody formation",
+          "examples": [
+            "Various precipitinogens were tested in the study.",
+            "The panel included several known precipitinogens."
+          ],
+          "collocations": ["precipitinogen assay", "identified precipitinogens"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "immunology"]
+        }
+      ]
+    },
+    {
+      "term": "precipitins",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "antibodies that react with an antigen to form a visible precipitate",
+          "examples": [
+            "The sample contained several precipitins.",
+            "Precipitin reactions are used to identify antigens."
+          ],
+          "collocations": ["antibodies", "precipitin reaction"],
+          "synonyms": ["antibody"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "immunology"]
+        }
+      ]
+    },
+    {
+      "term": "precipitous",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "very steep or sudden; happening very quickly or without enough consideration",
+          "examples": [
+            "A precipitous cliff rose above the harbor.",
+            "The economy faced a precipitous decline after the scandal.",
+            "Her fall was precipitous, catching everyone by surprise."
+          ],
+          "collocations": ["precipitous drop", "precipitous climb", "precipitous decision"],
+          "synonyms": ["steep", "sudden", "dramatic"],
+          "antonyms": ["gradual", "\u200bsteady"],
+          "register": "formal",
+          "domain": ["geography", "economy", "behaviour"]
+        }
+      ]
+    },
+    {
+      "term": "precipitously",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is very steep or very sudden; happening quickly and without warning",
+          "examples": [
+            "The stock price fell precipitously after the announcement.",
+            "The road drops precipitously here, so drive carefully."
+          ],
+          "collocations": ["fall precipitously", "decline precipitously"],
+          "synonyms": ["dramatically", "steeply"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["finance", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "precipitousness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being very steep or very sudden",
+          "examples": [
+            "The precipitousness of the slope made the hike risky.",
+            "There was a sense of precipitousness in the market moves."
+          ],
+          "collocations": ["extreme precipitousness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["geography", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "precipitousnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of precipitousness, the qualities of being precipitous",
+          "examples": [
+            "The map showed several areas of precipitousnesses along the coast.",
+            "Unexpected precipitousnesses in the cliffside reduced the path's safety."
+          ],
+          "collocations": ["geographical precipitousnesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "precips",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "short for precipitates or precipitation; informally refers to sudden rain or precipitation events",
+          "examples": [
+            "The forecast shows heavy precips this afternoon.",
+            "We carried an umbrella because of possible precips."
+          ],
+          "collocations": ["heavy precips", "light precips"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["weather", "daily life"]
+        }
+      ]
+    },
+    {
+      "term": "precirculate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to circulate again or to move in a circular path before reaching final destination",
+          "examples": [
+            "The newsletter was precirculated to the committee before the meeting.",
+            "Items were precirculated to ensure everyone saw the proposals."
+          ],
+          "collocations": ["precirculate information", "precirculate document"],
+          "synonyms": ["recycle circulation", "reiterate circulation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "administration"]
+        }
+      ]
+    },
+    {
+      "term": "precirculated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "having been circulated again or in advance of a meeting",
+          "examples": [
+            "The proposal was precirculated to attendees.",
+            "Staff precirculated the briefing pack yesterday."
+          ],
+          "collocations": ["precirculated document", "precirculated memo"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "administration"]
+        }
+      ]
+    },
+    {
+      "term": "precirculating",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "circulating again or in advance",
+          "examples": [
+            "The report is precirculating for early feedback.",
+            "They are precirculating the agenda for the town hall."
+          ],
+          "collocations": ["precirculating agenda", "precirculating document"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "administration"]
+        }
+      ]
+    },
+    {
+      "term": "precirculation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of circulating again or in advance; advance distribution",
+          "examples": [
+            "The precirculation of the report helped gather early comments.",
+            "Precircultion of materials is common in committees."
+          ],
+          "collocations": ["precirculation of documents", "precirculation period"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "administration"]
+        }
+      ]
+    },
+    {
+      "term": "precis",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a short, clear summary of a book, speech, or article",
+          "examples": [
+            "She wrote a concise precis of the chapter.",
+            "The lecturer provided a precis of the main ideas."
+          ],
+          "collocations": ["brief precis", "academic precis"],
+          "synonyms": ["summary", "outline"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "precise",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "exact and accurate; clearly defined",
+          "examples": [
+            "Please give me the precise time of arrival.",
+            "Her measurements must be precise for the experiment."
+          ],
+          "collocations": ["precise measurement", "precise instructions"],
+          "synonyms": ["exact", "accurate", "clear"],
+          "antonyms": ["imprecise", "rough", "vague"],
+          "register": "formal",
+          "domain": ["general", "education", "science"]
+        }
+      ]
+    },
+    {
+      "term": "precised",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of precise; to make precise or define exactly",
+          "examples": [
+            "The contract was precised during negotiations.",
+            "They precised the requirements to avoid confusion."
+          ],
+          "collocations": ["precised specifications"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "business"]
+        }
+      ]
+    },
+    {
+      "term": "precisely",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "exactly; in a strict and exact way",
+          "examples": [
+            "That is precisely what I needed.",
+            "The plan is precisely laid out."
+          ],
+          "collocations": ["precisely because", "precisely the same"],
+          "synonyms": ["exactly", "exactly so"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "communication"]
+        }
+      ]
+    },
+    {
+      "term": "preciseness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being exact or accurate",
+          "examples": [
+            "Her preciseness in data entry reduced errors.",
+            "We value preciseness over speed in this analysis."
+          ],
+          "collocations": ["great preciseness", "technical preciseness"],
+          "synonyms": ["accuracy", "exactness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "science"]
+        }
+      ]
+    },
+    {
+      "term": "precisenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of preciseness; qualities of being precise",
+          "examples": [
+            "The precisenesses of the measurements varied between trials.",
+            "We evaluated the precisenesses of different methods."
+          ],
+          "collocations": ["varying precisenesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "preciser",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that makes something more precise; a tool for refining measurements",
+          "examples": [
+            "She acted as the preciser, tightening the tolerances.",
+            "The preciser improved the data accuracy."
+          ],
+          "collocations": ["instrument preciser", "calibration preciser"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "precises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of precise; makes something exact",
+          "examples": [
+            "The editor precises the manuscript before publication.",
+            "She precises the data to remove ambiguity."
+          ],
+          "collocations": ["precises the text", "precises measurements"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["writing", "science"]
+        }
+      ]
+    }
+  ]
+}

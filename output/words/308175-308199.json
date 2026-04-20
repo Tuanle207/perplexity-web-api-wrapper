@@ -1,0 +1,470 @@
+{
+  "items": [
+    {
+      "term": "processed",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "treated or prepared in a particular way before use",
+          "examples": ["The food was cooked and processed before packaging."],
+          "collocations": ["fully processed", "highly processed food", "processed meat"],
+          "synonyms": ["refined", "prepared", "manufactured"],
+          "antonyms": ["unprocessed", "raw"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to handle, treat, or perform a series of operations on materials",
+          "examples": ["The data was processed by the software."],
+          "collocations": ["process data", "process a claim", "process a payment"],
+          "synonyms": ["handle", "manage", "operate on"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "processer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a misspelling of 'processor' or a person/thing that processes; not standard",
+          "examples": ["The computer has a fast processer."],
+          "collocations": ["computer processor"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "processers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of 'processor' (informal) or misspelling; not standard",
+          "examples": ["The processers are not working as expected."],
+          "collocations": ["computer processors"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "processes",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple procedures or operations; series of actions",
+          "examples": ["The processes of cooking are simple."],
+          "collocations": ["business processes", "manufacturing processes"],
+          "synonyms": ["procedures", "methods", "operations"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third-person singular of 'process' meaning to perform operations on",
+          "examples": ["He processes the orders every morning."],
+          "collocations": ["process data", "process orders"],
+          "synonyms": ["handle", "manage", "treat"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "processibilities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of 'processibility' referring to the degree to which something can be processed; uncommon",
+          "examples": ["We evaluated the processibilities of the data formats."],
+          "collocations": ["technical processibilities"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "processibility",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being processible; capable of undergoing a process",
+          "examples": ["This format has good processibility for analysis."],
+          "collocations": ["data processibility", "high processibility"],
+          "synonyms": ["processability"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "processible",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being processed or treated",
+          "examples": ["The data is easily processible by the system."],
+          "collocations": ["processible data", "highly processible formats"],
+          "synonyms": ["processable", "processable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "processing",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of performing operations on something; the action of handling data",
+          "examples": ["Data processing takes place in the background."],
+          "collocations": ["data processing", "image processing"],
+          "synonyms": ["handling", "manipulation", "execution"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "in progress; currently happening",
+          "examples": ["Processing payments now."],
+          "collocations": ["processing status", "processing queue"],
+          "synonyms": ["ongoing", "in progress"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "processings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of 'processing' in some contexts",
+          "examples": ["Software updates include several processings."],
+          "collocations": ["data processings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "procession",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a group of people moving in a formal line, often as part of a ceremony",
+          "examples": ["A funeral procession passed slowly down the street."],
+          "collocations": ["funeral procession", "marching procession"],
+          "synonyms": ["parade", "cortege"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "ceremony"]
+        }
+      ]
+    },
+    {
+      "term": "processional",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a procession, especially in a formal ceremony",
+          "examples": ["The wedding included a processional march."],
+          "collocations": ["processional song", "processional music"],
+          "synonyms": ["ceremonial"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "ceremony"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a piece of music or a song for a procession",
+          "examples": ["They practiced the processional to begin the ceremony."],
+          "collocations": ["processional music"],
+          "synonyms": ["opening march"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "ceremony"]
+        }
+      ]
+    },
+    {
+      "term": "processionalist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who plays or conducts processional music or leads a procession; rare",
+          "examples": ["The processionalist led the parade with a brass band."],
+          "collocations": ["processionalist musician"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "ceremony"]
+        }
+      ]
+    },
+    {
+      "term": "processionally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner resembling or suitable for a procession",
+          "examples": ["The banner waved processionally as the crowd gathered."],
+          "collocations": ["marching processionally"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ceremony", "general"]
+        }
+      ]
+    },
+    {
+      "term": "processionals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "items or things used in processions; ceremonial accessories",
+          "examples": ["The clergy distributed processionals to participants."],
+          "collocations": ["processional robes", "processional crosses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ceremony", "general"]
+        }
+      ]
+    },
+    {
+      "term": "processionary",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an organism (often a larva) that forms a procession; or a person who leads a procession; uncommon",
+          "examples": ["The processionary caterpillar is known for its stinging hairs."],
+          "collocations": ["processionary caterpillar"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "processioned",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past participle of 'procession' in ceremonial sense; rarely used",
+          "examples": ["The streets were processioned by the marching band."]
+        ,
+          "collocations": ["be processioned"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ceremony"]
+        }
+      ]
+    },
+    {
+      "term": "processioner",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who participates in a procession; rare term",
+          "examples": ["An elderly processioner led the line carefully."],
+          "collocations": ["marching processioner"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ceremony", "general"]
+        }
+      ]
+    },
+    {
+      "term": "processioners",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of 'processioner'; participants in processions; rare",
+          "examples": ["The processioners followed the drumbeat precisely."],
+          "collocations": ["group of processioners"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ceremony", "general"]
+        }
+      ]
+    },
+    {
+      "term": "processioning",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of forming or moving in a procession; rare form",
+          "examples": ["Processioning began at dawn."],
+          "collocations": ["processioning activity"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ceremony"]
+        }
+      ]
+    },
+    {
+      "term": "processionings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of 'processioning'; rare",
+          "examples": ["Several processionings occurred during the festival."],
+          "collocations": ["series of processionings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ceremony"]
+        }
+      ]
+    },
+    {
+      "term": "processionist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who studies or leads processions; rare",
+          "examples": ["A noted processionist conducted the ceremonial walk."],
+          "collocations": ["ceremonial processionist"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ceremony"]
+        }
+      ]
+    },
+    {
+      "term": "processionize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to cause to form into a procession; to organize ceremonially",
+          "examples": ["They planned to processionize the parade route."],
+          "collocations": ["processionize the route"],
+          "synonyms": ["ceremonialize"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ceremony", "general"]
+        }
+      ]
+    },
+    {
+      "term": "processions",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of procession; lines of people moving in ceremony",
+          "examples": ["There were several processions during the festival."],
+          "collocations": ["funeral processions", "parade processions"],
+          "synonyms": ["parades", "cortege"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ceremony", "general"]
+        }
+      ]
+    },
+    {
+      "term": "processionwise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in relation to processions; from a procession perspective",
+          "examples": ["Processionwise, the route was cleared early."],
+          "collocations": ["processionwise planning"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ceremony", "general"]
+        }
+      ]
+    },
+    {
+      "term": "processive",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "tending to cause or related to processing; in biology/chemistry may mean processive in catalysis",
+          "examples": ["Processive enzymes move along substrates."],
+          "collocations": ["processive enzyme"],
+          "synonyms": ["catalytic", "active"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "chemistry", "general"]
+        }
+      ]
+    }
+  ]
+}

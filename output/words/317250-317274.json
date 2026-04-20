@@ -1,0 +1,598 @@
+{
+  "items": [
+    {
+      "term": "quantivalences",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quantivalence; the state or quality of being quantivalent, typically referring to equality or correspondence between quantities in mathematics or logic",
+          "examples": [
+            "The quantivalences between the two models were carefully checked.",
+            "Researchers discussed the quantivalences in the formal system."
+          ],
+          "collocations": [
+            "logical quantivalence",
+            "mathematical quantivalences",
+            "verify quantivalences"
+          ],
+          "synonyms": ["equivalence (quantitative)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "mathematics", "logic"]
+        }
+      ]
+    },
+    {
+      "term": "quantivalency",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or quality of being quantivalent; a condition where two quantities are equal or correspond in a defined way",
+          "examples": [
+            "Quantivalency is a key concept in this theorem.",
+            "They examined the quantivalency of the two measurements."
+          ],
+          "collocations": [
+            "degree of quantivalency",
+            "establish quantivalency"
+          ],
+          "synonyms": ["quantivalence"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "mathematics"]
+        }
+      ]
+    },
+    {
+      "term": "quantivalent",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "being equal in quantity or corresponding in value; having quantivalence",
+          "examples": [
+            "The two scales are quantivalent in measurement.",
+            "They used a quantivalent pair of datasets."
+          ],
+          "collocations": [
+            "quantivalent to",
+            "quantivalent relationship"
+          ],
+          "synonyms": ["equivalent", "congruent"],
+          "antonyms": ["incongruent", "unequal"],
+          "register": "formal",
+          "domain": ["academic", "science"]
+        }
+      ]
+    },
+    {
+      "term": "quantizable",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be quantized or expressed in discrete units; able to be measured or described using quantization",
+          "examples": [
+            "The signal is quantizable with high precision.",
+            "Not all continuous signals are easily quantizable."
+          ],
+          "collocations": [
+            "quantizable signal",
+            "quantizable property"
+          ],
+          "synonyms": ["quantifiable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "engineering", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "quantization",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of converting a continuous quantity into a discrete set of values",
+          "examples": [
+            "Audio quantization introduces small errors in digital sound.",
+            "Quantization is essential in digital signal processing."
+          ],
+          "collocations": [
+            "uniform quantization",
+            "quantization noise",
+            "frequency quantization"
+          ],
+          "synonyms": ["discretization"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering", "math"]
+        }
+      ]
+    },
+    {
+      "term": "quantizations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quantization; multiple instances of the process of discretizing a continuous quantity",
+          "examples": [
+            "The study compared several quantizations.",
+            "Different quantizations yield different reproduction errors."
+          ],
+          "collocations": [
+            "alternative quantizations",
+            "quantizations schemes"
+          ],
+          "synonyms": ["discretizations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "mathematics"]
+        }
+      ]
+    },
+    {
+      "term": "quantize",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to change or convert something into discrete units or values",
+          "examples": [
+            "We quantize the audio signal before processing.",
+            "The algorithm quantizes continuous data."
+          ],
+          "collocations": [
+            "quantize data",
+            "quantize an image",
+            "quantize a signal"
+          ],
+          "synonyms": ["discretize", "digitize"],
+          "antonyms": ["smooth", "enlarge"],
+          "register": "formal",
+          "domain": ["technology", "science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "quantized",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "converted into discrete values; represented by distinct steps",
+          "examples": [
+            "The quantized values were stored efficiently.",
+            "Quantized coefficients are easier to manipulate."
+          ],
+          "collocations": [
+            "quantized data",
+            "quantized values",
+            "quantized representation"
+          ],
+          "synonyms": ["discretized"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "quantizer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or algorithm that performs quantization",
+          "examples": [
+            "An efficient quantizer reduces data size.",
+            "The quantizer introduces quantization error."
+          ],
+          "collocations": [
+            "vector quantizer",
+            "adaptive quantizer"
+          ],
+          "synonyms": ["discretizer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "quantizers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quantizer; devices or algorithms that perform quantization",
+          "examples": [
+            "Various quantizers are used in compression.",
+            "Quantizers affect the quality of the recovered signal."
+          ],
+          "collocations": [
+            "different quantizers",
+            "universal quantizers"
+          ],
+          "synonyms": ["discretizers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "quantizes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to apply quantization to something; to convert to discrete values",
+          "examples": [
+            "The processor quantizes the signal in real time.",
+            "Quantizes the data to reduce storage needs."
+          ],
+          "collocations": [
+            "quantizes data",
+            "quantizes the spectrum"
+          ],
+          "synonyms": ["discretizes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "quantizing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of applying quantization; converting to discrete values",
+          "examples": [
+            "Quantizing the continuous signal reduces noise.",
+            "They are quantizing the measurements for analysis."
+          ],
+          "collocations": [
+            "quantizing process",
+            "during quantizing"
+          ],
+          "synonyms": ["discretizing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "quantometer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an instrument that measures quantities, especially in a quantized way; a device used to measure or quantify something",
+          "examples": [
+            "The quantometer displayed the exact digital value.",
+            "Researchers used a quantometer to track changes."
+          ],
+          "collocations": [
+            "portable quantometer",
+            "digital quantometer"
+          ],
+          "synonyms": ["measuring instrument", "quantitative meter"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "quantometers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quantometer; instruments that measure quantities or magnitudes",
+          "examples": [
+            "Several quantometers were deployed in the lab.",
+            "Quantometers help monitor electrical signals."
+          ],
+          "collocations": [
+            "different quantometers",
+            "lab quantometers"
+          ],
+          "synonyms": ["measuring instruments"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "quantong",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fictional or rare term; may refer to a small unit of quantity in a constructed context",
+          "examples": [
+            "In the fantasy book, a quantong represented a unit of energy.",
+            "They defined quantong as a base unit in the world-building notes."
+          ],
+          "collocations": [
+            "quantong unit",
+            "quantong measure"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fiction"]
+        }
+      ]
+    },
+    {
+      "term": "quantongs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quantong; fictional units of quantity",
+          "examples": [
+            "They traded quantongs as currency in the story.",
+            "The value of quantongs varied with the market."
+          ],
+          "collocations": [
+            "quantongs in circulation"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fiction"]
+        }
+      ]
+    },
+    {
+      "term": "quants",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "short for quantitative analysts or quant funds; also short for quantities in some contexts",
+          "examples": [
+            "The quants at the firm develop trading algorithms.",
+            "Quants study data to find patterns."
+          ],
+          "collocations": [
+            "financial quants",
+            "quants team"
+          ],
+          "synonyms": ["quant analysts", "quantitative analysts"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["finance", "business"]
+        }
+      ]
+    },
+    {
+      "term": "quantulum",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a humorous or rare term for a very small amount; a nanounit of quantity",
+          "examples": [
+            "He measured a quantulum of dust.",
+            "Only quantulum of effort was needed."
+          ],
+          "collocations": [
+            "small quantulum"
+          ],
+          "synonyms": ["granule", "bit", "smidge"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "science"]
+        }
+      ]
+    },
+    {
+      "term": "quantum",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the smallest amount of something that can exist as a separate unit in science",
+          "examples": [
+            "Light can be thought of as consisting of quanta called photons.",
+            "A quantum leap means a big change, not a small one."
+          ],
+          "collocations": [
+            "quantum mechanics",
+            "quantum physics",
+            "quantum leap"
+          ],
+          "synonyms": ["quantum of", "unit"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "technology"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to quantum mechanics or the smallest units of energy",
+          "examples": [
+            "A quantum theory explains the behavior of particles at small scales.",
+            "Quantum effects become noticeable at very small distances."
+          ],
+          "collocations": [
+            "quantum theory",
+            "quantum physics",
+            "quantum behavior"
+          ],
+          "synonyms": ["quantized"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "quantummechanical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to quantum mechanics or its principles",
+          "examples": [
+            "Quantummechanical models describe atom behavior.",
+            "They studied quantummechanical effects in the material."
+          ],
+          "collocations": [
+            "quantummechanical theory",
+            "quantummechanical model"
+          ],
+          "synonyms": ["quantum mechanical"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "quantums",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quantum; the smallest discrete units in various contexts",
+          "examples": [
+            "Photons are quanta of light; other quantums exist in different fields.",
+            "Different quantums determine energy levels."
+          ],
+          "collocations": [
+            "different quantums",
+            "energy quantums"
+          ],
+          "synonyms": ["quanta"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "physics", "education"]
+        }
+      ]
+    },
+    {
+      "term": "quapaw",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a proper noun, the name of a Native American tribe or related community",
+          "examples": [
+            "The Quapaw historically inhabited what is now Arkansas.",
+            "The Quapaw people have a rich cultural heritage."
+          ],
+          "collocations": [
+            "Quapaw nation",
+            "Quapaw people"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "culture", "ethnography"]
+        }
+      ]
+    },
+    {
+      "term": "quaquaversal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "diverging in all directions from a common center; pointing outward in many directions",
+          "examples": [
+            "The leaves fell in a quaquaversal pattern from the tree.",
+            "A quaquaversal spread of the debris occurred after the explosion."
+          ],
+          "collocations": [
+            "quaquaversal dispersal",
+            "quaquaversal pattern"
+          ],
+          "synonyms": ["radial", "omnidirectional"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["science", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "quaquaversally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a quaquaversal manner; in all directions from a center",
+          "examples": [
+            "The branches grew quaquaversally, spreading wide.",
+            "Debris spread quaquaversally after the blast."
+          ],
+          "collocations": [
+            "spread quaquaversally"
+          ],
+          "synonyms": ["radially", "omnidirectionally"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["science", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "quar",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a unit of distance used in some historical or regional contexts; or a shortened form for quarrel in casual speech",
+          "examples": [
+            "They measured a short quar of land.",
+            "They had a quar about the fence line."
+          ],
+          "collocations": [
+            "one quar",
+            "quar of a mile"
+          ],
+          "synonyms": ["palm", "span"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "linguistics", "everyday"]
+        }
+      ]
+    }
+  ]
+}

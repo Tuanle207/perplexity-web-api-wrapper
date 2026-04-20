@@ -1,0 +1,530 @@
+{
+  "items": [
+    {
+      "term": "rabbit",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small, furry, long-eared mammal that hops and eats plants",
+          "examples": [
+            "A rabbit is hopping in the garden.",
+            "She kept a pet rabbit in a hutch."
+          ],
+          "collocations": ["wild rabbit", "domestic rabbit", "rabbit cage", "rabbit food", "rabbit hole"],
+          "synonyms": ["coney (archaic)", "hare (broader sense)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "informal term for a brave or foolish person in a playful or teasing way",
+          "examples": [
+            "Don't be a rabbit—face the challenge!",
+            "He acts like a rabbit when confronted with danger."
+          ],
+          "collocations": ["big rabbit", "little rabbit", "rabbit brain" ],
+          "synonyms": ["coward (informal)", "fool"],
+          "antonyms": ["lion", "brave person"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitberries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form referring to berries eaten by rabbits or a plant bearing such berries; may be used regionally or humorously",
+          "examples": [
+            "The rabbits nibble on rabbitberries in the field.",
+            "Gardeners noted rabbitberries among the wild fruit."
+          ],
+          "collocations": ["wild rabbitberries", "eat rabbitberries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitberry",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a hypothetical or obscure plant berry linked to rabbits; may appear in folk names or local usage",
+          "examples": [
+            "The trail mentioned a plant called rabbitberry.",
+            "Some local legends talk about rabbitberry bushes."
+          ],
+          "collocations": ["rabbitberry bush", "rabbitberry fruit"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "folklore"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitbrush",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a North American shrub with yellow flowers, used to describe a plant in dry areas",
+          "examples": [
+            "The trail passes through rabbitbrush stands.",
+            "Birds shelter among the rabbitbrush in late summer."
+          ],
+          "collocations": ["rabbitbrush thickets", "rabbitbrush plant", "rabbitbrush flowers"],
+          "synonyms": ["sagebrush (similar region-specific)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "also written as 'rabbit brush'; a common name for certain shrubs in the genus Chrysothamnus or Ericameria",
+          "examples": [
+            "The landscape was dotted with rabbitbrush.",
+            "We identified several rabbitbrush colonies."
+          ],
+          "collocations": ["rabbitbrush species", "rabbitbrush habitat"],
+          "synonyms": ["Chrysothamnus spp.", "Ericameria spp."],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "science"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitbrushes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rabbitbrush; multiple shrubs of the rabbitbrush type",
+          "examples": [
+            "We saw several rabbitbrushes along the plains.",
+            "The field contained rabbitbrushes in bloom."
+          ],
+          "collocations": ["rabbitbrushes in bloom", "patches of rabbitbrushes"],
+          "synonyms": ["rabbitbrush plants"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature"]
+        }
+      ]
+    },
+    {
+      "term": "rabbited",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of rabbit; to run away quickly or to hunt rabbits (colloquial)",
+          "examples": [
+            "The fox rabbited into the bushes.",
+            "They rabbited the field to avoid the dogs."
+          ],
+          "collocations": ["rabbited away", "rabbited into the hole"],
+          "synonyms": ["ran away", "fled"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "animals"]
+        }
+      ]
+    },
+    {
+      "term": "rabbiter",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "someone who rabbites; a person who hunts or pursues rabbits; rare term",
+          "examples": [
+            "The village rabiter tracks wild rabbits.",
+            "A skilled rabiter keeps a close eye on burrows."
+          ],
+          "collocations": ["professional rabiter", "rabbit hunter"],
+          "synonyms": ["rabbit hunter"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "occupational"]
+        }
+      ]
+    },
+    {
+      "term": "rabbiters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rabbiter; people who rabbit (hunt rabbits) or manage rabbits",
+          "examples": [
+            "The rabbiters gathered for the hunt.",
+            "Rabbiters often use trained dogs."
+          ],
+          "collocations": ["professional rabbiters", "rabbiters association"],
+          "synonyms": ["rabbit hunter"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rabbiteye",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of plant fruit or a brand name; also a common name for certain plant diseases or berries associated with rabbits in some regions",
+          "examples": [
+            "Rabbiteye blueberries are common in the southern US.",
+            "The gardener planted rabbiteye shrubs near the path."
+          ],
+          "collocations": ["rabbiteye blueberry", "rabbiteye shrub"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitfish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fish of the family Siganidae, known for a rabbit-like face and small size",
+          "examples": [
+            "We spotted a rabbitfish at the reef.",
+            "Rabbitfish swim near the coral to feed."
+          ],
+          "collocations": ["rabbitfish species", "rabbitfish reef"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "marine"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitfishes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rabbitfish",
+          "examples": [
+            "We observed several rabbitfishes during snorkeling.",
+            "Different rabbitfishes inhabit the lagoon."
+          ],
+          "collocations": ["various rabbitfishes", "school of rabbitfishes"],
+          "synonyms": ["rabbitfish"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "marine"]
+        }
+      ]
+    },
+    {
+      "term": "rabbithearted",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "kind, gentle, and brave; typical of a rabbit's perceived innocence",
+          "examples": [
+            "She showed rabbithearted kindness to all the pets.",
+            "A rabbithearted approach can be calming."
+          ],
+          "collocations": ["rabbithearted generosity", "rabbithearted manner"],
+          "synonyms": ["kind-hearted", "compassionate"],
+          "antonyms": ["cruel", "hardhearted"],
+          "register": "neutral",
+          "domain": ["general", "character"]
+        }
+      ]
+    },
+    {
+      "term": "rabbiting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of rabbit; to search for rabbits or to run away; also informal talk or chitchat in a lively way",
+          "examples": [
+            "The hunter was rabbiting through the field.",
+            "They spent the afternoon rabbiting about town."
+          ],
+          "collocations": ["rabbiting around", "rabbiting about"],
+          "synonyms": ["hunting", "chatting (informal)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rabbiting; instances of rabbiting or chitchat",
+          "examples": [
+            "Her rabbitings lasted all afternoon.",
+            "We had a few rabbitings about the old days."
+          ],
+          "collocations": ["parlour rabbitings", "short rabbitings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitlike",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembles a rabbit in appearance or behavior",
+          "examples": [
+            "The creature has rabbitlike ears and a twitching nose.",
+            "Its eyes are rabbitlike in size and shape."
+          ],
+          "collocations": ["rabbitlike features", "rabbitlike behavior"],
+          "synonyms": ["rabbit-shaped", "bunny-like"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "description"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitmouth",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mouth that resembles a rabbit's or a name for an animal feature; may appear in regional usage or descriptions",
+          "examples": [
+            "The sculpture features a rabbitmouth grin.",
+            "In some dialects, rabbitmouth describes a wide mouth."
+          ],
+          "collocations": ["rabbitmouth grin", "rabbitmouth feature"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "rabbito",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or regional term; possibly a child's term or a misspelling; no standard meaning in broad English",
+          "examples": [
+            "Rabbito appears in a local dialect dictionary.",
+            "The term rabbito is not widely used in modern English."
+          ],
+          "collocations": ["rabbito term"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitoh",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an old or regional term for a person who hunts rabbits or a member of a rugby team nickname used in some places",
+          "examples": [
+            "The rabbitohs won the match.",
+            "The old hunter was called a rabbitoh."
+          ],
+          "collocations": ["rabbitoh team", "Sydney Rabbitohs"],
+          "synonyms": ["rabbit hunter"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitohs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rabbitoh; a professional rugby league team name in Australia (South Sydney Rabbitohs)",
+          "examples": [
+            "The Rabbitohs celebrated their victory.",
+            "Fans wore red and green for the Rabbitohs."
+          ],
+          "collocations": ["Rabbitohs fans", "Rabbitohs team"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sport"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitos",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rabbit-o; a playful or fictional term; may refer to rabbit-like creatures or be a branding/name in fiction",
+          "examples": [
+            "In the story, several rabbitos hid in the brush.",
+            "The toy line features cartoon rabbitos."
+          ],
+          "collocations": ["rabbitos figures", "rabbitos toy"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fantasy", "children"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitproof",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "designed to prevent rabbits from entering or damaging an area; as in a rabbit-proof fence or barrier",
+          "examples": [
+            "A rabbitproof fence was built to protect the crops.",
+            "They installed rabbitproof netting around the garden."
+          ],
+          "collocations": ["rabbitproof fence", "rabbitproof barrier"],
+          "synonyms": ["vital barrier", "protective fence"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rabbitry; places where rabbits are kept or bred; a breeding facility",
+          "examples": [
+            "The farm operates several rabbitries.",
+            "Rabbit breeders visited the rabbitries to inspect stock."
+          ],
+          "collocations": ["commercial rabbitries", "riffrabbit rabbitries"],
+          "synonyms": ["rabbitry"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "business"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitroot",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant or root used in folklore; may refer to a specific root used by rabbits or a medicinal plant alias",
+          "examples": [
+            "The herbalist spoke about rabbitroot as a remedy.",
+            "Some gardeners cultivate rabbitroot for soil health."
+          ],
+          "collocations": ["rabbitroot herb", "rabbitroot plant"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "rabbitry",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the place where rabbits are kept or bred; a rabbit farm or collection",
+          "examples": [
+            "The farmer expanded the rabbitry to meet demand.",
+            "She visited the rabbitry to choose a pet rabbit."
+          ],
+          "collocations": ["commercial rabbitry", "large rabbitry"],
+          "synonyms": ["rabbitry farm"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "business"]
+        }
+      ]
+    },
+    {
+      "term": "rabbits",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the plural of rabbit; more than one rabbit",
+          "examples": [
+            "There are several rabbits in the garden.",
+            "Two rabbits hopped across the yard."
+          ],
+          "collocations": ["wild rabbits", "pet rabbits", "rabbit cage"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    }
+  ]
+}

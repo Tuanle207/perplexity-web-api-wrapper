@@ -1,0 +1,505 @@
+{
+  "items": [
+    {
+      "term": "roughly",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "almost; in a general way, not exactly",
+          "examples": [
+            "The project costs roughly $1,000.",
+            "There were roughly twenty people at the meeting.",
+            "She spoke roughly like a native speaker."
+          ],
+          "collocations": ["roughly speaking", "roughly the same", "roughly around"],
+          "synonyms": ["approximately", "about", "nearly"],
+          "antonyms": ["precisely", "exactly"],
+          "register": "informal",
+          "domain": ["general", "numbers", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "roughneck",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a hard-working or tough person, especially a manual laborer or oil field worker",
+          "examples": [
+            "The roughnecks were repairing the rig at sunrise.",
+            "He earned a living as a roughneck in the offshore fields."
+          ],
+          "collocations": ["oil rig roughneck", "roughneck crew", "tough roughneck"],
+          "synonyms": ["laborer", "bulldog", "grinder"],
+          "antonyms": ["manager", "executive"],
+          "register": "informal",
+          "domain": ["general", "employment", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "roughnecked",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of roughneck; acted like a roughneck, especially in a tough or aggressive way",
+          "examples": [
+            "He roughnecked his way through the mines.",
+            "They roughnecked the crowd to clear a path."
+          ],
+          "collocations": ["roughnecked behavior", "roughnecked approach"],
+          "synonyms": ["bullied", "muscled", "forced through"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "roughnecking",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of roughnecking; engaging in rough, aggressive labor or behavior",
+          "examples": [
+            "The crew spent the night roughnecking on the drill floor.",
+            "Roughnecking is grueling work."
+          ],
+          "collocations": ["roughnecking on site", "roughnecking activity"],
+          "synonyms": ["bullying", "pushing", "coercion"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "work"]
+        }
+      ]
+    },
+    {
+      "term": "roughnecks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roughneck; multiple hard-working laborers, especially on oil rigs",
+          "examples": [
+            "The roughnecks prepared the platform before dawn.",
+            "Roughnecks faced dangerous conditions daily."
+          ],
+          "collocations": ["oil rig roughnecks", "team of roughnecks"],
+          "synonyms": ["laborers", "workers"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "roughness",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being uneven, irregular, or harsh",
+          "examples": [
+            "The roughness of the sand made walking uncomfortable.",
+            "There was roughness in his voice when he spoke."
+          ],
+          "collocations": ["surface roughness", "roughness of texture", "roughness in voice"],
+          "synonyms": ["unevenness", "coarseness", "harshness"],
+          "antonyms": ["smoothness", "evenness"],
+          "register": "neutral",
+          "domain": ["general", "science", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "roughnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roughness",
+          "examples": [
+            "The roughnesses on the stone were measured.",
+            "Different roughnesses affect friction."
+          ],
+          "collocations": ["surface roughnesses", "measured roughnesses"],
+          "synonyms": ["coarsenesses", "harshnesses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "roughometer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an instrument designed to measure surface roughness or texture",
+          "examples": [
+            "The engineer checked the roughometer readings.",
+            "Roughometer data helped assess material quality."
+          ],
+          "collocations": ["use roughometer", "roughometer readings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "roughout",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "all the way through; everywhere in a place or period",
+          "examples": [
+            "The festival was celebrated throughout the city.",
+            "Prices rose throughout the year."
+          ],
+          "collocations": ["throughout the country", "throughout Europe"],
+          "synonyms": ["all over", "across"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "roughouts",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roughout; mock term for roughing out or preliminary shaping",
+          "examples": [
+            "Carpenters worked on roughouts before finishing.",
+            "The roughouts were later refined."
+          ],
+          "collocations": ["carving roughouts", "roughouts on wood"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "roughride",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rough, bumpy ride; a difficult journey",
+          "examples": [
+            "The road gave us a roughride all the way to the valley.",
+            "They endured a roughride through the storm."
+          ],
+          "collocations": ["long roughride", "roughride home"],
+          "synonyms": ["bumpy ride", "turbulent journey"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "roughrider",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who rides roughly or aggressively; also a member of a historical Texas cavalry unit",
+          "examples": [
+            "The roughrider clashed with the crowd.",
+            "A roughrider charged ahead in the parade."
+          ],
+          "collocations": ["roughrider", "team of roughriders"],
+          "synonyms": ["rider", "horseman"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "roughriders",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roughrider; multiple riders who ride roughly",
+          "examples": [
+            "The roughriders galloped across the plain.",
+            "Roughriders faced the wind together."
+          ],
+          "collocations": ["band of roughriders"],
+          "synonyms": ["riders"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "roughroot",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant or root with rough surface or texture; a term used in botany or cuisine",
+          "examples": [
+            "The roughroot used in the recipe added a gritty texture.",
+            "Botanists studied the roughroot of the plant."
+          ],
+          "collocations": ["roughroot texture", "extract roughroot"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "cooking"]
+        }
+      ]
+    },
+    {
+      "term": "roughs",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rough; things that are rough in texture or appearance",
+          "examples": [
+            "The roughs on the stone irritate the skin.",
+            "He rubbed the roughs off the log."
+          ],
+          "collocations": ["the roughs of the surface"],
+          "synonyms": ["coarsenesses"],
+          "antonyms": ["s smoothness"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "roughscuff",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a minor scratch or scuff on a rough surface",
+          "examples": [
+            "There is a roughscuff on the bumper.",
+            "Polish removed the roughscuff easily."
+          ],
+          "collocations": ["minor roughscuff", "surface roughscuff"],
+          "synonyms": ["scrape", "scuff"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "maintenance"]
+        }
+      ]
+    },
+    {
+      "term": "roughsetter",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a tool or person that sets rough shapes in woodworking or metalworking",
+          "examples": [
+            "The roughsetter prepared the block for final shaping.",
+            "A roughsetter adjusted the lay of the material."
+          ],
+          "collocations": ["roughsetter tool", "roughsetter adjustment"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "roughshod",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "unrestrained, dominating, or forceful in a way that ignores others' rights",
+          "examples": [
+            "The company acted roughshod over local regulations.",
+            "They pushed roughshod through the negotiations."
+          ],
+          "collocations": ["ride roughshod over", "roughshod measures"],
+          "synonyms": ["oppressive", "underdone"],
+          "antonyms": ["careful", "considerate"],
+          "register": "formal",
+          "domain": ["law", "business"]
+        }
+      ]
+    },
+    {
+      "term": "roughslant",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rough, slanted approach or bias in perspective",
+          "examples": [
+            "The article presented a roughslant on the issue.",
+            "He read the report with a roughslant."
+          ],
+          "collocations": ["journalistic roughslant", "roughslant bias"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media", "journalism"]
+        }
+      ]
+    },
+    {
+      "term": "roughsome",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "rough in texture or condition; difficult",
+          "examples": [
+            "The path was roughsome and hard to traverse.",
+            "They faced roughsome conditions during the climb."
+          ],
+          "collocations": ["roughsome terrain", "roughsome weather"],
+          "synonyms": ["rough", "difficult"],
+          "antonyms": ["smooth", "easy"],
+          "register": "neutral",
+          "domain": ["general", "outdoor"]
+        }
+      ]
+    },
+    {
+      "term": "roughstring",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rough fiber or string with a coarse texture",
+          "examples": [
+            "The roughstring added a rustic look to the craft.",
+            "They used roughstring to tie the bundle."
+          ],
+          "collocations": ["roughstring thread", "roughstring craft"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "fiber"]
+        }
+      ]
+    },
+    {
+      "term": "roughstuff",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rough or coarse material; things of low quality",
+          "examples": [
+            "The attic was full of roughstuff and junk.",
+            "He grabbed roughstuff from the shelf."
+          ],
+          "collocations": ["pile of roughstuff", "roughstuff collection"],
+          "synonyms": ["junk", "odds and ends"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rought",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "difficult to endure or tolerate; rough",
+          "examples": [
+            "The road was rought and dangerous.",
+            "They faced a rought night in the storm."
+          ],
+          "collocations": ["rought conditions", "rought weather"],
+          "synonyms": ["harsh", "tough"],
+          "antonyms": ["easy", "pleasant"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "roughtail",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a tail that is rough in texture or harsh in appearance",
+          "examples": [
+            "The roughtail on the animal was visible.",
+            "Roughtail fish were caught nearby."
+          ],
+          "collocations": ["roughtail feature"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "zoology"]
+        }
+      ]
+    },
+    {
+      "term": "roughtailed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a rough tail or a tail with a rough texture",
+          "examples": [
+            "The roughtailed lizard was easy to spot.",
+            "Roughtailed geckos are common in the area."
+          ],
+          "collocations": ["roughtailed species", "roughtailed fins"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology"]
+        }
+      ]
+    }
+  ]
+}

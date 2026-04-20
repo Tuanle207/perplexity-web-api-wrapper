@@ -1,0 +1,508 @@
+{
+  "items": [
+    {
+      "term": "prevacation",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A term not widely used in standard English; likely a misspelling or blend of 'pre- vacation' referring to the period before a vacation, or a mistaken form of related word.",
+          "examples": [
+            "The writer kept notes during the prevacation planning stage.",
+            "In the document, prevacation details were later corrected to pre-vacation."
+          ],
+          "collocations": ["pre- vacation planning", "prevacation period"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prevaccinate",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "A nonstandard or rare coinage; not widely recognized in contemporary English. Could be interpreted as a blend suggesting action taken before vaccination, but it is not an established term.",
+          "examples": [
+            "The diary used prevaccinate to describe steps taken before vaccination.",
+            "In standard writing, use 'pre-vaccinate' or 'before vaccination' instead of prevaccinate."
+          ],
+          "collocations": ["prevaccinate measures", "prevaccinate steps"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["health", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prevaccinated",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Describing someone who had been vaccinated beforehand; not a standard term in medical or everyday English.",
+          "examples": [
+            "The prevaccinated group showed a higher initial antibody level.",
+            "Some forms of paperwork mention prevaccinated status."
+          ],
+          "collocations": ["prevaccinated individuals", "prevaccinated status"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prevaccinating",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "A nonstandard form; could be interpreted as action taken before vaccination, but not commonly used in standard English.",
+          "examples": [
+            "Some researchers discussed prevaccinating protocols here.",
+            "For clarity, use 'pre-vaccinating' or 'before vaccination' in formal writing."
+          ],
+          "collocations": ["prevaccinating steps", "prevaccinating protocol"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prevaccination",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A rare or nonstandard term that could mean the period or act before vaccination; not widely used in standard English.",
+          "examples": [
+            "The study mentions prevaccination decisions.",
+            "In medical writing, prefer 'pre-vaccination' or 'before vaccination'."
+          ],
+          "collocations": ["prevaccination phase", "prevaccination decisions"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prevail",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To be common or widespread; to triumph or win.",
+          "examples": [
+            "Justice will prevail in the end.",
+            "Hope began to prevail among the crowd."
+          ],
+          "collocations": ["to prevail", "will prevail", "prevail over", "prevailing conditions"],
+          "synonyms": ["win", "be victorious", "triumph"],
+          "antonyms": ["fail", "lose", "surrender"],
+          "register": "neutral",
+          "domain": ["general", "society"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To be present as the most common or dominant feature.",
+          "examples": [
+            "Customs prevail in this region.",
+            "Tradition prevails despite modernization."
+          ],
+          "collocations": ["prevail in", "prevail over tradition"],
+          "synonyms": ["predominate", "dominate"],
+          "antonyms": ["disappear", "fade"],
+          "register": "neutral",
+          "domain": ["culture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prevailance",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An obsolete or rare form related to 'prevalence' or 'prevalent'; not common in modern usage.",
+          "examples": [
+            "Historical texts mention prevailance in disease terms.",
+            "In modern writing, use 'prevalence' instead of prevailance."
+          ],
+          "collocations": ["prevailance of"], // kept for illustration; not standard
+          "synonyms": ["prevalence"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prevailed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of prevail; to have succeeded or won.",
+          "examples": [
+            "Justice prevailed after a long trial.",
+            "Public opinion finally prevailed against the proposal."
+          ],
+          "collocations": ["prevailed over", "prevailed against", "as prevailing trend"],
+          "synonyms": ["succeeded", "triumphed", "overcame"],
+          "antonyms": ["failed", "lost"],
+          "register": "neutral",
+          "domain": ["general", "law", "society"]
+        }
+      ]
+    },
+    {
+      "term": "prevailer",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "One who prevails; a winner or champion.",
+          "examples": [
+            "The prevailer of the contest received a prize.",
+            "As the strongest prevailer, she claimed the title."
+          ],
+          "collocations": ["the prevailer", "chief prevailer"],
+          "synonyms": ["victor", "winner", "champion"],
+          "antonyms": ["loser"],
+          "register": "neutral",
+          "domain": ["general", "competition"]
+        }
+      ]
+    },
+    {
+      "term": "prevailers",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple people who prevail; winners or leaders in a competition or movement.",
+          "examples": [
+            "The prevailers shared their strategies after the event.",
+            "Several prevailers emerged from the tournament."
+          ],
+          "collocations": ["the prevailers", "group of prevailers"],
+          "synonyms": ["winners", "champions"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "sports"]
+        }
+      ]
+    },
+    {
+      "term": "prevailing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Most common or widespread at a particular time; currently dominant.",
+          "examples": [
+            "The prevailing opinion is that the policy will work.",
+            "There is a prevailing mood of optimism."
+          ],
+          "collocations": ["prevailing trend", "prevailing attitude", "prevailing winds"],
+          "synonyms": ["current", "dominant", "prevalent"],
+          "antonyms": ["uncommon", "rare", "unfashionable"],
+          "register": "neutral",
+          "domain": ["general", "society"]
+        }
+      ]
+    },
+    {
+      "term": "prevailingly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a way that is prevailing or dominant; mainly.",
+          "examples": [
+            "Prevailingly, the policy supports growth.",
+            "Prevailingly, the region remains prosperous."
+          ],
+          "collocations": ["prevailingly common"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prevailingness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The state or quality of being prevailing; dominance or widespread presence.",
+          "examples": [
+            "The prevailingness of such beliefs varies by region."
+          ],
+          "collocations": ["degree of prevailingness"],
+          "synonyms": ["prevalence", "dominance"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prevailment",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An archaic or rare term meaning a prevailing condition or disorder; not common in modern usage.",
+          "examples": [
+            "The medical record cited a prevailment in symptoms.",
+            "In contemporary English, use 'prevalence' or 'prevailing condition'."
+          ],
+          "collocations": ["prevailment of symptoms"],
+          "synonyms": ["prevalence", "dominance"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prevailments",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of prevailment; an old or rare plural form referring to prevailing conditions or disorders.",
+          "examples": [
+            "References to prevailments appear in older texts."
+          ],
+          "collocations": ["prevailments of symptoms"],
+          "synonyms": ["prevalences"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prevails",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person singular of prevail; it means to be widespread or to win.",
+          "examples": [
+            "In the end, the truth prevails.",
+            "Public opinion prevails in this debate."
+          ],
+          "collocations": ["it prevails", "prevails over", "prevails in"],
+          "synonyms": ["wins", "dominates"],
+          "antonyms": ["fails", "loses"],
+          "register": "neutral",
+          "domain": ["general", "society"]
+        }
+      ]
+    },
+    {
+      "term": "prevalence",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The commonness or widespread presence of something, especially a disease or trait.",
+          "examples": [
+            "The prevalence of obesity has risen.",
+            "Data shows the prevalence of malaria varies by region."
+          ],
+          "collocations": ["high prevalence", "prevalence rate", "geographic prevalence"],
+          "synonyms": ["commonness", "widespreadness", "frequency"],
+          "antonyms": ["rarity", "scarcity"],
+          "register": "neutral",
+          "domain": ["health", "science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prevalences",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of prevalence; occurrences of being common or widespread.",
+          "examples": [
+            "The prevalences of different conditions were mapped."
+          ],
+          "collocations": ["geographic prevalences"],
+          "synonyms": ["commonnesses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "science"]
+        }
+      ]
+    },
+    {
+      "term": "prevalencies",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An alternative plural form of prevalence; less common than 'prevalences'.",
+          "examples": [
+            "Various prevalencies were reported in the survey."
+          ],
+          "collocations": ["various prevalencies"],
+          "synonyms": ["prevalences"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "science"]
+        }
+      ]
+    },
+    {
+      "term": "prevalency",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Another form meaning the rate or state of being prevalent; how common something is.",
+          "examples": [
+            "The prevalence, or prevalency, of the disease varies by age group."
+          ],
+          "collocations": ["level of prevalency", "disease prevalency"],
+          "synonyms": ["prevalence", "frequency"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "research"]
+        }
+      ]
+    },
+    {
+      "term": "prevalent",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Widespread or common at a particular time or place.",
+          "examples": [
+            "Flu is a prevalent illness in winter.",
+            "This is a prevalent method used in industry."
+          ],
+          "collocations": ["prevalent in", "most prevalent"],
+          "synonyms": ["widespread", "common", "dominant"],
+          "antonyms": ["rare", "uncommon"],
+          "register": "neutral",
+          "domain": ["health", "science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prevalently",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a prevalent or widespread manner.",
+          "examples": [
+            "The policy has been prevalently adopted across the region."
+          ],
+          "collocations": ["prevalently adopted"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prevalentness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The state of being prevalent; how common something is.",
+          "examples": [
+            "Researchers study the prevalentness of smoking in different ages."
+          ],
+          "collocations": ["level of prevalentness"],
+          "synonyms": ["prevalence", "dominance"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["health", "social science"]
+        }
+      ]
+    },
+    {
+      "term": "prevalentnesses",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of prevalentness; refers to multiple instances of being prevalent.",
+          "examples": [
+            "Different studies report various prevalentnesses."
+          ],
+          "collocations": ["different prevalentnesses"],
+          "synonyms": ["prevalences"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "social science"]
+        }
+      ]
+    },
+    {
+      "term": "prevalents",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural noun referring to things that are prevalent; but commonly used as an adjective 'prevalent' rather than a plural noun.",
+          "examples": [
+            "The prevalents vary by region." 
+          ],
+          "collocations": ["the prevalents"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

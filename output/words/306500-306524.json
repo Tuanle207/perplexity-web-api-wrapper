@@ -1,0 +1,590 @@
+{
+  "items": [
+    {
+      "term": "presurgery",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the period or processes before a surgical operation",
+          "examples": [
+            "The patient prepared for presurgery tests.",
+            "Presurgery instructions include fasting and medication review."
+          ],
+          "collocations": [
+            "presurgery screening",
+            "presurgery checklist",
+            "presurgery evaluation",
+            "presurgery appointment",
+            "presurgery instructions"
+          ],
+          "synonyms": ["preoperative period", "preoperative phase"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical", "healthcare", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presurgical",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or occurring before a surgical operation",
+          "examples": [
+            "Presurgical testing is required before the operation.",
+            "Presurgical care includes anesthesia evaluation."
+          ],
+          "collocations": [
+            "presurgical testing",
+            "presurgical evaluation",
+            "presurgical care",
+            "presurgical clearance"
+          ],
+          "synonyms": ["preoperative"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "presurmise",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to assume or guess something before it has happened",
+          "examples": [
+            "To presurmise the outcome would be risky.",
+            "Don't presurmise the result without data."
+          ],
+          "collocations": [
+            "presurmise the outcome",
+            "presurmise results",
+            "presurmise intention"
+          ],
+          "synonyms": ["pre-guess", "assume prematurely"],
+          "antonyms": ["wait for evidence", "refrain from guessing"],
+          "register": "formal",
+          "domain": ["general", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "presurmised",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "having assumed something before it happened (past tense of presurmise)",
+          "examples": [
+            "The presurmised conclusions were later corrected by data.",
+            "He spoke about presurmised trends in the report."
+          ],
+          "collocations": [
+            "presurmised conclusions",
+            "presurmised trends",
+            "presurmised outcomes"
+          ],
+          "synonyms": ["pre-empted", "assumed prematurely"],
+          "antonyms": ["unpresumed", "unanticipated"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "presurmises",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "premature assumptions or guesses about what will happen",
+          "examples": [
+            "Her presurmises about the market were wrong.",
+            "We should rely on data, not presurmises."
+          ],
+          "collocations": [
+            "unfounded presurmises",
+            "presurmises about",
+            "presurmises and plans"
+          ],
+          "synonyms": ["premature assumptions", "preconceptions"],
+          "antonyms": ["evidence-based conclusions", "data-driven conclusions"],
+          "register": "formal",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presurmising",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "gerund / present participle",
+          "definition": "the act of assuming something before it happens",
+          "examples": [
+            "Presurmising outcomes without data is risky.",
+            "He avoided presurmising conclusions in the briefing."
+          ],
+          "collocations": [
+            "presurmising outcomes",
+            "presurmising conclusions",
+            "presurmising statements"
+          ],
+          "synonyms": ["prematurely assuming", "pre-emptive guessing"],
+          "antonyms": ["fact-based reasoning", "data-driven conclusions"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "presurprisal",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of being surprised before it happens; a premature sense of surprise",
+          "examples": [
+            "His presurprisal about the news surprised the team.",
+            "Presurprisal can lead to misguided decisions."
+          ],
+          "collocations": [
+            "presurprisal effect",
+            "presurprisal in forecasts"
+          ],
+          "synonyms": ["premature surprise"],
+          "antonyms": ["actual surprise", "delayed surprise"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "presurprise",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a surprise anticipated before it occurs; a preemptive surprise",
+          "examples": [
+            "The presurprise of the announcement affected morale.",
+            "Presurprise planning looked at expected changes."
+          ],
+          "collocations": [
+            "presurprise event",
+            "presurprise tactic"
+          ],
+          "synonyms": ["premature surprise"],
+          "antonyms": ["unanticipated surprise"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "presurrender",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a surrender occurring before a negotiation or actual defeat; preemptive yielding",
+          "examples": [
+            "The presurrender ended the talks early.",
+            "Presurrender commitments can undermine bargaining power."
+          ],
+          "collocations": [
+            "presurrender terms",
+            "presurrender agreement"
+          ],
+          "synonyms": ["premature surrender"],
+          "antonyms": ["resistance", "defiance"],
+          "register": "formal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presurround",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to surround something in advance or before it occurs",
+          "examples": [
+            "They planned presurround security perimeters.",
+            "Presurround measures were put in place before the event."
+          ],
+          "collocations": [
+            "presurround perimeter",
+            "presurround measures",
+            "presurrounding strategy"
+          ],
+          "synonyms": ["pre-surround", "anticipatory surround"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["security", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presurvey",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to survey in advance; to conduct a preliminary survey",
+          "examples": [
+            "The team presurveyed the neighborhood to plan outreach.",
+            "Presurvey data helped design the study."
+          ],
+          "collocations": [
+            "presurvey questionnaire",
+            "presurvey data",
+            "presurvey results"
+          ],
+          "synonyms": ["pre-survey", "preliminary survey"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["research", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presurveyed",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "having surveyed in advance; conducted a preliminary survey",
+          "examples": [
+            "The presurveyed areas informed the sampling plan.",
+            "Presurveyed data supported the protocol change."
+          ],
+          "collocations": [
+            "presurveyed areas",
+            "presurveyed data"
+          ],
+          "synonyms": ["pre-surveyed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["research"]
+        }
+      ]
+    },
+    {
+      "term": "presurveying",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of surveying in advance",
+          "examples": [
+            "Presurveying helps avoid sampling bias.",
+            "Presurveying is done before fieldwork."
+          ],
+          "collocations": [
+            "presurveying fieldwork",
+            "presurveying phase"
+          ],
+          "synonyms": ["pre-surveying"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["research"]
+        }
+      ]
+    },
+    {
+      "term": "presurveys",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "preliminary surveys conducted before main data collection",
+          "examples": [
+            "Presurveys helped shape the study design.",
+            "Presurveys identified potential issues early."
+          ],
+          "collocations": [
+            "presurveys results",
+            "presurveys data"
+          ],
+          "synonyms": ["preliminary surveys"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["research"]
+        }
+      ]
+    },
+    {
+      "term": "presusceptibility",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being susceptible in advance; a preexisting vulnerability",
+          "examples": [
+            "Presusceptibility to infection was noted in the report.",
+            "Genetic factors contribute to presusceptibility."
+          ],
+          "collocations": [
+            "presusceptibility to",
+            "presusceptibility factors"
+          ],
+          "synonyms": ["preexisting susceptibility"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "genetics"]
+        }
+      ]
+    },
+    {
+      "term": "presusceptible",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be affected or harmed beforehand; susceptible in advance",
+          "examples": [
+            "Presusceptible individuals may need extra protection.",
+            "The policy aims to reduce presusceptible outcomes."
+          ],
+          "collocations": [
+            "presusceptible to",
+            "presusceptible status"
+          ],
+          "synonyms": ["pre-susceptible", "vulnerable in advance"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presuspect",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to suspect in advance; to hold a suspicion beforehand",
+          "examples": [
+            "Officials presuspect malfeasance before the audit.",
+            "We must not presuspect colleagues without evidence."
+          ],
+          "collocations": [
+            "presuspect motive",
+            "presuspect intention"
+          ],
+          "synonyms": ["pre-suspect", "preliminarily suspect"],
+          "antonyms": ["un suspect", "disbelieve"],
+          "register": "formal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presuspend",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to suspend in advance; to temporarily stop before a decision",
+          "examples": [
+            "Presuspend operations until we have results.",
+            "The committee presuspend the policy while reviewing comments."
+          ],
+          "collocations": [
+            "presuspend operations",
+            "presuspend the policy"
+          ],
+          "synonyms": ["pre-suspend", "preliminary halt"],
+          "antonyms": ["resume", "continue"],
+          "register": "formal",
+          "domain": ["business", "law"]
+        }
+      ]
+    },
+    {
+      "term": "presuspension",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an act or state of suspending something in advance",
+          "examples": [
+            "Presuspension of services affected customers.",
+            "Presuspension period lasted two weeks."
+          ],
+          "collocations": [
+            "presuspension period",
+            "presuspension notice"
+          ],
+          "synonyms": ["pre-suspension"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "legal"]
+        }
+      ]
+    },
+    {
+      "term": "presuspicion",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a suspicion held before evidence is gathered",
+          "examples": [
+            "There was presuspicion about the motives behind the decision.",
+            "Presuspicion can bias early judgments."
+          ],
+          "collocations": [
+            "presuspicion about",
+            "presuspicion of motives"
+          ],
+          "synonyms": ["premature suspicion"],
+          "antonyms": ["confirmed suspicion", "evidence-based suspicion"],
+          "register": "formal",
+          "domain": ["general", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "presuspicious",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having suspicious concerns in advance; showing suspicion beforehand",
+          "examples": [
+            "She wore a presuspicious expression during the briefing.",
+            "Presuspicious behavior can hamper trust."
+          ],
+          "collocations": [
+            "presuspicious behavior",
+            "presuspicious look"
+          ],
+          "synonyms": ["prematurely suspicious"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["psychology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presuspiciously",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows suspicion in advance",
+          "examples": [
+            "The actor spoke presuspiciously, as if hiding something.",
+            "Presuspiciously, the data suggested a different trend."
+          ],
+          "collocations": [
+            "act presuspiciously",
+            "presuspiciously optimistic"
+          ],
+          "synonyms": ["prematurely suspiciously"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "presuspiciousness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being suspicious in advance",
+          "examples": [
+            "Presuspiciousness can distort interpretation of facts.",
+            "Reducing presuspiciousness helps objectivity."
+          ],
+          "collocations": [
+            "level of presuspiciousness",
+            "presuspiciousness in attitude"
+          ],
+          "synonyms": ["premature suspicion", "preconception"],
+          "antonyms": ["open-mindedness", "evidence-based reasoning"],
+          "register": "formal",
+          "domain": ["psychology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presustain",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to sustain beforehand; to support in advance",
+          "examples": [
+            "Presustain funding for the first quarter.",
+            "Presustain efforts are planned for the transition period."
+          ],
+          "collocations": [
+            "presustain funding",
+            "presustain support"
+          ],
+          "synonyms": ["pre-sustain"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["finance", "general"]
+        }
+      ]
+    },
+    {
+      "term": "presutural",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or occurring before sutural (related to sutures in anatomy)",
+          "examples": [
+            "Presutural development patterns were studied in the skulls.",
+            "The term presutural is used in historical anatomical texts."
+          ],
+          "collocations": [
+            "presutural anatomy",
+            "presutural features"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["medicine", "anatomy", "history"]
+        }
+      ]
+    }
+  ]
+}

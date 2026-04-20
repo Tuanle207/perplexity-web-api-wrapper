@@ -1,0 +1,490 @@
+{
+  "items": [
+    {
+      "term": "quot",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an abbreviation for quotation or quote, often used in references or shorthand notes",
+          "examples": ["Please write the quot with the page number included."],
+          "collocations": ["quot sign", "quot mark", "quot., p."],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quota",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fixed allotment or limit, especially of something that can be measured or counted",
+          "examples": ["The company set a monthly sales quota for each team.", "They exceeded the quota for visitors to the museum."],
+          "collocations": ["production quota", "sales quota", "quota system", "quota limit"],
+          "synonyms": ["allowance", "allotment", "limit"],
+          "antonyms": ["excess", "overage"],
+          "register": "formal",
+          "domain": ["business", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the share or portion assigned to a group or individual",
+          "examples": ["Her quota of the profits was shared among the partners."],
+          "collocations": ["population quota", "immigration quota"],
+          "synonyms": ["portion", "share"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotabilities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quotability; the quality of being quotable",
+          "examples": ["The quotabilities of the speech were high, making it widely shared."],
+          "collocations": ["quotabilities measure", "high quotabilities"],
+          "synonyms": ["quotableness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotability",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being good or suitable for quotation",
+          "examples": ["Its quotability makes it perfect for memes and lectures."],
+          "collocations": ["high quotability", "unusual quotability"],
+          "synonyms": ["quote-worthiness", "quotableness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotable",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "worthy of being quoted or cited",
+          "examples": ["Her remark was quotable and circulated online."],
+          "collocations": ["quotable quote", "quotable remark", "quotable line"],
+          "synonyms": ["quote-worthy", "cite-worthy"],
+          "antonyms": ["unquotable"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+        ,
+        {
+          "pos": "noun",
+          "definition": "a quotation or a passage cited from a book, speech, etc.",
+          "examples": ["I wrote down a quotable from the lecture."],
+          "collocations": ["famous quotable", "well-known quotable"],
+          "synonyms": ["quotation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotableness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being quotable or suitable for quotation",
+          "examples": ["Quotableness varies by audience."],
+          "collocations": ["high quotableness", "low quotableness"],
+          "synonyms": ["quotability"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotablenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of quotableness; the qualities of being quotable",
+          "examples": ["They discussed the quotablenesses of various passages."],
+          "collocations": ["different quotablenesses"],
+          "synonyms": ["quotabilities"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotably",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is suitable to be quoted",
+          "examples": ["The line was quotably witty."],
+          "collocations": ["quotably said", "quotably impressive"],
+          "synonyms": ["quote-worthy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotas",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quota; fixed limits or shares",
+          "examples": ["The company updated its annual quotas for hires."],
+          "collocations": ["production quotas", "quota system", "immigration quotas"],
+          "synonyms": ["limits", "allotments"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quotation",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a group of words taken from a text or speech and repeated by someone else",
+          "examples": ["She included a quotation from Plato in her essay."],
+          "collocations": ["famous quotation", "quotation marks", "verbatim quotation"],
+          "synonyms": ["quote", "citation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotational",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "related to or containing quotations",
+          "examples": ["quotational phrases appeared in the article."],
+          "collocations": ["quotational style"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotationally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a quotational manner; with quotations",
+          "examples": ["The text was quotationally styled."],
+          "collocations": ["quotationally accurate"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotationist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who quotes or compiles quotations",
+          "examples": ["The quotationist shared daily quotes online."],
+          "collocations": ["famous quotationist"],
+          "synonyms": ["quote compiler"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotations",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quotation; passages taken from texts or speeches",
+          "examples": ["She cited several quotations in her speech."],
+          "collocations": ["well-known quotations", "famous quotations"],
+          "synonyms": ["quotes", "citations"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotatious",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "full of quotes; given to quoting",
+          "examples": ["He was quotatious in conversations."],
+          "collocations": ["quotatious remarks"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotative",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the use of quotes or reported speech",
+          "examples": ["Quotative phrases introduce reported dialogue."],
+          "collocations": ["quotative construction"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["grammar", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quotatives",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quotative; devices or words used to report speech",
+          "examples": ["English quotatives include 'say' and 'go' plus complements."],
+          "collocations": ["grammar quotatives", "quotatives in conversation"],
+          "synonyms": ["reporting verbs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["language", "grammar"]
+        }
+      ]
+    },
+    {
+      "term": "quote",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a sentence or phrase taken from a book, speech, or other source, shown with quotation marks",
+          "examples": ["Her favorite quote is from Shakespeare."],
+          "collocations": ["famous quote", "opening quote", "quotation marks"],
+          "synonyms": ["quotation", "citation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a line of a sports team or a ticketing allotment? (less common use)",
+          "examples": ["The guard quota is not a quote."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to repeat exactly what someone else has said or written",
+          "examples": ["She quoted her sources in the essay.", "He quoted the famous line from the movie."],
+          "collocations": ["quote verb", "quote someone", "quote from"],
+          "synonyms": ["cite", "mention"],
+          "antonyms": ["withhold", "conceal"],
+          "register": "neutral",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to give a price or estimate for a job or service",
+          "examples": ["They quoted us $500 for the repair."],
+          "collocations": ["quote a price", "quote a job"],
+          "synonyms": ["estimate", "price"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "quoted",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "marked with quotation marks or cited",
+          "examples": ["The quoted lines were highlighted in the article."],
+          "collocations": ["quoted text", "quoted sentence"],
+          "synonyms": ["cited"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotee",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the person who is quoted",
+          "examples": ["The quotee responded to the statement."],
+          "collocations": ["credited quotee"],
+          "synonyms": ["quoter (recipient)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quoteless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without quotation marks or without quotations",
+          "examples": ["The document was quoteless and used plain text."],
+          "collocations": ["quoteless text"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotennial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "occurring every quarter of a year; every four years? (rare/unclear usage)",
+          "examples": ["The event is described as quotennial in some catalogs."],
+          "collocations": ["quotennial event"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quoter",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who quotes others or a reference to someone who quotes",
+          "examples": ["He is known as a reliable quoter of sources."],
+          "collocations": ["quote collector", "main quoter"],
+          "synonyms": ["quotist"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quoters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quoter; people who quote or sources quoted",
+          "examples": ["The quoters shared several references."],
+          "collocations": ["active quoters"],
+          "synonyms": ["quoters"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quotes",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quote; sentences or phrases repeated from another source",
+          "examples": ["I collected several famous quotes."],
+          "collocations": ["famous quotes", "opening quotes", "quotation marks"],
+          "synonyms": ["quotations", "citations"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to repeat words from someone else exactly as they were said or written",
+          "examples": ["She quotes her mentor in every talk."],
+          "collocations": ["quote someone", "quote from a source"],
+          "synonyms": ["cites", "mentions"],
+          "antonyms": ["omit", "pervert"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

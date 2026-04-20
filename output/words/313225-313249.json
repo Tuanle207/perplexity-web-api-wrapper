@@ -1,0 +1,444 @@
+{
+  "items": [
+    {
+      "term": "psychogenic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "originating in or caused by the mind rather than by the body",
+          "examples": [
+            "psychogenic pain is felt in the brain rather than by an injured body part.",
+            "she blamed the symptoms on a psychogenic illness rather than a physical disease."
+          ],
+          "collocations": ["psychogenic pain", "psychogenic illness", "psychogenic disorder", "psychogenic factors", "psychogenic symptoms"],
+          "synonyms": ["psychosomatic"],
+          "antonyms": ["organic", "physiological"],
+          "register": "formal",
+          "domain": ["medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "psychogenically",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that originates in or is caused by the mind",
+          "examples": [
+            "the patient presented psychogenically induced symptoms.",
+            "stress can manifest psychogenically, affecting mood and perception."
+          ],
+          "collocations": ["psychogenically induced", "psychogenically related"],
+          "synonyms": ["psychosomatically"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "psychogeny",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the origin of a condition or symptom in psychological factors rather than physical causes",
+          "examples": [
+            "the debate about psychogeny questions whether mental states can cause physical symptoms.",
+            "research into psychogeny explores how stress affects bodily health."
+          ],
+          "collocations": ["psychogeny of symptoms", "psychogeny theory", "claims of psychogeny"],
+          "synonyms": ["psychosomatic origin", "psychogenic origin"],
+          "antonyms": ["organic origin", "physiological origin"],
+          "register": "formal",
+          "domain": ["medicine", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "psychogeriatric",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the mental health and care of elderly people",
+          "examples": [
+            "psychogeriatric care focuses on cognitive and emotional well-being in older adults.",
+            "the clinic offers psychogeriatric assessment alongside medical treatment."
+          ],
+          "collocations": ["psychogeriatric care", "psychogeriatric assessment", "psychogeriatric patients"],
+          "synonyms": ["geriatric-psychological", "senior mental-health"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "gerontology"]
+        }
+      ]
+    },
+    {
+      "term": "psychogeriatrics",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the branch of geriatrics dealing with mental health and cognitive issues in old age",
+          "examples": [
+            "psychogeriatrics addresses dementia, depression, and other mental health concerns in the elderly.",
+            "training in psychogeriatrics is important for long-term care staff."
+          ],
+          "collocations": ["psychogeriatrics field", "specialists in psychogeriatrics"],
+          "synonyms": ["geriatric psychiatry", "elderly mental health care"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "gerontology"]
+        }
+      ]
+    },
+    {
+      "term": "psychognoses",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study or knowledge of the mind; an understanding of mental processes",
+          "examples": [
+            "the philosopher offered new psychognoses about perception.",
+            "his writings reveal a modern psychognose of human behavior."
+          ],
+          "collocations": ["psychognoses of mind", "psychognoses in philosophy"],
+          "synonyms": ["psychology", "mind theory (archaic)"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["philosophy", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "psychognosis",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an understanding or knowledge of mental processes; insight into the mind",
+          "examples": [
+            "the text discusses psychognosis as a form of mental insight.",
+            "experts debated the validity of psychognosis in clinical practice."
+          ],
+          "collocations": ["psychognosis theory", "levels of psychognosis"],
+          "synonyms": ["psychology", "mind insight"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["philosophy", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "psychognostic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to psychognosis; having insight into mental processes",
+          "examples": [
+            "the psychognostic approach seeks to map cognitive patterns.",
+            "a psychognostic assessment can supplement medical tests."
+          ],
+          "collocations": ["psychognostic method", "psychognostic insight"],
+          "synonyms": ["psychological", "mind-insightful"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["philosophy", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "psychognosy",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study or knowledge of the mind; psychological understanding",
+          "examples": [
+            "historical texts discuss psychognosy as a precursor to modern psychology.",
+            "the author explores psychognosy through narrative case studies."
+          ],
+          "collocations": ["history of psychognosy", "psychognosy in literature"],
+          "synonyms": ["psychology", "mind science"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["philosophy", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "psychogony",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the origin or birth of the mind or soul; a theory about mental emergence",
+          "examples": [
+            "the essay proposes a psychogony of consciousness.",
+            "in some traditions, psychogony describes how the mind develops from non-physical origins."
+          ],
+          "collocations": ["psychogony theory", "claims of psychogony"],
+          "synonyms": ["origins of mind", "mind emergence"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["philosophy", "religion", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "psychogram",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a graphical representation of mental or psychological traits, often used in personality testing",
+          "examples": [
+            "the psychologist interpreted the psychogram to assess traits.",
+            "creators used a psychogram to map cognitive styles."
+          ],
+          "collocations": ["psychogram image", "psychogram result", "psychogram analysis"],
+          "synonyms": ["personality profile", "psychological chart"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["psychology", "assessment"]
+        }
+      ]
+    },
+    {
+      "term": "psychograms",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "collections or sets of psychograms; multiple psychological profiles",
+          "examples": [
+            "the study used several psychograms to compare groups.",
+            "psychograms revealed distinct cognitive styles among participants."
+          ],
+          "collocations": ["psychograms set", "comparative psychograms"],
+          "synonyms": ["personality profiles", "psychological charts"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["psychology", "assessment"]
+        }
+      ]
+    },
+    {
+      "term": "psychograph",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or instrument for recording or displaying psychological data or traits",
+          "examples": [
+            "the instrument is a psychograph used in behavioral studies.",
+            "researchers plotted the results on a psychograph."
+          ],
+          "collocations": ["psychograph device", "psychograph chart"],
+          "synonyms": ["psychometric chart", "mental-data recorder"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "psychographer",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who writes about or maps psychological data; an author of psychographic material",
+          "examples": [
+            "the psychographer analyzed consumer behavior.",
+            "a well-known psychographer contributed a chapter on cognition."
+          ],
+          "collocations": ["leading psychographer", "psychographer wrote"],
+          "synonyms": ["psychology writer", "mind analyst"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["psychology", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "psychographic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the character, lifestyles, or attitudes of people used in market research",
+          "examples": [
+            "psychographic data helps marketers target consumers by personality and lifestyle.",
+            "the report includes psychographic segmentation."
+          ],
+          "collocations": ["psychographic data", "psychographic segmentation", "psychographic profile"],
+          "synonyms": ["psychological", "lifestyle-based"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "marketing", "statistics"]
+        }
+      ]
+    },
+    {
+      "term": "psychographical",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to psychography or the analysis of people's personalities, values, opinions, interests, and lifestyle",
+          "examples": [
+            "psychographical research informs product design.",
+            "they conducted psychographical interviews."
+          ],
+          "collocations": ["psychographical analysis", "psychographical profile"],
+          "synonyms": ["psychographic"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "marketing"]
+        }
+      ]
+    },
+    {
+      "term": "psychographically",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner related to psychography or the analysis of psychological traits for market research",
+          "examples": [
+            "the data were psychographically segmented to tailor campaigns.",
+            "advertisers target audiences psychographically."
+          ],
+          "collocations": ["psychographically segmented", "psychographically targeted"],
+          "synonyms": ["psychographically"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "marketing"]
+        }
+      ]
+    },
+    {
+      "term": "psychographics",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study and classification of people according to their attitudes, aspirations, and other psychological criteria, especially for marketing",
+          "examples": [
+            "psychographics help brands understand consumer motivations.",
+            "the report uses psychographics to predict buying behavior."
+          ],
+          "collocations": ["psychographics data", "psychographics segmentation"],
+          "synonyms": ["psychological profiling", "lifestyle segmentation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "marketing"]
+        }
+      ]
+    },
+    {
+      "term": "psychographies",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the collection or study of psychographic data; maps of psychological traits across groups",
+          "examples": [
+            "the psychographies reveal differing consumer segments.",
+            "scholars analyzed psychographies for cultural trends."
+          ],
+          "collocations": ["psychographies dataset", "cultural psychographies"],
+          "synonyms": ["psychographics", "mind-profile data"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "social sciences"]
+        }
+      ]
+    },
+    {
+      "term": "psychographist",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who creates or interprets psychographs; an expert in psychography",
+          "examples": [
+            "the psychographist designed new visual representations of personality data.",
+            "as a psychographist, she studied consumer behavior patterns."
+          ],
+          "collocations": ["leading psychographist", "psychographist roles"],
+          "synonyms": ["psychograph researcher", "psychography expert"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "psychographs",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of psychograph; multiple instruments or charts showing psychological data",
+          "examples": [
+            "the study collected several psychographs from participants.",
+            "different psychographs illustrated distinct personality traits."
+          ],
+          "collocations": ["psychographs collection", "compare psychographs"],
+          "synonyms": ["psychograms", "psychological charts"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["psychology", "marketing"]
+        }
+      ]
+    },
+    {
+      "term": "psychography",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the art or science of recording or mapping psychological traits; the practice of profiling people based on mental characteristics",
+          "examples": [
+            "psychography is used in targeted advertising and research.",
+            "he wrote about the ethics of psychography in consumer studies."
+          ],
+          "collocations": ["psychography methods", "ethics of psychography"],
+          "synonyms": ["psychographics", "mind profiling"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "ethics", "psychology"]
+        }
+      ]
+    }
+  ]
+}

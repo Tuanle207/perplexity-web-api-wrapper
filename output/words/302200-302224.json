@@ -1,0 +1,584 @@
+{
+  "items": [
+    {
+      "term": "precipice",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a very high, steep, or overhanging place; a dangerous edge or brink",
+          "examples": [
+            "The hikers stood at the edge of the precipice, looking down at the valley below.",
+            "He teetered on the precipice of a major breakthrough."
+          ],
+          "collocations": ["steep precipice", "edge of the precipice", "face of the precipice"],
+          "synonyms": ["cliff", "bluff", "edge", "brink"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "geography", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "precipiced",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of precipice, used metaphorically to mean to bring to the brink",
+          "examples": [
+            "The scandal precipiced the company into crisis.",
+            "Their decision precipiced a rapid decline in trust."
+          ],
+          "collocations": ["precipiced into", "precipiced by"],
+          "synonyms": ["hastened", "accelerated"],
+          "antonyms": ["delayed", "stabilized"],
+          "register": "formal",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "precipices",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of precipice; multiple steep or dangerous edges",
+          "examples": [
+            "The canyon walls were lined with jagged precipices.",
+            "They peered over the precipices to see the river far below."
+          ],
+          "collocations": ["steep precipices", "narrow precipices", "edge of precipices"],
+          "synonyms": ["cliffs", "bluffs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "precipitability",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being precipitable; the likelihood of something to precipitate",
+          "examples": [
+            "The precipitableness of a chemical reaction determines how quickly solids form.",
+            "In meteorology, precipitableness affects storm development."
+          ],
+          "collocations": ["chemical precipitableness", "precipitability of reactions", "rate of precipitability"],
+          "synonyms": ["precipitation tendency", "instability"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "meteorology"]
+        }
+      ]
+    },
+    {
+      "term": "precipitable",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being precipitated; able to form a solid from solution or to precipitate out",
+          "examples": [
+            "Certain salts are highly precipitable from solution.",
+            "The substance is precipitable under these conditions."
+          ],
+          "collocations": ["highly precipitable", "precipitable from solution"],
+          "synonyms": ["precipitatable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "precipitance",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a tendency to happen suddenly or prematurely; causeless haste",
+          "examples": [
+            "His precipitance in decisions often leads to mistakes.",
+            "The precipitance of events surprised the committee."
+          ],
+          "collocations": ["great precipitance", "without precipance"],
+          "synonyms": ["hastiness", "rashness", "impetuosity"],
+          "antonyms": ["deliberation", "carefulness"],
+          "register": "formal",
+          "domain": ["general", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "precipitances",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of precipitance; instances of sudden or premature events or actions",
+          "examples": [
+            "The precipitations of events reveal the fragility of planning.",
+            "Their precipitantcies influenced strategic choices."
+          ],
+          "collocations": ["rare precipitations", "multiple precipitances"],
+          "synonyms": ["hastinesses", "rash acts"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "precipitancies",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of precipitancy; instances or qualities of being precipitate",
+          "examples": [
+            "Her precipitancies in policy caused concern among advisers.",
+            "They regretted the precipitancies that followed."
+          ],
+          "collocations": ["behavioral precipitancies", "administrative precipitancies"],
+          "synonyms": ["haste", "rashness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "precipitancy",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being precipitate; haste or rashness",
+          "examples": [
+            "The precipitantancy of his actions startled the team.",
+            "There was too much precipitate in the debate."
+          ],
+          "collocations": ["marked precipitancy", "great precipitancy"],
+          "synonyms": ["hastiness", "rashness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "precipitant",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance that causes a precipitate to form in a solution; a factor that precipitates a reaction or event",
+          "examples": [
+            "The chemical acted as a precipitant, forming solid crystals.",
+            "Loud noises were a precipitant of the argument."
+          ],
+          "collocations": ["chemical precipitant", "primary precipitant"],
+          "synonyms": ["causative agent", "trigger"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "precipitantly",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is hastily or suddenly done; with abrupt haste",
+          "examples": [
+            "She resigned precipitantly after the scandal.",
+            "The decision was made precipitantly, without full information."
+          ],
+          "collocations": ["act precipitantly", "precipitantly decline"],
+          "synonyms": ["hastily", "rashly"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "precipitantness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare/less common noun form referring to the quality of being a precipitant",
+          "examples": [
+            "Researchers studied the precipitantness of the compound."
+          ],
+          "collocations": ["degree of precipitantness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "precipitantnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of precipitantness; multiple qualities of being a precipitant",
+          "examples": [
+            "Several factors contributed to the precipitantnesses observed."
+          ],
+          "collocations": ["various precipitantnesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "precipitantss",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "null",
+          "definition": "not recognized as a standard form in current usage",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "precipitants",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of precipitant; substances or factors that cause a precipitate or provoke a result",
+          "examples": [
+            "The reagents include several precipitants that form crystals.",
+            "Environmental changes are precipitant of algal blooms."
+          ],
+          "collocations": ["reactive precipitant", "chemical precipitants"],
+          "synonyms": ["trigger", "causative factor"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "precipitate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to cause a substance to come out of a solution and form a solid; to bring about abruptly",
+          "examples": [
+            "Cold temperatures precipitate crystals from the solution.",
+            "The decision precipitated a sharp reaction from the investors."
+          ],
+          "collocations": ["precipitate crystals", "precipitate a reaction", "precipitate action"],
+          "synonyms": ["cause", "trigger", "induce"],
+          "antonyms": ["dissolve", "diminish"],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a solid formed from a solution; a sudden or abrupt occurrence",
+          "examples": [
+            "The precipitate settled at the bottom of the flask.",
+            "The sudden precipitate of events surprised everyone."
+          ],
+          "collocations": ["solid precipitate", "white precipitate"],
+          "synonyms": ["crystal", "solid"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "happening suddenly or unexpectedly; abrupt",
+          "examples": [
+            "The precipitate reaction led to a large release of gas.",
+            "She made a precipitate decision."
+          ],
+          "collocations": ["precipitate action", "precipitate decision"],
+          "synonyms": ["hasty", "rash", "sudden"],
+          "antonyms": ["deliberate", "measured"],
+          "register": "formal",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "precipitated",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of precipitate; caused to come about or happen suddenly",
+          "examples": [
+            "The announcement precipitated a market reaction.",
+            "Rain precipitated a flood in the valley."
+          ],
+          "collocations": ["precipitated by", "precipitated into"],
+          "synonyms": ["caused", "triggered"],
+          "antonyms": ["delayed", "prevented"],
+          "register": "neutral",
+          "domain": ["finance", "weather", "general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "pushed forward or caused to happen suddenly",
+          "examples": [
+            "A precipitated collapse followed the scandal."
+          ],
+          "collocations": ["precipitated collapse"],
+          "synonyms": ["triggered", "caused"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "precipitatedly",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner that is abrupt or hurried; with abrupt haste",
+          "examples": [
+            "He spoke precipitatedly, without listening to others.",
+            "The plan was formed precipitatedly, then abandoned."
+          ],
+          "collocations": ["speak precipitatedly", "act precipitatedly"],
+          "synonyms": ["hastily", "rashly"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "precipitately",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is done too quickly and without enough thought",
+          "examples": [
+            "They left precipitately to avoid the crowd.",
+            "The project was ended precipitately after the failure."
+          ],
+          "collocations": ["leave precipitately", "precipitately change"],
+          "synonyms": ["hastily", "rashly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "precipitateness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being precipitate; haste or abruptness",
+          "examples": [
+            "The precipitate nature of his actions worried colleagues."
+          ],
+          "collocations": ["great precipitateness"],
+          "synonyms": ["hastiness", "rashness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "precipitatenenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "nonstandard/rare plural form; likely intended as precipitatene sses",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "precipitatenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of precipitate nature; not commonly used",
+          "examples": [
+            "Unclear precipitatene sses may appear in technical writing."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "precipitates",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of precipitate; solids formed from a solution",
+          "examples": [
+            "The reaction produced several white precipitates.",
+            "We collected the precipitates for analysis."
+          ],
+          "collocations": ["white precipitates", "fine precipitates"],
+          "synonyms": ["solids", "crystals"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present simple form of precipitate; to cause to form a solid or to happen suddenly",
+          "examples": [
+            "Certain reagents precipitate out when mixed.",
+            "Noise and heat precipitate the reaction."
+          ],
+          "collocations": ["precipitates crystals", "precipitates out"],
+          "synonyms": ["cause", "trigger"],
+          "antonyms": ["dissolve", "avoid"],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "precipitating",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of precipitate; causing to form a solid or bring about abruptly",
+          "examples": [
+            "The chemical is precipitating crystals from the solution.",
+            "These conditions precipitating a crisis."
+          ],
+          "collocations": ["precipitating crystals", "precipitating a crisis"],
+          "synonyms": ["causing", "triggering"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "precipitation",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of a solid forming in a solution; rain, snow, or other forms of moisture from the atmosphere",
+          "examples": [
+            "Precipitation occurs when water vapor condenses.",
+            "The forecast shows heavy precipitation tomorrow."
+          ],
+          "collocations": ["heavy precipitation", "rain precipitation", "precipitation rate"],
+          "synonyms": ["deposit", "solidification", "rain"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "weather", "general"]
+        }
+      ]
+    },
+    {
+      "term": "precipitations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of precipitation; various forms of moisture deposition",
+          "examples": [
+            "Geologists study different precipitations in caves."
+          ],
+          "collocations": ["seasonal precipitations"],
+          "synonyms": ["precipitation occurrences"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "weather"]
+        }
+      ]
+    },
+    {
+      "term": "precipitative",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or causing precipitation; bringing about quickly",
+          "examples": [
+            "The precipitative forces in the reaction are hard to control.",
+            "A precipitative policy shift followed the report."
+          ],
+          "collocations": ["precipitatively energetic", "precipitative conditions"],
+          "synonyms": ["precipitating", "precipitant"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "policy"]
+        }
+      ]
+    }
+  ]
+}

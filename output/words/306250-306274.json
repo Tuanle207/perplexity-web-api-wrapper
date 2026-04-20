@@ -1,0 +1,550 @@
+{
+  "items": [
+    {
+      "term": "pressmarks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "marks produced by a printing press that indicate alignment or margins on a page",
+          "examples": [
+            "The designer checked the pressmarks before sending the file to print.",
+            "Adjust the pressmarks to ensure the text stays within the safe area."
+          ],
+          "collocations": ["print run", "crop marks", "bleed area", "alignment marks", "spot color marks"],
+          "synonyms": ["crop marks", "trimming marks"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "print publishing"]
+        }
+      ]
+    },
+    {
+      "term": "pressmaster",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who oversees and coordinates press-related operations, especially in a printing or media context",
+          "examples": [
+            "The pressmaster supervised the color proofs for the magazine.",
+            "Under the pressmaster's guidance, the team streamlined the printing workflow."
+          ],
+          "collocations": ["pressroom", "printing press", "production schedule"],
+          "synonyms": ["production manager", "press supervisor"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "media", "print publishing"]
+        }
+      ]
+    },
+    {
+      "term": "pressmen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pressman; workers who operate printing presses",
+          "examples": [
+            "The pressmen loaded paper and checked ink levels.",
+            "The team of pressmen worked overnight to meet the deadline."
+          ],
+          "collocations": ["printing press", "ink", "paper stock", "shift workers"],
+          "synonyms": ["printer", "press operator (plural: press operators)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business", "labor"]
+        }
+      ]
+    },
+    {
+      "term": "pressor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or person that applies pressure; in biology, a structure that exerts pressure (e.g., blood pressure sensor)",
+          "examples": [
+            "The pressure sensor acts as a pressor in the circuit.",
+            "In medical terms, a pressor agent raises blood pressure."
+          ],
+          "collocations": ["pressor device", "pressor agent", "blood pressure pressor"],
+          "synonyms": ["compressor", "stimulus", "agent (in context: pressor agent)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "technology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "pressoreceptor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a sensory receptor that detects pressure changes, especially in biological systems",
+          "examples": [
+            "Baroreceptors and pressoreceptors help regulate blood pressure.",
+            "The study examined how pressoreceptors respond to arterial stretch."
+          ],
+          "collocations": ["sensory receptor", "baroreceptor", "afferent nerve"],
+          "synonyms": ["pressure receptor"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "pressors",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pressor; agents or devices that raise pressure or forcefulness",
+          "examples": [
+            "Vasopressors are used to increase blood pressure in critical patients.",
+            "In the experiment, the pressors adjusted the internal pressure precisely."
+          ],
+          "collocations": ["vasopressor", "blood pressure", "circulatory system"],
+          "synonyms": ["pressor agent", "vasopressor"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology", "pharmacology"]
+        }
+      ]
+    },
+    {
+      "term": "pressosensitive",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "sensitive to pressure or tactile forces; requiring careful handling to avoid pressure damage",
+          "examples": [
+            "The delicate label is pressosensitive and must be handled with care.",
+            "Pressosensitive components require soft fixtures during assembly."
+          ],
+          "collocations": ["pressosensitive material", "tactile sensor", "fragile component"],
+          "synonyms": ["pressure-sensitive"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["technology", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "presspack",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a package containing press materials, or a bundled set of press-ready components",
+          "examples": [
+            "The presspack included fact sheets and high-resolution images for journalists.",
+            "Publishers distributed presspacks to media outlets ahead of the launch."
+          ],
+          "collocations": ["presspack materials", "media kit", "press kit"],
+          "synonyms": ["media kit", "press kit"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["media", " communications", "business"]
+        }
+      ]
+    },
+    {
+      "term": "pressroom",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a room or space where journalists work and where press conferences may be held",
+          "examples": [
+            "The pressroom was busy with reporters preparing their questions.",
+            "A late pressroom briefing followed the announcement."
+          ],
+          "collocations": ["media room", "journalists", "press conference"],
+          "synonyms": ["newsroom", "journalists' room"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media", "journalism"]
+        }
+      ]
+    },
+    {
+      "term": "pressrooms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pressroom; multiple rooms used by journalists in a media organization",
+          "examples": [
+            "The pressrooms were filled with cameras and laptops during the briefing.",
+            "Several pressrooms broadcast the event live."
+          ],
+          "collocations": ["media complex", "journalists' rooms"],
+          "synonyms": ["newsrooms"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media", "journalism"]
+        }
+      ]
+    },
+    {
+      "term": "pressrun",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the amount of printed material produced in a single printing run",
+          "examples": [
+            "The first pressrun sold out quickly.",
+            "They increased the pressrun to meet demand."
+          ],
+          "collocations": ["print run", "edition", "circulation"],
+          "synonyms": ["print run"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["print publishing", "business"]
+        }
+      ]
+    },
+    {
+      "term": "pressruns",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pressrun; multiple print runs of a publication",
+          "examples": [
+            "Two pressruns were needed to fulfill orders.",
+            "The publisher planned several pressruns for the marketing period."
+          ],
+          "collocations": ["print run", "edition", "circulation"],
+          "synonyms": ["print runs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["print publishing", "business"]
+        }
+      ]
+    },
+    {
+      "term": "pressurage",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or effect of pressing or applying pressure; a state of pressure",
+          "examples": [
+            "The pressurage from the crowd created a tense atmosphere.",
+            "Medical contexts discuss pressurage as a factor in measurement."
+          ],
+          "collocations": ["pressure", "tension", "stress"],
+          "synonyms": ["pressure", "pressure effect"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "pressural",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to pressure or the act of pressing",
+          "examples": [
+            "The pressural force increased as the device was tightened.",
+            "In engineering, pressural forces are analyzed for safety."
+          ],
+          "collocations": ["pressural force", "pressure-related"],
+          "synonyms": ["pressure-related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "science"]
+        }
+      ]
+    },
+    {
+      "term": "pressure",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the force of something pressing against something else",
+          "examples": [
+            "The pressure from the crowd pushed them forward.",
+            "Pressure can cause a gas to compress."
+          ],
+          "collocations": ["air pressure", "water pressure", "blood pressure", "peer pressure"],
+          "synonyms": ["force", "tension"],
+          "antonyms": ["relief", "ease"],
+          "register": "neutral",
+          "domain": ["general", "science", "health"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a sense of urgency or stress to perform or meet expectations",
+          "examples": [
+            "She felt a lot of pressure to succeed.",
+            "There is pressure from deadlines in the project."
+          ],
+          "collocations": ["peer pressure", "time pressure", "pressures of work"],
+          "synonyms": ["strain", "stress"],
+          "antonyms": ["relaxation", "ease"],
+          "register": "neutral",
+          "domain": ["general", "work"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to forcefully persuade or push someone to do something; to apply pressure",
+          "examples": [
+            "They pressured him into signing the contract.",
+            "The coach pressured the team to practice harder."
+          ],
+          "collocations": ["pressurize someone", "political pressure"],
+          "synonyms": ["coerce", "persuade"],
+          "antonyms": ["let go", "relax"],
+          "register": "neutral",
+          "domain": ["general", "law", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "pressured",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "feeling or showing stress caused by demanding tasks or expectations",
+          "examples": [
+            "She felt pressured to finish the report tonight.",
+            "He looked pressured by the looming deadline."
+          ],
+          "collocations": ["mentally pressured", "pressured environment"],
+          "synonyms": ["stressed", "under pressure"],
+          "antonyms": ["unmoved", "unpressured"],
+          "register": "neutral",
+          "domain": ["general", "work"]
+        }
+      ]
+    },
+    {
+      "term": "pressureless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "lacking pressure or not containing air/force; free from pressure",
+          "examples": [
+            "Pressureless glass is used in some safety applications.",
+            "The pressureless packing kept the contents safe."
+          ],
+          "collocations": ["pressureless steel", "pressureless filling"],
+          "synonyms": ["unpressurized"],
+          "antonyms": ["pressurized"],
+          "register": "neutral",
+          "domain": ["engineering", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "pressureproof",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of withstanding pressure without breaking or deforming; resistant to pressure",
+          "examples": [
+            "This container is pressureproof and safe for liquids under high pressure.",
+            "They designed pressureproof seals for the device."
+          ],
+          "collocations": ["pressureproof container", "pressureproof seal"],
+          "synonyms": ["pressure-resistant"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["engineering", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "pressures",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pressure; multiple forces or stresses",
+          "examples": [
+            "He faced many pressures at work.",
+            "The pressures of time and money can be challenging."
+          ],
+          "collocations": ["academic pressures", "peer pressures", "pressure points"],
+          "synonyms": ["loads", "burdens"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "work", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "pressuring",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of applying pressure or persuading someone to do something",
+          "examples": [
+            "They are pressuring the crowd to move back.",
+            "The negotiators were pressuring the company to agree."
+          ],
+          "collocations": ["pressure tactics", "pressuring someone", "intense negotiation"],
+          "synonyms": ["coercing", "browbeating"],
+          "antonyms": ["freeing", "releasing"],
+          "register": "neutral",
+          "domain": ["general", "law", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "pressurisation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of increasing pressure, often used in engineering or aviation",
+          "examples": [
+            "Pressurisation of the cabin is necessary at high altitudes.",
+            "The system monitors pressurisation to maintain safety."
+          ],
+          "collocations": ["cabin pressurisation", "pressure control"],
+          "synonyms": ["pressurizing", "pressurization"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "aerospace"]
+        }
+      ]
+    },
+    {
+      "term": "pressurisations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pressurisation; multiple instances of increasing pressure in systems",
+          "examples": [
+            "Engineers studied the pressurisations within the reactor.",
+            "The aircraft underwent several checkups for cabin pressurisations."
+          ],
+          "collocations": ["cabin pressurisations", "pressure control systems"],
+          "synonyms": ["pressurizations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "aerospace"]
+        }
+      ]
+    },
+    {
+      "term": "pressurise",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to increase the pressure of something or to persuade strongly",
+          "examples": [
+            "They will pressurise the vessel to test its limits.",
+            "The campaign tries to pressurise authorities into action."
+          ],
+          "collocations": ["pressurise a system", "pressurise someone into doing something"],
+          "synonyms": ["compress", "coerce", "persuade"],
+          "antonyms": ["depressurise", "relax"],
+          "register": "neutral",
+          "domain": ["science", "politics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "pressurised",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "subjected to pressure or persuasion; feeling mental or emotional stress",
+          "examples": [
+            "She felt pressurised by the strict timetable.",
+            "The pressurised environment affected performance."
+          ],
+          "collocations": ["pressurised environment", "feeling pressurised"],
+          "synonyms": ["pressured", "stressed"],
+          "antonyms": ["unpressurised", "relaxed"],
+          "register": "neutral",
+          "domain": ["general", "work"]
+        }
+      ]
+    },
+    {
+      "term": "pressuriser",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or component that increases pressure, or a person who applies pressure",
+          "examples": [
+            "The system uses a pneumatic pressuriser to maintain levels.",
+            "As a negotiator, he acted as the pressuriser in talks."
+          ],
+          "collocations": ["pressure system", "pressurising device"],
+          "synonyms": ["pressurizer", "compressor"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["engineering", "negotiation"]
+        }
+      ]
+    },
+    {
+      "term": "pressuriser",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternate spelling of pressuriser; a device that increases pressure",
+          "examples": [
+            "The pressuriser maintained cabin pressure during ascent.",
+            "A faulty pressuriser caused altitude issues."
+          ],
+          "collocations": ["cabin pressuriser", "pressure vessel"],
+          "synonyms": ["pressuriser", "pressurizer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["engineering", "aerospace"]
+        }
+      ]
+    }
+  ]
+}

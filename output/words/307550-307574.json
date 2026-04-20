@@ -1,0 +1,495 @@
+{
+  "items": [
+    {
+      "term": "principi",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "plural of principle in some languages, or a transliterated or borrowed form; not a standard English word with distinct senses in contemporary usage",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "principia",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "Latin plural form meaning 'principles' or a specific proper title; in English contexts, used as a stylized or historical term rather than common vocabulary",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["academic", "history"]
+        }
+      ]
+    },
+    {
+      "term": "principial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a principle or the first in a sequence; not a common everyday adjective in modern usage",
+          "examples": [],
+          "collocations": ["principial position"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "principiant",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a learner or novice in a field; a person just beginning to study something",
+          "examples": [],
+          "collocations": ["young principiant", "medical principiant"],
+          "synonyms": ["novice", "beginner", "learner"],
+          "antonyms": ["expert", "veteran"],
+          "register": "neutral",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "principiate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to appoint or set as a principal or leader; to establish as a principle",
+          "examples": [],
+          "collocations": ["to principiate a position"],
+          "synonyms": ["appoint", "establish"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "principiation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of founding or establishing a principle; declaration of principles",
+          "examples": [],
+          "collocations": ["principiation ceremony"],
+          "synonyms": ["establishment", "founding"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "principium",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the basic or first principle; origin or source",
+          "examples": [],
+          "collocations": ["principium of life"],
+          "synonyms": ["origin", "basis"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "philosophy", "general"]
+        }
+      ]
+    },
+    {
+      "term": "principle",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a basic idea or rule that explains how something should work or how to behave",
+          "examples": [
+            "The principle of gravity explains why objects fall.",
+            "Honesty is a principle I live by."
+          ],
+          "collocations": ["first principle", "principle of fairness", "basic principle", "moral principle", "universal principle"],
+          "synonyms": ["rule", "law", "basis", "standard"],
+          "antonyms": ["exception", "anomaly"],
+          "register": "formal",
+          "domain": ["general", "science", "ethics"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a fundamental value or belief that guides behavior",
+          "examples": [
+            "She acts on principle rather than pressure from others."
+          ],
+          "collocations": ["sound principles", "principle of equality"],
+          "synonyms": ["moral rule", "ethic"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "ethics"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a general scientific or mathematical law or rule that explains phenomena",
+          "examples": [
+            "The principle of superposition is a key concept in physics."
+          ],
+          "collocations": ["principle of conservation", "basic physical principle"],
+          "synonyms": ["axiom", "proposition"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "mathematics"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "serving as a primary or main rule or idea",
+          "examples": [
+            "The principle reason for the project was to improve safety."
+          ],
+          "collocations": ["principle aim", "principle function"],
+          "synonyms": ["main", "primary"],
+          "antonyms": ["secondary", "minor"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "principled",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "guided by strong moral or ethical principles",
+          "examples": [
+            "She is a principled advocate for human rights."
+          ],
+          "collocations": ["principled stance", "principled decision", "principled leader"],
+          "synonyms": ["ethical", "moral", "upright"],
+          "antonyms": ["unprincipled", "corrupt"],
+          "register": "formal",
+          "domain": ["ethics", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "principles",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of principle; multiple fundamental rules or beliefs",
+          "examples": [
+            "The principles of democracy include equality and freedom."
+          ],
+          "collocations": ["basic principles", "moral principles", "universal principles"],
+          "synonyms": ["basics", "tenets", "credo"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "politics", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "principling",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of guiding or forming behavior by principles; adherence to principles",
+          "examples": [],
+          "collocations": ["principling behavior"],
+          "synonyms": ["moral conduct", "ethics"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "principly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "chiefly; mainly; for the most part",
+          "examples": [
+            "The project focuses principally on data collection."
+          ],
+          "collocations": ["principally due to", "principally because"],
+          "synonyms": ["mainly", "primarily", "chiefly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "principulus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small principal part or beginning element; diminutive Latin term used in some contexts",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "princock",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "not a recognized English word; likely a nonce or misspelling",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "princocks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "not a standard English term; appears to be pluralized nonce form or misspelling",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "princod",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "unrecognized term; likely misspelling or proper noun variant",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "princox",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "uncommon or archaic term; not part of standard modern English",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "princoxes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "not a standard English term; likely plural of a nonce word",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "prine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to prune; to trim or cut away branches or parts",
+          "examples": [
+            "They pruned the hedge to shape it.",
+            "Farmers prune the trees in winter."
+          ],
+          "collocations": ["prine branches", "prune back"],
+          "synonyms": ["trim", "cut", "clip"],
+          "antonyms": ["grow", "lengthen"],
+          "register": "neutral",
+          "domain": ["garden", "agriculture"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a pruning; a cut or trimming",
+          "examples": [
+            "The prune was necessary for the plant's health."
+          ],
+          "collocations": ["a prune", "heavy prune"],
+          "synonyms": ["trim", "cutback"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["garden", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "pringle",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a brand name or surname; also a type of snack (potato chip) in some regions; otherwise a fictional character name",
+          "examples": [],
+          "collocations": ["Pringle brand"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "commerce"]
+        }
+      ]
+    },
+    {
+      "term": "prink",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to dress or adorn oneself in a showy or fancy way",
+          "examples": [
+            "She likes to prink herself before parties."
+          ],
+          "collocations": ["prink oneself", "prink in front of the mirror"],
+          "synonyms": ["doll up", "dress up", "gussy up"],
+          "antonyms": ["underdress", "bare"],
+          "register": "informal",
+          "domain": ["fashion", "lifestyle"]
+        }
+      ]
+    },
+    {
+      "term": "prinked",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of prink; dressed or adorned oneself in a showy way",
+          "examples": [
+            "She prinked herself before leaving the house."
+          ],
+          "collocations": ["prinked in front of mirror"],
+          "synonyms": ["dressed up", "gussied up"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["fashion", "lifestyle"]
+        }
+      ]
+    },
+    {
+      "term": "prinker",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who prinks; someone who dresses up stylishly",
+          "examples": [],
+          "collocations": ["fashion-prinker"],
+          "synonyms": ["dresser", "glamour person"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["fashion", "lifestyle"]
+        }
+      ]
+    },
+    {
+      "term": "prinkers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prinker; people who prink",
+          "examples": [],
+          "collocations": [],
+          "synonyms": ["dressers"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["fashion", "lifestyle"]
+        }
+      ]
+    },
+    {
+      "term": "prinking",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of prink; the act of dressing up stylishly",
+          "examples": [
+            "She is prinking before the party."
+          ],
+          "collocations": ["prinking in front of mirror"],
+          "synonyms": ["dressing up", "gussing up"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["fashion", "lifestyle"]
+        }
+      ]
+    }
+  ]
+}

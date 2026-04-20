@@ -1,0 +1,529 @@
+{
+  "items": [
+    {
+      "term": "putters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "people or things that putt (in golf) or provide a putt in a golf game",
+          "examples": [
+            "The club narrowed the lead with two excellent putters in the final round.",
+            "Several putters struggled on the green today."
+          ],
+          "collocations": ["golf putters", "tennis putters (less common)", "handy putters"],
+          "synonyms": ["putterers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "putti",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "small cherubic figures, often decorative, typically winged",
+          "examples": [
+            "The fountain was decorated with delicate putti.",
+            "The Renaissance ceiling features many putti in playful poses."
+          ],
+          "collocations": ["putti figures", "fresco with putti", "putti motif"],
+          "synonyms": ["cherubs", "putto (plural)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["art", "culture", "history"]
+        }
+      ]
+    },
+    {
+      "term": "puttie",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a colloquial or dialectal term for a girl's bonnet or a small cap; can also refer to a simple plug or stopper in some dialects",
+          "examples": [
+            "She wore a soft puttie on her head.",
+            "The old door had a leather puttie to stop the draft."
+          ],
+          "collocations": ["puttie hat", "earthen puttie", "puttie cap"],
+          "synonyms": ["bonnet (archaic)", "cap (dialectal)"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "culture", "regional"]
+        }
+      ]
+    },
+    {
+      "term": "puttied",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having been puttied; covered or sealed with putty",
+          "examples": [
+            "The window frame was puttied before painting.",
+            "A puttied seam prevented any air leaks."
+          ],
+          "collocations": ["puttied seam", "puttyed window"],
+          "synonyms": ["sealed", "caulked"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction", "household"]
+        }
+      ]
+    },
+    {
+      "term": "puttier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one who puts; a person who places or positions something; used in certain dialects or contexts",
+          "examples": [
+            "The puttier arranged the bricks along the wall.",
+            "In old texts, a puttier often refers to a laborer who puts things in place."
+          ],
+          "collocations": ["puttier of bricks", "puttier at work"],
+          "synonyms": ["placer", "setter"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["work", "history"]
+        }
+      ]
+    },
+    {
+      "term": "puttiers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "people who put; plural form of puttier",
+          "examples": [
+            "Several puttiers were employed to arrange the stones.",
+            "The hall was staffed by skilled puttiers in the old workshop."
+          ],
+          "collocations": ["team of puttiers", "puttiers at labor"],
+          "synonyms": ["planners", "placers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["labor", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "putties",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "a plural of putty; small portions of putty used for sealing or filling cracks",
+          "examples": [
+            "He squeezed putties into the gaps between the tiles.",
+            "Tubular putties were used to stop the draft."
+          ],
+          "collocations": ["slices of putty", "putties for sealing"],
+          "synonyms": ["sealant portions", "patch"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction", "household"]
+        }
+      ]
+    },
+    {
+      "term": "putting",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of placing something somewhere or executing a stroke in golf",
+          "examples": [
+            "Putting is an important part of winning a golf match.",
+            "She spent extra time on putting practice."
+          ],
+          "collocations": ["putting stroke", "golf putting", "practice putting"],
+          "synonyms": ["placing", "placing action"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to move something into a particular position or to perform the act of placing or performing a putt in golf",
+          "examples": [
+            "He is putting the book back on the shelf.",
+            "She is puttingt-ing the ball on the green." // natural form would be "putting the ball"
+          ],
+          "collocations": ["putting the book", "putting on the brakes"],
+          "synonyms": ["placing", "depositing"],
+          "antonyms": ["taking out", "removing"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "puttings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "the act of putting or the things that are placed; generic plural of putting",
+          "examples": [
+            "She tracked the puttings around the garden.",
+            "His notes covered the various puttings in the document."
+          ],
+          "collocations": ["the puttings", "list of puttings"],
+          "synonyms": ["placements", "positions"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "putto",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a single cherubic child figure, often in art",
+          "examples": [
+            "A marble putto supports the archway.",
+            "The painting features a playful putto with a garland."
+          ],
+          "collocations": ["stone putto", "fresco putto"],
+          "synonyms": ["cherub", "putti (plural)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["art", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "puttock",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a foolish or contemptible person; a slang insult",
+          "examples": [
+            "Don't be a puttock and waste your money.",
+            "Only a puttock would say something so rude."
+          ],
+          "collocations": ["worthless puttock", "silly puttock"],
+          "synonyms": ["fool", "idiot", "rascal"],
+          "antonyms": ["gentleman", "clever person"],
+          "register": "informal",
+          "domain": ["slang", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "puttocks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "plural of puttock; fools or contemptible people collectively",
+          "examples": [
+            "The crowd muttered at the actions of the puttocks.",
+            "They dismissed the critics as a bunch of puttocks."
+          ],
+          "collocations": ["band of puttocks", "puttocks in the crowd"],
+          "synonyms": ["fools", "rascals"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["slang"]
+        }
+      ]
+    },
+    {
+      "term": "puttoo",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small or trivial thing; Danish dialect word for a toy or trinket; not widely used",
+          "examples": [
+            "He bought a tiny puttoo for his nephew.",
+            "A puttoo sat on the shelf as a keepsake."
+          ],
+          "collocations": ["cheap puttoo", "lovely puttoo"],
+          "synonyms": ["trinket", "toy"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["culture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "putts",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "plural of putt; golf strokes made on the green to roll the ball into the hole",
+          "examples": [
+            "He lined up three crucial putts on the final hole.",
+            "Her putting improved after weeks of practice."
+          ],
+          "collocations": ["long putts", "short putts", "two putts"],
+          "synonyms": ["strokes", "shots (golf)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport"]
+        }
+      ]
+    },
+    {
+      "term": "putty",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "soft, pliable material used for filling holes or sealing cracks; often oil-based or acrylic",
+          "examples": [
+            "He used putty to seal the window frame.",
+            "The craftsman mixed putty to fill the gaps."
+          ],
+          "collocations": ["petty putty (no)", "putty knife", "oil-based putty", "putty used"],
+          "synonyms": ["sealant", "filler", "caulk"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction", "household"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "colored or stained with putty-like shade; pale brownish-pink",
+          "examples": [
+            "She wore a putty-colored dress.",
+            "The walls had a soft putty tint."
+          ],
+          "collocations": ["putty color", "putty shade"],
+          "synonyms": ["tan", "beige", "pale brown"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "interior design"]
+        }
+      ]
+    },
+    {
+      "term": "puttyblower",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a pipe or mechanism that expels putty; a tool used in construction",
+          "examples": [
+            "The puttyblower helped smooth the sealant along the edge.",
+            "Repair workers used a puttyblower for the gap."
+          ],
+          "collocations": ["puttyblower tool", "use puttyblower"],
+          "synonyms": ["caulking gun", "sealant tool"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction", "work"]
+        }
+      ]
+    },
+    {
+      "term": "puttyhead",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who uses putty; slang nickname for someone who works with sealants",
+          "examples": [
+            "The crew joked that he was a real puttyhead.",
+            "In the shop, a puttyhead fixed the window frame."
+          ],
+          "collocations": ["puttyhead at work"],
+          "synonyms": ["sealant worker", "caulker"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["work", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "puttyhearted",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "soft-hearted or easily moved; made of putty in a figurative sense",
+          "examples": [
+            "The puttyhearted child forgave quickly.",
+            "Her puttyhearted nature made her compassionate."
+          ],
+          "collocations": ["puttyhearted kindness"],
+          "synonyms": ["soft-hearted", "tender"],
+          "antonyms": ["hard-hearted", "cruel"],
+          "register": "neutral",
+          "domain": ["emotional"]
+        }
+      ]
+    },
+    {
+      "term": "puttying",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of applying putty to fill gaps or seal cracks",
+          "examples": [
+            "He is puttying the cracks around the window.",
+            "Puttying is essential before painting."
+          ],
+          "collocations": ["puttying gaps", "puttying seams"],
+          "synonyms": ["caulking", "sealing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction", "household"]
+        }
+      ]
+    },
+    {
+      "term": "puttyless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "lacking putty; not sealed or filled with putty",
+          "examples": [
+            "The windows remained puttyless and drafty.",
+            "A puttyless surface was difficult to paint."
+          ],
+          "collocations": ["puttyless seals"],
+          "synonyms": ["unsealed", "open"],
+          "antonyms": ["puttied", "sealed"],
+          "register": "neutral",
+          "domain": ["construction", "housing"]
+        }
+      ]
+    },
+    {
+      "term": "puttylike",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling putty in texture or consistency; soft and malleable",
+          "examples": [
+            "The dough had a puttylike feel before it cured.",
+            "Her hands were puttylike after kneading for hours."
+          ],
+          "collocations": ["puttylike texture", "puttylike dough"],
+          "synonyms": ["puttyish", "malleable", "pliable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "puttyroot",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant species with root-like tubers; or a term in old texts for a putty-like root",
+          "examples": [
+            "The gardener found a puttyroot specimen in the shade.",
+            "In herbal lore, puttyroot was valued for its thick root."
+          ],
+          "collocations": ["puttyroot plant", "root of puttyroot"],
+          "synonyms": ["pectin root (historic)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["botany", "history"]
+        }
+      ]
+    },
+    {
+      "term": "puttyroots",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "plural of puttyroot; the roots of that plant or historical term",
+          "examples": [
+            "The field showed several puttyroots.",
+            "Old medicinal texts mention puttyroots among remedies."
+          ],
+          "collocations": ["puttyroots in soil"],
+          "synonyms": ["puttyroot tubers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["botany", "history"]
+        }
+      ]
+    },
+    {
+      "term": "puttywork",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "work involving putty; patching, sealing, or cosmetic filling in construction or restoration",
+          "examples": [
+            "The restoration included extensive puttywork on the window sashes.",
+            "They documented the puttywork before repainting."
+          ],
+          "collocations": ["puttywork repairs", "do puttywork"],
+          "synonyms": ["caulking", "filling"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction", "restoration"]
+        }
+      ]
+    },
+    {
+      "term": "puture",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a hypothetically derived form; unclear usage in contemporary English; may appear as nonce or error",
+          "examples": [
+            "Puture is not a standard English word; verify the intended term."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "lexicography"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "items": [
+    {
+      "term": "preop",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an abbreviation for preoperative, relating to the period before a surgical operation",
+          "examples": [
+            "The patient was scheduled for a preop assessment.",
+            "She attended the preop briefing with the medical team."
+          ],
+          "collocations": [
+            "preop assessment",
+            "preop instructions",
+            "preop testing",
+            "preop clearance"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "preopen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to open again or beforehand, depending on context; not commonly used in standard modern English",
+          "examples": [
+            "They planned to preopen the store before the weekend rush.",
+            "The folder was preopen for the auditor to review."
+          ],
+          "collocations": [
+            "preopen the door",
+            "preopen the file"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "preopening",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the period before an opening; used mainly in planning contexts",
+          "examples": [
+            "There is a preopening period for setup.",
+            "The team discussed preopening arrangements."
+          ],
+          "collocations": [
+            "preopening phase",
+            "preopening event"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "preoperate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to perform tasks or steps before operating on something, especially in medical or technical contexts",
+          "examples": [
+            "The team will preoperate on the specimen under sterile conditions.",
+            "Preoperate checks are required before the machine runs."
+          ],
+          "collocations": [
+            "preoperate checks",
+            "preoperation steps"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medical", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "preoperated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having undergone steps or procedures before operating; prepared beforehand",
+          "examples": [
+            "The preoperated tissue was ready for analysis.",
+            "Preoperated equipment had already been calibrated."
+          ],
+          "collocations": [
+            "preoperated tissue",
+            "preoperated equipment"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medical", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "preoperating",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "performing tasks in advance of an operation; preparing something before use",
+          "examples": [
+            "They were preoperating on the system to minimize downtime.",
+            "Preoperating checks were completed yesterday."
+          ],
+          "collocations": [
+            "preoperating checks",
+            "preoperating phase"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "preoperation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an operation or actions taken before the main operation",
+          "examples": [
+            "The plan includes a preoperation to reduce risk.",
+            "Preoperation steps are documented in the protocol."
+          ],
+          "collocations": [
+            "preoperation plan",
+            "preoperation steps"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medical", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "preoperational",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the stage before operation (in psychology or planning); also used in mathematics and cognitive development",
+          "examples": [
+            "The child shows preoperational thinking.",
+            "Preoperational planning is used in project design."
+          ],
+          "collocations": [
+            "preoperational stage",
+            "preoperational planning"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["psychology", "general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "preoperative",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the period before a surgical operation",
+          "examples": [
+            "The patient underwent preoperative testing.",
+            "Preoperative instructions must be followed closely."
+          ],
+          "collocations": [
+            "preoperative assessment",
+            "preoperative care",
+            "preoperative imaging"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "preoperatively",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "before a surgical operation",
+          "examples": [
+            "The patient was reviewed preoperatively.",
+            "Preoperatively, the team explained the risks."
+          ],
+          "collocations": [
+            "preoperatively prepared",
+            "preoperatively instructed"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "preoperator",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or person that operates before another; in medicine, a person or tool used before the main operation",
+          "examples": [
+            "The surgeon relied on a preoperator to assist with the initial tasks.",
+            "Preoperator instruments were sterilized."
+          ],
+          "collocations": [
+            "preoperator tool",
+            "preoperator assistant"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medical", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "preopercle",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a part of certain fish anatomy, a bony plate near the gill cover",
+          "examples": [
+            "The specimen’s preopercle was well preserved.",
+            "Researchers noted the color on the preopercle edge."
+          ],
+          "collocations": [
+            "preopercle bone",
+            "preopercle membrane"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "preopercular",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the preopercle",
+          "examples": [
+            "The preopercular bone structure was examined.",
+            "Preopercular scales appeared damaged."
+          ],
+          "collocations": [
+            "preopercular bone",
+            "preopercular margin"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "preoperculum",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the bony plate located near the gill cover of some fishes",
+          "examples": [
+            "The preoperculum contributes to the protective gill cover.",
+            "Specimens showed variation in the preoperculum."
+          ],
+          "collocations": [
+            "preoperculum bone",
+            "preoperculum edge"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "zoology"]
+        }
+      ]
+    },
+    {
+      "term": "preopinion",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an opinion formed before considering new evidence; a prejudgment",
+          "examples": [
+            "Her preopinion was formed before seeing all the data.",
+            "Avoid making a preopinion; wait for the full report."
+          ],
+          "collocations": [
+            "preopinion about",
+            "preopinion bias"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "preopinionated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a fixed or strong opinion beforehand",
+          "examples": [
+            "He remained preopinionated despite new evidence.",
+            "Preopinionated statements closed off productive discussion."
+          ],
+          "collocations": [
+            "preopinionated stance",
+            "preopinionated views"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "preoppose",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to oppose something before it is proposed or to prepare opposition in advance",
+          "examples": [
+            "They began to preoppose the plan before it was tabled.",
+            "Activists preoppose changes they expect to come."
+          ],
+          "collocations": [
+            "preoppose a policy",
+            "preoppose changes"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["political", "activism"]
+        }
+      ]
+    },
+    {
+      "term": "preopposed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "opposed in advance; having preexisting opposition",
+          "examples": [
+            "The bill remained preopposed by several groups.",
+            "They presented a preopposed stance during the meeting."
+          ],
+          "collocations": [
+            "preopposed stance",
+            "preopposed groups"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "preopposing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "opposing something in advance; engaging in opposition beforehand",
+          "examples": [
+            "They were preopposing the motion in the committee.",
+            "Preopposing arguments were prepared for the debate."
+          ],
+          "collocations": [
+            "preopposing the motion",
+            "preopposing arguments"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "debate"]
+        }
+      ]
+    },
+    {
+      "term": "preopposition",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "opposition that exists before consideration or discussion",
+          "examples": [
+            "There was a preopposition to the plan among stakeholders.",
+            "The proposal faced preopposition in the council."
+          ],
+          "collocations": [
+            "preopposition group",
+            "preopposition to the plan"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "preoppress",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to oppress beforehand or anticipate oppression; used very rarely",
+          "examples": [
+            "The policy aims to preoppress dissenters before it is enacted.",
+            "This term is rarely used in modern English."
+          ],
+          "collocations": [
+            "preoppress dissent",
+            "preoppress groups"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "society"]
+        }
+      ]
+    },
+    {
+      "term": "preoppression",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "oppression anticipated or preexisting before a given event",
+          "examples": [
+            "The speech addressed preoppression in the community.",
+            "Fear of preoppression affected turnout."
+          ],
+          "collocations": [
+            "preoppression risk",
+            "preoppression of minorities"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["social", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "preoppressor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one who oppresses beforehand; a hypothetical or historical figure",
+          "examples": [
+            "The text describes a preoppressor in the regime.",
+            "Scholars debate the existence of a preoppressor."
+          ],
+          "collocations": [
+            "preoppressor figure",
+            "preoppressor regime"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "preops",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "abbreviation for preoperative pain medications or preparations, used in medical notes; plural form",
+          "examples": [
+            "The nurse reviewed the preops before surgery.",
+            "Preops included antibiotics and antiseptics."
+          ],
+          "collocations": [
+            "preops list",
+            "check preops"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medical", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "preoptic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the area in the brain just above the optic chiasm or near the eye region; also descriptive in zoology",
+          "examples": [
+            "The preoptic area of the brain is studied in sleep research.",
+            "Preoptic nerves were identified in the specimen."
+          ],
+          "collocations": [
+            "preoptic nucleus",
+            "preoptic region"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    }
+  ]
+}

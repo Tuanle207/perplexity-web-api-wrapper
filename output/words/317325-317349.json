@@ -1,0 +1,471 @@
+```json
+{
+  "items": [
+    {
+      "term": "quarrian",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who works in a quarry (rare or dialect form)",
+          "examples": ["The quarrian spent long days cutting stone."],
+          "collocations": ["skilled quarrian", "local quarrian", "experienced quarrian"],
+          "synonyms": ["quarryman", "stonecutter"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general", "construction"]
+        }
+      ]
+    },
+    {
+      "term": "quarrians",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quarrian",
+          "examples": ["The quarrians worked together on the site."],
+          "collocations": ["group of quarrians", "local quarrians"],
+          "synonyms": ["quarrymen"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "quarried",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of quarry; to dig stone or minerals from the ground",
+          "examples": ["The stone was quarried from nearby hills.", "They quarried marble for the building."],
+          "collocations": ["quarried stone", "quarried marble", "newly quarried rock"],
+          "synonyms": ["excavated", "mined"],
+          "antonyms": ["buried"],
+          "register": null,
+          "domain": ["construction", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "quarrier",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who extracts stone from a quarry",
+          "examples": ["The quarrier shaped blocks for transport."],
+          "collocations": ["professional quarrier", "local quarrier"],
+          "synonyms": ["quarryman", "stonecutter"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "quarriers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quarrier",
+          "examples": ["Quarriers worked in dangerous conditions."],
+          "collocations": ["team of quarriers", "skilled quarriers"],
+          "synonyms": ["quarrymen"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "quarries",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "places where stone or minerals are dug from the ground",
+          "examples": ["The region is known for its limestone quarries.", "Old quarries are now filled with water."],
+          "collocations": ["stone quarries", "abandoned quarries", "open quarries"],
+          "synonyms": ["pits", "mines"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["industry", "geography"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person singular of quarry; to dig or extract stone",
+          "examples": ["He quarries stone for construction."],
+          "collocations": ["quarries stone", "quarries marble"],
+          "synonyms": ["extracts", "mines"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "quarrington",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place name or surname found in English-speaking regions",
+          "examples": ["She grew up in Quarrington.", "Mr. Quarrington spoke at the event."],
+          "collocations": ["Quarrington village", "Quarrington family"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["names"]
+        }
+      ]
+    },
+    {
+      "term": "quarringtons",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form referring to people with the surname Quarrington",
+          "examples": ["The Quarringtons attended the ceremony."],
+          "collocations": ["the Quarringtons"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["names"]
+        }
+      ]
+    },
+    {
+      "term": "quarrion",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or obscure term with no widely recognized meaning in modern English",
+          "examples": ["The word 'quarrion' is seldom used today."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "quarrions",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quarrion",
+          "examples": ["These quarrions appear in old texts."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "quarrome",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an extremely rare or obsolete word with unclear meaning",
+          "examples": ["The manuscript mentioned a quarrome."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "quarry",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place where stone or minerals are dug from the ground",
+          "examples": ["They visited a large granite quarry.", "The quarry supplied stone for the city."],
+          "collocations": ["stone quarry", "open quarry", "abandoned quarry"],
+          "synonyms": ["pit", "mine"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["industry", "construction"]
+        },
+        {
+          "pos": "noun",
+          "definition": "an animal being hunted or pursued",
+          "examples": ["The hunters tracked their quarry through the forest."],
+          "collocations": ["hunt quarry", "track quarry"],
+          "synonyms": ["prey", "target"],
+          "antonyms": ["hunter"],
+          "register": "literary",
+          "domain": ["nature"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to dig stone or minerals from a quarry",
+          "examples": ["Workers quarry limestone for cement.", "They quarry rocks from the hillside."],
+          "collocations": ["quarry stone", "quarry marble"],
+          "synonyms": ["extract", "mine"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "quarryable",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be extracted from a quarry",
+          "examples": ["The rock is easily quarryable."],
+          "collocations": ["quarryable stone", "quarryable material"],
+          "synonyms": ["extractable"],
+          "antonyms": ["unworkable"],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "quarrying",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the activity of digging stone or minerals from the ground",
+          "examples": ["Quarrying is an important industry.", "The area is known for quarrying."],
+          "collocations": ["stone quarrying", "quarrying industry"],
+          "synonyms": ["mining", "extraction"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["industry"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle of quarry",
+          "examples": ["They are quarrying stone for a project."],
+          "collocations": ["quarrying stone", "quarrying marble"],
+          "synonyms": ["extracting", "mining"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "quarryings",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "materials or results obtained from quarrying",
+          "examples": ["The quarryings were transported by truck."],
+          "collocations": ["stone quarryings", "waste quarryings"],
+          "synonyms": ["extractions"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["industry"]
+        }
+      ]
+    },
+    {
+      "term": "quarryman",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a man who works in a quarry",
+          "examples": ["The quarryman cut large blocks of stone."],
+          "collocations": ["skilled quarryman", "local quarryman"],
+          "synonyms": ["quarrier", "stonecutter"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "quarrymaster",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person in charge of a quarry",
+          "examples": ["The quarrymaster supervised all operations."],
+          "collocations": ["chief quarrymaster", "local quarrymaster"],
+          "synonyms": ["manager"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "construction"]
+        }
+      ]
+    },
+    {
+      "term": "quarrymasters",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quarrymaster",
+          "examples": ["Quarrymasters met to discuss safety rules."],
+          "collocations": ["group of quarrymasters"],
+          "synonyms": ["managers"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "quarrymen",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quarryman",
+          "examples": ["The quarrymen worked long shifts."],
+          "collocations": ["team of quarrymen"],
+          "synonyms": ["quarriers"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "quarrystone",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "stone that has been taken from a quarry",
+          "examples": ["The house was built from quarrystone."],
+          "collocations": ["cut quarrystone", "natural quarrystone"],
+          "synonyms": ["building stone"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "quarsome",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "old word meaning troublesome or dangerous",
+          "examples": ["He described the journey as quarsome."],
+          "collocations": ["quarsome task"],
+          "synonyms": ["troublesome", "dangerous"],
+          "antonyms": ["safe"],
+          "register": "archaic",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "quart",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a unit of liquid measure equal to a quarter of a gallon",
+          "examples": ["He bought a quart of milk.", "Add one quart of water."],
+          "collocations": ["quart of milk", "liquid quart"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["measurement"]
+        }
+      ]
+    },
+    {
+      "term": "quarta",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare term sometimes referring to a fourth part or division",
+          "examples": ["The text referred to a quarta of land."],
+          "collocations": [],
+          "synonyms": ["quarter"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "quartan",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a fever that occurs every fourth day",
+          "examples": ["He suffered from quartan fever."],
+          "collocations": ["quartan fever"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "quartane",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "variant spelling of quartan, relating to a fever every fourth day",
+          "examples": ["The disease was described as quartane."],
+          "collocations": ["quartane fever"],
+          "synonyms": ["quartan"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["medicine"]
+        }
+      ]
+    }
+  ]
+}
+```

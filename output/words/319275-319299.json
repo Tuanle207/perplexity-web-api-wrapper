@@ -1,0 +1,575 @@
+{
+  "items": [
+    {
+      "term": "radiating",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "giving off rays or heat in all directions",
+          "examples": [
+            "The sun was radiating heat across the courtyard.",
+            "A radiating pattern of light spread from the lamp."
+          ],
+          "collocations": [
+            "radiating heat",
+            "radiating light",
+            "radiating pattern",
+            "radiating energy"
+          ],
+          "synonyms": ["emitting", "emanating", "glowing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "science"]
+        }
+      ]
+    },
+    {
+      "term": "radiation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the emission and spreading of energy in the form of waves or particles",
+          "examples": [
+            "Exposure to high levels of radiation can be dangerous.",
+            "Radiation burns occurred after the accident."
+          ],
+          "collocations": [
+            "ionizing radiation",
+            "solar radiation",
+            "background radiation",
+            "radiation exposure"
+          ],
+          "synonyms": ["emission", "irradiation", "radioactivity"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "radiational",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to radiation",
+          "examples": [
+            "radiational energy contributes to warming the planet."
+          ],
+          "collocations": [
+            "radiational energy",
+            "radiational heat"
+          ],
+          "synonyms": ["radiation-related"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "radiationless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not emitting or receiving radiation",
+          "examples": [
+            "A radiationless transition in chemistry occurs without photon emission."
+          ],
+          "collocations": [
+            "radiationless transition"
+          ],
+          "synonyms": ["non-radiative"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "radiations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple instances of radiation; rays or energy emitted",
+          "examples": [
+            "The laboratory detected several radiations from the source.",
+            "Different radiations can affect materials in various ways."
+          ],
+          "collocations": [
+            "types of radiations",
+            "high-energy radiations",
+            "gamma radiations"
+          ],
+          "synonyms": ["rays", "emissions"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "radiative",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or caused by radiation",
+          "examples": [
+            "Radiative cooling helps planets shed heat at night.",
+            "The material has good radiative properties."
+          ],
+          "collocations": [
+            "radiative cooling",
+            "radiative properties",
+            "radiative forcing"
+          ],
+          "synonyms": ["emissive", "irradiative"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "radiatopatent",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a coined term likely referring to a radiatopatent (no standard meaning in common use)",
+          "examples": ["No established sense found in current dictionaries."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "radiatoporose",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a nonstandard or specialized term possibly combining radiation and osteoporosis; not widely recognized",
+          "examples": ["Not found in common reference sources."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medical", "science"]
+        }
+      ]
+    },
+    {
+      "term": "radiatoporous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "describing a material that is porous and related to radiation in some way; not a standard term",
+          "examples": ["Radiatoporous materials are studied in specialized contexts."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "radiator",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device that emits heat to warm a room or space",
+          "examples": [
+            "Turn on the radiator to warm the room.",
+            "The radiator burst into hot steam."
+          ],
+          "collocations": [
+            "central radiator",
+            "hot radiator",
+            "radiator cover"
+          ],
+          "synonyms": ["heater"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["home", "general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "radiators",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of radiator; multiple devices that emit heat",
+          "examples": [
+            "The radiators in the old apartment squeak at night.",
+            "We installed new radiators upstairs."
+          ],
+          "collocations": [
+            "wall radiators",
+            "steam radiators",
+            "radiators heater"
+          ],
+          "synonyms": ["heaters"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["home", "general"]
+        }
+      ]
+    },
+    {
+      "term": "radiatory",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to rays or radiating heat",
+          "examples": [
+            "The radiatory spectrum was studied by scientists."
+          ],
+          "collocations": [
+            "radiatory spectrum"
+          ],
+          "synonyms": ["radiant-related"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "radiatostriate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "describing a pattern or structure with radiating stripes",
+          "examples": [
+            "A radiatostriate design decorated the vase."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "design"]
+        }
+      ]
+    },
+    {
+      "term": "radiatosulcate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having radiating sulcus-like features",
+          "examples": [
+            "The shell showed a radiatosulcate pattern."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "radiature",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term with limited or historical use; not common in modern English",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "radiatus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Latin-derived term used in some scientific names or classifications; not common in everyday English",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "taxonomy"]
+        }
+      ]
+    },
+    {
+      "term": "radical",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who wants complete or major change; someone with extreme views",
+          "examples": [
+            "The student group was labeled as radicals by critics.",
+            "Radicals pushed for faster reforms."
+          ],
+          "collocations": [
+            "political radicals",
+            "radicals in the movement",
+            "extremist radicals"
+          ],
+          "synonyms": ["reformer", "extremist", "activist"],
+          "antonyms": ["moderate"],
+          "register": "neutral",
+          "domain": ["politics", "society"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a person who believes in thorough or fundamental change",
+          "examples": [
+            "They took a radical approach to the problem."
+          ],
+          "collocations": [
+            "radical change",
+            "radical idea",
+            "radical redesign"
+          ],
+          "synonyms": ["fundamentalist", "reformer"],
+          "antonyms": ["conservative"],
+          "register": "neutral",
+          "domain": ["general", "academic", "technology"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "very new or different from what is traditional or accepted",
+          "examples": [
+            "The company faced radical changes in its business model.",
+            "Radical ideas can be challenging but necessary."
+          ],
+          "collocations": [
+            "radical shift",
+            "radical idea",
+            "radical reform"
+          ],
+          "synonyms": ["dramatic", "complete", "fundamental"],
+          "antonyms": ["conventional"],
+          "register": "neutral",
+          "domain": ["business", "science", "society"]
+        }
+      ]
+    },
+    {
+      "term": "radicalisation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of adopting extreme political or religious views",
+          "examples": [
+            "Radicalisation can occur online or in person.",
+            "Programmes aim to counter radicalisation."
+          ],
+          "collocations": [
+            "suspected radicalisation",
+            "radicalisation process",
+            "de-radicalisation programs"
+          ],
+          "synonyms": ["extremism", "militancy (in context)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "sociology", "security"]
+        }
+      ]
+    },
+    {
+      "term": "radicalisations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of radicalisation; processes of adopting extreme views",
+          "examples": [
+            "Multiple radicalisations were observed across communities."
+          ],
+          "collocations": [
+            "radicalisations processes",
+            "early radicalisations"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "sociology"]
+        }
+      ]
+    },
+    {
+      "term": "radicalise",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to cause someone to adopt extreme political or religious views",
+          "examples": [
+            "Propaganda can radicalise vulnerable individuals.",
+            "Efforts to prevent online content from radicalising users."
+          ],
+          "collocations": [
+            "radicalise someone",
+            "radicalise opinions",
+            "radicalise the audience"
+          ],
+          "synonyms": ["radicalize"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "security", "media"]
+        }
+      ]
+    },
+    {
+      "term": "radicalised",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having adopted extreme views",
+          "examples": [
+            "Radicalised individuals can pose security risks."
+          ],
+          "collocations": [
+            "radicalised group",
+            "radicalised mindset"
+          ],
+          "synonyms": ["radicalized"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "security"]
+        }
+      ]
+    },
+    {
+      "term": "radicalises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of radicalise; causes to adopt extreme views",
+          "examples": [
+            "Online bots radicalises susceptible users."
+          ],
+          "collocations": [
+            "radicalises the audience"
+          ],
+          "synonyms": ["radicalizes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "security", "media"]
+        }
+      ]
+    },
+    {
+      "term": "radicalising",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of radicalise; in the process of adopting extreme views",
+          "examples": [
+            "The debate is radicalising many readers."
+          ],
+          "collocations": [
+            "radicalising opinions",
+            "radicalising influence"
+          ],
+          "synonyms": ["radicalizing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "media"]
+        }
+      ]
+    },
+    {
+      "term": "radicalism",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the beliefs and actions of people who want major change, often extreme",
+          "examples": [
+            "Radicalism shaped the social movements of the era.",
+            "Critics argued that radicalism threatened stability."
+          ],
+          "collocations": [
+            "political radicalism",
+            "radicalism and reform",
+            "youth radicalism"
+          ],
+          "synonyms": ["extremism", "reformism"],
+          "antonyms": ["moderation"],
+          "register": "neutral",
+          "domain": ["politics", "sociology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "radicalisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of radicalism; diverse radical beliefs or movements",
+          "examples": [
+            "The workshop explored various radicalisms in history."
+          ],
+          "collocations": [
+            "different radicalisms",
+            "academic radicalisms"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "politics"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "items": [
+    {
+      "term": "requering",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "an archaic or rare form meaning asking or requesting",
+          "examples": ["He was requering help from the court."],
+          "collocations": ["requering aid", "requering support"],
+          "synonyms": ["requesting", "asking"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "request",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an act of politely asking for something",
+          "examples": ["She made a request for help.", "Your request has been approved."],
+          "collocations": ["make a request", "special request", "request form"],
+          "synonyms": ["appeal", "petition", "application"],
+          "antonyms": ["refusal"],
+          "register": null,
+          "domain": ["general", "business"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to politely ask for something",
+          "examples": ["I request more information.", "They requested a meeting."],
+          "collocations": ["request information", "request permission", "request assistance"],
+          "synonyms": ["ask", "seek", "apply for"],
+          "antonyms": ["refuse", "deny"],
+          "register": "formal",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "requested",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of request; asked for something politely",
+          "examples": ["He requested a refund.", "They requested more time."],
+          "collocations": ["requested information", "requested documents"],
+          "synonyms": ["asked", "sought"],
+          "antonyms": ["refused"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "requester",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who makes a request",
+          "examples": ["The requester must fill out a form."],
+          "collocations": ["original requester", "service requester"],
+          "synonyms": ["applicant", "asker"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "requesters",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of requester",
+          "examples": ["All requesters must register."],
+          "collocations": ["multiple requesters", "external requesters"],
+          "synonyms": ["applicants"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "requesting",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of asking for something politely",
+          "examples": ["She is requesting assistance."],
+          "collocations": ["requesting help", "requesting access"],
+          "synonyms": ["asking", "seeking"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "requestion",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to question again or interrogate further",
+          "examples": ["The witness was requestioned."],
+          "collocations": ["requestion a witness"],
+          "synonyms": ["reinterrogate", "reexamine"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "requestor",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "another spelling of requester",
+          "examples": ["The requestor submitted a ticket."],
+          "collocations": ["service requestor"],
+          "synonyms": ["requester"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "requestors",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of requestor",
+          "examples": ["All requestors will be notified."],
+          "collocations": ["external requestors"],
+          "synonyms": ["requesters"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "requests",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of request",
+          "examples": ["We received many requests."],
+          "collocations": ["customer requests", "pending requests"],
+          "synonyms": ["appeals"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person singular of request",
+          "examples": ["She requests help often."],
+          "collocations": ["requests information"],
+          "synonyms": ["asks"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "requeued",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "placed again into a queue or line",
+          "examples": ["The job was requeued after failure."],
+          "collocations": ["requeued task", "requeued job"],
+          "synonyms": ["relisted", "resubmitted"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "requicken",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make alive again or revive",
+          "examples": ["The news requickened his spirit."],
+          "collocations": ["requicken interest", "requicken hope"],
+          "synonyms": ["revive", "restore"],
+          "antonyms": ["kill", "weaken"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "requiem",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a musical composition or service for the dead",
+          "examples": ["Mozart's Requiem is famous."],
+          "collocations": ["funeral requiem", "Requiem Mass"],
+          "synonyms": ["memorial", "dirge"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "requiems",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of requiem",
+          "examples": ["Several requiems were performed."],
+          "collocations": ["choral requiems"],
+          "synonyms": ["memorials"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "requiescat",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a prayer for the dead meaning 'may they rest'",
+          "examples": ["The priest said a requiescat."],
+          "collocations": ["requiescat prayer"],
+          "synonyms": ["blessing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "requiescence",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a state of rest or quietness",
+          "examples": ["The room fell into requiescence."],
+          "collocations": ["peaceful requiescence"],
+          "synonyms": ["rest", "calm"],
+          "antonyms": ["activity", "noise"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "require",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to need something or make it necessary",
+          "examples": ["This job requires skill.", "You are required to attend."],
+          "collocations": ["require effort", "require attention", "require approval"],
+          "synonyms": ["need", "demand"],
+          "antonyms": ["ignore"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "requirement",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "something that is needed or must be done",
+          "examples": ["A degree is a requirement.", "Meet all requirements."],
+          "collocations": ["minimum requirement", "legal requirement"],
+          "synonyms": ["need", "condition"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "requirements",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of requirement",
+          "examples": ["The job requirements are strict."],
+          "collocations": ["system requirements"],
+          "synonyms": ["needs"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "requisite",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "necessary for a particular purpose",
+          "examples": ["He lacks the requisite skills."],
+          "collocations": ["requisite knowledge", "requisite experience"],
+          "synonyms": ["necessary", "essential"],
+          "antonyms": ["optional"],
+          "register": "formal",
+          "domain": ["academic", "business"]
+        },
+        {
+          "pos": "noun",
+          "definition": "something that is required",
+          "examples": ["Experience is a requisite."],
+          "collocations": ["basic requisite"],
+          "synonyms": ["requirement"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "requisition",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an official order for supplies or materials",
+          "examples": ["They submitted a requisition for equipment."],
+          "collocations": ["purchase requisition", "requisition form"],
+          "synonyms": ["order", "request"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "military"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to officially demand or take something",
+          "examples": ["The army requisitioned vehicles."],
+          "collocations": ["requisition property"],
+          "synonyms": ["seize", "demand"],
+          "antonyms": ["return"],
+          "register": "formal",
+          "domain": ["law", "military"]
+        }
+      ]
+    }
+  ]
+}

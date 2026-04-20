@@ -1,0 +1,449 @@
+{
+  "items": [
+    {
+      "term": "qr",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Short for 'quick response' or 'query result' or other domain-specific phrases; context determines meaning.",
+          "examples": ["In the dataset, the field labeled qr stands for quick response.", "Scan the qr code to open the link."],
+          "collocations": ["QR code", "QR scanner", "qr data"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "qrs",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Plural form of qr or stands for a specific acronym in particular domains; meaning depends on context.",
+          "examples": ["The qrs intervals were measured.", "Different models of QRS sensors were tested."],
+          "collocations": ["QRS complex", "QRS interval", "QRS sensors"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "medicine", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "qs",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Common shorthand for 'question', 'quality and service', or other phrases; usage is highly contextual.",
+          "examples": ["Enter your qs in the form.", "We evaluated the qs of the product."],
+          "collocations": ["FAQ", "customer qs", "search qs"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "qt",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Abbreviation with various possible meanings (e.g., 'quiet temperature', 'quarter-ton', or 'cutie' in slang); context determines sense.",
+          "examples": ["Set the qt threshold.", "The video exceeds the qt value."],
+          "collocations": ["qt value", "qt threshold", "Qt framework"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "qtam",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Not a widely recognized standard English term; may be a code, acronym, or misspelling; no established sense in general lexicon.",
+          "examples": ["qtam was not found in the standard dictionary."],
+          "collocations": ["qtam value", "qtam code"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": " qtd",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Short for 'quantity' or other domain-specific terms; context is essential.",
+          "examples": ["The qtd of items is 20."],
+          "collocations": ["qtd items", "qtd value"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "qto",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Unclear without context; could be shorthand for 'quantity to' or a code; not a standard English term.",
+          "examples": ["Set the qto parameter."],
+          "collocations": ["qto parameter", "qto setting"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "qtr",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Short for 'quarter' in contexts like time periods or financial reporting.",
+          "examples": ["The quarter ends in March.", "Q4 is a strong quarter for sales."],
+          "collocations": ["fiscal quarter", "quarter report", "Qtr 3"],
+          "synonyms": ["quarter"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "qts",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Plural of qt or a domain-specific abbreviation; context dependent.",
+          "examples": ["The qts of data collected were stored."],
+          "collocations": ["Qts data", "Qts sensors"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "qty",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Abbreviation for quantity; used in inventory or data lists.",
+          "examples": ["Enter the qty in the form.", "We need a qty of 50 units."],
+          "collocations": ["qty on hand", "qty available", "ORDER qty"],
+          "synonyms": ["quantity"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "qu",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Unclear; could be shorthand in specific fields or a typo; not a standard English word.",
+          "examples": ["qu is not a recognized term here."],
+          "collocations": ["qu data", "qu field"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "qua",
+      "kind": "preposition",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "preposition",
+          "definition": "Used to mean 'in the capacity of' or 'as being'.",
+          "examples": ["As a teacher, she spoke clearly qua educator.", "Qua an expert, he advised caution."],
+          "collocations": ["qua critic", "qua expert"],
+          "synonyms": ["in the role of", "as"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quaalude",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A brand name for a strong sedative drug (methaqualone) once prescribed medically; now illegal in many places.",
+          "examples": ["The patient was prescribed Quaaludes in the past.", "Quaaludes are illegal in many countries."],
+          "collocations": ["Quaaludes abuse", "take Quaaludes", "Quaalude tablet"],
+          "synonyms": ["methaqualone"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["medicine", "law", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Informal term referring to any similar sedative-hypnotic drug; used in slang.",
+          "examples": ["He was charged for possession of Quaaludes."],
+          "collocations": ["street Quaaludes", "Quaalude market"],
+          "synonyms": ["sedative", "benzo-like drug"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quaaludes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of Quaalude; refers to multiple tablets of methaqualone, a sedative drug.",
+          "examples": ["The police found several Quaaludes in the bag."],
+          "collocations": ["Quaaludes possession", "Quaaludes abuse", "Quaaludes tablets"],
+          "synonyms": ["methaqualone tablets"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["law", "medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quab",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A young or small quail, or a term used in some dialects; not widely used in modern standard English.",
+          "examples": ["The quab hid in the brush."],
+          "collocations": ["young quab", "quab bird"],
+          "synonyms": ["chick quail", "young quail"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["nature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quabird",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A quail or a bird of the quail family; used in some dialects or historical texts.",
+          "examples": ["A quabird crossed the path."],
+          "collocations": ["quabird sighting"],
+          "synonyms": ["quail"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["nature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quachil",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Not a standard English term; may be a misspelling or constructed word.",
+          "examples": ["quachil is not found in dictionaries."],
+          "collocations": ["quachil data"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quack",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A duck sound; also a charlatan who pretends to have medical skill; or a fraud.",
+          "examples": ["I heard a duck go quack.", "He's a medical quack who sells fake cures."],
+          "collocations": ["loud quack", "quack doctor", "quack remedy"],
+          "synonyms": ["duck sound", "fraud"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To make the sound a duck makes; or to pretend to have medical skill fraudulently.",
+          "examples": ["The duck quacks at dawn.", "He quacks about his medical credentials."],
+          "collocations": ["quack like a duck", "quack loudly", "quack diagnosis"],
+          "synonyms": ["quack out", "pose as doctor"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quacked",
+      "kind": "verb",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of quack; made the duck sound or claimed to have medical skill fraudulently in the past.",
+          "examples": ["The duck quacked loudly yesterday.", "The salesman quacked about his cure but was exposed."],
+          "collocations": ["quacked loudly", "quacked at dawn"],
+          "synonyms": ["quacked"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quacker",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A duck or someone who quacks; can be used playfully.",
+          "examples": ["The pool had a noisy quacker.", "Don’t be a quacker, tell the truth."],
+          "collocations": ["silly quacker", "quacker sound"],
+          "synonyms": ["duck", "quailer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quackeries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Places where ducks or their sounds are featured; also refers to pretend doctors in historic slang.",
+          "examples": ["We visited the quackeries by the pond."],
+          "collocations": ["duck quackeries", "quackery sites"],
+          "synonyms": ["duck farms", "duck houses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quackers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of quacker; ducks or playful term for people who quack.",
+          "examples": ["Two quackers swam by."],
+          "collocations": ["two quackers", "quackers in pond"],
+          "synonyms": ["ducks", "quackers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quackery",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Dishonest medical practice; claiming to cure serious diseases without evidence.",
+          "examples": ["The advertisement promoted medical quackery."],
+          "collocations": ["medical quackery", "quackery scams", "quackery claims"],
+          "synonyms": ["charlatanry", "fraud"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quackhood",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Colloquial or humorous term for the state or identity of a quack; not widely used in modern standard English.",
+          "examples": ["He left the quackhood behind when he moved on."],
+          "collocations": ["quackhood status"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quackier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "More like a quack; more fraudulent or dubious in nature.",
+          "examples": ["That claim sounds quackier by the day."],
+          "collocations": ["quackier claims", "quackier remedy"],
+          "synonyms": ["more fraudulent", "dubious"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}
