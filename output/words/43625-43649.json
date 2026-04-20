@@ -1,0 +1,509 @@
+{
+  "items": [
+    {
+      "term": "bloodshotten",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "reddened or flushed with blood, especially in the whites of the eyes or in a surface area that looks visibly stained by blood",
+          "examples": [
+            "His eyes were bloodshotten after a long night of studying.",
+            "The bandaged soldier had bloodshotten eyes from exhaustion."
+          ],
+          "collocations": ["bloodshotten eyes", "bloodshotten face", "bloodshotten appearance"],
+          "synonyms": ["bloodshot", "reddened"],
+          "antonyms": ["clear-eyed", "unbloodied"],
+          "register": "formal",
+          "domain": ["general", "medical"]
+        }
+      ]
+    },
+    {
+      "term": "bloodspiller",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that causes blood to be shed or spilled",
+          "examples": [
+            "The battle witnessed many bloodspillers on both sides.",
+            "They called him a bloodspiller for his brutal actions."
+          ],
+          "collocations": ["bloodspiller", "chief bloodspiller", "accidental bloodspiller"],
+          "synonyms": ["warlord", "butcher", "slaughterer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "bloodspilling",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of causing or allowing blood to be shed; the shedding of blood",
+          "examples": [
+            "Bloodspilling during the war shocked the international community.",
+            "The documentary shows the consequences of bloodspilling."
+          ],
+          "collocations": ["bloodspilling", "act of bloodspilling", "prevent bloodspilling"],
+          "synonyms": ["bloodshed", "slaughter"],
+          "antonyms": ["bloodless", "peaceful conduct"],
+          "register": "formal",
+          "domain": ["general", "history", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "bloodsprent",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not a standard modern term; plausibly interpreted as having blood in one’s hands or stained by blood, used poetically",
+          "examples": [
+            "The bloodsprent relic looked solemn under the candlelight."
+          ],
+          "collocations": ["bloodsprent relic", "bloodsprent hands"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodstain",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mark or spot made by blood on a surface",
+          "examples": [
+            "There was a dark bloodstain on the shirt.",
+            "The investigators collected a bloodstain sample."
+          ],
+          "collocations": ["bloodstain", "bloodstained", "bloodstain remover"],
+          "synonyms": ["blood spot", "blood mark"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "crime", "forensics"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to leave a bloodstain on a surface",
+          "examples": [
+            "The carpet was bloodstained after the fight.",
+            "Bloodstains stained the wall."
+          ],
+          "collocations": ["bloodstain the fabric", "bloodstain easily"],
+          "synonyms": ["stain with blood"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "bloodstained",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "marked or stained with blood",
+          "examples": [
+            "The bloodstained shirt was confiscated as evidence.",
+            "He wore a bloodstained apron after the accident."
+          ],
+          "collocations": ["bloodstained", "bloodstained clothes", "bloodstained walls"],
+          "synonyms": ["blood-stained", "bloodied"],
+          "antonyms": ["clean", "stain-free"],
+          "register": "neutral",
+          "domain": ["general", "crime", "forensics"]
+        }
+      ]
+    },
+    {
+      "term": "bloodstainedness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the condition of being stained with blood; the state of having bloodstains",
+          "examples": [
+            "The room showed a degree of bloodstainedness that worried investigators."
+          ],
+          "collocations": ["bloodstainedness level", "level of bloodstainedness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodstains",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple marks of blood on surfaces",
+          "examples": [
+            "The police photographed several bloodstains at the scene.",
+            "They carefully tested the bloodstains for clues."
+          ],
+          "collocations": ["bloodstains", "bloodstain patterns", "bloodstains evidence"],
+          "synonyms": ["blood spots", "blood marks"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["crime", "forensics"]
+        }
+      ]
+    },
+    {
+      "term": "bloodstanch",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to stop the flow of blood; to staunch",
+          "examples": [
+            "They used pressure to bloodstanch the wound.",
+            "A tourniquet helped bloodstanch the bleeding."
+          ],
+          "collocations": ["bloodstanch the wound", "bloodstanching"],
+          "synonyms": ["staunch", "stop bleeding"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical", "emergency"])
+        }
+      ]
+    },
+    {
+      "term": "bloodstock",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the stock of bloodstock animals; in some contexts, the inventory of animals bred for blood-related products",
+          "examples": [
+            "The farm maintains a large bloodstock of horses.",
+            "Bloodstock values rose with demand for certain breeds."
+          ],
+          "collocations": ["bloodstock program", "bloodstock market", "bloodstock breed"],
+          "synonyms": ["livestock", "stock"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "bloodstocks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bloodstock; multiple sets of bloodstock animals or stocks",
+          "examples": [
+            "The charity auction included several valuable bloodstocks."
+          ],
+          "collocations": ["bloodstocks market", "bloodstocks values"],
+          "synonyms": ["livestock collections"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "bloodstone",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a dark green gemstone with red specks; also the name of a stone used in jewelry",
+          "examples": [
+            "She wore a bloodstone pendant.",
+            "Bloodstone was believed to have healing properties."
+          ],
+          "collocations": ["bloodstone gem", "bloodstone ring"],
+          "synonyms": ["blood-stone"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["jewelry", "mineralogy", "folklore"]
+        }
+      ]
+    },
+    {
+      "term": "bloodstones",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bloodstone; multiple stones used in jewelry or decoration",
+          "examples": [
+            "The necklace featured several bloodstones."
+          ],
+          "collocations": ["bloodstones collection", "bloodstones set"],
+          "synonyms": ["blood-stones"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["jewelry"]
+        }
+      ]
+    },
+    {
+      "term": "bloodstream",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the path through which blood moves around the body",
+          "examples": [
+            "The virus spread through the bloodstream.",
+            "White blood cells travel in the bloodstream."
+          ],
+          "collocations": ["in the bloodstream", "bloodstream infection", "bloodstream circulation"],
+          "synonyms": ["circulatory system (path)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bloodstreams",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bloodstream; multiple circulatory paths",
+          "examples": [
+            "Different pathogens can enter the bloodstreams during wounds." 
+          ],
+          "collocations": ["bloodstreams", "pathways of bloodstream"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bloodstroke",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a stroke caused by bleeding in the brain or a blockage disrupting blood flow",
+          "examples": [
+            "A bloodstroke is a serious medical emergency.",
+            "Symptoms of a bloodstroke require immediate attention."
+          ],
+          "collocations": ["hemorrhagic bloodstroke", "ischemic bloodstroke", "bloodstroke victim"],
+          "synonyms": ["stroke", "cerebral hemorrhage"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "emergency"]
+        }
+      ]
+    },
+    {
+      "term": "bloodsuck",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to suck blood from someone or something; to exploit for personal gain",
+          "examples": [
+            "The tick bloodsucks its host.",
+            "Some parasites bloodsuck animals for nutrients."
+          ],
+          "collocations": ["bloodsuck", "bloodsucking parasite"],
+          "synonyms": ["siphon", "drain"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "bloodsucker",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or animal that drinks blood; a parasite",
+          "examples": [
+            "The lion bore a bloodsucker on its leg.",
+            "He called the debt collector a bloodsucker in frustration."
+          ],
+          "collocations": ["bloodsucker parasite", "vicious bloodsucker"],
+          "synonyms": ["parasite", "leech"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "informal"]
+        }
+      ]
+    },
+    {
+      "term": "bloodsuckers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bloodsucker; multiple parasites or people who exploit others",
+          "examples": [
+            "The documentary warned against bloodsuckers in the company."
+          ],
+          "collocations": ["bloodsuckers", "parasite bloodsuckers"],
+          "synonyms": ["parasites"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "bloodsucking",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "draining blood; metaphorically, exploitative or draining",
+          "examples": [
+            "The bloodsucking tax could be argued as unfair.",
+            "A bloodsucking parasite attached to the host."
+          ],
+          "collocations": ["bloodsucking parasite", "bloodsucking behavior"],
+          "synonyms": ["parasitic", "draining"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "bloodtest",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a test of a person’s blood to check health, disease, or chemical levels",
+          "examples": [
+            "She went for a bloodtest to check cholesterol.",
+            "The doctor ordered a bloodtest before treatment."
+          ],
+          "collocations": ["bloodtest result", "bloodtest kit", "bloodtest appointment"],
+          "synonyms": ["blood test"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bloodthirst",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a strong desire to see people harmed or in battle; eagerness for bloodshed",
+          "examples": [
+            "The crowd showed bloodthirst after the defection.",
+            "The villain fed on the crowd's bloodthirst for revenge."
+          ],
+          "collocations": ["bloodthirst", "rising bloodthirst"],
+          "synonyms": ["bloodlust", "craving for violence"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "bloodthirster",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who desires bloodshed; a monstrous or villainous character",
+          "examples": [
+            "The warlord was known as a ruthless bloodthirster.",
+            "In the fantasy novel, the bloodthirsters attacked at dawn."
+          ],
+          "collocations": ["bloodthirster", "fierce bloodthirster"],
+          "synonyms": ["warlord", "brutal fighter"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fiction", "fantasy", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodthirstier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a more bloodthirsty person or entity; comparative form of bloodthirster",
+          "examples": [
+            "The bloodthirstier leader urged more aggression."
+          ],
+          "collocations": ["more bloodthirstier", "bloodthirstier faction"],
+          "synonyms": ["more brutal bloodthirster"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fiction", "political"]
+        }
+      ]
+    },
+    {
+      "term": "bloodthirstiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "the most bloodthirsty; having the strongest desire for bloodshed",
+          "examples": [
+            "The bloodthirstiest foes attacked without mercy."
+          ],
+          "collocations": ["bloodthirstiest foe", "bloodthirstiest rampage"],
+          "synonyms": ["most ruthless", "cruellest"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fiction", "war"]
+        }
+      ]
+    }
+  ]
+}

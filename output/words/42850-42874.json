@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "term": "blateroon",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a loud, foolish, talkative person; a blabbermouth",
+          "examples": [
+            "The conference had a few blateroons who dominated every discussion.",
+            "Quit being a blateroon and let someone else speak."
+          ],
+          "collocations": ["blateroon appears", "talkative blateroon", "annoying blateroon"],
+          "synonyms": ["blabbermouth", "talker", "gasbag"],
+          "antonyms": ["listener", "reserved person"],
+          "register": "informal",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "blatest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "the most recent or newest; the latest",
+          "examples": [
+            "She showed me the blatest design changes.",
+            "This is the blatest update to the software."
+          ],
+          "collocations": ["blatest news", "blatest model", "blatest version"],
+          "synonyms": ["newest", "latest", "current"],
+          "antonyms": ["oldest", "former"],
+          "register": "informal",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "blather",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "foolish or idle talk; meaningless chatter",
+          "examples": [
+            "His blather about the plan wasted everyone's time.",
+            "I am tired of all that blather."
+          ],
+          "collocations": ["idle blather", "nonsense blather", "blather about"],
+          "synonyms": ["nonsense", "gas", "babble"],
+          "antonyms": ["silence", "speculation with substance"],
+          "register": "informal",
+          "domain": ["everyday", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to talk at length in a foolish or dull way",
+          "examples": [
+            "He tends to blather on about his hobbies.",
+            "Stop blathering and get to the point."
+          ],
+          "collocations": ["blather on", "blathering away"],
+          "synonyms": ["gabble", "ramble", "jabber"],
+          "antonyms": ["speak concisely", "be brief"],
+          "register": "informal",
+          "domain": ["everyday", "communication"]
+        }

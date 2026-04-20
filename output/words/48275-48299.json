@@ -1,0 +1,469 @@
+{
+  "items": [
+    {
+      "term": "brazilwoods",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of brazilwood, a type of tropical tree in the genus Caesalpinia or its reddish wood used for dye and timber.",
+          "examples": ["Historically, brazilwoods were valuable for producing brazilin dye."],
+          "collocations": ["brazilwood", "brazilwood dye", "red dye"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general", "history", "ethnobotany"]
+        }
+      ]
+    },
+    {
+      "term": "brazing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "joining metal parts by melting a filler metal into the joint without melting the base metals.",
+          "examples": ["They brazing the copper pipes to fix the leak."],
+          "collocations": ["brazing torch", "brazing alloy", "brazing technique"],
+          "synonyms": ["soldering (in some contexts)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering", "craft"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the process of brazing; a joint made by brazing.",
+          "examples": ["The brazing of the joints required precision."],
+          "collocations": ["brazing", "brazed joint"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "breach",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an opening, gap, or violation of a rule or agreement.",
+          "examples": ["a breach of contract", "a breach in security"],
+          "collocations": ["breach of contract", "security breach", "breach of trust"],
+          "synonyms": ["violation", "infringement", "hole"],
+          "antonyms": ["compliance", "fulfillment"],
+          "register": "formal",
+          "domain": ["law", "business", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to break a rule, agreement, or trust; to make a gap in something.",
+          "examples": ["They breached the terms of the agreement.", "A wall breached by the earthquake fell down."],
+          "collocations": ["breach the contract", "breach a security", "breach of data"],
+          "synonyms": ["violate", "break", "defy"],
+          "antonyms": ["obey", "fulfill"],
+          "register": "formal",
+          "domain": ["law", "business", "security"]
+        }
+      ]
+    },
+    {
+      "term": "breached",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having broken a rule, agreement, or surface.",
+          "examples": ["a breached wall", "breached contract terms"],
+          "collocations": ["breached contract", "breached security"],
+          "synonyms": ["violated", "broken"],
+          "antonyms": ["intact", "compliant"],
+          "register": "formal",
+          "domain": ["law", "business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "breacher",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who breaches a rule, contract, or security; a violator.",
+          "examples": ["The breacher was identified by security footage."],
+          "collocations": ["contract breacher", "security breacher"],
+          "synonyms": ["violator", "transgressor"],
+          "antonyms": ["complier", "adherent"],
+          "register": "formal",
+          "domain": ["law", "security"]
+        }
+      ]
+    },
+    {
+      "term": "breachers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of breacher; multiple violators.",
+          "examples": ["Several breachers were caught attempting to bypass the system."],
+          "collocations": ["breachers of contract", "breachers detected"],
+          "synonyms": ["violators"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "security"]
+        }
+      ]
+    },
+    {
+      "term": "breaches",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of breach; multiple violations or openings.",
+          "examples": ["security breaches", "breaches in the wall"],
+          "collocations": ["data breaches", "breaches of trust"],
+          "synonyms": ["violations", "gaps"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "security"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person singular present of breach; breaks or violates.",
+          "examples": ["The company breaches the agreement repeatedly."],
+          "collocations": ["breaches the contract", "breaches data security"],
+          "synonyms": ["violates", "disregards"],
+          "antonyms": ["adheres", "complies"],
+          "register": "formal",
+          "domain": ["law", "business"]
+        }
+      ]
+    },
+    {
+      "term": "breachful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "full of breaches or openings; treacherous or unsafe.",
+          "examples": ["a breachful coastline exposed to the storms."],
+          "collocations": ["breachful terrain", "breachful security"],
+          "synonyms": ["gappy", "unsafe"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "breaching",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "gerund/present participle",
+          "definition": "the act of breaking a rule or boundary; in the process of making a breach.",
+          "examples": ["they are breaching the protocol by sharing passwords."],
+          "collocations": ["breaching the protocol", "breaching security"],
+          "synonyms": ["violating", "overstepping"],
+          "antonyms": ["obeying", "upholding"],
+          "register": "formal",
+          "domain": ["law", "security"]
+        }
+      ]
+    },
+    {
+      "term": "breachy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having many breaches or openings; easily breached.",
+          "examples": ["a breachy surface that needs patching."],
+          "collocations": ["breachy surface", "breachy walls"],
+          "synonyms": ["perforated", "fragile"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bread",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a basic food made from flour and water, baked or cooked; the 'staff of life'.",
+          "examples": ["I bought loaf of bread.", "She broke bread with her friends."],
+          "collocations": ["loaf of bread", "bread and butter", "fresh bread"],
+          "synonyms": ["loaf", "baked loaf"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to provide money or income; to earn one's living.",
+          "examples": ["He breadwinners for the family."],
+          "collocations": ["bread (something) for", "bread and butter"],
+          "synonyms": ["earn", "generate income"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["economy", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "breadbasket",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the part of a country that produces most of its grain or bread; a region known for bread production.",
+          "examples": ["The breadbasket of the country faced drought."],
+          "collocations": ["breadbasket region", "agricultural breadbasket"],
+          "synonyms": ["grain belt", "bread-producing region"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "breadbaskets",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of breadbasket; multiple breadbasket regions.",
+          "examples": ["Several breadbaskets across the country were affected by drought."],
+          "collocations": ["breadbaskets regions"],
+          "synonyms": ["grain belts"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "breadberries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of berry used in baking or cooking; may refer to small edible berries in some regions.",
+          "examples": ["They added breadberries to the morning porridge."],
+          "collocations": ["breadberries in dessert"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "breadberry",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a single breadberry; a small edible berry used in cooking.",
+          "examples": ["A breadberry may add tart sweetness."],
+          "collocations": ["breadberry jam"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "breadboard",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a flat board with a grid of holes for inserting electronic components during prototyping.",
+          "examples": ["He built the circuit on a breadboard."],
+          "collocations": ["breadboard layout", "breadboard wiring"],
+          "synonyms": ["prototype board"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "education"]
+        }
+      ]
+    },
+    {
+      "term": "breadboarded",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of breadboard; to assemble on a breadboard.",
+          "examples": ["She breadboarded the circuit yesterday."],
+          "collocations": ["breadboarded circuit"],
+          "synonyms": ["prototype-built"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "education"]
+        }
+      ]
+    },
+    {
+      "term": "breadboarding",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of assembling electronic components on a breadboard for prototyping.",
+          "examples": ["Breadboarding helps test circuits quickly."],
+          "collocations": ["breadboarding setup"],
+          "synonyms": ["prototype wiring"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "education"]
+        }
+      ]
+    },
+    {
+      "term": "breadboards",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of breadboard; multiple prototyping boards.",
+          "examples": ["Several breadboards were used in class."],
+          "collocations": ["breadboards for experiments"],
+          "synonyms": ["prototype boards"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "education"]
+        }
+      ]
+    },
+    {
+      "term": "breadbox",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a box or container for storing bread; also a device or space in a kitchen.",
+          "examples": ["She put the loaf in the breadbox."],
+          "collocations": ["breadbox", "metal breadbox"],
+          "synonyms": ["bread bin"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["household", "kitchen"]
+        }
+      ]
+    },
+    {
+      "term": "breadboxes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of breadbox; multiple bread storage boxes.",
+          "examples": ["The kitchen had several decorative breadboxes."],
+          "collocations": ["breadboxes in a kitchen"],
+          "synonyms": ["bread bins"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["household", "kitchen"]
+        }
+      ]
+    },
+    {
+      "term": "breadcrumb",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "small pieces of toasted bread used to make soup or as a topping; or a trail of evidence that guides you.",
+          "examples": ["Sprinkle breadcrumbs on the casserole.", "The trail of breadcrumbs led them to the exit."],
+          "collocations": ["breadcrumbs on soup", "breadcrumb trail"],
+          "synonyms": ["crumbs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "breadcrumbed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "covered with breadcrumbs; crumb-coated.",
+          "examples": ["Breaded and breadcrumbed chicken.","Breadcrumbed fish fillets."],
+          "collocations": ["breadcrumbed chicken"],
+          "synonyms": ["crusted", "breaded"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "breadcrumbing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of covering with breadcrumbs; or the act of leading someone on with occasional attention.",
+          "examples": ["Breadcrumbing in dating can be confusing."],
+          "collocations": ["breadcrumbing behavior"],
+          "synonyms": ["teasing", "leading on (in dating)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["relationship", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "breadcrumbs",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of breadcrumb; small toasted bread pieces; or a trail of evidence.",
+          "examples": ["Top the soup with breadcrumbs.", "The breadcrumbs formed a trail to the door."],
+          "collocations": ["bread crumbs", "breadcrumbs in soup", "breadcrumb trail"],
+          "synonyms": ["crumbs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    }
+  ]
+}

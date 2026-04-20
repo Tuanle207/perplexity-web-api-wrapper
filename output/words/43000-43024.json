@@ -1,0 +1,191 @@
+{
+  "items": [
+    {
+      "term": "bleck",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A very dark, almost black color; sometimes used to describe something dull or lifeless in appearance.",
+          "examples": [
+            "The barn paint had turned a bleck shade after years of sun.",
+            "She wore a bleck coat that blended with the shadows."
+          ],
+          "collocations": ["bleck color", "bleck shade", "bleck coat"],
+          "synonyms": ["black", "jet", "inky"],
+          "antonyms": ["bright", "colorful", "pale"],
+          "register": "neutral",
+          "domain": ["general", "visual"]
+        }
+      ]
+    },
+    {
+      "term": "bled",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of bleed; to lose blood through a wound or injury.",
+          "examples": [
+            "He bled after cutting his finger.",
+            "The team bled emotional energy during the long match."
+          ],
+          "collocations": ["bled heavily", "bled dry", "bled out"],
+          "synonyms": ["bleed", "lose blood"],
+          "antonyms": ["stayed", "stopped"],
+          "register": "neutral",
+          "domain": ["health", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To be drained of money, resources, or energy.",
+          "examples": [
+            "The project bled the company of funds.",
+            "Her patience bled as the hours passed."
+          ],
+          "collocations": ["bled funds", "bled dry", "bleeding money (idiom)"],
+          "synonyms": ["drained", "depleted"],
+          "antonyms": ["generated", "replenished"],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "blee",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An archaic or dialectal term not widely used in modern standard English; may appear in proper names or historical texts.",
+          "examples": [
+            "The map used the old spelling 'blee' for a color term."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "bleed",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To lose blood from the body; to flow of blood.",
+          "examples": [
+            "He cut his finger and began to bleed.",
+            "The map shows how dye will bleed into the fabric."
+          ],
+          "collocations": ["bleed a wound", "bleed heavily", "bleed out", "bleed dye"],
+          "synonyms": ["exsanguinate", "lose blood"],
+          "antonyms": ["stop bleeding", "clot"],
+          "register": "neutral",
+          "domain": ["health", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To lose money or resources; to be unprofitable.",
+          "examples": [
+            "The company will bleed money until the product launches.",
+            "The campaign bled resources from other programs."
+          ],
+          "collocations": ["bleed money", "bleed resources", "bleed dry"],
+          "synonyms": ["drain", "exhaust"],
+          "antonyms": ["earn", "profit"],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "In printing or dyeing, to transfer color or ink unsafely beyond intended area.",
+          "examples": [
+            "The ink will bleed if washed with hot water.",
+            "Be careful not to let the colors bleed together."
+          ],
+          "collocations": ["bleed run", "color bleed", "bleed into"],
+          "synonyms": ["run", "smear"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["textile", "printing", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bleeder",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person or device that bleeds; in medicine, a small tube or channel for draining fluid; in slang, a whistle blower or someone who leaks information (less common).",
+          "examples": [
+            "The medic attached a sterile bleeder to drain the wound.",
+            "The old car had a faulty bleeder valve.",
+            "In slang, a bleeder leaked the confidential notes."
+          ],
+          "collocations": ["bleeder valve", "bleeder tube", "medical bleeder"],
+          "synonyms": ["drain", "valve", "vent"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bleeders",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bleeder; multiple devices or people who bleed.",
+          "examples": [
+            "Several bleeders were connected to the wound drains.",
+            "The technicians checked the bleeders for proper function."
+          ],
+          "collocations": ["bleeders", "medical bleeders"],
+          "synonyms": ["drains", "valves"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bleeding",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of bleeding; a discharge of blood from a wound.",
+          "examples": [
+            "Bleeding stopped after a few minutes.",
+            "The patient showed signs of heavy bleeding."
+          ],
+          "collocations": ["heavy bleeding", "internal bleeding", "bleeding control"],
+          "synonyms": ["hemorrhage", "loss of blood"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Marked by or causing bleeding; not stable or overflowing with color (color bleed in printing).",
+          "examples": [
+            "Bleeding edge design (informal, meaning very new).",
+            "Bleeding colors ran in the wash."
+          ],
+          "collocations": ["bleeding edge", "bleeding colors", "bleeding effect"],
+          "synonyms": ["hemorrhaging", "color-run"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["technology", "art

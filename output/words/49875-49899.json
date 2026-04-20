@@ -1,0 +1,459 @@
+{
+  "items": [
+    {
+      "term": "bronx",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A borough of New York City, known for its urban culture and historic neighborhoods.",
+          "examples": ["She visited the Bronx to see the Yankee Stadium.", "The Bronx is famous for its diverse communities."],
+          "collocations": ["the Bronx", "Bronx Zoo", "Bronx skyscrapers", "Bronx River", "Bronx culture"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bronze",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A yellow-brown metal made of copper and tin.",
+          "examples": ["The statue was finished in bronze.", "She wears a bronze medal."],
+          "collocations": ["bronze sculpture", "bronze medal", "bronze alloy", "bronze age"],
+          "synonyms": ["CuSn alloy", "copper-tin alloy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["material", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A reddish-brown color like bronze.",
+          "examples": ["Her skin had a bronze glow after the sun. "],
+          "collocations": ["bronze color", "bronze skin", "bronze hue"],
+          "synonyms": ["tan", "coppery", "bronzish"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["appearance", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To coat or cause to appear bronze.",
+          "examples": ["The statue was bronzed to protect it from the weather."],
+          "collocations": ["bronze the statue", "bronze finish", "bronzed skin"],
+          "synonyms": ["copper-plate", "bronze-coat"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "material"]
+        }
+      ]
+    },
+    {
+      "term": "bronzed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a brown or sun-kissed skin tone as if from the sun; or made to look bronze.",
+          "examples": ["He walked out with bronzed skin after the beach trip."],
+          "collocations": ["bronzed skin", "bronzed appearance", "bronzed statue"],
+          "synonyms": ["tanned", "sun-kissed", "bronzy"],
+          "antonyms": ["pale", "unbronzed"],
+          "register": "neutral",
+          "domain": ["appearance", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bronzelike",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Resembling bronze in color or texture; not commonly used in standard dictionaries.",
+          "examples": ["A bronzelike sheen on the sculpture."],
+          "collocations": ["bronzelike finish", "bronzelike color"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["appearance", "art"]
+        }
+      ]
+    },
+    {
+      "term": "bronzen",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having the color of bronze; a shade of brown with a metallic tint.",
+          "examples": ["A bronzen statue gleamed in the sun."],
+          "collocations": ["bronzen statue", "bronzen finish", "bronzen color"],
+          "synonyms": ["bronze-colored", "coppery"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["appearance", "art"]
+        }
+      ]
+    },
+    {
+      "term": "bronzer",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A cosmetic product used to give skin a bronze-like color.",
+          "examples": ["She applied bronzer to add warmth to her cheeks."],
+          "collocations": ["face bronzer", "powder bronzer", "bronzer brush"],
+          "synonyms": ["tan powder", "bronzing powder"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "beauty"]
+        }
+      ]
+    },
+    {
+      "term": "bronzers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bronzer; multiple cosmetic products used to give bronze color.",
+          "examples": ["She bought two bronzers and a highlighter."],
+          "collocations": ["bronzers selection", "face bronzers", "drugstore bronzers"],
+          "synonyms": ["bronzing powders"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "beauty"]
+        }
+      ]
+    },
+    {
+      "term": "bronzes",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple statues or items made of bronze; the metal itself in plural form.",
+          "examples": ["The museum displays several ancient bronzes."],
+          "collocations": ["bronzes collection", "bronzes statues", "bronzes artifacts"],
+          "synonyms": ["bronze statues", "bronze works"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "history"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Third-person singular present of bronze (to make bronze).",
+          "examples": ["The statue bronzes the sculpture in the workshop."],
+          "collocations": ["bronzes the statue", "bronzes finish"],
+          "synonyms": ["bronze"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "bronzesmith",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A craftsman who works with bronze to create statues or objects.",
+          "examples": ["The bronzesmith crafted a new sculpture for the park."],
+          "collocations": ["bronzesmith maker", "bronzesmith workshop"],
+          "synonyms": ["bronze smith", "bronze craftsman"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["crafts", "art"]
+        }
+      ]
+    },
+    {
+      "term": "bronzewing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A term used for a bronze-colored bird or a fictional creature; also a surname or brand name in some contexts.",
+          "examples": ["The book features a bronzewing on the cover."],
+          "collocations": ["bronzewing bird", "bronzewing tattoo"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "fiction"]
+        }
+      ]
+    },
+    {
+      "term": "bronzier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "More bronzy in color; having a deeper bronze tone.",
+          "examples": ["Her hair took on a bronzier shade after dyeing."],
+          "collocations": ["bronzier tone", "bronzier shade"],
+          "synonyms": ["more bronze", "bronzeder"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["appearance", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bronziest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Most bronzy in color; having the deepest bronze shade.",
+          "examples": ["This bronze dress is the bronziest in the lineup."],
+          "collocations": ["the bronziest shade", "bronziest hue"],
+          "synonyms": ["deepest bronze"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["appearance", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bronzeified",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To make something bronze in color; to bronze it.",
+          "examples": ["The sculpture was bronzeified to resist weathering."],
+          "collocations": ["bronzeified statue", "bronzeified finish"],
+          "synonyms": ["bronze-coated", "bronzed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "bronzifies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third-person singular present of bronzeify; to make bronze-colored.",
+          "examples": ["The artist bronzifies the surface for durability."],
+          "collocations": ["bronzifies the surface", "bronzifies metal"],
+          "synonyms": ["bronzeifies"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "bronzify",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To bronze; to make brownish with a bronze color.",
+          "examples": ["They will bronzify the sculpture for outdoor display."],
+          "collocations": ["bronzify metal", "bronzify skin"],
+          "synonyms": ["bronze", "tan"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "appearance"]
+        }
+      ]
+    },
+    {
+      "term": "bronzifying",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "gerund",
+          "definition": "Act of making something bronze-colored.",
+          "examples": ["The bronzifying process protects the statue."],
+          "collocations": ["bronzifying process", "bronzifying finish"],
+          "synonyms": ["bronze coating"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "bronzine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A bronze-like resin or resinous compound; can refer to a bronze-colored material.",
+          "examples": ["The model was coated with a brontine-like finish."],
+          "collocations": ["bronzine finish", "bronzine coating"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["material", "art"]
+        }
+      ]
+    },
+    {
+      "term": "bronzing",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "gerund",
+          "definition": "The act of making something bronze-colored.",
+          "examples": ["Bronzing the statue helps preserve it."],
+          "collocations": ["bronzing process", "bronzing finish"],
+          "synonyms": ["bronze coating"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "bronzings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple instances of bronzing or bronze coatings.",
+          "examples": ["Various bronzings were applied to the statues."],
+          "collocations": ["bronzing layers", "bronzing steps"],
+          "synonyms": ["bronze coatings"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "bronzite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A dark brown to black mineral of the pyroxene group with a bronze-like luster.",
+          "examples": ["The mineral specimen was identified as bronzite."],
+          "collocations": ["bronzite mineral", "bronzite gem"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "bronzites",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bronzite; multiple bronzite minerals.",
+          "examples": ["The cabinet held several bronzites."],
+          "collocations": ["bronzites collection"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "bronzitite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A rare igneous rock consisting largely of bronzite and other minerals.",
+          "examples": ["Geologists studied a sample of bronzitite."],
+          "collocations": ["bronzitite magma", "bronzitite rock"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "bronzy",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a bronze color or appearance; shiny brown.",
+          "examples": ["He wore a bronzy jacket that caught the light."],
+          "collocations": ["bronzy skin", "bronzy finish"],
+          "synonyms": ["bronze-colored", "copper-toned"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["appearance", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "broo",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A form of weather phenomenon; in some contexts a Scots or affectionate term for a brew or broth; not common in standard modern usage.",
+          "examples": ["Old stories mention a warm broo by the fire."],
+          "collocations": ["hot broo", "broo recipe"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["culture", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "brooch",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A decorative pin worn on clothing, often with a clasp.",
+          "examples": ["She wore a silver brooch at the neckline."],
+          "collocations": ["brooch pin", "emerald brooch", "brooch clasp"],
+          "synonyms": ["lapel pin"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "general"]
+        }
+      ]
+    }
+  ]
+}

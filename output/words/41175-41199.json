@@ -1,0 +1,473 @@
+{
+  "items": [
+    {
+      "term": "biopic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a film or television program about a real person's life",
+          "examples": ["The new biopic about the singer was released last week.", "She played the lead in a biopic based on her grandmother's diaries."],
+          "collocations": ["biopic film", "biopic about", "biopic director", "biopic production", "watch a biopic"],
+          "synonyms": ["biographical film", "biographical movie"],
+          "antonyms": ["documentary", "fictional film"],
+          "register": "neutral",
+          "domain": ["entertainment", "general"]
+        }
+      ]
+    },
+    {
+      "term": "biopics",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of biopic; films or programs about real people's lives",
+          "examples": ["Many biopics focus on controversial figures.", "Critics praised several biopics for their accuracy."],
+          "collocations": ["biopics genre", "award-winning biopics", "new biopics"],
+          "synonyms": ["biographical films", "biographical movies"],
+          "antonyms": ["documentaries", "fictional films"],
+          "register": "neutral",
+          "domain": ["entertainment", "general"]
+        }
+      ]
+    },
+    {
+      "term": "biopiracies",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the illegal or unethical appropriation of biological resources or knowledge from indigenous cultures or countries",
+          "examples": ["The report discusses accusations of biopiracies in pharmaceutical research.", "Activists fought against biopiracies that exploited local biodiversity without consent."],
+          "collocations": ["biopiracy lawsuit", "biopiracy allegations", "biopiracy practices"],
+          "synonyms": ["bio-piracy", "biocolonialism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "ethics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "biopiracy",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the exploitation or appropriation of biological resources or traditional knowledge without proper permission or compensation",
+          "examples": ["Critics call it biopiracy when companies patent genetic material from indigenous communities.", "Efforts are underway to prevent biopiracy through stronger treaties."],
+          "collocations": ["accused of biopiracy", "biopiracy laws", "biopiracy debate"],
+          "synonyms": ["bio-piracy", "biocolonialism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "ethics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "biopirate",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who participates in biopiracy; someone who illegally exploits biological resources or knowledge",
+          "examples": ["The report labeled the company a biopirate after the patent dispute.", "Biopirates often target biodiverse regions for profit."],
+          "collocations": ["biopirate activity", "state to arrest biopirates"],
+          "synonyms": ["bio-pirate", "biocolonialist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "ethics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "biopirates",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of biopirate; people who engage in biopiracy",
+          "examples": ["Biopirates have faced international sanctions.", "NGOs protested against biopirates exploiting native plants."],
+          "collocations": ["biopirates involved", "combat biopirates"],
+          "synonyms": ["bio-pirates", "biocolonialists"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "ethics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bioplasm",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rarely used term referring to a hypothetical or fictional “living matter” in biology; not common in everyday usage",
+          "examples": ["Bioplasm has been mentioned in some speculative biology texts."],
+          "collocations": ["bioplasm study", "concept of bioplasm"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["science", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "bioplasmic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or resembling bioplasm; used in speculative or science fiction contexts",
+          "examples": ["Bioplasmic materials were hypothesized in early 20th-century fiction."],
+          "collocations": ["bioplasmic theory", "bioplasmic properties"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["science fiction", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "bioplasms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bioplasm; hypothetical living matter in some theoretical or fictional contexts",
+          "examples": ["Researchers debated the existence of bioplasms."],
+          "collocations": ["bioplasms in fiction", "study of bioplasms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["science fiction", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "biostat",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a short form for biostatistician or a statistician in biology/medicine; commonly used in research contexts",
+          "examples": ["The biostat presented the study results."],
+          "collocations": ["biostat analysis", "biostat department", "consult a biostat"],
+          "synonyms": ["biostatistician"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bioplasmic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "see entry for bioplasmic (above); duplicate due to list variant",
+          "examples": ["Bioplasmic materials were hypothesized in fiction."],
+          "collocations": ["bioplasmic"], 
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["science fiction", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "bioplasms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "see entry for bioplasms (above); duplicate due to list variant",
+          "examples": ["The concept of bioplasms appears in some speculative works."],
+          "collocations": ["bioplasms in theory", "bioplasm discussions"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["science fiction", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "bioplastic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plastic made from biological or renewable materials instead of petroleum-based resources",
+          "examples": ["Bioplastics can be compostable under proper conditions.", "Many companies are shifting to bioplastics to reduce plastic waste."],
+          "collocations": ["bioplastic bag", "bioplastic packaging", "bioplastic alternative"],
+          "synonyms": ["bio-based plastic", "bio-plastic"],
+          "antonyms": ["conventional plastic", "petroleum-based plastic"],
+          "register": "neutral",
+          "domain": ["environment", "science", "industry"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "made from natural or renewable biological materials",
+          "examples": ["Bioplastic bottles are marketed as eco-friendly."],
+          "collocations": ["bioplastic material", "bioplastic product"],
+          "synonyms": ["bio-based"],
+          "antonyms": ["petroleum-based"],
+          "register": "neutral",
+          "domain": ["environment", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "bioplasts",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bioplast; often used to refer to bioplastic types or samples",
+          "examples": ["Researchers tested several bioplasts for durability."],
+          "collocations": ["bioplast samples", "bioplasts properties"],
+          "synonyms": ["bio-based plastics"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["environment", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "biopoesis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative spelling of biopoiesis; the origin of life process or the emergence of living systems",
+          "examples": ["Biopoesis is studied in origin-of-life research."],
+          "collocations": ["theory of biopoesis", "biopoesis experiments"],
+          "synonyms": ["biopoiesis"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "biopoieses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternate plural of biopoiesis/biopoesis; multiple instances or discussions of origin-of-life processes",
+          "examples": ["Scientific papers discuss different biopoieses scenarios."],
+          "collocations": ["biopoieses scenarios", "biopoieses research"],
+          "synonyms": ["biopoesis", "biopoiesis"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "biopoiesis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process by which life first arose; origin of life",
+          "examples": ["Researchers model scenarios of biopoiesis to understand life’s beginnings."],
+          "collocations": ["origins of biopoiesis", "biopoiesis models"],
+          "synonyms": ["abiogenesis"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "biopolymer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large molecule produced by living organisms, such as DNA, proteins, or polysaccharides",
+          "examples": ["DNA is a biopolymer essential for genetics."],
+          "collocations": ["biopolymer chain", "biopolymer synthesis", "biopolymer material"],
+          "synonyms": ["biomolecule polymer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "chemistry", "education"]
+        }
+      ]
+    },
+    {
+      "term": "biopolymers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of biopolymer; large molecules produced by living organisms",
+          "examples": ["Biopolymers like proteins and nucleic acids are essential to life."],
+          "collocations": ["biopolymers production", "biopolymers research"],
+          "synonyms": ["biomolecule polymers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "biopotential",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the potential for biological activity or response; often used in neurobiology or bioelectrical contexts",
+          "examples": ["The clinician measured the biopotential of nerve cells.", "Biopotential differences indicate neural activity."],
+          "collocations": ["biopotential difference", "biopotential measurement"],
+          "synonyms": ["bioelectric potential"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "medicine", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bioprecipitation",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the biological process by which a substance is precipitated (often in contexts like precipitation of minerals by organisms)",
+          "examples": ["Bioprecipitation plays a role in biomineralization."],
+          "collocations": ["bioprecipitation process", "bioprecipitation in environment"],
+          "synonyms": ["biomineralization precipitation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "environmental science"]
+        }
+      ]
+    },
+    {
+      "term": "bioprospect",
+            "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to search biological resources for useful substances, genes, or compounds, often for commercial or scientific use",
+          "examples": ["Companies bioprospect rainforests for medicinal plants.", "Researchers bioprospect microbial communities for enzymes."],
+          "collocations": ["bioprospect for", "bioprospect plants", "bioprospect resources"],
+          "synonyms": ["bio prospect", "bioprospecting"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "industry", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "bioprospected",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bioprospect; having searched biological resources for useful substances",
+          "examples": ["The company bioprospected several microbes last year."],
+          "collocations": ["bioprospected organisms", "bioprospected compounds"],
+          "synonyms": ["bioprospected for"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "bioprospecting",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the search for valuable biological resources or compounds for use in medicine, agriculture, or industry",
+          "examples": ["Bioprospecting raises ethical questions about indigenous knowledge."],
+          "collocations": ["bioprospecting rights", "bioprospecting agreements"],
+          "synonyms": ["bio prospecting"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "law", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "bioprospectings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare plural form referring to multiple instances of bioprospecting",
+          "examples": ["Several bioprospectings have occurred in this region."],
+          "collocations": ["multiple bioprospectings"],
+          "synonyms": ["bioprospecting activities"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "law"]
+        }
+      ]
+    },
+    {
+      "term": "bioprospector",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who searches for valuable biological resources or compounds",
+          "examples": ["The bioprospector mapped biodiversity hotspots for potential discoveries."],
+          "collocations": ["bioprospector team", "senior bioprospector"],
+          "synonyms": ["bio prospecting researcher"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "bioprospectors",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bioprospector; researchers who search for valuable biological resources",
+          "examples": ["Bioprospectors often collaborate with local communities."],
+          "collocations": ["bioprospectors team"],
+          "synonyms": ["bio prospecting researchers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "industry"]
+        }
+      ]
+    }
+  ]
+}

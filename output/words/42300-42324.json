@@ -1,0 +1,121 @@
+{
+  "items": [
+    {
+      "term": "blackberry",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small, juicy, dark purple to black edible fruit from the Rubus plant; also the bush that bears this fruit.",
+          "examples": [
+            "We picked fresh blackberries from the hedge.",
+            "Blackberries are tasty in pies and jams."
+          ],
+          "collocations": [
+            "blackberry fruit",
+            "ripe blackberry",
+            "blackberry jam",
+            "wild blackberry",
+            "blackberry bushes",
+            "blackberry picking"
+          ],
+          "synonyms": ["bramble fruit", "bramble berry"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "food", "gardening"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A brand of mobile devices and services known for secure messaging and email (historically prominent in business contexts).",
+          "examples": [
+            "He used a Blackberry to message his colleagues.",
+            "Blackberry devices were popular in the early 2000s."
+          ],
+          "collocations": [
+            "Blackberry device",
+            "Blackberry Messenger",
+            "Blackberry email",
+            "Blackberry security"
+          ],
+          "synonyms": ["BlackBerry phone", "BlackBerry device"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "business", "communication"]
+        }
+      ]
+    },
+    {
+      "term": "blackberrying",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "The activity of picking or gathering blackberries.",
+          "examples": [
+            "We spent the afternoon blackberrying along the hedgerows.",
+            "Children enjoy blackberrying in late summer."
+          ],
+          "collocations": [
+            "go blackberrying",
+            "blackberrying trip",
+            "blackberrying season"
+          ],
+          "synonyms": ["picking berries", "berry picking"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "outdoors", "leisure"]
+        }
+      ]
+    },
+    {
+      "term": "blackbird",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A common name for several dark-plumed birds, especially the European blackbird (Turdus merula) and related species.",
+          "examples": [
+            "A blackbird sang from the tree this morning.",
+            "The blackbird is a familiar songbird in many gardens."
+          ],
+          "collocations": [
+            "European blackbird",
+            "blackbird song",
+            "blackbird in a hedge"
+          ],
+          "synonyms": ["crow", "raven"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "biology", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "blackboard",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A smooth, dark surface (traditionally slate) used for writing with chalk in classrooms.",
+          "examples": [
+            "The teacher wrote the maths problem on the blackboard.",
+            "She erased the board and started a new example."
+          ],
+          "collocations": [
+            "chalk on the blackboard",
+            "blackboard lesson",
+            "wipe the blackboard"
+          ],
+          "synonyms": ["chalkboard"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "general"]
+        }
+      ]
+    }
+  ]
+}

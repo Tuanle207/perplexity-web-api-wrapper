@@ -1,0 +1,469 @@
+{
+  "items": [
+    {
+      "term": "blob",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a soft, shapeless mass of liquid or semi-solid substance",
+          "examples": ["A blob of toothpaste on the brush.", "The jelly formed a blob on the plate."],
+          "collocations": ["a blob of", "blobby mass", "ink blob", "blob of jelly"],
+          "synonyms": ["glop", "lump", "mass"],
+          "antonyms": ["spot", "particle"],
+          "register": "informal",
+          "domain": ["everyday", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a single unit of a data object in computing or a rounded shape in graphics",
+          "examples": ["The SVG graphic displays a blue blob shape.", "Draw a blob as a rounded node in the diagram."],
+          "collocations": ["data blob", "graphical blob", "blob shape"],
+          "synonyms": ["mass", "node (in graphics)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "blobbed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of blob; to form or become a blob",
+          "examples": ["The paint blobbed on the canvas as it dried.", "The jelly blobbed into the bowl."],
+          "collocations": ["blobbed out", "blobbed onto", "blobbed together"],
+          "synonyms": ["coalesced", "congealed"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "blobber",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who makes blobs or who is shaped like a blob (informal/metaphoric)",
+          "examples": ["The blobber added a glossy finish to the sculpture.", "The character is a silly blobber in the comic."],
+          "collocations": ["blubber", "blobber of"], 
+          "synonyms": ["glop-maker", "mass-builder"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "blobbier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "more blob-like; having more blob characteristics",
+          "examples": ["The blobbier shape is less angular.", "A blobbier texture hides the seams."],
+          "collocations": ["blobbier than", "blobbier shape", "blobbier texture"],
+          "synonyms": ["lumpier", "more amorphous"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["design", "art", "general"]
+        }
+      ]
+    },
+    {
+      "term": "blobbiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "most blob-like; having the most blob characteristics",
+          "examples": ["This version is the blobbgiest of all the models.", "A blobbliest, soft-edged form appears in the UI."],
+          "collocations": ["blobbiiest form", "most blobby"],
+          "synonyms": ["lumpiest", "most amorphous"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["design", "graphics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "blobbiness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being blob-like; shapeless or soft in form",
+          "examples": ["The blobbiness of the logo makes it hard to recognize.", "Reduce blobbiness for a crisper shape."],
+          "collocations": ["extreme blobbiness", "reduce blobbiness", "visual blobbiness"],
+          "synonyms": ["amorphousness", "lumpiness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["design", "graphics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "blobbing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "forming blobs or spreading in a blob-like way",
+          "examples": ["The ink started blobbing as it touched the damp paper.", "The sauce is blobbing over the edge of the bowl."],
+          "collocations": ["blobbing into", "blobbing out", "blobbing process"],
+          "synonyms": ["coalescing", "bulking"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["kitchen", "art", "general"]
+        }
+      ]
+    },
+    {
+      "term": "blobby",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "soft, shapeless, or resembling a blob",
+          "examples": ["The blobby jelly fell from the spoon.", "A blobby shape on the screen obscured the text."],
+          "collocations": ["blobby shape", "blobby texture", "blobby jelly"],
+          "synonyms": ["amorphous", "lumpy"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food", "design", "general"]
+        }
+      ]
+    },
+    {
+      "term": "blobs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of blob; multiple soft, shapeless masses",
+          "examples": ["There are blobs of paint on the palette.", "The screen shows many color blobs."],
+          "collocations": ["paint blobs", "color blobs", "blob-like blobs"],
+          "synonyms": ["lumps", "masses"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["art", "design", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloc",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a group of people or countries with common interests forming a political or economic alliance",
+          "examples": ["The economic bloc agreed on trade rules.", "A bloc of neighboring countries joined the new pact."],
+          "collocations": ["economic bloc", "bloc of", "military bloc"],
+          "synonyms": ["coalition", "alliance", "group"],
+          "antonyms": ["united front", "opposition"],
+          "register": "formal",
+          "domain": ["politics", "economy", "general"]
+        }
+      ]
+    },
+    {
+      "term": "blocage",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an obstacle or blockage in French used in English contexts as a term for blockage (rare)",
+          "examples": ["They faced a blocage at the border.", "The river's blocage slowed shipping."],
+          "collocations": ["financial blocage", "blocage at entry"],
+          "synonyms": ["blockage", "obstruction"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "logistics", "geopolitics"]
+        }
+      ]
+    },
+    {
+      "term": "block",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a solid piece of material with flat sides; a section of wood or stone",
+          "examples": ["A wooden block.", "Place the block under the leg to level it."],
+          "collocations": ["ice block", "sleep block", "block of wood", "block system"],
+          "synonyms": ["cube", "slab"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "construction"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a piece of a game board or a section of a route; a segment",
+          "examples": ["The street block is three blocks long.", "Cross the block to reach the park."],
+          "collocations": ["time block", "block of time", "city block"],
+          "synonyms": ["section", "segment"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "planning"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to stop or slow the progress of something; to obstruct",
+          "examples": ["They blocked the road with cones.", "New rules block access to the site."],
+          "collocations": ["block traffic", "block access", "block out"],
+          "synonyms": ["hinder", "impede", "obstruct"],
+          "antonyms": ["enable", "allow"],
+          "register": "neutral",
+          "domain": ["traffic", "law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "blockable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being blocked or prevented",
+          "examples": ["The firewall is blockable by updates.", "Blockable content can be restricted by filters."],
+          "collocations": ["blockable threat", "blockable content", "blockable feature"],
+          "synonyms": ["preventable", "restrictable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "security"]
+        }
+      ]
+    },
+    {
+      "term": "blockade",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an effort to stop people or goods from entering or leaving a place, usually by force or law",
+          "examples": ["The port was under a naval blockade.", "The blockade restricted trade."],
+          "collocations": ["naval blockade", "economic blockade", "blockade action"],
+          "synonyms": ["block", "obstruction", "siege"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "military", "law"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to prevent people or goods from entering or leaving a place by force or law",
+          "examples": ["They blockade the river as a defense.", "The city was blockaded for weeks."],
+          "collocations": ["blockade the coast", "blockade the port"],
+          "synonyms": ["blockade (verb)", "seal off"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "military"]
+        }
+      ]
+    },
+    {
+      "term": "blockaded",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of blockade; prevented access or entry",
+          "examples": ["The harbor was blockaded for days.", "The supply line was blockaded by forces."],
+          "collocations": ["blockaded area", "blockaded port"],
+          "synonyms": ["blocked", "sealed off"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["military", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "blockader",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one who participates in a blockade; a blocker",
+          "examples": ["The blockader prevented ships from entering the harbor.", "Blockaders gathered to enforce the blockade."],
+          "collocations": ["blockader force", "blockade blockades"],
+          "synonyms": ["blocker", "enforcer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["military", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "blockaders",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of blockader; multiple participants in a blockade",
+          "examples": ["The blockaders stood by the waterfront.", "Blockaders prepared equipment for the protest."],
+          "collocations": ["blockaders group", "blockaders and supporters"],
+          "synonyms": ["blockers", "enforcers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["military", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "blockaderunning",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a compound noun referring to running a blockade; activity of blockade enforcement",
+          "examples": ["Blockaderunning disrupted supply lines.", "They discussed blockaderunning strategies."],
+          "collocations": ["blockaderunning plan", "illegal blockaderunning"],
+          "synonyms": ["blockade running"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["military", "logistics"]
+        }
+      ]
+    },
+    {
+      "term": "blockades",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of blockade; multiple blockades",
+          "examples": ["Several blockades prevented imports.", "The blockades were lifted after the treaty."],
+          "collocations": ["economic blockades", "military blockades", "blockades and sanctions"],
+          "synonyms": ["blockages", "sieges"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "military", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "blockading",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of blockade; actively enforcing a blockade",
+          "examples": ["They are blockading the port to force negotiations.", "Blockading ships prevented cargo from leaving."],
+          "collocations": ["blockading port", "blockading ships"],
+          "synonyms": ["enforcing blockade", "sealing off"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["military", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "blockage",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an obstruction that stops movement or flow",
+          "examples": ["There is a blockage in the drainage pipe.", "The blockage caused flooding."],
+          "collocations": ["arterial blockage", "blockage of the artery", "airway blockage"],
+          "synonyms": ["obstruction", "clog"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "engineering", "general"]
+        }
+      ]
+    },
+    {
+      "term": "blockages",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of blockage; multiple obstructions",
+          "examples": ["Blockages in the pipes require a plumber.", "Blockages can cause pressure buildup."],
+          "collocations": ["blockages in", "remove blockages"],
+          "synonyms": ["obstructions", "clogs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "blockboard",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a board made of blocks or a type of engineered wood used in construction",
+          "examples": ["Install a blockboard shelf.", "Blockboard is used for internal partitions."],
+          "collocations": ["blockboard panel", "blockboard sheet"],
+          "synonyms": ["block wood", "engineered wood"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction", "decor"]
+        }
+      ]
+    },
+    {
+      "term": "blockboards",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of blockboard; multiple boards of this type",
+          "examples": ["Blockboards were cut to fit the shelves.", "They used several blockboards for the project."],
+          "collocations": ["blockboard panels", "blockboard sheets"],
+          "synonyms": ["block boards"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "blockbust",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large block or blockbuster item (rare; usually encountered as part of a compound)",
+          "examples": ["They released a blockbust for the festival.", "The old term blockbust is not common in modern usage."],
+          "collocations": ["blockbust movie", "blockbust event"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["entertainment", "marketing"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "items": [
+    {
+      "term": "bouncing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of bouncing or repeatedly rising after impact; lively or energetic",
+          "examples": ["a bouncing ball", "a bouncing baby", "a bouncing personality"],
+          "collocations": ["bouncing ball", "bouncing castle", "bouncing greatly"],
+          "synonyms": ["springy", "resilient", "bouncy"],
+          "antonyms": ["stagnant", "soft", "heavy"],
+          "register": "neutral",
+          "domain": ["general", "technology", "sports"]
+        },
+        {
+          "pos": "gerund",
+          "definition": "the action of moving up and down or rebounding after contact",
+          "examples": ["The ball is bouncing on the floor.", "She was bouncing ideas off him."],
+          "collocations": ["bouncing ball", "bouncing around", "bouncing back"],
+          "synonyms": ["rebounding", "springing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "sports", "education"]
+        }
+      ]
+    },
+    {
+      "term": "bouncingly",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that bounces or with lively, energetic movement",
+          "examples": ["He stepped bouncingly across the room.", "The ball moved bouncingly on the court."],
+          "collocations": ["move bouncingly", "bounce bouncingly"],
+          "synonyms": ["bouncily", "livelily"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+        ]
+    },
+    {
+      "term": "bouncy",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to bounce or lively and resilient",
+          "examples": ["a bouncy ball", "a bouncy castle", "the floor feels bouncy"],
+          "collocations": ["bouncy ball", "bouncy castle", "bouncy hair"],
+          "synonyms": ["springy", "bouncy"],
+          "antonyms": ["stiff", "rigid"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bound",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to leap or spring; to move by jumping",
+          "examples": ["The cat bounded onto the table.", "A deer bounded across the field."],
+          "collocations": ["bound ahead", "bound off", "bound across"],
+          "synonyms": ["jump", "leap", "spring"],
+          "antonyms": ["crawl", "crawl", "sit"],
+          "register": "neutral",
+          "domain": ["general", "nature"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a sudden move forward or upward; a limit or edge within which something operates",
+          "examples": ["He reached the speed bound.", "The fence marks the boundary between properties."],
+          "collocations": ["speed bound", "legal bound", "boundary bound"],
+          "synonyms": ["limit", "edge", "mark"],
+          "antonyms": ["unboundedness", "freedom"],
+          "register": "neutral",
+          "domain": ["general", "law", "geography"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "certain or destined to happen; compelled or obligated",
+          "examples": ["bound to fail", "bound for glory"],
+          "collocations": ["bound to", "bound for"],
+          "synonyms": ["certain", "destined"],
+          "antonyms": ["unbound", "free"],
+          "register": "neutral",
+          "domain": ["general", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "boundable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being bound or tied; capable of being determined or limited",
+          "examples": ["a boundable contract term", "boundable by the law"],
+          "collocations": ["boundable term", "boundable by"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "boundaries",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the dividing lines or edges that separate areas or things",
+          "examples": ["property boundaries", "personal boundaries"],
+          "collocations": ["property boundaries", "social boundaries", "fence boundaries"],
+          "synonyms": ["limits", "edges", "frontiers"],
+          "antonyms": ["unboundedness", "center"],
+          "register": "neutral",
+          "domain": ["general", "geography", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "boundary",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a line that marks the edge or limit of something",
+          "examples": ["the boundary between day and night", "a boundary wall"],
+          "collocations": ["national boundary", "boundary line", "boundary marker"],
+          "synonyms": ["limit", "border"],
+          "antonyms": ["center", "interior"],
+          "register": "neutral",
+          "domain": ["general", "geography", "law"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to limit or confine within a boundary",
+          "examples": ["Policies bound immigration to specific regions."],
+          "collocations": ["bound within", "boundaries bound"],
+          "synonyms": ["limit", "restrain"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "boundaryless",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without boundaries; limitless or unrestricted",
+          "examples": ["a boundaryless future", "boundaryless exploration"],
+          "collocations": ["boundaryless future", "boundaryless society"],
+          "synonyms": ["unbounded", "limitless"],
+          "antonyms": ["bounded", "defined"],
+          "register": "neutral",
+          "domain": ["general", "idea"]
+        }
+      ]
+    },
+    {
+      "term": "bounded",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having defined or limited boundaries; confined",
+          "examples": ["bounded by a fence", "a bounded region"],
+          "collocations": ["bounded by", "clearly bounded"],
+          "synonyms": ["confined", "restricted"],
+          "antonyms": ["unbounded", "free"],
+          "register": "neutral",
+          "domain": ["general", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "boundedly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner that is bounded or limited",
+          "examples": ["The area was boundedly explored."],
+          "collocations": ["boundedly explored"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "boundedness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of having defined limits or boundaries",
+          "examples": ["the boundedness of the region", "social boundedness"],
+          "collocations": ["geographic boundedness", "boundedness of terms"],
+          "synonyms": ["limits", "restriction"],
+          "antonyms": ["unboundedness"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "boundednesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of boundedness; multiple instances of defined limits",
+          "examples": ["the boundednesses of different regions"],
+          "collocations": ["different boundednesses"],
+          "synonyms": ["limits"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bounden",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "obligated or bound by duty (archaic/literary use)",
+          "examples": ["bounden duty", "bounden to keep faith"],
+          "collocations": ["bounden duty", "bounden oath"],
+          "synonyms": ["obliged", "duty-bound"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bounder",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a man who behaves badly or in a socially improper way; a rogue",
+          "examples": ["a charming bounder with a reputation", "the silly bounder swaggered into the room"],
+          "collocations": ["lady-killer bounder", "notorious bounder"],
+          "synonyms": ["rascal", "cad", "rogue"],
+          "antonyms": ["gentleman", "sir"],
+          "register": "neutral",
+          "domain": ["general", "society"]
+        }
+      ]
+    },
+    {
+      "term": "bounderish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having characteristics of a bounder; dishonorable or brash",
+          "examples": ["a bounderish grin", "bounderish manners"],
+          "collocations": ["bounderish behavior"],
+          "synonyms": ["rascally", "rakish"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bounderishly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a bounderish manner",
+          "examples": ["he laughed bounderishly"],
+          "collocations": ["behave bounderishly"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bounders",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bounder; multiple bounders",
+          "examples": ["Several bounders entered the room."],
+          "collocations": ["notorious bounders"],
+          "synonyms": ["rascals", "cad"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bounding",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of leaping or springing",
+          "examples": ["a jump with a wide bounding"], 
+          "collocations": ["high bounding", "loose bounding"],
+          "synonyms": ["leaping", "springing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        },
+        {
+          "pos": "gerund",
+          "definition": "moving by leaps or bounds; rapidly increasing",
+          "examples": ["sales are bounding upward this quarter."],
+          "collocations": ["bounding upward", "bounding movement"],
+          "synonyms": ["soaring", "surging"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "boundingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a boundingly manner; with leaps or bounds",
+          "examples": ["the crowd moved boundingly toward the stage."],
+          "collocations": ["move boundingly"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "boundless",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without any limit or end; unlimited",
+          "examples": ["boundless energy", "boundless curiosity"],
+          "collocations": ["boundless energy", "boundless possibilities"],
+          "synonyms": ["limitless", "infinite"],
+          "antonyms": ["bounded", "finite"],
+          "register": "neutral",
+          "domain": ["general", "idea"]
+        }
+      ]
+    },
+    {
+      "term": "boundlessly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in an unlimited or unbounded way",
+          "examples": ["the landscape stretched boundlessly ahead"],
+          "collocations": ["move boundlessly", "dream boundlessly"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "boundlessness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being without limits or boundaries",
+          "examples": ["the boundlessness of the ocean"],
+          "collocations": ["vast boundlessness"],
+          "synonyms": ["limitlessness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "boundlessnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of boundlessness; multiple states of being limitless",
+          "examples": ["various boundlessnesses in the era"],
+          "collocations": ["different boundlessnesses"],
+          "synonyms": ["limits", "unboundedness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "boundly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a bound manner; with a short, stiff movement",
+          "examples": ["the dog walked boundly before lying down"],
+          "collocations": ["move boundly"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "boundness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being bounded or confined",
+          "examples": ["a sense of boundness in the policy"],
+          "collocations": ["boundness of terms"],
+          "synonyms": ["limits", "constraint"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "items": [
+    {
+      "term": "biti",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "unknown",
+          "definition": "No widely recognized sense in contemporary English; appears to be a placeholder or non-English term.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "biting",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Causing a sharp, stinging, or painful sensation; can describe cold weather or keen wit.",
+          "examples": [
+            "The biting wind made my cheeks numb.",
+            "Her biting critique cut to the heart of the issue."
+          ],
+          "collocations": ["biting cold", "biting wind", "biting sarcasm", "biting wit"],
+          "synonyms": ["sharp", "piercing", "acrimonious"],
+          "antonyms": ["gentle", "mild", "soft"],
+          "register": "neutral",
+          "domain": ["general", "weather", "literary"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A small piece or fragment that has been bitten off, or the act of chewing with the teeth.",
+          "examples": [
+            "She took a bite of the apple.",
+            "The dog gave a quick bite."
+          ],
+          "collocations": ["first bite", "bite size", "jaw bite", "biting together"],
+          "synonyms": ["chew", "nibble", "morsel"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "food"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To use the teeth to cut or grip something; to chew.",
+          "examples": [
+            "The dog began biting at the sleeve.",
+            "Be careful not to bite your tongue."
+          ],
+          "collocations": ["biting at", "bite back", "bite into", "bite down"],
+          "synonyms": ["chew", "gnaw", "nibble"],
+          "antonyms": ["let go", "release"],
+          "register": "neutral",
+          "domain": ["general", "animals", "food"]
+        }
+      ]
+    },
+    {
+      "term": "bitingly",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a way that shows sharp, critical, and often cruel wit or tone.",
+          "examples": [
+            "She spoke bitingly about the policy failures.",
+            "His bitingly honest review stung a little."
+          ],
+          "collocations": ["bitingly sarcastic", "bitingly critical", "bitingly cold"],
+          "synonyms": ["acutely", "cruelly", "sarcastically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "bitingness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality of being biting—sharp, caustic, or severe in tone or effect.",
+          "examples": [
+            "The bitingness of his satire was evident.",
+            "Her writing has a bitingness that captures attention."
+          ],
+          "collocations": ["psychological bitingness", "social bitingness"],
+          "synonyms": ["sharpness", "causticity", "acerbity"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bitings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Instances of biting; plural of bite or the act of biting.",
+          "examples": [
+            "The horse took several bitings at the carrot.",
+            "Mosquito bitings were everywhere."
+          ],
+          "collocations": ["mosquito bitings", "dog bitings", "bitings occurred"],
+          "synonyms": ["bites", "nips"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "animals", "health"]
+        }
+      ]
+    },
+    {
+      "term": "bitis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A Latin-derived medical or botanical term; could refer to a genus name within context, or be a misspelling of 'bite' or 'bitis' (a genus of vipers). Context needed.",
+          "examples": [
+            "The specimen was classified within the Bitis genus.",
+            "Bitis venom is potent."
+          ],
+          "collocations": ["Bitis genus", "Bitis venom"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bitless",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not wearing a bit in the mouth, especially a horse bit; used to describe riding without a bit.",
+          "examples": [
+            "The horse is trained bitless with a bridle alternative.",
+            "Bitless riding can be gentler on the horse."
+          ],
+          "collocations": ["bitless bridle", "bitless reins", "bitless riding"],
+          "synonyms": ["without a bit", "muzzle-free"],
+          "antonyms": ["bited", "bit-reined"],
+          "register": "neutral",
+          "domain": ["general", "equestrian", "animal-welfare"]
+        }
+      ]
+    },
+    {
+      "term": "bitmap",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A grid of tiny picture elements (pixels) used to store digital images.",
+          "examples": [
+            "The bitmap image loaded slowly.",
+            "He saved the screenshot as a bitmap."
+          ],
+          "collocations": ["bitmap image", "bitmap file", "bitmap graphics"],
+          "synonyms": ["raster image", "pixel map"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bitmapped",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Represented as a bitmap; described using a grid of pixels.",
+          "examples": [
+            "The bitmapped display showed clear, sharp edges.",
+            "Bitmapped fonts render differently on screens."
+          ],
+          "collocations": ["bitmapped image", "bitmapped font", "bitmapped graphics"],
+          "synonyms": ["rasterized"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "graphics"]
+        }
+      ]
+    },
+    {
+      "term": "bitmapping",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process of converting images into bitmap format or mapping bits to pixels.",
+          "examples": [
+            "Bitmapping converts vector graphics to raster data.",
+            "Bitmapping is common in image processing."
+          ],
+          "collocations": ["bitmapping process", "bitmap mapping", "bitmapping software"],
+          "synonyms": ["rasterization", "pixel mapping"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "computer-science"]
+        }
+      ]
+    },
+    {
+      "term": "bitmaps",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple bitmap images; collections of raster graphics.",
+          "examples": [
+            "The gallery contains several bitmaps of landscapes.",
+            "Compare the bitmaps to choose the best one."
+          ],
+          "collocations": ["image bitmaps", "bitmap files", "web bitmaps"],
+          "synonyms": ["rasters", "bitmap images"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bitnet",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A historical computer network (BITNET) used in the 1980s for academic email and file transfer; now largely obsolete.",
+          "examples": [
+            "BITNET connected universities worldwide in the 1980s.",
+            "Old documents refer to BITNET as a precursor to the Internet era."
+          ],
+          "collocations": ["BITNET network", "BITNET email"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bito",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A unit of currency or shorthand in some languages; may be a proper noun or product name depending on context; otherwise not common in general English.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "bitolyl",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A chemical term likely referring to a bitolyl group in organic chemistry; not common in everyday usage.",
+          "examples": [
+            "The compound contains a bitolyl substituent."
+          ],
+          "collocations": ["bitolyl group", "bitolyl derivative"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bitonal",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to two tones or to two distinct pitches or colors; used in music or color theory.",
+          "examples": [
+            "Bitonal music uses two different keys.",
+            "Bitonal printing creates two-tone images."
+          ],
+          "collocations": ["bitonal color", "bitonal music", "bitonal image"],
+          "synonyms": ["two-toned", "duotone"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "art", "design"]
+        }
+      ]
+    },
+    {
+      "term": "bitonalities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple bitonal qualities; plural of bitonality, referring to use of two tones or keys in music or color contexts.",
+          "examples": [
+            "The piece explores various bitonalities.",
+            "Bitonalities create a clash of colors in the painting."
+          ],
+          "collocations": ["different bitonalities", "emerging bitonalities"],
+          "synonyms": ["bitonality varieties"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "art"]
+        }
+      ]
+    },
+    {
+      "term": "bitonality",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The use of two different tonal centers or keys in music; or in graphics, the use of two distinct tones or colors.",
+          "examples": [
+            "Bitonality was popular among some early 20th-century composers.",
+            "The design relies on bitonality to create contrast."
+          ],
+          "collocations": ["tonal bitonality", "musical bitonality", "bitonality theory"],
+          "synonyms": ["two-tone harmony", "duotonal structure"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "art"]
+        }
+      ]
+    },
+    {
+      "term": "bitore",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Uncommon or undefined term; may be a misspelling or a niche term in a specific field.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "bitos",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Unclear; appears to be a plural form that does not correspond to a common English headword without context.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "bitou",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Unclear; may be a proper noun or transliteration in specific languages; not a standard English term.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "bitrate",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The amount of data processed in a second in a digital communication system; measured in bits per second.",
+          "examples": [
+            "The video streams at a high bitrate.",
+            "Lower the bitrate to reduce data usage."
+          ],
+          "collocations": ["bitrate", "high bitrate", "low bitrate", "bitrate settings"],
+          "synonyms": ["data rate", "bit rate"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "communication", "multimedia"]
+        }
+      ]
+    },
+    {
+      "term": "bitrates",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple data rates; plural of bitrate.",
+          "examples": [
+            "The player supports several bitrates.",
+            "Choose a bitrate suitable for your connection."
+          ],
+          "collocations": ["several bitrates", "adapt bitrates"],
+          "synonyms": ["data rates"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "communication"]
+        }
+      ]
+    },
+    {
+      "term": "bitreadle",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Unclear; does not correspond to a common English term.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "bitripartite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Divided into three parts or sections; used in mathematical or organizational contexts.",
+          "examples": [
+            "A bitripartite structure divides the project into three parts."
+          ],
+          "collocations": ["bitripartite division", "bitripartite graph"],
+          "synonyms": ["tri-partite", "three-part"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["math", "science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bitripinnatifid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "A botanical term describing a leaf or structure that is divided into three pinnae or lobes with deep cutting; highly technical.",
+          "examples": [
+            "The plant displays a bitripinnatifid leaf shape."
+          ],
+          "collocations": ["bitripinnatifid leaf", "bitripinnatifid morphology"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["botany", "biology"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "items": [
+    {
+      "term": "body",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the physical structure of a person or animal, including the torso, limbs, and not including the head and limbs separately",
+          "examples": [
+            "She hurt her body during the crash.",
+            "His body was found lying on the ground."
+          ],
+          "collocations": ["body temperature", "body mass", "naked body", "human body", "body parts", "body shape"],
+          "synonyms": ["physique", "frame", "torso (part)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the main part or main thing of something, not including the separate or outer parts",
+          "examples": [
+            "The body of the report covers the results.",
+            "The body of the car is damaged, not the engine."
+          ],
+          "collocations": ["the body of", "body of evidence", "body of text"],
+          "synonyms": ["main part", "substance"],
+          "antonyms": ["apparent part", "outline"],
+          "register": "formal",
+          "domain": ["general", "academic"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the main group of people or things in a class or category",
+          "examples": [
+            "The body of lawmakers approved the bill.",
+            "Her body of work includes several novels."
+          ],
+          "collocations": ["body of laws", "body of work", "body of evidence"],
+          "synonyms": ["group", "collection"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "bodybending",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fictional or specialized term, usually referring to the bending or manipulation of the body, often in fantasy or sport contexts",
+          "examples": [
+            "In the movie, the hero demonstrates bodybending to dodge attacks."
+          ],
+          "collocations": ["bodybending technique", "advanced bodybending"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fantasy", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodyboard",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small, rectangular board used for riding waves while lying on the stomach.",
+          "examples": [
+            "He bought a new bodyboard for the trip to the beach.",
+            "Bodyboarding is easier for beginners than surfing."
+          ],
+          "collocations": ["bodyboard", "bodyboard lesson", "bodyboard fins"],
+          "synonyms": ["boogie board"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodyboarded",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to ride waves on a bodyboard, usually lying on the stomach.",
+          "examples": [
+            "They bodyboarded all afternoon in the warm water.",
+            "She bodyboarded while her brother surfed."
+          ],
+          "collocations": ["bodyboarded down the beach", "bodyboarded to shore"],
+          "synonyms": ["boogie-boarded"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodyboarder",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who rides waves on a bodyboard.",
+          "examples": [
+            "The beach was crowded with bodyboarders.",
+            "She told me she used to be a competitive bodyboarder."
+          ],
+          "collocations": ["professional bodyboarder", "young bodyboarder"],
+          "synonyms": ["boogie boarder"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodyboarders",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bodyboarder; multiple people who ride bodyboards.",
+          "examples": [
+            "The competition attracted several bodyboarders from around the coast.",
+            "Bodyboarders trained together on weekends."
+          ],
+          "collocations": ["group of bodyboarders", "local bodyboarders"],
+          "synonyms": ["bodyboard players"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodyboarding",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the sport or activity of riding waves on a bodyboard.",
+          "examples": [
+            "Bodyboarding is less intimidating than surfing for beginners.",
+            "They spent the morning practicing bodyboarding."
+          ],
+          "collocations": ["learn bodyboarding", "competitive bodyboarding"],
+          "synonyms": ["boogie boarding"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodyboardings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form referring to instances or sessions of bodyboarding.",
+          "examples": [
+            "Two bodyboardings took place yesterday at the same beach."
+          ],
+          "collocations": ["two bodyboardings", "summer bodyboardings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodyboards",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "boards used for bodyboarding.",
+          "examples": [
+            "He bought two bodyboards for the family trip.",
+            "They adjusted the fins on their bodyboards."
+          ],
+          "collocations": ["two bodyboards", "rigid bodyboards"],
+          "synonyms": ["boogie boards"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodybuild",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to exercise and train to develop the body's muscles; to increase muscle size.",
+          "examples": [
+            "He spends hours each day bodybuilding at the gym.",
+            "She plans to compete in bodybuilding competitions."
+          ],
+          "collocations": ["bodybuild daily", "professional bodybuilding", "amateur bodybuilding"],
+          "synonyms": ["musclebuilding"],
+          "antonyms": ["atrophy", "weaken"],
+          "register": "neutral",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodybuilder",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who builds their muscles through intensive training.",
+          "examples": [
+            "The bodybuilder won the competition.",
+            "She is a famous female bodybuilder."
+          ],
+          "collocations": ["professional bodybuilder", "amateur bodybuilder", "female bodybuilder"],
+          "synonyms": ["muscleman", "weightlifter (context)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodybuilders",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bodybuilder; multiple people who build their muscles.",
+          "examples": [
+            "The gym attracts many aspiring bodybuilders."
+          ],
+          "collocations": ["group of bodybuilders", "local bodybuilders"],
+          "synonyms": ["musclebuilders"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodybuilding",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the activity or sport of developing the body's muscles through exercise and nutrition.",
+          "examples": [
+            "He follows a strict bodybuilding routine.",
+            "Bodybuilding requires discipline and diet control."
+          ],
+          "collocations": ["competitive bodybuilding", "professional bodybuilding"],
+          "synonyms": ["musclebuilding"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodybuildings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form referring to multiple buildings involved in bodybuilding contexts or possibly errors for 'body buildings'; not a standard term.",
+          "examples": [
+            "There are several bodybuildings nearby, but this usage is uncommon."
+          ],
+          "collocations": ["body buildings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodycheck",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a check of a person's body, or a procedure to verify identity or health; in sports, a hit to the body of an opponent.",
+          "examples": [
+            "The doctor performed a quick bodycheck.",
+            "The hockey player delivered a hard bodycheck."
+          ],
+          "collocations": ["bodycheck procedure", "legal bodycheck", "bodycheck in hockey"],
+          "synonyms": ["body check"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "sport"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to inspect or verify a person's body or health; to hit an opponent in sports by contacting the body.",
+          "examples": [
+            "Security will bodycheck travelers before boarding.",
+            "The defender bodychecked the striker."
+          ],
+          "collocations": ["bodycheck someone", "perform a bodycheck"],
+          "synonyms": ["body check"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "sport"]
+        }
+      ]
+    },
+    {
+      "term": "bodychecked",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bodycheck; performed a check or hit to someone's body.",
+          "examples": [
+            "The player bodychecked the opponent and was penalized.",
+            "She bodychecked the bag to confirm its contents."
+          ],
+          "collocations": ["bodychecked by security", "bodychecked the door"],
+          "synonyms": ["body-checked"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodychecking",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of checking or hitting someone with the body in sports; also the act of inspecting a body.",
+          "examples": [
+            "Bodychecking is allowed in some leagues but regulated in others."
+          ],
+          "collocations": ["legal bodychecking", "bodychecking technique"],
+          "synonyms": ["body check"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodychecks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bodycheck; instances of bodychecks.",
+          "examples": [
+            "Several bodychecks occurred during the game."
+          ],
+          "collocations": ["series of bodychecks"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodyguard",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person employed to protect someone from danger.",
+          "examples": [
+            "The celebrity arrived with a team of bodyguards.",
+            "Her bodyguard stood at the door."
+          ],
+          "collocations": ["head of bodyguard", "security and bodyguard"],
+          "synonyms": ["escort", "protector"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["security", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodyguarded",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to protect someone by guarding them.",
+          "examples": [
+            "He guarded and bodyguarded the actor all night."
+          ],
+          "collocations": ["bodyguarded the VIP"],
+          "synonyms": ["protected"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["security", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodyguarding",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of protecting someone by guarding them; the profession of being a bodyguard.",
+          "examples": [
+            "Bodyguarding requires vigilance and discretion."
+          ],
+          "collocations": ["professional bodyguarding", "bodyguarding duty"],
+          "synonyms": ["protection work"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["security", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodyguards",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple people who protect someone by guarding them.",
+          "examples": [
+            "The singer arrived with several bodyguards.",
+            "Bodyguards escorted him to the car."
+          ],
+          "collocations": ["team of bodyguards", "local bodyguards"],
+          "synonyms": ["protectors"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["security", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodyhood",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or condition of having a body; embodiment of the physical self.",
+          "examples": [
+            "Body image and bodyhood can affect self-esteem."
+          ],
+          "collocations": ["sense of bodyhood", "bodyhood identity"],
+          "synonyms": ["corporal existence"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["psychology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bodying",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare or nonstandard form; not widely used as a standalone sense.",
+          "examples": [
+            "The term bodying is seldom used in modern English."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bodykins",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a playful or affectionate term for a person’s body or body part; not a standard dictionary entry but may appear in informal speech or humor.",
+          "examples": [
+            "The tiny bruise on her arm reminded me of my sweet baby bodykins."
+          ],
+          "collocations": ["little bodykins", "bodykins nickname"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["informal", "humor"]
+        }
+      ]
+    }
+  ]
+}

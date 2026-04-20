@@ -1,0 +1,528 @@
+{
+  "items": [
+    {
+      "term": "breast",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the upper front part of the human chest that contains the breasts in women and the pectoral muscles in men",
+          "examples": [
+            "She covered her breasts with a scarf.",
+            "Breast cancer screening is important for early detection."
+          ],
+          "collocations": ["breast cancer", "breast milk", "breastbone", "breastplate", "breastfeed"],
+          "synonyms": ["bosom", "chest"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "health", "body"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the front part of a garment that covers the chest area; a bra or chest covering",
+          "examples": [
+            "She wore a pink cardigan over her breast.",
+            "The jacket has a quilted breast section."
+          ],
+          "collocations": ["breast pocket", "breast area", "breastplate (armor)"],
+          "synonyms": ["chest area", "front of garment"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "clothing", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the front part of a poultry or animal body, especially the breast meat",
+          "examples": [
+            "We grilled the chicken breasts.",
+            "Turkey breast is lean protein."
+          ],
+          "collocations": ["chicken breast", "breast meat", "breast filing"],
+          "synonyms": ["pectoralis meat"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "cookery", "health"]
+        }
+      ]
+    },
+    {
+      "term": "breastband",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a band worn around the chest, historically used as a supportive or decorative item (rare; specialized term)",
+          "examples": [
+            "The ancient costume included a decorative breastband.",
+            "In some ceremonial outfits, a breastband indicates rank."
+          ],
+          "collocations": ["breastband of"),
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "fashion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "breastbeam",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a beam or structural member that runs across the breast of a building or object (rare architectural term)",
+          "examples": [
+            "The breastbeam supports the upper frame of the gateway.",
+            "In timber framing, the breastbeam ties the posts together."
+          ],
+          "collocations": ["breastbeam construction"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["architecture", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "breastbone",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the sternum; a flat bone at the center of the chest to which ribs are attached",
+          "examples": [
+            "The doctor felt his breastbone for any fracture.",
+            "Chest compressions are performed on the breastbone during CPR."
+          ],
+          "collocations": ["breastbone fracture", "sternum", "sternal"],
+          "synonyms": ["sternum"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "breastbones",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of breastbone; the sternums",
+          "examples": [
+            "The ancient skeletons showed broken breastbones.",
+            "Two breastbones were found in the chest cavity."
+          ],
+          "collocations": ["breastbones"],
+          "synonyms": ["sternums"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["anatomy", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "breasted",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a breast or breasts; used in some animal descriptions",
+          "examples": [
+            "A bird with a bright crested breaststed plumage.",
+            "The garment was breasted with decorative fabric."
+          ],
+          "collocations": ["breasted bird", "breasted garment"],
+          "synonyms": ["chested"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "breaster",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an obsolete or dialect term for a person who breastholds or a breastpiece; not common in modern usage",
+          "examples": [
+            "In the old text, the word breaster appears as a craftsman.",
+            "The manuscript mentions a breaster as part of armor."
+          ],
+          "collocations": ["breaster (archaic)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "breastfast",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or dialect term for a meal taken at the breast of a person or during nursing; not common in modern English",
+          "examples": [
+            "The old diary mentions a breastfast at dawn.",
+            "Breastfast is not used in contemporary cooking terms."
+          ],
+          "collocations": ["breastfast (archaic)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "breastfed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to feed a baby with milk from a mother's breast",
+          "examples": [
+            "Many babies are breastfed for the first six months.",
+            "The mother breastfed the infant during the night."
+          ],
+          "collocations": ["breastfed baby", "breastfed for", "breastfeeding"],
+          "synonyms": ["nursed"],
+          "antonyms": ["formula-fed"],
+          "register": "neutral",
+          "domain": ["health", "parenting"]
+        }
+      ]
+    },
+    {
+      "term": "breastfeed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to feed a baby with milk from the mother's breast",
+          "examples": [
+            "She will breastfeed on demand.",
+            "Breastfeed your baby in a quiet room."
+          ],
+          "collocations": ["breastfeed on demand", "breastfeed a baby", "breastfeed successfully"],
+          "synonyms": ["nurse"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "parenting"]
+        }
+      ]
+    },
+    {
+      "term": "breastfeeding",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or practice of feeding a baby with milk from the mother's breast",
+          "examples": [
+            "Breastfeeding provides important nutrients for babies.",
+            "Support for breastfeeding caregivers is common in hospitals."
+          ],
+          "collocations": ["exclusive breastfeeding", "breastfeeding rate", "breastfeeding support"],
+          "synonyms": ["nursing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "parenting"]
+        }
+      ]
+    },
+    {
+      "term": "breastfeedings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of breastfeeding; instances or occurrences of breastfeeding",
+          "examples": [
+            "The study tracked several breastfeedings per day.",
+            "Policies support multiple breastfeedings in childcare settings."
+          ],
+          "collocations": ["breastfeedings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "breastfeeds",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present tense of breastfeed",
+          "examples": [
+            "She breastfeeds her baby during the night.",
+            "Many mothers breastfeeds for several months."
+          ],
+          "collocations": ["breastfeeds on demand"],
+          "synonyms": ["nurses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "parenting"]
+        }
+      ]
+    },
+    {
+      "term": "breastful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "full to the chest or containing much breast area; not a common standard word",
+          "examples": [
+            "The garment appeared breastful to cover modestly.",
+            "A breastful of fabric hung loose."
+          ],
+          "collocations": ["breastful dress"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "breastheight",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an anatomical term for the distance or height at the chest; extremely uncommon",
+          "examples": [
+            "The chart lists breastheight as a measure."
+          ],
+          "collocations": ["breastheight measurement"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["anatomy", "measurement"]
+        }
+      ]
+    },
+    {
+      "term": "breasthook",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a tool or hook used around the breast area of a garment or in metalwork; historically a term in armor or harness",
+          "examples": [
+            "The leatherworker used a breasthook to shape the buckle.",
+            "A breasthook helps secure the breastplate."
+          ],
+          "collocations": ["breasthook for armor"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["craft", "history"]
+        }
+      ]
+    },
+    {
+      "term": "breastie",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an informal or affectionate term for a breast or close friend; dialect usage",
+          "examples": [
+            "He called his sister 'breastie' as a term of endearment.",
+            "A 'breastie' can refer to a cherished companion in some dialects."
+          ],
+          "collocations": ["breastie friend"],
+          "synonyms": ["breastmate"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["colloquial", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "breasting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to move or pass across the chest area; or to rise to face a problem",
+          "examples": [
+            "The swimmer was breasting the waves.",
+            "She is breasting the challenge with courage."
+          ],
+          "collocations": ["breasting the waves", "breasting the challenge"],
+          "synonyms": ["faceing", "confronting"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "idiom"]
+        }
+      ]
+    },
+    {
+      "term": "breastless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without a breast or without prominent chest features; rarely used",
+          "examples": [
+            "The costume was breastless and open at the front."
+          ],
+          "collocations": ["breastless garment"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "breastmark",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mark or scar on the breast; a term found in medical or anatomical descriptions",
+          "examples": [
+            "The breastmark indicated a previous surgery.",
+            "Physicians note any breastmark during examination."
+          ],
+          "collocations": ["breastmark on the chest"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "breastpiece",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a piece of armor or clothing protecting the chest; a breastplate",
+          "examples": [
+            "The knight wore a polished breastpiece as part of his armor.",
+            "The breastpiece protected vital organs during battle."
+          ],
+          "collocations": ["breastpiece armor", "armor breastpiece"],
+          "synonyms": ["breastplate"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "military"]
+        }
+      ]
+    },
+    {
+      "term": "breastpin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a decorative pin worn on the chest, over the breast area",
+          "examples": [
+            "She pinned a breastpin to her blouse.",
+            "The nurse wore a simple breastpin for identification."
+          ],
+          "collocations": ["breastpin", "breastpin badge"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "workplace"]
+        }
+      ]
+    },
+    {
+      "term": "breastpins",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of breastpin; decorative pins worn on the chest",
+          "examples": [
+            "A row of breastpins glinted in the light.",
+            "Military uniforms often include breastpins."
+          ],
+          "collocations": ["breastpins"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "military"]
+        }
+      ]
+    },
+    {
+      "term": "breastplate",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a piece of armor that covers the chest and back to protect the torso",
+          "examples": [
+            "The knight tightened his breastplate before the duel.",
+            "The armor included a heavy breastplate."
+          ],
+          "collocations": ["breastplate armor", "iron breastplate"],
+          "synonyms": ["breastpiece"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "military"]
+        }
+      ]
+    },
+    {
+      "term": "breastplates",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of breastplate; multiple chest armor pieces",
+          "examples": [
+            "The museum displayed several ancient breastplates.",
+            "Medieval knights wore breastplates as part of their armor."
+          ],
+          "collocations": ["breastplates on display"],
+          "synonyms": ["breastpieces"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "military"]
+        }
+      ]
+    }
+  ]
+}

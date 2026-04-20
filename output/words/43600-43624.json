@@ -1,0 +1,500 @@
+{
+  "items": [
+    {
+      "term": "bloodletter",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of herb or plant used for producing blood or for medicinal purposes; historically, a person who practices bloodletting or a symptom of diseases related to blood.",
+          "examples": [
+            "In medieval medicine, a bloodletter was believed to cure illness by drawing blood.",
+            "The old apothecary kept a collection of instruments used by the bloodletter."
+          ],
+          "collocations": ["historical bloodletter", "medieval bloodletter", "bloodletting practitioner"],
+          "synonyms": ["bloodletter (historical)"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodletters",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bloodletter; multiple practitioners or instruments associated with bloodletting in historical contexts.",
+          "examples": [
+            "Several bloodletters visited the town during the outbreak.",
+            "The museum displayed several bloodletters and their tools."
+          ],
+          "collocations": ["bloodletters in history", "collection of bloodletters"],
+          "synonyms": ["bloodletter (plural)"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodletting",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of drawing blood from a person or animal, often for medical or therapeutic purposes; historically a common medical practice.",
+          "examples": [
+            "Bloodletting was once a common medical treatment for many ailments.",
+            "The physician performed bloodletting using a leech or lancet."
+          ],
+          "collocations": ["practice of bloodletting", "medieval bloodletting", "bloodletting treatment"],
+          "synonyms": ["bleeding", "phlebotomy (historical)"],
+          "antonyms": ["blood retention"],
+          "register": "formal",
+          "domain": ["medicine", "history", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to remove blood from someone or something, usually as a medical procedure or metaphorical sense of reducing excess of something.",
+          "examples": [
+            "The physician decided to bloodlet the patient to balance the humors.",
+            "The phrase 'to bloodlet' is rarely used in modern English outside historical discussion."
+          ],
+          "collocations": ["bloodlet a patient", "bloodletting procedure"],
+          "synonyms": ["bleed (historical)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bloodlettings",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form referring to multiple instances or practices of bloodletting; historical or metaphorical references to draining or removing something.",
+          "examples": [
+            "Historical accounts describe several bloodlettings during plague times.",
+            "In literature, bloodlettings often symbolize the draining of vitality."
+          ],
+          "collocations": ["instances of bloodletting", "bloodlettings history"],
+          "synonyms": ["bloodletting sessions"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "literature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodlike",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling or containing blood; having a color or appearance similar to blood; used metaphorically to describe intensity or danger.",
+          "examples": [
+            "The paint dried into a bloodlike crimson.",
+            "They found a bloodlike staining near the scene."
+          ],
+          "collocations": ["bloodlike color", "bloodlike texture"],
+          "synonyms": ["blood-red", "crimson"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["color", "literature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodline",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the genetic line of a person or family; ancestry or lineage.",
+          "examples": [
+            "She is proud of her royal bloodline.",
+            "The detective traced the culprit through the family bloodline."
+          ],
+          "collocations": ["royal bloodline", "noble bloodline", "family bloodline"],
+          "synonyms": ["lineage", "ancestry", "line"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "history", "genealogy"]
+        }
+      ]
+    },
+    {
+      "term": "bloodlines",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bloodline; multiple lineages or genealogies.",
+          "examples": [
+            "The clans preserved their bloodlines through marriages."
+          ],
+          "collocations": ["family bloodlines", "lineages within bloodlines"],
+          "synonyms": ["lineages"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["genealogy", "history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodlust",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a strong desire for violent or cruel actions, especially to kill.",
+          "examples": [
+            "The cult leader fed the members' bloodlust with brutal rituals.",
+            "News reports described the crowd's bloodlust after the scandal."
+          ],
+          "collocations": ["intense bloodlust", "feed bloodlust", "pangs of bloodlust"],
+          "synonyms": ["cruelty", "ferocity", "bloodthirst"],
+          "antonyms": ["compassion", "humane impulse"],
+          "register": "neutral",
+          "domain": ["psychology", "literature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodlusting",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "participating in or displaying bloodlust; actively seeking violent action.",
+          "examples": [
+            "The mob was bloodlusting after the verdict was announced.",
+            "They stood bloodlusting, ready to strike at their enemies."
+          ],
+          "collocations": ["bloodlusting rampage", "bloodlusting mob"],
+          "synonyms": ["bloodthirsty", "savage"],
+          "antonyms": ["peaceful", "restrained"],
+          "register": "neutral",
+          "domain": ["psychology", "history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodlusts",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bloodlust; multiple desires for violence.",
+          "examples": [
+            "The film explores the bloodlusts that drive some characters.",
+            "Historical narratives often highlight the bloodlusts of invading armies."
+          ],
+          "collocations": ["intense bloodlusts", "vanishing bloodlusts"],
+          "synonyms": ["bloodthirsts"],
+          "antonyms": ["compassions", "restraints"],
+          "register": "neutral",
+          "domain": ["literature", "history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodmobile",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mobile unit that collects blood donations or distributes blood supplies to hospitals.",
+          "examples": [
+            "The bloodmobile parked at the mall to encourage donations.",
+            "Donors lined up to give blood at the bloodmobile."
+          ],
+          "collocations": ["bloodmobile service", "visit the bloodmobile"],
+          "synonyms": ["blood donation van"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodmobiles",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bloodmobile; multiple mobile blood donation units.",
+          "examples": [
+            "Several bloodmobiles were parked near the stadium for the campaign."
+          ],
+          "collocations": ["bloodmobiles at events"],
+          "synonyms": ["blood donation vans"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodmonger",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who promotes or traffics in blood, often used figuratively for someone who stirs up violence or sensationalizes bloodshed.",
+          "examples": [
+            "The tabloid bloodmonger sensationalized every new detail."
+          ],
+          "collocations": ["bloodmonger sensationalism", "media bloodmonger"],
+          "synonyms": ["bloodseller (figurative)", "sensationalist"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media", "society", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodnoun",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term that appears to be a construction rather than a standard lexical item; may be used in hypothetical or instructional contexts to refer to a noun related to blood.",
+          "examples": [
+            "In this dataset, 'bloodnoun' is a placeholder term for discussion."
+          ],
+          "collocations": ["bloodnoun usage"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["education", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "bloodred",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "very red in color, like blood.",
+          "examples": [
+            "The sunset painted the sky bloodred.",
+            "She wore a bloodred dress to the gala."
+          ],
+          "collocations": ["bloodred color", "bloodred hue"],
+          "synonyms": ["crimson", "scarlet"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["color", "fashion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodripe",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a coined or obscure term; not establishing a common sense in contemporary usage.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodripeness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an uncommon coined term; not widely recognized in contemporary English.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodroot",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant with red sap used in traditional medicine; may refer to the root of the bloodroot plant.",
+          "examples": [
+            "Bloodroot has been used in herbal remedies for centuries."
+          ],
+          "collocations": ["bloodroot plant", "bloodroot dye"],
+          "synonyms": ["Sanguinaria canadensis"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["botany", "medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodroots",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bloodroot; multiple plants or uses of bloodroot.",
+          "examples": [
+            "The herbalist collected several bloodroots for the tincture."
+          ],
+          "collocations": ["bloodroots tincture", "bloodroots plants"],
+          "synonyms": ["Sanguinaria canadensis (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["botany", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bloods",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of blood; in slang, refers to criminals or members of a gang; or a medical context as a generic term for blood.",
+          "examples": [
+            "The gang members are often called 'Bloods'.",
+            "Bloods and veins are part of the circulatory system."
+          ],
+          "collocations": ["Bloods gang", "blood test"],
+          "synonyms": ["red cells (informal)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["society", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bloodshed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the killing or violence that results in physical injury and death; widespread violence.",
+          "examples": [
+            "The war brought widespread bloodshed.",
+            "The protest ended in bloodshed despite calls for peace."
+          ],
+          "collocations": ["extensive bloodshed", "prevent bloodshed"],
+          "synonyms": ["slaughter", "massacre"],
+          "antonyms": ["peace", "safety"],
+          "register": "neutral",
+          "domain": ["history", "politics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodshedder",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a coined or rare term referring to a person who induces or participates in bloodshed.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodshedding",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of shedding blood; violence.",
+          "examples": [
+            "The bloodshedding during the battle shocked the world."
+          ],
+          "collocations": ["bloodshedding violence", "avoid bloodshedding"],
+          "synonyms": ["slaughter", "massacre"],
+          "antonyms": ["peace", "nonviolence"],
+          "register": "neutral",
+          "domain": ["history", "politics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bloodsheds",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bloodshed; multiple events of violence causing bloodshed.",
+          "examples": [
+            "The region endured several bloodsheds over the years."
+          ],
+          "collocations": ["periods of bloodsheds", "ongoing bloodshed"],
+          "synonyms": ["slaughters", "massacres"],
+          "antonyms": ["peaceful periods"],
+          "register": "neutral",
+          "domain": ["history", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "bloodshot",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "eyes with red veins indicating tiredness, irritation, or illness.",
+          "examples": [
+            "His eyes were bloodshot after the long flight.",
+            "The bloodshot eyes made him look exhausted."
+          ],
+          "collocations": ["bloodshot eyes", "bloodshot look"],
+          "synonyms": ["red-eyed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "general"]
+        }
+      ]
+    }
+  ]
+}

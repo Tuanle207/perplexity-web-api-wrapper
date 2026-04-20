@@ -1,0 +1,622 @@
+{
+  "items": [
+    {
+      "term": "bribee",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who receives a bribe",
+          "examples": [
+            "The bribee accepted the money and promised to influence the decision."
+          ],
+          "collocations": [
+            "secretly bribed bribee",
+            "government bribee",
+            "paid bribee",
+            "bribe to the bribee",
+            "protect the bribee"
+          ],
+          "synonyms": ["recipient of a bribe", "influencees (informal)"],
+          "antonyms": ["bribegiver", "bribe payer"],
+          "register": "neutral",
+          "domain": ["general", "law", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "bribees",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bribee; multiple people who receive bribes",
+          "examples": [
+            "The bribees were identified in the investigation."
+          ],
+          "collocations": [
+            "two bribees",
+            "corrupt bribees",
+            "bribees and bribe-givers"
+          ],
+          "synonyms": ["recipients of bribes"],
+          "antonyms": ["bribegivers", "bribe-payers"],
+          "register": "neutral",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "bribegiver",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who offers or gives a bribe",
+          "examples": [
+            "The bribegiver tried to sway the official by offering money."
+          ],
+          "collocations": [
+            "bribegiver offers",
+            "wealthy bribegiver",
+            "bribegiver and recipient"
+          ],
+          "synonyms": ["bribe payer", "briber", "corrupt influence-payer"],
+          "antonyms": ["lawful actor", "honest official"],
+          "register": "neutral",
+          "domain": ["general", "law", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "bribegiving",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of offering or giving a bribe",
+          "examples": [
+            "Bribegiving is illegal in many countries."
+          ],
+          "collocations": [
+            "corrupt bribegiving",
+            "ongoing bribegiving",
+            "criminal bribegiving"
+          ],
+          "synonyms": ["offering a bribe", "bribe-offering"],
+          "antonyms": ["refusal to pay bribe", "integrity"],
+          "register": "formal",
+          "domain": ["law", "ethics", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "bribeless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without or free from bribes; not accepting bribes",
+          "examples": [
+            "A bribeless official refused the offered money.",
+            "The system should be bribeless and fair."
+          ],
+          "collocations": [
+            "bribeless regime",
+            "bribeless society",
+            "maintain bribeless operations"
+          ],
+          "synonyms": ["unbribed", "corruption-free"],
+          "antonyms": ["bribed", "corrupt"],
+          "register": "formal",
+          "domain": ["general", "politics", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "bribemonger",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who markets or promotes bribes; a bribe peddler",
+          "examples": [
+            "The bribe monger was brought in for questioning."
+          ],
+          "collocations": [
+            "notorious bribemonger",
+            "bribemonger network"
+          ],
+          "synonyms": ["bribe-seller", "corrupt dealer"],
+          "antonyms": ["moral vendor", "honest broker"],
+          "register": "neutral",
+          "domain": ["general", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "briber",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who gives a bribe; a bribe payer",
+          "examples": [
+            "The briber attempted to influence the judge."
+          ],
+          "collocations": [
+            "rich briber",
+            "briber and recipient",
+            "accepting bribes by briber"
+          ],
+          "synonyms": ["bribe payer", "payor of bribe", "corrupt actor"],
+          "antonyms": ["honest payer", "integrity-driven official"],
+          "register": "neutral",
+          "domain": ["general", "law", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "briberies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bribery; acts of offering, giving, or receiving bribes",
+          "examples": [
+            "Briberies were uncovered in several departments."
+          ],
+          "collocations": [
+            "corporate briberies",
+            "minor briberies",
+            "investigate briberies"
+          ],
+          "synonyms": ["acts of bribery"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "crime", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "bribers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who give bribes; plural of briber",
+          "examples": [
+            "The bribers faced charges in court."
+          ],
+          "collocations": [
+            "repeat bribers",
+            "bribers and recipients"
+          ],
+          "synonyms": ["bribe givers", "payers of bribes"],
+          "antonyms": ["bribe takers", "integrity-minded officials"],
+          "register": "neutral",
+          "domain": ["general", "law", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "bribery",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of giving or taking a bribe to influence someone",
+          "examples": [
+            "The politician was charged with bribery.",
+            "Bribery can corrupt decisions in business."
+          ],
+          "collocations": [
+            "payment bribe", "wealth bribe", "charge of bribery"
+          ],
+          "synonyms": ["corruption", "payoff", "gain"],
+          "antonyms": ["honesty", "integrity"],
+          "register": "formal",
+          "domain": ["law", "crime", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "bribes",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bribe; things given to influence someone",
+          "examples": [
+            "The officials accepted several small bribes."
+          ],
+          "collocations": [
+            "small bribes",
+            "bribes and favors"
+          ],
+          "synonyms": ["payoffs", "bribe payments"],
+          "antonyms": ["honesty", "integrity"],
+          "register": "neutral",
+          "domain": ["law", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "bribetaker",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who takes a bribe",
+          "examples": [
+            "The bribetaker was identified by investigators."
+          ],
+          "collocations": [
+            "arrested bribetaker",
+            "bribetaker and briber"
+          ],
+          "synonyms": ["receiver of bribe", "bribe recipient"],
+          "antonyms": ["bribegiver", "honest official"],
+          "register": "neutral",
+          "domain": ["law", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "bribetaking",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of taking a bribe",
+          "examples": [
+            "Bribetaking is illegal in many jurisdictions."
+          ],
+          "collocations": [
+            "alleged bribetaking",
+            "bribetaking scandal"
+          ],
+          "synonyms": ["accepting bribes"],
+          "antonyms": ["refusal of bribes", "integrity"],
+          "register": "formal",
+          "domain": ["law", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "bribeworthy",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "worthy of a bribe or deserving of bribery; used metaphorically",
+          "examples": [
+            "The bribeworthy proposal raised concerns about corruption."
+          ],
+          "collocations": [
+            "highly bribeworthy",
+            "bribeworthy conduct"
+          ],
+          "synonyms": ["corruptible", "susceptible to bribery"],
+          "antonyms": ["unbribable", "immunized"],
+          "register": "formal",
+          "domain": ["politics", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "bribing",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "gerund",
+          "definition": "the act of offering or giving a bribe",
+          "examples": [
+            "Bribing officials is illegal."
+          ],
+          "collocations": [
+            "bribing politicians",
+            "bribing a witness"
+          ],
+          "synonyms": ["paying a bribe", "influencing through bribes"],
+          "antonyms": ["refusing to bribe", "ethical behavior"],
+          "register": "formal",
+          "domain": ["law", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "bribri",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a domesticated plant? (Note: 'Bribri' is commonly a proper noun referring to an indigenous people/lamily in Costa Rica; if intended as a term in this list, treat as proper noun.)",
+          "examples": [
+            "The Bribri languages are spoken by the Bribri people."
+          ],
+          "collocations": [
+            "Bribri language",
+            "Bribri people"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "anthropology", "ethnolinguistics"]
+        }
+      ]
+    },
+    {
+      "term": "bricabrac",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a collection of small decorative objects or knick-knacks",
+          "examples": [
+            "The shelves were filled with bric-a-brac from flea markets."
+          ],
+          "collocations": [
+            "bric-a-brac shop",
+            "dusty bricabrac"
+          ],
+          "synonyms": ["knick-knacks", "trinkets", "tchotchkes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "home", "interior"]
+        }
+      ]
+    },
+    {
+      "term": "bricabracs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bric-a-brac",
+          "examples": [
+            "The attic was full of bricabracs collected over years."
+          ],
+          "collocations": [
+            "various bricabracs",
+            "old bricabracs"
+          ],
+          "synonyms": ["knick-knacks", "trinkets"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "home"]
+        }
+      ]
+    },
+    {
+      "term": "brichen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large stone or block used historically in masonry or as a building material; archaic/rare usage",
+          "examples": [
+            "The builders laid the brichen carefully into the wall."
+          ],
+          "collocations": [
+            "stone brichen",
+            "ancient brichen"
+          ],
+          "synonyms": ["block", "stone", "slab"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["architecture", "history"]
+        }
+      ]
+    },
+    {
+      "term": "brichette",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small decorative cane or lattice, or a diminutive term for a decorative item; rare/obscure",
+          "examples": [
+            "A brichette pattern adorned the vase."
+          ],
+          "collocations": [
+            "brichette design",
+            "hand-carved brichette"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["crafts", "decor"]
+        }
+      ]
+    },
+    {
+      "term": "bricht",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to break or split; archaic or dialect form related to 'break' or 'crack' in some Germanic languages; rare in English",
+          "examples": [
+            "To bricht the stone is not standard English; dialectal forms exist in historical texts."
+          ],
+          "collocations": [
+            "bricht stone"
+          ],
+          "synonyms": ["break", "crack"],
+          "antonyms": ["bind", "join"],
+          "register": "archaic",
+          "domain": ["linguistics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "brichter",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one who bricht? (likely a dialectal or erroneous form; treat as uncertain/unused)",
+          "examples": [
+            "The term brichter appears in very old texts with unclear meaning."
+          ],
+          "collocations": [
+            "brichter and others"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "brichtest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "second-person singular present tense of a non-standard form meaning to break? (unclear; likely erroneous)",
+          "examples": [
+            "brichtest is not standard English."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "brick",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rectangular block of clay or concrete used in building",
+          "examples": [
+            "The wall is made of red bricks.",
+            "She stacked the bricks carefully."
+          ],
+          "collocations": [
+            "red brick",
+            "brick wall",
+            "fire brick",
+            "brick house"
+          ],
+          "synonyms": ["block", "tile (figurative)"],
+          "antonyms": ["stone", "plank"],
+          "register": "neutral",
+          "domain": ["general", "construction", "housing"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to cover or construct with bricks; to reject or block (informal)",
+          "examples": [
+            "They brick the chimney.",
+            "The server was bricked after the crash."
+          ],
+          "collocations": [
+            "brick wall",
+            "brick up",
+            "brick in"
+          ],
+          "synonyms": ["block", "enclose"],
+          "antonyms": ["unbrick", "unblock"],
+          "register": "neutral",
+          "domain": ["construction", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "brickbat",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small, harsh criticism or insulting remark; a petty dig",
+          "examples": [
+            "He fired off a brickbat about the policy."
+          ],
+          "collocations": [
+            "rude brickbat",
+            "throw brickbats"
+          ],
+          "synonyms": ["insult", "slur", "criticism"],
+          "antonyms": ["praise", "commendation"],
+          "register": "informal",
+          "domain": ["general", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "brickbat",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a single brick used as a weapon or in a monument; historical or literary sense",
+          "examples": [
+            "A brickbat lay on the ground near the old wall."
+          ],
+          "collocations": [
+            "throw a brickbat",
+            "brickbat of insult"
+          ],
+          "synonyms": ["brick", "stone (metaphorical)"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "brickbat",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "see above (two senses consolidated as brickbat)",
+          "examples": [
+            "The term brickbat appears in old texts with political overtones."
+          ],
+          "collocations": [
+            "political brickbats"
+          ],
+          "synonyms": ["insult", "criticism", "attack"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "politics"]
+        }
+      ]
+    }
+  ]
+}

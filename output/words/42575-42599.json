@@ -1,0 +1,439 @@
+{
+  "items": [
+    {
+      "term": "blameableness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being blameable; the state of being capable of or deserving blame",
+          "examples": ["The blameableness of the accident is still being discussed."],
+          "collocations": ["high blameableness", "level of blameableness", "perceived blameableness"],
+          "synonyms": ["blameworthiness", "culpability"],
+          "antonyms": ["innocence", "blamelessness"],
+          "register": "formal",
+          "domain": ["general", "law", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "blameablenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of blameableness; the qualities or instances of being blameable",
+          "examples": ["There are several blameablenesses in the report."],
+          "collocations": ["various blameablenesses", "perceived blameablenesses"],
+          "synonyms": ["culpabilities", "faults"],
+          "antonyms": ["innocences", "blamelessnesses"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blameably",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner that is deserving of blame",
+          "examples": ["The proposal was blameably incomplete."],
+          "collocations": ["blameably wrong", "act blameably"],
+          "synonyms": ["culpably"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blamed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to say or think that someone is responsible for something bad or wrong",
+          "examples": ["She blamed him for the error.", "They blamed the system for the failure."],
+          "collocations": ["blamed him", "blamed the accident", "blamed others"],
+          "synonyms": ["accused", "held responsible"],
+          "antonyms": ["exonerated", "cleared"],
+          "register": "neutral",
+          "domain": ["general", "law", "ethics"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "deserving blame; at fault",
+          "examples": ["The blamed suspect offered no defense."],
+          "collocations": ["blamed party", "blamed individual"],
+          "synonyms": ["culpable", "at fault"],
+          "antonyms": ["innocent", "blameless"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blameful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "full of blame or deserving of blame",
+          "examples": ["A blameful mistake led to delays."],
+          "collocations": ["blameful error", "blameful omission"],
+          "synonyms": ["culpable", "faulty"],
+          "antonyms": ["blameless", "innocent"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blamefully",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that causes or deserves blame",
+          "examples": ["The at fault act was blamefully executed."],
+          "collocations": ["act blamefully", "blamefully negligent"],
+          "synonyms": ["culpably"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blamefulness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being blameful; the tendency to deserve blame",
+          "examples": ["The blamefulness of the action was questioned."],
+          "collocations": ["level of blamefulness", "perceived blamefulness"],
+          "synonyms": ["culpability", "faultiness"],
+          "antonyms": ["blamelessness", "innocence"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blamefulnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of blamefulness; multiple qualities or states of being blameful",
+          "examples": ["Several blamefulnesses were identified in the case."],
+          "collocations": ["various blamefulnesses"],
+          "synonyms": ["culpabilities", "faults"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blameless",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without fault or guilt; not to blame",
+          "examples": ["She was blameless in the accident."],
+          "collocations": ["completely blameless", "blameless conduct"],
+          "synonyms": ["innocent", "faultless"],
+          "antonyms": ["blameworthy", "culpable"],
+          "register": "neutral",
+          "domain": ["general", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "blamelessly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a blameless manner; without blame",
+          "examples": ["He acted blamelessly under pressure."],
+          "collocations": ["live blamelessly", "blamelessly ignore"],
+          "synonyms": ["innocently", "faultlessly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blamelessness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being blameless; absence of guilt",
+          "examples": ["The blamelessness of the evidence was questioned."],
+          "collocations": ["accused of blamelessness", "perceived blamelessness"],
+          "synonyms": ["innocence", "purity"],
+          "antonyms": ["blameworthiness", "culpability"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blamelessnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of blamelessness; multiple states of being blameless",
+          "examples": ["Various blamelessnesses were alleged by the defense."],
+          "collocations": ["types of blamelessness"],
+          "synonyms": ["innocences", "purities"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blamer",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who blames others; someone who accuses or criticizes",
+          "examples": ["Stop being a blamer and look for the truth."],
+          "collocations": ["habitual blamer", "blamer of others"],
+          "synonyms": ["accuser", "critic"],
+          "antonyms": ["defender", "supporter"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blamers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of blamer; people who blame others",
+          "examples": ["The blamers argued endlessly."],
+          "collocations": ["two blamers", "blamers in the meeting"],
+          "synonyms": ["accusers", "critics"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blames",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular of blame; to say someone is responsible for something bad",
+          "examples": ["She blames him for the mistake."],
+          "collocations": ["blames others", "blames the system"],
+          "synonyms": ["accuses", "faults"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blameworthiness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of deserving blame or being liable for fault",
+          "examples": ["The blameworthiness of the act was clear."],
+          "collocations": ["level of blameworthiness"],
+          "synonyms": ["culpability", "guilt"],
+          "antonyms": ["blamelessness", "innocence"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blameworthinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of blameworthiness; degrees or instances of blameworthiness",
+          "examples": ["There were several blameworthinesses identified."],
+          "collocations": ["various blameworthinesses"],
+          "synonyms": ["culpabilities"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blameworthy",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "worthy of blame; deserving to be blamed",
+          "examples": ["His actions were blameworthy."],
+          "collocations": ["blameworthy conduct", "blameworthy act"],
+          "synonyms": ["culpable", "faultworthy"],
+          "antonyms": ["blameless", "innocent"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blaming",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of blame; the act of assigning responsibility for a fault",
+          "examples": ["She started blaming others instead of solving the problem."],
+          "collocations": ["blaming others", "blaming the system"],
+          "synonyms": ["accusing", "faulting"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blamingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a blaming manner; showing or expressing blame",
+          "examples": ["She looked at him blamingly."],
+          "collocations": ["act blamingly", "look blamingly"],
+          "synonyms": ["accusingly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blammed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "dialectal or archaic past tense of blame; to have blamed",
+          "examples": ["He blammed him for the error (archaic use)."],
+          "collocations": ["blammed him"],
+          "synonyms": ["blamed"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blamming",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of blaming; the process of assigning blame",
+          "examples": ["The blamming continued despite evidence."],
+          "collocations": ["intense blamming"],
+          "synonyms": ["blaming"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blams",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "dialectal or archaic plural of blame; instances of blame",
+          "examples": ["Several blams were found in the report (rare usage)."],
+          "collocations": ["various blams"],
+          "synonyms": ["blames"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blan",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "uncommon; may refer to a pale or blank state in some contexts",
+          "examples": ["A blan surface appeared on the map."],
+          "collocations": ["blan area"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blanc",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a white or pale color in French; in English, used in phrases like papier blanc; or as a surname/place name",
+          "examples": ["The label said 'blanc' wine."],
+          "collocations": ["vin blanc", "papier blanc"],
+          "synonyms": ["white", "pale"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "food"]
+        }
+      ]
+    }
+  ]
+}

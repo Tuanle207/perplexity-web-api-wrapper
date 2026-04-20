@@ -1,0 +1,440 @@
+{
+  "items": [
+    {
+      "term": "boatswains",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of boatswain, a crew member on a ship who is in charge of equipment and the deck crew",
+          "examples": ["The boatswains shouted orders to the deck crew."],
+          "collocations": ["boatswain, ship's crew, deck", "voice of command", "watch",
+                           "mason's bench" ],
+          "synonyms": ["boatswain", "bosun"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "nautical", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "boattail",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the rear end of a boat; the tapered part at the back of a vessel",
+          "examples": ["The boattail reduced water resistance."],
+          "collocations": ["boat tail", "hydrodynamic", "stern", "bow"],
+          "synonyms": ["stern", " rear end of a boat"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "boattails",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of boattail; the rear ends of multiple boats or a design referring to boat tails",
+          "examples": ["The museum displayed models with boattails."],
+          "collocations": ["boattails", "design", "hull"],
+          "synonyms": ["boat tails"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "design"]
+        }
+      ]
+    },
+    {
+      "term": "boatward",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "toward the front of a ship; toward the bow",
+          "examples": ["They turned boatward to the incoming tide."],
+          "collocations": ["boatward movement", "toward the bow", "ahead"],
+          "synonyms": ["forward", "toward the bow"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nautical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "boatwise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in relation to boats or boating; in a nautical manner",
+          "examples": ["Boatwise, the harbor is calm today."],
+          "collocations": ["boatwise navigation", "sailing boatwise"],
+          "synonyms": ["nautically", "in boating terms"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nautical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "boatwoman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a woman who works on a boat or is associated with boating",
+          "examples": ["The boatwoman steered the craft through the canal."],
+          "collocations": ["boatwoman", "female sailor", "mariner"],
+          "synonyms": ["sailor", "seamstress? not appropriate", "wind-walker"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nautical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "boatwright",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who builds or repairs boats",
+          "examples": ["The boatwright patched the hull."],
+          "collocations": ["boatwright", "shipwright", "carpenter", "craftsmanship"],
+          "synonyms": ["shipwright", "boat builder"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "general", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "boatyard",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place where boats are built, stored, or repaired",
+          "examples": ["The boats are hauled out at the boatyard."],
+          "collocations": ["boat yard", "yacht", "dock", "maintenance"],
+          "synonyms": ["boatyard"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nautical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "boatyards",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of boatyard; multiple locations where boats are built or maintained",
+          "examples": ["The region has several boathyards."],
+          "collocations": ["boatyards", "shipyards", "maintenance facilities"],
+          "synonyms": ["boatyards"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nautical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bob",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a short oscillating movement up and down; a small weight on a line",
+          "examples": ["The bob of the pendulum kept time."],
+          "collocations": ["bob of the head", "bobber", "hairs bob"],
+          "synonyms": ["nodding movement", "pendulum weight"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "science"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to move up and down quickly or lightly; to hang loosely or sway",
+          "examples": ["Flags bob in the wind."],
+          "collocations": ["bob up", "bob along", "bob your head"],
+          "synonyms": ["noddle", "sway"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "boba",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chewy ball in bubble tea made from starch",
+          "examples": ["I love adding boba to my tea."],
+          "collocations": ["boba pearls", "bubble tea", "tapioca"],
+          "synonyms": ["tapioca pearl", "bubble tea topping"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bobac",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a variant spelling or a nonstandard term; likely a typo or obscure term",
+          "examples": ["The dictionary lists bobac as a rarely used variant."],
+          "collocations": ["bobac entry", "lexicon"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bobache",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "uncommon word form; or proper noun in some contexts",
+          "examples": ["Bobache is a surname in some regions."],
+          "collocations": ["bobache family", "surname"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bobachee",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a proper noun or specialized term with limited usage",
+          "examples": ["Bobachee appears in rare historical texts."],
+          "collocations": ["bobachee name"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bobacs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bobac; a rare term that may refer to a species or name",
+          "examples": ["The bobacs were documented in the region."],
+          "collocations": ["bobacs species", "archaeological record"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bobadil",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fictional or rare term; possibly a name or invented word",
+          "examples": ["In the fantasy novel, Bobadil appears as a rogue."],
+          "collocations": ["Bobadil character"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fiction", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bobadilian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an adjective or noun form derived from Bobadil; likely rare or humorous",
+          "examples": ["The Bobadilian character added whimsy to the scene."],
+          "collocations": ["Bobadilian traits"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fiction", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bobadilish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling or characteristic of Bobadil; archaic/ playful",
+          "examples": ["A bobadilish wit filled the dialogue."],
+          "collocations": ["bobadilish humor"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "fiction"]
+        }
+      ]
+    },
+    {
+      "term": "bobadilism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality or style of Bobadil; a literary term",
+          "examples": ["The character's bobadilism stood out."],
+          "collocations": ["bobadilism in literature"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bobak",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of bird (bobak marmot is different; here bobak may refer to a bird or surname).",
+          "examples": ["A bobak walked along the path."],
+          "collocations": ["bobak bird", "bobak family"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bobaks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bobak",
+          "examples": ["Several bobaks were observed."],
+          "collocations": ["bobaks population"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bobance",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an obscure or archaic term; likely not in common use",
+          "examples": ["The glossary notes bobance as rare."],
+          "collocations": ["bobance entry"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bobas",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare plural form; possibly a name or obscure term",
+          "examples": ["The bobas were catalogued in the archive."],
+          "collocations": ["bobas collection"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bobbed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bob; to move up and down quickly or gently",
+          "examples": ["The hair bobbed in the breeze."],
+          "collocations": ["bobbed hair", "bobbed up", "bobbed along"],
+          "synonyms": ["nodded", "dangled"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bobbejaan",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Afrikaans for baboon; common in some contexts",
+          "examples": ["The bobbejaan climbed the hill."],
+          "collocations": ["bobbejaan species", "wildlife"],
+          "synonyms": ["baboon"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "general"]
+        }
+      ]
+    }
+  ]
+}

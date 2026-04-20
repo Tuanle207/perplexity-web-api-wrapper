@@ -1,0 +1,530 @@
+{
+  "items": [
+    {
+      "term": "bridle",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a headgear for a horse that includes a bit, reins, and headstall and is used to control the horse",
+          "examples": [
+            "The rider adjusted the bridle before mounting the horse.",
+            "A broken bridle can make riding dangerous."
+          ],
+          "collocations": ["horse", "bridle path", "dusty bridle", "leather bridle", "bridle and bit"],
+          "synonyms": ["headgear for a horse", "rein and bit apparatus"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["animal_husbandry", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bridled",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to show or feel anger or restraint by controlling one's facial expression or body language",
+          "examples": [
+            "She bridled at the insult and refused to respond.",
+            "Managers bridled at the new policy until it was clarified."
+          ],
+          "collocations": ["bridled at", "bridled anger", "bridled response"],
+          "synonyms": ["restrained", "flared up", "recoiled"],
+          "antonyms": ["relaxed", "embraced"],
+          "register": "neutral",
+          "domain": ["general", "emotions"]
+        }
+      ]
+    },
+    {
+      "term": "bridleless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not wearing a bridle; unbridled",
+          "examples": [
+            "The horse ran bridleless through the field.",
+            "A bridleless approach can be risky."
+          ],
+          "collocations": ["bridleless horse", "bridleless freedom"],
+          "synonyms": ["unbridled", "unrestrained"],
+          "antonyms": ["bridled"],
+          "register": "neutral",
+          "domain": ["general", "animal_husbandry"]
+        }
+      ]
+    },
+    {
+      "term": "bridleman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who fits or adjusts bridles; historically, a reins keeper or bridle maker",
+          "examples": [
+            "The bridleman maintained the tack room and repaired worn bridles.",
+            "In old texts, a bridleman is mentioned among the stable staff."
+          ],
+          "collocations": ["bridleman", "stable staff"],
+          "synonyms": ["tack room keeper", "bridle maker"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["historical", "occupation"]
+        }
+      ]
+    },
+    {
+      "term": "bridler",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or person that bridles; in one sense, a strap or apparatus for restraining; in other contexts, a person who acts as a bridle administrator",
+          "examples": [
+            "The bridler kept careful watch over the reins.",
+            "An old bridler would repair worn straps."
+          ],
+          "collocations": ["bridler", "the bridler's tool"],
+          "synonyms": ["tack keeper", "halter"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "occupational"]
+        }
+      ]
+    },
+    {
+      "term": "bridlers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bridler; people or devices that bridge or restrain, in specific contexts plural form of bridle-related roles or items",
+          "examples": [
+            "The stables employed several bridlers.",
+            "Different bridlers were used for various tasks."
+          ],
+          "collocations": ["bridlers (people)", "bridlers (devices)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "occupational"]
+        }
+      ]
+    },
+    {
+      "term": "bridles",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the straps that form part of a bridle for controlling a horse",
+          "examples": [
+            "The bridle includes bits, reins, and bridles.",
+            "She checked the bridles before riding."
+          ],
+          "collocations": ["horse", "reins", "bit", "tack"],
+          "synonyms": ["rein straps", "headgear"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["animal_husbandry", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bridleway",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a path or track on which horses or bicycles may be ridden, usually separated from roads",
+          "examples": [
+            "We followed the bridleway through the countryside.",
+            "The bridleway runs parallel to the canal."
+          ],
+          "collocations": ["bridleway", "public bridleway"],
+          "synonyms": ["horse path", "trail"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "outdoors"]
+        }
+      ]
+    },
+    {
+      "term": "bridleways",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bridleway",
+          "examples": [
+            "The network of bridleways connects villages.",
+            "Cyclists and walkers share the bridleways."
+          ],
+          "collocations": ["bridleways", "network of paths"],
+          "synonyms": ["horse paths", "trails"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "outdoors"]
+        }
+      ]
+    },
+    {
+      "term": "bridlewise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows control or restraint like a bridle; with caution or restraint",
+          "examples": [
+            "He rode bridlewise, keeping the horse steady.",
+            "She spoke bridlewise to avoid offense."
+          ],
+          "collocations": ["bridewise", "with restraint"],
+          "synonyms": ["restrainedly", "cautiously"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "bridling",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of controlling a horse with a bridle or the act of showing anger or restraint by facial expression",
+          "examples": [
+            "The horse was bridling at the harsh commands.",
+            "The rider began bridling the horse gently."
+          ],
+          "collocations": ["bridling a horse", "bridling at", "bridling anger"],
+          "synonyms": ["restraining", "checking"],
+          "antonyms": ["releasing"],
+          "register": "neutral",
+          "domain": ["animal_husbandry", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bridoon",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small traditional bridle or a type of decorative bit used in some cultures",
+          "examples": [
+            "The bridoon is part of the double bridle used in classical riding.",
+            "He polished the bridoon before the parade."
+          ],
+          "collocations": ["bridoon", "double bridle"],
+          "synonyms": ["bit", "bridle component"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["equestrian", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bridoons",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bridoon",
+          "examples": [
+            "He inspected the bridoons for wear.",
+            "The bridoons were part of the parade gear."
+          ],
+          "collocations": ["bridoons"],
+          "synonyms": ["bits"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["equestrian"]
+        }
+      ]
+    },
+    {
+      "term": "brie",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a soft French cheese with a white rind",
+          "examples": [
+            "We bought a wheel of brie for the picnic.",
+            "Brie pairs well with apples and crackers."
+          ],
+          "collocations": ["brie", "soft cheese", "white rind"],
+          "synonyms": ["camembert (similar cheese)", "soft cheese"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "brief",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "short in duration; not long",
+          "examples": [
+            "We had a brief meeting.",
+            "The forecast gave only a brief rain shower."
+          ],
+          "collocations": ["brief meeting", "brief period", "brief encounter"],
+          "synonyms": ["short", "concise"],
+          "antonyms": ["long", "lengthy"],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a short written summary of information or instructions",
+          "examples": [
+            "Please send me a brief of the project goals.",
+            "Read the brief before you start."
+          ],
+          "collocations": ["short brief", "project brief", "briefing"],
+          "synonyms": ["summary", "outline"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to inform someone briefly; to give essential information",
+          "examples": [
+            "The memo briefs the team on the changes.",
+            "Briefly, the plan is to launch next quarter."
+          ],
+          "collocations": ["briefs the team", "briefs someone on"],
+          "synonyms": ["inform", "notify"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "briefcase",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a flat, rectangular container with a handle, used for carrying papers, documents, or a laptop",
+          "examples": [
+            "She packed her documents in a leather briefcase.",
+            "The lawyer opened his briefcase in the courtroom."
+          ],
+          "collocations": ["briefcase", "leather briefcase", "document case"],
+          "synonyms": ["attache", "portfolio"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "briefcases",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of briefcase",
+          "examples": [
+            "Several briefcases were stacked in the lobby.",
+            "They carried their briefs in two briefcases."
+          ],
+          "collocations": ["briefcases"],
+          "synonyms": ["attaches", "portfolios"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "briefed",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to inform someone about the plan, instructions, or essential details",
+          "examples": [
+            "The officer was briefed on the mission.",
+            "We were briefed about the changes to the schedule."
+          ],
+          "collocations": ["briefed the team", "briefed on", "briefing note"],
+          "synonyms": ["informed", "told"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "briefer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who gives a briefing; a smaller or shorter version of something",
+          "examples": [
+            "The briefing was led by a senior briefer.",
+            "We used a briefer note to summarize the agenda."
+          ],
+          "collocations": ["briefing leader", "session briefer"],
+          "synonyms": ["presenter", "summary"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "briefers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of briefer",
+          "examples": [
+            "The briefing team included several briefers.",
+            "Two briefers conducted the security briefing."
+          ],
+          "collocations": ["briefers"],
+          "synonyms": ["presenters"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "briefest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative form of brief; the shortest in duration or length",
+          "examples": [
+            "This is the briefest explanation possible.",
+            "They gave the briefest nod before starting."
+          ],
+          "collocations": ["the briefest moment", "the briefest summary"],
+          "synonyms": ["shortest", "swiftest"],
+          "antonyms": ["longest"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "briefing",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a short meeting or document that gives essential information or instructions",
+          "examples": [
+            "We received a briefing before the operation.",
+            "The briefing covered safety procedures."
+          ],
+          "collocations": ["security briefing", "briefing document", "pre-flight briefing"],
+          "synonyms": ["overview", "summary", "instruction"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "military", "business"]
+        }
+      ]
+    },
+    {
+      "term": "briefings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of briefing",
+          "examples": [
+            "The briefings are scheduled for the morning.",
+            "Several briefings were delivered during the conference."
+          ],
+          "collocations": ["briefings"],
+          "synonyms": ["overviews"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "military", "business"]
+        }
+      ]
+    },
+    {
+      "term": "briefless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without a brief or without a short document or summary",
+          "examples": [
+            "The report was briefless and needed an executive summary.",
+            "They handed in a briefless proposal."
+          ],
+          "collocations": ["briefless report", "briefless proposal"],
+          "synonyms": ["summary-less", "unsummarized"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "brieflessly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a briefless manner; without a brief or summary",
+          "examples": [
+            "The document was brieflessly presented to the board.",
+            "He spoke brieflessly, skipping details."
+          ],
+          "collocations": ["brieflessly presented"],
+          "synonyms": ["summarilessly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    }
+  ]
+}

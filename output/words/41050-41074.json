@@ -1,0 +1,439 @@
+{
+  "items": [
+    {
+      "term": "bioinstrumentation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the use of instruments and devices to study or measure biological processes or to monitor biological systems",
+          "examples": ["The lab is developing bioinstrumentation to monitor cell growth in real time."],
+          "collocations": ["civil bioinstrumentation", "biomedical bioinstrumentation", "instrumentation system", "sensor", "monitoring"],
+          "synonyms": ["biomedical instrumentation", "biotech instrumentation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "biokinetics",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study of the rates of biological processes or reactions within living systems",
+          "examples": ["Researchers are applying biokinetics to understand metabolism changes."],
+          "collocations": ["biokinetic model", "biokinetic analysis", "metabolic biokinetics"],
+          "synonyms": ["biophysics (in some contexts)", "kinetics (biological context)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "medicine", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "biol",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "short for biology or biologist in informal contexts",
+          "examples": ["She studies biol at university."],
+          "collocations": ["biol class", "biol student", "bio lab"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "biolinguistics",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an interdisciplinary field that studies the biology of language and how language is represented in the brain",
+          "examples": ["Biolinguistics explores how syntax and neural structures relate."],
+          "collocations": ["theoretical biolinguistics", "biolinguistic research", "language biology"],
+          "synonyms": ["neuro linguistics (in some contexts)", "biological linguistics"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "linguistics", "cognitive science"]
+        }
+      ]
+    },
+    {
+      "term": "biolite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small, lightweight battery or energy-dense material used in micro devices (rare/brand-specific usage)",
+          "examples": ["The new device runs on a compact biolite battery."],
+          "collocations": ["biolite battery", "biolite energy source"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "biolith",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a hypothetical or fictional biological stone or mineral used in science fiction contexts",
+          "examples": ["The archaeologists uncovered a biolith shard."],
+          "collocations": ["biolith shard", "biolith artifact"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fiction", "science fiction", "fantasy"]
+        }
+      ]
+    },
+    {
+      "term": "biologese",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the specialized, often verbose or technical language used by biologists",
+          "examples": ["Her paper was full of biologese that obscured the main point."],
+          "collocations": ["scientific biologese", "clear biologese", "biologist's biologese"],
+          "synonyms": ["jargon", "technical language"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "biologic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a biological product or drug derived from living organisms; sometimes used as a shortened form of biologic in American English",
+          "examples": ["The company develops a new biologic for autoimmune diseases."],
+          "collocations": ["biologic drug", "biologic therapy", "biologic agent"],
+          "synonyms": ["biologic drug", "biologic therapy"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "pharmaceuticals", "healthcare"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to biology or living organisms",
+          "examples": ["biologic processes", "biologic samples"],
+          "collocations": ["biologic research", "biologic data"],
+          "synonyms": ["biological"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "biological",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "connected with living things and the study of them",
+          "examples": ["Biological cells were observed under the microscope.", "This vaccine targets biological processes."],
+          "collocations": ["biological system", "biological risk", "biological research"],
+          "synonyms": ["living", "organic"],
+          "antonyms": ["nonbiological"],
+          "register": "formal",
+          "domain": ["science", "biology", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "biologically",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in relation to biology or in a way that is consistent with biology",
+          "examples": ["Biologically, humans are similar to other primates."],
+          "collocations": ["biologically speaking", "biologically plausible"],
+          "synonyms": ["naturally", "in terms of biology"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "education"]
+        }
+      ]
+    },
+    {
+      "term": "biologicals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "biological products used for medical or therapeutic purposes, especially vaccines or biologic drugs",
+          "examples": ["The clinic offers various biologicals for treatment."],
+          "collocations": ["biologicals portfolio", "therapeutic biologicals"],
+          "synonyms": ["biologic drugs", "biologic therapies"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "pharmaceuticals"]
+        }
+      ]
+    },
+    {
+      "term": "biologicohumanistic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "compound",
+          "definition": "relating to both biology and humanistic aspects or methods (rare/academic term)",
+          "examples": ["The seminar explored biologicohumanistic approaches in education."],
+          "collocations": ["biologicohumanistic theory", "biologicohumanistic perspective"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "interdisciplinary"]
+        }
+      ]
+    },
+    {
+      "term": "biologics",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "biological drugs or therapies produced from living organisms",
+          "examples": ["Biologics have transformed treatment for some diseases."],
+          "collocations": ["approved biologics", "biologics market", "biologic therapies"],
+          "synonyms": ["biologic drugs", "biologic therapies"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "pharmaceuticals"]
+        }
+      ]
+    },
+    {
+      "term": "biologies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of biology; the science of life",
+          "examples": ["The student studied several biologies during the course."],
+          "collocations": ["various biologies", "biologies field"],
+          "synonyms": ["sciences of life"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "biologism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an emphasis on biology or biological explanations, especially when used to the exclusion of other factors",
+          "examples": ["Critics accused the theory of biologism for ignoring social context."],
+          "collocations": ["biologism critique", "avoid biologism"],
+          "synonyms": ["scientism (in some uses)", "biological determinism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy", "social science"]
+        }
+      ]
+    },
+    {
+      "term": "biologisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of biologism; multiple examples of biologism in thought or discourse",
+          "examples": ["The essay argued against the biologisms in education policy."],
+          "collocations": ["examples of biologisms", "counter biologisms"],
+          "synonyms": ["biologisms (singular)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy", "social science"]
+        }
+      ]
+    },
+    {
+      "term": "biologist",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a scientist who studies living things",
+          "examples": ["The biologist explained the experiment to the class."],
+          "collocations": ["marine biologist", "field biologist", "development as a biologist"],
+          "synonyms": ["life scientist"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "biologistic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to biology or biological explanations",
+          "examples": ["A biologistic approach to disease emphasizes genetic factors."],
+          "collocations": ["biologistic argument", "biologistic view"],
+          "synonyms": ["biological"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "biologists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who study living things; plural of biologist",
+          "examples": ["Biologists gathered data from the field study."],
+          "collocations": ["cell biologists", "molecular biologists", "biologists in the lab"],
+          "synonyms": ["life scientists"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "biologize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to interpret or explain something in terms of biology or biological factors",
+          "examples": ["The author tends to biologize social behavior."],
+          "collocations": ["biologize the issue", "biologize explanations"],
+          "synonyms": ["biologise (UK)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["psychology", "social science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "biology",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the science that studies living things and their life processes",
+          "examples": ["She loves biology and plans to be a doctor."],
+          "collocations": ["high school biology", "biology class", "molecular biology"],
+          "synonyms": ["life science"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bioluminescence",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the production and emission of light by living organisms",
+          "examples": ["Fireflies show bioluminescence in the dark."],
+          "collocations": ["natural bioluminescence", "bioluminescence system", "bioluminescence in marine life"],
+          "synonyms": ["glowing", "luminescence"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "bioluminescences",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bioluminescence; occurrences of light emission by living things",
+          "examples": ["The ocean showed different bioluminescences after the rain."],
+          "collocations": ["various bioluminescences"],
+          "synonyms": ["bioluminescences (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "bioluminescent",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "producing light through bioluminescence",
+          "examples": ["Bioluminescent algae lit up the shoreline."],
+          "collocations": ["bioluminescent organism", "bioluminescent plankton"],
+          "synonyms": ["glowing", "luminescent"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "biolyses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of breaking down biological materials or breaking down in biology context",
+          "examples": ["Enzymes catalyze the biolyses of substrates."],
+          "collocations": ["cell biolyses", "biolysis reaction"],
+          "synonyms": ["biolysis"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biochemistry", "biology"]
+        }
+      ]
+    }
+  ]
+}

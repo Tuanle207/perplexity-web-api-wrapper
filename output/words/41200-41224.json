@@ -1,0 +1,506 @@
+{
+  "items": [
+    {
+      "term": "bioprospects",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bioprospect: opportunities or potential in exploring biological sources for useful compounds or applications.",
+          "examples": [
+            "Bioprospects in tropical rainforests include novel antibiotics.",
+            "Researchers discussed the bioprospects of microbiomes for industrial enzymes."
+          ],
+          "collocations": ["bioprospects in", "explore bioprospects", "bioprospects for"],
+          "synonyms": ["biotechnological potential", "biological prospects", "biopotential"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "biopsic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term sometimes used to describe a combined biological and psychological perspective or approach; not a standard widely used word in mainstream dictionaries.",
+          "examples": [
+            "The biopsic model merges biology and psychology in understanding behavior."
+          ],
+          "collocations": ["biopsic model", "biopsic approach"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["academic", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "biopsied",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the past tense of biopsy; to remove tissue from a body to examine it for disease.",
+          "examples": [
+            "The patient was biopsied to check for cancer.",
+            "Doctors biopsied the lump to determine its nature."
+          ],
+          "collocations": ["biopsied tissue", "was biopsied", "biopsied by"],
+          "synonyms": ["tissue sampled", "tissue tested"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "biopsies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of biopsy; procedures in which tissue is removed to examine for disease.",
+          "examples": [
+            "Several biopsies were performed to assess the lesion.",
+            "The biopsy results confirmed the diagnosis."
+          ],
+          "collocations": ["skin biopsies", "liver biopsies", "biopsies performed"],
+          "synonyms": ["tissue samples", "biopsy procedures"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "biopsy",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a medical test in which tissue is removed from the body to examine it for disease.",
+          "examples": [
+            "The doctor ordered a biopsy of the suspicious lump.",
+            "Biopsies are often performed using a needle."
+          ],
+          "collocations": ["skin biopsy", "liver biopsy", "needle biopsy"],
+          "synonyms": ["tissue sample", "tissue biopsy"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical", "healthcare"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to remove tissue from the body for examination.",
+          "examples": [
+            "They will biopsy the lesion to determine if it is malignant.",
+            "Doctors biopsied the sample under local anesthesia."
+          ],
+          "collocations": ["biopsy the lesion", "biopsy the sample", "to biopsy"],
+          "synonyms": ["examine tissue", "take a tissue sample"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "biopsychic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an obsolete or uncommon term referring to the interface of biological and psychic (mental) processes.",
+          "examples": [
+            "The theory combined biopsychic elements to explain behavior."
+          ],
+          "collocations": ["biopsychic theory", "biopsychic processes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["academic", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "biopsychical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the interaction of biological and psychological factors; an uncommon term.",
+          "examples": [
+            "Biopsychical factors were considered in the study's design."
+          ],
+          "collocations": ["biopsychical factors", "biopsychical approach"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["academic", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "biopsychological",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the connection between biology and psychology; commonly used in science to describe studies that involve both biological and psychological aspects.",
+          "examples": [
+            "Biopsychological research examines how brain processes influence behavior.",
+            "The biopsychological approach is popular in cognitive neuroscience."
+          ],
+          "collocations": ["biopsychological research", "biopsychological factors", "biopsychological approach"],
+          "synonyms": ["neuropsychological", "biological-psychological"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "psychology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "biopsychologies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of biopsychology; the scientific study of the interaction between biological processes and psychology.",
+          "examples": [
+            "Biopsychologies offer insights into how hormones affect mood.",
+            "Different biopsychologies explain learning and memory."
+          ],
+          "collocations": ["different biopsychologies", "biopsychologies field"],
+          "synonyms": ["neuropsychology", "biological psychology"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "biopsychologist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a scientist who studies the connection between biology and psychology.",
+          "examples": [
+            "The biopsychologist investigates how brain chemistry influences emotion.",
+            "Biopsychologists work in universities and research labs."
+          ],
+          "collocations": ["biopsychologist conducts", "biopsychologist studies", "biopsychologist career"],
+          "synonyms": ["neuropsychologist", "biological psychologist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "biopsychology",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the field that studies how biology and psychology interact, especially brain processes and behavior.",
+          "examples": [
+            "Biopsychology explores the links between brain activity and learning.",
+            "Her course covers biopsychology and behavior."
+          ],
+          "collocations": ["biopsychology course", "study of biopsychology", "research in biopsychology"],
+          "synonyms": ["neuropsychology"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "education", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "biopsying",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of biopsy; performing a biopsy to remove tissue for examination.",
+          "examples": [
+            "The doctor is biopsying the lump to check for cancer.",
+            "Biopsying can be done with a needle or during surgery."
+          ],
+          "collocations": ["biopsying the lesion", "while biopsying", "biopsying procedure"],
+          "synonyms": ["taking a tissue sample", "tissue biopsy"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "bioptic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to vision or sight; involving the use of a telescope or a device to enhance vision.",
+          "examples": [
+            "Bioptic glasses help some drivers see better at a distance.",
+            "She uses a bioptic telescope for her work as an observer."
+          ],
+          "collocations": ["bioptic glasses", "bioptic telescope", "bioptic photography"],
+          "synonyms": ["teleoptic", "telescopic"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "medicine", "daily_life"]
+        }
+      ]
+    },
+    {
+      "term": "biopyribole",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or obscure term; may appear in specialized literature or as a coined term without standard definition.",
+          "examples": [
+            "The manuscript mentions a biopyribole in a discussion of mineral-like biological structures."
+          ],
+          "collocations": ["biopyribole concept"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["academic", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bioral",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to bio (life) and oral (mouth) contexts; not a common term in standard usage.",
+          "examples": [
+            "The study explored bioral health in reflexive experiments."
+          ],
+          "collocations": ["bioral health", "bioral data"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["academic", "science"]
+        }
+      ]
+    },
+    {
+      "term": "biorbital",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the region around the orbits of the eyes; used in medical descriptions.",
+          "examples": [
+            "Biorbital measurements are used in craniofacial studies."
+          ],
+          "collocations": ["biorbital region", "biorbital measurements"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "biordinal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or arranged in two orders or ranks; a rare or technical term.",
+          "examples": [
+            "The chart used biordinal labeling to distinguish two sequences."
+          ],
+          "collocations": ["biordinal labeling", "biordinal sequence"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["academic", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bioreaction",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical reaction facilitated by biological agents or occurring in a biological system.",
+          "examples": [
+            "Enzymes catalyze bioreactions in the cell."
+          ],
+          "collocations": ["bioreaction rate", "bioreaction in vivo"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bioreactor",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or vessel in which biological reactions occur, especially for growing cells or microorganisms.",
+          "examples": [
+            "The bioreactor was used to cultivate bacteria for antibiotic production.",
+            "Scale-up of the bioreactor improved yield."
+          ],
+          "collocations": ["industrial bioreactor", "bioreactor design", "bioreactor chamber"],
+          "synonyms": ["biological reactor"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "engineering", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "bioreactors",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bioreactor; multiple devices where biological reactions are carried out.",
+          "examples": [
+            "Several bioreactors were installed for the fermentation process."
+          ],
+          "collocations": ["industrial bioreactors", "bioreactors operation"],
+          "synonyms": ["biological reactors"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "engineering", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "bioreagent",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a biological agent or reagent used in experiments or manufacturing processes.",
+          "examples": [
+            "The kit includes a bioreagent for detecting the target protein."
+          ],
+          "collocations": ["bioreagent kit", "bioreagent solution"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "laboratory"]
+        }
+      ]
+    },
+    {
+      "term": "bioreagents",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bioreagent; multiple biological reagents used in experiments.",
+          "examples": [
+            "Bioreagents are stored under cold conditions."
+          ],
+          "collocations": ["bioreagents catalogue", "bioreagents storage"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "laboratory"]
+        }
+      ]
+    },
+    {
+      "term": "bioregion",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a distinct geographic area characterized by its biological community and ecological features.",
+          "examples": [
+            "The mangrove bioregion supports diverse species.",
+            "Conservation plans focus on protecting this bioregion."
+          ],
+          "collocations": ["tropical bioregion", "bioregion boundary"],
+          "synonyms": ["ecoregion"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["environment", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "bioregional",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a bioregion or to bioregional planning and identity.",
+          "examples": [
+            "Bioregional planning aims to fit human activity to local ecosystems.",
+            "Bioregional identity strengthens community environmental efforts."
+          ],
+          "collocations": ["bioregional planning", "bioregional identity"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["environment", "planning", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "bioregionalism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a political or environmental philosophy that emphasizes living within the ecological limits of a bioregion.",
+          "examples": [
+            "Bioregionalism advocates local production and sustainable living.",
+            "Some communities discuss bioregionalism as an alternative to globalization."
+          ],
+          "collocations": ["practice of bioregionalism", "bioregionalism movement"],
+          "synonyms": ["ecoregionalism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["environment", "political science", "sociology"]
+        }
+      ]
+    }
+  ]
+}

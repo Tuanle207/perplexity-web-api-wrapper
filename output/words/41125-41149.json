@@ -1,0 +1,584 @@
+{
+  "items": [
+    {
+      "term": "biomolecule",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a molecule that is produced by a living organism and is essential to its structure or function",
+          "examples": [
+            "Proteins, nucleic acids, and fats are examples of biomolecules.",
+            "Researchers study the interactions of biomolecules to understand cellular processes."
+          ],
+          "collocations": [
+            "biomolecule synthesis",
+            "biomolecule structure",
+            "biomolecule analysis",
+            "biomolecule concentration",
+            "biomolecule interaction"
+          ],
+          "synonyms": ["biological molecule", "organic molecule produced by life"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "biomolecules",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple molecules that are produced by living organisms and are essential to life processes",
+          "examples": [
+            "Biomolecules such as proteins and nucleic acids are studied in biochemistry.",
+            "The lab analyzes several biomolecules to understand metabolic pathways."
+          ],
+          "collocations": [
+            "biomolecules in cells",
+            "detect biomolecules",
+            "biomolecule classes",
+            "biomolecules research"
+          ],
+          "synonyms": ["biological molecules"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "education"]
+        }
+      ]
+    },
+    {
+      "term": "biomorph",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a form or shape inspired by or resembling a living organism; often used in art or design",
+          "examples": [
+            "The sculpture shows a biomorph that blends plant and animal features.",
+            "The designer created biomorph-inspired patterns for the wallpaper."
+          ],
+          "collocations": [
+            "biomorph form",
+            "biomorph design",
+            "biomorph sculpture"
+          ],
+          "synonyms": ["organic form", "bio-inspired shape"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "design", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "biomorphic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or denoting a style of art or design that uses organic, plant-like shapes",
+          "examples": [
+            "The mural features biomorphic forms that echo natural growth.",
+            "Her biomorphic motifs give the vase a flowing, natural feel."
+          ],
+          "collocations": [
+            "biomorphic design",
+            "biomorphic shapes",
+            "biomorphic patterns"
+          ],
+          "synonyms": ["organic", "bio-inspired"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "design", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "biomorphs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of biomorph; living-organism-inspired forms or figures used in art, science, or fiction",
+          "examples": [
+            "The exhibit includes biomorphs depicted in sculpture and digital art.",
+            "In the story, biomorphs adapt to different environments."
+          ],
+          "collocations": [
+            "biomorphs in art",
+            "biomorphs in fiction",
+            "bio-inspired biomorphs"
+          ],
+          "synonyms": ["bio-inspired forms", "organic-inspired figures"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "literature", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bion",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a prefix or standalone term used in certain coined scientific or fictional contexts; interpretation varies by usage",
+          "examples": [
+            "In the synthetic biology paper, 'bion' refers to a basic living module.",
+            "The term 'bion' appears in the science fiction glossary as a unit of life."
+          ],
+          "collocations": [
+            "bion unit",
+            "bion module"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "fiction", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bionditional",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "an uncommon or coined term; possibly a blend of 'bio' and 'additional' or 'traditional' used in speculative contexts",
+          "examples": [
+            "The catalog lists bionditional features for future bio-interfaces."
+          ],
+          "collocations": [
+            "bionditional features",
+            "bionditional design"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "fiction", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bionergy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the energy derived from biological sources, often used in discussions of bioenergy and sustainability",
+          "examples": [
+            "The project investigates the potential of bionergy from algae.",
+            "Policies encourage sustainable bionergy production."
+          ],
+          "collocations": [
+            "bionergy production",
+            "bionergy sources",
+            "bionergy efficiency"
+          ],
+          "synonyms": ["bioenergy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "environment", "energy", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "bionic",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or designed to imitate natural biological abilities, especially by using technology",
+          "examples": [
+            "The patient received a bionic prosthetic leg.",
+            "Bionic implants help people hear better."
+          ],
+          "collocations": [
+            "bionic limb",
+            "bionic ear",
+            "bionic enhancement"
+          ],
+          "synonyms": ["prosthetic", "cybernetic"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "technology", "education"]
+        }
+      ]
+    },
+    {
+      "term": "bionics",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study or use of systems and devices that imitate or integrate with biological organisms; the science of applying biological methods to engineering",
+          "examples": [
+            "Bionics combines biology and engineering to create advanced prosthetics.",
+            "Researchers in bionics aim to imitate natural nervous systems."
+          ],
+          "collocations": [
+            "field of bionics",
+            "bionics research",
+            "bionics applications"
+          ],
+          "synonyms": ["bio-inspired engineering", "biomimetics"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering", "technology", "education"]
+        }
+      ]
+    },
+    {
+      "term": "bionomic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the study or distribution of living organisms in relation to their environment; often used in ecology",
+          "examples": [
+            "Bionomic factors influence species distribution in wetlands."
+          ],
+          "collocations": [
+            "bionomic factors",
+            "bionomic study"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ecology", "biology", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "bionomical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to bionomics or the law of distribution of organisms, used in scholarly contexts",
+          "examples": [
+            "Bionomical data were collected to map species richness."
+          ],
+          "collocations": [
+            "bionomical data",
+            "bionomical analysis"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "ecology", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "bionomically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner related to bionomics or the distribution of organisms in relation to their environment",
+          "examples": [
+            "The populations were studied bionomically to understand habitat preferences."
+          ],
+          "collocations": [
+            "bionomically analyze",
+            "bionomically determine"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "ecology", "research"]
+        }
+      ]
+    },
+    {
+      "term": "bionomics",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the science studying the ways in which living organisms interact with their environment and the distribution of species",
+          "examples": [
+            "Bionomics helps ecologists understand why certain species thrive in specific habitats.",
+            "The book covers general bomics and detailed case studies."
+          ],
+          "collocations": [
+            "bionomics of a species",
+            "study of bionomics",
+            "bionomics data"
+          ],
+          "synonyms": ["ecology", "bioecology"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "ecology", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "bionomies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bionomy; the study or knowledge of the laws governing living organisms in relation to their environment",
+          "examples": [
+            "Early texts described several bionomies of different ecosystems."
+          ],
+          "collocations": [
+            "different bionomies",
+            "study of bionomies"
+          ],
+          "synonyms": ["bionomic systems"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "ecology", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "bionomist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a researcher who studies bionomics; an ecologist",
+          "examples": [
+            "The bionomist mapped species distributions across the reserve.",
+            "Bionomists contribute to biodiversity assessments."
+          ],
+          "collocations": [
+            "bionomist studies",
+            "work of a bionomist"
+          ],
+          "synonyms": ["ecologist", "ecobiologist"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "ecology", "research"]
+        }
+      ]
+    },
+    {
+      "term": "bionomists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bionomist; researchers who study bomics",
+          "examples": [
+            "Bionomists gathered data from multiple habitats."
+          ],
+          "collocations": [
+            "bionomists gather",
+            "team of bionomists"
+          ],
+          "synonyms": ["ecologists"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "ecology", "research"]
+        }
+      ]
+    },
+    {
+      "term": "bionomy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the science or study of the distribution and relationship of living organisms in an environment",
+          "examples": [
+            "Bionomy examines how species interact within a habitat."
+          ],
+          "collocations": [
+            "principles of bionomy",
+            "bionomy and ecology"
+          ],
+          "synonyms": ["biogeography", "ecology"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "ecology", "biology", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "biont",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a living organism; a creature",
+          "examples": [
+            "The researchers observed a biont in the simulated environment.",
+            "Various bionts contributed to the ecosystem model."
+          ],
+          "collocations": [
+            "soil biont",
+            "marine biont"
+          ],
+          "synonyms": ["organism", "being", "creature"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "ecology", "education"]
+        }
+      ]
+    },
+    {
+      "term": "bionic",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or designed to imitate natural biological abilities, especially by using technology",
+          "examples": [
+            "The patient received a bionic prosthetic leg.",
+            "Bionic implants help people hear better."
+          ],
+          "collocations": [
+            "bionic limb",
+            "bionic ear",
+            "bionic enhancement"
+          ],
+          "synonyms": ["prosthetic", "cybernetic"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bionts",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of biont; living organisms",
+          "examples": [
+            "Researchers tracked the interactions between different bionts.",
+            "The study cataloged various soil bionts."
+          ],
+          "collocations": [
+            "soil bionts",
+            "marine bionts"
+          ],
+          "synonyms": ["organisms", "creatures"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "ecology"]
+        }
+      ]
+    },
+    {
+      "term": "bioparent",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a parent representing a biological parent in discussions of reproduction or genetics; commonly used in medical or bioethics contexts",
+          "examples": [
+            "The bioparent provided genetic material for the embryo."
+          ],
+          "collocations": [
+            "bioparent consent",
+            "bioparent information"
+          ],
+          "synonyms": ["genetic parent"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "bioethics", "genetics"]
+        }
+      ]
+    },
+    {
+      "term": "bioparents",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bioparent; biological parents in contexts like adoption, genetics, or fertility",
+          "examples": [
+            "The adoption case involved the bioparents and the new guardians."
+          ],
+          "collocations": [
+            "bioparents rights",
+            "bioparents consent"
+          ],
+          "synonyms": ["genetic parents"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "genetics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "biopesticidal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to pesticides derived from natural materials or biological processes used to control pests",
+          "examples": [
+            "The farm uses biopesticidal sprays to protect crops with minimal environmental impact."
+          ],
+          "collocations": [
+            "biopesticidal formulation",
+            "biopesticidal products",
+            "biopesticidal methods"
+          ],
+          "synonyms": ["bio-based pest control", "biological pesticides"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "environment", "science"]
+        }
+      ]
+    },
+    {
+      "term": "biopesticide",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a pesticide derived from natural materials such as plants, bacteria, or minerals",
+          "examples": [
+            "Bt toxin is a widely used biopesticide.",
+            "Biopesticides can target specific pests with less impact on beneficial insects."
+          ],
+          "collocations": [
+            "biopesticide product",
+            "biopesticide regulatory approval",
+            "biopesticide use"
+          ],
+          "synonyms": ["bio-pesticide"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "environment", "science", "policy"]
+        }
+      ]
+    }
+  ]
+}

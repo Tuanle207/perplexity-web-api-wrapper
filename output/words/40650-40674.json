@@ -1,0 +1,623 @@
+```json
+{
+  "items": [
+    {
+      "term": "bimini",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A type of sun-protective canopy or awning used on boats.",
+          "examples": [
+            "The boat's bimini kept us shaded from the hot sun.",
+            "He raised the bimini to cover the cockpit.",
+            "A sturdy bimini is essential for long fishing trips."
+          ],
+          "collocations": [
+            "boat bimini",
+            "bimini top",
+            "stainless steel bimini",
+            "folding bimini",
+            "custom bimini"
+          ],
+          "synonyms": ["canopy", "awning", "sunshade"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical", "boating"]
+        }
+      ]
+    },
+    {
+      "term": "biminis",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bimini; protective canopies on boats.",
+          "examples": [
+            "The yacht was equipped with two biminis.",
+            "We compared prices for new biminis online."
+          ],
+          "collocations": [
+            "adjustable biminis",
+            "marine biminis",
+            "replacement biminis"
+          ],
+          "synonyms": ["awnings", "canopies"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "bimmeler",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A surname, typically German-origin.",
+          "examples": [
+            "John Bimmeler works in engineering.",
+            "The Bimmeler family lives nearby."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bimodal",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having two distinct modes or peaks, as in a statistical distribution.",
+          "examples": [
+            "The test scores showed a bimodal distribution.",
+            "This bimodal pattern suggests two user groups."
+          ],
+          "collocations": [
+            "bimodal distribution",
+            "bimodal histogram",
+            "bimodal pattern",
+            "bimodal curve",
+            "bimodal data"
+          ],
+          "synonyms": ["dual-peaked", "bitonic"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["statistics", "mathematics", "science"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Having two different forms, operations, or modes.",
+          "examples": [
+            "The device has bimodal functionality.",
+            "Bimodal transportation includes bus and rail."
+          ],
+          "collocations": [
+            "bimodal system",
+            "bimodal operation",
+            "bimodal transport"
+          ],
+          "synonyms": ["dual-mode", "twofold"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "bimodalities",
+      "kind": "noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bimodality; the state of being bimodal.",
+          "examples": [
+            "Researchers analyzed the bimodalities in the data."
+          ],
+          "collocations": [
+            "statistical bimodalities"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["statistics"]
+        }
+      ]
+    },
+    {
+      "term": "bimodality",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality or state of having two distinct modes or peaks.",
+          "examples": [
+            "Bimodality in the graph indicated two populations.",
+            "The study confirmed bimodality in species distribution."
+          ],
+          "collocations": [
+            "statistical bimodality",
+            "distribution bimodality",
+            "bimodality test"
+          ],
+          "synonyms": ["dual-modality"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["statistics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bimodule",
+      "kind": "noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "In algebra, a module that is both left and right module over a ring.",
+          "examples": [
+            "The bimodule structure simplifies the calculation."
+          ],
+          "collocations": [
+            "left-right bimodule",
+            "ring bimodule"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["mathematics", "algebra"]
+        }
+      ]
+    },
+    {
+      "term": "bimodulus",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A material or structure exhibiting two moduli of elasticity.",
+          "examples": [
+            "The bimodulus beam was tested under load."
+          ],
+          "collocations": [
+            "bimodulus material"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["engineering", "materials_science"]
+        }
+      ]
+    },
+    {
+      "term": "bimolecular",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Involving two molecules, especially in chemical reactions.",
+          "examples": [
+            "This is a bimolecular reaction pathway.",
+            "The rate depends on bimolecular collisions."
+          ],
+          "collocations": [
+            "bimolecular reaction",
+            "bimolecular rate",
+            "bimolecular kinetics"
+          ],
+          "synonyms": ["diemolecular"],
+          "antonyms": ["unimolecular"],
+          "register": "null",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bimolecularly",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a way involving two molecules.",
+          "examples": [
+            "The process proceeds bimolecularly."
+          ],
+          "collocations": [
+            "react bimolecularly"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bimong",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A rare surname or place name.",
+          "examples": [
+            "Bimong Village is in Asia."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bimonthlies",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bimonthly; publications issued every two months.",
+          "examples": [
+            "She subscribes to several bimonthlies."
+          ],
+          "collocations": [
+            "literary bimonthlies"
+          ],
+          "synonyms": ["bi-monthlies"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["publishing"]
+        }
+      ]
+    },
+    {
+      "term": "bimonthly",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Occurring every two months.",
+          "examples": [
+            "The bimonthly meeting is next week.",
+            "It's a bimonthly magazine."
+          ],
+          "collocations": [
+            "bimonthly magazine",
+            "bimonthly report",
+            "bimonthly payment"
+          ],
+          "synonyms": ["every two months"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general", "business"]
+        },
+        {
+          "pos": "adverb",
+          "definition": "Once every two months.",
+          "examples": [
+            "We meet bimonthly."
+          ],
+          "collocations": [
+            "published bimonthly"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bimorph",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A structure with two layers that bend when voltage is applied, used in actuators.",
+          "examples": [
+            "The bimorph strip deflected under electric field.",
+            "Bimorph sensors are common in robotics."
+          ],
+          "collocations": [
+            "piezoelectric bimorph",
+            "bimorph actuator",
+            "bimorph cantilever"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["engineering", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bimorphemic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Consisting of two morphemes.",
+          "examples": [
+            "\"Unhappy\" is a bimorphemic word."
+          ],
+          "collocations": [
+            "bimorphemic word",
+            "bimorphemic structure"
+          ],
+          "synonyms": [],
+          "antonyms": ["monomorphemic"],
+          "register": "null",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "bimorphs",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bimorph; two-layer bending structures.",
+          "examples": [
+            "Multiple bimorphs were integrated into the device."
+          ],
+          "collocations": [
+            "piezo bimorphs"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "bimotor",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An aircraft powered by two motors.",
+          "examples": [
+            "The bimotor plane took off smoothly."
+          ],
+          "collocations": [
+            "twin-engine bimotor",
+            "light bimotor"
+          ],
+          "synonyms": ["twin-motor"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["aviation"]
+        }
+      ]
+    },
+    {
+      "term": "bimotored",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Powered by two motors.",
+          "examples": [
+            "The bimotored aircraft was reliable."
+          ],
+          "collocations": [
+            "bimotored plane"
+          ],
+          "synonyms": ["twin-engined"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["aviation"]
+        }
+      ]
+    },
+    {
+      "term": "bimotors",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bimotor; two-motor aircraft.",
+          "examples": [
+            "The hangar housed several bimotors."
+          ],
+          "collocations": [
+            "small bimotors"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["aviation"]
+        }
+      ]
+    },
+    {
+      "term": "bimucronate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having two mucronate tips (botany).",
+          "examples": [
+            "The leaf is bimucronate at the apex."
+          ],
+          "collocations": [
+            "bimucronate leaf"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "bimuscular",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having two muscles (rare, anatomical).",
+          "examples": [
+            "The bimuscular structure aids movement."
+          ],
+          "collocations": [
+            "bimuscular limb"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "bin",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A container for storing or holding waste, rubbish, or items.",
+          "examples": [
+            "Throw the paper in the bin.",
+            "She sorted the recycling into bins.",
+            "The storage bin was full of toys."
+          ],
+          "collocations": [
+            "rubbish bin",
+            "recycling bin",
+            "trash bin",
+            "storage bin",
+            "waste bin"
+          ],
+          "synonyms": ["trash can", "dustbin", "container"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To throw something away in a bin.",
+          "examples": [
+            "Just bin that old letter.",
+            "He binned the broken parts."
+          ],
+          "collocations": [
+            "bin the rubbish",
+            "bin it"
+          ],
+          "synonyms": ["discard", "trash", "throw away"],
+          "antonyms": ["keep", "save"],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A storage unit or compartment in computing or data.",
+          "examples": [
+            "The data fell into three bins."
+          ],
+          "collocations": [
+            "data bin",
+            "histogram bin"
+          ],
+          "synonyms": ["bucket"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["computing", "statistics"]
+        }
+      ]
+    },
+    {
+      "term": "binal",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to two parts; twofold or binary (rare).",
+          "examples": [
+            "The binal nature of the system."
+          ],
+          "collocations": [
+            "binal division"
+          ],
+          "synonyms": ["binary", "dual"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "binaphthyl",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A chemical compound consisting of two naphthyl groups (also spelled BINAPHTHYL).",
+          "examples": [
+            "Binaphthyl is used in asymmetric catalysis."
+          ],
+          "collocations": [
+            "1,1'-binaphthyl"
+          ],
+          "synonyms": ["BINAPHTHYL"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "binapthyl",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant spelling of binaphthyl; a linked naphthyl compound.",
+          "examples": [
+            "Binapthyl derivatives are chiral ligands."
+          ],
+          "collocations": [],
+          "synonyms": ["binaphthyl"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["chemistry"]
+        }
+      ]
+    }
+  ]
+}
+```

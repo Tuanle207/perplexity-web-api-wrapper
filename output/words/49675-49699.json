@@ -1,0 +1,504 @@
+{
+  "items": [
+    {
+      "term": "bromize",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to treat or combine with bromine, often to form a brominated compound",
+          "examples": [
+            "The chemist will bromize the hydrocarbon to study its properties.",
+            "Some polymers are bromized to improve their performance."
+          ],
+          "collocations": ["bromize a compound", "bromize material", "bromize solution"],
+          "synonyms": ["brominate"],
+          "antonyms": ["debrominate"],
+          "register": "formal",
+          "domain": ["science", "chemistry", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bromized",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having been treated with bromine or converted to a bromine-containing compound",
+          "examples": [
+            "The bromized compound showed different reactivity than the original.",
+            "Bromized plastics are used in certain flame-retardant applications."
+          ],
+          "collocations": ["bromized compound", "bromized hydrocarbon", "bromized polymer"],
+          "synonyms": ["brominated"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "bromizer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or reagent used to bromize; a brominating agent or apparatus",
+          "examples": [
+            "The bromizer was used to introduce bromine into the substrate.",
+            "Researchers designed a safer bromizer for lab use."
+          ],
+          "collocations": ["bromizer device", "bromizer reagent"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bromizes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of bromize; he/she/it bromizes a substance",
+          "examples": [
+            "The chemist bromizes the compound to yield a brominated product.",
+            "He bromizes alkenes under radical conditions."
+          ],
+          "collocations": ["bromizes the compound", "bromizes substrate"],
+          "synonyms": ["brominates"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromizing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of introducing bromine into a substance",
+          "examples": [
+            "Bromizing the alkene yields a dibrominated product.",
+            "Durable plastics can be bromizing to improve flame resistance."
+          ],
+          "collocations": ["bromizing process", "bromizing reaction"],
+          "synonyms": ["brominating"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "bromlite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mineral; a specific bromine-containing mineral (BaCa(CO3)2) related to witherite and strontianite",
+          "examples": [
+            "Bromlite is a rare mineral found in mineral deposits.",
+            "The specimen was identified as bromlite by the geologist."
+          ],
+          "collocations": ["bromlite mineral", "bromlite specimen"],
+          "synonyms": ["alstonite"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "mineralogy"]
+        }
+      ]
+    },
+    {
+      "term": "brommer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who brominates or a device used for bromination; informal usage may refer to a brominating agent user",
+          "examples": [
+            "The brommer added bromine carefully to the solution.",
+            "This brommer bottle should be handled with gloves."
+          ],
+          "collocations": ["chemical brommer", "brommer reagent"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["chemistry", "laboratory"]
+        }
+      ]
+    },
+    {
+      "term": "brommers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of brommer; multiple brommers or bromination devices/reagents",
+          "examples": [
+            "The lab used several brommers in sequence.",
+            "Different brommers were tested for efficiency."
+          ],
+          "collocations": ["brommer devices", "brommer reagents"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "laboratory"]
+        }
+      ]
+    },
+    {
+      "term": "bromo",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "prefix",
+          "definition": "a chemical prefix meaning containing bromine or related to bromine compounds",
+          "examples": [
+            "bromoacetone contains bromine in its structure.",
+            "brominated compounds often use the bromo- prefix."
+          ],
+          "collocations": ["bromo- substituent", "bromo derivative"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "nomenclature"]
+        }
+      ]
+    },
+    {
+      "term": "bromoacetone",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a brominated ketone used in organic synthesis",
+          "examples": [
+            "Bromoacetone is used as an electrophile in certain reactions.",
+            "The synthesis employed bromoacetone as an intermediate."
+          ],
+          "collocations": ["bromoacetone reagent", "bromoacetone synthesis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "organic synthesis"]
+        }
+      ]
+    },
+    {
+      "term": "bromoaurate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical compound containing bromine and gold in a salt form",
+          "examples": [
+            "The solution contained bromoaurate complexes.",
+            "Bromoaurates are studied in inorganic chemistry."
+          ],
+          "collocations": ["bromoaurate complex", "bromoaurate salt"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "inorganic chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromoaurates",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bromoaurate; multiple bromine-gold compounds",
+          "examples": [
+            "The lab synthesized several bromoaurates for study.",
+            "Different bromoaurates exhibit varied solubilities."
+          ],
+          "collocations": ["bromoaurate complexes", "bromoaurate salts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "inorganic chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromoauric",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to compounds containing bromine and gold, often in a +1 oxidation state",
+          "examples": [
+            "Bromoauric acids are a class of gold-bromine compounds.",
+            "Researchers studied bromoauric complexes in catalysis."
+          ],
+          "collocations": ["bromoauric acid", "bromoauric complex"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "inorganic chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromobenzene",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical compound with a benzene ring where one hydrogen is replaced by bromine",
+          "examples": [
+            "Bromobenzene is used as an intermediate in chemical synthesis.",
+            "The preparation of bromobenzene involves halogenation of benzene."
+          ],
+          "collocations": ["bromobenzene synthesis", "bromobenzene derivative"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "organic synthesis"]
+        }
+      ]
+    },
+    {
+      "term": "bromobenzyl",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "prefix",
+          "definition": "a brominated benzyl group used in chemical naming",
+          "examples": [
+            "Bromobenzyl alcohol is a common intermediate.",
+            "The compound contains a bromobenzyl moiety."
+          ],
+          "collocations": ["bromobenzyl group", "bromobenzyl derivative"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromocamphor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a brominated camphor compound used in chemistry or fragrance applications",
+          "examples": [
+            "Bromocamphor is sometimes used in synthesis.",
+            "Analysts studied the properties of bromocamphor under heat."
+          ],
+          "collocations": ["bromocamphor derivative", "bromocamphor compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "fragrance"]
+        }
+      ]
+    },
+    {
+      "term": "bromochloromethane",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a halogenated methane with bromine and chlorine; used in organic synthesis",
+          "examples": [
+            "Bromochloromethane participates in halogenation reactions.",
+            "Safety measures are essential when handling bromochloromethane."
+          ],
+          "collocations": ["bromochloromethane synthesis", "bromochloromethane reagent"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "organic synthesis"]
+        }
+      ]
+    },
+    {
+      "term": "bromochlorophenol",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a brominated phenol compound containing bromine and chlorine on a phenol ring",
+          "examples": [
+            "Bromochlorophenol derivatives are used in chemical research.",
+            "The sample contained bromochlorophenol as an impurity."
+          ],
+          "collocations": ["bromochlorophenol derivative", "bromochlorophenol reagent"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "organic synthesis"]
+        }
+      ]
+    },
+    {
+      "term": "bromocresol",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a brominated cresol compound used as a dye or pH indicator",
+          "examples": [
+            "Bromocresol blue is a common pH indicator.",
+            "The solution changed color due to bromocresol."
+          ],
+          "collocations": ["bromocresol dye", "bromocresol indicator"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "lab science"]
+        }
+      ]
+    },
+    {
+      "term": "bromocriptine",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a brominated derivative of ergot alkaloid used as a medication",
+          "examples": [
+            "Bromocriptine is prescribed for certain hormonal disorders.",
+            "The patient was treated with bromocriptine to regulate prolactin levels."
+          ],
+          "collocations": ["bromocriptine medication", "bromocriptine dosage"],
+          "synonyms": ["parlodel (brand)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "pharmacology"]
+        }
+      ]
+    },
+    {
+      "term": "bromocriptines",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bromocriptine; multiple bromocriptine medications or doses",
+          "examples": [
+            "The clinic dispensed bromocriptines for several patients.",
+            "Different brands of bromocriptines have varying excipients."
+          ],
+          "collocations": ["bromocriptines regimen", "bromocriptines dose"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "pharmacology"]
+        }
+      ]
+    },
+    {
+      "term": "bromocyanid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a brominated cyanide compound; a reactive chemical species",
+          "examples": [
+            "Bromocyanid reacts readily with nucleophiles.",
+            "Safety protocols cover bromocyanid handling."
+          ],
+          "collocations": ["bromocyanid reagent", "bromocyanid species"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromocyanidation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the chemical process of forming bromocyanid compounds or introducing bromine and cyanide-related groups",
+          "examples": [
+            "Bromocyanidation is used in specialized organic synthesis.",
+            "The lecture covered bromocyanidation mechanisms."
+          ],
+          "collocations": ["bromocyanidation reaction", "bromocyanidation step"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "organic synthesis"]
+        }
+      ]
+    },
+    {
+      "term": "bromocyanide",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a brominated cyanide compound; a chemical species",
+          "examples": [
+            "Bromocyanide was detected in the reaction mixture.",
+            "Safety data sheets mention bromocyanide as highly reactive."
+          ],
+          "collocations": ["bromocyanide compound", "bromocyanide reagent"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromocyanogen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a brominated cyanogen compound; reactive chemical species",
+          "examples": [
+            "Bromocyanogen participates in halogenation chemistry.",
+            "Handling bromocyanogen requires strict safety measures."
+          ],
+          "collocations": ["bromocyanogen reagent", "bromocyanogen gas"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "laboratory"]
+        }
+      ]
+    }
+  ]
+}

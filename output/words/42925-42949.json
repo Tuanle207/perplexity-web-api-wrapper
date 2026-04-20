@@ -1,0 +1,684 @@
+{
+  "items": [
+    {
+      "term": "blazonry",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The art or practice of blazoning coats of arms or heraldic symbols; heraldry.",
+          "examples": [
+            "The architect admired the blazonry on the building's façade.",
+            "She studied blazonry to understand the family crest."
+          ],
+          "collocations": [
+            "heraldic blazonry",
+            "coat of arms blazonry",
+            "blazonry language"
+          ],
+          "synonyms": ["heraldry"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "history", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "blazons",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        [
+          {
+            "pos": "noun",
+            "definition": "Multiple instances or forms of heraldic symbols; plural of blazon (a coat of arms or its description).",
+            "examples": [
+              "The blazons on the shields were carefully described in the document."
+            ],
+            "collocations": [
+              "coat of arms blazons",
+              "blazons and tinctures",
+              "shield blazons"
+            ],
+            "synonyms": ["heraldic emblems", "coat arms illustrations"],
+            "antonyms": [],
+            "register": "formal",
+            "domain": ["history", "arts"]
+          }
+        ]
+      ]
+    },
+    {
+      "term": "blazy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Spelling variant of 'blase' or a rare term meaning lazy or negligent; not commonly used in modern English.",
+          "examples": [
+            "The blazy craftsperson ignored the details."
+          ],
+          "collocations": [
+            "blazy attitude"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bld",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "A short form that can stand for multiple phrases (e.g., 'build' or 'blood'), context-dependent; not a standard single meaning.",
+          "examples": [
+            "In the specs, 'bld' meant build.",
+            "The file labeled 'bldg' refers to building."
+          ],
+          "collocations": [
+            "abbr. in notes",
+            "bldg (building)"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bldg",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Abbreviation for building.",
+          "examples": [
+            "The bldg is three stories tall."
+          ],
+          "collocations": [
+            "office bldg",
+            "residential bldg"
+          ],
+          "synonyms": ["building"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "bldr",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Short for 'builder' or similar occupation; context-dependent.",
+          "examples": [
+            "The bldr started a new project."
+          ],
+          "collocations": [
+            "general contractor bldr"
+          ],
+          "synonyms": ["builder", "contractor"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "construction"]
+        }
+      ]
+    },
+    {
+      "term": "blea",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A dialectal or archaic term meaning a small meadow or clearing; not common in modern usage.",
+          "examples": [
+            "They rested in the blea beside the stream."
+          ],
+          "collocations": [
+            "blea field",
+            "blea meadow"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bleaberry",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A historical or regional name for a berry; not widely used in modern standard English.",
+          "examples": [
+            "The bleaberry was described in old herbals."
+          ],
+          "collocations": [
+            "bleaberry bush",
+            "bleaberry shrub"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bleach",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A chemical used to whiten or brighten; also the liquid that contains it.",
+          "examples": [
+            "Add some bleach to the laundry to remove stains.",
+            "Bleach can lighten hair."
+          ],
+          "collocations": [
+            "household bleach",
+            "bleach solution",
+            "chlorine bleach"
+          ],
+          "synonyms": ["chlorine", "bleaching agent"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["household", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To whiten or lighten by using bleach; to remove color from something.",
+          "examples": [
+            "Bleach the shirt to remove the stain.",
+            "Sunlight bleaches fabrics over time."
+          ],
+          "collocations": [
+            "bleach white",
+            "bleach hair",
+            "bleach fabrics"
+          ],
+          "synonyms": ["whiten", "lighten"],
+          "antonyms": ["darken", "stain"],
+          "register": "neutral",
+          "domain": ["household", "fashion", "textile"]
+        }
+      ]
+    },
+    {
+      "term": "bleachability",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The degree to which something can be bleached or lightened.",
+          "examples": [
+            "The fabric's bleachability depends on its dye and weave."
+          ],
+          "collocations": [
+            "high bleachability",
+            "bleachability testing"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["textile", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bleachable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Capable of being bleached; susceptible to whitening or lightening.",
+          "examples": [
+            "Bleachable fabrics can fade after sun exposure."
+          ],
+          "collocations": [
+            "bleachable hair",
+            "bleachable material"
+          ],
+          "synonyms": ["whitenable", "lightenable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["textile", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bleached",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Whitened or lightened by chemical bleaching; or pale in color.",
+          "examples": [
+            "His bleached hair stood out in the crowd.",
+            "Bleached teeth look brighter."
+          ],
+          "collocations": [
+            "bleached hair",
+            "bleached clothes",
+            "bleached wood"
+          ],
+          "synonyms": ["whitened", "lightened"],
+          "antonyms": ["unbleached", "dyed"],
+          "register": "neutral",
+          "domain": ["fashion", "household"]
+        }
+      ]
+    },
+    {
+      "term": "bleacher",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who bleaches or, in stadiums, a tiered seating area for spectators; also a seat or area in a stadium.",
+          "examples": [
+            "The bleachers were crowded with fans.",
+            "The bleacher workers treated the fabric with bleach."
+          ],
+          "collocations": [
+            "baseball bleachers",
+            "bleacher section",
+            "bleacher workers"
+          ],
+          "synonyms": ["spectator seating", "stand"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bleacheries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Places or conditions of bleachers; bleacher-related facilities or activities.",
+          "examples": [
+            "The bleacheries were inspected for safety."
+          ],
+          "collocations": [
+            "bleacheries inspection",
+            "bleacheries seating"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "facility"]
+        }
+      ]
+    },
+    {
+      "term": "bleacherite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A mineral or rock name historically used for a substance associated with bleaching; not common in modern usage.",
+          "examples": [
+            "The specimen was labeled as bleacherite in old catalogs."
+          ],
+          "collocations": [
+            "bleacherite sample"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["science", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bleacherites",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bleacherite; multiple specimens or members associated with the term.",
+          "examples": [
+            "The collection included several bleacherites."
+          ],
+          "collocations": [
+            "bleacherites collection"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["science", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bleacherman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who handles or prepares bleach; historically a job title in textile or paper industries.",
+          "examples": [
+            "The bleacherman prepared the whitening solution."
+          ],
+          "collocations": [
+            "bleacherman duties",
+            "bleacherman worker"
+          ],
+          "synonyms": ["bleacher", "whitener"],
+          "antonyms": [],
+          "register": "historical",
+          "domain": ["work", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "bleachers",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Seats in a stadium or sports venue, usually without a roof; a place for spectators.",
+          "examples": [
+            "The bleachers were hot on sunny days.",
+            "Fans gathered in the bleachers to watch the game."
+          ],
+          "collocations": [
+            "wooden bleachers",
+            "stadium bleachers",
+            "bleachers section"
+          ],
+          "synonyms": ["stands", "spectator seating"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bleachery",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The practice or place of bleaching; a term found in historical texts.",
+          "examples": [
+            "The old document mentions the bleachery of the town."
+          ],
+          "collocations": [
+            "local bleachery"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "bleacherite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "See bleacherite above; alternate spelling used in some sources.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["science", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bleacherites",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form related to bleacherite terminology; used in historical contexts.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["science", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bleacherman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "See above; duplicate entry retained for completeness.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "historical",
+          "domain": ["work", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "bleachers",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bleacher; seating areas at sports venues for spectators.",
+          "examples": [
+            "The bleachers were filled with cheering fans.",
+            "The sun beat down on the wooden bleachers."
+          ],
+          "collocations": [
+            "home bleachers",
+            "away bleachers",
+            "bleachers row"
+          ],
+          "synonyms": ["stands", "spectator seating"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bleachery",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "See earlier entry; repeated for completeness.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "bleaches",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Products or substances that whiten fabrics; or the verbs form for whitening chemicals (he/she/it bleaches).",
+          "examples": [
+            "The house uses different bleaches for laundry.",
+            "She bleaches clothes to remove stains."
+          ],
+          "collocations": [
+            "sodium hypochlorite bleaches",
+            "chlorine bleaches",
+            "fabric bleaches"
+          ],
+          "synonyms": ["whitening agents", "bleaching agents"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["household", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bleachfield",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A field or area where bleaching or whitening processes were conducted; historical usage.",
+          "examples": [
+            "The old bleachfield is now a park."
+          ],
+          "collocations": [
+            "bleachfield site"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "bleachground",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A background or area related to bleaching; not a common modern term.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bleachhouse",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A building where bleaching was done; historical factory or facility.",
+          "examples": [
+            "The bleachhouse operated beside the river."
+          ],
+          "collocations": [
+            "bleachhouse facility"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "bleaching",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process of whitening or removing color; the act of bleaching.",
+          "examples": [
+            "Bleaching of textiles requires care.",
+            "Bleaching can weaken fabrics over time."
+          ],
+          "collocations": [
+            "chemical bleaching",
+            "bleaching process",
+            "sun bleaching"
+          ],
+          "synonyms": [" whitening", "lightening"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "textile"]
+        },
+        {
+          "pos": "noun",
+          "definition": "The act of bleaching hair or skin; sometimes used in cosmetic contexts.",
+          "examples": [
+            "Hair bleaching gave her a pale blonde shade."
+          ],
+          "collocations": [
+            "hair bleaching",
+            "bleaching cream"
+          ],
+          "synonyms": ["sun bleaching"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "cosmetics"]
+        }
+      ]
+    },
+    {
+      "term": "bleachings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of bleaching; instances or processes of whitening.",
+          "examples": [
+            "The report covers several different bleachings used in textiles."
+          ],
+          "collocations": [
+            "chemical bleachings",
+            "bleachings process"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "industry"]
+        }
+      ]
+    }
+  ]
+}

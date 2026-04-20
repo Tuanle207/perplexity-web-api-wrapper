@@ -1,0 +1,616 @@
+{
+  "items": [
+    {
+      "term": "bioregionalisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A belief or movement that emphasizes organizing society around bioregions and local ecological boundaries.",
+          "examples": [
+            "Bioregionalisms advocate local governance aligned with natural regions.",
+            "Scholars discussed bioregionalisms as part of sustainable development."
+          ],
+          "collocations": [
+            "bioregionalisms movement",
+            "bioregionalisms approach",
+            "bioregionalisms theory"
+          ],
+          "synonyms": ["bioregionalism movement"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["environment", "society", "politics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bioregionalist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who supports or promotes bioregionalism, the idea of organizing society by natural bioregions.",
+          "examples": [
+            "The bioregionalist argued for local food systems.",
+            "Bioregionalists emphasize watershed boundaries in planning."
+          ],
+          "collocations": [
+            "bioregionalist advocate",
+            "bioregionalist perspective",
+            "bioregionalist movement"
+          ],
+          "synonyms": ["bioregionalist supporter"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["environment", "society", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "bioregionalists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form referring to multiple people who advocate bioregionalism.",
+          "examples": [
+            "Bioregionalists gathered to discuss sustainable town planning.",
+            "Bioregionalists emphasize local culture and resources."
+          ],
+          "collocations": [
+            "bioregionalists gather",
+            "bioregionalists advocate",
+            "bioregionalists movement"
+          ],
+          "synonyms": ["bioregionalist supporters"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["environment", "society", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "bioregions",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Natural, ecologically distinct regions defined by features like watersheds and ecosystems.",
+          "examples": [
+            "Bioregions may be defined by watershed boundaries.",
+            "Different bioregions host distinct plant and animal communities."
+          ],
+          "collocations": [
+            "bioregions defined",
+            "local bioregions",
+            "bioregions boundary"
+          ],
+          "synonyms": ["ecoregions", "biogeographical regions"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "environment", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bioremediation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The use of living things (usually microorganisms) to clean up pollution by breaking down contaminants.",
+          "examples": [
+            "Bioremediation uses bacteria to degrade oil spills.",
+            "Bioremediation can treat polluted soil in place."
+          ],
+          "collocations": [
+            "bioremediation techniques",
+            "bioremediation process",
+            "in situ bioremediation"
+          ],
+          "synonyms": ["bioaugmentation (specific methods)", "biodegradation application"],
+          "antonyms": ["chemical remediation", "physical remediation"],
+          "register": "formal",
+          "domain": ["environment", "science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bioremediations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bioremediation, referring to multiple instances or types of bioremediation efforts.",
+          "examples": [
+            "Various bioremediations were applied at different sites.",
+            "Bioremediations include bacterial and fungal approaches."
+          ],
+          "collocations": [
+            "different bioremediations",
+            "applications of bioremediations",
+            "bioremediations strategies"
+          ],
+          "synonyms": ["bioremediation efforts"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["environment", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bioresearch",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Research involving biological processes, living organisms, or biology-related topics.",
+          "examples": [
+            "The institute conducts bioresearch on microbial growth.",
+            "Bioresearch supports advances in medicine and agriculture."
+          ],
+          "collocations": [
+            "bioresearch findings",
+            "bioresearch methods",
+            "bioresearch program"
+          ],
+          "synonyms": ["biological research"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "education", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "biorgan",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A biological organ or an organ-like tissue; used mainly in technical or medical contexts.",
+          "examples": [
+            "The device mimics a human biorgan for testing.",
+            "Researchers studied the biorgan's response to stimuli."
+          ],
+          "collocations": [
+            "synthetic biorgan",
+            "biorgan function",
+            "biorgan development"
+          ],
+          "synonyms": ["biological organ", "organic tissue"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "biorhythm",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A natural rhythm of the body or biology that repeats roughly every 24 hours.",
+          "examples": [
+            "Some people track their biorhythm to plan activities.",
+            "Jet lag can disrupt your biorhythm."
+          ],
+          "collocations": [
+            " circadian biorhythm",
+            "biorhythm cycle",
+            "biorhythm chart"
+          ],
+          "synonyms": ["circadian rhythm"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "science"]
+        }
+      ]
+    },
+    {
+      "term": "biorhythmic",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or showing a natural body rhythm or cycle.",
+          "examples": [
+            "Biorhythmic patterns influence sleep quality.",
+            "The study examined biorhythmic fluctuations in students."
+          ],
+          "collocations": [
+            "biorhythmic cycles",
+            "biorhythmic data",
+            "biorhythmic changes"
+          ],
+          "synonyms": ["circadian-related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "health"]
+        }
+      ]
+    },
+    {
+      "term": "biorhythmically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a way that relates to biological rhythms or cycles.",
+          "examples": [
+            "He felt tired biorhythmically after the time change.",
+            "Work schedules were adjusted biorhythmically."
+          ],
+          "collocations": [
+            "functionally biorhythmically",
+            "biorhythmically aligned"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "work", "science"]
+        }
+      ]
+    },
+    {
+      "term": "biorhythmicities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of biorhythmicity; multiple cycles or patterns of biological rhythms.",
+          "examples": [
+            "Researchers mapped several biorhythmicities across tissues.",
+            "Biorhythmicities can vary between individuals."
+          ],
+          "collocations": [
+            "biorhythmicities patterns",
+            "different biorhythmicities"
+          ],
+          "synonyms": ["rhythmic patterns", "biological rhythms"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "biorhythmicity",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A single biological rhythm or pattern of rhythmic activity.",
+          "examples": [
+            "The biorhythmicity of heart rate varies with activity.",
+            "Scientists study the biorhythmicity of plants."
+          ],
+          "collocations": [
+            "daily biorhythmicity",
+            "biorhythmicity cycle"
+          ],
+          "synonyms": ["rhythmic pattern"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "biorhythmics",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A field or collection of studies about biological rhythms.",
+          "examples": [
+            "Her work included biorhythmics and sleep science.",
+            "Biorhythmics combines biology and chronobiology."
+          ],
+          "collocations": [
+            "biorhythmics research",
+            "biorhythmics data"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "biorhythms",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Natural, regular bodily cycles that regulate bodily functions.",
+          "examples": [
+            "Our biorhythms influence how we feel each day.",
+            "Some people adjust schedules to their biorhythms."
+          ],
+          "collocations": [
+            "sleep biorhythms",
+            "biological biorhythms",
+            "biorhythms schedule"
+          ],
+          "synonyms": ["circadian rhythms"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "science"]
+        }
+      ]
+    },
+    {
+      "term": "biorythmic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Related to or showing biological rhythms.",
+          "examples": [
+            "Biorythmic signals were monitored to assess fatigue.",
+            "Biorythmic processes influence metabolic rate."
+          ],
+          "collocations": [
+            "biorythmic signals",
+            "biorythmic processes"
+          ],
+          "synonyms": ["biological-rhythm related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "bios",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Short form of 'biographies' or 'biographies and information', or plural of 'bio' meaning a short description of a person, or in science a shorthand for life (plural of bio- prefixes).",
+          "examples": [
+            "Write a bio for the conference program.",
+            "The scientist's bios were published on the website."
+          ],
+          "collocations": [
+            "author bios",
+            "employee bios",
+            "scientific bios"
+          ],
+          "synonyms": ["biographies (bios)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["media", "education", "business"]
+        }
+      ]
+    },
+    {
+      "term": "biosafeties",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Measures or practices to prevent biological hazards; plural of biosafety concept.",
+          "examples": [
+            "Biosafeties are important in lab work with pathogens.",
+            "Regulations cover biosafeties and containment."
+          ],
+          "collocations": [
+            "biosafeties standards",
+            "biosafeties protocols"
+          ],
+          "synonyms": ["biosafety measures"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "policy", "health"]
+        }
+      ]
+    },
+    {
+      "term": "biosafety",
+      "kind": "word",
+            "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Safety in handling biological materials to prevent harm to people, animals, and the environment.",
+          "examples": [
+            "Biosafety rules require proper disposal of samples.",
+            "Biosafety concerns govern genetic engineering research."
+          ],
+          "collocations": [
+            "biosafety protocol",
+            "biosafety level",
+            "biosafety guidelines"
+          ],
+          "synonyms": ["biosecurity (related)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "health", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "biosatellite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A satellite that carries biological experiments or is used to study life in space.",
+          "examples": [
+            "The mission deployed biosatellites to research microbial life in microgravity.",
+            "Biosatellites track how organisms respond to spaceflight."
+          ],
+          "collocations": [
+            "biosatellite mission",
+            "biosatellite experiments"
+          ],
+          "synonyms": ["life-science satellite"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "space", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "biosatellites",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of biosatellite; multiple satellites used for biological experiments in space.",
+          "examples": [
+            "Several biosatellites have flown since the 1960s.",
+            "Researchers compare data from different biosatellites."
+          ],
+          "collocations": [
+            "different biosatellites",
+            "biosatellites program"
+          ],
+          "synonyms": ["life-science satellites"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "space"]
+        }
+      ]
+    },
+    {
+      "term": "bioscience",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The science dealing with living organisms and life processes; biology-related research and applications.",
+          "examples": [
+            "Her career is in bioscience and biotechnology.",
+            "Bioscience advances medical treatments."
+          ],
+          "collocations": [
+            "bioscience research",
+            "bioscience industry",
+            "bioscience community"
+          ],
+          "synonyms": ["biology", "life science"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "education", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "biosciences",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Fields or disciplines that study living organisms, including biology, biotechnology, and related sciences.",
+          "examples": [
+            "She works in the biosciences department.",
+            "Biosciences graduate programs cover genetics and physiology."
+          ],
+          "collocations": [
+            "the biosciences field",
+            "biosciences research",
+            "biosciences education"
+          ],
+          "synonyms": ["life sciences"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "bioscientific",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or characteristic of bioscience and its methods or findings.",
+          "examples": [
+            "Bioscientific research requires rigorous ethics.",
+            "The report highlighted bioscientific advances and their implications."
+          ],
+          "collocations": [
+            "bioscientific methods",
+            "bioscientific literature",
+            "bioscientific community"
+          ],
+          "synonyms": ["biological-science related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "research", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "bioscientist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A scientist who studies biology and life sciences.",
+          "examples": [
+            "The bioscientist leads a team on gene editing.",
+            "Bioscientists often collaborate with medical researchers."
+          ],
+          "collocations": [
+            "bioscientist research",
+            "bioscientist collaboration",
+            "renowned bioscientist"
+          ],
+          "synonyms": ["biologist", "life scientist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "bioregionalisms",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Duplicate entry retained for completeness; refers to the plural of bioregionalism concepts.",
+          "examples": [
+            "Discussions on bioregionalisms and sustainability continued."
+          ],
+          "collocations": [
+            "bioregionalisms and sustainability"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["environment", "society"]
+        }
+      ]
+    }
+  ]
+}

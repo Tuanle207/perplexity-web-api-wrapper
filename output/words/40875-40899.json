@@ -1,0 +1,502 @@
+[
+  {
+    "term": "biocide",
+    "kind": "word",
+    "cefrLevel": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A chemical substance or living organism that destroys or controls harmful organisms, such as bacteria, fungi, or pests.",
+        "examples": [
+          "The factory uses a biocide to prevent mold in the storage rooms.",
+          "Biocides are regulated to protect human health and the environment."
+        ],
+        "collocations": ["economic biocide", "industrial biocide", "antimicrobial biocide", "biocide product", "use of biocide"],
+        "synonyms": ["disinfectant", "pesticide", "sanitizer"],
+        "antonyms": ["innocuous substance", "benign agent"],
+        "register": "formal",
+        "domain": ["general", "environmental", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "biocides",
+    "kind": "word",
+    "cefrLevel": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Plural of biocide; chemical substances or organisms used to destroy or control harmful organisms.",
+        "examples": [
+          "Biocides are used in water treatment and food processing.",
+          "The safety assessment covers all biocides in the product line."
+        ],
+        "collocations": ["range of biocides", "biocides regulation", "biocides product category"],
+        "synonyms": ["disinfectants", "pesticides (in broad use)"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["general", "environmental", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "bioclastic",
+    "kind": "word",
+    "cefrLevel": "C2",
+    "senses": [
+      {
+        "pos": "adjective",
+        "definition": "Relating to or consisting of fragments of living organisms, especially in sedimentary rocks.",
+        "examples": [
+          "Bioclastic limestone is formed from shell fragments and microscopic organisms.",
+          "The rock sample showed bioclastic textures indicating a fossil-rich environment."
+        ],
+        "collocations": ["bioclastic rock", "bioclastic debris", "bioclastic sediment"],
+        "synonyms": ["organic-fragmental", "shell-dominated (in context)"],
+        "antonyms": ["abiogenic", "inorganic"],
+        "register": "formal",
+        "domain": ["geology", "science"]
+      }
+    ]
+  },
+  {
+    "term": "bioclean",
+    "kind": "word",
+    "cefrLevel": "B2",
+    "senses": [
+      {
+        "pos": "adjective",
+        "definition": "Free from microorganisms; sanitized or aseptic.",
+        "examples": [
+          "The lab uses bioclean conditions to prevent contamination.",
+          "Bioclean surfaces reduce the risk of infection in hospitals."
+        ],
+        "collocations": ["bioclean environment", "bioclean room", "bioclean protocol"],
+        "synonyms": ["sterile", "aseptic", "sanitized"],
+        "antonyms": ["contaminated", "germy"],
+        "register": "formal",
+        "domain": ["healthcare", "laboratory", "environmental"]
+      }
+    ]
+  },
+  {
+    "term": "bioclimatic",
+    "kind": "word",
+    "cefrLevel": "C1",
+    "senses": [
+      {
+        "pos": "adjective",
+        "definition": "Relating to the climate of a living organism or to the interaction between biology and climate; often used in ecology to describe climate in terms of its effects on living systems.",
+        "examples": [
+          "Bioclimatic data help researchers understand how species respond to temperature changes.",
+          "The bioclimatic zone influences species distribution."
+        ],
+        "collocations": ["bioclimatic data", "bioclimatic zone", "bioclimatic envelope"],
+        "synonyms": ["bio-climatic", "ecoclimatic"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "environmental", "ecology"]
+      }
+    ]
+  },
+  {
+    "term": "bioclimatician",
+    "kind": "word",
+    "cefrLevel": "C2",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A scientist who studies the interaction between living organisms and climate, often focusing on how climate affects ecosystems.",
+        "examples": [
+          "The bioclimatician models how plant communities shift with warming.",
+          "Bioclimatists contribute to climate adaptation plans for ecosystems."
+        ],
+        "collocations": ["bioclimatician contributes", "bioclimatologist (alt spelling)"],
+        "synonyms": ["ecologist (climate focus)", "climatologist (ecology-focused)"],
+        "antonyms": ["non-scientist", "layperson"],
+        "register": "formal",
+        "domain": ["science", "environmental", "ecology"]
+      }
+    ]
+  },
+  {
+    "term": "bioclimatological",
+    "kind": "word",
+    "cefrLevel": "C2",
+    "senses": [
+      {
+        "pos": "adjective",
+        "definition": "Relating to bioclimatology, the study of how climate affects living organisms.",
+        "examples": [
+          "Bioclimatological models predict species distribution under climate change.",
+          "Bioclimatological data informed conservation planning."
+        ],
+        "collocations": ["bioclimatological analysis", "bioclimatological study"],
+        "synonyms": ["ecological-climate", "bioclimatic (adj)"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "environmental", "ecology"]
+      }
+    ]
+  },
+  {
+    "term": "bioclimatologically",
+    "kind": "word",
+    "cefrLevel": "C2",
+    "senses": [
+      {
+        "pos": "adverb",
+        "definition": "In a bioclimatic manner; with regard to biological responses to climate.",
+        "examples": [
+          "The species responded bioclimatologically to drought conditions.",
+          "Bioclimatologically-informed models were used in the study."
+        ],
+        "collocations": ["bioclimatologically, scientifically"],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "ecology"]
+      }
+    ]
+  },
+  {
+    "term": "bioclimatologies",
+    "kind": "word",
+    "cefrLevel": "C2",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Plural of bioclimatology; the science studying relationships between climate and living organisms.",
+        "examples": [
+          "Bioclimatologies have grown with new climate models.",
+          "Several bioclimatologies contributed to the report."
+        ],
+        "collocations": ["various bioclimatologies", "bioclimatologies field"],
+        "synonyms": ["ecology-climate science"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "ecology"]
+      }
+    ]
+  },
+  {
+    "term": "bioclimatologist",
+    "kind": "word",
+    "cefrLevel": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A scientist who studies how climate affects living organisms.",
+        "examples": [
+          "The bioclimatologist studied how temperature shifts alter plant ranges.",
+          "Bioclimatologists work with climate data to predict ecological changes."
+        ],
+        "collocations": ["bioclimatologist studies", "lead bioclimatologist"],
+        "synonyms": ["ecologist (climate), climatologist (bio-focused)"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "ecology"]
+      }
+    ]
+  },
+  {
+    "term": "bioclimatology",
+    "kind": "word",
+    "cefrLevel": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "The science of how climate and living organisms influence each other.",
+        "examples": [
+          "Bioclimatology explains species distributions in changing climates.",
+          "Her work in bioclimatology informs conservation planning."
+        ],
+        "collocations": ["field of bioclimatology", "bioclimatology data"],
+        "synonyms": ["bio-climate science"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "environmental"]
+      }
+    ]
+  },
+  {
+    "term": "biocoenologies",
+    "kind": "word",
+    "cefrLevel": "C2",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Plural of biocoenology; the study of interacting communities of organisms in an environment.",
+        "examples": [
+          "Biocoenologies examine how species interact within a habitat.",
+          "Researchers mapped several biocoenologies in coral reefs."
+        ],
+        "collocations": ["biocoenologies are studied", "marine biocoenologies"],
+        "synonyms": ["ecology of communities", "biotic community studies"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "ecology"]
+      }
+    ]
+  },
+  {
+    "term": "biocoenology",
+    "kind": "word",
+    "cefrLevel": "C2",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "The study of the interactions of living organisms within a biological community.",
+        "examples": [
+          "Biocoenology analyzes predator–prey relationships in forests.",
+          "The course covers principles of biocoenology."
+        ],
+        "collocations": ["principles of biocoenology", "biocoenology concept"],
+        "synonyms": ["community ecology", "biotic interactions"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "ecology"]
+      }
+    ]
+  },
+  {
+    "term": "biocoenose",
+    "kind": "word",
+    "cefrLevel": "C2",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A biological community of interacting organisms within an environment.",
+        "examples": [
+          "The biocoenose of a lake includes fish, plants, and microorganisms.",
+          "Ecologists describe the biocoenose to understand ecosystem health."
+        ],
+        "collocations": ["lake biocoenose", "biocoenose structure"],
+        "synonyms": ["biotic community", "biocenosis"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "ecology"]
+      }
+    ]
+  },
+  {
+    "term": "biocoenoses",
+    "kind": "word",
+    "cefrLevel": "C2",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Plural of biocoenose; multiple biological communities within different environments.",
+        "examples": [
+          "Across the watershed, biocoenoses vary with habitat type.",
+          "Studying biocoenoses helps compare ecosystem structure."
+        ],
+        "collocations": ["various biocoenoses", "different biocoenoses"],
+        "synonyms": ["biotic communities"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "ecology"]
+      }
+    ]
+  },
+  {
+    "term": "biocoenosis",
+    "kind": "word",
+    "cefrLevel": "C2",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "The combined living organisms in a particular habitat; the biotic community.",
+        "examples": [
+          "The biocoenosis of the reef is diverse and intricate.",
+          "Researchers map the biocoenosis to assess ecosystem health."
+        ],
+        "collocations": ["structure of biocoenosis", "biocoenosis diversity"],
+        "synonyms": ["biotic community", "ecological community"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "ecology"]
+      }
+    ]
+  },
+  {
+    "term": "biocoenotic",
+    "kind": "word",
+    "cefrLevel": "C2",
+    "senses": [
+      {
+        "pos": "adjective",
+        "definition": "Relating to biocoenosis or the study of interacting living organisms within a habitat.",
+        "examples": [
+          "Biocoenotic relationships shape energy flow in ecosystems.",
+          "Biocoenotic analyses reveal how species depend on one another."
+        ],
+        "collocations": ["biocoenotic interactions", "biocoenotic study"],
+        "synonyms": ["biotic-interaction related"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "ecology"]
+      }
+    ]
+  },
+  {
+    "term": "biocompatibilities",
+    "kind": "word",
+    "cefrLevel": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Plural of biocompatibility; the degree to which a material is compatible with living tissue or organisms.",
+        "examples": [
+          "Biocompatibilities are crucial for medical implants.",
+            "Testing ensures the biocompatibilities of new biomaterials."
+        ],
+        "collocations": ["biocompatibilities testing", "biocompatibilities assessment"],
+        "synonyms": ["tissue compatibility", "biocompatibility"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["medicine", "biotechnology"]
+      }
+    ]
+  },
+  {
+    "term": "biocompatibility",
+    "kind": "word",
+    "cefrLevel": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "The property of being compatible with living tissue or organisms; not causing adverse reactions.",
+        "examples": [
+          "The biocompatibility of the implant was tested in animals.",
+          "Biocompatibility is essential for safe medical implants."
+        ],
+        "collocations": ["biocompatibility testing", "biocompatibility assessment", "biocompatibility data"],
+        "synonyms": ["tissue compatibility", "biocompatible suitability"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["medicine", "biotechnology"]
+      }
+    ]
+  },
+  {
+    "term": "biocompatible",
+    "kind": "word",
+    "cefrLevel": "B2",
+    "senses": [
+      {
+        "pos": "adjective",
+        "definition": "Not harmful to living tissue; compatible with biological systems.",
+        "examples": [
+          "Biocompatible materials reduce inflammation after implantation.",
+          "Researchers select biocompatible polymers for implants."
+        ],
+        "collocations": ["biocompatible material", "biocompatible device", "biocompatible coating"],
+        "synonyms": ["tissue-friendly", "non-toxic to cells"],
+        "antonyms": ["biocidic", "toxic"],
+        "register": "formal",
+        "domain": ["medicine", "biotechnology"]
+      }
+    ]
+  },
+  {
+    "term": "biocomputing",
+    "kind": "word",
+    "cefrLevel": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Computing inspired by biological processes or using biological materials; can also refer to computing systems that emulate biology.",
+        "examples": [
+          "Biocomputing explores using DNA for data storage.",
+          "Researchers are developing biocomputing techniques to solve complex problems."
+        ],
+        "collocations": ["biocomputing research", "DNA biocomputing"],
+        "synonyms": ["bio-inspired computing", "bio-computing"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["technology", "science"]
+      }
+    ]
+  },
+  {
+    "term": "biocomputings",
+    "kind": "word",
+    "cefrLevel": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Plural of biocomputing; various instances or projects of biocomputing.",
+        "examples": [
+          "Biocomputings are still mostly experimental but show promise.",
+          "The lab published several biocomputings demonstrations."
+        ],
+        "collocations": ["different biocomputings", "biocomputings projects"],
+        "synonyms": ["bio-inspired computations"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["technology", "science"]
+      }
+    ]
+  },
+  {
+    "term": "biocontainment",
+    "kind": "word",
+    "cefrLevel": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Measures or systems that prevent the spread of dangerous biological agents.",
+        "examples": [
+          "Biocontainment protocols protect workers and the public.",
+          "High levels of biocontainment are required for handling hazardous pathogens."
+        ],
+        "collocations": ["biocontainment facilities", "biocontainment protocols"],
+        "synonyms": ["biosecurity", "containment control"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "healthcare", "biosecurity"]
+      }
+    ]
+  },
+  {
+    "term": "biocontainments",
+    "kind": "word",
+    "cefrLevel": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Plural of biocontainment; systems or facilities that prevent the escape or release of biological agents.",
+        "examples": [
+          "Different biocontainments exist for varying risk levels.",
+          "Biocontainments are audited for safety compliance."
+        ],
+        "collocations": ["biocontainments levels", "biocontainments facilities"],
+        "synonyms": ["biosecurity measures"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "healthcare", "biosecurity"]
+      }
+    ]
+  },
+  {
+    "term": "biocontrol",
+    "kind": "word",
+    "cefrLevel": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "The use of living organisms or natural substances to control pests or diseases.",
+        "examples": [
+          "Phytophages are used in biocontrol to reduce pest populations.",
+          "Biocontrol can be an alternative to chemical pesticides."
+        ],
+        "collocations": ["biocontrol agent", "biocontrol program", "biocontrol methods"],
+        "synonyms": ["biological control", "biological pest control"],
+        "antonyms": ["chemical control", "pesticides"],
+        "register": "formal",
+        "domain": ["agriculture", "environmental science"]
+      }
+    ]
+  }
+]

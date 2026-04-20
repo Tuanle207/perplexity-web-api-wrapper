@@ -1,0 +1,614 @@
+{
+  "items": [
+    {
+      "term": "bourette",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of rough, short-fibered silk or woolen fabric traditionally produced from bast fibers, used for twine or coarse cloth",
+          "examples": [
+            "The loom produced a bourette-like textile with a coarse texture.",
+            "She admired the rustic bourette fabric for its natural look."
+          ],
+          "collocations": [
+            "bourette silk",
+            "coarse bourette",
+            "textile",
+            "fabric"
+          ],
+          "synonyms": ["coarse fabric", "bast-fiber fabric"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "textile"]
+        }
+      ]
+    },
+    {
+      "term": "bourg",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a town or district, especially in a French-speaking region; a fortress or walled town",
+          "examples": [
+            "They visited the old bourg near the river.",
+            "The market was held in the medieval bourg."
+          ],
+          "collocations": [
+            "small bourg",
+            "historic bourg",
+            "medieval bourg"
+          ],
+          "synonyms": ["town", "borough (older usage)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bourgade",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small town or village, especially in France; a populated place smaller than a city",
+          "examples": [
+            "The countryside was dotted with quiet bourguades.",
+            "They retired to a sunny bourgeade after the hike."
+          ],
+          "collocations": [
+            "small bourgeade",
+            "rural bourgeade",
+            "French bourgeade"
+          ],
+          "synonyms": ["village", "hamlet", "town"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeois",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of the middle class who is concerned with material wealth and conventional values",
+          "examples": [
+            "The neighborhood is known for its bourgeois residents.",
+            "As a bourgeois aspiring to status, he collected luxury goods."
+          ],
+          "collocations": [
+            "bourgeois class",
+            "bourgeois values",
+            "bourgeois society"
+          ],
+          "synonyms": ["middle class", "proprietor", "capitalist"],
+          "antonyms": ["proletariat", "working class"],
+          "register": "neutral",
+          "domain": ["society", "general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "of or relating to the bourgeois; concerned with material wealth and conventional respectability",
+          "examples": [
+            "They favored bourgeois tastes and orderly routines.",
+            "A bourgeois lifestyle often emphasizes comfort and status."
+          ],
+          "collocations": [
+            "bourgeois values",
+            "bourgeois lifestyle",
+            "bourgeois respectability"
+          ],
+          "synonyms": ["middle-class", "commercial"],
+          "antonyms": ["bourgeoisie (as noun)", "proletarian"],
+          "register": "neutral",
+          "domain": ["society", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeoise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the female form of bourgeois; a woman belonging to the middle class or concerned with conventional values",
+          "examples": [
+            "The bourgeoise woman defined her status by fashion and etiquette.",
+            "As a bourgeoise, she valued respectable appearances."
+          ],
+          "collocations": [
+            "bourgeoise woman",
+            "bourgeoise society"
+          ],
+          "synonyms": ["bourgeois woman"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["society", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeoises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of bourgeoise; multiple women who belong to the bourgeois class",
+          "examples": [
+            "The bourgeoises gathered for the charity ball.",
+            "Several bourgeoises discussed etiquette."
+          ],
+          "collocations": [
+            "bourgeoises group",
+            "bourgeoises society"
+          ],
+          "synonyms": ["bourgeoise women"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["society", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeoisie",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the social class that owns the means of production; the middle and upper middle class in capitalist societies",
+          "examples": [
+            "The bourgeoisie controlled most of the industry.",
+            "Critics argued that the bourgeoisie resisted reforms."
+          ],
+          "collocations": [
+            "bourgeoisie class",
+            "bourgeoisie values",
+            "capitalist bourgeoisie"
+          ],
+          "synonyms": ["middle class", "capitalist class"],
+          "antonyms": ["proletariat", "working class"],
+          "register": "neutral",
+          "domain": ["economy", "society"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeoisies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bourgeoisie; multiple social classes owning means of production",
+          "examples": [
+            "The novels critique the ambitions of the bourgeoisies.",
+            "Differences within the bourgeoisies reveal class tensions."
+          ],
+          "collocations": [
+            "bourgeoisies and aristocracies",
+            "urban bourgeoisies"
+          ],
+          "synonyms": ["bourgeoisie groups"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["economy", "society"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeoisification",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of becoming bourgeois or adopting bourgeois values, often implying social or cultural change toward middle-class norms",
+          "examples": [
+            "The film critiques the slow bourgeoisification of the town.",
+            "Critics warned against the slow bourgeoisification of culture."
+          ],
+          "collocations": [
+            "bourgeoisification process",
+            "cultural bourgeoisification"
+          ],
+          "synonyms": ["gentrification (near synonym in some contexts)", "middle-class assimilation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["society", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeoisifications",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bourgeoisification",
+          "examples": [
+            "Scholars discussed multiple bourgeoisifications across regions.",
+            "The book examines various bourgeoisifications in modern cities."
+          ],
+          "collocations": [
+            "gradual bourgeoisifications",
+            "regional bourgeoisifications"
+          ],
+          "synonyms": ["bourgeoisification processes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["society", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeoisified",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "made bourgeois in character or style; adopted middle-class or conventional values",
+          "examples": [
+            "The town has bourgeoisified over the last decades.",
+            "The landscape was bourgeoisified by new development."
+          ],
+          "collocations": [
+            "bourgeoisified town",
+            "bourgeoisified lifestyle"
+          ],
+          "synonyms": ["gentrified", "middle-classed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["society", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeoisifies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something bourgeois; to adopt middle-class values or appearances",
+          "examples": [
+            "Developers bourgeoisify the district with new malls.",
+            "Some argue that advertising bourgeoisifies everyday life."
+          ],
+          "collocations": [
+            "bourgeoisifies the area",
+            "bourgeoisifies culture"
+          ],
+          "synonyms": ["gentrifies", "middle-classizes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["society", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeoisify",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make bourgeois; to apply middle-class values or aesthetics to something",
+          "examples": [
+            "The campaign aims to bourgeoisify urban spaces.",
+            "Architects sought to bourgeoisify the design with clean lines."
+          ],
+          "collocations": [
+            "bourgeoisify the city",
+            "bourgeoisify design"
+          ],
+          "synonyms": ["gentrify", "middle-classify"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["society", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeoisifying",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of making something bourgeois; applying middle-class values or aesthetics",
+          "examples": [
+            "The project is in the process of bourgeoisifying the neighborhood.",
+            "Public spaces are undergoing bourgeoisifying changes."
+          ],
+          "collocations": [
+            "bourgeoisifying effects",
+            "ongoing bourgeoisifying"
+          ],
+          "synonyms": ["gentrifying", "middle-classifying"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["society", "urban planning"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeoisitic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or characteristic of the bourgeois; middle-class values or culture",
+          "examples": [
+            "The film critiques bourgeoisitic norms in suburban life.",
+            "Her tastes were distinctly bourgeoisitic."
+          ],
+          "collocations": [
+            "bourgeoisitic culture",
+            "bourgeoisitic values"
+          ],
+          "synonyms": ["bourgeois", "middle-class"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "society"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeon",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a young shoot or bud on a plant; a small growth or new development",
+          "examples": [
+            "The bud began to bourgeon in the spring.",
+            "A bourgeon appeared on the branch after rain."
+          ],
+          "collocations": [
+            "rose bourgeon",
+            "bud bourgeon",
+            "new bourgeon"
+          ],
+          "synonyms": ["bud", "shoot", "sprout"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "nature"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to begin to grow or develop; to bud or sprout",
+          "examples": [
+            "Leaves bourgeon in early spring.",
+            "The city bourgeons with new businesses."
+          ],
+          "collocations": [
+            " bourgeon into",
+            "beginnings bourgeon"
+          ],
+          "synonyms": ["bud", "emerge", "sprout"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "urban development"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeoned",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bourgeon; began to grow or develop",
+          "examples": [
+            "The city bourgeoned into a thriving metropolis.",
+            "New ideas bourgeoned during the conference."
+          ],
+          "collocations": [
+            "bourgeoned rapidly",
+            "bourgeoned into"
+          ],
+          "synonyms": ["developed", "grew", "emerged"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["urban development", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeoning",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "growing or developing rapidly; beginning to become more widespread",
+          "examples": [
+            "A burgeoning tech scene emerged in the district.",
+            "The industry is in a burgeoning phase."
+          ],
+          "collocations": [
+            "burgeoning market",
+            "burgeoning industry",
+            "burgeoning interest"
+          ],
+          "synonyms": ["growing", "developing", "expanding"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["economy", "tech"]
+        }
+      ]
+    },
+    {
+      "term": "bourgeons",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bourgeon; young plant shoots or buds",
+          "examples": [
+            "The branches were full of bourgeons in spring.",
+            "Each bourgeon would become a leaf later."
+          ],
+          "collocations": [
+            "tree bourgeons",
+            "flower bourgeons"
+          ],
+          "synonyms": ["buds", "shoots", "sprouts"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "bourgs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bourg; towns or villages (informal or dialectal usage)",
+          "examples": [
+            "The bourgs surrounding the capital grew rapidly.",
+            "They traveled from several bourgs to the festival."
+          ],
+          "collocations": [
+            "small bourgs",
+            "historic bourgs"
+          ],
+          "synonyms": ["towns", "villages"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bourguignon",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person from the Burgundy region of France; a traditional beef stew cooked in red wine, onions, and carrots",
+          "examples": [
+            "Beef bourguignon is a classic French dish.",
+            "They served bourguignon with mashed potatoes."
+          ],
+          "collocations": [
+            "beef bourguignon",
+            "bourguignon stew"
+          ],
+          "synonyms": ["Boeuf bourguignon", "Beef Burgundy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bourguignonne",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the feminine form or usage related to bourguignon, often describing a Burgundy-style dish or feminine origin",
+          "examples": [
+            "Her bourguignonne recipe was inherited from her grandmother."
+          ],
+          "collocations": [
+            "bourguignonne sauce",
+            "bourguignonne dish"
+          ],
+          "synonyms": ["bourguignon (feminine usage)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bourignian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person associated with or from the Bourigne region or a fictional/rare ethnonym; usage is uncommon",
+          "examples": [
+            "The novel mentions a Bourignian traveler."
+          ],
+          "collocations": [
+            "Bourignian culture"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fiction", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "bourignianism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a belief system or cultural tendency associated with Bourignian identity; largely obscure",
+          "examples": [
+            "The text mentions Bourignianism as a historical curiosity."
+          ],
+          "collocations": [
+            " Bourignianism movement"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bourignianist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who adheres to or studies Bourignianism",
+          "examples": [
+            "The author was a Bourignianist who wrote about regional customs."
+          ],
+          "collocations": [
+            "Bourignianist scholar",
+            "Bourignianist book"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "history"]
+        }
+      ]
+    }
+  ]
+}

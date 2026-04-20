@@ -1,0 +1,459 @@
+{
+  "items": [
+    {
+      "term": "brindlish",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a made-up or nonstandard form of English that mixes elements from different languages or dialects, often used humorously or pejoratively",
+          "examples": ["The text reads as brindlish, blending English with playful local terms."],
+          "collocations": ["brindlish phrases", "mixed brindlish", "nonstandard brindlish"],
+          "synonyms": ["pidgin English", "macaronic English", "creole-lite"],
+          "antonyms": ["standard English", "proper English"],
+          "register": "informal",
+          "domain": ["general", "language"]
+        }
+      ]
+    },
+    {
+      "term": "brine",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "saltwater solution used for preserving or flavoring food",
+          "examples": ["The olives sit in a brine overnight.", "Add brine to the cucumber pickles."],
+          "collocations": ["salt brine", "brine solution", "brine bath", "pickling brine"],
+          "synonyms": ["salt water", "saline solution"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"}
+        },
+        {
+          "pos": "verb",
+          "definition": "to preserve or flavor food by soaking in brine",
+          "examples": ["They brine the meat before smoking.", "Brine the eggs to improve texture."],
+          "collocations": ["brine meat", "brine the fish", "brine overnight"],
+          "synonyms": ["salt", "cure"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "brined",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "preserved or flavored by being soaked in brine",
+          "examples": ["Brined olives are common in Mediterranean cuisine."],
+          "collocations": ["brined olives", "brined chicken"],
+          "synonyms": ["cured", "pickled"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "brinehouse",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place where brine is made or stored; a term used in some dialects or brands, not widely standard",
+          "examples": ["The brinehouse specializes in cured fish."],
+          "collocations": ["brinehouse operations", "brinehouse facility"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "food"]
+        }
+      ]
+    },
+    {
+      "term": "brineless",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "describing meat or fish with the brine removed or not containing brine",
+          "examples": ["They served brineless ham for the diet."],
+          "collocations": ["brineless meat", "brineless fillet"],
+          "synonyms": [],
+          "antonyms": ["brined", "cured"],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "brinelling",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of indentation or wear caused by a rolling or bearing surface, especially in metallurgy",
+          "examples": ["Brinelling can occur under heavy static loads."],
+          "collocations": ["contact brinelling", "ball bearing brinelling"],
+          "synonyms": ["indentation wear"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["engineering", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "brinellings",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of brinelling; instances of brinellings",
+          "examples": ["Several brinellings were observed on the shaft."],
+          "collocations": ["brinellings measurements"],
+          "synonyms": ["indentations"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["engineering", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "brineman",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who works with brine or in a brine-related trade; a surname variant",
+          "examples": ["The brineman prepared the salt solution."],
+          "collocations": ["brineman crew", "brineman at market"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["occupation", "general"]
+        }
+      ]
+    },
+    {
+      "term": "briner",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or device that brines; in some contexts, a manufacturer of brine products",
+          "examples": ["The briner ships pickles to restaurants."],
+          "collocations": ["industrial briner", "briner tank"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "food"]
+        }
+      ]
+    },
+    {
+      "term": "brinners",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of briner; people who brine or devices that brine",
+          "examples": ["Two brinners were inspected."],
+          "collocations": ["brinners team"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "food"]
+        }
+      ]
+    },
+    {
+      "term": "brines",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "salty water used for preserving or flavoring food",
+          "examples": ["The olives sit in brines."],
+          "collocations": ["olives in brines", "salt brines"],
+          "synonyms": ["salt water", "saline solution"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bring",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to take or carry someone or something to a place",
+          "examples": ["Please bring your book to class.", "Could you bring me a glass of water?"],
+          "collocations": ["bring here", "bring along", "bring forward", "bring back"],
+          "synonyms": ["carry", "take", "fetch"],
+          "antonyms": ["take away", "withdraw"],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to cause something to happen or exist; to cause a reaction or result",
+          "examples": ["This news brings hope.", "Her words bring trouble to the team."],
+          "collocations": ["bring change", "bring about", "bring results"],
+          "synonyms": ["cause", "produce"],
+          "antonyms": ["prevent", "lose"],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "bringal",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a traditional or archaic term found in some dialects, or a misspelling; not a standard modern English word",
+          "examples": ["The manuscript uses the word bringal in a regional sense."],
+          "collocations": ["bringal usage"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["language", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "bringall",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "idiom",
+          "definition": "to bring all things together; to confront or confront all at once; rare or regional usage",
+          "examples": ["Bringall your notes to the meeting."],
+          "collocations": ["bringall gathering"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bringdown",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a disappointment or setback; something that lowers spirits",
+          "examples": ["The loss was a real bringdown."],
+          "collocations": ["personal bringdown", "economic bringdown"],
+          "synonyms": ["setback", "disappointment"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to cause someone to feel down or disappointed",
+          "examples": ["The news brought him down."],
+          "collocations": ["bring down morale", "bring down prices"],
+          "synonyms": ["depress", "dismay"],
+          "antonyms": ["uplift", "raise"],
+          "register": "informal",
+          "domain": ["general", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "bringdowns",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bringdown; multiple disappointments or setbacks",
+          "examples": ["Several bringdowns affected the project."],
+          "collocations": ["frequent bringdowns"],
+          "synonyms": ["setbacks", "disappointments"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bringed",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "dialectal or nonstandard past tense of bring; standard past tense is brought",
+          "examples": ["He bringed the goods to the market yesterday."],
+          "collocations": ["bringed forward", "bringed here"],
+          "synonyms": ["brought (standard)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["language", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bringela",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a proper noun or brand name; not a common English term",
+          "examples": ["Bringing up a brand named Bringela."],
+          "collocations": ["Bringela product"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "brand"]
+        }
+      ]
+    },
+    {
+      "term": "bringer",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who brings something or delivers it",
+          "examples": ["She is the bringer of good news."],
+          "collocations": ["messenger bringer", "bring-er of gifts"],
+          "synonyms": ["bearer", "deliverer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bringers",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bringer; people who bring or deliver",
+          "examples": ["The bringers arrived on time."],
+          "collocations": ["food bringers", "gift bringers"],
+          "synonyms": ["bearers", "deliverers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bringeth",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of bring in archaic or biblical style",
+          "examples": ["He bringeth gifts to the feast."],
+          "collocations": ["that he bringeth", "that which bringeth"],
+          "synonyms": ["brings"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "religious"]
+        }
+      ]
+    },
+    {
+      "term": "bringing",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of carrying something to a place or the act of bringing something into existence",
+          "examples": ["Bringing your own device is allowed.", "The bringing of new ideas helps the team."],
+          "collocations": ["bringing together", "bringing up", "bringing in"],
+          "synonyms": ["carrying", "delivery"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bringings",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bringing; acts of bringing or methods of bringing",
+          "examples": ["Cultural bringings shape the festival."],
+          "collocations": ["ethnic bringings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "brings",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of bring",
+          "examples": ["She brings her lunch every day.", "What brings you here?"],
+          "collocations": ["brings joy", "brings trouble"],
+          "synonyms": ["carries", "delivers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bringsel",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an item from German-speaking regions, a type of keepsake or small gift; also a traditional term in some contexts",
+          "examples": ["A bringsel is often given at celebrations."],
+          "collocations": ["greeting bringsel", "bringsel gift"],
+          "synonyms": ["trinket", "keepsake"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "general"]
+        }
+      ]
+    }
+  ]
+}

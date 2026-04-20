@@ -1,0 +1,530 @@
+{
+  "items": [
+    {
+      "term": "brewages",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of brewage, a beverage or drink produced by brewing, especially beer or other brewed liquids",
+          "examples": [
+            "The pub offers a variety of brewages, including ales and lagers.",
+            "He sampled several brewages from the brewery.",
+            "Traditional brewages were often shared during festivals."
+          ],
+          "collocations": ["variety of brewages", "local brewages", "breweries produce brewages"],
+          "synonyms": ["beverages", "drinks", "brews"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "brewed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense and past participle of brew; to make a drink (especially beer) by mixing, boiling, and fermenting ingredients",
+          "examples": [
+            "The coffee was brewed fresh this morning.",
+            "They brewed a strong batch of beer yesterday.",
+            "Her favorite tea was brewed exactly for five minutes."
+          ],
+          "collocations": ["brewed coffee", "brewed beer", "brewed tea"],
+          "synonyms": ["made", "prepared", "steeped"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "brewer",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or company that makes beer or other brewed drinks",
+          "examples": [
+            "The brewer announced a new IPA.",
+            "Local brewers gathered for the festival.",
+            "A skilled brewer controls fermentation temperatures carefully."
+          ],
+          "collocations": ["beer brewer", "local brewer", "microbrewer"],
+          "synonyms": ["beer maker", "brewing company"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "breweries",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "places where beer or other brewed drinks are produced and often sold; the industry of beer making",
+          "examples": [
+            "We visited several breweries on our trip.",
+            "The town is known for its breweries and pubs.",
+            "Craft breweries have grown rapidly in recent years."
+          ],
+          "collocations": ["local breweries", "craft breweries", "brewery tours"],
+          "synonyms": ["breweries (collective)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "brewers",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of brewer; people or companies that brew beer",
+          "examples": [
+            "Many brewers joined the festival this year.",
+            "The brewers compete to create the best new stout.",
+            "Small brewers contribute to local economy."
+          ],
+          "collocations": ["craft brewers", "local brewers", "commercial brewers"],
+          "synonyms": ["beer makers", "brewing companies"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "brewership",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rarely used or historical term referring to a brewing voyage or fleet; in modern use, some playful or archaic coinages may appear",
+          "examples": [
+            "In old texts, brewership sometimes described the activity of brewing ships' provisions.",
+            "The word brewership is rarely encountered in contemporary use."
+          ],
+          "collocations": ["breweries", "brewers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "brewery",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place where beer is produced and often sold; a business that makes beer",
+          "examples": [
+            "We toured the local brewery and saw the fermentation tanks.",
+            "The brewery opened a new tasting room.",
+            "Small breweries can be found on many streets."
+          ],
+          "collocations": ["microbrewery", "brewery tour", "brewery taproom"],
+          "synonyms": ["beer factory", "brew plant"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "brewhouse",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the part of a brewery where the brewing process takes place; a building or room housing brewing equipment",
+          "examples": [
+            "Steam rose from the brewhouse as the mash began.",
+            "The brewhouse layout maximizes efficiency during production."
+          ],
+          "collocations": ["brewhouse equipment", "industrial brewhouse"],
+          "synonyms": ["brewing house"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "brewhouses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of brewhouse; multiple brewing facilities or rooms",
+          "examples": [
+            "Several brewhouses were connected to the main production line.",
+            "The new facility includes two brewhouses."
+          ],
+          "collocations": ["industrial brewhouses", "modern brewhouses"],
+          "synonyms": ["brewing houses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "brewing",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of making beer or other drinks by mixing, boiling, and fermenting ingredients",
+          "examples": [
+            "Brewing takes patience and careful temperature control.",
+            "He is studying the science of brewing."
+          ],
+          "collocations": ["home brewing", "beer brewing", "brewing process"],
+          "synonyms": ["fermentation", "production"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle of brew; to make a drink by brewing",
+          "examples": [
+            "They are brewing a stout in the copper kettle.",
+            "She loves brewing coffee with a French press."
+          ],
+          "collocations": ["brewing coffee", "brewing beer"],
+          "synonyms": ["making", "preparing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "brewings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of brewing; instances or paraphernalia of the process of making drinks by brewing",
+          "examples": [
+            "Ancient brewings are often found in culinary archives.",
+            "Different brewings require different temperatures."
+          ],
+          "collocations": ["tea brewings", "beer brewings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "brewis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "obscure or archaic term; may appear as a misspelling or playful form related to 'brew' or a name",
+          "examples": [
+            "Brevis is sometimes seen in old manuscripts, though not common as 'brewis'."
+          ],
+          "collocations": ["brewis (if used as a name)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "brewises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "likely a misspelling or nonce formation; not a standard entry in modern English",
+          "examples": [
+            " brewises is not a recognized standard term."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "brewmaster",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a master brewer; the head person in charge of brewing at a brewery",
+          "examples": [
+            "The brewmaster approved the new recipe.",
+            "Many brewers aspire to become a brewmaster."
+          ],
+          "collocations": ["head brewmaster", "award-winning brewmaster"],
+          "synonyms": ["master brewer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "brewmasters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of brewmaster; multiple master brewers",
+          "examples": [
+            "Several brewmasters spoke at the conference.",
+            "The competition included several renowned brewmasters."
+          ],
+          "collocations": ["seasoned brewmasters", "brewmasters panel"],
+          "synonyms": ["master brewers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "brewpub",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a pub that brews its own beer on the premises",
+          "examples": [
+            "We visited a cozy brewpub for dinner.",
+            "The brewpub offers a rotating list of in-house brews."
+          ],
+          "collocations": ["local brewpub", "brewpub menu"],
+          "synonyms": ["brewery pub"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "brewpubs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of brewpub; pubs that brew their own beer on site",
+          "examples": [
+            "Several brewpubs opened in the neighborhood this year.",
+            "The brewpubs feature tasting flights."
+          ],
+          "collocations": ["local brewpubs", "brewpub tours"],
+          "synonyms": ["brewery pubs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "brews",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "drinks that are brewed, especially beer; or the act of brewing",
+          "examples": [
+            "He sampled several brews at the tasting night.",
+            "This pub has many different brews on tap."
+          ],
+          "collocations": ["local brews", "craft brews", "ice-cold brews"],
+          "synonyms": ["beers", "brews"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of brew; to make drinks by brewing",
+          "examples": [
+            "He brews coffee every morning.",
+            "They brew ale in a small kitchen.",
+            "She brews herbal tea for guests."
+          ],
+          "collocations": ["brews coffee", "brews beer", "brews tea"],
+          "synonyms": ["makes", "prepares"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "brewski",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal slang for a bottle or can of beer; a beer itself",
+          "examples": [
+            "Grab a brewski on your way home.",
+            "They cooled a few brewski after the game."
+          ],
+          "collocations": ["ice-cold brewski", "local brewski"],
+          "synonyms": ["beer", "cold one"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "brewskies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural informal form of brewski; multiple beers",
+          "examples": [
+            "They popped open a couple of brewskies after work."
+          ],
+          "collocations": ["two brewskies", "round of brewskies"],
+          "synonyms": ["beers", "brews"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "brewskis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative spelling of brewskies; plural beers",
+          "examples": [
+            "They shared a couple of brewskis during the game."
+          ],
+          "collocations": ["couple of brewskis", "brewskis night"],
+          "synonyms": ["beers", "brews"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "brewst",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "likely a misspelling or nonstandard form; no established sense in modern English",
+          "examples": [
+            "brewst is not recognized in standard dictionaries."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "brewster",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "historical term for a female brewer; also a surname or name",
+          "examples": [
+            "The old town had a famous Brewster family.",
+            "In old times, a brewster ran the local tavern's beer supply."
+          ],
+          "collocations": ["brewster family", "old brewster"],
+          "synonyms": ["brewer (female)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "brewsterite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mineral named after Brewster; a technical term in geology",
+          "examples": [
+            "Brewsterite is a rare mineral used by collectors."
+          ],
+          "collocations": ["brittle brewsterite"], 
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "brewsters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of brewster; women who brew or historically, a female brewer; or surname form",
+          "examples": [
+            "Several Brewsters contributed recipes to the guild."
+          ],
+          "collocations": ["the Brewsters family"],
+          "synonyms": ["brewers (female)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "general"]
+        }
+      ]
+    }
+  ]
+}

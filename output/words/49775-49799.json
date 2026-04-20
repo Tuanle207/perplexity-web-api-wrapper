@@ -1,0 +1,761 @@
+{
+  "items": [
+    {
+      "term": "bronchobuster",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person or thing that breaks up or clears mucus in the bronchi (airways).",
+          "examples": [
+            "The inhaler is sometimes described as a bronchobuster for clearing thick mucus.",
+            "Coughing can act like a bronchobuster by pushing mucus out."
+          ],
+          "collocations": [
+            "bronchobuster effect",
+            "clear mucus",
+            "bronchial airways",
+            "thick mucus",
+            "mucus plugs"
+          ],
+          "synonyms": [
+            "mucus clearer",
+            "bronchial cleanser"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "medicine",
+            "general"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchocavernous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to a bronchus (airway) that forms a cavity (a hollow space).",
+          "examples": [
+            "Doctors saw bronchocavernous changes on the chest scan.",
+            "The infection can lead to bronchocavernous lesions in some people."
+          ],
+          "collocations": [
+            "bronchocavernous lesion",
+            "airway cavity",
+            "chest imaging",
+            "bronchus",
+            "cavitation"
+          ],
+          "synonyms": [
+            "cavitary bronchial"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchocele",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A section of bronchus (airway) that is blocked and filled with trapped mucus.",
+          "examples": [
+            "Bronchocele can cause persistent coughing.",
+            "The scan showed a bronchocele due to mucus trapped in the airway."
+          ],
+          "collocations": [
+            "filled with mucus",
+            "trapped mucus",
+            "bronchial mucocele",
+            "airway blockage",
+            "bronchus segment"
+          ],
+          "synonyms": [
+            "bronchial mucocele"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchocephalitis",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Inflammation involving the bronchi and the head region (a rare or technical term).",
+          "examples": [
+            "The term bronchocephalitis is used in some specialized medical discussions.",
+            "Clinicians considered bronchocephalitis after unusual symptoms."
+          ],
+          "collocations": [
+            "medical term",
+            "inflammation",
+            "specialized case",
+            "clinical evaluation"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "academic"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchoconstriction",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The narrowing of the bronchi (airways) that makes breathing harder.",
+          "examples": [
+            "Bronchoconstriction is common during asthma attacks.",
+            "Cold air can trigger bronchoconstriction."
+          ],
+          "collocations": [
+            "causes bronchoconstriction",
+            "trigger bronchoconstriction",
+            "airway narrowing",
+            "asthma symptoms",
+            "wheezing"
+          ],
+          "synonyms": [
+            "airway constriction",
+            "bronchial narrowing"
+          ],
+          "antonyms": [
+            "bronchodilation"
+          ],
+          "register": "formal",
+          "domain": [
+            "medicine"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchoconstrictor",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A substance or medicine that causes bronchoconstriction (narrows the airways).",
+          "examples": [
+            "The study tested a bronchoconstrictor on airway tissue.",
+            "Some triggers act like a bronchoconstrictor and lead to wheezing."
+          ],
+          "collocations": [
+            "bronchoconstrictor drug",
+            "induces bronchoconstriction",
+            "narrows airways",
+            "airway response",
+            "asthma mechanism"
+          ],
+          "synonyms": [
+            "airway constrictor"
+          ],
+          "antonyms": [
+            "bronchodilator"
+          ],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "pharmacology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchodilatation",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The widening (opening) of the bronchi (airways), making breathing easier.",
+          "examples": [
+            "Treatment aims for bronchodilatation to reduce airway resistance.",
+            "After the medicine, bronchodilatation improved airflow."
+          ],
+          "collocations": [
+            "bronchodilatation therapy",
+            "airway widening",
+            "improves airflow",
+            "breathing more easily",
+            "decreases resistance"
+          ],
+          "synonyms": [
+            "bronchodilation"
+          ],
+          "antonyms": [
+            "bronchoconstriction"
+          ],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "respiratory"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchodilator",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A medicine that widens the bronchi (airways) and helps you breathe more easily.",
+          "examples": [
+            "The inhaler is a bronchodilator used for asthma.",
+            "Bronchodilators relax airway muscles and increase airflow."
+          ],
+          "collocations": [
+            "rescue bronchodilator",
+            "short-acting bronchodilator",
+            "long-term bronchodilator",
+            "inhaled bronchodilator",
+            "bronchodilator effect"
+          ],
+          "synonyms": [
+            "airway dilator"
+          ],
+          "antonyms": [
+            "bronchoconstrictor",
+            "bronchoconstriction"
+          ],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "respiratory",
+            "pharmacology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchodilators",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Medicines that widen the bronchi (airways) and help improve airflow.",
+          "examples": [
+            "Doctors prescribed bronchodilators for long-term symptom control.",
+            "Bronchodilators can reduce wheezing and tightness in the chest."
+          ],
+          "collocations": [
+            "take bronchodilators",
+            "bronchodilators for asthma",
+            "use a bronchodilator",
+            "bronchodilators relax airways",
+            "combination bronchodilators"
+          ],
+          "synonyms": [
+            "airway dilators"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "respiratory",
+            "pharmacology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchoegophony",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An abnormal chest-sound finding where spoken sounds are heard as unusually sharp or nasal through the bronchi.",
+          "examples": [
+            "Bronchoegophony was noted during auscultation.",
+            "The clinician described bronchoegophony on the exam."
+          ],
+          "collocations": [
+            "listen for bronchoegophony",
+            "auscultation finding",
+            "abnormal breath sounds",
+            "physical examination",
+            "chest exam"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "diagnosis"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchoesophagoscopy",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A medical procedure using a scope to look inside the bronchi and the esophagus.",
+          "examples": [
+            "Bronchoesophagoscopy helps doctors examine airway and throat problems.",
+            "The patient was scheduled for bronchoesophagoscopy after symptoms."
+          ],
+          "collocations": [
+            "perform bronchoesophagoscopy",
+            "medical scope",
+            "examine airway and esophagus",
+            "diagnostic procedure",
+            "endoscopic examination"
+          ],
+          "synonyms": [
+            "combined bronchoscopy and esophagoscopy"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "surgery",
+            "diagnosis"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchogenic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Developing from the bronchi (airways) or related to the bronchi as an origin.",
+          "examples": [
+            "Bronchogenic cysts come from tissues connected to the bronchi.",
+            "The tumor was described as bronchogenic in origin."
+          ],
+          "collocations": [
+            "bronchogenic origin",
+            "bronchogenic cyst",
+            "bronchogenic carcinoma",
+            "arising from bronchi",
+            "airway-related"
+          ],
+          "synonyms": [
+            "airway-derived"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "academic"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchographic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to bronchography, or used to show the bronchi using an imaging method.",
+          "examples": [
+            "The bronchographic images helped locate the abnormal area.",
+            "A bronchographic study was performed to examine the airways."
+          ],
+          "collocations": [
+            "bronchographic study",
+            "bronchographic images",
+            "airway imaging",
+            "diagnostic radiology"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "radiology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchographies",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple bronchography results or images showing the bronchi.",
+          "examples": [
+            "The doctor reviewed the bronchographies from earlier visits.",
+            "Several bronchographies were compared for changes."
+          ],
+          "collocations": [
+            "review bronchographies",
+            "compare bronchographies",
+            "serial imaging",
+            "airway images",
+            "radiology report"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "radiology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchography",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An imaging test (often historical/technical) used to examine the bronchi.",
+          "examples": [
+            "Bronchography was used to visualize the airways in detail.",
+            "The specialist ordered bronchography to study the bronchial structure."
+          ],
+          "collocations": [
+            "perform bronchography",
+            "bronchography procedure",
+            "airway imaging",
+            "diagnostic test",
+            "radiographic examination"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "radiology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchohemorrhagia",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Bleeding coming from the bronchi (airways).",
+          "examples": [
+            "Bronchohemorrhagia can cause coughing up blood.",
+            "The CT scan suggested bronchohemorrhagia as a complication."
+          ],
+          "collocations": [
+            "bronchohemorrhagia symptoms",
+            "bleeding from bronchi",
+            "coughing up blood",
+            "airway bleeding",
+            "medical emergency"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "respiratory"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "broncholemmitis",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Inflammation of the bronchial lining (a specialized medical term).",
+          "examples": [
+            "Broncholemmitis was discussed as a possible diagnosis.",
+            "Symptoms prompted further tests for broncholemmitis."
+          ],
+          "collocations": [
+            "suspected broncholemmitis",
+            "bronchial inflammation",
+            "diagnostic workup",
+            "respiratory illness"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "broncholith",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A stone-like deposit found in the bronchus (airway).",
+          "examples": [
+            "A broncholith can block part of the airway.",
+            "Bronchoscopy confirmed a broncholith."
+          ],
+          "collocations": [
+            "broncholith removal",
+            "airway stone",
+            "bronchial calcification",
+            "airway obstruction",
+            "bronchoscopy finding"
+          ],
+          "synonyms": [
+            "airway stone",
+            "bronchial calculus"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "respiratory"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "broncholithiasis",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The condition of having one or more broncholiths (stone-like deposits) in the bronchi.",
+          "examples": [
+            "Broncholithiasis may cause chronic cough or wheezing.",
+            "Doctors diagnosed broncholithiasis after finding a broncholith."
+          ],
+          "collocations": [
+            "diagnose broncholithiasis",
+            "broncholithiasis symptoms",
+            "bronchial obstruction",
+            "calcified deposit",
+            "chest imaging"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "respiratory"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchomotor",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Related to movement or control of the bronchi (airways), such as muscle action that changes airway size.",
+          "examples": [
+            "Bronchomotor function affects how wide the airways are.",
+            "The report described bronchomotor activity in the breathing cycle."
+          ],
+          "collocations": [
+            "bronchomotor control",
+            "airway muscle action",
+            "bronchial motility",
+            "airway tone"
+          ],
+          "synonyms": [
+            "airway motility-related"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "physiology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchomucormycosis",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A fungal infection affecting the bronchi.",
+          "examples": [
+            "Bronchomucormycosis is more common in people with weakened immune systems.",
+            "The lab test confirmed bronchomucormycosis."
+          ],
+          "collocations": [
+            "treat bronchomucormycosis",
+            "fungal infection",
+            "mucor fungus",
+            "airway involvement",
+            "serious respiratory infection"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "infectious disease"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchomycosis",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A fungal infection of the bronchi (airways).",
+          "examples": [
+            "Bronchomycosis can cause cough and breathing difficulty.",
+            "A specialist suspected bronchomycosis and ordered tests."
+          ],
+          "collocations": [
+            "bronchomycosis diagnosis",
+            "fungal infection of bronchi",
+            "airway fungal infection",
+            "treat bronchomycosis",
+            "immunocompromised patient"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "infectious disease"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchopathy",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Any disease or disorder affecting the bronchi (airways).",
+          "examples": [
+            "The diagnosis was bronchopathy related to chronic irritation.",
+            "Bronchopathy can include many different airway conditions."
+          ],
+          "collocations": [
+            "bronchopathy diagnosis",
+            "airway disease",
+            "chronic bronchopathy",
+            "bronchial disorder",
+            "respiratory condition"
+          ],
+          "synonyms": [
+            "bronchial disease"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchophonic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to bronchophony, an abnormal way that sounds are heard through the bronchi during an exam.",
+          "examples": [
+            "Bronchophonic breath sounds were present at the examination.",
+            "The clinician wrote “bronchophonic” in the notes."
+          ],
+          "collocations": [
+            "bronchophonic breath sounds",
+            "physical exam finding",
+            "auscultation",
+            "chest sounds"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bronchophony",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An abnormal chest-sound sign where vocal sounds are heard more clearly through the bronchi.",
+          "examples": [
+            "Bronchophony can be a sign of lung tissue changes.",
+            "The doctor checked for bronchophony during auscultation."
+          ],
+          "collocations": [
+            "check for bronchophony",
+            "bronchophony sign",
+            "auscultation finding",
+            "heard through the chest",
+            "clinical examination"
+          ],
+          "synonyms": [
+            "vocal resonance sign (general description)"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "diagnosis"
+          ]
+        }
+      ]
+    }
+  ]
+}

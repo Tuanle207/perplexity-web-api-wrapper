@@ -1,0 +1,665 @@
+{
+  "items": [
+    {
+      "term": "brominate",
+      "kind": "verb",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to add bromine to a substance",
+          "examples": [
+            "The chemist decided to brominate the compound to increase its reactivity.",
+            "Brominate the solution until a pale yellow color appears."
+          ],
+          "collocations": ["brominate a compound", "brominate the substance", "bromination process"],
+          "synonyms": ["haloformize (less common)", "bromosubstitute (rare)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "brominated",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "containing or having bromine added to it",
+          "examples": [
+            "Brominated vegetable oil is used in some soft drinks.",
+            "A brominated compound was detected in the sample."
+          ],
+          "collocations": ["brominated oil", "brominated compound", "brominated form"],
+          "synonyms": ["bromine-containing", "brominatedly treated"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "food"]
+        }
+      ]
+    },
+    {
+      "term": "brominates",
+      "kind": "verb",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of brominate; adds bromine to a substance",
+          "examples": [
+            "The reaction brominates the aromatic ring.",
+            "It brominates the substrate under heat."
+          ],
+          "collocations": ["brominates the substrate", "brominates a compound"],
+          "synonyms": ["brominizes (less common)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "laboratory"]
+        }
+      ]
+    },
+    {
+      "term": "brominating",
+      "kind": "verb",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of introducing bromine into a molecule",
+          "examples": [
+            "Brominating the alkene yields the dibromide.",
+            "They are brominating the compound to study reaction pathways."
+          ],
+          "collocations": ["brominating the alkene", "brominating agent", "brominating reaction"],
+          "synonyms": ["brominizing (less common)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "research"]
+        }
+      ]
+    },
+    {
+      "term": "bromination",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the chemical process of adding bromine to a substance",
+          "examples": [
+            "Bromination of alkenes is a common step in organic synthesis.",
+            "The reaction stopped after several minutes of bromination."
+          ],
+          "collocations": ["bromination reaction", "bromination step", "bromination process"],
+          "synonyms": ["bromine addition", "bromide addition"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "brominations",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple instances or records of bromination processes",
+          "examples": [
+            "The lab recorded several brominations for different substrates.",
+            "Different routes yielded varying brominations."
+          ],
+          "collocations": ["brominations across substrates", "different brominations"],
+          "synonyms": ["bromination procedures (plural)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "research"]
+        }
+      ]
+    },
+    {
+      "term": "bromindigo",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a historical or specific chemical compound related to bromine and indigo dye",
+          "examples": [
+            "Bromindigo was studied as part of early dye chemistry.",
+            "The term bromindigo appears in older chemical literature."
+          ],
+          "collocations": ["bromindigo dye", "bromindigo compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history of science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromine",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical element with symbol Br and atomic number 35; a red-brown liquid at room temperature",
+          "examples": [
+            "Bromine is a halogen used in dyes and medicines.",
+            "The bottle contained liquid bromine."
+          ],
+          "collocations": ["bromine solution", "bromine compound", "bromine gas"],
+          "synonyms": ["Br (symbol)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bromines",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bromine or bromide-containing substances",
+          "examples": [
+            "Various bromines were tested for reactivity.",
+            "The stock included several bromines used in synthesis."
+          ],
+          "collocations": ["bromines in solution", "igniters with bromines"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "brominism",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a condition caused by excessive bromine exposure, especially in historical contexts",
+          "examples": [
+            "Chronic brominism was once a concern for workers handling bromine.",
+            "Symptoms included skin irritation and thyroid issues due to brominism."
+          ],
+          "collocations": ["brominism symptoms", "brominism exposure"],
+          "synonyms": ["bromine poisoning (contextual)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "occupational health", "history"]
+        }
+      ]
+    },
+    {
+      "term": "brominisms",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of brominism; multiple instances of bromine-related poisoning or effects",
+          "examples": [
+            "Historical reports described several brominisms in the factory.",
+            "Researchers reviewed cases of brominisms to understand exposure risks."
+          ],
+          "collocations": ["instances of brominism", "brominisms in literature"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "occupational health", "history"]
+        }
+      ]
+    },
+    {
+      "term": "brominize",
+      "kind": "verb",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to brominate or to introduce bromine into a molecule",
+          "examples": [
+            "Chemists attempted to brominize the target compound.",
+            "The reagent can brominize alkenes selectively."
+          ],
+          "collocations": ["brominize the compound", "brominize under specific conditions"],
+          "synonyms": ["brominate (preferred)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "research"]
+        }
+      ]
+    },
+    {
+      "term": "bromins",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal or shorthand plural referring to bromine-containing substances or possibly people named Bromin (rare)",
+          "examples": [
+            "The chemist listed several bromins for the study.",
+            "Bromins were detected in the air sample."
+          ],
+          "collocations": ["bromins detected", "various bromins"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["chemistry", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "bromiodide",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical compound containing bromine and iodide ions",
+          "examples": [
+            "Bromiodide salts were prepared for the reaction.",
+            "The solution included bromiodide as a reactant."
+          ],
+          "collocations": ["bromiodide salt", "bromiodide solution"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromios",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form in some contexts referring to bromine-containing substances or historical term",
+          "examples": [
+            "The term bromios appears in older texts on bromine chemistry."
+          ],
+          "collocations": ["bromios in literature"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archais/scholarly",
+          "domain": ["history", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromisation",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of bromination; the introduction of bromine into a substance",
+          "examples": [
+            "Bromisation of the substrate was performed under light."
+          ],
+          "collocations": ["bromisation process", "bromisation step"],
+          "synonyms": ["bromination"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bromise",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or obscure term related to bromine chemistry; not widely used",
+          "examples": [
+            "The old text mentions a compound called bromise."
+          ],
+          "collocations": ["bromise compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromised",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bromise (obsolete) or mistaken form of brominate; not standard",
+          "examples": [
+            "The manuscript bromised the reactant in the notes."
+          ],
+          "collocations": ["bromised substrate"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["chemistry", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bromises",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of a rare or archaic term related to bromine chemistry; not in common use",
+          "examples": [
+            "Few references discuss bromises in early literature."
+          ],
+          "collocations": ["bromises in texts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromising",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of an obscure or obsolete term; not common in modern usage",
+          "examples": [
+            "The manuscript describes bromising techniques."
+          ],
+          "collocations": ["bromising technique"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromism",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a condition caused by bromine exposure; closely related to brominism",
+          "examples": [
+            "Symptoms of bromism included skin irritation and glandular effects."
+          ],
+          "collocations": ["bromism symptoms", "bromism exposure"],
+          "synonyms": ["bromine poisoning"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "occupational health"]
+        }
+      ]
+    },
+    {
+      "term": "bromisms",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bromism; multiple bromine-related conditions or effects",
+          "examples": [
+            "Historical reports noted several bromisms among workers."
+          ],
+          "collocations": ["bromisms cases", "bromism-related symptoms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "occupational health"]
+        }
+      ]
+    },
+    {
+      "term": "bromite",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a compound containing bromine and metal, often used in chemistry or battery contexts",
+          "examples": [
+            "Bromite is a mineral name in some geochemical contexts.",
+            "They studied the bromite compound as part of the reaction set."
+          ],
+          "collocations": ["bromite mineral", "bromite compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "bromius",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Latin-derived name used in historical or biological contexts; not common in modern English",
+          "examples": [
+            "The term bromius appears in ancient texts describing bromine-related lore."
+          ],
+          "collocations": ["bromius in Latin texts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["linguistics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bromization",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of bromination; alternative spelling variant of bromination",
+          "examples": [
+            "Bromization of the substrate was completed quickly."
+          ],
+          "collocations": ["bromization step", "bromization process"],
+          "synonyms": ["bromination"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromise",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "see above under bromise; duplicate due to input; treated as same term",
+          "examples": [
+            "The old text mentions a compound called bromise."
+          ],
+          "collocations": ["bromise compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromised",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "see above under bromised; note: duplicate due to input",
+          "examples": [
+            "The manuscript bromised the reactant in the notes."
+          ],
+          "collocations": ["bromised substrate"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["chemistry", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bromises",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "see above under bromises; duplicate due to input",
+          "examples": [
+            "Few references discuss bromises in early literature."
+          ],
+          "collocations": ["bromises in texts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromising",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "see above under bromising; duplicate due to input",
+          "examples": [
+            "The manuscript describes bromising techniques."
+          ],
+          "collocations": ["bromising technique"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromism",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a condition caused by bromine exposure; synonym of brominism",
+          "examples": [
+            "Chronic bromism symptoms were documented in factory workers."
+          ],
+          "collocations": ["bromism symptoms", "bromism exposure"],
+          "synonyms": ["brominism"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "occupational health"]
+        }
+      ]
+    },
+    {
+      "term": "bromisms",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bromism; multiple bromine-related conditions",
+          "examples": [
+            "Historical reports describe several bromisms."
+          ],
+          "collocations": ["bromisms cases", "bromism-related symptoms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "occupational health"]
+        }
+      ]
+    },
+    {
+      "term": "bromite",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a binary compound of bromine with another element; may refer to a bromine-containing mineral or salt",
+          "examples": [
+            "Bromite salts can be used in specialized chemical reactions."
+          ],
+          "collocations": ["bromite salt", "bromite mineral"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "mineralogy"]
+        }
+      ]
+    },
+    {
+      "term": "bromius",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Latin-influenced/archaic term related to bromine; appears in scholarly contexts",
+          "examples": [
+            "Bromius appears in some classical chemistry texts."
+          ],
+          "collocations": ["bromius in literature"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "history", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bromization",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternate spelling of bromination; the bromination process",
+          "examples": [
+            "The bromization of the substrate was efficient."
+          ],
+          "collocations": ["bromization process", "bromization step"],
+          "synonyms": ["bromination"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    }
+  ]
+}

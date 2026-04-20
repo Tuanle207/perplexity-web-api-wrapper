@@ -1,0 +1,551 @@
+{
+  "items": [
+    {
+      "term": "bootlessness",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of lacking a boot or not having something essential to start; figuratively, a lack of initiative or readiness",
+          "examples": [
+            "The bootlessness of his efforts was obvious as he kept stalling at every checkpoint.",
+            "Her bootlessness in facing deadlines led to repeated delays."
+          ],
+          "collocations": ["complete bootlessness", "economic bootlessness", "bootlessness of effort"],
+          "synonyms": ["inadequacy", "unpreparedness"],
+          "antonyms": ["readiness", "preparedness"],
+          "register": "formal",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "bootlessnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of bootlessness; refers to multiple instances or types of bootlessness",
+          "examples": [
+            "The bootlessnesses observed across departments varied in severity."
+          ],
+          "collocations": ["different bootlessnesses", "various bootlessnesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bootlick",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to try to win favor with someone powerful by flattering them excessively",
+          "examples": [
+            "Employees bootlick the manager to avoid discipline.",
+            "He tends to bootlick senior executives to gain promotions."
+          ],
+          "collocations": ["bootlick someone", "bootlicking behavior"],
+          "synonyms": [" flatter", "suck up to", "butter up"],
+          "antonyms": ["oppose", "defy"],
+          "register": "informal",
+          "domain": ["general", "workplace"]
+        }
+      ]
+    },
+    {
+      "term": "bootlicked",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bootlick; behaved by flattering someone powerful",
+          "examples": [
+            "He bootlicked the boss to secure his job.",
+            "They bootlicked the committee during the meeting."
+          ],
+          "collocations": ["bootlicked the", "bootlicked boss"],
+          "synonyms": ["flattered", "sucked up to"],
+          "antonyms": ["angered", "insulted"],
+          "register": "informal",
+          "domain": ["general", "workplace"]
+        }
+      ]
+    },
+    {
+      "term": "bootlicker",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who bootlicks; someone who flatters those in power excessively",
+          "examples": [
+            "The office was full of bootlickers trying to please the CEO.",
+            "Don’t be a bootlicker; speak up when you disagree."
+          ],
+          "collocations": ["office bootlicker", "chief bootlicker"],
+          "synonyms": ["flatterer", "sycophant"],
+          "antonyms": ["critic", "insubordinate"],
+          "register": "informal",
+          "domain": ["general", "workplace"]
+        }
+      ]
+    },
+    {
+      "term": "bootlickers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bootlicker",
+          "examples": [
+            "The bootlickers in the room were easy to identify."
+          ],
+          "collocations": ["office bootlickers", "bootlickers everywhere"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "workplace"]
+        }
+      ]
+    },
+    {
+      "term": "bootlicking",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of flattering someone powerful excessively",
+          "examples": [
+            "Bootlicking behavior won't earn you respect.",
+            "His bootlicking remarks irritated his colleagues."
+          ],
+          "collocations": ["bootlicking behavior", "bootlicking remarks"],
+          "synonyms": ["flattering", "sucking up"],
+          "antonyms": ["honest criticism", "sincere talk"],
+          "register": "informal",
+          "domain": ["general", "workplace"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the act of bootlicking",
+          "examples": [
+            "Her bootlicking did not hide her lack of competence."
+          ],
+          "collocations": ["displaying bootlicking"],
+          "synonyms": ["flattery", "sycophancy"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "workplace"]
+        }
+      ]
+    },
+    {
+      "term": "bootlickings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of bootlicking",
+          "examples": [
+            "The bootlickings observed across teams varied."
+          ],
+          "collocations": ["various bootlickings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "workplace"]
+        }
+      ]
+    },
+    {
+      "term": "bootlicks",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of bootlick; flatters excessively",
+          "examples": [
+            "He bootlicks the boss every morning.",
+            "They bootlicks the manager to stay in favor." 
+          ],
+          "collocations": ["bootlicks the", "always bootlicks"],
+          "synonyms": ["flattes", "sucks up to"],
+          "antonyms": ["speaks truth", "refuses to flatter"],
+          "register": "informal",
+          "domain": ["general", "workplace"]
+        }
+      ]
+    },
+    {
+      "term": "bootloader",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a program that loads an operating system into a computer's memory when it starts",
+          "examples": [
+            "The bootloader runs before the OS starts.",
+            "If the bootloader is corrupted, the computer may not boot."
+          ],
+          "collocations": ["bootloader software", "unlock the bootloader"],
+          "synonyms": ["loader"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bootloaders",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bootloader",
+          "examples": [
+            "Different devices use different bootloaders."
+          ],
+          "collocations": ["various bootloaders"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "bootmaker",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who makes boots (footwear) or a person who makes computer-boot components in some contexts",
+          "examples": [
+            "The bootmaker stitched a sturdy pair of boots.",
+            "In the old days, bootmakers crafted durable leather." 
+          ],
+          "collocations": ["bootmaker crafts", "bootmaker shop"],
+          "synonyms": ["cobbler"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "craftsmanship"]
+        }
+      ]
+    },
+    {
+      "term": "bootmakers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bootmaker",
+          "examples": [
+            "Bootmakers in the region are renowned for their leatherwork."
+          ],
+          "collocations": ["local bootmakers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "craftsmanship"]
+        }
+      ]
+    },
+    {
+      "term": "bootmaking",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the craft or activity of making boots",
+          "examples": [
+            "Bootmaking requires precision and skilled leatherwork."
+          ],
+          "collocations": ["traditional bootmaking", "bootmaking process"],
+          "synonyms": ["cobbing (informal)", "leathercraft"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craftsmanship", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bootmakings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bootmaking; multiple instances or varieties of bootmaking",
+          "examples": [
+            "The bootmakings across brands vary in design."
+          ],
+          "collocations": ["different bootmakings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craftsmanship", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bootman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who tends to boots or handles boot-related tasks; colloquial for a strong, male worker in some contexts",
+          "examples": [
+            "The bootman polished the boots in the shop.",
+            "In some factories, a bootman organizes equipment."
+          ],
+          "collocations": ["bootman at the door", "bootman service"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bootprint",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a print left by a boot; a mark or impression made by someone walking",
+          "examples": [
+            "The bootprint in the mud showed where he had walked.",
+            "The detective found a bootprint near the crime scene."
+          ],
+          "collocations": ["bootprint in mud", "imprint of a boot"],
+          "synonyms": ["footprint"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "boots",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of strong shoe that covers the ankle or more",
+          "examples": [
+            "She bought new boots for hiking.",
+            "My boots are muddy after the rain."
+          ],
+          "collocations": ["winter boots", "work boots", "army boots"],
+          "synonyms": ["shoes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to put on boots; to start wearing boots",
+          "examples": [
+            "He boots up the computer every morning.",
+            "Boot your shoes before entering the house." 
+          ],
+          "collocations": ["boots up", "boots on"],
+          "synonyms": ["put on boots"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bootstrap",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a loop or mechanism for starting something, often a process or computer; also a framework name",
+          "examples": [
+            "We used a bootstrap process to start the application.",
+            "The Bootstrap framework helps build responsive websites."
+          ],
+          "collocations": ["bootstrap process", "bootstrap framework"],
+          "synonyms": ["self-start", "initialization"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to start up or improve something using its own resources; to pull oneself up without external help",
+          "examples": [
+            "The company bootstrapped its way to profitability.",
+            "You can bootstrap the project with existing data."
+          ],
+          "collocations": ["bootstrap a project", "bootstrap itself"],
+          "synonyms": ["self-start", "self-fund"],
+          "antonyms": ["fund externally", "seek investment"],
+          "register": "neutral",
+          "domain": ["business", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bootstrapped",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bootstrap; started up with limited resources or self-funded",
+          "examples": [
+            "The startup was bootstrapped from the ground up.",
+            "They bootstrapped the project with existing resources."
+          ],
+          "collocations": ["bootstrapped company", "bootstrapped project"],
+          "synonyms": ["self-funded", "self-started"],
+          "antonyms": ["funded externally", "received investment"],
+          "register": "neutral",
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bootstrapper",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that starts a process with minimal external help; in computing, a program that loads the OS",
+          "examples": [
+            "The bootstrapper initializes the system before handing control to the OS.",
+            "An eager bootstrapper, the startup funded itself early."
+          ],
+          "collocations": ["system bootstrapper", "self-starting bootstrapper"],
+          "synonyms": ["self-starter", "initializer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "bootstrappers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bootstrapper",
+          "examples": [
+            "Many bootstrappers prefer to reinvest profits into growth."
+          ],
+          "collocations": ["various bootstrappers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bootstrapping",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of starting up a business or system with minimal external help",
+          "examples": [
+            "Bootstrapping a startup requires careful resource management.",
+            "Bootstrapping is common in early-stage tech companies."
+          ],
+          "collocations": ["bootstrapping process", "bootstrapping method"],
+          "synonyms": ["self-funding", "self-starting"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bootstraps",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the two loops on the back of boots used to pull them on; or metaphorically, means of starting something",
+          "examples": [
+            "He tugged on his boots by the bootstraps.",
+            "The phrase 'pull yourself up by your bootstraps' means to succeed on your own."
+          ],
+          "collocations": ["pull on the bootstraps", "bootstraps loop"],
+          "synonyms": ["pull tabs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "boottop",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the upper part of a boot, or a design element at the top of a boot",
+          "examples": [
+            "The boottop featured decorative stitching.",
+            "Replace the boottop to refresh the look."
+          ],
+          "collocations": ["boottop design", "decorative boottop"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bootstrap",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a bootstrapped component or technique; see above",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "items": [
+    {
+      "term": "biparietal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or affecting the two parietal bones of the skull.",
+          "examples": [
+            "The injury affected the biparietal region of the skull.",
+            "Biparietal measurements were taken during the anatomical review."
+          ],
+          "collocations": ["biparietal bone", "biparietal region", "biparietal sutures"],
+          "synonyms": ["two-parietal", "dual-parietal"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "biparous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having two births; producing offspring in two separate birth events.",
+          "examples": [
+            "Some species are biparous, giving birth to two offspring at once.",
+            "In mammals, biparous reproduction is common in many species."
+          ],
+          "collocations": ["biparous species", "biparous reproduction"],
+          "synonyms": ["dual-birth", "two-born"],
+          "antonyms": ["uniparous", "multiparous"],
+          "register": "formal",
+          "domain": ["biology", "zoology"]
+        }
+      ]
+    },
+    {
+      "term": "biparted",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having two parts or segments; divided into two parts.",
+          "examples": [
+            "The biparted structure consists of two distinct sections.",
+            "A biparted route divides at the central junction."
+          ],
+          "collocations": ["biparted structure", "biparted object"],
+          "synonyms": ["two-part", "dual-part"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "bipartible",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Capable of being divided into two parts.",
+          "examples": [
+            "The bipartible material can be split along a seam.",
+            "A bipartible design allows modular assembly."
+          ],
+          "collocations": ["bipartible material", "bipartible design"],
+          "synonyms": ["divisible", "two-partible"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["engineering", "material science"]
+        }
+      ]
+    },
+    {
+      "term": "bipartient",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having two parts or being split into two parts.",
+          "examples": [
+            "The bipartient sections were labeled A and B.",
+            "A bipartient approach considers two complementary factors."
+          ],
+          "collocations": ["bipartient sections", "bipartient approach"],
+          "synonyms": ["two-part", "dual-part"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bipartile",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Divisible into two equal parts.",
+          "examples": [
+            "The bipartile plot was evenly divided.",
+            "A bipartile dataset splits into two halves for validation."
+          ],
+          "collocations": ["bipartile plot", "bipartile dataset"],
+          "synonyms": ["two-part", "dual-partitioned"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["statistics", "data science"]
+        }
+      ]
+    },
+    {
+      "term": "bipartisan",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or supported by two parties or political groups.",
+          "examples": [
+            "A bipartisan bill was proposed to address the issue.",
+            "The committee sought bipartisan support for the reform."
+          ],
+          "collocations": ["bipartisan bill", "bipartisan support", "bipartisan agreement"],
+          "synonyms": ["two-party", "cross-party"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "government", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bipartisanism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The principle or practice of mutual collaboration between two political parties.",
+          "examples": [
+            "Bipartisanism is often valued for passing broad reforms.",
+            "The party leaders discussed policies with a spirit of bipartisanism."
+          ],
+          "collocations": ["culture of bipartisanism", "bipartisanism in government"],
+          "synonyms": ["cross-party cooperation", "nonpartisanship (contextual)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "government"]
+        }
+      ]
+    },
+    {
+      "term": "bipartisanisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of bipartisanism; multiple instances of cross-party collaboration.",
+          "examples": [
+            "Scholars discussed various bipartisanisms in recent legislation.",
+            "The report notes several bipartisanisms across committees."
+          ],
+          "collocations": ["different bipartisanisms", "examples of bipartisanisms"],
+          "synonyms": ["cross-party cooperations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "government"]
+        }
+      ]
+    },
+    {
+      "term": "bipartisanship",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The practice of two political parties working together to pass laws or address issues.",
+          "examples": [
+            "Bipartisanship helped pass the education reform.",
+            "There is a call for more bipartisanship in the cabinet."
+          ],
+          "collocations": ["support for bipartisanship", "bipartisanship measures", "bipartisanship in government"],
+          "synonyms": ["cross-party cooperation", "nonpartisanship (contextual)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "government"]
+        }
+      ]
+    },
+    {
+      "term": "bipartisanships",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple instances or examples of bipartisanship.",
+          "examples": [
+            "The report highlights several bipartisanships achieved this year.",
+            "Historically, such bipartisanships are rare."
+          ],
+          "collocations": ["numerous bipartisanships", "bipartisanships achieved"],
+          "synonyms": ["cross-party agreements"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "government"]
+        }
+      ]
+    },
+    {
+      "term": "bipartite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Divided into two parts; having two distinct components.",
+          "examples": [
+            "A bipartite graph has two sets of vertices.",
+            "The bipartite agreement split responsibilities between parties."
+          ],
+          "collocations": ["bipartite graph", "bipartite structure"],
+          "synonyms": ["two-part", "dual-partite"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["mathematics", "graph theory"]
+        }
+      ]
+    },
+    {
+      "term": "bipartitely",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a bipartite or two-part manner.",
+          "examples": [
+            "The task was bipartitely organized into two sections.",
+            "The dataset was bipartitely arranged for analysis."
+          ],
+          "collocations": ["bipartitely organized", "bipartitely arranged"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["mathematics", "data science"]
+        }
+      ]
+    },
+    {
+      "term": "bipartition",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act or result of dividing something into two parts.",
+          "examples": [
+            "The bipartition of the tour route split it into north and south legs.",
+            "A bipartition separates the dataset into two groups."
+          ],
+          "collocations": ["bipartition of", "bipartitioned by"],
+          "synonyms": ["two-way split", "division into two parts"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["mathematics", "computer science"]
+        }
+      ]
+    },
+    {
+      "term": "bipartitions",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple instances of dividing into two parts; two-way splits.",
+          "examples": [
+            "The algorithm uses several bipartitions to test stability.",
+            "Different bipartitions yield different clustering results."
+          ],
+          "collocations": ["different bipartitions", "bipartitions in data"],
+          "synonyms": ["two-way splits"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["mathematics", "computer science"]
+        }
+      ]
+    },
+    {
+      "term": "bipartizan",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Misspelling or variant of bipartisan; relating to two political parties.",
+          "examples": [
+            "A bipartizan effort was reported in the press.",
+            "The clause aimed for bipartizan support."
+          ],
+          "collocations": ["bipartizan effort", "bipartizan support"],
+          "synonyms": ["bipartisan"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "government"]
+        }
+      ]
+    },
+    {
+      "term": "biparty",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A political party composed of two main groups; a two-party system.",
+          "examples": [
+            "The country shifted toward a strong biparty.",
+            "Biparty politics dominated the election discourse."
+          ],
+          "collocations": ["two-party system", "biparty politics"],
+          "synonyms": ["two-party system"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "government"]
+        }
+      ]
+    },
+    {
+      "term": "bipaschal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or occurring around the Paschal (Easter) season; of or relating to Easter.",
+          "examples": [
+            "Bipaschal rituals occur during the liturgical season.",
+            "Bipaschal observances mark the period after Passover in some calendars."
+          ],
+          "collocations": ["bipaschal season", "bipaschal observances"],
+          "synonyms": ["paschal", "easter-related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "calendar studies"]
+        }
+      ]
+    },
+    {
+      "term": "bipectinate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having two comb-like projections or processes on each side; bilaterally feathered or arranged in a two-branched pattern.",
+          "examples": [
+            "Bipectinate antennae are found in some insects.",
+            "The bipectinate structure increases surface area."
+          ],
+          "collocations": ["bipectinate antennae", "bipectinate margins"],
+          "synonyms": ["bilaterally branched"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["biology", "entomology"]
+        }
+      ]
+    },
+    {
+      "term": "bipectinated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having two comb-like projections on each side.",
+          "examples": [
+            "Bipectinated wings helped the insect sense air currents.",
+            "The bipectinated appendages are notable for their symmetry."
+          ],
+          "collocations": ["bipectinated wings", "bipectinated appendages"],
+          "synonyms": ["bilaterally branched"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["biology", "entomology"]
+        }
+      ]
+    },
+    {
+      "term": "biped",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An animal that uses two legs to walk; a two-legged creature.",
+          "examples": [
+            "Humans are bipeds.",
+            "Many birds are bipeds when walking on land."
+          ],
+          "collocations": ["two-legged animal", "modern bipeds"],
+          "synonyms": ["two-legged creature"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "zoology"]
+        }
+      ]
+    },
+    {
+      "term": "bipedal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or using two legs for walking.",
+          "examples": [
+            "Humans are bipedal by evolution.",
+            "Bipedal locomotion frees the hands for other tasks."
+          ],
+          "collocations": ["bipedal gait", "bipedal movement", "bipedal species"],
+          "synonyms": ["two-legged", "two-footed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "anatomy", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "bipedalism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The condition of using two legs to walk; the mode of locomotion of two-legged animals.",
+          "examples": [
+            "Bipedalism is a key feature of human evolution.",
+            "The fossil shows evidence of bipedalism."
+          ],
+          "collocations": ["loss of quadrupedalism", "evolution of bipedalism"],
+          "synonyms": ["two-legged locomotion"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "bipedalisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple forms or instances of bipedalism; occurrences of two-legged locomotion.",
+          "examples": [
+            "Different species exhibit various bipedalisms.",
+            "The study compares several bipedalisms across taxa."
+          ],
+          "collocations": ["different bipedalisms", "bipedalisms across species"],
+          "synonyms": ["two-legged locomotions"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "zoology"]
+        }
+      ]
+    },
+    {
+      "term": "bipedalities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The states or forms of being bipedal; instances of two-legged walking.",
+          "examples": [
+            "Fossils show various bipedalities in early hominins.",
+            "The article discusses the evolution of bipedalities."
+          ],
+          "collocations": ["various bipedalities", "bipedalities in evolution"],
+          "synonyms": ["two-legged locomotion forms"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["paleontology", "anthropology"]
+        }
+      ]
+    }
+  ]
+}

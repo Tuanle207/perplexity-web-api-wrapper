@@ -1,0 +1,633 @@
+{
+  "items": [
+    {
+      "term": "bladderwracks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of seaweed, often used as food or medicine in some cultures; commonly refers to Fucus vesiculosus or related species, known for its bladder-like air bladders.",
+          "examples": [
+            "The dish was garnished with strips of bladderwrack.",
+            "In traditional medicine, bladderwracks have been used for thyroid support."
+          ],
+          "collocations": [
+            "bladderwrack seaweed",
+            "harvest bladderwracks",
+            "bladderwrack extract",
+            "dried bladderwrack",
+            "bladderwrack soup"
+          ],
+          "synonyms": ["seaweed", "kelp (generic)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "food", "biology", "marine"]
+        }
+      ]
+    },
+    {
+      "term": "bladdery",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having bladder-like structures; baggy or swollen with air or liquid; relating to the bladder-like parts of some plants or animals.",
+          "examples": [
+            "The bladdery pods swelled after rain.",
+            "In anatomy, bladdery ducts can expand with fluid."
+          ],
+          "collocations": [
+            "bladdery sacs",
+            "bladdery tissue",
+            "bladdery texture"
+          ],
+          "synonyms": ["saccular", "bladder-like"],
+          "antonyms": ["solid", "compact"],
+          "register": "neutral",
+          "domain": ["science", "biology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bladding",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process or act of applying blading; in some dialects or contexts may refer to the removal of hair (archaic) or to the act of lining or coating with blades in manufacturing; not common in modern standard English.",
+          "examples": [
+            "Historical texts mention bladding as a craft technique.",
+            "The term bladding appears in old manuals on metalwork."
+          ],
+          "collocations": [
+            "bladding technique",
+            "bladding process"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "blade",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the flat cutting part of a tool or weapon, such as a knife or sword.",
+          "examples": [
+            "The blade of the knife is very sharp.",
+            "He shaved carefully with a straight blade."
+          ],
+          "collocations": [
+            "blade edge",
+            "sharp blade",
+            "knife blade",
+            "blade length",
+            "safety blade"
+          ],
+          "synonyms": ["edge", "cutting edge"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology", "craft"]
+        },
+        {
+          "pos": "noun",
+          "definition": "an individual blade in a blade of grass or a propeller; a thin, flat, elongated part that spins or cuts.",
+          "examples": [
+            "The blades of the windmill turn slowly.",
+            "Her lawn has long blades that need trimming."
+          ],
+          "collocations": [
+            "blades of grass",
+            "propeller blade",
+            "rotating blade"
+          ],
+          "synonyms": ["flat part", "spi nner segment"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology", "nature"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to cut or slice with a blade or to cut into thin pieces.",
+          "examples": [
+            "She blade-d the cucumber into sticks.",
+            "They blade the leather before sewing."
+          ],
+          "collocations": [
+            "blade through",
+            "blade off",
+            "blade into"
+          ],
+          "synonyms": ["slice", "shave"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "craft", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "bladebone",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a historical or dialect term for the shoulder blade bone of a quadruped; used in anatomy or old texts.",
+          "examples": [
+            "The bladebone was carefully labeled in the dissection.",
+            "In old recipes, bladebone broth was common."
+          ],
+          "collocations": [
+            "bladebone anatomy",
+            "bladebone broth",
+            "bladebone joint"
+          ],
+          "synonyms": ["shoulder blade", "scapula"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bladed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a blade or blades; equipped with blades.",
+          "examples": [
+            "A bladed tool is necessary for this task.",
+            "The bladed propeller caused more damage."
+          ],
+          "collocations": [
+            "bladed weapon",
+            "bladed instrument",
+            "two-bladed"
+          ],
+          "synonyms": ["edged", "sharp-edged"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bladeless",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not having a blade; lacking a cutting edge or blade.",
+          "examples": [
+            "The bladeless knife is safer for beginners.",
+            "A bladeless turbine is quieter."
+          ],
+          "collocations": [
+            "bladeless knife",
+            "bladeless tool",
+            "bladeless design"
+          ],
+          "synonyms": ["edgeless", "unsharpened"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bladelet",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small blade; a diminutive blade used in specialized tools or instruments.",
+          "examples": [
+            "The bladelet fitted into the precision instrument.",
+            "Scientists studied the bladelet fragments."
+          ],
+          "collocations": [
+            "tiny bladelet",
+            "bladelet fragment",
+            "bladelet edge"
+          ],
+          "synonyms": ["mini blade", "microblade"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "technology", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "bladelike",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "shaped or resembling a blade; slender and pointed like a blade.",
+          "examples": [
+            "The leaf has a bladelike shape.",
+            "A bladelike projection can be dangerous."
+          ],
+          "collocations": [
+            "bladelike shape",
+            "bladelike edge",
+            "bladelike blade"
+          ],
+          "synonyms": ["swordlike", "blade-shaped"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "science"]
+        }
+      ]
+    },
+    {
+      "term": "blader",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who uses or makes blades; could refer to a weapon maker or someone who fights with blades.",
+          "examples": [
+            "The blader sharpened the blade for the tournament.",
+            "In the guild, blad ers trained daily."
+          ],
+          "collocations": [
+            "professional blader",
+            "blader smith",
+            "blade maker"
+          ],
+          "synonyms": ["bladesmith", "sharpener"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bladers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of blader; people who use or make blades.",
+          "examples": [
+            "The bladers gathered for the competition.",
+            "Bladers from across the region showcased their work."
+          ],
+          "collocations": [
+            "fellow bladers",
+            "bladers guild",
+            "bladers competition"
+          ],
+          "synonyms": ["bladesmiths"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "general"]
+        }
+      ]
+    },
+    {
+      "term": "blades",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple blades; the flat cutting parts of knives, swords, or razors; also refers to the blades of grass or propellers.",
+          "examples": [
+            "He sharpened two blades for the razor.",
+            "The blades of grass swayed in the wind."
+          ],
+          "collocations": [
+            "knife blades",
+            "razor blades",
+            "wind turbine blades",
+            "grass blades"
+          ],
+          "synonyms": ["edges"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "bladesmith",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a craftsman who makes blades, such as knives or swords.",
+          "examples": [
+            "The bladesmith forged a new kitchen knife.",
+            "Bladesmiths often learn through apprenticeship."
+          ],
+          "collocations": [
+            "master bladesmith",
+            "bladesmith workshop",
+            "bladesmith apprenticeship"
+          ],
+          "synonyms": ["knife maker", "swordsmith"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "occupational"]
+        }
+      ]
+    },
+    {
+      "term": "bladewise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in the manner of blades; with blades oriented or arranged in a blade-like pattern.",
+          "examples": [
+            "The bladeswise arrangement increased stability.",
+            "They aligned the components bladewise for the display."
+          ],
+          "collocations": [
+            "bladewise arrangement",
+            "blade-wise alignment"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bladework",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the practice or art of working with blades, such as sharpening, shaping, or forging blades.",
+          "examples": [
+            "The bladesmith demonstrated bladework techniques.",
+            "A course on bladework covers sharpening methods."
+          ],
+          "collocations": [
+            "blowork techniques",
+            "professional bladework",
+            "blade sharpening bladework"
+          ],
+          "synonyms": ["knife work", "blade crafting"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "occupational"]
+        }
+      ]
+    },
+    {
+      "term": "bladeworks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the collective techniques and machinery used to forge or manufacture blades; a workshop or factory where blades are made.",
+          "examples": [
+            "The bladeworks produce high-quality knives.",
+            "In the factory, bladeworks operated around the clock."
+          ],
+          "collocations": [
+            "blade production bladeworks",
+            "saw bladeworks",
+            "industrial bladeworks"
+          ],
+          "synonyms": ["blade factory", "knife shop"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "craft", "business"]
+        }
+      ]
+    },
+    {
+      "term": "bladier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a tool or person that blades; a blade maker or sharper.",
+          "examples": [
+            "The bladier joined the guild as a skilled sharpener.",
+            "An old term for a blade maker, bladier, appears in early dictionaries."
+          ],
+          "collocations": [
+            "bladeier guild",
+            "professional bladier"
+          ],
+          "synonyms": ["bladesmith", "sharpener"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "bladiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "most bladey or blade-like; having the most blades or a blade-like quality.",
+          "examples": [
+            "This is the bladiest part of the sword.",
+            "Among the blades, this blade is the bladiest."
+          ],
+          "collocations": [
+            "bladiest edge",
+            "bladiest blade"
+          ],
+          "synonyms": ["sharpest", "edgiest"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "fantasy"]
+        }
+      ]
+    },
+    {
+      "term": "blading",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of shaping or forming blades; also a sport of fighting with blades in some contexts; or the process of applying blading to blades.",
+          "examples": [
+            "Blading requires precision and control.",
+            "They discussed the history of blading in martial arts."
+          ],
+          "collocations": [
+            "practice blading",
+            "blading sport",
+            "blading technique"
+          ],
+          "synonyms": ["blade work"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "craft", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bladings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of blading; instances or pieces of blade-related work or material.",
+          "examples": [
+            "The bladings were laid out for inspection.",
+            "Various bladings were stored in the workshop."
+          ],
+          "collocations": [
+            "blading bladings",
+            "blade bladings"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "industrial"]
+        }
+      ]
+    },
+    {
+      "term": "bladish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "somewhat blade-like or bladish; resembling blades in appearance or quality.",
+          "examples": [
+            "The decoration had a bladish pattern.",
+            "A bladish edge gave the tool a distinct look."
+          ],
+          "collocations": [
+            "bladish pattern",
+            "bladish edge"
+          ],
+          "synonyms": ["blade-like", "sharp-edged"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "design", "general"]
+        }
+      ]
+    },
+    {
+      "term": "blads",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of blad; a blade or blade-like object, or a term used in dialects.",
+          "examples": [
+            "The blades lay across the bench.",
+            "In the old dialect, blads refer to blades."
+          ],
+          "collocations": [
+            "knife blads",
+            "blade blads"
+          ],
+          "synonyms": ["blades"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "blady",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having blades or blade-like features; blade-like in appearance.",
+          "examples": [
+            "The blady grass flashed in the sun.",
+            "A blady texture on the sculpture catches the light."
+          ],
+          "collocations": [
+            "blady grass",
+            "blady texture"
+          ],
+          "synonyms": ["blade-like"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "art"]
+        }
+      ]
+    },
+    {
+      "term": "bladygrass",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of grass with blade-like leaves; not a common botanical term in contemporary usage.",
+          "examples": [
+            "The field was filled with bladygrass waving in the breeze."
+          ],
+          "collocations": [
+            "bladygrass field",
+            "bladygrass species"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "blae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an obsolete or dialect term for bluish or gray-blue color; used in historical or poetic contexts.",
+          "examples": [
+            "The blaes tint appeared in old poems.",
+            "A blaes shade of the river reflected the sky."
+          ],
+          "collocations": [
+            "blae color",
+            "blae tint",
+            "blae blue"
+          ],
+          "synonyms": ["blue", "bluish"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "history"]
+        }
+      ]
+    }
+  ]
+}

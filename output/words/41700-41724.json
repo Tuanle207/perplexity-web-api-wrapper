@@ -1,0 +1,485 @@
+{
+  "items": [
+    {
+      "term": "birthplace",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the place where a person was born",
+          "examples": [
+            "Her birthplace is in a small town by the coast.",
+            "They visited his birthplace during their vacation."
+          ],
+          "collocations": ["birthplace of", "hometown birthplace", "birthplace country"],
+          "synonyms": ["hometown", "birth town", "birth city"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "birthplaces",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of birthplace; places where people were born",
+          "examples": [
+            "Her and his birthplaces are both listed on the passport.",
+            "We collected the birthplaces of all team members."
+          ],
+          "collocations": ["birthplaces of", "different birthplaces"],
+          "synonyms": ["birth towns", "birth cities"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "birthrate",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the number of births in a population over a certain period, usually per year",
+          "examples": [
+            "The birthrate has risen in urban areas.",
+            "Policymakers study birthrates to plan services."
+          ],
+          "collocations": ["birthrate", "birthrate per thousand", "birthrate trend"],
+          "synonyms": ["fertility rate", "natality rate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "demography"]
+        }
+      ]
+    },
+    {
+      "term": "birthrates",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of birthrate; numbers of births in a population over time",
+          "examples": [
+            "Birthrates differ between countries.",
+            "Government reports compare birthrates across regions."
+          ],
+          "collocations": ["birthrates in", "changing birthrates"],
+          "synonyms": ["fertility rates", "natality rates"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "demography"]
+        }
+      ]
+    },
+    {
+      "term": "birthright",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a right or privilege that a person is entitled to from birth, often by family or nationality",
+          "examples": [
+            "He fought to claim his birthright.",
+            "In the story, the princess discovers her birthright to the throne."
+          ],
+          "collocations": ["birthright to", "claim birthright", "birthright inheritance"],
+          "synonyms": ["inheritance", "ancestral right"],
+          "antonyms": ["disqualification", "forfeiture"],
+          "register": "neutral",
+          "domain": ["general", "law", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "birthrights",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of birthright; rights or privileges one is entitled to from birth",
+          "examples": [
+            "They argued over the birthrights of the twins.",
+            "The constitution protects birthrights for all citizens."
+          ],
+          "collocations": ["birthrights of", "protect birthrights"],
+          "synonyms": ["inheritable rights", "ancestral rights"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "law", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "birthroot",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant root used in traditional medicine or historical contexts; may be an archaic or rare term",
+          "examples": [
+            "The herb lists birthroot among its traditional ingredients."
+          ],
+          "collocations": ["birthroot herb", "birthroot powder"],
+          "synonyms": ["birthroot (variant spelling)"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["medicine", "heritage"]
+        }
+      ]
+    },
+    {
+      "term": "birthroots",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of birthroot; multiple uses of a traditional root in herbal contexts",
+          "examples": [
+            "Herbalists discuss birthroots and their effects."
+          ],
+          "collocations": ["birthroots of", "extract birthroots"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["medicine", "heritage"]
+        }
+      ]
+    },
+    {
+      "term": "births",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the event of being born; plural of birth",
+          "examples": [
+            "There were many births in the village this year.",
+            "The hospital recorded several births yesterday."
+          ],
+          "collocations": ["births per year", "gentle births"],
+          "synonyms": ["deliverys" ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "birthstone",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a gemstone associated with a person’s birth month",
+          "examples": [
+            "Her birthstone is sapphire.",
+            "People often give birthstone jewelry as a gift."
+          ],
+          "collocations": ["birthstone month", "birthstone ring"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "gift", "jewelry"]
+        }
+      ]
+    },
+    {
+      "term": "birthstones",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of birthstone; gemstones associated with birth months",
+          "examples": [
+            "Birthstones vary by month and tradition.",
+            "They collected several birthstones for the jewelry display."
+          ],
+          "collocations": ["birthstones by month", "birthstones list"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "gift", "jewelry"]
+        }
+      ]
+    },
+    {
+      "term": "birthstool",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a stool used during childbirth in historical or traditional contexts",
+          "examples": [
+            "The midwife placed the birthstool beside the bed."
+          ],
+          "collocations": ["birthstool ritual", "birthstool chair"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "birthwort",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant (Aristolochia) whose root was historically used in medicine; also the plant’s common name",
+          "examples": [
+            "Birthwort was once used in traditional remedies."
+          ],
+          "collocations": ["birthwort herb", "birthwort root"],
+          "synonyms": ["Aristolochia"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["medicine", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "birthworts",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of birthwort; various species of the Aristolochia plant",
+          "examples": [
+            "Birthworts were used in old medical recipes."
+          ],
+          "collocations": ["birthworts berries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["medicine", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "birthy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "informal term describing someone who is pregnant or related to birth; not common in standard usage",
+          "examples": [
+            "The mother looked birthy as the due date approached."
+          ],
+          "collocations": ["birthy appearance"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "biryani",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a spicy mixed rice dish with meat or vegetables, popular in South Asia",
+          "examples": [
+            "We had chicken biryani for dinner.",
+            "Biryani is often served with raita and salad."
+          ],
+          "collocations": ["chicken biryani", "vegetable biryani", "biryani dish"],
+          "synonyms": ["fried rice (not exact)", "pilaf (similar)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "biryanis",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of biryani; various biryani dishes",
+          "examples": [
+            "We ordered two biryanis to share.",
+            "Different regions have their own biryanis."
+          ],
+          "collocations": ["vegetable biryanis", "spiced biryanis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bis",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a prefix in some chemical or linguistic terms; may also be a dance term in music? (ambiguous); in some contexts, 'bis' means twice; in music, 'bis' is an instruction to encore",
+          "examples": [
+            "The composer wrote a bis section meaning an encore.",
+            "In some languages, bis indicates repetition."
+          ],
+          "collocations": ["bis action", "bis encore"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "linguistics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bisabol",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical term; a sesquiterpene alcohol used in fragrances; may appear in dictionaries as part of complex names",
+          "examples": [
+            "The essential oil contains bisabolol and other terpenes."
+          ],
+          "collocations": ["bisabolol content", "alpha-bisabolol"],
+          "synonyms": ["bisabolol"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["chemistry", "cosmetics"]
+        }
+      ]
+    },
+    {
+      "term": "bisaccate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having two sacs or saclike structures; a technical term used in anatomy or paleobotany",
+          "examples": [
+            "The fossil pollen grains are bisaccate."
+          ],
+          "collocations": ["bisaccate pollen", "bisaccate structure"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["biology", "paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "bisacromial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to two acromial points or processes; a medical/anatomical term",
+          "examples": [
+            "The radiograph shows bisacromial spacing."
+          ],
+          "collocations": ["bisacromial space", "bisacromial region"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bisagre",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or archaic term; likely a misspelling or very obscure word",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bisalt",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "in chemistry, a salt containing two intended salt groups; very rare term",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bisaltae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bisalt? a rare or obsolete term; likely obscure proper noun or technical term",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bisannual",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "occurring twice a year; semiannual",
+          "examples": [
+            "The report is bisannual, published in June and December."
+          ],
+          "collocations": ["bisannual report", "bisannual meeting"],
+          "synonyms": ["semiannual", "biannual"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    }
+  ]
+}

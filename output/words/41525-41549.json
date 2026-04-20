@@ -1,0 +1,439 @@
+{
+  "items": [
+    {
+      "term": "birdcraft",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the skill or knowledge involved in caring for, observing, or keeping birds",
+          "examples": ["He studied birdcraft to improve his bird-watching skills.", "Her birdcraft includes nesting behavior and feeding habits."],
+          "collocations": ["aviary", "breeding", "care", "techniques", "practice"],
+          "synonyms": ["ornithology (informal)", "birdkeeping"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education", "hobby"]
+        }
+      ]
+    },
+    {
+      "term": "birddog",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who identifies or points out opportunities or problems for someone else to act on",
+          "examples": ["A recruiter acts as a birddog for candidates.", "He works as a birddog, spotting new properties for investors."],
+          "collocations": ["recruiter", "investor", "opportunity", "watcher"],
+          "synonyms": ["spotter", "scout", "watchdog"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["business", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to watch and identify opportunities or problems for someone else, especially in sales or recruitment",
+          "examples": ["She birddogs potential clients for the firm.", "They birddogged risky deals to warn the team."],
+          "collocations": ["opportunities", "clients", "deals", "markets"],
+          "synonyms": ["spot", "sniff out", "identify"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["business", "sales"]
+        }
+      ]
+    },
+    {
+      "term": "birddogged",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of birddog; identified or pursued opportunities or problems for others",
+          "examples": ["The agent birddogged several leads last quarter."],
+          "collocations": ["leads", "opportunities", "clients"],
+          "synonyms": ["spotted", "identified", "pursued"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "birddogging",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of birddogging; actively identifying opportunities or problems for others",
+          "examples": ["Birddogging is common in sales to find potential customers."],
+          "collocations": ["lead generation", "monitoring", "watching"],
+          "synonyms": ["spotting", "scouting"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "birddogs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of birddog; people who birddog or things that act as birddogs",
+          "examples": ["The firm hires several birddogs to find new clients."],
+          "collocations": ["people", "candidates", "leads"],
+          "synonyms": ["spotters", "scouts"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "birddom",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the world or community of bird-related things or bird-watchers",
+          "examples": ["She felt she lived in birddom, surrounded by bird enthusiasts."],
+          "collocations": ["community", "world", "realm"],
+          "synonyms": ["ornithology community", "birding world"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["lifestyle", "hobby"]
+        }
+      ]
+    },
+    {
+      "term": "birde",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an edible bird (archaic or dialect form) or a small seabird; also sometimes a mis-spelling of 'birdie' in dialect contexts",
+          "examples": ["They roasted a birde over the fire."],
+          "collocations": ["roast", "bird", "gull"],
+          "synonyms": ["bird", "fowl"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "birded",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bird; to observe or identify birds as a hobby",
+          "examples": ["They birded along the marsh at dawn."],
+          "collocations": ["birds", "marsh", "outings"],
+          "synonyms": ["watched birds", "bird-watched"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["hobby", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "birdeen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term for a male or older bird? (likely dialect; not standard). If unknown, treat as rare/archaic.",
+          "examples": ["The birdeen perched high."],
+          "collocations": ["tree", "perch"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "birder",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who watches and identifies birds as a hobby",
+          "examples": ["She is an avid birder who keeps a life list."],
+          "collocations": ["bird", "list", "field guide", "binoculars"],
+          "synonyms": ["birdwatcher", "ornithologist (professional)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["hobby", "nature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "birders",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of birder; multiple people who watch birds as a hobby",
+          "examples": ["The park attracted many birders during migration season."],
+          "collocations": ["park", "migration", "binoculars"],
+          "synonyms": ["birdwatchers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["hobby", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "birdeye",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small, close-up view from directly above; a bird's-eye view",
+          "examples": ["From the hill, we had a birdeye view of the valley."],
+          "collocations": ["view", "perspective", "maps"],
+          "synonyms": ["bird's-eye view"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "mapping"]
+        }
+      ]
+    },
+    {
+      "term": "birdfarm",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a farm where birds are raised, often for eggs or meat; figuratively, a place abundant with birds",
+          "examples": ["The family runs a small birdfarm outside town."],
+          "collocations": ["farm", "eggs", "birds", "coop"],
+          "synonyms": ["poultry farm"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "birdfarms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of birdfarm",
+          "examples": ["Several birdfarms exist in the region."],
+          "collocations": ["farms", "eggs"],
+          "synonyms": ["poultry farms"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "birdfeed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "food meant for birds, such as seeds or pellets",
+          "examples": ["He bought birdfeed for the backyard feeder."],
+          "collocations": ["seed", "pellets", "backyard", "birdtable"],
+          "synonyms": ["bird food"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["hobby", "pets"]
+        }
+      ]
+    },
+    {
+      "term": "birdfeeds",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of birdfeed",
+          "examples": ["Several birdfeeds were emptied by morning."],
+          "collocations": ["feeds", "backyard"],
+          "synonyms": ["bird foods"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["hobby", "pets"]
+        }
+      ]
+    },
+    {
+      "term": "birdglue",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a humorous or fictional term; glue used to repair birds or toys; not a common standard term",
+          "examples": ["The craftsman used birdglue to fix the wooden model."],
+          "collocations": ["glue", "repair", "craft"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["crafts", "humor"]
+        }
+      ]
+    },
+    {
+      "term": "birdhood",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or condition of being a bird or birds collectively; occasionally used metaphorically for bird-related things",
+          "examples": ["Birdhood is a playful term among birdwatchers."],
+          "collocations": ["birdhood", "community"],
+          "synonyms": ["bird community"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["lifestyle"]
+        }
+      ]
+    },
+    {
+      "term": "birdhouse",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small shelter or home for birds, often a wooden box with a hole",
+          "examples": ["The garden has a blue birdhouse near the tree."],
+          "collocations": ["box", "hole", "wooden", "garden"],
+          "synonyms": ["nest box"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["household", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "birdhouses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of birdhouse",
+          "examples": ["Several birdhouses line the fence."],
+          "collocations": ["fence", "garden", "birds"],
+          "synonyms": ["nest boxes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["household", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "birdie",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small or young bird; in sports like golf, a score of one under par on a hole",
+          "examples": ["The golfer sank a birdie on the 3rd hole.", "The birdie chick hopped around the feeder."],
+          "collocations": ["golf", "hole", "nestling"],
+          "synonyms": ["young bird", "little bird", "golf score (informal)"],
+          "antonyms": ["eagle", "bogey"],
+          "register": "neutral",
+          "domain": ["sports", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "birdieback",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a playful or fictional term; not a standard dictionary entry",
+          "examples": ["They laughed at the silly birdieback nickname."],
+          "collocations": ["nickname", "playful"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["humor"]
+        }
+      ]
+    },
+    {
+      "term": "birdied",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of birdie; achieved a birdie in golf",
+          "examples": ["She birdied the 5th hole to take the lead."],
+          "collocations": ["hole", "score", "golf"],
+          "synonyms": ["scored a birdie"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "birdieing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of birdie; scoring birdies in golf",
+          "examples": ["He was birdieing several holes in a row."],
+          "collocations": ["holes", "score", "round"],
+          "synonyms": ["scoring birdies"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "birdies",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of birdie; small birds or golf scores of one under par",
+          "examples": ["The golf players traded birdies all day.", "Young forest birds, or birdies, chirped nearby."],
+          "collocations": ["golf", "holes", "scores", "birds"],
+          "synonyms": ["birdie (singular) in golf; young birds"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "nature"]
+        }
+      ]
+    }
+  ]
+}

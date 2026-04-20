@@ -1,0 +1,714 @@
+{
+  "items": [
+    {
+      "term": "bondoc",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small, hard, rounded seed of certain plants used in medicines or as a charm; sometimes refers to certain seeds used in traditional practices",
+          "examples": ["The healer ground bondoc to mix into a poultice.", "Old manuscripts mention bondoc seeds as a protective charm."],
+          "collocations": ["bondoc seed", "bondoc root", "protective charm"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "traditional medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bondon",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term used in some dialects or historical texts to refer to a device or method involving binding or tying; usage is extremely rare in modern English",
+          "examples": ["Ancient records describe a bondon used by sailors."],
+          "collocations": ["bondon knot", "bondon tool"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archiacal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bonds",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "things that connect or fasten things together; the ties or bonds between people or organizations",
+          "examples": ["The bonds between teammates are strong.", "He signed the bonds to secure the loan."],
+          "collocations": ["emotional bonds", "chemical bonds", "binding bonds", "government bonds"],
+          "synonyms": ["ties", "connections", "ligaments", "bindings"],
+          "antonyms": ["separations", "detachments"],
+          "register": "neutral",
+          "domain": ["general", "finance", "relationships"]
+        },
+        {
+          "pos": "noun",
+          "definition": "financial instruments representing a loan to be repaid with interest",
+          "examples": ["She bought government bonds.", "Bond yields rose with the news."],
+          "collocations": ["government bonds", "corporate bonds", "bond market"],
+          "synonyms": ["notes", "debt securities"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["finance", "economy"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to join or fasten something with a bond or bond-like material; to form a close relationship",
+          "examples": ["The two pieces bond tightly after drying.", "Their friendship bonds quickly over shared interests."],
+          "collocations": ["bond together", "bond firmly", "bond with"],
+          "synonyms": ["connect", "adhere", "unite"],
+          "antonyms": ["divide", "separate"],
+          "register": "neutral",
+          "domain": ["general", "relationships"]
+        }
+      ]
+    },
+    {
+      "term": "bondservant",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is bound or enslaved to work for another under a bond or contract; historical term",
+          "examples": ["The bondservant was required to toil for his master."],
+          "collocations": ["bondservant status", "bondservant contract"],
+          "synonyms": ["slave", "servant", "bondslave"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "society"]
+        }
+      ]
+    },
+    {
+      "term": "bondservants",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bondservant; people bound or enslaved to work for another",
+          "examples": ["Historical records mention many bondservants in the estate."],
+          "collocations": ["bondservants records", "freedom for bondservants"],
+          "synonyms": ["slaves", "servants"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "society"]
+        }
+      ]
+    },
+    {
+      "term": "bondship",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or condition of being bound or in a bond; commitment or obligation",
+          "examples": ["He entered into bondship with the guild."],
+          "collocations": ["family bondship", "bondship to the contract"],
+          "synonyms": ["binding", "duty"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "society"]
+        }
+      ]
+    },
+    {
+      "term": "bondslave",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is bound as a slave; historical term emphasizing bondage",
+          "examples": ["Records describe bondslaves in the colony."],
+          "collocations": ["bondslave status", "liberation of bondslaves"],
+          "synonyms": ["bondservant", "slave"],
+          "antonyms": ["free person", "freeman"],
+          "register": "archaic",
+          "domain": ["history", "society"]
+        }
+      ]
+    },
+    {
+      "term": "bondsman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who acts as a surety or guarantor for another; a man who acts as a bond merchant or bondholder",
+          "examples": ["The bondsman signed the bail bond."],
+          "collocations": ["bail bondsman", "surety bondsman"],
+          "synonyms": ["guarantor", "surety"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["law", "finance", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bondsmen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bondsman; multiple guarantors or sureties",
+          "examples": ["The bondsmen posted bail for the accused."],
+          "collocations": ["bail bondsmen", "bondsmen agreement"],
+          "synonyms": ["guarantors", "sureties"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["law", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "bondstone",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a stone used in building or as a symbol of a bond; a ceremonial or decorative stone",
+          "examples": ["The altar was set with a bondstone."],
+          "collocations": ["bondstone ceremony", "bondstone inlay"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["architecture", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bondstones",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bondstone",
+          "examples": ["The garden was paved with bondstones."],
+          "collocations": ["bondstones array"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["architecture", "landscape"]
+        }
+      ]
+    },
+    {
+      "term": "bondswoman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a woman who is bound or enslaved by a bond; historical term",
+          "examples": ["The text mentions a bondswoman transported to the colony."],
+          "collocations": ["bondswoman status", "bondswoman contract"],
+          "synonyms": ["bondservant", "slave"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "society"]
+        }
+      ]
+    },
+    {
+      "term": "bondswomen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bondswoman; women bound by a bond or slavery",
+          "examples": ["The records detail the lives of several bondswomen."],
+          "collocations": ["bondswomen records"],
+          "synonyms": ["bondservants", "slaves"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "society"]
+        }
+      ]
+    },
+    {
+      "term": "bonduc",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the seed of the fidele tree (Lablab or Cardiospermum genus) used in traditional medicine or as a bead; also called cubeb or nagai seed in some regions",
+          "examples": ["The bonduc seeds are used in folk remedies."],
+          "collocations": ["bonduc seed", "bonduc bead"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["traditional medicine", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "bonducnut",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alt spelling of bonduc; the seed or nut of the bonduc plant",
+          "examples": ["The bonducnut bead is carved into jewelry."],
+          "collocations": ["bonducnut bead", "bonducnut oil"],
+          "synonyms": ["bonduc seed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["traditional medicine", "crafts"]
+        }
+      ]
+    },
+    {
+      "term": "bonducs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bonduc; seeds or nuts of the bonduc plant",
+          "examples": ["Bonducs are sometimes used in jewelry."],
+          "collocations": ["bonduc seeds", "bonduc beads"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["botany", "crafts"]
+        }
+      ]
+    },
+    {
+      "term": "bondwoman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a woman who is bound or enslaved; historical term",
+          "examples": ["The bondwoman waited for her master."],
+          "collocations": ["bondwoman status"],
+          "synonyms": ["bondservant", "slave"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "society"]
+        }
+      ]
+    },
+    {
+      "term": "bondwomen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bondwoman; enslaved women",
+          "examples": ["The narratives describe bondwomen of the plantation."],
+          "collocations": ["bondwomen records"],
+          "synonyms": ["bondservants", "slaves"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "society"]
+        }
+      ]
+    },
+    {
+      "term": "bone",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one of the hard parts inside a living animal's body that gives structure",
+          "examples": ["She broke a bone while playing soccer.", "He could see the bones of the fish through its skin."],
+          "collocations": ["bone fracture", "bone marrow", "bone density"],
+          "synonyms": ["skeleton part", "osseous tissue"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "health", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the hard white part of a potato or carrot used in cooking in some contexts; or a slang term for money in bone dry phrases",
+          "examples": ["Peel the bone from the potato."],
+          "collocations": ["bone meal", "bone broth"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "boneache",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a severe or painful ache in the bones or a lasting ache; archaic or regional spelling of 'bone ache'",
+          "examples": ["He complained of a boneache that wouldn't go away."],
+          "collocations": ["boneache pain", "chronic boneache"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["health", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "bonebed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a bed or deposit of bones; a pile or layer of bones, often fossilized",
+          "examples": ["The fossil site revealed a bonebed with thousands of bones."],
+          "collocations": ["fossil bonebed", "bonebed site"],
+          "synonyms": ["bone deposit"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "bonebeds",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bonebed",
+          "examples": ["Several bonebeds were discovered in the valley."],
+          "collocations": ["bonebed sites"],
+          "synonyms": ["bone deposits"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "bonebinder",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance or device used to bind bones together; could be a fictional or historical term",
+          "examples": ["The bonebinder secured the fracture pieces."],
+          "collocations": ["bonebinder adhesive"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "history"]
+        }
+      ]
+    },
+    {
+      "term": "boneblack",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a black pigment made from bone; historically used in art and cosmetics",
+          "examples": ["The artist mixed boneblack into the paint."],
+          "collocations": ["boneblack pigment", "boneblack pigment mix"],
+          "synonyms": ["bone char", "charcoal derived color"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "history"]
+        }
+      ]
+    },
+    {
+      "term": "boneblacks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of boneblack; pigments made from bone charcoal",
+          "examples": ["Vintage prints used boneblacks for deep shadows."],
+          "collocations": ["boneblacks pigments"],
+          "synonyms": ["boneblack pigments"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "history"]
+        }
+      ]
+    },
+    {
+      "term": "boneflown",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or poetic term describing bones carried by the wind or a metaphorical drifting of bones; not common in modern usage",
+          "examples": ["The tale spoke of boneflown ashes in the wind."],
+          "collocations": ["boneflown imagery"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "bonecollide",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to clash or strike bones; used figuratively to mean a severe collision",
+          "examples": ["The two dinosaurs bonecollide in the fossil bed."],
+          "collocations": ["bonecollide event"],
+          "synonyms": ["collide", "crash"],
+          "antonyms": ["gentle contact"],
+          "register": "neutral",
+          "domain": ["science", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "bonebond",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a figurative or literal bond of bones; a strong connection",
+          "examples": ["The bonebond of their tribe was strong."],
+          "collocations": ["bonebond of kinship"],
+          "synonyms": ["bond", "link"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["culture", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "bonebone",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "reduplication for emphasis or a name; not a standard widely used term",
+          "examples": ["In the story, 'bonebone' is a chant."],
+          "collocations": ["bonebone chant"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "bonebreath",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a poetic or metaphorical phrase describing a cold, bone-dry breath",
+          "examples": ["The bonebreath of winter chilled the room."],
+          "collocations": ["bonebreath chill"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "poetry"]
+        }
+      ]
+    },
+    {
+      "term": "boneblood",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a poetic or symbolic term for lineage or bloodline tied to bones; not standard in modern usage",
+          "examples": ["They spoke of boneblood ties across generations."],
+          "collocations": ["boneblood lineage"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "bondwoman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a woman who is bound; similar to bondwoman earlier; historical term",
+          "examples": ["The old records mention a bondwoman and her child."],
+          "collocations": ["bondwoman status"],
+          "synonyms": ["bondservant", "slave"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bondwomen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bondwoman; enslaved women",
+          "examples": ["The tales recount the lives of bondwomen in the estate."],
+          "collocations": ["bondwomen records"],
+          "synonyms": ["bondservants", "slaves"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bone",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one of the hard parts inside a living animal or human body that gives shape and support",
+          "examples": ["Children learn about bones in biology class.", "She felt a pain in her bone after the fall."],
+          "collocations": ["bone structure", "bone marrow", "bone density"],
+          "synonyms": ["ossicle", "osseous tissue"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "health", "general"]
+        }
+      ]
+    },
+    {
+      "term": "boneache",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "pain in the bones; aching bones",
+          "examples": ["He complained of a boneache after the long hike."],
+          "collocations": ["boneache pain", "boneache relief"],
+          "synonyms": ["bone pain"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health"]
+        }
+      ]
+    },
+    {
+      "term": "bonebed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place where bones are deposited, often a fossil site",
+          "examples": ["The excavation uncovered a large bonebed."],
+          "collocations": ["fossil bonebed", "bonebed site"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "bonebeds",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bonebed",
+          "examples": ["Several bonebeds were studied by the team."],
+          "collocations": ["bonebeds sites"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "bonebinder",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance or person that binds bones together; may be a medical or metaphorical term",
+          "examples": ["The surgeon used a bonebinder to stabilize the fracture."],
+          "collocations": ["bonebinder adhesive"],
+          "synonyms": ["binder", "sealant"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "boneblack",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a black pigment made from bone; used in art and cosmetics historically",
+          "examples": ["The painter mixed boneblack into the pigment."],
+          "collocations": ["boneblack pigment"],
+          "synonyms": ["bone ash pigment"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "history"]
+        }
+      ]
+    },
+    {
+      "term": "boneblacks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of boneblack; various bone-derived pigments",
+          "examples": ["Ancient pigments included boneblacks for deep shadows."],
+          "collocations": ["boneblacks pigments"],
+          "synonyms": ["boneblack pigments"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "history"]
+        }
+      ]
+    }
+  ]
+}

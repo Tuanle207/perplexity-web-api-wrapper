@@ -1,0 +1,586 @@
+```json
+{
+  "items": [
+    {
+      "term": "bimestrially",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "every two months; twice in a two-month period.",
+          "examples": [
+            "The newsletter is published bimestrially.",
+            "They hold bimestrially meetings to review progress."
+          ],
+          "collocations": [
+            "published bimestrially",
+            "bimestrially reports",
+            "bimestrially basis",
+            "bimestrially updated",
+            "bimestrially review"
+          ],
+          "synonyms": ["biannually", "semiannually"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "bimetal",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a material made from two different metals bonded together.",
+          "examples": [
+            "The thermostat uses a bimetal strip.",
+            "Bimetal is common in temperature sensors."
+          ],
+          "collocations": [
+            "bimetal strip",
+            "bimetal thermostat",
+            "bimetal construction",
+            "bimetal material",
+            "bimetal alloy"
+          ],
+          "synonyms": ["bimetallic strip"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "bimetalic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "made of two metals; relating to bimetallism. (rare spelling variant of bimetallic)",
+          "examples": [
+            "The bimetalic strip bends with heat.",
+            "Bimetalic standards were debated."
+          ],
+          "collocations": [
+            "bimetalic strip",
+            "bimetalic standard",
+            "bimetalic construction"
+          ],
+          "synonyms": ["bimetallic"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "bimetalism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the use of both gold and silver as legal currency. (variant spelling of bimetallism)",
+          "examples": [
+            "Bimetalism was popular in the 19th century.",
+            "He supported bimetalism over monometallism."
+          ],
+          "collocations": [
+            "gold bimetalism",
+            "silver bimetalism",
+            "advocate bimetalism",
+            "debate bimetalism"
+          ],
+          "synonyms": ["bimetallism"],
+          "antonyms": ["monometallism"],
+          "register": "formal",
+          "domain": ["economics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bimetallic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "made of two different metals.",
+          "examples": [
+            "A bimetallic strip is used in thermostats.",
+            "The bimetallic thermometer is accurate."
+          ],
+          "collocations": [
+            "bimetallic strip",
+            "bimetallic thermometer",
+            "bimetallic construction",
+            "bimetallic material",
+            "bimetallic device",
+            "bimetallic joint"
+          ],
+          "synonyms": ["bimetal"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "engineering"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "using both gold and silver as currency standard.",
+          "examples": [
+            "The US briefly adopted a bimetallic system.",
+            "Bimetallic policy caused economic issues."
+          ],
+          "collocations": [
+            "bimetallic standard",
+            "bimetallic system",
+            "bimetallic policy"
+          ],
+          "synonyms": ["bimetallic standard"],
+          "antonyms": ["monometallic"],
+          "register": "formal",
+          "domain": ["economics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bimetallics",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bimetallic; materials or items made of two metals.",
+          "examples": [
+            "Bimetallics are used in modern engineering.",
+            "The factory produces various bimetallics."
+          ],
+          "collocations": [
+            "various bimetallics",
+            "produce bimetallics",
+            "use bimetallics"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "bimetallism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a monetary system using both gold and silver as legal tender at a fixed ratio.",
+          "examples": [
+            "Bimetallism was debated in the 1890s.",
+            "The policy of bimetallism failed due to market ratios."
+          ],
+          "collocations": [
+            "gold bimetallism",
+            "silver bimetallism",
+            "international bimetallism",
+            "adopt bimetallism",
+            "end bimetallism",
+            "debate bimetallism"
+          ],
+          "synonyms": ["bimetallicism"],
+          "antonyms": ["monometallism"],
+          "register": "formal",
+          "domain": ["economics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bimetallisms",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bimetallism; multiple instances or types of bimetallic systems.",
+          "examples": [
+            "Various bimetallisms existed historically.",
+            "Scholars compare European bimetallisms."
+          ],
+          "collocations": [
+            "historical bimetallisms",
+            "national bimetallisms"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bimetallist",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who supports bimetallism.",
+          "examples": [
+            "William Jennings Bryan was a famous bimetallist.",
+            "Bimetallists rallied for silver coinage."
+          ],
+          "collocations": [
+            "famous bimetallist",
+            "ardent bimetallist",
+            "leading bimetallist"
+          ],
+          "synonyms": [],
+          "antonyms": ["monometallist"],
+          "register": "formal",
+          "domain": ["economics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bimetallistic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or supporting bimetallism.",
+          "examples": [
+            "His bimetallistic views were unpopular.",
+            "The speech was bimetallistic in nature."
+          ],
+          "collocations": [
+            "bimetallistic policy",
+            "bimetallistic argument",
+            "bimetallistic views"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics"]
+        }
+      ]
+    },
+    {
+      "term": "bimetallists",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bimetallist; people who advocate bimetallism.",
+          "examples": [
+            "Bimetallists marched in protest.",
+            "American bimetallists influenced politics."
+          ],
+          "collocations": [
+            "American bimetallists",
+            "radical bimetallists"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bimetals",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bimetal; materials composed of two metals.",
+          "examples": [
+            "Modern devices use bimetals for sensors.",
+            "Bimetals expand differently when heated."
+          ],
+          "collocations": [
+            "use bimetals",
+            "produce bimetals",
+            "various bimetals"
+          ],
+          "synonyms": ["bimetallic strips"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "bimethyl",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bimethyls",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bimillenaries",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bimillenary; a 2000th anniversary.",
+          "examples": [
+            "The bimillenaries were celebrated worldwide.",
+            "Historians study ancient bimillenaries."
+          ],
+          "collocations": [
+            "celebrate bimillenaries",
+            "historical bimillenaries"
+          ],
+          "synonyms": ["bimillennials"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bimillenary",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a 2000th anniversary.",
+          "examples": [
+            "The bimillenary celebration was grand.",
+            "It marks a bimillenary milestone."
+          ],
+          "collocations": [
+            "bimillenary celebration",
+            "bimillenary event",
+            "bimillenary anniversary"
+          ],
+          "synonyms": ["bimillennial"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a period of 2000 years or its anniversary.",
+          "examples": [
+            "The bimillenary of Rome was in 2017.",
+            "They observed the bimillenary quietly."
+          ],
+          "collocations": [
+            "bimillenary of",
+            "observe bimillenary"
+          ],
+          "synonyms": ["bimillennium"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bimillenial",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "of or relating to a 2000th anniversary. (variant spelling)",
+          "examples": [
+            "The bimillenial festival drew crowds.",
+            "It was a bimillenial commemoration."
+          ],
+          "collocations": [
+            "bimillenial festival",
+            "bimillenial commemoration"
+          ],
+          "synonyms": ["bimillennial"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bimillenium",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a period of two thousand years.",
+          "examples": [
+            "The new bimillenium begins now.",
+            "One bimillenium spans 2000 years."
+          ],
+          "collocations": [
+            "new bimillenium",
+            "end of bimillenium"
+          ],
+          "synonyms": ["bimillennium"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bimillennia",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bimillennium; periods of 2000 years.",
+          "examples": [
+            "Human history spans several bimillennia.",
+            "Ancient bimillennia are studied."
+          ],
+          "collocations": [
+            "several bimillennia",
+            "historical bimillennia"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bimillennial",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a period of 2000 years or its anniversary.",
+          "examples": [
+            "The bimillennial games were exciting.",
+            "It's a bimillennial achievement."
+          ],
+          "collocations": [
+            "bimillennial celebration",
+            "bimillennial games",
+            "bimillennial anniversary"
+          ],
+          "synonyms": ["bimillenary"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bimillennials",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bimillennial; events or things related to 2000-year periods.",
+          "examples": [
+            "Bimillennials mark key historical points.",
+            "They planned multiple bimillennials."
+          ],
+          "collocations": [
+            "historical bimillennials",
+            "celebrate bimillennials"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bimillennium",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a space of two thousand years.",
+          "examples": [
+            "The third bimillennium starts soon.",
+            "One bimillennium equals 2000 years."
+          ],
+          "collocations": [
+            "first bimillennium",
+            "new bimillennium",
+            "span bimillennium"
+          ],
+          "synonyms": ["bimillenium"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "bimillenniums",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural variant of bimillennium; multiple 2000-year periods.",
+          "examples": [
+            "History records three bimillenniums.",
+            "Future bimillenniums await."
+          ],
+          "collocations": [
+            "three bimillenniums",
+            "future bimillenniums"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bimillionaire",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bimilllennia",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bimillennium. (variant spelling)",
+          "examples": [
+            "The bimilllennia passed slowly.",
+            "Scholars discuss ancient bimilllennia."
+          ],
+          "collocations": [
+            "ancient bimilllennia"
+          ],
+          "synonyms": ["bimillennia"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    }
+  ]
+}
+```

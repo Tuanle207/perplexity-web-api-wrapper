@@ -1,0 +1,659 @@
+{
+  "items": [
+    {
+      "term": "binaries",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of binary; systems or data represented using two components or states.",
+          "examples": [
+            "The software uses binaries to run on a computer.",
+            "The concept of binaries is fundamental in digital computing."
+          ],
+          "collocations": [
+            "binary data",
+            "binary system",
+            "two-state binaries",
+            "binary code",
+            "binary numbers"
+          ],
+          "synonyms": ["dual systems", "duals", "two-state codes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "binarism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the division of something into two distinct categories or the belief in two distinct groups; often refers to binary thinking.",
+          "examples": [
+            "The essay critiques scientific binarism in gender studies.",
+            "Binarism can limit nuanced understanding."
+          ],
+          "collocations": [
+            "cultural binarism",
+            "gender binarism",
+            "challenge binarism",
+            "binary binarism"
+          ],
+          "synonyms": ["dualism", "bipartition"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "philosophy", "sociology"]
+        }
+      ]
+    },
+    {
+      "term": "binarisms",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of binarism; multiple instances or forms of binary thinking or division.",
+          "examples": [
+            "The paper analyzes various binarisms in contemporary discourse.",
+            "Binarisms often appear in political rhetoric."
+          ],
+          "collocations": [
+            "various binarisms",
+            "political binarisms",
+            "cultural binarisms"
+          ],
+          "synonyms": ["dualisms", "bipartitions"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "binarium",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mineral name (historic/rare) or a chaotically shaped term; in contemporary usage, extremely uncommon.",
+          "examples": [
+            "Binarium is scarcely used in modern geology texts."
+          ],
+          "collocations": [
+            "binarium mineral"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "binary",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a system using two states or parts; commonly 0 and 1 in computing.",
+          "examples": [
+            "Computers store data in binary.",
+            "Binary is the language of digital electronics."
+          ],
+          "collocations": [
+            "binary code",
+            "binary digits",
+            "binary system",
+            "binary representation"
+          ],
+          "synonyms": ["duality", "two-state system"],
+          "antonyms": ["nonbinary", "multivalued system"],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to or consisting of two parts; involving two things.",
+          "examples": [
+            "The binary choice left little room for compromise.",
+            "Binary stars orbit each other."
+          ],
+          "collocations": [
+            "binary system",
+            "binary star",
+            "binary opposition"
+          ],
+          "synonyms": ["dual", "twofold"],
+          "antonyms": ["multinumeral", "multiple"],
+          "register": "neutral",
+          "domain": ["astronomy", "general"]
+        }
+      ]
+    },
+    {
+      "term": "binate",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having or consisting of two parts or units; paired.",
+          "examples": [
+            "A binate arrangement of leaves.",
+            "The plant shows a binate pattern."
+          ],
+          "collocations": [
+            "binate leaves",
+            "binate arrangement"
+          ],
+          "synonyms": ["dual", "paired"],
+          "antonyms": ["uninate", "single"],
+          "register": "formal",
+          "domain": ["biology", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "binately",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a paired or double manner; in pairs.",
+          "examples": [
+            "The leaves are binately arranged around the stem."
+          ],
+          "collocations": [
+            "binately arranged",
+            "binately paired"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bination",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare or historical form referring to a combination or union; not commonly used in modern English.",
+          "examples": [
+            "The old text uses the term bination in a poetic sense."
+          ],
+          "collocations": [
+            "cation of bination"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature", "history"]
+        }
+      ]
+    },
+    {
+      "term": "binational",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "involving two nations; relating to two different countries.",
+          "examples": [
+            "They hold binational citizenship.",
+            "Binational programs aim to improve cross-border cooperation."
+          ],
+          "collocations": [
+            "binational relations",
+            "binational agreement",
+            "binational program"
+          ],
+          "synonyms": ["bilateral", "two-nation"],
+          "antonyms": ["unilateral"],
+          "register": "neutral",
+          "domain": ["law", "politics", "international"]
+        }
+      ]
+    },
+    {
+      "term": "binaural",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to both ears; using two ears to perceive sound.",
+          "examples": [
+            "Binaural hearing helps locate sound sources.",
+            "Binaural beats are designed to affect brainwaves."
+          ],
+          "collocations": [
+            "binaural recording",
+            "binaural audio",
+            "binaural hearing"
+          ],
+          "synonyms": ["two-eared", "stereo"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "technology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "binaurally",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that relates to both ears or stereo sound.",
+          "examples": [
+            "The microphone records binaurally to create a 3D sound effect."
+          ],
+          "collocations": [
+            "binaurally recorded",
+            "binaurally processed"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "binauricular",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to both ears; double-eared.",
+          "examples": [
+            "A binauricular device enhances spatial audio."
+          ],
+          "collocations": [
+            "binauricular gesture",
+            "binauricular sensor"
+          ],
+          "synonyms": ["binaural", "two-eared"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "binbashi",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "historical term; a rank or title in certain cultures; not common in modern usage.",
+          "examples": [
+            "The traveler read about the rank of binbashi in ancient texts."
+          ],
+          "collocations": [
+            "binbashi title",
+            "binbashi rank"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bind",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to tie, fasten, or secure something with a strap, rope, or similar material.",
+          "examples": [
+            "Please bind the package with this rope.",
+            "The traveler bound the box with tape."
+          ],
+          "collocations": [
+            "bind the wound",
+            "bind with rope",
+            "bind together"
+          ],
+          "synonyms": ["tie", "fasten", "secure"],
+          "antonyms": ["unbind", "loosen"],
+          "register": "neutral",
+          "domain": ["general", "manual"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a chemical or legal obligation; something that binds; a limit or constraint.",
+          "examples": [
+            "The contract has several binds on both parties.",
+            "The bind of equity guides the judge."
+          ],
+          "collocations": [
+            "binding agreement",
+            "legal bind",
+            "financial bind"
+          ],
+          "synonyms": ["constraint", "obligation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["law", "business"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a binding curtain or fastener, often in sewing or textile work.",
+          "examples": [
+            "She added a binding around the edge of the tablecloth."
+          ],
+          "collocations": [
+            "binding edge",
+            "fabric binding"
+          ],
+          "synonyms": ["binding tape"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["crafts", "textile"]
+        }
+      ]
+    },
+    {
+      "term": "bindable",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being bound or tied; capable of binding a device or data.",
+          "examples": [
+            "The feature is bindable to multiple devices."
+          ],
+          "collocations": [
+            "bindable array",
+            "bindable property"
+          ],
+          "synonyms": ["bindable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "computing"]
+        }
+      ]
+    },
+    {
+      "term": "binder",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or material used to bind or hold things together; a folder for papers; a person who binds.",
+          "examples": [
+            "She organized documents with a binder.",
+            "The binder keeps the papers in order."
+          ],
+          "collocations": [
+            "three-ring binder",
+            "file binder",
+            "binder clip"
+          ],
+          "synonyms": ["folder", "folder binder"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "office"]
+        }
+      ]
+    },
+    {
+      "term": "binderies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of binderie; places where binders or bindings are produced; rarely used.",
+          "examples": [
+            "The binderies in the region supply school supplies."
+          ],
+          "collocations": [
+            "binderies supply",
+            "local binderies"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["manufacturing", "commerce"]
+        }
+      ]
+    },
+    {
+      "term": "binders",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of binder; tools or devices for binding; or people who bind.",
+          "examples": [
+            "The office stocked extra binders for reports.",
+            "Binders are essential for organizing documents."
+          ],
+          "collocations": [
+            "ring binder",
+            "binder clips",
+            "three-ring binders"
+          ],
+          "synonyms": ["folders", "binders"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "office"]
+        }
+      ]
+    },
+    {
+      "term": "bindery",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a factory or workshop where books or bound materials are produced.",
+          "examples": [
+            "The bindery handles bookbinding and finishing.",
+            "Many bindaries have modern machinery."
+          ],
+          "collocations": [
+            "book bindery",
+            "bindery workshop",
+            "bindery equipment"
+          ],
+          "synonyms": ["printing shop", "bookbinding workshop"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "bindheimite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mineral species known as bindheimite; extremely rare.",
+          "examples": [
+            "Bindheimite is a mineral sometimes found in specific ore deposits."
+          ],
+          "collocations": [
+            "bindheimite mineral"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "bindhi",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term for a traditional decorative forehead ornament worn in South Asia; commonly called bindi in many contexts.",
+          "examples": [
+            "She wore a red bindhi on her forehead."
+          ],
+          "collocations": [
+            "red bindhi",
+            "gold bindhi"
+          ],
+          "synonyms": ["bindi"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bindhis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bindhi; multiple forehead ornaments.",
+          "examples": [
+            "Her bindhis matched her outfit."
+          ],
+          "collocations": [
+            "bindhi designs",
+            "bindhi strings"
+          ],
+          "synonyms": ["bindis", "bindi"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bindi",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a decorative mark or jewel worn on the forehead, common in South Asian cultures.",
+          "examples": [
+            "She wore a bright red bindi.",
+            "Bindis are often used in traditional attire."
+          ],
+          "collocations": [
+            "red bindi",
+            "golden bindi",
+            "traditional bindi"
+          ],
+          "synonyms": ["bindhi", "bindu"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "binding",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of tying or securing something; a force that binds or constrains.",
+          "examples": [
+            "The binding of the book is strong.",
+            "There is a binding agreement between the two parties."
+          ],
+          "collocations": [
+            "binding agreement",
+            "binding force",
+            "binding constraint"
+          ],
+          "synonyms": ["tying", "fastening", "constraint"],
+          "antonyms": ["unbinding", "loosening"],
+          "register": "neutral",
+          "domain": ["law", "business"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "related to binding; compulsory or required.",
+          "examples": [
+            "The binding rules must be followed."
+          ],
+          "collocations": [
+            "binding instructions",
+            "binding agreement"
+          ],
+          "synonyms": ["mandatory", "obligatory"],
+          "antonyms": ["voluntary"],
+          "register": "formal",
+          "domain": ["law", "policy"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "in binding form; legally enforceable.",
+          "examples": [
+            "A binding contract is legally enforceable."
+          ],
+          "collocations": [
+            "binding contract",
+            "binding document"
+          ],
+          "synonyms": ["enforceable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "business"]
+        }
+      ]
+    },
+    {
+      "term": "bindingly",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a binding or compelling manner; with obligation or force.",
+          "examples": [
+            "The terms bindingly constrain the parties."
+          ],
+          "collocations": [
+            "bindingly enforce",
+            "bindingly obligate"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "policy"]
+        }
+      ]
+    }
+  ]
+}

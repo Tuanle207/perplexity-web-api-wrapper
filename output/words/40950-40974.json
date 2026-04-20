@@ -1,0 +1,582 @@
+{
+  "items": [
+    {
+      "term": "bioenergies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bioenergy; energy derived from biological sources or living matter used for power or electricity",
+          "examples": [
+            "The report compares bioenergies from crops with solar energy.",
+            "Policies encourage the development of bioenergies as a renewable resource."
+          ],
+          "collocations": [
+            "bioenergies production",
+            "bioenergies sector",
+            "bioenergies sources",
+            "renewable bioenergies"
+          ],
+          "synonyms": ["bioenergy sources", "biomass energy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["environment", "energy", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bioenergy",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "energy produced from living or recently living organic matter (biomass) such as plants, agricultural waste, or algae",
+          "examples": [
+            "Bioenergy plants convert biomass into electricity.",
+            "Advances in bioenergy aim to reduce fossil fuel use."
+          ],
+          "collocations": [
+            "bioenergy plant",
+            "bioenergy production",
+            "bioenergy sector",
+            "sustainable bioenergy"
+          ],
+          "synonyms": ["biomass energy", "biofuel energy"],
+          "antonyms": ["fossil fuel energy", "nonrenewable energy"],
+          "register": "neutral",
+          "domain": ["environment", "energy", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bioengineer",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a professional who applies engineering principles to biological systems to design or modify biological organisms or processes",
+          "examples": [
+            "The bioengineer developed a new biotech scaffold for tissue growth.",
+            "Bioengineers work in academia and industry on medical devices."
+          ],
+          "collocations": [
+            "bioengineer a solution",
+            "bioengineer tissue",
+            "biomedical bioengineer",
+            "bioengineering and bioengineering research"
+          ],
+          "synonyms": ["biotechnologist", "biomedical engineer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "technology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bioengineered",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "designed, produced, or modified using biotechnology to achieve specific traits or functions",
+          "examples": [
+            "Bioengineered crops may show increased yield.",
+            "Some foods are labeled as bioengineered to indicate biotech modification."
+          ],
+          "collocations": [
+            "bioengineered crops",
+            "bioengineered foods",
+            "bioengineered organisms"
+          ],
+          "synonyms": ["genetically modified", "biotechnologically produced"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "agriculture", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "bioengineering",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the field of using engineering methods to influence biological systems, including medical devices, tissues, and organisms",
+          "examples": [
+            "Bioengineering combines biology and engineering to develop new therapies.",
+            "Her research in bioengineering focuses on regenerative medicine."
+          ],
+          "collocations": [
+            "bioengineering research",
+            "bioengineering degree",
+            "bioengineering department",
+            "bioengineering applications"
+          ],
+          "synonyms": ["biomedical engineering"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "technology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bioengineerings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bioengineering project or institution; the plural form is rarely used in standard English; may appear in specific technical contexts",
+          "examples": [
+            "The institute lists several bioengineerings under its translational program."
+          ],
+          "collocations": [
+            "bioengineerings program",
+            "bioengineerings projects"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "bioengineers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bioengineer; people who apply engineering to biological systems",
+          "examples": [
+            "Bioengineers develop new medical devices.",
+            "Several bioengineers work on stem cell scaffolds."
+          ],
+          "collocations": [
+            "bioengineers and researchers",
+            "bioengineers contribute",
+            "bioengineers team"
+          ],
+          "synonyms": ["biotechnologists", "biomedical engineers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "technology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bioenvironmental",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the interaction between living organisms and their environment, especially in a biological or ecological context",
+          "examples": [
+            "Bioenvironmental studies examine how organisms adapt to habitats.",
+            "They conducted a bioenvironmental assessment of the site."
+          ],
+          "collocations": [
+            "bioenvironmental impact",
+            "bioenvironmental studies",
+            "bioenvironmental science"
+          ],
+          "synonyms": ["ecological", "environmental biological"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["environment", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bioenvironmentaly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "misspelling or rare variant of bioenvironmentally; used to describe actions in a way that considers biological and environmental factors",
+          "examples": [
+            "The project is bioenvironmentaly oriented."
+          ],
+          "collocations": [
+            "bioenvironmentaly friendly" 
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["environment", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bioequivalence",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the property of being essentially the same in biological effect or therapeutic effect as another product, often used for generic drugs",
+          "examples": [
+            "The generic drug demonstrated bioequivalence to the brand-name version.",
+            "Regulators require bioequivalence data for approvals."
+          ],
+          "collocations": [
+            "bioequivalence study",
+            "bioequivalence data",
+            "bioequivalence assessment"
+          ],
+          "synonyms": ["therapeutic equivalence"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "pharmacology", "law"]
+        }
+      ]
+    },
+    {
+      "term": "bioequivalences",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bioequivalence; occurrences are uncommon, used in technical contexts",
+          "examples": [
+            "The study compared multiple bioequivalences of generic formulations."
+          ],
+          "collocations": [
+            "bioequivalences analysis"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "pharmacology"]
+        }
+      ]
+    },
+    {
+      "term": "bioequivalent",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "referring to a product having the same biological effect as a reference product",
+          "examples": [
+            "The two formulations are bioequivalent."
+          ],
+          "collocations": [
+            "bioequivalent drug",
+            "bioequivalent formulation",
+            "bioequivalent to the reference"
+          ],
+          "synonyms": ["therapeutically equivalent", "equivalent"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "pharmacology"]
+        }
+      ]
+    },
+    {
+      "term": "bioethanol",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "ethanol produced from biomass such as sugar crops; used as a renewable fuel",
+          "examples": [
+            "Bioethanol is blended with gasoline to reduce emissions."
+          ],
+          "collocations": [
+            "bioethanol production",
+            "bioethanol fuel",
+            "bioethanol blend"
+          ],
+          "synonyms": ["ethanol from biomass"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["energy", "environment", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bioethanols",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bioethanol; used in technical contexts",
+          "examples": [
+            "The facility processes several bioethanols for fuel testing."
+          ],
+          "collocations": [
+            "bioethanols supply",
+            "bioethanols production"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["energy", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bioethic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a moral principle or consideration in biology and medicine; often used in plural as bioethics",
+          "examples": [
+            "The committee discussed the bioethic of gene editing.",
+            "Bioethic concerns include privacy and consent."
+          ],
+          "collocations": [
+            "bioethic issue",
+            "bioethic debate",
+            "bioethic codes"
+          ],
+          "synonyms": ["moral principle in biology"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ethics", "medicine", "law"]
+        }
+      ]
+    },
+    {
+      "term": "bioethical",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or concerned with bioethics",
+          "examples": [
+            "They raised bioethical questions about cloning."
+          ],
+          "collocations": [
+            "bioethical debate",
+            "bioethical considerations"
+          ],
+          "synonyms": ["ethical in biology"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ethics", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bioethicist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who studies and writes about bioethics; an expert in ethical issues in biology and medicine",
+          "examples": [
+            "The bioethicist advised the hospital on consent policies.",
+            "Bioethicists often publish on genetic data and privacy."
+          ],
+          "collocations": [
+            "bioethicist panel",
+            "bioethicist role",
+            "bioethicist perspective"
+          ],
+          "synonyms": ["ethicist specializing in biology"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ethics", "medicine", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "bioethicists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bioethicist; professionals who study ethical issues in biology and medicine",
+          "examples": [
+            "Bioethicists presented guidelines at the conference."
+          ],
+          "collocations": [
+            "bioethicists panel",
+            "bioethicists views"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ethics", "medicine", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "bioethics",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study of ethical issues related to biology and medicine",
+          "examples": [
+            "Bioethics explores topics like cloning and organ donation.",
+            "Many courses cover bioethics in medicine."
+          ],
+          "collocations": [
+            "bioethics discussion",
+            "bioethics committee",
+            "bioethics principles"
+          ],
+          "synonyms": ["medical ethics", "bioethical ethics"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ethics", "medicine", "law"]
+        }
+      ]
+    },
+    {
+      "term": "biofact",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fact about biology or a fact related to living systems; usage is niche",
+          "examples": [
+            "Researchers documented several biofacts from the study."
+          ],
+          "collocations": [
+            "biofact dataset",
+            "biofact record"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "biofacts",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of biofact; rare in standard usage, appears in technical writing",
+          "examples": [
+            "The repository includes several biofacts."
+          ],
+          "collocations": [
+            "biofacts collection"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "biofeedback",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a technique that uses instruments to provide information about physiological states to help people control them",
+          "examples": [
+            "She used biofeedback to reduce her anxiety.",
+            "Biofeedback devices monitor heart rate and muscle tension."
+          ],
+          "collocations": [
+            "biofeedback training",
+            "biofeedback device",
+            "biofeedback therapy"
+          ],
+          "synonyms": ["neurofeedback (specific type)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "psychology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "biofeedbacks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of biofeedback; used in technical contexts",
+          "examples": [
+            "The clinic tracks several biofeedbacks during sessions."
+          ],
+          "collocations": [
+            "biofeedbacks session"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "biofilm",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a thin group of microorganisms that stick to a surface and produce a slimy protective layer",
+          "examples": [
+            "Dental plaque is a kind of biofilm.",
+            "Biofilms can complicate infections and medical implants."
+          ],
+          "collocations": [
+            "biofilm formation",
+            "biofilm on surfaces",
+            "biofilm infection"
+          ],
+          "synonyms": ["microbial film"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "biofilms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of biofilm; common in scientific contexts",
+          "examples": [
+            "Biofilms accumulate on medical devices."
+          ],
+          "collocations": [
+            "biofilms formation",
+            "biofilms control"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine", "environment"]
+        }
+      ]
+    }
+  ]
+}
