@@ -1,0 +1,537 @@
+{
+  "items": [
+    {
+      "term": "skirts",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The part of a garment that hangs below the waist and covers the hips and legs, or the outer edge of a surrounding area.",
+          "examples": [
+            "She bought a new pink skirt for the party.",
+            "The skirt of the hill was covered in wildflowers."
+          ],
+          "collocations": ["short skirt", "skirt hem", "skirt length", "skirt suit", "miniskirt"],
+          "synonyms": ["hemline", "garment bottom"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "fashion"]
+        },
+        {
+          "pos": "noun",
+          "definition": "The outer edge or margin of something, especially a border or minimizing area.",
+          "examples": [
+            "The trees lined the skirts of the field.",
+            "At the skirts of the forest, the path narrowed."
+          ],
+          "collocations": ["skirts of the city", "skirts of the hill"],
+          "synonyms": ["edge", "border"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To move or exist around the outer edge, or to go around the outside of something.",
+          "examples": [
+            "People skirted the lake to avoid the festival crowd.",
+            "The debate skirts around the main issue."
+          ],
+          "collocations": ["skirt around", "skirt the issue", "skirt the rules"],
+          "synonyms": ["avoid", "circumvent"],
+          "antonyms": ["face", "confront"],
+          "register": "neutral",
+          "domain": ["general", "idiomatic"]
+        }
+      ]
+    },
+    {
+      "term": "skirty",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Informal Scottish or Northern English term meaning dirty or untidy; not clean.",
+          "examples": [
+            "His clothes were skirty after a day outdoors.",
+            "The skirty kitchen needed a quick tidy."
+          ],
+          "collocations": ["skirty clothes", "skirty hands", "skirty kitchen"],
+          "synonyms": ["dirty", "grimy", "messy"],
+          "antonyms": ["clean", "tidy"],
+          "register": "informal",
+          "domain": ["informal", "general"]
+        }
+      ]
+    },
+    {
+      "term": "skirwhit",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Historical or dialect term with limited modern use; may refer to a small decorative feature or name in specific dialects.",
+          "examples": [
+            "The old manuscript mentions a skirwhit in the margin."
+          ],
+          "collocations": ["skirwhit motif"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "skirwort",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Rare or dialect term; may refer to a plant or a small name in regional usage.",
+          "examples": [
+            "A sketch of a skirwort plant appeared in the herbarium notes."
+          ],
+          "collocations": ["skirwort plant"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["biology", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "skis",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Pair of long, narrow boards used for sliding downhill on snow.",
+          "examples": [
+            "She rented skis for the mountain trip.",
+            "His skis glided smoothly down the slope."
+          ],
+          "collocations": ["ski boots", "ski hire", "downhill skis"],
+          "synonyms": ["snowboards? (not exact)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To glide over snow on skis.",
+          "examples": [
+            "They skied across the frozen lake.",
+            "He loves to ski every winter."
+          ],
+          "collocations": ["ski down", "ski across", "skiing trip"],
+          "synonyms": ["glide", "slide"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "general"]
+        }
+      ]
+    },
+    {
+      "term": "skit",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A short humorous play or sketch performed by actors.",
+          "examples": [
+            "We performed a funny skit at the talent show.",
+            "The class wrote a skit about a busy day."
+          ],
+          "collocations": ["comical skit", "opening skit", "skit night"],
+          "synonyms": ["sketch"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["theatre", "entertainment", "general"]
+        }
+      ]
+    },
+    {
+      "term": "skitch",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Colloquial term meaning to quickly capture or sketch a rough outline or diagram.",
+          "examples": [
+            "He skitching the plan on a napkin before the meeting."
+          ],
+          "collocations": ["skitch down", "skitch out"],
+          "synonyms": ["sketch", "rough-draw"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "skitched",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of skitch; quickly drew a rough outline.",
+          "examples": [
+            "He skitched the outline on the board."
+          ],
+          "collocations": ["skitch", "sketched"],
+          "synonyms": ["sketched", "drew quickly"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "skitches",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Rough sketches or quick drawings.",
+          "examples": [
+            "The designer showed several skitches before final art."
+          ],
+          "collocations": ["rough skitches", "quick skitches"],
+          "synonyms": ["sketches", "rough drafts"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["design", "general"]
+        }
+      ]
+    },
+    {
+      "term": "skitching",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Act of quickly sketching or drawing; also in street slang, hitchhiking by grabbing moving vehicles (dangerous).",
+          "examples": [
+            "She was skitching ideas on a napkin during the interview.",
+            "In some cities, skitching is illegal and dangerous."
+          ],
+          "collocations": ["skitching ideas", "skitching a diagram", "skitching a ride"],
+          "synonyms": ["sketching", "rough-drawing"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "urban"]
+        }
+      ]
+    },
+    {
+      "term": "skite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Person who boasts or talks grandly; someone who is flashy or showy.",
+          "examples": [
+            "Don't be such a skite; let others speak.",
+            "The advertisement made the product seem like a real skite."
+          ],
+          "collocations": ["show-off skite", "local skite"],
+          "synonyms": ["boaster", "braggart"],
+          "antonyms": ["humble person"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "skited",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of skite; boasted or spoke arrogantly.",
+          "examples": [
+            "He skited about his achievements at the party."
+          ],
+          "collocations": ["skited about"],
+          "synonyms": ["boasted", "bragged"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "skiter",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Someone who skites; a boaster or show-off.",
+          "examples": [
+            "He's a known skiter in the team."
+          ],
+          "collocations": ["bold skiter"],
+          "synonyms": ["boaster", "braggart"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "skites",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of skite; multiple boastful people.",
+          "examples": [
+            "The crowd laughed at a few skites in the crowd."
+          ],
+          "collocations": ["local skites"],
+          "synonyms": ["boasters"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "skither",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Someone who avoids or shuns visible risk; not a common term.",
+          "examples": [
+            "The skither kept back from the risky maneuver."
+          ],
+          "collocations": ["skither in fear", "skither away"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "skiting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Act of skiting; boasting or showing off behavior.",
+          "examples": [
+            "His skiting was met with stubborn silence."
+          ],
+          "collocations": ["bragging skiting"],
+          "synonyms": ["boasting", "bragging"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "skitishly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a skittish or restless way; nervously jumpy or hesitant.",
+          "examples": [
+            "The horse moved skittishly at the loud noise."
+          ],
+          "collocations": ["act skittishly", "skittishly jump"],
+          "synonyms": ["nervously", "fidgety"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "skits",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of skit; short humorous plays or sketches.",
+          "examples": [
+            "The performers rehearsed several skits for the show."
+          ],
+          "collocations": ["comedic skits", "skits for show"],
+          "synonyms": ["sketches"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["theatre", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "skitswish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Uncommon playful term; may refer to a small comedic routine or sound effect in dialects.",
+          "examples": [
+            "The troupe performed a skitswish between acts."
+          ],
+          "collocations": ["skitswish routine"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["theatre", "general"]
+        }
+      ]
+    },
+    {
+      "term": "skittaget",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Uncommon name or term; may refer to a person or object in dialects.",
+          "examples": [
+            "A local legend mentions a skittaget in old stories."
+          ],
+          "collocations": ["skittaget name"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "skittagetan",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Very rare term; possibly a proper noun or dialectal label.",
+          "examples": [
+            "The manuscript mentions Skittagetan."
+          ],
+          "collocations": ["Skittagetan region"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "skitter",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To move quickly with light, short steps; to run or hurry along in a skittish way.",
+          "examples": [
+            "The cat skitters across the floor.",
+            "Leaves skittered over the pavement after the wind."
+          ],
+          "collocations": ["skitter away", "skitter across", "skitter about"],
+          "synonyms": ["scurry", "dash"],
+          "antonyms": ["crawl", "crawl slowly"],
+          "register": "neutral",
+          "domain": ["general", "nature"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A quick, light, hurried movement.",
+          "examples": [
+            "A quick skitter of feet echoed in the hall."
+          ],
+          "collocations": ["skitter of feet"],
+          "synonyms": ["scurry", "dash"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "skittered",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of skitter; moved quickly with light steps.",
+          "examples": [
+            "The mice skittered away when the lights came on."
+          ],
+          "collocations": ["skittered away", "skittered across"],
+          "synonyms": ["scurried", "darted"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "skitterier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "More skittery; more quick and restless in movement.",
+          "examples": [
+            "The kitten was skitterier this morning than yesterday."
+          ],
+          "collocations": ["more skittery"],
+          "synonyms": ["fidgetier", "more restless"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "skitteriest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Most skittery; very restless and quick.",
+          "examples": [
+            "The puppy was the skitteriest of all the dogs."
+          ],
+          "collocations": ["the skitteriest"],
+          "synonyms": ["fanciest? (not exact)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

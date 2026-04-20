@@ -1,0 +1,540 @@
+{
+  "items": [
+    {
+      "term": "smuggeries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smugglery; acts or practices of smugglers, or the places where smuggled goods are hidden or handled.",
+          "examples": [
+            "The coast guard uncovered several smuggeries along the inlet.",
+            "Smuggeries operated under the cover of night, moving goods past the border."
+          ],
+          "collocations": ["smuggeries ring", "smuggeries operation", "hidden smuggeries"],
+          "synonyms": ["smuggling operations", "smuggling activities"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "smuggery",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or practice of smuggling; illicit transportation or concealment of goods.",
+          "examples": [
+            "Their smuggery involved concealment in false compartments.",
+            "Evidence of smuggery was found in the warehouse ledger."
+          ],
+          "collocations": ["border smuggery", "smuggling ring", "smuggery operation"],
+          "synonyms": ["smuggling", "illicit transport"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "smuggest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative form of smug; being the most smug or self-satisfied.",
+          "examples": [
+            "She wore a smuggest grin imaginable after winning.",
+            "That plan looked the smuggest of all the proposals."
+          ],
+          "collocations": ["smuggest grin", "smuggest of all", "most smug"],
+          "synonyms": ["most self-satisfied", "most smug"],
+          "antonyms": ["humblest", "modest"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "smugging",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of being smug; the behavior of self-satisfied confidence.",
+          "examples": [
+            "His smugging annoyed his colleagues.",
+            "There was a hint of smugging in his remarks."
+          ],
+          "collocations": ["routine smugging", "public smugging"],
+          "synonyms": ["self-satisfaction", "self-satisfaction gesture"],
+          "antonyms": ["humility", "modesty"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "smuggish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "like smuggling; sly or illicit in nature; slow or sluggish in feel (less common).",
+          "examples": [
+            "The smuggish trader avoided cameras with careful moves.",
+            "A smuggish mood settled over the dockyard."
+          ],
+          "collocations": ["smuggish behavior", "smuggish manner"],
+          "synonyms": ["illicit", "sly", "sluggish (contextual)"],
+          "antonyms": ["legitimate", "transparent"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "smuggishly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a sluggish or slyly smug manner.",
+          "examples": [
+            "He smiled smugghingly (smuggishly) as he spoke.",
+            "The crew moved smugghingly through the market."
+          ],
+          "collocations": ["move smugghingly", "smuggishly confident"],
+          "synonyms": ["slyly", "sluggishly"],
+          "antonyms": ["eagerly", "quickly"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "smuggishness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being sluggish or smug; a smug, slow confidence.",
+          "examples": [
+            "His smuggishness hid his anxiety.",
+            "The smuggishness of the salesman was off-putting."
+          ],
+          "collocations": ["air of smugness", "smuggishness shown"],
+          "synonyms": ["smugness", "sluggish confidence"],
+          "antonyms": ["humility", "directness"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "smuggle",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to move goods or people illegally into or out of a country or place.",
+          "examples": [
+            "They tried to smuggle drugs across the border.",
+            "Smuggling cigarettes into the country is illegal."
+          ],
+          "collocations": ["smuggle goods", "smuggle people", "smuggle across"],
+          "synonyms": ["evade", "transport illegally"],
+          "antonyms": ["import legally", "export legally"],
+          "register": "formal",
+          "domain": ["law", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to move something secretly or illegally in a place where it is not allowed.",
+          "examples": [
+            "He attempted to smuggle the device into the conference.",
+            "The cat smuggled a toy into the room."
+          ],
+          "collocations": ["smuggle into", "smuggle past"],
+          "synonyms": ["conceal", "hide"],
+          "antonyms": ["reveal", "expose"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "smuggleable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being smuggled; able to be moved illicitly.",
+          "examples": [
+            "The item is not smuggleable due to weight.",
+            "Only small, smuggleable goods pass unnoticed."
+          ],
+          "collocations": ["smuggleable goods", "smuggleable items"],
+          "synonyms": ["illicitable (rare)", "concealable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smuggled",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "goods or items that have been moved illegally.",
+          "examples": [
+            "Smuggled cigarettes were found in the shipment.",
+            "Smuggled artifacts were seized at the port."
+          ],
+          "collocations": ["smuggled goods", "smuggled cigarettes", "smuggled artifacts"],
+          "synonyms": ["illicitly moved", "concealed"],
+          "antonyms": ["legal", "legitimate"],
+          "register": "formal",
+          "domain": ["law", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "past tense of smuggle; moved illegally.",
+          "examples": [
+            "They smuggled the drug across the border.",
+            "Contraband was smuggled into the country."
+          ],
+          "collocations": ["smuggled across", "smuggled into"],
+          "synonyms": ["trafficked", "illicitly transported"],
+          "antonyms": ["legalized", "legitimized"],
+          "register": "neutral",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smuggler",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who illegally imports or exports goods.",
+          "examples": [
+            "The smuggler was arrested at the border.",
+            "Smugglers often hide goods in secret compartments."
+          ],
+          "collocations": ["drug smuggler", "smuggling ring", "smuggler arrested"],
+          "synonyms": ["trafficker", "contrabandist"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smugglers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smuggler; multiple people who illegally trade in goods.",
+          "examples": [
+            "The authorities captured several smugglers.",
+            "Smugglers and their networks span multiple countries."
+          ],
+          "collocations": ["smugglers arrested", "smugglers network"],
+          "synonyms": ["traffickers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smugglery",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the operation or practice of smuggling; a place where smuggling occurs.",
+          "examples": [
+            "The smugglery was found along the coastal warehouses.",
+            "Authorities tied the smugglery to a larger network."
+          ],
+          "collocations": ["coastal smugglery", "smugglery operation"],
+          "synonyms": ["smuggling", "smuggling operation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smuggles",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present tense of smuggle; moves goods illegally.",
+          "examples": [
+            "They smuggles drugs? (incorrect usage; example for sense) He smuggles contraband.",
+            "She smuggles antique tapes across the border."
+          ],
+          "collocations": ["smuggles goods", "smuggles contraband"],
+          "synonyms": ["traffics", "illicitly transports"],
+          "antonyms": ["legalizes"],
+          "register": "neutral",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smuggling",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or practice of illegally moving goods or people.",
+          "examples": [
+            "Smuggling is illegal in most countries.",
+            "They faced charges for smuggling."
+          ],
+          "collocations": ["drug smuggling", "smuggling ring", "air smuggling"],
+          "synonyms": ["trafficking", "illicit transport"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["law", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle of smuggle; moving illegally.",
+          "examples": [
+            "They are smuggling wine into the country.",
+            "Smuggling is a high-risk activity."
+          ],
+          "collocations": ["smuggling operation", "smuggling goods"],
+          "synonyms": ["trafficking", "illicit transport"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smugglings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smuggling; acts of smuggling.",
+          "examples": [
+            "Historical smugglings shaped trade routes.",
+            "Smugglings across borders were monitored."
+          ],
+          "collocations": ["smuggling activities", "smugglings detected"],
+          "synonyms": ["trafficking", "illicit transport"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smugism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a tendency to be smug; a smug attitude or philosophy.",
+          "examples": [
+            "His smugism made him unpopular at the meeting.",
+            "The novel critiques smugism in corporate culture."
+          ],
+          "collocations": ["corporate smugism", "philosophy of smugism"],
+          "synonyms": ["smugness", "self-satisfaction"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "smugly",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a self-satisfied or smug way.",
+          "examples": [
+            "He smiled smugly at his own cleverness.",
+            "She nodded smugly, certain she was right."
+          ],
+          "collocations": ["smugly grinning", "smugly announce"],
+          "synonyms": ["self-satisfiedly", "complacently"],
+          "antonyms": ["modestly", "humbly"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "smugness",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being smug; a self-satisfied attitude.",
+          "examples": [
+            "Her smugness irritated her colleagues.",
+            "The smugness in his voice was obvious."
+          ],
+          "collocations": ["air of smugness", "smugness evident"],
+          "synonyms": ["smugness", "self-satisfaction"],
+          "antonyms": ["humility", "modesty"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "smugnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smugness; multiple displays of self-satisfaction.",
+          "examples": [
+            "Various smugnesses appeared during the debate.",
+            "Her smugnesses were hard to ignore."
+          ],
+          "collocations": ["different smugnesses", "moments of smugness"],
+          "synonyms": ["self-satisfactions (less common)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "smugs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a collection of smug individuals; or a slang term for small smugglers; or a mispronunciation in some contexts.",
+          "examples": [
+            "A row of smuggs stood at the entrance.",
+            "The group of smuggs discussed tactics." 
+          ],
+          "collocations": ["group of smugs", "smugglers and smugs (colloquial)"],
+          "synonyms": ["smug individuals"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "smuisty",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "smithy or smoky; not a standard common word; dialectical/rare usage.",
+          "examples": [
+            "A smuisty air hung over the harbour."
+          ],
+          "collocations": ["smuisty air"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "smur",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mythical or fictional creature; or a truncated form in some proper names; not common reputable usage.",
+          "examples": [
+            "The tale features a tiny creature called a smur."
+          ],
+          "collocations": ["the smur family"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fiction"]
+        }
+      ]
+    },
+    {
+      "term": "smurfing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of using multiple accounts or fake accounts to evade restrictions; in financial contexts, arranging payments through multiple accounts (also a term in online gaming for creating many accounts).",
+          "examples": [
+            "Smurfing was used to bypass purchase limits.",
+            "In gaming, smurfing means playing at a lower level with a new account."
+          ],
+          "collocations": ["online smurfing", "smurfing activity"],
+          "synonyms": ["multi-accounting", "identity spoofing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "gaming", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smurfings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smurfing; instances of smurfing.",
+          "examples": [
+            "Several smurfings were detected on the platform."
+          ],
+          "collocations": ["smurfings detected"],
+          "synonyms": ["multi-accounting"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    }
+  ]
+}

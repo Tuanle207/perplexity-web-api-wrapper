@@ -1,0 +1,459 @@
+{
+  "items": [
+    {
+      "term": "roundtrip",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a trip to a place and back again",
+          "examples": ["We bought a roundtrip ticket to Paris.", "The roundtrip took all day by train."],
+          "collocations": ["roundtrip ticket", "roundtrip fare", "roundtrip journey", "roundtrip time"],
+          "synonyms": ["return trip", "return journey"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "travel"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "describing something that covers or relates to both directions or a complete journey there and back",
+          "examples": ["roundtrip fare", "roundtrip route"],
+          "collocations": ["roundtrip", "roundtrip fare", "roundtrip ticket"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "roundtripping",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to travel to a place and return to the starting point, often used about travel or data returning to a source",
+          "examples": ["The airline is roundtripping to several cities.", "The data roundtripping between services caused a delay."],
+          "collocations": ["roundtripping to", "roundtripping records", "avoid roundtripping"],
+          "synonyms": ["returning", "retravelling"],
+          "antonyms": ["outbound travel"],
+          "register": "neutral",
+          "domain": ["travel", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "roundtrippings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of roundtrip; rarely used as a separate lexical item",
+          "examples": ["Several roundtrippings were booked."],
+          "collocations": ["roundtrippings", "per roundtrip"],
+          "synonyms": ["roundtrip plural"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "roundtrips",
+      "kind": "word",
+      "cefrLevel": "A0",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roundtrip; multiple round-trip journeys",
+          "examples": ["The group booked five roundtrips for the trip.", "We saved by buying roundtrips together."],
+          "collocations": ["roundtrips", "roundtrip tickets", "roundtrip flights"],
+          "synonyms": ["return trips"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "roundup",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a gathering or summary of information; the act of collecting people or things",
+          "examples": ["Police conducted a roundup of suspects.", "Here's a roundup of today's headlines."],
+          "collocations": ["police roundup", "roundup of facts", "news roundup"],
+          "synonyms": ["summary", "collection"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "news"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a roundup agricultural or hunting term for herding together animals",
+          "examples": ["a cattle roundup"],
+          "collocations": ["cattle roundup"],
+          "synonyms": ["harvest", "gathering"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to bring people or animals together in one place, often by force or scheduling",
+          "examples": ["the police rounded up the suspects", "they rounded up the herd for tagging"],
+          "collocations": ["round up", "rounds up", "rounding up"],
+          "synonyms": ["gather", "collect"],
+          "antonyms": ["disperse"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "roundups",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roundup; collections or summaries",
+          "examples": ["Weekly market roundups are posted online.", "A roundup of opinions was published."],
+          "collocations": ["news roundup", "market roundup", "roundups of", "weekly roundup"],
+          "synonyms": ["summaries", "collections"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "news"]
+        }
+      ]
+    },
+    {
+      "term": "roundure",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or rarely used term; not common in modern English",
+          "examples": ["The word roundure appears in old texts."],
+          "collocations": ["roundure (archaic)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "roundures",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roundure; rare/archaic",
+          "examples": ["Occasional references to roundures appear in manuscripts."],
+          "collocations": ["roundures (archaic)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "roundwise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a circular or complete manner; with regard to all sides",
+          "examples": ["The streets were inspected roundwise."],
+          "collocations": ["look roundwise", "roundwise examination"],
+          "synonyms": ["circularly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "roundwood",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "wood in its round form, not processed into boards",
+          "examples": ["Roundwood logs were stacked neatly."],
+          "collocations": ["roundwood timber", "roundwood logs"],
+          "synonyms": ["log timber"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "roundwoods",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roundwood",
+          "examples": ["Roundwoods are used for rustic fencing."],
+          "collocations": ["roundwoods timber"],
+          "synonyms": ["roundwood"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "roundworm",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of parasitic worm that lives in the intestines of animals or humans",
+          "examples": ["Roundworms can cause digestive problems."],
+          "collocations": ["intestinal roundworm", "hookworm (related)"],
+          "synonyms": ["nematode"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "health"]
+        }
+      ]
+    },
+    {
+      "term": "roundworms",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of roundworm",
+          "examples": ["Several roundworms were found in the sample."],
+          "collocations": ["roundworms in soil"],
+          "synonyms": ["nematodes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "health"]
+        }
+      ]
+    },
+    {
+      "term": "roundy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a rounded shape; informal or regional usage",
+          "examples": ["a roundy little knob"],
+          "collocations": ["roundy shape", "roundy face"],
+          "synonyms": ["rounded"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rounge",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an old or dialect word for a thievish person; not common",
+          "examples": ["He acted like a rounge in the alley."],
+          "collocations": ["rounge (archaic)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "rounspik",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "nonsense or rare dialect term; not in common use",
+          "examples": ["The text contains rou nspik phrases."],
+          "collocations": ["rounspik (dialect)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "rountree",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a family name or place name; not common as general noun",
+          "examples": ["We visited Rountree Farm."],
+          "collocations": ["Rountree family", "Rountree Farm"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "roup",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a noisy crowd or crowding; to crowd together",
+          "examples": ["A roup gathered at the market."],
+          "collocations": ["political roup", "in a roup"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "rouped",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of roup; to crowd together",
+          "examples": ["The crowd rouped around the stage."],
+          "collocations": ["rouped together"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "rouper",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large fleshy fish commonly used in cuisine, or a seafood market term; also a carrier vessel in some contexts",
+          "examples": ["We ordered grouper for dinner.", "Fresh groupers were on sale at the market."],
+          "collocations": ["seafood", "fried grouper", "Grouper fish"],
+          "synonyms": ["grouper fish"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "beverage"]
+        }
+      ]
+    },
+    {
+      "term": "roupet",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare or nonstandard term; not widely used",
+          "examples": [" roupet appears in obscure texts."],
+          "collocations": ["roupet (obsolete)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "roupie",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who sells or deals cards in a gambling game; derives from rouleur? (obsolete/rare)",
+          "examples": ["The roupie shuffled the deck."],
+          "collocations": ["card game roupee (obsolete)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["gaming", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "roupier",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who acts as a croupier; a dealer in a casino",
+          "examples": ["The rou piers supervised the table."],
+          "collocations": ["casino rou p i er"],
+          "synonyms": ["dealer", "croupier"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["gambling", "employment"]
+        }
+      ]
+    },
+    {
+      "term": "roupiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative form of roup; archaic or niche usage",
+          "examples": ["the roupiest streets in town"],
+          "collocations": ["the roupiest", "roupiest manner"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "roupily",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a rouping or crowding manner; archaic usage",
+          "examples": ["They moved roupily through the hall."],
+          "collocations": ["roupily crowded"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    }
+  ]
+}

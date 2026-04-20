@@ -1,0 +1,612 @@
+{
+  "items": [
+    {
+      "term": "servocontrol",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A control system for a servo motor that uses feedback to achieve precise position, speed, or torque.",
+          "examples": [
+            "The factory updated the machine with a new servocontrol for smoother motion.",
+            "A reliable servocontrol is essential for high-precision robotic arms."
+          ],
+          "collocations": [
+            "servo control system",
+            "digital servocontrol",
+            "closed-loop servocontrol",
+            "servocontrol module",
+            "servocontrol circuit",
+            "servo control signal"
+          ],
+          "synonyms": ["servo controller", "motion controller"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering", "industrial"]
+        }
+      ]
+    },
+    {
+      "term": "servocontrols",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form referring to multiple servocontrol devices or systems.",
+          "examples": [
+            "The plant uses several servocontrols to manage different axes.",
+            "Upgrade all servocontrols to ensure synchronized motion."
+          ],
+          "collocations": [
+            "additional servocontrols",
+            "industrial servocontrols",
+            "servocontrols interface"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering", "industrial"]
+        }
+      ]
+    },
+    {
+      "term": "servoed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of servo; to control or drive with a servo mechanism.",
+          "examples": [
+            "The arm servoed precisely to the target position.",
+            "The system servoed the joint to reduce vibration."
+          ],
+          "collocations": [
+            "servoed to",
+            "servoed angle",
+            "motor servoed"
+          ],
+          "synonyms": ["controlled by servo", "driven by servo"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "servoing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act or process of controlling a mechanism with a servo; servo control action.",
+          "examples": [
+            "Servoing is used for precise positioning in robotics.",
+            "Real-time servoing requires fast feedback and processing."
+          ],
+          "collocations": [
+            "improved servoing",
+            "visual servoing",
+            " servoing loop"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "robotics"]
+        },
+        {
+          "pos": "verb (gerund)",
+          "definition": "Present participle of servo; to control with a servo mechanism.",
+          "examples": [
+            "The robot is servoing to the correct angle.",
+            "We are servoing the joint for smoother motion."
+          ],
+          "collocations": [
+            "servoing feedback",
+            "servoing control",
+            "servoing system"
+          ],
+          "synonyms": ["controlling by servo", "driving with servo"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "servolab",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A laboratory or workstation dedicated to servo technology, testing, or calibration.",
+          "examples": [
+            "The research center has a servolab for motion-control experiments.",
+            "Calibrate the servos in the servolab prior to production."
+          ],
+          "collocations": [
+            "servo lab",
+            "servolab equipment",
+            "servolab tests"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "research"]
+        }
+      ]
+    },
+    {
+      "term": "servomechanical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to systems that combine servo mechanisms with mechanical components.",
+          "examples": [
+            "The servomechanical system provides precise control of motion.",
+            "Servomechanical parts reduce backlash in the mechanism."
+          ],
+          "collocations": [
+            "servomechanical design",
+            "servomechanical system",
+            "servomechanical actuator"
+          ],
+          "synonyms": ["servo-mechanical", "servo-driven"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "servomechanically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a servo-mechanical manner; with servo control.",
+          "examples": [
+            "The arm moved servomechanically to the setpoint.",
+            "The device operates servomechanically for high precision."
+          ],
+          "collocations": [
+            "actuated servomechanically",
+            "driven servomechanically"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "servomechanics",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The study or field concerned with servo systems and their control in mechanical devices.",
+          "examples": [
+            "Servomechanics combines control theory with mechanical design.",
+            "Students learn servomechanics in automation engineering."
+          ],
+          "collocations": [
+            "principles of servomechanics",
+            "servomechanics theory",
+            "servomechanics applications"
+          ],
+          "synonyms": ["servo mechanics"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "servomechanism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A closed-loop control system using feedback to control a mechanical actuator via a servo.",
+          "examples": [
+            "A servomechanism ensures the output follows the input with minimal error.",
+            "The servomechanism uses an encoder to adjust motion."
+          ],
+          "collocations": [
+            "closed-loop servomechanism",
+            "servo and servomechanism",
+            "servomechanism controller"
+          ],
+          "synonyms": ["servo system", "motion-control system"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "servomechanisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of servomechanism; multiple servo-based closed-loop control systems.",
+          "examples": [
+            "The factory ships servomechanisms for several production lines.",
+            "Maintenance checks all servomechanisms for alignment."
+          ],
+          "collocations": [
+            "multiple servomechanisms",
+            "several servomechanisms",
+            "servomechanisms performance"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "industrial"]
+        }
+      ]
+    },
+    {
+      "term": "servomotor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small motor designed to be controlled precisely by a servo system, often with built-in feedback.",
+          "examples": [
+            "The servomotor provides precise rotational movement.",
+            "Servomotors are used in robotics for accurate positioning."
+          ],
+          "collocations": [
+            "small servomotor",
+            "brushless servomotor",
+            "servomotor drive"
+          ],
+          "synonyms": ["positioning motor", "servo motor"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "servomotors",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of servomotor; multiple servo motors used in systems requiring precise motion.",
+          "examples": [
+            "The machine uses several servomotors to control different axes.",
+            "Replace worn servomotors to restore accuracy."
+          ],
+          "collocations": [
+            "pair of servomotors",
+            "brushless servomotors",
+            "servomotors array"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "servos",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Short for servomotors or servomechanisms; devices that provide controlled motion.",
+          "examples": [
+            "The robot arm uses two servos for rotation.",
+            "Check the servos if the joint is sticking."
+          ],
+          "collocations": [
+            "servo motor",
+            "servo here",
+            "digital servos"
+          ],
+          "synonyms": ["servomotors"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["technology", "hobby"]
+        }
+      ]
+    },
+    {
+      "term": "servotab",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A tab or component in servo systems used for mounting or connection; may refer to a connector or interface in servo hardware.",
+          "examples": [
+            "Connect the sensor to the servotab on the control board.",
+            "The servotab provides a quick attachment point."
+          ],
+          "collocations": [
+            "servotab connector",
+            "mounting servotab",
+            "servotab interface"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "hardware"]
+        }
+      ]
+    },
+    {
+      "term": "servqual",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A specific framework or metric name used in service quality research; not a common English word outside this context.",
+          "examples": [
+            "The company hired researchers to apply ServQual to their service processes.",
+            "ServQual helps measure gaps between expected and perceived service."
+          ],
+          "collocations": [
+            "ServQual model",
+            " ServQual dimensions"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "accreditation", "marketing"]
+        }
+      ]
+    },
+    {
+      "term": "servquals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of ServQual; multiple service quality measures.",
+          "examples": [
+            "They compared ServQual scores across branches.",
+            "ServQuals were used to assess customer satisfaction."
+          ],
+          "collocations": [
+            "ServQual scores",
+            "ServQual dimensions"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "marketing"]
+        }
+      ]
+    },
+    {
+      "term": "servulate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To serve or to supply with a servo-controlled mechanism (rare or highly technical usage).",
+          "examples": [
+            "The device was servulated to improve precision.",
+            "Engineers servulated multiple joints for accurate movement."
+          ],
+          "collocations": [
+            "servulate motion",
+            "servulate mechanism"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering"]
+        }
+      ]
+    },
+    {
+      "term": "servus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A Latin-based term meaning 'slave' in some historical contexts; in modern usage, a greeting in some cultures or a Latin exclamation; otherwise not common in standard English.",
+          "examples": [
+            "In old texts, servus is used as a formal greeting.",
+            "The farmer addressed the overseer with 'servus' as a sign of respect."
+          ],
+          "collocations": [
+            "servus salutation"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "serwamby",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A proper noun or rare term; no widespread usage in contemporary English.",
+          "examples": [
+            "Serwamby is a place name found in some maps."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "sesame",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small edible seed from a plant, used in cooking and baking; also refers to a plant that produces these seeds.",
+          "examples": [
+            "I sprinkled sesame seeds on the bread.",
+            "Sesame oil is popular in Asian cuisine."
+          ],
+          "collocations": [
+            "sesame seeds",
+            "sesame oil",
+            "toasted sesame",
+            "sesame flavor"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "cookery", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "sesames",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of sesame seed; instances of sesame seeds.",
+          "examples": [
+            "The recipe calls for two tablespoons of sesames.",
+            "Sesames are often toasted to enhance flavor."
+          ],
+          "collocations": [
+            "sesames seeds",
+            "roasted sesames",
+            "sesames oil"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "sesamin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A specific lignan compound found in sesame seeds with potential health effects.",
+          "examples": [
+            "Sesamin is studied for its potential antioxidant properties.",
+            "Some supplements contain sesamin extract."
+          ],
+          "collocations": [
+            "sesamin content",
+            "sesamin extract",
+            "dietary sesamin"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "sesamine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A specific lignan or related compound found in sesame; used in scientific contexts.",
+          "examples": [
+            "Researchers measured sesamine levels in seeds.",
+            "Sesamine is often discussed alongside sesamin in studies."
+          ],
+          "collocations": [
+            "sesamine content",
+            "sesamine study"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "sesamoid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small round bone embedded in a tendon, such as the small bone in the foot.",
+          "examples": [
+            "The big toe has a sesamoid bone under the joint.",
+            "Sesamoid bones help reduce friction in tendons."
+          ],
+          "collocations": [
+            "sesamoid bone",
+            "sesamoid injuries",
+            "sesamoid bones"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["anatomy", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "sesamoidal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or resembling a sesamoid bone.",
+          "examples": [
+            "The sesamoidal bone beneath the joint acts as a pulley.",
+            "Sesamoidal structures can affect tendon movement."
+          ],
+          "collocations": [
+            "sesamoidal bone",
+            "sesamoidal tissue"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["anatomy", "medicine"]
+        }
+      ]
+    }
+  ]
+}

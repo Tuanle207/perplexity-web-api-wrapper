@@ -1,0 +1,503 @@
+{
+  "items": [
+    {
+      "term": "rug",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A piece of thick fabric or material used to cover the floor or a floor covering.",
+          "examples": [
+            "We bought a new rug for the living room.",
+            "She spilled juice on the rug and cleaned it up quickly."
+          ],
+          "collocations": ["rug pad", "area rug", "bath rug", "throw rug", "rug pile"],
+          "synonyms": ["carpet", "mat", "carpeting"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "home", "interior_design"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A piece of fabric or material draped or rolled over something for warmth or decoration (often used metaphorically as a covering).",
+          "examples": [
+            "He pulled the rug from under the table (idiom meaning to remove support).",
+            "The rug of secrecy was pulled over the scandal."
+          ],
+          "collocations": ["rug pull (idiom)", "on the rug (informal)", "rug-like"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "idioms"]
+        }
+      ]
+    },
+    {
+      "term": "ruga",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A medical term referring to a groove or wrinkle, often used in anatomy (adj. form is rugose).",
+          "examples": [
+            "The artery showed tiny rugae in the inner lining.",
+            "Rugae of the stomach increase surface area."
+          ],
+          "collocations": ["gastric rugae", "rugae pattern"],
+          "synonyms": ["groove", "wrinkle", "fold"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "rugae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of ruga; folds or ridges inside a body part (commonly the stomach lining).",
+          "examples": [
+            "The rugae allow the stomach to expand after a meal.",
+            "Gastric rugae are visible when the stomach is empty."
+          ],
+          "collocations": ["gastric rugae", "rugae pattern"],
+          "synonyms": ["folds", "ridges"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "rugal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having folds or ridges; hilly or wrinkled in appearance.",
+          "examples": [
+            "The rugal surface of the leaf catches the light.",
+            "A rugal texture on the stone makes it grip the hand."
+          ],
+          "collocations": ["rugal surface", "rugal texture"],
+          "synonyms": ["folded", "wrinkled"],
+          "antonyms": ["smooth", "even"],
+          "register": "neutral",
+          "domain": ["general", "science"]
+        }
+      ]
+    },
+    {
+      "term": "rugalach",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small crescent-shaped Jewish pastry filled with nuts, cinnamon, or fruit; similar to a rugelach but typically spelled rugalah or rugelach.",
+          "examples": [
+            "We bought a dozen rugelach for the party.",
+            "Her grandmother’s rugelach recipe is famous."
+          ],
+          "collocations": ["chocolate rugelach", "blueberry rugelach"],
+          "synonyms": ["rugelach (variant)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "rugate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To form or become ridged or wrinkled; to develop ridges.",
+          "examples": [
+            "The clay began to rugate as it dried.",
+            "The surface may rugate under pressure."
+          ],
+          "collocations": ["rugate pattern", "rugated surface"],
+          "synonyms": ["ridged", "wrinkled"],
+          "antonyms": ["smooth"],
+          "register": "neutral",
+          "domain": ["material_science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "rugbeian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to the Rugbeian (a fictional or historical term); not common in modern usage.",
+          "examples": [
+            "In this text, he describes a Rugbeian community."
+          ],
+          "collocations": ["Rugbeian culture"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature", "history"]
+        }
+      ]
+    },
+    {
+      "term": "rugbies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of rugbie, a rare or dialect term; not widely used in contemporary standard English.",
+          "examples": [
+            "We found two rugbies in the dialect dictionary."
+          ],
+          "collocations": ["rugbies (plural)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "dialect"]
+        }
+      ]
+    },
+    {
+      "term": "rugby",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A team sport played with an oval ball where players can run with the ball and kick it; originates from rugby school in England.",
+          "examples": [
+            "He plays rugby every weekend.",
+            "Rugby is popular in many countries."
+          ],
+          "collocations": ["rugby union", "rugby league", "rugby match"],
+          "synonyms": ["rugger (informal)", "ball sport"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "rugelach",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small crescent-shaped pastry shaped by rolling dough with filling and baking; often filled with nuts, cinnamon, or chocolate.",
+          "examples": [
+            "Cafe served warm rugelach with tea.",
+            "She baked strawberry rugelach for the party."
+          ],
+          "collocations": ["chocolate rugelach", "nut-filled rugelach"],
+          "synonyms": ["rugelach (variant)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "rugelachs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of rugelach; multiple pastries.",
+          "examples": [
+            "We brought rugelachs to share at the picnic."
+          ],
+          "collocations": ["assorted rugelachs"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "rugged",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a rough, strong, or uneven surface; sturdy and able to endure difficult conditions.",
+          "examples": [
+            "The rugged coastline was full of cliffs.",
+            "He wore rugged boots for hiking."
+          ],
+          "collocations": ["rugged terrain", "rugged country", "rugged individual"],
+          "synonyms": ["sturdy", "tough", "durable"],
+          "antonyms": ["smooth", "delicate"],
+          "register": "neutral",
+          "domain": ["general", "nature", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "ruggeder",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Comparative form of rugged; more rough or sturdy.",
+          "examples": [
+            "The ruggeder surface made the climb harder.",
+            "This path is ruggeder than the earlier one."
+          ],
+          "collocations": ["ruggeder surface"],
+          "synonyms": ["more rugged"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "ruggedest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Superlative form of rugged; the most rough or sturdy.",
+          "examples": [
+            "The ruggedest terrain challenged the expedition.",
+            "They endured the ruggedest weather conditions."
+          ],
+          "collocations": ["ruggedest terrain"],
+          "synonyms": ["most rugged"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "ruggedisation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process of making something more rugged or durable; often used in engineering or technology.",
+          "examples": [
+            "The ruggedisation of the device improved its field performance."
+          ],
+          "collocations": ["ruggedisation process", "ruggedisation effort"],
+          "synonyms": ["hardening", "durabilisation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "ruggedisations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of ruggedisation; multiple durability-enhancement processes.",
+          "examples": [
+            "Several ruggedisations were applied to the fleet."
+          ],
+          "collocations": ["ruggedisations project"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "ruggedise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To make something more rugged or durable.",
+          "examples": [
+            "Engineers ruggedise the equipment for desert use."
+          ],
+          "collocations": ["ruggedise process", "ruggedise design"],
+          "synonyms": ["harden", "durabilise"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "ruggedised",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Made rugged or durable; British spelling variant of ruggedized.",
+          "examples": [
+            "A ruggedised toolkit lasts longer in the field."
+          ],
+          "collocations": ["ruggedised equipment"],
+          "synonyms": ["hardened", "durabilised"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "ruggedises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person singular present of ruggedise; makes something more rugged.",
+          "examples": [
+            "The team ruggedises the gear for Arctic missions."
+          ],
+          "collocations": ["ruggedises design"],
+          "synonyms": ["harden", "durabilise"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "ruggedising",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "gerund",
+          "definition": "The action of making something more rugged or durable.",
+          "examples": [
+            "Ruggedising equipment requires careful testing."
+          ],
+          "collocations": ["ruggedising process"],
+          "synonyms": ["hardenings", "durabilising"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "ruggedization",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Alternative spelling of ruggedisation; the process of making something rugged.",
+          "examples": [
+            "The ruggedization of the vehicle helped it survive rough terrain."
+          ],
+          "collocations": ["ruggedization project"],
+          "synonyms": ["ruggedisation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "ruggedizations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of ruggedization; multiple durability-improvement processes.",
+          "examples": [
+            "Several ruggedizations were added to the fleet."
+          ],
+          "collocations": ["ruggedizations program"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "ruggedize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To make something rugged or more durable.",
+          "examples": [
+            "We need to ruggedize the wiring for outdoor use."
+          ],
+          "collocations": ["ruggedize a device", "ruggedize the components"],
+          "synonyms": ["harden", "durabilise"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "ruggedized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Made rugged or more durable.",
+          "examples": [
+            "A ruggedized camera can withstand dust and rain."
+          ],
+          "collocations": ["ruggedized equipment"],
+          "synonyms": ["hardened", "durabilised"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "ruggedizes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person singular present of ruggedize; makes something rugged.",
+          "examples": [
+            "The team ruggedizes gear for extreme environments."
+          ],
+          "collocations": ["ruggedizes gear"],
+          "synonyms": ["harden", "durabilise"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    }
+  ]
+}

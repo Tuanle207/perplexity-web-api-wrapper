@@ -1,0 +1,439 @@
+{
+  "items": [
+    {
+      "term": "promptings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "plural noun",
+          "definition": "the act of prompting or something that prompts; encouragement or cues that lead to action",
+          "examples": ["The teacher ignored the student's promptings and waited for a direct question.", "She followed the promptings of her conscience."],
+          "collocations": ["soft promptings", "internal promptings", "promptings to action"],
+          "synonyms": ["urges", "incentives", "encouragements"],
+          "antonyms": ["deterrents", "disincentives"],
+          "register": "neutral",
+          "domain": ["general", "psychology", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "promptitude",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being prompt; readiness and quickness in action or response",
+          "examples": ["Her promptitude in finishing tasks impressed the manager.", "They valued his promptitude under pressure."],
+          "collocations": ["display promptitude", "show promptitude", "with promptitude"],
+          "synonyms": ["readiness", "speed", "promptness"],
+          "antonyms": ["slowness", "hesitation", "delay"],
+          "register": "formal",
+          "domain": ["general", "business", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "promptitudes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "plural noun",
+          "definition": "plural form of promptitude; multiple instances of promptness or readiness",
+          "examples": ["Her promptitudes in various tasks were noted.", "We appreciate promptitudes across departments."],
+          "collocations": ["various promptitudes", "demonstrated promptitudes"],
+          "synonyms": ["readinesss", "quickness", "promptness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "promptive",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having the quality of prompting or urging to action; giving rise to a prompt response",
+          "examples": ["The promptive effect urged rapid decision-making.", "Her promptive remarks sparked further questions."],
+          "collocations": ["promptive tension", "promptive cues"],
+          "synonyms": ["inducing", "evocative", "inciting"],
+          "antonyms": ["unprompted", "unintended"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "promptly",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "without delay; quickly and on time",
+          "examples": ["She arrived promptly at eight.", "Please respond promptly to the invitation."],
+          "collocations": ["act promptly", "respond promptly", "return promptly"],
+          "synonyms": ["quickly", "immediately", "without delay"],
+          "antonyms": ["late", "delayed", "slowly"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "promptness",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being quick to act or respond; punctuality",
+          "examples": ["Timeliness and promptness mattered in the service industry.", "They were known for their promptness in handling emails."],
+          "collocations": ["timely promptness", "customer promptness", "promptness in service"],
+          "synonyms": ["quickness", "timeliness", "rapidity"],
+          "antonyms": ["lateness", "tardiness"],
+          "register": "neutral",
+          "domain": ["general", "business", "service"]
+        }
+      ]
+    },
+    {
+      "term": "promptnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "plural noun",
+          "definition": "plural of promptness; multiple instances of being prompt",
+          "examples": ["The promptnesses across shifts varied.", "We measured several promptnesses during the week."],
+          "collocations": ["different promptnesses", "recorded promptnesses"],
+          "synonyms": ["quick responses", "reliabilities"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "promptorium",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a book or catalog containing prompts or sources for prompt or cue words; a reference list of prompts",
+          "examples": ["The scholar consulted the promptorium for synopses.", "A medieval promptorium helped scribes find words."],
+          "collocations": ["latin promptorium", "prompts in promptorium"],
+          "synonyms": ["lexicon", "glossary", "word list"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "history", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "promptress",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female who prompts or urges someone to act; historically, a female stage manager or guide",
+          "examples": ["The promptress directed the performers backstage.", "In older plays, the promptress spoke lines if actors forgot them."],
+          "collocations": ["female promptress", "the promptress of the troupe"],
+          "synonyms": ["cue-giver", "stage manager (female)"],
+          "antonyms": ["promptor"],
+          "register": "archaic",
+          "domain": ["theatre", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "prompts",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "things that encourage someone to act or respond; cues to start writing or speaking",
+          "examples": ["The teacher gave prompts to help students start their essays.", "Prompts appeared on the screen to guide the test."],
+          "collocations": ["writing prompts", "input prompts", "prompts for discussion"],
+          "synonyms": ["cues", "nudges", "reminders"],
+          "antonyms": ["guesses", "uninformed actions"],
+          "register": "neutral",
+          "domain": ["education", "technology", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to cause someone to take action or to start doing something",
+          "examples": ["The question prompts a debate.", "Her curiosity prompted her to investigate further."],
+          "collocations": ["prompted by", "prompt to action"],
+          "synonyms": ["caused", "induced", "evoked"],
+          "antonyms": ["deterred", "discouraged"],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "promptuaries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a collection or register of prompts or prompt-like items; a playful or humorous coinage for a prompt book",
+          "examples": ["The promptuaries were used by the teacher for quick activities.", "Old promptuaries listed cues for improvisation."],
+          "collocations": ["promptuaries of prompts", "the promptuaries collection"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "history"]
+        }
+      ]
+    },
+    {
+      "term": "promptuary",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a book or collection of prompts; a prompt list",
+          "examples": ["She kept a promptuary to guide daily journaling.", "The promptuary contained creative starters."],
+          "collocations": ["personal promptuary", "promptuary of ideas"],
+          "synonyms": ["prompt book", "cue list"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["creative", "education"]
+        }
+      ]
+    },
+    {
+      "term": "prompture",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or quality of prompting; a prompting action or effect",
+          "examples": ["The prompture of the crowd shifted the mood.", "Her prompture to act surprised everyone."],
+          "collocations": ["crowd prompture", "prompture effect"],
+          "synonyms": ["urging", "encouragement"],
+          "antonyms": ["inertia", "hesitation"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "promptures",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prompture; acts or instances of prompting",
+          "examples": ["Prompts and promptures guided the activity.", "The promptures varied across sessions."],
+          "collocations": ["various promptures", "recorded promptures"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "proms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "abbr. for promissory notes or professional organizations; in some contexts, a short form of 'promenade' (rare); also a plural abbreviation for 'promotions' in marketing contexts",
+          "examples": ["The company issued several prom notes.", "They discussed PROMs in the conference (patient-reported outcome measures)."],
+          "collocations": ["PROMs data", "issued PROMs", "promotions (PROMs)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["finance", "medicine", "business"]
+        }
+      ]
+    },
+    {
+      "term": "promulgate",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to officially announce and put a law, rule, or idea into action",
+          "examples": ["The government promulgated new safety regulations.", "The charter was promulgated last year."],
+          "collocations": ["promulgate a law", "promulgate rules", "promulgated by authority"],
+          "synonyms": ["publish", "proclaim", "declare"],
+          "antonyms": ["repeal", "conceal"],
+          "register": "formal",
+          "domain": ["law", "government", "general"]
+        }
+      ]
+    },
+    {
+      "term": "promulgated",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb (past participle)",
+          "definition": "having been officially announced or proclaimed",
+          "examples": ["The new regulations were promulgated last month.", "Promulgated statutes guide current practice."],
+          "collocations": ["promulgated regulations", "promulgated rules"],
+          "synonyms": ["proclaimed", "issued", "published"],
+          "antonyms": ["repealed", "withheld"],
+          "register": "formal",
+          "domain": ["law", "government"]
+        }
+      ]
+    },
+    {
+      "term": "promulgates",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of promulgate; officially announces or issues",
+          "examples": ["The agency promulgates new guidelines each year.", "They promulgate standards across all departments."],
+          "collocations": ["promulgates standards", "promulgates rules"],
+          "synonyms": ["proclaims", "issues", "announces"],
+          "antonyms": ["repeals", "withholds"],
+          "register": "formal",
+          "domain": ["law", "government"]
+        }
+      ]
+    },
+    {
+      "term": "promulgating",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb (present participle)",
+          "definition": "the act of officially promoting or proclaiming something",
+          "examples": ["They are promulgating a new policy.", "Promulgating guidelines takes time."],
+          "collocations": ["promulgating policies", "promulgating acts"],
+          "synonyms": ["proclaiming", "issuing"],
+          "antonyms": ["repealing", "withholding"],
+          "register": "formal",
+          "domain": ["law", "government"]
+        }
+      ]
+    },
+    {
+      "term": "promulgation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of formally proclaiming a law, policy, or rule to be valid and in effect",
+          "examples": ["Promulgation of the decree followed a lengthy consultation.", "The promulgation clarified the new standards."],
+          "collocations": ["formal promulgation", "promulgation of laws"],
+          "synonyms": ["proclamation", "issuance", "publication"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "government", "general"]
+        }
+      ]
+    },
+    {
+      "term": "promulgations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of promulgation; instances of formal proclamations or issuances",
+          "examples": ["The promulgations were followed by compliance checks.", "Various promulgations affected different sectors."],
+          "collocations": ["several promulgations", "promulgations across agencies"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "government"]
+        }
+      ]
+    },
+    {
+      "term": "promulgator",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or body that promotes or formally proclaims laws or rules",
+          "examples": ["The promulgator of the decree spoke at length.", "As a promulgator, she ensured everyone understood the changes."],
+          "collocations": ["state promulgator", "promulgator of policies"],
+          "synonyms": ["proclaimer", "issuer", "advocate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "government"]
+        }
+      ]
+    },
+    {
+      "term": "promulgators",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of promulgator; people or bodies that promote or proclaim laws or rules",
+          "examples": ["The promulgators released new guidelines.", "Promulgators across the region revised the standard."],
+          "collocations": ["regional promulgators"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "government"]
+        }
+      ]
+    },
+    {
+      "term": "promulgatory",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to promulgation or the act of proclaiming a law or rule",
+          "examples": ["Promulgatory activities were scheduled for the week.", "The promulgatory ceremony announced the bill's status."],
+          "collocations": ["promulgatory acts", "promulgatory measures"],
+          "synonyms": ["proclamatory", "issuance-related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "government"]
+        }
+      ]
+    },
+    {
+      "term": "promulge",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to publish or proclaim formally; to make known officially",
+          "examples": ["The constitution was promulged in the official gazette.", "They promulge new guidelines annually."],
+          "collocations": ["promulge a document", "promulge rules"],
+          "synonyms": ["publish", "proclaim", "announce"],
+          "antonyms": ["conceal", "repeal"],
+          "register": "formal",
+          "domain": ["law", "government"]
+        }
+      ]
+    }
+  ]
+}

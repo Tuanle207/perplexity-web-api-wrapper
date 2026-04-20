@@ -1,0 +1,449 @@
+{
+  "items": [
+    {
+      "term": "production",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of producing goods or crops; the process of making something",
+          "examples": ["The factory increased its production of cars this year.", "Farmers expect a high production of wheat after rainfall."],
+          "collocations": ["mass production", "the production process", "increase production", "factory production", "production cost"],
+          "synonyms": ["output", "manufacture", "production process"],
+          "antonyms": ["consumption", "deproduction"],
+          "register": "neutral",
+          "domain": ["general", "business", "economy"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a performance or a film, or the act of presenting something to the public",
+          "examples": ["The production of the play runs for two weeks.", "Disney's latest production opened to great reviews."],
+          "collocations": ["stage production", "film production", "theatrical production"],
+          "synonyms": ["show", "presentation", "staging"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "productional",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to production; not a standard common form in contemporary usage",
+          "examples": ["This term is rarely used in modern English."],
+          "collocations": ["productional approach"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "productionist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who favors or advocates production (rare; not common in everyday usage)",
+          "examples": ["A productionist might focus on increasing output in factories."],
+          "collocations": ["productionist stance"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "productions",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of production; multiple acts of producing or multiple productions (e.g., plays, films)",
+          "examples": ["The theater released several new productions this season.", "They watched two film productions back-to-back."],
+          "collocations": ["season productions", "stage productions", "film productions"],
+          "synonyms": ["productions (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "entertainment", "general"]
+        }
+      ]
+    },
+    {
+      "term": "productive",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "producing a lot of useful work; able to generate good results",
+          "examples": ["She is very productive in the mornings.", "A productive meeting produced several clear actions."],
+          "collocations": ["productive day", "productive collaboration", "productive output"],
+          "synonyms": ["efficient", "fruitful", "prolific"],
+          "antonyms": ["unproductive", "useless"],
+          "register": "neutral",
+          "domain": ["general", "work", "education"]
+        }
+      ]
+    },
+    {
+      "term": "productively",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that produces a lot of useful work or results",
+          "examples": ["They worked productively all afternoon.", "She used her time productively to finish the project."],
+          "collocations": ["work productively", "operate productively", "use time productively"],
+          "synonyms": ["efficiently", "fruitfully"],
+          "antonyms": ["unproductively"],
+          "register": "neutral",
+          "domain": ["work", "education"]
+        }
+      ]
+    },
+    {
+      "term": "productiveness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of producing a lot of useful work; high output",
+          "examples": ["Her productiveness impressed the manager.", "We measured the productiveness of the team."],
+          "collocations": ["high productiveness", "increase productiveness", "productiveness rate"],
+          "synonyms": ["productivity", "output"],
+          "antonyms": ["unproductiveness"],
+          "register": "neutral",
+          "domain": ["work", "business"]
+        }
+      ]
+    },
+    {
+      "term": "productivenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of productiveness; rarely used in everyday English",
+          "examples": ["The productivenesses of various teams were compared."],
+          "collocations": ["different productivenesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "productivities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of productivity; multiple measures of output or efficiency",
+          "examples": ["Different departments track their productivities."],
+          "collocations": ["labor productivities", "increase productivities"],
+          "synonyms": ["productivity measures"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["work", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "productivity",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the rate at which someone or something produces goods, services, or ideas",
+          "examples": ["This project will improve productivity.", "We need to monitor productivity to stay competitive."],
+          "collocations": ["labor productivity", "increase productivity", "productivity boost", "productivity tools"],
+          "synonyms": ["output", "efficiency", "performance"],
+          "antonyms": ["inefficiency"],
+          "register": "neutral",
+          "domain": ["work", "economy", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the quality of being productive in thinking or learning",
+          "examples": ["Her productivity in solving problems is impressive."],
+          "collocations": ["mental productivity", "increase productivity of study"],
+          "synonyms": ["creativity", "effectiveness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "work"]
+        }
+      ]
+    },
+    {
+      "term": "productoid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term used in biology or science to describe something resembling a product or product-like; not common in everyday English",
+          "examples": ["The fossil shows a productoid structure."],
+          "collocations": ["productoid form"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "productor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a creator or producer; a person who produces something",
+          "examples": ["The productor financed the film."],
+          "collocations": ["film productor", "music productor"],
+          "synonyms": ["producer", "manufacturer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "business"]
+        }
+      ]
+    },
+    {
+      "term": "productory",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to production; used in some technical or archaic contexts",
+          "examples": ["A productory method was discussed in the workshop."],
+          "collocations": ["productory system"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "productress",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female producer or actor in a production (rare; archaic or playful usage)",
+          "examples": ["The productress took the stage with confidence."],
+          "collocations": ["the productress of the show"],
+          "synonyms": ["producer (female)"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["arts", "theater"]
+        }
+      ]
+    },
+    {
+      "term": "products",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "items that are manufactured or grown to be sold",
+          "examples": ["The shop sells organic food products.", "Consumer electronics are popular products."],
+          "collocations": ["consumer products", "household products", "product line"],
+          "synonyms": ["goods", "merchandise", "items"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business", "retail"]
+        }
+      ]
+    },
+    {
+      "term": "productus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a nonstandard or erroneous form; not a recognized English term",
+          "examples": ["'Productus' is not a standard English word."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "proecclesiastical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the early church, especially before the establishment of formal ecclesiastical structures",
+          "examples": ["They studied proecclesiastical history in seminaries."],
+          "collocations": ["proecclesiastical history"],
+          "synonyms": ["early church", "pre-ecclesiastical"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "proeconomy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a policy or stance aimed at promoting economic growth",
+          "examples": ["The government shifted to a proeconomy stance to boost growth."],
+          "collocations": ["proeconomy policy", "proeconomy measures"],
+          "synonyms": ["pro-growth policy", "growth-oriented policy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["economy", "government"]
+        }
+      ]
+    },
+    {
+      "term": "proeducation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "supporting or advocating education; a stance favoring educational policies",
+          "examples": ["Proeducation groups lobbied for better schools."],
+          "collocations": ["proeducation lobby", "proeducation policy"],
+          "synonyms": ["education advocacy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "proeducational",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "supportive of education; promoting learning",
+          "examples": ["A proeducational approach includes hands-on activities."],
+          "collocations": ["proeducational resources"],
+          "synonyms": ["educationally supportive"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "proegumenal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the guardian or warden of a monastery (rare; ecclesiastical usage)",
+          "examples": ["The proegumenal duties were described in the manuscript."],
+          "collocations": ["proegumenal duties"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaism",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "proelectric",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or preceding electricity; used in technical contexts",
+          "examples": ["Proelectric research covers early stages of energy systems."],
+          "collocations": ["proelectric research"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "proelectrical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "supporting electrical industries or education; used in industry contexts",
+          "examples": ["A proelectrical firm signed a contract."],
+          "collocations": ["proelectrical sector"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "proelectrification",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of promoting or enabling electrification (often in policy or development contexts)",
+          "examples": ["Proelectrification initiatives aim to power rural areas."],
+          "collocations": ["proelectrification policy"],
+          "synonyms": ["electrification support"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["policy", "technology", "development"]
+        }
+      ]
+    },
+    {
+      "term": "proelectrocution",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "promotion or advocacy against electrocution; unlikely but present in some contexts",
+          "examples": ["Public health campaigns may discuss proelectrocution safety."],
+          "collocations": ["proelectrocution safety measures"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "policy"]
+        }
+      ]
+    }
+  ]
+}

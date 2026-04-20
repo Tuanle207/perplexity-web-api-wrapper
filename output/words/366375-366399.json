@@ -1,0 +1,479 @@
+{
+  "items": [
+    {
+      "term": "sour",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a sharp, tart, or acidic taste; not sweet",
+          "examples": ["Lemons are sour.", "These sour candies taste very tart."],
+          "collocations": ["sour taste", "sour milk", "sour fruit", "sour flavor"],
+          "synonyms": ["tart", "acidic", "sharp"],
+          "antonyms": ["sweet", "fresh"],
+          "register": "neutral",
+          "domain": ["everyday", "food"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a sour flavor or taste; something tart or acidic",
+          "examples": ["The sour of the orange surprised him.", "Add a pinch of sour to balance the dish."],
+          "collocations": ["a sour", "sour note", "sour taste"],
+          "synonyms": ["tartness", "acid"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "food"]
+        },
+        {
+          "pos": "noun",
+          "definition": "an unpleasant person or situation (informal/pejorative)",
+          "examples": ["That party was a sour."],
+          "collocations": ["a sour person", "turn sour"],
+          "synonyms": ["grump", "downer"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sourball",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a hard, sour-flavored candy with a sour powder coating",
+          "examples": ["Children bought sourballs at the shop."],
+          "collocations": ["sourball candy", "assorted sourballs"],
+          "synonyms": ["sour candy", "tart ball"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "food"]
+        }
+      ]
+    },
+    {
+      "term": "sourballs",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sourball; sour-flavored candies",
+          "examples": ["We shared some sourballs after lunch."],
+          "collocations": ["sourballs assortment", "box of sourballs"],
+          "synonyms": ["sour candy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "food"]
+        }
+      ]
+    },
+    {
+      "term": "sourbelly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an uncommon or dialect term; typically not standard in modern usage",
+          "examples": ["The old book mentions a sourbelly beetle."],
+          "collocations": ["sourbelly creature"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sourbelly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or historical term; parched or sour-minded person (extremely rare)",
+          "examples": ["In folklore, a sourbelly guards the valley."],
+          "collocations": ["sourbelly figure"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sourberries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sourberry; fictional or dialectal sour-tasting berries",
+          "examples": ["The field looked ripe with sourberries."],
+          "collocations": ["wild sourberries", "sourberries jam"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sourberry",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a berry with a sour taste; could be fictional or dialectal",
+          "examples": ["He picked a sourberry from the bush."],
+          "collocations": ["sourberry bush", "sourberry jam"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sourbread",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "bread made with a sourdough or sour-tasting dough",
+          "examples": ["They baked a loaf of sourbread."],
+          "collocations": ["fresh sourbread", "sourdough sourbread"],
+          "synonyms": ["sourdough bread"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "food"]
+        }
+      ]
+    },
+    {
+      "term": "sourbush",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a bush with sour-tasting berries or leaves; dialectal",
+          "examples": ["A sourbush grows near the fence."],
+          "collocations": ["sourbush berries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sourcake",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a cake with a sour flavor; possibly regional term",
+          "examples": ["Grandma baked a sourcake for the festival."],
+          "collocations": ["sourcake recipe"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "source",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the place, person, or thing from which something comes",
+          "examples": ["The source of the river is in the mountains.", "Please cite your sources."],
+          "collocations": ["primary source", "information source", "source of data", "news source"],
+          "synonyms": ["origin", "where it comes from", "root"],
+          "antonyms": ["result", "effect"],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to obtain or derive information from a particular place",
+          "examples": ["Scientists source data from multiple databases."],
+          "collocations": ["source materials", "source locally", "source files"],
+          "synonyms": ["obtain", "acquire"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a person or thing that supplies information or ideas",
+          "examples": ["The author's sources are listed at the end."],
+          "collocations": ["reliable source", "primary source", "credible source"],
+          "synonyms": ["originator", "provider"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "sourcebook",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a book that contains important information or examples used to learn from",
+          "examples": ["The workbook includes a sourcebook for students."],
+          "collocations": ["anthology sourcebook", "classroom sourcebook"],
+          "synonyms": ["reference book", "manual"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sourcebooks",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sourcebook",
+          "examples": ["They bought two sourcebooks for the course."],
+          "collocations": ["classroom sourcebooks"],
+          "synonyms": ["reference books"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "sourced",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a particular source or origin, often used to describe information obtained from a source",
+          "examples": ["The data is sourced from official records."],
+          "collocations": ["sourced from", "well-sourced information"],
+          "synonyms": ["derived", "originated"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "sourceful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "containing or providing sources; well-supplied with information",
+          "examples": ["A sourceful document helped the researchers."],
+          "collocations": ["sourceful data", "sourceful report"],
+          "synonyms": ["well-sourced"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sourcefulness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of providing good sources or being well-sourced",
+          "examples": ["The article showed great sourcefulness."],
+          "collocations": ["demonstrate sourcefulness"],
+          "synonyms": ["well-sourcedness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sourceless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without a known or stated source",
+          "examples": ["The report is sourceless and cannot be verified."],
+          "collocations": ["sourceless claim", "sourceless document"],
+          "synonyms": ["unsubstantiated", "unattributed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "sources",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of source; places or people from which something comes or is obtained",
+          "examples": ["The sources of the river are far away.", "List your sources for this assignment."],
+          "collocations": ["reliable sources", "primary sources", "information sources"],
+          "synonyms": ["origins", "references"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "sourcing",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of obtaining goods or information from particular suppliers or sources",
+          "examples": ["Sourcing materials takes careful planning."],
+          "collocations": ["supplier sourcing", "sourcing strategies"],
+          "synonyms": ["procurement", "acquisition"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        },
+        {
+          "pos": "gerund",
+          "definition": "the act of obtaining or finding sources",
+          "examples": ["Sourcing is important in research."],
+          "collocations": ["sourcing of data"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "business"]
+        }
+      ]
+    },
+    {
+      "term": "sourcings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": " plural form; acts of sourcing or sources",
+          "examples": ["The different sourcings of the project were reviewed."],
+          "collocations": ["multiple sourcings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "education"]
+        }
+      ]
+    },
+    {
+      "term": "sourcrout",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a misspelling or regional spelling of sauerkraut; fermented cabbage dish",
+          "examples": ["They served sourcrout with sausages."],
+          "collocations": ["sourcrout dish", "fried sourcrout"],
+          "synonyms": ["sauerkraut"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "sourd",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "perhaps a misspelling or variant of 'sourd' rarely used; could refer to sour in dental terms",
+          "examples": ["A sourd taste lingered."],
+          "collocations": ["sourd flavor"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sourdeline",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a musical term for a sour or muted outline; extremely rare",
+          "examples": ["The term sourdeline appears in old manuals."],
+          "collocations": ["sourdeline technique"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["music", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sourdelines",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sourdeline; rare musical or descriptive term",
+          "examples": ["They discussed sourdelines in the manuscript."],
+          "collocations": ["sourdelines patterns"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["music", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sourdine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mute for a musical instrument, especially brasswinds",
+          "examples": ["The musician used a sourdine to soften the tone."],
+          "collocations": ["sourdine mute", "use a sourdine"],
+          "synonyms": ["mute"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music"]
+        }
+      ]
+    }
+  ]
+}

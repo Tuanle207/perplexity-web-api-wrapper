@@ -1,0 +1,439 @@
+{
+  "items": [
+    {
+      "term": "semicompacted",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partially compacted or squeezed together, but not densely packed",
+          "examples": ["The semicompacted soil showed some settling after rain.", "A semicompacted layer of the debris pooled near the boundary."],
+          "collocations": ["semicompacted soil", "semicompacted layer", "partially compacted"],
+          "synonyms": ["partially compressed", "half-packed"],
+          "antonyms": ["loose", "unpacked"],
+          "register": "neutral",
+          "domain": ["general", "environmental science"]
+        }
+      ]
+    },
+    {
+      "term": "semicomplete",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not fully complete; lacking some parts or features",
+          "examples": ["The semicomplete set was missing a few key items.", "Her semicomplete report left out the final figures."],
+          "collocations": ["semicomplete set", "semicomplete work", "semicomplete data"],
+          "synonyms": ["incomplete", "partial"],
+          "antonyms": ["complete", "full"],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "semicomplicated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly or somewhat complicated; not fully simple",
+          "examples": ["The semicomplicated instructions caused some confusion.", "A semicomplicated problem required extra thought."],
+          "collocations": ["semicomplicated problem", "semicomplicated instructions", "semicomplicated scenario"],
+          "synonyms": ["partly complex", "somewhat involved"],
+          "antonyms": ["uncomplicated", "straightforward"],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "semiconceal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to hide something partly or partially from view",
+          "examples": ["He semiconceals the evidence with a cover story.", "The trees semiconceal the ruin from immediate view."],
+          "collocations": ["semiconceal a secret", "semiconceal information", "semiconceal appearance"],
+          "synonyms": ["partially hide", "mask"],
+          "antonyms": ["reveal", "expose"],
+          "register": "neutral",
+          "domain": ["general", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "semiconcealed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly hidden or obscured from view",
+          "examples": ["The semiconcealed passage was difficult to access.", "Their semiconcealed motives became clearer with time."],
+          "collocations": ["semiconcealed doorway", "semiconcealed motives", "semiconcealed entry"],
+          "synonyms": ["partially hidden", "masked"],
+          "antonyms": ["exposed", "visible"],
+          "register": "neutral",
+          "domain": ["general", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": " semiconcrete",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly concrete or tangible; having both tangible and abstract aspects",
+          "examples": ["The concept is semiconcrete, making it easy to visualize.", "A semiconcrete plan combines solid steps with flexible ideas."],
+          "collocations": ["semiconcrete concept", "semiconcrete plan", "semiconcrete evidence"],
+          "synonyms": ["partly tangible", "hybrid"],
+          "antonyms": ["abstract", "concrete"],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "semiconditioned",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partially conditioned or prepared; in a partially prepared state",
+          "examples": ["The semiconditioned market reacted cautiously.", "A semiconditioned response was deemed insufficient."],
+          "collocations": ["semiconditioned market", "semiconditioned response", "semiconditioned environment"],
+          "synonyms": ["partially prepared", "incompletely conditioned"],
+          "antonyms": ["fully conditioned", "prepared"],
+          "register": "neutral",
+          "domain": ["general", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "semiconducting",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or acting as a semiconductor; capable of conducting electricity under some conditions but not others",
+          "examples": ["Semiconducting materials are essential in electronics.", "A semiconducting layer controls current flow in the device."],
+          "collocations": ["semiconducting material", "semiconducting properties", "semiconducting device"],
+          "synonyms": ["conductive under certain conditions", "semiconductor-like"],
+          "antonyms": ["insulating", "conductive universally"],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "semiconduction",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process by which a semiconductor conducts electricity under certain conditions",
+          "examples": ["Semiconduction governs how diodes work.", "Temperature affects semiconduction in many materials."],
+          "collocations": ["electrical semiconduction", "temperature-dependent semiconduction", "carrier semiconduction"],
+          "synonyms": ["conductivity in semiconductors"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "semiconductions",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of semiconduction; multiple instances of semiconductor conduction processes",
+          "examples": ["The study compared several semiconductions across materials.", "Advances in semiconductions improve device efficiency."],
+          "collocations": ["various semiconductions", "semiconductions in materials", "semiconduction mechanisms"],
+          "synonyms": ["semiconduction processes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "semiconductor",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a material that conducts electricity under some conditions but not others; used to make electronic components",
+          "examples": ["Silicon is a common semiconductor.", "Semiconductors are found in smartphones and computers."],
+          "collocations": ["silicon semiconductor", "solid-state semiconductor", "semiconductor device"],
+          "synonyms": ["electronic material", "chip material"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to or characteristic of a semiconductor",
+          "examples": ["semiconductor industry", "semiconductor devices require precise fabrication."],
+          "collocations": ["semiconductor industry", "semiconductor device", "semiconductor industry standards"],
+          "synonyms": ["semi", "chip-related"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "semiconductors",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of semiconductor; multiple semiconductor materials or devices",
+          "examples": ["Semiconductors enable modern electronics.", "The factory produced several types of semiconductors."],
+          "collocations": ["silicon semiconductors", "modern semiconductors", "semiconductor devices"],
+          "synonyms": ["chips", "electronic materials"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "semicone",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a curved shape resembling a half-cone or a cone with a flat base; in geometry or design contexts",
+          "examples": ["The sculpture featured a semicone profile.", "This component uses a semicone contour."],
+          "collocations": ["semicone shape", "semicone base", "semicone geometry"],
+          "synonyms": ["half-cone", "cone fragment"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geometry", "design"]
+        }
+      ]
+    },
+    {
+      "term": "semiconfident",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly confident; showing some confidence but not full assurance",
+          "examples": ["Her semiconfident stance suggested uncertainty.", "A semiconfident answer indicated partial certainty."],
+          "collocations": ["semiconfident expression", "semiconfident response", "semiconfident attitude"],
+          "synonyms": ["partially confident", "tentative"],
+          "antonyms": ["confident", "sure"],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "semiconfinement",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "partial confinement or restriction, allowing some freedom or movement",
+          "examples": ["The semiconfinement policy limited activities but allowed some travel.", "During semiconfinement, visits were restricted."],
+          "collocations": ["semiconfinement policy", "semiconfinement period", "semiconfinement measures"],
+          "synonyms": ["partial confinement", "restricted freedom"],
+          "antonyms": ["unrestricted", "freedom"],
+          "register": "neutral",
+          "domain": ["law", "policy", "social"]
+        }
+      ]
+    },
+    {
+      "term": "semiconfluent",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly flowing together or merging; not fully confluent",
+          "examples": ["The semiconfluent streams merged gradually.", "A semiconfluent pattern appeared in the river delta."],
+          "collocations": ["semiconfluent streams", "semiconfluent flow", "semiconfluent pattern"],
+          "synonyms": ["partially confluent", "quasi-confluent"],
+          "antonyms": ["confluent", "unified"],
+          "register": "neutral",
+          "domain": ["geography", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "semiconformist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who partially conforms to norms or tradition; not fully conformist",
+          "examples": ["He is a semiconformist who questions some rules.", "Semiconformists adopt popular ideas but keep personal touches."],
+          "collocations": ["semiconformist attitude", "semiconformist thinker", "semiconformist tendencies"],
+          "synonyms": ["partially conventional person", "moderate conformist"],
+          "antonyms": ["nonconformist", "rebel"],
+          "register": "neutral",
+          "domain": ["sociology", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "semiconformity",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "partial conformity to norms or standards",
+          "examples": ["The semiconformity of the team helped them stay flexible.", "Cultural semiconformity varied across regions."],
+          "collocations": ["semiconformity with norms", "semiconformity in groups", "social semiconformity"],
+          "synonyms": ["partial conformity", "moderate conformity"],
+          "antonyms": ["nonconformity", "rebellion"],
+          "register": "neutral",
+          "domain": ["sociology", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "semiconic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partially iconic or representative; resembling an icon or symbol to a degree",
+          "examples": ["The logo is semiconic, capturing the idea without full symbolism.", "A semiconic image evokes meaning without being literal."],
+          "collocations": ["semiconic image", "semiconic design", "semiconic symbol"],
+          "synonyms": ["partially iconic", "symbolic-ish"],
+          "antonyms": ["iconic", "literal"],
+          "register": "neutral",
+          "domain": ["design", "marketing"]
+        }
+      ]
+    },
+    {
+      "term": "semiconical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a shape that is half-cone or semi-conical",
+          "examples": ["The lamp has a semiconical shade.", "A semiconical hood tapers toward the top."],
+          "collocations": ["semiconical shape", "semiconical hat", "semiconical hood"],
+          "synonyms": ["half-conical", "semi-conical"],
+          "antonyms": ["conical", "cylindrical"],
+          "register": "neutral",
+          "domain": ["design", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "semiconically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a semiconical manner; with a half-cone shape or approach",
+          "examples": ["The structure was semiconically tapered.", "The design flows semiconically from base to apex."],
+          "collocations": ["semiconically tapered", "semiconically shaped"],
+          "synonyms": ["half-conically", "semi-conically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["design", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "semiconnate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly connected or linked; having partial connection",
+          "examples": ["The semiconnate network had some isolated nodes.", "A semiconnate relationship kept teams loosely linked."],
+          "collocations": ["semiconnate network", "semiconnate connection", "semiconnate link"],
+          "synonyms": ["partially connected", "loosely linked"],
+          "antonyms": ["connected", "conjoined"],
+          "register": "neutral",
+          "domain": ["technology", "sociology"]
+        }
+      ]
+    },
+    {
+      "term": "semiconnection",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a partial connection between two entities or components",
+          "examples": ["The semiconnection between modules caused data delays.", "Repairing the semiconnection improved the system."],
+          "collocations": ["semiconnection between", "semiconnection path", "semiconnection issue"],
+          "synonyms": ["partial link", "partial connection"],
+          "antonyms": ["full connection", "direct link"],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "semiconoidal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a half-elliptical or semi-oval, worm-like curved shape similar to a semi-ellipse",
+          "examples": ["The sculpture displays a semiconoidal curve.", "A semiconoidal surface reduces sharp edges."],
+          "collocations": ["semiconoidal curve", "semiconoidal surface", "semiconoidal shape"],
+          "synonyms": ["semi-elliptical", "semicircular-ish"],
+          "antonyms": ["linear", "planar"],
+          "register": "neutral",
+          "domain": ["geometry", "design"]
+        }
+      ]
+    },
+    {
+      "term": "semiconscious",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly awake; not fully conscious",
+          "examples": ["He was semiconscious after the accident and answered questions slowly.", "The patient remained semiconscious for hours."],
+          "collocations": ["semiconscious state", "semiconscious after", "remain semiconscious"],
+          "synonyms": ["partially conscious", "groggy"],
+          "antonyms": ["conscious", "fully awake"],
+          "register": "neutral",
+          "domain": ["medicine", "emergency"]
+        }
+      ]
+    }
+  ]
+}

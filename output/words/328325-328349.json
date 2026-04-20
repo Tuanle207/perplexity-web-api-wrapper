@@ -1,0 +1,337 @@
+{
+  "items": [
+    {
+      "term": "reliefless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without any relief or alleviation; not relieved of distress or pain",
+          "examples": ["The patient remained reliefless despite treatment."],
+          "collocations": ["completely reliefless", "reliefless state", "remain reliefless"],
+          "synonyms": ["unrelieved", "uncomforted"],
+          "antonyms": ["relieved"],
+          "register": "formal",
+          "domain": ["general", "medical"]
+        }
+      ]
+    },
+    {
+      "term": "reliefs",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "tender holiday or escape from work or burden; a feeling of relaxation or ease",
+          "examples": ["She sought some relief from the heat with a cold drink."],
+          "collocations": ["give relief", "pain relief", "economic relief", "temporary relief"],
+          "synonyms": ["easing", "comfort", "respite"],
+          "antonyms": ["tension", "burden"],
+          "register": "neutral",
+          "domain": ["general", "health", "economy"]
+        },
+        {
+          "pos": "noun",
+          "definition": "sculpted or molded decoration on a surface, often carving or raised design",
+          "examples": ["The relief on the temple walls depicted ancient myths."],
+          "collocations": ["high relief", "low relief", "stone relief"],
+          "synonyms": ["embossment", "carving"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "architecture", "history"]
+        }
+      ]
+    },
+    {
+      "term": "relier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one who relies; a person or thing that relies on someone or something",
+          "examples": ["The relier of this system is the central server."],
+          "collocations": ["key relier", "primary relier"],
+          "synonyms": ["reliant", "dependent"],
+          "antonyms": ["independent", "autonomous"],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "reliers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of relier; those who rely or depend",
+          "examples": ["The reliers of the software are the users and admins."],
+          "collocations": ["other reliers", "reliant reliers"],
+          "synonyms": ["dependents", "relying parties"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "relies",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to depend on or trust someone or something",
+          "examples": ["She relies on her intuition for important decisions.", "The project relies on funding from sponsors."],
+          "collocations": ["rely on", "relies heavily", "rely upon"],
+          "synonyms": ["depends", "trusts", "depends on"],
+          "antonyms": ["independence", "distrust"],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "relievable",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being relieved or alleviated",
+          "examples": ["Pain appears relievable with the right medicine."],
+          "collocations": ["relievable pain", "relievably treatable"],
+          "synonyms": ["alleviable", "easable"],
+          "antonyms": ["irrelievable", "unrelieved"],
+          "register": "neutral",
+          "domain": ["medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "relieve",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to ease or reduce pain, worry, or burden",
+          "examples": ["Ice can relieve swelling.", "This news will relieve some of his anxiety."],
+          "collocations": ["relieve pain", "relieve stress", "relieve symptoms"],
+          "synonyms": ["ease", "alleviate", "unburden"],
+          "antonyms": ["increase", "worsen"],
+          "register": "neutral",
+          "domain": ["health", "general"]
+        }
+      ]
+    },
+    {
+      "term": "relieved",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "feeling happy or relaxed because something bad did not happen or has ended",
+          "examples": ["She looked relieved after the exam was over.", "We were relieved to hear that no one was injured."],
+          "collocations": ["feeling relieved", "relieved expression", "relieved sigh"],
+          "synonyms": ["comforted", "soothed", "calmed"],
+          "antonyms": ["anxious", "worried"],
+          "register": "neutral",
+          "domain": ["general", "emotions"]
+        }
+      ]
+    },
+    {
+      "term": "relievedly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a relieved manner; showing relief",
+          "examples": ["She smiled relievedly after hearing the news."],
+          "collocations": ["smiled relievedly", "relievedly sigh"],
+          "synonyms": ["easily", "plaintively (less common)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "relievo",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a three-dimensional sculpture or raised work, especially used in jewelry or sculpture",
+          "examples": ["The ring featured a tiny relievo of a lion."],
+          "collocations": ["metal relievo", "stone relievo"],
+          "synonyms": ["relief", "bas-relief"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "jewelry"]
+        }
+      ]
+    },
+    {
+      "term": "relievos",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of relievo; raised decorative reliefs on objects",
+          "examples": ["The altarpiece featured several intricate relievos."],
+          "collocations": ["stone relievo", "carved relievo"],
+          "synonyms": ["reliefs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "relift",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to lift again or restore to a higher position",
+          "examples": ["They will relift the platform after repairs."],
+          "collocations": ["relift the cover", "relift the load"],
+          "synonyms": ["relift", "re-raise"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "engineering"]
+        }
+      ]
+    },
+    "relig": {
+      "term": "relig",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal short for religion or religious belief; used rarely",
+          "examples": ["Her talk touched on the relig of the community."],
+          "collocations": ["relig beliefs", "cultural relig"],
+          "synonyms": ["faith", "belief system"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "religate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to banish or exile; to consign to a religious role or status",
+          "examples": ["The priest was religated from the city."],
+          "collocations": ["religate to", "religated position"],
+          "synonyms": ["banish", "exile"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "religation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of religious binding or affiliation; religious practice",
+          "examples": ["The feme religion of the area is a local religitation."],
+          "collocations": ["religion", "religious obligation"],
+          "synonyms": ["piety", "devotion"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["religion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "relight",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to light again or rekindle a flame or light",
+          "examples": ["He tried to relight the campfire."],
+          "collocations": ["relight the fire", "relight cigarettes"],
+          "synonyms": ["rekindle", "reignite"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "outdoors"]
+        }
+      ]
+    },
+    {
+      "term": "relightable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being lit again or rekindled",
+          "examples": ["The candle is relightable after trimming."],
+          "collocations": ["relightable candle", "relightable surface"],
+          "synonyms": ["reignitable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "relighted",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having been lit again or rekindled",
+          "examples": ["The relighted match sparked briefly."],
+          "collocations": ["relighted wick", "relighted lamp"],
+          "synonyms": ["reignited", "relit"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "relighten",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make or become light again; to rekindle",
+          "examples": ["They plan to relighten the lanterns at dusk."],
+          "collocations": ["relighten the lamp", "relighten flames"],
+          "synonyms": ["reignite", "rekindle"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

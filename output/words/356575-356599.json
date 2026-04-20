@@ -1,0 +1,523 @@
+{
+  "items": [
+    {
+      "term": "shredder",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or machine that tears or cuts material into small pieces",
+          "examples": [
+            "He fed the old paper into the shredder.",
+            "Use a credit card shredder to destroy sensitive documents.",
+            "The paper shredder jammed after multiple pages."
+          ],
+          "collocations": ["paper shredder", "industrial shredder", "shredder blade", "cross-cut shredder", "high-security shredder"],
+          "synonyms": ["grinder (in some contexts)", "shred machine"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "shredders",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shredder; devices or machines that cut or tear material into small pieces",
+          "examples": [
+            "The office bought new shredders for sensitive documents.",
+            "Different shredders have various security levels."
+          ],
+          "collocations": ["office shredders", "industrial shredders", "security shredders"],
+          "synonyms": ["shredder(s)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "shreddier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative form of shreddy/informal; more shredded or more shredded-looking",
+          "examples": [
+            "The shredded cheese appeared shreddier than last time.",
+            "After hours of training, his jeans looked shreddier."
+          ],
+          "collocations": ["shreddier than", "shreddier fabric"],
+          "synonyms": ["more shredded"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shreddiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative form of shredded; most shredded-looking",
+          "examples": [
+            "That athlete wore shreddiest gym wear at the competition."
+          ],
+          "collocations": ["shreddiest look", "shreddiest design"],
+          "synonyms": ["most shredded"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shredding",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of tearing or cutting into small pieces; the material produced",
+          "examples": [
+            "Shredding confidential documents protects privacy.",
+            "Shredding can also be a form of exercise with resistance band shredding."
+          ],
+          "collocations": ["document shredding", "paper shredding", "shredding speed"],
+          "synonyms": ["tearing", "cutting into strips"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business", "technology"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle of shred; to tear or cut into small pieces",
+          "examples": [
+            "She is shredding old notes.",
+            "Shredding the documents before disposal is important."
+          ],
+          "collocations": ["shredding documents", "shredding paper", "shredding memory (computing)"],
+          "synonyms": ["tearing", "cutting up"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "shreddings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "pieces produced by shredding; the material shredded",
+          "examples": [
+            "The shreddedings were disposed of as waste.",
+            "Check the shredder to manage the shreddings properly."
+          ],
+          "collocations": ["waste shreddings", "shreddings disposal"],
+          "synonyms": ["shreds"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shreddy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal term for a person who shreds; or as a nickname, mainly in slang",
+          "examples": [
+            "Yo, shout out to Shreddy for the clean setup.",
+            "Shreddy is coding all night."
+          ],
+          "collocations": ["Shreddy person", "Shreddy nickname"],
+          "synonyms": ["shredder (slang)", "shredder-person"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shredless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without shreds; not shredded",
+          "examples": [
+            "The shirt remains shredless after washing."
+          ],
+          "collocations": ["shredless fabric"],
+          "synonyms": ["unshredded"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shredlike",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling shredding; like shredded material",
+          "examples": [
+            "The texture is shredlike, with fine fibers."
+          ],
+          "collocations": ["shredlike texture"],
+          "synonyms": ["shreddy-like"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shreds",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "small torn pieces of material; scraps",
+          "examples": [
+            "The shreds of paper blew across the room.",
+            "There are shreds of fabric on the floor."
+          ],
+          "collocations": ["paper shreds", "fabric shreds"],
+          "synonyms": ["rags", "slivers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person singular of shred; to tear into small pieces",
+          "examples": [
+            "He shreds the documents after reading them.",
+            "She shreds old photos for a collage."
+          ],
+          "collocations": ["shreds documents", "shreds photos"],
+          "synonyms": ["tears up", "cuts up"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "shree",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "variant spelling or proper noun; may refer to a name or sound imitation; not common in standard lexicon",
+          "examples": [
+            "The name Shree appeared in the list."
+          ],
+          "collocations": ["Shree name"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shreek",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to shriek; archaic or rare spelling variant",
+          "examples": [
+            "He shreeked in fear."
+          ],
+          "collocations": ["shreeked loudly"],
+          "synonyms": ["shrieked", "screamed"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shreeking",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of shriek; emitting a loud, high-pitched cry",
+          "examples": [
+            "The cat was shreeking at the top of its lungs.",
+            "Shreeking fans filled the stadium."
+          ],
+          "collocations": ["shreeking loudly", "shreeking voice"],
+          "synonyms": ["shriek", "screech"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shreeks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shriek; loud, high-pitched cries",
+          "examples": [
+            "The audience let out a series of shreeks.",
+            "Several shreeks echoed through the hall."
+          ],
+          "collocations": ["blood-curdling shreeks", "piercing shreeks"],
+          "synonyms": ["shrieks"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person singular present of shriek; to emit a loud cry",
+          "examples": [
+            "She shreeks when startled."
+          ],
+          "collocations": ["shreeks loudly"],
+          "synonyms": ["shriek", "scream"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shreeve",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "archaic or obsolete term; could refer to a herald or officer in some dialects; not common in modern usage",
+          "examples": [
+            "The old manuscript mentions a shreeve."
+          ],
+          "collocations": ["shreeve title"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shreik",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "alternate spelling of shriek; to emit a loud cry",
+          "examples": [
+            "She shreiked in surprise."
+          ],
+          "collocations": ["shreiked loudly"],
+          "synonyms": ["shrieked", "screamed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shreiked",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of shreik; emitted a loud cry",
+          "examples": [
+            "He shreiked when the door slammed."
+          ],
+          "collocations": ["shreiked loudly"],
+          "synonyms": ["shrieked"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shreiking",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of shreik; emitting loud cries",
+          "examples": [
+            "People were shreiking in excitement."
+          ],
+          "collocations": ["shreiking loudly"],
+          "synonyms": ["shrieking"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shreiks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shreik; loud cries",
+          "examples": [
+            "Her shreiks echoed in the canyon."
+          ],
+          "collocations": ["high-pitched shreiks"],
+          "synonyms": ["shriek(s)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shrend",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "variant spelling/obsolete form; not common in modern English",
+          "examples": [
+            "The manuscript used the word shrend."
+          ],
+          "collocations": ["shrend word"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shreveport",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a city in Louisiana, United States",
+          "examples": [
+            "She lives in Shreveport.",
+            "Shreveport hosts a famous regional festival."
+          ],
+          "collocations": ["Shreveport Louisiana", "downtown Shreveport"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "general"]
+        }
+      ]
+    },
+    {
+      "term": "shrew",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small, aggressive, or quarrelsome woman; a spiteful person",
+          "examples": [
+            "The old crone was known as a shrew.",
+            "Don't be a shrew about the plans."
+          ],
+          "collocations": ["little shrew", "shrew evolution"],
+          "synonyms": ["termagant", "harpy"],
+          "antonyms": ["angel", "sweetheart"],
+          "register": "neutral",
+          "domain": ["general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "an agile, early-mammal-like animal; in literature, a shrew mouse",
+          "examples": [
+            "The fossil hints at a shrew-like creature."
+          ],
+          "collocations": ["shrew-like", "paleontology shrew"],
+          "synonyms": ["musk shrew"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "shrewd",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having or showing good judgment and practical understanding",
+          "examples": [
+            "She made a shrewd investment.",
+            "A shrewd detective notices small details."
+          ],
+          "collocations": ["shrewd move", "shrewd decision", "shrewd businessman"],
+          "synonyms": ["astute", "clever", "savvy"],
+          "antonyms": ["foolish", "gullible"],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "shrewder",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative form of shrewd; more perceptive and clever",
+          "examples": [
+            "He is shrewder than most rivals in negotiations."
+          ],
+          "collocations": ["shrewder than", "shrewder strategy"],
+          "synonyms": ["more astute", "more savvy"],
+          "antonyms": ["less shrewd"],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    }
+  ]
+}

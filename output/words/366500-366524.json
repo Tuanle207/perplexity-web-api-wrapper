@@ -1,0 +1,519 @@
+{
+  "items": [
+    {
+      "term": "southern",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or coming from the south part of a country or region.",
+          "examples": [
+            "The southern coast is warmer than the northern coast.",
+            "They took a trip to the southern cities.",
+            "A southern wind blew across the valley."
+          ],
+          "collocations": ["southern region", "southern coast", "southern city", "southern climate", "southern hemisphere"],
+          "synonyms": ["downsouth", "south"],
+          "antonyms": ["northern", "upnorth"],
+          "register": "neutral",
+          "domain": ["general", "geography"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A person from the southern part of a country; sometimes used to refer to someone from the southern United States.",
+          "examples": [
+            "The Southerner spoke with a gentle drawl.",
+            "Southerners often have distinct regional traditions.",
+            "The photographer captured a portrait of a proud Southerner."
+          ],
+          "collocations": ["southern", "the Southerner", "southerners"],
+          "synonyms": ["southerner"],
+          "antonyms": ["northerner"],
+          "register": "neutral",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "southerner",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who comes from the southern part of a country, especially the southern United States.",
+          "examples": [
+            "The Southerner shared stories about life on the plantation.",
+            "We met a kind Southerner who offered directions."
+          ],
+          "collocations": ["The Southerner", "local Southerner", "Southern gentleman"],
+          "synonyms": ["person from the south", "southerner"],
+          "antonyms": ["northerner"],
+          "register": "neutral",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "southerners",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "People who come from the southern part of a country.",
+          "examples": [
+            "The Southerners welcomed us with a barbecue.",
+            "Two Southerners shared climate fondness about the region."
+          ],
+          "collocations": ["southerners", "local southerners", "Southern people"],
+          "synonyms": ["southerners"],
+          "antonyms": ["northerners"],
+          "register": "neutral",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "southernest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Superlative form indicating the most southern; used in some dialects or poetic language.",
+          "examples": [
+            "They traveled to the southernest point of the coast.",
+            "The southernest town felt the strongest sea breeze."
+          ],
+          "collocations": ["the southernest point", "southernest coast"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "southernise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To make something more southern in character or influence; to mark with southern traits (British spelling).",
+          "examples": [
+            "Some writers southernise their novels to appeal to a rural audience.",
+            "The festival was southernised to reflect regional traditions."
+          ],
+          "collocations": ["southernise a tradition", "southernise the style"],
+          "synonyms": ["southernize"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "southernised",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb (past tense)",
+          "definition": "Having been made more southern in character or influence.",
+          "examples": [
+            "The festival was southernised to reflect regional traditions.",
+            "Architecture in the town was southernised during the renovation."
+          ],
+          "collocations": ["southernised styles", "southernised traditions"],
+          "synonyms": ["southernized"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "southernises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third-person singular present of southernise; to make something more southern in character.",
+          "examples": [
+            "The author southernises the setting to appeal to readers in the south.",
+            "The presentation southernises its imagery with southern dialect."
+          ],
+          "collocations": ["southernises the setting", "southernises the style"],
+          "synonyms": ["southernizes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "southernising",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "gerund/participle",
+          "definition": "The act of making something more southern in character.",
+          "examples": [
+            "The process of southernising the festival took years.",
+            "They are southernising the design with regional motifs."
+          ],
+          "collocations": ["southernising the design", "southernising the festival"],
+          "synonyms": ["southernising"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "southernism",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A word, expression, or habit typical of the southern region or its people.",
+          "examples": [
+            "The term is a southernism that many outsiders may not understand.",
+            "Regional southernisms include specific phrases and pronunciations."
+          ],
+          "collocations": ["a southernism", "regional southernism"],
+          "synonyms": ["regionalism", "dialect feature"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["language", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "southernisms",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of southernism; multiple southern regional expressions or habits.",
+          "examples": [
+            "The book catalogues various southernisms found in dialects.",
+            "Readers noted several humorous southernisms."
+          ],
+          "collocations": ["southernisms", "regional southernisms"],
+          "synonyms": ["regionalisms"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["language", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "southernize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To make something more southern in character or influence.",
+          "examples": [
+            "They decided to southernize the menu with regional dishes.",
+            "The film aimed to southernize its setting for authenticity."
+          ],
+          "collocations": ["southernize a menu", "southernize the setting"],
+          "synonyms": ["southenize"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "southernized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb (past tense)",
+          "definition": "Having been southernized; made more southern in character.",
+          "examples": [
+            "The town was southernized by new cultural events.",
+            "The menu was southernized to reflect local tastes."
+          ],
+          "collocations": ["southernized menu", "southernized town"],
+          "synonyms": ["southenized"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "southernizes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third-person singular present of southernize; to make something more southern.",
+          "examples": [
+            "The festival southernizes its programming each year.",
+            "The design agency southernizes the branding."
+          ],
+          "collocations": ["southernizes the menu", "southernizes branding"],
+          "synonyms": ["southenizes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "southernizing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "gerund/participle",
+          "definition": "The act of southernizing; making something more southern.",
+          "examples": [
+            "Southernizing the festival took careful planning.",
+            "They are southernizing the menu to honor regional flavors."
+          ],
+          "collocations": ["southernizing the program", "southernizing the menu"],
+          "synonyms": ["southenizing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "southernliness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality of being southern; charm or style associated with the south.",
+          "examples": [
+            "The southernliness of the hostess made guests feel welcome.",
+            "You can sense the southernliness in their hospitality."
+          ],
+          "collocations": ["southernliness and warmth"],
+          "synonyms": ["southness", "southerliness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "character"]
+        }
+      ]
+    },
+    {
+      "term": "southernly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb/adjective",
+          "definition": "In a southern manner or towards the south.",
+          "examples": [
+            "The road bends southernly toward the coast.",
+            "They traveled southernly, enjoying warmer weather."
+          ],
+          "collocations": ["move southernly", "look southernly"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "southernmost",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "The farthest south in a group or area.",
+          "examples": [
+            "The southernmost point of the island is accessible by footpath.",
+            "They took a boat to the southernmost town."
+          ],
+          "collocations": ["southernmost point", "southernmost town"],
+          "synonyms": ["farthest south"],
+          "antonyms": ["northernmost"],
+          "register": "neutral",
+          "domain": ["geography", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "southernness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality of being southern; the characteristic traits of the south.",
+          "examples": [
+            "Her songs carry a sense of southernness and storytelling.",
+            "The novel captures southernness in its setting and dialogue."
+          ],
+          "collocations": ["nostalgic southernness", "regional southernness"],
+          "synonyms": ["southerness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "southernnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of southernness; multiple instances of southern quality.",
+          "examples": [
+            "The guide noted several regional southernnesses in the stories.",
+            "Different towns showed varying degrees of southernnesses."
+          ],
+          "collocations": ["regional southernnesses"],
+          "synonyms": ["southernesses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "southerns",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "People from the south; a plural form similar to southerner(s).",
+          "examples": [
+            "The group included several Southerns who played traditional music.",
+            "Local Southerns are proud of their regional customs."
+          ],
+          "collocations": ["the Southerns", "local Southerns"],
+          "synonyms": ["southerners"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "southernwood",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A plant with yellow flowers in the citrus or rue family, used in gardens and sometimes in traditional medicine.",
+          "examples": [
+            "The garden has a scented bed of southernwood.",
+            "Ancient herb gardens included southernwood for fragrance."
+          ],
+          "collocations": ["southernwood plant", "bunches of southernwood"],
+          "synonyms": ["Artemisia abrotanum (scientific name)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "gardening"]
+        }
+      ]
+    },
+    {
+      "term": "southernwoods",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plants of the southernwood species; plural form.",
+          "examples": [
+            "The hedges were trimmed with southernwoods.",
+            "They collected several southernwoods for the herb garden."
+          ],
+          "collocations": ["southernwoods hedge", "bunches of southernwoods"],
+          "synonyms": ["southernwood plants"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "gardening"]
+        }
+      ]
+    },
+    {
+      "term": "southers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "People who live in the southern part of a country; similar to southerners.",
+          "examples": [
+            "The town welcomed its new residents, the southers.",
+            "Southers often state their hometown pride loudly."
+          ],
+          "collocations": ["the southers", "local southers"],
+          "synonyms": ["southerners"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "southing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A direction toward the south; a course or movement to the south.",
+          "examples": [
+            "The ship steered to the southing to reach warmer waters.",
+            "They noted the southing breeze on the map."
+          ],
+          "collocations": ["head southing", "southing wind"],
+          "synonyms": ["southward direction"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "navigation"]
+        }
+      ]
+    },
+    {
+      "term": "southings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of southing; movements or directions toward the south.",
+          "examples": [
+            "The map shows several southings along the coast.",
+            "Wind descriptions included various southings."
+          ],
+          "collocations": ["northings and southings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "navigation"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "items": [
+    {
+      "term": "smells",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the sense of a person or thing that is detectable by the nose; a smell",
+          "examples": [
+            "The smells from the bakery made her hungry.",
+            "There are many pleasant smells in the garden after rain."
+          ],
+          "collocations": ["strong smell", "faint smell", "smell of", "smell nice", "smell awful"],
+          "synonyms": ["odor", "aroma", "scent"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to emit an odor or to perceive an odor with the nose",
+          "examples": [
+            "The kitchen smells of garlic.",
+            "Her clothes smelled after the rain."
+          ],
+          "collocations": ["smell of", "smell like", "smell good", "smell bad"],
+          "synonyms": ["emit an odor", "reek of", "odor"],
+          "antonyms": ["smellless (rare)", ""],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smellsome",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "characterized by or having a noticeable smell; odoriferous",
+          "examples": [
+            "The bath salts are smellsome and soothing.",
+            "That room is smellsome after cooking fish."
+          ],
+          "collocations": ["smellsome note", "smellsome smell"],
+          "synonyms": ["odorous", "aromatic"],
+          "antonyms": ["smellless", "odorless"],
+          "register": "neutral",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "smelly",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a noticeable or unpleasant smell",
+          "examples": [
+            "Her shoes were smelly after the hike.",
+            "The towels were smelly from the damp closet."
+          ],
+          "collocations": ["smelly feet", "smelly clothes", "smelly socks"],
+          "synonyms": ["stinky", "fetid", "odorous"],
+          "antonyms": ["fresh", "fragrant"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "smelt",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small freshwater fish; also the metal alloy tin and lead fused with other metals (historical use)",
+          "examples": [
+            "The river was famous for its smelt.",
+            "They used to relieve the metal by smelting."
+          ],
+          "collocations": ["blue smelt", "smelt fish"],
+          "synonyms": ["fish", "common name for certain species"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to extract metal from ore by heating and melting it; to melt ore",
+          "examples": [
+            "The ore was smelted to extract copper.",
+            "Smelt the iron ore at high temperature."
+          ],
+          "collocations": ["smelt ore", "smelt metal", "smelt down"],
+          "synonyms": ["melt", "extract metal"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "smelted",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of smelt; heated and melted ore or metal to extract it",
+          "examples": [
+            "The ore was smelted to produce copper.",
+            "They smelted the tin ore in a furnace."
+          ],
+          "collocations": ["smelted ore", "smelted metal"],
+          "synonyms": ["melted", "extracted"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "smelter",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or a facility that melts ore or metal to extract the metal",
+          "examples": [
+            "The steel smelter emits a lot of heat.",
+            "Scientists visited the iron smelter during the tour."
+          ],
+          "collocations": ["steel smelter", "copper smelter", "smelter plant"],
+          "synonyms": ["metallurgist" (person) but not exact; "furnace" (facility)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "smelteries",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smeltery; places where metals are melted for extraction",
+          "examples": [
+            "Several smelteries lined the riverbank.",
+            "The smelteries closed for maintenance."
+          ],
+          "collocations": ["iron smelteries", "aluminium smelteries"],
+          "synonyms": ["smeltery facilities"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "smelterman",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a male worker who operates a smelter",
+          "examples": [
+            "The smelterman monitored the furnace temperatures.",
+            "Smeltermen are highly skilled in metal extraction."
+          ],
+          "collocations": ["smelterman labor", "smelterman job"],
+          "synonyms": ["metallurgist (informal association)", "furnaceman"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry"]
+        }
+      ]
+    },
+    {
+      "term": "smelters",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people or facilities that melt ore to extract metal",
+          "examples": [
+            "Smelters in the region reduced emissions."
+          ],
+          "collocations": ["steel smelters", "copper smelters"],
+          "synonyms": ["furnacemen", "smelting plants"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "smeltery",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place where metals are melted and refined",
+          "examples": [
+            "The smeltery operated at high temperatures.",
+            "They visited the ancient smeltery ruins."
+          ],
+          "collocations": ["metal smeltery", "industrial smeltery"],
+          "synonyms": ["furnace", "foundry"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "smelting",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of melting ore to extract metal",
+          "examples": [
+            "Smelting requires high temperatures.",
+            "Environmental concerns surround modern smelting."
+          ],
+          "collocations": ["copper smelting", "iron smelting"],
+          "synonyms": ["melting", "fusing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "smeltings",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smelting; instances or operations of smelting",
+          "examples": [
+            "The plant reported several smeltings this quarter."
+          ],
+          "collocations": ["smelting operations", "smeltings process"],
+          "synonyms": ["smeltings (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry"]
+        }
+      ]
+    },
+    {
+      "term": "smeltman",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a male worker who operates a smelt; archaic/rare term",
+          "examples": [
+            "The smeltman checked the furnace readings."
+          ],
+          "collocations": ["smeltman job"],
+          "synonyms": ["smelterman", "furnaceman"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry"]
+        }
+      ]
+    },
+    {
+      "term": "smelts",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of smelt; melts ore or metal",
+          "examples": [
+            "The ore smelts at high temperatures.",
+            "They smelt the ore to obtain copper."
+          ],
+          "collocations": ["smelts ore", "smelts metal"],
+          "synonyms": ["melts"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry"]
+        }
+      ]
+    },
+    {
+      "term": "smerk",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to smile with a smug or silly grin; archaic/rare usage",
+          "examples": [
+            "He smerked at the joke in a sly way."
+          ],
+          "collocations": ["smerk at", "smerk faintly"],
+          "synonyms": ["smirk"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "humor"]
+        }
+      ]
+    },
+    {
+      "term": "smerked",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of smerk; smiled slyly",
+          "examples": [
+            "He smirked and walked away."
+          ],
+          "collocations": ["smerked at", "smerked knowingly"],
+          "synonyms": ["smirked"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "smparking",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "undefined",
+          "definition": "invalid form; no standard sense in contemporary English",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "merking",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a non-standard or rare stem; no established sense in modern usage",
+          "examples": [
+            "The word is not in common use; considerado de jerga."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "smerks",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of smerk; not widely used",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "smervy",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "nonsense/unclear; not standard English sense",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "smeth",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "obsolete or rare term; no common meaning",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "smethe",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "obsolete term; no established sense",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "smeuse",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare/archaic; no standard sense in modern usage",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "smeuses",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smeuse; not standard in modern English",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "smeuth",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "obsolete or extremely rare term; no clear sense",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "smew",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small, white, waterfowl species; the smew",
+          "examples": [
+            "The smew is a tiny, ice-blue duck."
+          ],
+          "collocations": ["smew bird", "wintering smew"],
+          "synonyms": ["blex", "duck (specific species)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "biology"]
+        }
+      ]
+    }
+  ]
+}

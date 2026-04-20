@@ -1,0 +1,568 @@
+{
+  "items": [
+    {
+      "term": "sharecrop",
+      "kind": "verb",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to work a farm and receive a portion of the crops as payment instead of a salary",
+          "examples": [
+            "The tenant agreed to sharecrop the land with the farmer.",
+            "They decided to sharecrop the plots to avoid upfront costs."
+          ],
+          "collocations": [
+            "sharecrop a field",
+            "sharecrop agreement",
+            "sharecropping system"
+          ],
+          "synonyms": ["farm on a share", "crop-share farming"],
+          "antonyms": ["cash rent", "own farm outright"],
+          "register": "neutral",
+          "domain": ["agriculture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sharecropped",
+      "kind": "verb",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "having worked a farm as a sharecropper and received crops as payment",
+          "examples": [
+            "The land was sharecropped by a local family for several years.",
+            "They sharecropped the fields and kept a portion of the harvest."
+          ],
+          "collocations": [
+            "sharecropped land",
+            "sharecropped fields",
+            "was sharecropped"
+          ],
+          "synonyms": ["farm on a share", "cropped by sharecropper"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "sharecropper",
+      "kind": "noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a tenant farmer who works land for a share of the crop rather than for wages",
+          "examples": [
+            "The sharecropper received half of the harvest as payment.",
+            "Many sharecroppers lived in poverty after the harvest failed."
+          ],
+          "collocations": [
+            "landowner and sharecropper",
+            "sharecropper agreement",
+            "sharecropping system"
+          ],
+          "synonyms": ["tenant farmer", "crofter (historic)"],
+          "antonyms": ["renter", "landlord"],
+          "register": "neutral",
+          "domain": ["history", "agriculture", "law"]
+        }
+      ]
+    },
+    {
+      "term": "sharecroppers",
+      "kind": "noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sharecropper; multiple tenants who farm land for a portion of the crops",
+          "examples": [
+            "The region had many sharecroppers working on large plantations.",
+            "Historically, sharecroppers faced debt cycles."
+          ],
+          "collocations": [
+            "ely",
+            "sharecroppers' rights",
+            "families of sharecroppers"
+          ],
+          "synonyms": ["tenant farmers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "sharecropping",
+      "kind": "noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the system of farming where tenants provide labor and a portion of the crop in exchange for using the land",
+          "examples": [
+            "Sharecropping became common in the post-slavery era in the southern United States.",
+            "The decline of sharecropping changed rural economies."
+          ],
+          "collocations": [
+            "system of sharecropping",
+            "sharecropping agreement",
+            "economic impact of sharecropping"
+          ],
+          "synonyms": ["crop sharing system", "tenant farming"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "economics", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "sharecrops",
+      "kind": "noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the crops produced by sharecropping; the portion of crops shared between landowner and tenant",
+          "examples": [
+            "The sharecrops were stored separately after harvest.",
+            "Prices for sharecrops fluctuated with crop yields."
+          ],
+          "collocations": [
+            "harvest of sharecrops",
+            "sharecroppers' share of the sharecrops"
+          ],
+          "synonyms": ["cropped produce", "harvest shares"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "shared",
+      "kind": "verb",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to have used or possessed something in common with others; to divide and give part of something to others",
+          "examples": [
+            "They shared the dessert among the table.",
+            "Please share your ideas with the group."
+          ],
+          "collocations": [
+            "shared with",
+            "shared responsibility",
+            "shared resources"
+          ],
+          "synonyms": ["divided", "distributed", "jointly used"],
+          "antonyms": ["kept", "withheld"],
+          "register": "neutral",
+          "domain": ["everyday", "business"]
+        }
+      ]
+    },
+    {
+      "term": "shareef",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a variant spelling of 'Sharif', used as a surname or given name in some cultures",
+          "examples": [
+            "She is known as Shareef in her community."
+          ],
+          "collocations": [
+            "Shareef Ali",
+            "the Shareef family"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["name"]
+        }
+      ]
+    },
+    {
+      "term": "sharefarmer",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a farmer who shares crops or income with others; a nonstandard or historical term variant of sharecropper",
+          "examples": [
+            "A sharefarmer negotiated the terms of the field."
+          ],
+          "collocations": [
+            "sharefarmer agreement",
+            "sharefarmer system"
+          ],
+          "synonyms": ["sharecropper", "tenant farmer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "sharefarmers",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sharefarmer; multiple farmers who share crops or income",
+          "examples": [
+            "The village relied on sharefarmers to cultivate the land."
+          ],
+          "collocations": [
+            "group of sharefarmers",
+            "sharefarmers' rights"
+          ],
+          "synonyms": ["sharecropper", "tenant farmer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "shareholder",
+      "kind": "noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who owns shares in a company",
+          "examples": [
+            "She is a shareholder in the tech startup.",
+            "Shareholders attended the annual meeting."
+          ],
+          "collocations": [
+            "major shareholder",
+            "minority shareholder",
+            "shareholder meeting"
+          ],
+          "synonyms": ["investor", "stockholder"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "shareholders",
+      "kind": "noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shareholder; people who own shares in a company",
+          "examples": [
+            "Shareholders approved the dividend proposal.",
+            "The meeting was open to all shareholders."
+          ],
+          "collocations": [
+            "board and shareholders",
+            "shareholders' meeting"
+          ],
+          "synonyms": ["investors", "stockholders"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "shareholdership",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or condition of being a shareholder; the rights and status of shareholders",
+          "examples": [
+            "Shareholdership dictates voting rights in the company."
+          ],
+          "collocations": [
+            "shareholdership rights",
+            "increase in shareholdership"
+          ],
+          "synonyms": ["shareholder status"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "law"]
+        }
+      ]
+    },
+    {
+      "term": "shareholding",
+      "kind": "noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the ownership of shares in a company; the total amount of shares held",
+          "examples": [
+            "Her shareholding increased after the new issue.",
+            "The group assessed its shareholding structure."
+          ],
+          "collocations": [
+            "total shareholding",
+            "shareholding pattern",
+            "increase in shareholding"
+          ],
+          "synonyms": ["ownership", "equity stake"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "shareholdings",
+      "kind": "noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shareholding; multiple instances of share ownership",
+          "examples": [
+            "The report lists the company’s shareholdings."
+          ],
+          "collocations": [
+            "detailed shareholdings",
+            "public shareholdings"
+          ],
+          "synonyms": ["ownership stakes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "shareman",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "historical or rare term referring to a person who shares or manages shares; not commonly used",
+          "examples": [
+            "The old records mention a shareman."
+          ],
+          "collocations": [
+            "shareman role"
+          ],
+          "synonyms": ["shareholder", "agent"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "sharemen",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shareman; historical term",
+          "examples": [
+            "Some documents reference the sharemen."
+          ],
+          "collocations": [
+            "group of sharemen"
+          ],
+          "synonyms": ["shareholders"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "sharemilker",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who milks shares in a cooperative or trust; historically used in some contexts",
+          "examples": [
+            "The sharemilker distributed the proceeds."
+          ],
+          "collocations": [
+            "sharemilker agreement"
+          ],
+          "synonyms": ["share milker", "collective milker"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "sharemilkers",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sharemilker; historical term",
+          "examples": [
+            "The sharemilkers debated the distribution rules."
+          ],
+          "collocations": [
+            "group of sharemilkers"
+          ],
+          "synonyms": ["share milker"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "shareown",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to own a share or part of something jointly; to participate in ownership with others",
+          "examples": [
+            "They decided to shareown the new venture."
+          ],
+          "collocations": [
+            "shareown a stake",
+            "jointly shareown"
+          ],
+          "synonyms": ["co-own", "jointly own"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "ownership"]
+        }
+      ]
+    },
+    {
+      "term": "shareowner",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who owns shares; a shareholder",
+          "examples": [
+            "Each shareowner has voting rights."
+          ],
+          "collocations": [
+            "major shareowner",
+            "shareowner meeting"
+          ],
+          "synonyms": ["shareholder", "investor"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "sharepenny",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a historical or nominal small unit of share value; not commonly used in modern English",
+          "examples": [
+            "Raw sharepennies were tallied in the ledger."
+          ],
+          "collocations": [
+            "sharepenny value"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "sharer",
+      "kind": "noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who shares something with others",
+          "examples": [
+            "She is a generous sharer of her time."
+          ],
+          "collocations": [
+            "friendly sharer",
+            "sharer of ideas"
+          ],
+          "synonyms": ["sharing person", "contributor"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "personal"]
+        }
+      ]
+    },
+    {
+      "term": "sharers",
+      "kind": "noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sharer; multiple people who share",
+          "examples": [
+            "The sharers in the project met weekly."
+          ],
+          "collocations": [
+            "group of sharers"
+          ],
+          "synonyms": ["sharing people"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "shares",
+      "kind": "noun",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a part of a company's ownership that is bought by investors; a stock",
+          "examples": [
+            "He bought five shares in the company.",
+            "The share price rose today."
+          ],
+          "collocations": [
+            "share price",
+            "dividend per share",
+            "major share"
+          ],
+          "synonyms": ["stock", "equity"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "finance", "general"]
+        }
+      ]
+    }
+  ]
+}

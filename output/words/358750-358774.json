@@ -1,0 +1,517 @@
+{
+  "items": [
+    {
+      "term": "singlestick",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a short, flexible staff used for sword fighting and drill, or a stick used in singing contests (less common).",
+          "examples": [
+            "The fencer practiced with a singlestick on the training mat.",
+            "In the old drill, cadets used a singlestick as part of their weapons training."
+          ],
+          "collocations": ["singlestick fencing", "singlestick drill", "wooden singlestick"],
+          "synonyms": ["sabre", "staff", "martial-arts stick"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "sport", "history"]
+        }
+      ]
+    },
+    {
+      "term": "singlesticker",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that sticks alone or is singular in appearance; a coinage unlikely to be widely used.",
+          "examples": [
+            "The term singlesticker is not common in modern English and may appear in niche contexts.",
+            "As a coinage, singlesticker has little real usage."
+          ],
+          "collocations": ["singlesticker usage"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "singlesticks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of singlestick; short, flexible fighting sticks used in historical martial arts.",
+          "examples": [
+            "Historical manuals describe techniques with singlesticks.",
+            "Competitors practiced with singlesticks in the (now nostalgic) drill sessions."
+          ],
+          "collocations": ["singlesticks fencing", "singlestick techniques"],
+          "synonyms": ["singlestick"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "sport"]
+        }
+      ]
+    },
+    {
+      "term": "singlet",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a sleeveless undergarment worn as an outer shirt in some contexts; a single layer worn under clothes.",
+          "examples": [
+            "He wore a white singlet under his shirt.",
+            "The gym outfit included a bright red singlet."
+          ],
+          "collocations": ["athletic singlet", "cotton singlet", "singlet top"],
+          "synonyms": ["tank top (informal)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["clothing", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "singleton",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a thing that exists as a single instance; in programming, an object that is the only instance of its class.",
+          "examples": [
+            "In the design pattern, a singleton ensures only one instance is created.",
+            "The dataset includes a singleton value that stands alone."
+          ],
+          "collocations": ["design pattern singleton", "singleton instance", "singleton class"],
+          "synonyms": ["only instance", "one-off"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "singletons",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of singleton; multiple singletons (instances) in various contexts.",
+          "examples": [
+            "The library stores several singletons in different modules.",
+            "In user data, there are multiple singleton entries for this key."
+          ],
+          "collocations": ["multiple singletons"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "singletrack",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a narrow, single-lane trail or path, often for bikes or hikers.",
+          "examples": [
+            "The mountain bike route followed a dusty singletrack through pines.",
+            "They rode the singletrack with care to avoid obstacles."
+          ],
+          "collocations": ["technical singletrack", "narrow singletrack"],
+          "synonyms": ["trail", "path"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "outdoors"]
+        }
+      ]
+    },
+    {
+      "term": "singletracks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of singletrack; multiple narrow trails.",
+          "examples": [
+            "The bike park offers many singletracks of varying difficulty.",
+            "They explored several singletracks during the weekend."
+          ],
+          "collocations": ["many singletracks", "technical singletracks"],
+          "synonyms": ["trails"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "outdoors"]
+        }
+      ]
+    },
+    {
+      "term": "singletree",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a bar attached to a horse's harness from which the traces of a cart or carriage extend; also called a whippletree.",
+          "examples": [
+            "The farmer attached the singletree to the cart.",
+            "Harnesses and singletrees were common on old farm equipment."
+          ],
+          "collocations": ["singletree harness", "whippletree"],
+          "synonyms": ["whippletree"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "singletrees",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of singletree; multiple bars used in horse-drawn equipment.",
+          "examples": [
+            "Old carriages used several singletrees in their harness systems.",
+            "The cart had two singletrees extending to the traces."
+          ],
+          "collocations": ["pair of singletrees"],
+          "synonyms": ["whippletrees (plural)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "singlets",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of singlet; sleeveless undershirt or athletic top.",
+          "examples": [
+            "She wore a blue singlet to the gym.",
+            "The team issued matching singlets for the event."
+          ],
+          "collocations": ["sport singlets", "athletic singlets"],
+          "synonyms": ["tank top"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["clothing", "sports", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "singling",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of selecting one item from a group; the process of concentrating on a single item.",
+          "examples": [
+            "The teacher was singling students for individual attention.",
+            "In the experiment, singling out the variable helped reduce noise."
+          ],
+          "collocations": ["singling out", "careful singling"],
+          "synonyms": ["selecting", "choosing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "singlings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of singling; instances of singling out.",
+          "examples": [
+            "The notes included several singlings for emphasis.",
+            "He avoided singlings that might embarrass anyone."
+          ],
+          "collocations": ["multiple singlings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "singly",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "one at a time; alone; not together with others.",
+          "examples": [
+            "The boxes were shipped singly to avoid damage.",
+            "He walked singly along the path."
+          ],
+          "collocations": ["standalone", "singly linked (tech)"],
+          "synonyms": ["alone", "one by one"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "singpho",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of the Singpho people or their language, an ethnic group in parts of Northeast India and Myanmar.",
+          "examples": [
+            "The Singpho language has unique tonal patterns.",
+            "Researchers studied Singpho cultural practices."
+          ],
+          "collocations": ["Singpho people", "Singpho language"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "ethnology"]
+        }
+      ]
+    },
+    {
+      "term": "sings",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of sing; to produce musical sounds with the voice.",
+          "examples": [
+            "She sings beautifully.",
+            "They sing together every Friday."
+          ],
+          "collocations": ["sings softly", "sings in a choir"],
+          "synonyms": ["croons", "warbles"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "general"]
+        }
+      ]
+    },
+    {
+      "term": "singsing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a playful reduplicative term for singing; sometimes used as a nickname or exclamation; or a diminutive form in some languages.",
+          "examples": [
+            "The kids joked around, singing 'singsing' as they played.",
+            "In some contexts, 'singsing' can be a friendly nickname."
+          ],
+          "collocations": ["games", "folk speech"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["language", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "singsong",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a song-like tune or a melodic, often sentimental, repetition of singing; a singsong voice or cadence.",
+          "examples": [
+            "The lullaby had a gentle singsong rhythm.",
+            "Her voice had a singsong quality that calmed the children."
+          ],
+          "collocations": ["singsong rhythm", "speaking in a singsong", "sing-song voice"],
+          "synonyms": ["lilt", "cadence"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "characteristic of a singsong; spoken with a rising and falling melody.",
+          "examples": [
+            "He spoke in a singsong voice that sounded amused.",
+            "The register used a singsong cadence."
+          ],
+          "collocations": ["singsong tone"],
+          "synonyms": ["lilting"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "general"]
+        }
+      ]
+    },
+    {
+      "term": "singsonged",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of singsong; to sing in a singsong way.",
+          "examples": [
+            "She singsonged a lullaby to calm the baby.",
+            "He speaks with a singsonged cadence when nervous."
+          ],
+          "collocations": ["singsonged voice"],
+          "synonyms": ["lilted"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "general"]
+        }
+      ]
+    },
+    {
+      "term": "singsonging",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or habit of speaking or singing in a singsong manner.",
+          "examples": [
+            "Her singsonging made it hard to take the instructions seriously.",
+            "The teacher announced the rule against singsonging in class."
+          ],
+          "collocations": ["singsonging cadence"],
+          "synonyms": ["lilting speech"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "singsongs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of singsong; songs or tunes that are sung in a singsong manner.",
+          "examples": [
+            "The kindergarten sang several cheerful singsongs.",
+            "The album features traditional folk singsongs."
+          ],
+          "collocations": ["traditional singsongs", "children's singsongs"],
+          "synonyms": ["lullabies (contextual)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "education"]
+        }
+      ]
+    },
+    {
+      "term": "singsongy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having the quality of a singsong; with a lilting or musical cadence.",
+          "examples": [
+            "Her voice was singsongy, making the tale feel fairy-tale-ish.",
+            "They spoke in a singsongy rhythm that amused the listeners."
+          ],
+          "collocations": ["singsongy cadence"],
+          "synonyms": ["lilting", "melodic"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "general"]
+        }
+      ]
+    },
+    {
+      "term": "singspiel",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a form of German light opera with spoken dialogue and songs.",
+          "examples": [
+            "The university theater produced a classic singspiel with witty dialogue.",
+            "Singspiel blends music and speech in a comic opera style."
+          ],
+          "collocations": ["German singspiel", "stage singspiel"],
+          "synonyms": ["operetta (some contexts)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["theater", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "singspiels",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of singspiel; multiple such works or performances.",
+          "examples": [
+            "The festival featured several singspiels by local composers.",
+            "Critics praised the energy of the singspiels."
+          ],
+          "collocations": ["various singspiels"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["theater", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "singstress",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female singer; a female vocalist.",
+          "examples": [
+            "The famous opera singstress performed impeccably.",
+            "The concert featured several renowned singstresses."
+          ],
+          "collocations": ["opera singstress", "renowned singstress"],
+          "synonyms": ["singer", "vocalist", "ballerina (figurative)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["arts", "entertainment"]
+        }
+      ]
+    }
+  ]
+}

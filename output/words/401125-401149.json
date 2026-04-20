@@ -1,0 +1,507 @@
+{
+  "items": [
+    {
+      "term": "titlark",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an invented or rare word; no common use in modern English",
+          "examples": ["The dictionary notes titlark as a nonce term found in old texts."],
+          "collocations": ["nonce term, archaic usage, rare word"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "titlarks",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of titlark; an extremely uncommon or imaginary word used in rare texts",
+          "examples": ["Titlarks appear in some linguistic folklore as playful coinages."],
+          "collocations": ["plural form, rare term, nonce words"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "title",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a heading or name of a book, article, song, or film; something that identifies a person or object",
+          "examples": [
+            "Please write the title at the top of the page.",
+            "She added a catchy title to her essay."
+          ],
+          "collocations": ["book title", "working title", "title page", "title of", "title role"],
+          "synonyms": ["heading", "name", "label"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a position or status, especially a rank or honor (e.g., earning a title)\n",
+          "examples": [
+            "He won the title of world champion.",
+            "The title of 'Duke' is a noble rank."
+          ],
+          "collocations": ["hold the title", "defend the title", "retains the title"],
+          "synonyms": ["rank", "honor", "prestige"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "society"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to give a title to something or to be named something",
+          "examples": [
+            "The book titles the chapters clearly.",
+            "They titled the project 'Green Future'."
+          ],
+          "collocations": ["title a book", "title a chapter", "title the project"],
+          "synonyms": ["name", "label"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "titleboard",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a board or panel showing a title or heading, often in a presentation or game context",
+          "examples": ["The titleboard displayed the round's category."],
+          "collocations": ["titleboard display", "game titleboard", "presentation titleboard"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "titled",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a particular title or name; known by a specified title",
+          "examples": [
+            "A titled author received an award.",
+            "The titled heir stood in the hall."
+          ],
+          "collocations": ["titled author", "titled position", "titled manuscript"],
+          "synonyms": ["named", "called"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "titledom",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the realm or domain of titles; a playful or rare coinage",
+          "examples": ["Scholars discussed the concept of titledom in medieval texts."],
+          "collocations": ["realm of titles", "title domain"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["academic", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "titleholder",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who holds a title (such as a champion or noble rank)",
+          "examples": [
+            "The titleholder defended the championship.",
+            "Each titleholder received a prize."
+          ],
+          "collocations": ["current titleholder", "defend the titleholder", "titleholder status"],
+          "synonyms": ["champion", "holder", "awardee"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "general"]
+        }
+      ]
+    },
+    {
+      "term": "titleholders",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of titleholder; people who hold titles",
+          "examples": [
+            "Various titleholders competed for the prize."
+          ],
+          "collocations": ["current titleholders", "past titleholders"],
+          "synonyms": ["champions", "holders"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "general"]
+        }
+      ]
+    },
+    {
+      "term": "titleholding",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of holding a title; tenure of a title",
+          "examples": ["Titleholding requires ongoing defense of status."],
+          "collocations": ["titleholding period", "secure titleholding"],
+          "synonyms": ["tenure", "holding"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "titleless",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without a title or heading; not titled",
+          "examples": ["The article was titleless, making its topic unclear."],
+          "collocations": ["titleless document", "titleless page"],
+          "synonyms": ["unheaded", "untitled"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "titlene",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rarely used or fictional term; does not have a standard meaning in modern English",
+          "examples": ["Titlene appears only in experimental texts."],
+          "collocations": ["fictional term", "nonce word"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "titleproof",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "something that proves or bears a title; a document showing ownership or rights",
+          "examples": ["The deed served as titleproof of ownership."],
+          "collocations": ["titleproof document", "provide titleproof"],
+          "synonyms": ["proof of title", "ownership proof"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "property"]
+        }
+      ]
+    },
+    {
+      "term": "titler",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that assigns titles or creates titles; in sports, a person who holds a championship title",
+          "examples": [
+            "The titler of the novel created the main character's official title.",
+            "The boxer became a titler after winning the match."
+          ],
+          "collocations": ["creative titler", "title designer", "championship titler"],
+          "synonyms": ["labeler", "namer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "titlers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of titler; people or things that assign or hold titles",
+          "examples": [
+            "The titlers in the committee decided on the final names."
+          ],
+          "collocations": ["title designers", "title assigners"],
+          "synonyms": ["labelers", "nammers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "titles",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of title; names given to books, songs, films, etc.; or formal ranks",
+          "examples": [
+            "The library catalog lists many titles.",
+            "Titles like Baron and Duke are noble ranks."
+          ],
+          "collocations": ["book titles", "movie titles", "titles and ranks"],
+          "synonyms": ["names", "headers", "labels"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to give a title to something; to refer to someone by a title",
+          "examples": [
+            "The author titles the chapter 'Adventure in the Desert'.",
+            "She titled him as the leading expert."
+          ],
+          "collocations": ["title a book", "title someone", "title the page"],
+          "synonyms": ["rename", "label"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literature", "education"]
+        }
+      ]
+    },
+    {
+      "term": "titleship",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or status of holding a title; the condition of being titled",
+          "examples": ["Her titleship was acknowledged by the council."],
+          "collocations": ["titleship status", "hold titleship"],
+          "synonyms": ["tenure", "nobility"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "society"]
+        }
+      ]
+    },
+    {
+      "term": "titlike",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resemling a title or having a title-like quality",
+          "examples": [
+            "The monument has a titlike inscription."
+          ],
+          "collocations": ["titlike features", "titlike shape"],
+          "synonyms": ["title-like", "nominal"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "titling",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of giving titles; the process of assigning names or headings",
+          "examples": [
+            "Titling the chapters helps readers navigate the book."
+          ],
+          "collocations": ["chapter titling", "title selection"],
+          "synonyms": ["naming", "labeling"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literature", "education"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle of title; to give a title to something",
+          "examples": [
+            "She is titling the essay this afternoon."
+          ],
+          "collocations": ["title something", "titleing (less common)"],
+          "synonyms": ["name", "label"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literature", "education"]
+        }
+      ]
+    },
+    {
+      "term": "titlings",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of titling; instances of giving titles or headings",
+          "examples": ["The various titlings of the chapters vary in style."],
+          "collocations": ["chapter titlings", "section titlings"],
+          "synonyms": ["naming", "headings"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "titlist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who compiles or holds lists of titles; a scholarly indexer of titles",
+          "examples": [
+            "The titlist organized a catalog of literary titles."
+          ],
+          "collocations": ["title titlist", "bibliographic titlist"],
+          "synonyms": ["indexer", "compiler"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic", "library"]
+        }
+      ]
+    },
+    {
+      "term": "titlists",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of titlist; people who compile or maintain lists of titles",
+          "examples": [
+            "Several titlists contributed to the catalog."
+          ],
+          "collocations": ["title titlists"],
+          "synonyms": ["indexers", "catalogers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic", "library"]
+        }
+      ]
+    },
+    {
+      "term": "titmal",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "a rare or invented term; no standard meaning",
+          "examples": ["The passage used a titmal term for stylistic effect."],
+          "collocations": ["titmal term"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "titmall",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fictional or placeholder mall named with a title-like word",
+          "examples": ["The novel visits Titmall, a bustling imaginary mall."],
+          "collocations": ["fictional mall"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "titman",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a man associated with titles; a fictional or rare proper noun",
+          "examples": ["Titman appeared in the legend as a herald."],
+          "collocations": ["Titman (proper noun)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "titmarsh",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a proper noun, likely a surname or place name; may appear in literature",
+          "examples": ["Titmarsh is used as a character name in the story."],
+          "collocations": ["Titmarsh (proper noun)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literature", "general"]
+        }
+      ]
+    }
+  ]
+}

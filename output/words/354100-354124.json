@@ -1,0 +1,539 @@
+{
+  "items": [
+    {
+      "term": "shalom",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Hebrew word meaning peace; used as a greeting or farewell among Jews and in phrases like 'peace be with you'.",
+          "examples": [
+            "He greeted us with 'shalom' and a smile.",
+            "They parted with shalom and good wishes."
+          ],
+          "collocations": ["shalom aleichem", "say/shout/offer shalom", "true shalom", "peaceful shalom"],
+          "synonyms": ["peace", "hello", "greeting"],
+          "antonyms": ["conflict", "war"],
+          "register": "neutral",
+          "domain": ["general", "religion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shaloms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shalom; refers to multiple instances of peace or greetings.",
+          "examples": [
+            "They exchanged several shaloms at the ceremony.",
+            "The group offered shaloms as they parted."
+          ],
+          "collocations": ["multiple shaloms", "offer shaloms"],
+          "synonyms": ["peace greetings"],
+          "antonyms": ["conflicts"],
+          "register": "neutral",
+          "domain": ["general", "religion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shalot",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small onion variety with a mild flavor, used in cooking.",
+          "examples": [
+            "She chopped a shallot and added it to the sauce.",
+            "Shallots provide a subtle sweetness to the dish."
+          ],
+          "collocations": ["shallot", "finely chopped shallots", "red shallots", "shallot bulb"],
+          "synonyms": ["shallot"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["cooking", "food"]
+        }
+      ]
+    },
+    {
+      "term": "shalots",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shallot; small allium vegetables used in cooking.",
+          "examples": [
+            "The recipe needs two shallots, finely sliced.",
+            "Roasted shallots bring depth to the gravy."
+          ],
+          "collocations": ["shallots", "two shallots", "roasted shallots"],
+          "synonyms": ["shallot"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["cooking", "food"]
+        }
+      ]
+    },
+    {
+      "term": "shalt",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "auxiliary_verb",
+          "definition": "archaic second person singular of shall; used in old or formal English to express obligation or command.",
+          "examples": [
+            "Thou shalt not steal.",
+            "If thou shalt work, thou shalt prosper."
+          ],
+          "collocations": ["thou shalt", "shalt not"],
+          "synonyms": ["shall"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature", "historical_language"]
+        }
+      ]
+    },
+    {
+      "term": "shalwar",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "loose-fitting trousers tied at the waist and ankles, worn in parts of South Asia and the Middle East; part of traditional dress (also spelled shalwar).",
+          "examples": [
+            "He wore a shalwar kameez for the festival.",
+            "The shalwar are comfortable in hot weather."
+          ],
+          "collocations": ["shalwar kameez", "baggy shalwar", "traditional shalwar"],
+          "synonyms": ["trousers", "pants (regional context)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["clothing", "culture", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "shalwars",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shalwar; loose trousers worn as part of traditional dress.",
+          "examples": [
+            "The women wore bright shalwars as part of their outfit.",
+            "They bought two pairs of shalwars and kurtas."
+          ],
+          "collocations": ["shalwars", "baggy shalwars"],
+          "synonyms": ["shalwar"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["clothing", "culture", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "shaly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a rocky, stony texture; of a rock or soil containing or resembling shale.",
+          "examples": [
+            "The landscape was shaly and difficult to walk on.",
+            "Shaly soils crack in the sun."
+          ],
+          "collocations": ["shaly rock", "shaly soil"],
+          "synonyms": ["shaly (stone-like)", "flaggy"], 
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "earth_science"]
+        }
+      ]
+    },
+    {
+      "term": "sham",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "something that is not genuine; a fake or pretend version of something.",
+          "examples": [
+            "The car was a sham; it looked good but broke quickly.",
+            "He exposed the sham of promises."
+          ],
+          "collocations": ["sham", "complete sham", "sham argument"],
+          "synonyms": ["fake", "bogus", "fraud"],
+          "antonyms": ["genuine", "real thing"],
+          "register": "neutral",
+          "domain": ["general", "critique", "culture"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to pretend something is real or true when it is not; to feign.",
+          "examples": [
+            "She shammed illness to avoid work.",
+            "He shammed confidence to hide his fear."
+          ],
+          "collocations": ["sham illness", "sham injury"],
+          "synonyms": ["pretend", "feign", "simulate"],
+          "antonyms": ["admit", "reveal"],
+          "register": "neutral",
+          "domain": ["behavior", "psychology"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "fake or pretend; not genuine.",
+          "examples": [
+            "a sham costume",
+            "the sham ceremony failed to fool anyone"
+          ],
+          "collocations": ["sham wedding", "sham document"],
+          "synonyms": ["fake", "bogus", "phony"],
+          "antonyms": ["genuine", "real"],
+          "register": "neutral",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shama",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of small Asian bird found in Asia, or a term in some cultures referring to a simple, sometimes sacred, name for a bird; also a type of bird named after the sacred songbird in some local languages.",
+          "examples": [
+            "The shama thrush is prized by cage bird enthusiasts.",
+            "In folklore, the shama is said to sing at dawn."
+          ],
+          "collocations": ["shama thrush", "shama bird"],
+          "synonyms": ["kogor", "common name varies by region"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shamable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be shammed or faked; capable of being pretended or deceived.",
+          "examples": [
+            "The checks are shamable if not properly verified.",
+            "That theory is shamable by simpler evidence."
+          ],
+          "collocations": ["shamable fraud", "shamable claim"],
+          "synonyms": ["susceptible to forgery", "falsifiable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "logic"]
+        }
+      ]
+    },
+    {
+      "term": "shamableness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being shamable; the degree to which something can be faked or feigned.",
+          "examples": [
+            "The shamableness of the claim was evident from its lack of evidence."
+          ],
+          "collocations": ["shamableness of the claim"],
+          "synonyms": ["fakability", "feignability"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["logic", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "shamably",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a shameless or deceptive manner; in a way that pretends to be something it is not.",
+          "examples": [
+            "He spoke shamably, trying to hide his fear.",
+            "The evidence was shamably presented to mislead the jury."
+          ],
+          "collocations": ["act shamably", "present shamably"],
+          "synonyms": ["deceitfully", "fraudulently"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shamal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a dry, dusty wind from the north-west or west in the Middle East; a regional term for a seasonal wind.",
+          "examples": [
+            "The shamal blew across the desert, reducing visibility.",
+            "During the shamal, temperatures dropped rapidly at night."
+          ],
+          "collocations": ["shamal wind", "strong shamal"],
+          "synonyms": ["dust wind", "northwesterly wind"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "meteorology"]
+        }
+      ]
+    },
+    {
+      "term": "shamalo",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a traditional garment or name that appears in some regional contexts; may refer to a shawl or wrap in certain languages; varies by region.",
+          "examples": [
+            "He wore a shamal odu scarf (regional term).",
+            "The elder wrapped a shamalo around their shoulders."
+          ],
+          "collocations": ["shamalo garment"],
+          "synonyms": ["wrap", "shawl"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "clothing"]
+        }
+      ]
+    },
+    {
+      "term": "shamals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shamal; regional winds or garments depending on locale.",
+          "examples": [
+            "The nomads spoke of several shamals passing through."
+          ],
+          "collocations": ["different shamals"],
+          "synonyms": ["shamal winds", "shawls (regionally)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shaman",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person believed to have a connection to the spiritual world who can heal or foretell things; a traditional healer or spiritual leader in some cultures.",
+          "examples": [
+            "The village shaman performed a ritual.",
+            "People sought counsel from the shaman during times of trouble."
+          ],
+          "collocations": ["shaman of the tribe", "village shaman", "shamanic practices"],
+          "synonyms": ["healer", "priest", "medicine man"],
+          "antonyms": ["scientist", "skeptic"],
+          "register": "neutral",
+          "domain": ["culture", "religion", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "shamaness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female shaman; a woman who acts as a spiritual healer or leader in certain cultures.",
+          "examples": [
+            "The elder shamaness led the ceremony.",
+            "Legends speak of powerful shamanesses who could heal the sick."
+          ],
+          "collocations": ["shamaness of the tribe", "female shaman"],
+          "synonyms": ["female shaman", "shamanka (regional)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "shamanic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to shamans or the practices of shamans; describing things associated with shamanism.",
+          "examples": [
+            "Shamanic rituals involve drumming and chanting.",
+            "The exhibit explored shamanic traditions across regions."
+          ],
+          "collocations": ["shamanic rituals", "shamanic journey", "shamanic tradition"],
+          "synonyms": ["shaman-related"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "religion", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "shamanism",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the practice of communicating with spirits and guiding others through rituals, typical of some indigenous cultures.",
+          "examples": [
+            "Shamanism includes trance, healing, and guidance rituals.",
+            "Researchers study shamanism in various tribes."
+          ],
+          "collocations": ["shamanism practices", "indigenous shamanism"],
+          "synonyms": ["spiritualism", "animism (context)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "religion", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "shamanisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shamanism; various forms or practices of shamans across cultures.",
+          "examples": [
+            "The book compares different shamanisms around the world."
+          ],
+          "collocations": ["different shamanisms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "religion", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "shamanist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who practices shamanism; a believer or participant in shamanic traditions.",
+          "examples": [
+            "The shamanist led the healing ceremony.",
+            "He studied shamanist practices for years."
+          ],
+          "collocations": ["shamanist practitioner", "shamanist traditions"],
+          "synonyms": ["shaman", "spiritual healer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "religion", "anthropology"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to shamans or shamanism.",
+          "examples": [
+            "shamanist rites",
+            "a shamanist worldview"
+          ],
+          "collocations": ["shamanist rites", "shamanist beliefs"],
+          "synonyms": ["shamanic"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "shamanistic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to shamans or shamanism; describing practices, beliefs, or art inspired by shamanic traditions.",
+          "examples": [
+            "The novel describes shamanistic rituals in vivid detail.",
+            "Musical pieces with shamanistic influences appeared in the exhibition."
+          ],
+          "collocations": ["shamanistic rituals", "shamanistic art"],
+          "synonyms": ["shamanic", "spiritual"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "religion", "art"]
+        }
+      ]
+    },
+    {
+      "term": "shamanists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who practice or follow shamanism; practitioners of shamanic traditions.",
+          "examples": [
+            "The group included several shamanists from neighboring regions."
+          ],
+          "collocations": ["shamanists of the region"],
+          "synonyms": ["shamans", "spiritual practitioners"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "religion", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "shamanize",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to influence or act in a shamanic manner; to use rituals or trance-like practices to reach a spiritual state.",
+          "examples": [
+            "The guide claims to shamanize participants through ritual drumming.",
+            "Some artists shamanize their performances to evoke visions."
+          ],
+          "collocations": ["shamanize people", "shamanize through ritual"],
+          "synonyms": ["enter trance", "ritualize"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "arts", "psychology"]
+        }
+      ]
+    }
+  ]
+}

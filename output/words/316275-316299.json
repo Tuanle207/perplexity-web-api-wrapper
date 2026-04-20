@@ -1,0 +1,517 @@
+{
+  "items": [
+    {
+      "term": "pyrolysates",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pyrolysate, a chemical substance produced by pyrolysis (the breakdown of materials by heat)",
+          "examples": [
+            "The reactor yielded several pyrolysates as the plastic decomposed.",
+            "Researchers identified compounds among the pyrolysates formed during pyrolysis."
+          ],
+          "collocations": ["pyrolysis products", "organic pyrolysates", "stable pyrolysates"],
+          "synonyms": ["pyrolysis product(s)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolyse",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of pyrolysis; the decomposition of substances by heat to form simpler compounds",
+          "examples": [
+            "The material was treated by pyrolyse to study its breakdown products.",
+            "Pyrolyse occurred at high temperatures in the absence of oxygen."
+          ],
+          "collocations": ["thermal pyrolyse", "laboratory pyrolyse"],
+          "synonyms": ["pyrolysis"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to cause or undergo pyrolysis; to thermally decompose a substance",
+          "examples": [
+            "The sample was pyrolyse to analyze its components.",
+            "Materials pyrolyse under high heat in inert conditions."
+          ],
+          "collocations": ["pyrolyse the sample", "pyrolyse under inert gas"],
+          "synonyms": ["pyrolyze"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolysed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of pyrolyze; having undergone pyrolysis",
+          "examples": [
+            "The polymer was pyrolysed to study its decomposition products.",
+            "Materials pyrolysed at high temperatures show different char structures."
+          ],
+          "collocations": ["pyrolysed material", "pyrolysed polymer"],
+          "synonyms": ["pyrolyzed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolyser",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or person that performs pyrolysis or facilitates thermal decomposition",
+          "examples": [
+            "The lab used a pyrolyser to break down samples.",
+            "An automated pyrolyser heated the material to initiate pyrolysis."
+          ],
+          "collocations": ["gas pyrolyser", "lab pyrolyser"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolysers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pyrolyser; devices or agents that perform pyrolysis",
+          "examples": [
+            "Different pyrolysers were tested for efficiency.",
+            "The collection of pyrolysers enabled parallel experiments."
+          ],
+          "collocations": ["multiple pyrolysers", "lab pyrolysers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolyses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pyrolysis; processes of thermally decomposing substances",
+          "examples": [
+            "Various organic pyrolyses occur under different heat conditions.",
+            "The yields depend on the details of the pyrolyses performed."
+          ],
+          "collocations": ["industrial pyrolyses", "thermal pyrolyses"],
+          "synonyms": ["pyrolysis processes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolysing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of pyrolyze; undergoing pyrolysis or causing thermal decomposition",
+          "examples": [
+            "The sample is pyrolysing at 600°C.",
+            "They are pyrolysing several polymers to compare product distributions."
+          ],
+          "collocations": ["pyrolysing material", "pyrolysing process"],
+          "synonyms": ["pyrolyzing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolysis",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "chemical decomposition of a substance by heat",
+          "examples": [
+            "Pyrolysis breaks down plastics into simpler chemicals.",
+            "The byproducts come from the pyrolysis of organic matter."
+          ],
+          "collocations": ["thermal pyrolysis", "gasification by pyrolysis"],
+          "synonyms": ["thermolysis"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "engineering", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolytic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to pyrolysis or produced by pyrolysis",
+          "examples": [
+            "Pyrolytic carbon is formed during high-temperature processing.",
+            "The pyrolytic products were analyzed for contaminants."
+          ],
+          "collocations": ["pyrolytic process", "pyrolytic carbon"],
+          "synonyms": ["thermochemical"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolytically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner related to pyrolysis; by means of pyrolysis",
+          "examples": [
+            "The compound was heated pyrolytically to study its breakdown products.",
+            "Pyrolytically treated samples showed different mineral content."
+          ],
+          "collocations": ["pyrolytically controlled", "pyrolytically generated"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolyzable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of undergoing pyrolysis",
+          "examples": [
+            "Many polymers are pyrolyzable at sufficiently high temperatures.",
+            "Not all materials are pyrolyzable under the same conditions."
+          ],
+          "collocations": ["pyrolyzable material", "pyrolyzable compound"],
+          "synonyms": ["thermolabile (informal)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolyzate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance produced by pyrolysis; a pyrolysis product",
+          "examples": [
+            "The pyrolyzate mixture was analyzed to identify components.",
+            "New pyrolyzates were detected during the process."
+          ],
+          "collocations": ["pyrolyzate mixture", "identified pyrolyzate"],
+          "synonyms": ["pyrolysis product"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolyzates",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pyrolyzate; substances produced by pyrolysis",
+          "examples": [
+            "Researchers collected several pyrolyzates from the reactor.",
+            "Different pyrolyzates indicate different decomposition pathways."
+          ],
+          "collocations": ["pyrolyzate products", "individual pyrolyzates"],
+          "synonyms": ["pyrolysis products"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolyze",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to heat a substance strongly so it decomposes",
+          "examples": [
+            "We will pyrolyze the sample to study its components.",
+            "The material is heated to pyrolyze under inert gas."
+          ],
+          "collocations": ["pyrolyze the sample", "pyrolyze under vacuum"],
+          "synonyms": ["thermolyze"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolyzed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of pyrolyze; has been heated to decompose",
+          "examples": [
+            "The sample was pyrolyzed to reveal its composition.",
+            "Pyrolyzed products were analyzed further."
+          ],
+          "collocations": ["pyrolyzed material", "pyrolyzed product"],
+          "synonyms": ["thermolyzed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolyzer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or person that performs pyrolysis",
+          "examples": [
+            "The pyrolyzer heated the sample to initiate decomposition.",
+            "An automated pyrolyzer speeds up analysis."
+          ],
+          "collocations": ["gas-phase pyrolyzer", "lab pyrolyzer"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolyzers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pyrolyzer; devices or people that perform pyrolysis",
+          "examples": [
+            "Several pyrolyzers were tested in parallel.",
+            "The lab added more pyrolyzers to increase throughput."
+          ],
+          "collocations": ["multiple pyrolyzers", "laboratory pyrolyzers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolyzes",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of pyrolyze; decomposes by heat",
+          "examples": [
+            "The sample pyrolyzes under the applied heat.",
+            "These materials pyrolyzes into simpler compounds."
+          ],
+          "collocations": ["it pyrolyzes", "material pyrolyzes"],
+          "synonyms": ["thermolyses"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyrolyzing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of pyrolyze; undergoing pyrolysis",
+          "examples": [
+            "The mixture is pyrolyzing at high temperature.",
+            "They are pyrolyzing various polymers to compare products."
+          ],
+          "collocations": ["pyrolyzing material", "pyrolyzing process"],
+          "synonyms": ["pyrolyzing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "pyromachy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a war or fighting involving fire; a fighting style emphasizing fire or flame",
+          "examples": [
+            "The novel uses pyromachy as a metaphor for political conflict.",
+            "Legends describe ancient battles marked by pyromachy."
+          ],
+          "collocations": ["ancient pyromachy", "pyromachy scenario"],
+          "synonyms": ["fire warfare (archaic)"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature", "history"]
+        }
+      ]
+    },
+    {
+      "term": "pyromagnetic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to both fire (pyro) and magnetism (magnetic); magnetic properties influenced by heat or fire",
+          "examples": [
+            "The study explores pyromagnetic effects in certain materials.",
+            "Pyromagnetic sensors respond to heat-induced magnetic changes."
+          ],
+          "collocations": ["pyromagnetic material", "pyromagnetic effect"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "physics", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "pyromancer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who practices or is skilled in fire magic; a fictional mage who controls fire",
+          "examples": [
+            "The pyromancer conjured flames from thin air.",
+            "In the game, the pyromancer unleashes blazing spells."
+          ],
+          "collocations": ["young pyromancer", "powerful pyromancer"],
+          "synonyms": ["fire mage"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fiction", "fantasy", "gaming"]
+        }
+      ]
+    },
+    {
+      "term": "pyromancers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of pyromancer; people who practice fire magic in fiction",
+          "examples": [
+            "The order includes several renowned pyromancers.",
+            "Many stories feature rival pyromancers competing for power."
+          ],
+          "collocations": ["group of pyromancers", "battle between pyromancers"],
+          "synonyms": ["fire mages"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fiction", "fantasy", "gaming"]
+        }
+      ]
+    },
+    {
+      "term": "pyromancies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "divination practices using fire; magical fire-based omens in fiction",
+          "examples": [
+            "The oracle performed pyromancies to predict the future.",
+            "In the fantasy world, pyromancies reveal hidden threats."
+          ],
+          "collocations": ["arcane pyromancies", "cult pyromancies"],
+          "synonyms": ["fire divination"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fiction", "fantasy", "occult"]
+        }
+      ]
+    },
+    {
+      "term": "pyromancy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the practice of predicting the future by interpreting flames or fire signals",
+          "examples": [
+            "They studied ancient pyromancy scrolls.",
+            "Pyromancy was once considered a serious form of divination."
+          ],
+          "collocations": ["ancient pyromancy", "practice of pyromancy"],
+          "synonyms": ["fire divination"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fiction", "history", "occult"]
+        }
+      ]
+    }
+  ]
+}

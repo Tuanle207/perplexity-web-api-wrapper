@@ -1,0 +1,449 @@
+{
+  "items": [
+    {
+      "term": "shavester",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who shaves or shaves a lot, especially someone who shaves animals or people frequently",
+          "examples": ["The barber called himself a skilled shavester.", "Local legends spoke of a shavester who could shave a beard in a single stroke."],
+          "collocations": ["professional shavester", "shaving session", "beard shavester"],
+          "synonyms": ["barber", "razorist"],
+          "antonyms": ["unshaver", "unshaven"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "shavetail",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the tail of a shaved animal or the tail of someone who has shaved; a phrase sometimes used for a shavings byproducts or a decorative tassel connected to a whaleboat signal",
+          "examples": ["The ship displayed a shavetail pennant.", "They found a shavetail in the workshop remnants."],
+          "collocations": ["shavetail flag", "shavetail rope"],
+          "synonyms": ["tassel", "tail"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shavetails",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shavetail; tails or tassels from shaved animals or decorative tails in certain contexts",
+          "examples": ["They collected several shavetails from the shipyard.", "Shavetails were pinned to the sail as ornaments."],
+          "collocations": ["collect shavetails", "shavetails display"],
+          "synonyms": ["tassels", "tails"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shaveweed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of weed or plant known for being shaved or trimmed; alternatively a historical name for a certain seaweed used in shaving soaps",
+          "examples": ["The gardener pulled out some shaveweed from the bed.", "Shaveweed soap was popular in old apothecaries."],
+          "collocations": ["sea shaveweed", "shaveweed extract"],
+          "synonyms": ["weed", "seaweed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "shavian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to George Bernard Shaw or his ideas; also describing a style associated with his writings",
+          "examples": ["A Shavian play explores social reform.", "The novel has Shavian dialogue."],
+          "collocations": ["Shavian writer", "Shavian drama"],
+          "synonyms": [" Shawian", "george-bernard-shaw-inspired"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "shaviana",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fictional or cultural concept associated with Shavian movements or individuals inspired by Shaw; may appear in literary or fan contexts",
+          "examples": ["The exhibit celebrated Shaviana culture in the arts section."],
+          "collocations": ["Shaviana culture", "Shaviana movement"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shavianism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the philosophy or literary style associated with Shaw, often focusing on social reform and wit",
+          "examples": ["Scholars debated Shavianism in the seminar.", "Her essay analyzed elements of Shavianism in modern theater."],
+          "collocations": ["Shavianism in literature", "Shavianism movement"],
+          "synonyms": ["Shavian philosophy"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "shavians",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who follow or study Shavianism; admirers of Shaw's ideas",
+          "examples": ["The Shavians gathered for a symposium.", "Shavians published new critiques of Shaw."],
+          "collocations": ["Shavians gathering", "Shavians writings"],
+          "synonyms": ["Shavianists"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "shavie",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a dialectal or informal term for a person who shaves; variant spelling of shavie",
+          "examples": ["The barber was known as a skilled shavie."],
+          "collocations": ["local shavie", "shavie shop"],
+          "synonyms": ["shaver", "barber"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "shavies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shavie; informal term for people who shave or small shaving implements",
+          "examples": ["The shop sold shavies along with razors."],
+          "collocations": ["shavies collection", "shavies shop"],
+          "synonyms": ["shavers"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "shaving",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of removing hair with a blade or razor",
+          "examples": ["He is shaving before work.", "A clean shaving can change a man's look."],
+          "collocations": ["wet shaving", "shaving cream", "daily shaving"],
+          "synonyms": ["razoring", "depilation (informal)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "fashion"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the shavings produced when something is shaved",
+          "examples": ["The cat left shaving on the bench."],
+          "collocations": ["wood shavings", "metal shavings"],
+          "synonyms": ["shavings", "shavings pile"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "craft"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle of shave; to remove hair from the face or body with a blade",
+          "examples": ["She is shaving now.", "He shaves every morning."],
+          "collocations": ["shaving cream", "electric shaver"],
+          "synonyms": ["razing", "manscaping (informal)"],
+          "antonyms": ["growing", "unshaven"],
+          "register": "neutral",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "shavings",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "small pieces of material shaved off from a surface, such as wood or metal",
+          "examples": ["The carpenter swept up the wood shavings.", "Metal shavings were found near the machine."],
+          "collocations": ["wood shavings", "metal shavings", "shavings tray"],
+          "synonyms": ["shavings pieces", "chips"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "shaw",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a shawl or wrap worn around the shoulders; also a place name or surname in some contexts",
+          "examples": ["She wore a warm shaw to bed.", "Shaw is also a surname in many families."],
+          "collocations": ["knitted shaw", "shawl or shaw wrapper"],
+          "synonyms": ["shawl", "wrap"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shawabti",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an Egyptian funerary figurine placed in tombs to serve the deceased in the afterlife",
+          "examples": ["Ancient tombs often contained many shawabtis."],
+          "collocations": ["funerary shawabti", "Nile valley shawabti"],
+          "synonyms": ["ushabti", "shabti"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shawanese",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people belonging to the Shawano or related Native American tribes; alternative historical spelling",
+          "examples": ["The Shawanese tribe gifted handmade crafts."],
+          "collocations": ["Shawanese people", "Shawanese language"],
+          "synonyms": ["Shawano", "people of Shawano"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "cultural"]
+        }
+      ]
+    },
+    {
+      "term": "shawano",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place name or a people group associated with a specific region; may appear in geographic contexts",
+          "examples": ["The festival of Shawano attracted visitors."],
+          "collocations": ["Shawano county", "Shawano tribe"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shawarma",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Middle Eastern grilled meat wrap, typically served in flatbread with vegetables and sauce",
+          "examples": ["We shared a chicken shawarma for lunch.", "The restaurant offers beef shawarma with garlic sauce."],
+          "collocations": ["chicken shawarma", "beef shawarma", "vegetarian shawarma"],
+          "synonyms": ["doner kebab", "gyros" ],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "shawarmas",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shawarma",
+          "examples": ["We ordered two shawarmas and shared them."],
+          "collocations": ["beef shawarmas", "chicken shawarmas"],
+          "synonyms": ["shawarma wraps"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "shawed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of shaw; to cut, trim, or shave with a cutting edge",
+          "examples": ["He shawed the hedge neatly.", "The barber shawed his beard in minutes."],
+          "collocations": ["shawed neatly", "shawed down"],
+          "synonyms": ["trimmed", "shaved"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shawfowl",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a bird, often a term for a chicken or similar fowl, sometimes used in dialects",
+          "examples": ["A shawfowl wandered near the farmyard."],
+          "collocations": ["family shawfowl", "shawfowl coop"],
+          "synonyms": ["chicken", "hen"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "shawing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of trimming or shaving; sometimes used in sports or crafts to describe trimming actions",
+          "examples": ["The craftsman was busy with shawing of the wood."],
+          "collocations": ["shawing process", "shaving and shawing"],
+          "synonyms": ["trimming", "shaving"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "general"]
+        }
+      ]
+    },
+    {
+      "term": "shawl",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a piece of fabric worn around the shoulders or head for warmth or decoration",
+          "examples": ["She wore a colorful shawl over her dress.", "The shawl kept her warm on the chilly evening."],
+          "collocations": ["knitted shawl", "silk shawl", "shawl pin"],
+          "synonyms": ["wrap", "shawl"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shawled",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "wearing a shawl",
+          "examples": ["She was shawled against the cold night air."],
+          "collocations": ["shawled woman", "shawled shoulders"],
+          "synonyms": ["shrouded", "wrapped"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shawley",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun / proper_noun",
+          "definition": "a surname or place-name in English-speaking contexts",
+          "examples": ["The Shawley family attended the reunion."],
+          "collocations": ["Shawley family", "Shawley road"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "shawleys",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of Shawley; families or individuals with the surname Shawley",
+          "examples": ["The Shawleys moved to Canada."],
+          "collocations": ["Shawleys residence", "the Shawley siblings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture"]
+        }
+      ]
+    }
+  ]
+}

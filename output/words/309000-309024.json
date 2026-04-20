@@ -1,0 +1,618 @@
+{
+  "items": [
+    {
+      "term": "programmatist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who deliberately creates or modifies programs or code, often with a focus on programming as a craft",
+          "examples": [
+            "The programmatist spent hours refining the code, ensuring every line was efficient.",
+            "As a programmatist, she treated software design as an art as well as a science."
+          ],
+          "collocations": [
+            "expert programmatist",
+            "skilled programmatist",
+            "senior programmatist",
+            "coding as a programmatist",
+            "hacker and programmatist"
+          ],
+          "synonyms": ["programmer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general", "career"]
+        }
+      ]
+    },
+    {
+      "term": "programme",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a planned series of activities or events; a schedule or list of things that will happen",
+          "examples": [
+            "The conference programme lists all the talks for the day.",
+            "She followed the evening's programme step by step."
+          ],
+          "collocations": [
+            "event programme",
+            "television programme",
+            "festival programme",
+            "short programme",
+            "programme schedule"
+          ],
+          "synonyms": ["schedule", "agenda", "itinerary"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "events", "media"]
+        }
+      ]
+    },
+    {
+      "term": "programmed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a fixed plan or set of instructions; trained or conditioned to behave in a certain way",
+          "examples": [
+            "The robot is programmed to respond to voice commands.",
+            "She felt like the routine had programmed her day from morning to night."
+          ],
+          "collocations": [
+            "well programmed",
+            "self-programmed",
+            "programmed response",
+            "programmed behavior"
+          ],
+          "synonyms": ["preprogrammed", "coded"],
+          "antonyms": ["unprogrammed", "untrained"],
+          "register": "formal",
+          "domain": ["technology", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to set up or teach a machine or system to perform a task according to a plan",
+          "examples": [
+            "The device was programmed to shut off after five minutes.",
+            "They programmed the software to run nightly backups."
+          ],
+          "collocations": [
+            "programmed to",
+            "be programmed",
+            "programmed routine",
+            "programmed instruction"
+          ],
+          "synonyms": ["coded", "configured"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "programmer",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who writes computer programs",
+          "examples": [
+            "The programmer debugging the app found several errors.",
+            "Many programmers work remotely for tech companies."
+          ],
+          "collocations": [
+            "software programmer",
+            "senior programmer",
+            "junior programmer",
+            "programmer email",
+            "programmer role"
+          ],
+          "synonyms": ["coder", "software engineer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "employment"]
+        }
+      ]
+    },
+    {
+      "term": "programmers",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of programmer; multiple people who write computer programs",
+          "examples": [
+            "The project required several programmers from different departments.",
+            "Programmers collaborated to fix the security flaw."
+          ],
+          "collocations": [
+            "team of programmers",
+            "experienced programmers",
+            "programmers with",
+            "hiring programmers"
+          ],
+          "synonyms": ["coders"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "employment"]
+        }
+      ]
+    },
+    {
+      "term": "programmes",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "British spelling of programs; a planned series of events or activities, or a TV/radio show",
+          "examples": [
+            "The BBC broadcast a new educational programmes tonight.",
+            "He enrolled in several language learning programmes."
+          ],
+          "collocations": [
+            "cultural programmes",
+            "educational programmes",
+            "television programmes",
+            "research programmes"
+          ],
+          "synonyms": ["programs", "shows"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media", "general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "programming",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the activity of writing computer programs; the craft of creating software",
+          "examples": [
+            "Programming requires logical thinking and attention to detail.",
+            "Her programming skills improved after taking a course."
+          ],
+          "collocations": [
+            "computer programming",
+            "functional programming",
+            "web programming",
+            "learning programming"
+          ],
+          "synonyms": ["coding"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "education"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the act of scheduling or arranging activities in a plan",
+          "examples": [
+            "The festival's programming included music, dance, and workshops."
+          ],
+          "collocations": [
+            "festival programming",
+            "curate programming",
+            "event programming"
+          ],
+          "synonyms": ["curation of events"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["events", "arts", "general"]
+        }
+      ]
+    },
+    {
+      "term": "programmings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of programming; infrequent or erroneous plural used in some contexts",
+          "examples": [
+            "The report listed several programmings from different departments."
+          ],
+          "collocations": [
+            "various programmings"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "programmist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or rare term for a person who writes computer programs",
+          "examples": [
+            "The old manual referred to the programmer as a programmist."
+          ],
+          "collocations": [
+            "elder programmist",
+            "retired programmist"
+          ],
+          "synonyms": ["programmer", "coder"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["technology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "programmng",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "likely a misspelling of programming; no established sense",
+          "examples": [
+            "Note the misspelling programmng in the document."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "programs",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of program; planned activities or a set of software instructions",
+          "examples": [
+            "The device runs several programs.",
+            "They watched educational programs on TV."
+          ],
+          "collocations": [
+            "software programs",
+            "mobile programs",
+            "educational programs",
+            "government programs"
+          ],
+          "synonyms": ["applications", "software"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "media", "general"]
+        }
+      ]
+    },
+    {
+      "term": "progravid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "rare or obscure term; not widely used in modern English",
+          "examples": [
+            "The manuscript included a note on pro gravid conditions."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "progrede",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "not a recognized standard English word; likely a misspelling",
+          "examples": [
+            "Check for progrede in the draft."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "progrediency",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare, historical, or technical term related to progress; not common in modern usage",
+          "examples": [
+            "The text discusses progrediency in medical history."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["academic", "history"]
+        }
+      ]
+    },
+    {
+      "term": "progredient",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "less common term meaning progressing or advancing",
+          "examples": [
+            "The progredient movement improved the project's pace."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "progress",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "movement toward a goal; improvement over time",
+          "examples": [
+            "We can track progress on the project each week.",
+            "Her progress has been steady since the course began."
+          ],
+          "collocations": [
+            "make progress",
+            "slow progress",
+            "rapid progress",
+            "documented progress",
+            "visible progress"
+          ],
+          "synonyms": ["advancement", "improvement", "development"],
+          "antonyms": ["setback", "regression"],
+          "register": "neutral",
+          "domain": ["general", "education", "work"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to move forward or advance; to improve over time",
+          "examples": [
+            "If you work daily, you will progress quickly.",
+            "The project progressed despite delays."
+          ],
+          "collocations": [
+            "progress slowly",
+            "progress through",
+            "progress over time",
+            "progress report"
+          ],
+          "synonyms": ["advance", "develop"],
+          "antonyms": ["regress", "decline"],
+          "register": "neutral",
+          "domain": ["general", "education", "work"]
+        }
+      ]
+    },
+    {
+      "term": "progressed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of progress; moved forward or advanced",
+          "examples": [
+            "The discussion progressed to the main issue.",
+            "Over the years, the company progressed from a startup to a multinational."
+          ],
+          "collocations": [
+            "progressed steadily",
+            "progressed rapidly",
+            "progressed through stages"
+          ],
+          "synonyms": ["advanced", "moved forward"],
+          "antonyms": ["regressed", "stagnated"],
+          "register": "neutral",
+          "domain": ["general", "business", "education"]
+        }
+      ]
+    },
+    {
+      "term": "progresser",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one who progresses; a person who makes progress",
+          "examples": [
+            "He is a progresser in the field of renewable energy."
+          ],
+          "collocations": [
+            "notable progresser",
+            "progress progresser"
+          ],
+          "synonyms": ["advancer", "developer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "progresses",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of progress; moves forward or improves",
+          "examples": [
+            "The project progresses despite challenges.",
+            "She progresses toward her goal each day."
+          ],
+          "collocations": [
+            "progresses slowly",
+            "progresses well",
+            "as progresses"
+          ],
+          "synonyms": ["advances", "improves"],
+          "antonyms": ["regresses", "stagnates"],
+          "register": "neutral",
+          "domain": ["general", "work"]
+        }
+      ]
+    },
+    {
+      "term": "progressing",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of progress; currently moving forward or developing",
+          "examples": [
+            "The project is progressing well.",
+            "She spoke about progressing through the training program."
+          ],
+          "collocations": [
+            "progressing steadily",
+            "progressing through",
+            "progressing toward"
+          ],
+          "synonyms": ["advancing", "developing"],
+          "antonyms": ["receding", "regressing"],
+          "register": "neutral",
+          "domain": ["general", "work", "education"]
+        }
+      ]
+    },
+    {
+      "term": "progression",
+        "kind": "word",
+        "cefrLevel": "A2",
+        "senses": [
+          {
+            "pos": "noun",
+            "definition": "the process of developing or moving forward; a sequence of events or stages",
+            "examples": [
+              "The progression of the story is smooth.",
+              "Walking is a progression from inactivity to fitness."
+            ],
+            "collocations": [
+              "natural progression",
+              "progression of steps",
+              "musical progression",
+              "disease progression"
+            ],
+            "synonyms": ["development", "advance", "sequence"],
+            "antonyms": [],
+            "register": "neutral",
+            "domain": ["general", "education", "science"]
+          }
+        ]
+    },
+    {
+      "term": "progressional",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to progression or a progression; used in some technical or literary contexts",
+          "examples": [
+            "They discussed progressional changes in the policy."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "progressionally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows progression or advancing steps",
+          "examples": [
+            "The difficulty increases progressionally throughout the course."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "progressionary",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to progression; used in technical or academic contexts",
+          "examples": [
+            "Progressionary patterns were observed in the data."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "progressionism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an ideological or methodological emphasis on progression; a speculative or historical term",
+          "examples": [
+            "The text discusses progressionism in social theory."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["academic", "philosophy"]
+        }
+      ]
+    }
+  ]
+}

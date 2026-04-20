@@ -1,0 +1,343 @@
+{
+  "items": [
+    {
+      "term": "requisitionist",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who makes an official request for goods or services",
+          "examples": ["The requisitionist submitted a request for new equipment."],
+          "collocations": ["official requisitionist", "department requisitionist", "authorized requisitionist"],
+          "synonyms": ["requester", "applicant"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "government"]
+        }
+      ]
+    },
+    {
+      "term": "requisitionists",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who make official requests for goods or services",
+          "examples": ["Requisitionists must follow strict procedures."],
+          "collocations": ["authorized requisitionists", "multiple requisitionists"],
+          "synonyms": ["requesters", "applicants"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "requisitions",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "official requests for goods or services",
+          "examples": ["The office processed several requisitions today."],
+          "collocations": ["submit requisitions", "purchase requisitions", "approved requisitions"],
+          "synonyms": ["requests", "orders"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business"]
+        },
+        {
+          "pos": "verb",
+          "definition": "takes goods or property for official use, often by authority",
+          "examples": ["The army requisitions supplies during emergencies."],
+          "collocations": ["requisitions supplies", "requisitions property"],
+          "synonyms": ["seizes", "commandeers"],
+          "antonyms": ["return", "release"],
+          "register": "formal",
+          "domain": ["military", "government"]
+        }
+      ]
+    },
+    {
+      "term": "requisitor",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who demands or takes something by authority",
+          "examples": ["The requisitor claimed the equipment for official use."],
+          "collocations": ["official requisitor", "government requisitor"],
+          "synonyms": ["seizer", "claimer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["government"]
+        }
+      ]
+    },
+    {
+      "term": "requisitorial",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "related to making demands or official requests",
+          "examples": ["He used a requisitorial tone in his letter."],
+          "collocations": ["requisitorial demand", "requisitorial process"],
+          "synonyms": ["demanding"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "requisitors",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who demand or take items by authority",
+          "examples": ["The requisitors arrived to collect supplies."],
+          "collocations": ["official requisitors"],
+          "synonyms": ["seizers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["government"]
+        }
+      ]
+    },
+    {
+      "term": "requisitory",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "expressing a request or demand",
+          "examples": ["The email had a requisitory tone."],
+          "collocations": ["requisitory message"],
+          "synonyms": ["requesting", "demanding"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "requit",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to repay or return something, especially kindness or harm",
+          "examples": ["She tried to requit his generosity."],
+          "collocations": ["requit kindness", "requit favor"],
+          "synonyms": ["repay", "return"],
+          "antonyms": ["ignore"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "requitable",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be repaid or returned",
+          "examples": ["Such kindness is hardly requitable."],
+          "collocations": ["requitable favor"],
+          "synonyms": ["repayable"],
+          "antonyms": ["irrepayable"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "requital",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "something given in return for a favor or harm",
+          "examples": ["He received no requital for his efforts."],
+          "collocations": ["fair requital", "just requital"],
+          "synonyms": ["repayment", "return"],
+          "antonyms": ["neglect"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "requite",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to give something in return, especially for kindness or love",
+          "examples": ["He could not requite her love."],
+          "collocations": ["requite love", "requite kindness"],
+          "synonyms": ["repay", "return"],
+          "antonyms": ["ignore", "neglect"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "requited",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "returned or given back, especially of feelings",
+          "examples": ["It was a requited love."],
+          "collocations": ["requited love"],
+          "synonyms": ["returned"],
+          "antonyms": ["unrequited"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "requiteful",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "inclined to repay or return actions",
+          "examples": ["He was requiteful toward those who helped him."],
+          "collocations": ["requiteful attitude"],
+          "synonyms": ["grateful"],
+          "antonyms": ["ungrateful"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "requiteless",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not repaid or returned",
+          "examples": ["Her kindness remained requiteless."],
+          "collocations": ["requiteless effort"],
+          "synonyms": ["unreturned"],
+          "antonyms": ["requited"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "requite",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": []
+    },
+    {
+      "term": "requote",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to give a new price or repeat a quoted statement",
+          "examples": ["The supplier will requote the price tomorrow."],
+          "collocations": ["requote price", "requote estimate"],
+          "synonyms": ["reprice"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "rerack",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to place something back onto a rack or shelf",
+          "examples": ["Please rerack the weights after use."],
+          "collocations": ["rerack weights", "rerack items"],
+          "synonyms": ["restock", "replace"],
+          "antonyms": ["remove"],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "reradiate",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to emit energy or heat again after absorbing it",
+          "examples": ["The surface reradiates heat at night."],
+          "collocations": ["reradiate heat", "reradiate energy"],
+          "synonyms": ["reemit"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "reradiation",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of emitting energy again after absorption",
+          "examples": ["Reradiation affects climate systems."],
+          "collocations": ["thermal reradiation"],
+          "synonyms": ["reemission"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "rerail",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to put a train or vehicle back onto its track",
+          "examples": ["Workers rerail the train after the accident."],
+          "collocations": ["rerail train", "rerail carriage"],
+          "synonyms": ["restore"],
+          "antonyms": ["derail"],
+          "register": null,
+          "domain": ["transport"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "items": [
+    {
+      "term": "solum",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the part of a living plant that is beneath ground; the soil or earth in which roots grow",
+          "examples": ["The plant's roots were deep in the solum."],
+          "collocations": ["soil solum", "deep solum", "undisturbed solum"],
+          "synonyms": ["soil", "ground"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "solums",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of solum; the parts of soil that contain the root zone",
+          "examples": ["The study compared several solums across different sites."],
+          "collocations": ["solums across sites", "soil solums"],
+          "synonyms": ["soils", "root zones"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "solunar",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to both solar and lunar influences, especially on animal behavior (as in solunar fishing or hunting forecasts)",
+          "examples": ["Solunar tables predict peak fishing times."],
+          "collocations": ["solunar table", "solunar forecast", "solunar activity"],
+          "synonyms": ["lunisolar"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "solus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having sole or solitary status; only; single",
+          "examples": ["He is working solus on the project."],
+          "collocations": ["solus owner", "solus device"],
+          "synonyms": ["sole", "exclusive", "only"],
+          "antonyms": ["shared", "joint"],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "solutal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a solution or solutes; dissolved substances",
+          "examples": ["solutal concentrations in the solution were measured."],
+          "collocations": ["solutal concentration", "solutal content"],
+          "synonyms": ["solvent-related"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "solute",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance dissolved in another substance",
+          "examples": ["Salt is the solute in this solution."],
+          "collocations": ["dissolve solute", "solute concentration", "solutes in water"],
+          "synonyms": ["dissolved substance"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "solutes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of solute; substances dissolved in a solvent",
+          "examples": ["Several solutes were identified in the sample."],
+          "collocations": ["solutes detected", "varying solutes"],
+          "synonyms": ["dissolved substances"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "solutio",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Latin term meaning 'solution'; used in some scientific or historical texts",
+          "examples": ["In ancient writings, solutio referred to a solution."],
+          "collocations": ["solutio in text", "historical solutio"],
+          "synonyms": ["solution (Latin)"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["academic", "history"]
+        }
+      ]
+    },
+    {
+      "term": "solution",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an answer to a problem; the act of solving a problem",
+          "examples": ["We need a solution to this issue."],
+          "collocations": ["find a solution", "optimal solution", "solution to the puzzle"],
+          "synonyms": ["answer", "resolution", "result"],
+          "antonyms": ["problem"],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a liquid mixture where a substance (solute) is dissolved",
+          "examples": ["Salt forms a solution when dissolved in water."],
+          "collocations": ["salt solution", "sugar solution", "base solution"],
+          "synonyms": ["mixture", "aqueous solution"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "chemistry"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "serving to solve a problem or improve a situation; effective",
+          "examples": ["They found a solution approach that works."],
+          "collocations": ["solution approach", "solution method"],
+          "synonyms": ["effective", "remedial"],
+          "antonyms": ["problematic"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "solutional",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a solution or dissolution; pertaining to solubility",
+          "examples": ["solutional properties describe how substances dissolve."],
+          "collocations": ["solutional properties", "solutional behavior"],
+          "synonyms": ["solvent-related"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "solutioned",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to cause to become a solution; to dissolve or solve (nonstandard/rare form)",
+          "examples": ["The salt solutioned completely in water."],
+          "collocations": ["solutioned completely"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "solutioner",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who provides solutions; problem solver",
+          "examples": ["She is a skilled solutioner in engineering."],
+          "collocations": ["chief solutioner", "team of solutioners"],
+          "synonyms": ["solver", "problem-solver"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "solutioning",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of creating or implementing solutions",
+          "examples": ["Solutioning is ongoing to address the issue."],
+          "collocations": ["solutioning process", "innovation through solutioning"],
+          "synonyms": ["solving", "designing solutions"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "solutionis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Latin term or mistaken form; not commonly used in modern English except as a root or in scholarly Latin phrases",
+          "examples": ["The term solutionis appears in the old manuscript."],
+          "collocations": ["solutionis fidei (Latin)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "history"]
+        }
+      ]
+    },
+    {
+      "term": "solutionist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who promotes or seeks ready-made solutions to complex problems",
+          "examples": ["He is known as a solutionist in tech circles."],
+          "collocations": ["marketing solutionist", "true solutionist"],
+          "synonyms": ["problem-solver", "innovator"],
+          "antonyms": ["skeptic"],
+          "register": "neutral",
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "solutionists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of solutionist; people who promote ready-made solutions",
+          "examples": ["The conference gathered several solutionists."],
+          "collocations": ["group of solutionists"],
+          "synonyms": ["problem-solvers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "solutions",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of solution; answers to problems or methods to solve them",
+          "examples": ["There are many possible solutions to this puzzle."],
+          "collocations": ["multiple solutions", "the best solution", "creative solutions"],
+          "synonyms": ["answers", "resolutions", "remedies"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "solutive",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to solving or capable of solving; serving to solve",
+          "examples": ["a solutive approach to problems."],
+          "collocations": ["solutive reasoning", "solutive method"],
+          "synonyms": ["solving", "solvent"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "solutize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to convert into a solution or dissolve; to dissolve or mix substances",
+          "examples": ["They attempted to solutize the compound in water."],
+          "collocations": ["solutize the compound", "solutize with acid"],
+          "synonyms": ["dissolve", "solubilize"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "solutizer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a thing or person that solubilizes or dissolves substances; a solvent or agent that aids dissolution",
+          "examples": ["The solutizer helped dissolve the crystals."],
+          "collocations": ["solutizer agent", "chemical solutizer"],
+          "synonyms": ["dissolver", "solvent"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "solutory",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "serving to dissolve or solve; related to solution",
+          "examples": ["solutory steps in the protocol."],
+          "collocations": ["solutory steps", "solutory measure"],
+          "synonyms": ["solving", "dissolving"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "science"]
+        }
+      ]
+    },
+    {
+      "term": "solutrean",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the Solutrean culture of prehistoric Europe; named after the Solutre rock shelter",
+          "examples": ["Solutrean artifacts were found at the site."],
+          "collocations": ["Solutrean culture", "Solutrean artifacts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "solutus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Latin for 'loosened' or 'unbound'; used in some scholarly phrases",
+          "examples": ["in solutus senis (Latin)"],
+          "collocations": ["solutus phrase"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["academic", "history"]
+        }
+      ]
+    },
+    {
+      "term": "solv",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to loosen or solve; root relating to solving or solving problems",
+          "examples": ["to solv a puzzle quickly (archaic spelling)."],
+          "collocations": ["solv a puzzle"],
+          "synonyms": ["solve", "unravel"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "solvaated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "likely a misspelling or rare form; no standard meaning in contemporary English",
+          "examples": ["No common usage found for 'solvaated'."] ,
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    }
+  ]
+}

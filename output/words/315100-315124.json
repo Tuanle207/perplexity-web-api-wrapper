@@ -1,0 +1,597 @@
+{
+  "items": [
+    {
+      "term": "purificator",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or instrument used to purify or filter substances, especially in religious contexts where it is used to symbolize purification.",
+          "examples": [
+            "The priest swung the purificator during the ritual as a sign of cleansing."
+          ],
+          "collocations": [
+            "silent purificator",
+            "cloth purificator",
+            "purificator used in ceremony"
+          ],
+          "synonyms": ["filter", "purifier (device)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "ceremony"]
+        }
+      ]
+    },
+    {
+      "term": "purificators",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of purificator; multiple devices or items used to purify or cleanse substances or spaces, often in ceremonial contexts.",
+          "examples": [
+            "The church stored several purificators for the religious season."
+          ],
+          "collocations": [
+            "ceremonial purificators",
+            "religious purificators",
+            "set of purificators"
+          ],
+          "synonyms": ["filters", "purifiers (devices)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "ceremony"]
+        }
+      ]
+    },
+    {
+      "term": "purificatory",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to purification or the act of purifying.",
+          "examples": [
+            "The purificatory rites were performed before the festival.",
+            "They sought purificatory waters at the sacred site."
+          ],
+          "collocations": [
+            "purificatory rites",
+            "purificatory process",
+            "purificatory ritual"
+          ],
+          "synonyms": ["cleansing", "purifying"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "ritual"]
+        }
+      ]
+    },
+    {
+      "term": "purified",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "made pure by removing unwanted substances or contaminants.",
+          "examples": [
+            "The purified water is safe to drink.",
+            "Purified air helps people breathe easier."
+          ],
+          "collocations": [
+            "highly purified",
+            "purified water",
+            "purified by filtration"
+          ],
+          "synonyms": ["clean", "cleaned", "filtered"],
+          "antonyms": ["impure", "contaminated"],
+          "register": "neutral",
+          "domain": ["general", "science", "environment"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to make something pure by removing contaminants.",
+          "examples": [
+            "They purified the sample in the lab.",
+            "The system purifies the water automatically."
+          ],
+          "collocations": [
+            "purified by",
+            "purified water",
+            "purifier process"
+          ],
+          "synonyms": ["cleanse", "refine", "filter"],
+          "antonyms": ["contaminate", "pollute"],
+          "register": "neutral",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "purifier",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or substance that removes impurities from air, water, or other substances.",
+          "examples": [
+            "An air purifier helps reduce dust in the room.",
+            "Water purifiers remove bacteria."
+          ],
+          "collocations": [
+            "air purifier",
+            "water purifier",
+            "purifier system"
+          ],
+          "synonyms": ["filter", "cleanser", "remover"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "purifiers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of purifier; multiple devices or substances that remove impurities.",
+          "examples": [
+            "The lab installed several purifiers to ensure clean air."
+          ],
+          "collocations": [
+            "industrial purifiers",
+            "purifiers for water",
+            "air and water purifiers"
+          ],
+          "synonyms": ["filters", "cleaners"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "purifies",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "makes something clean or free from impurities or contaminants.",
+          "examples": [
+            "This process purifies drinking water.",
+            "The filters purify the air."
+          ],
+          "collocations": [
+            "purifies water",
+            "purifies air",
+            "purifies the substance"
+          ],
+          "synonyms": ["cleanses", "filters", "refines"],
+          "antonyms": ["contaminates", "pollutes"],
+          "register": "neutral",
+          "domain": ["science", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "puriform",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a form that resembles a pear-shaped or puriform outline.",
+          "examples": [
+            "The fruit has a puriform shape."
+          ],
+          "collocations": [
+            "puriform nose (rare)",
+            "puriform structure"
+          ],
+          "synonyms": ["pear-shaped", "pyriform"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "descriptive"]
+        }
+      ]
+    },
+    {
+      "term": "purify",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something pure by removing dirt, impurities, or harmful substances.",
+          "examples": [
+            "We need to purify the water before drinking.",
+            "Charcoal helps purify the air."
+          ],
+          "collocations": [
+            "purify water",
+            "purify air",
+            "purify the sample"
+          ],
+          "synonyms": ["cleanse", "clean", "filter"],
+          "antonyms": ["pollute", "contaminate"],
+          "register": "neutral",
+          "domain": ["science", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "purifying",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of making something pure by removing impurities.",
+          "examples": [
+            "Purifying the water is essential for safety."
+          ],
+          "collocations": [
+            "purifying process",
+            "purifying filter"
+          ],
+          "synonyms": ["cleansing", "filtering"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "purim",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Jewish festival (Purim), commemorating the saving of the Jews from Haman's plot as told in the Book of Esther.",
+          "examples": [
+            "Purim is celebrated with costumes and reading the Megillah."
+          ],
+          "collocations": [
+            "Purim festival",
+            "Purim celebration",
+            "reading of the Megillah on Purim"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["religion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "purin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical or biological term sometimes used to refer to purine derivatives; in biology, purines are a class of molecules.",
+          "examples": [
+            "Purins are building blocks in DNA and RNA."
+          ],
+          "collocations": [
+            "purin derivatives",
+            "purine base",
+            "purine synthesis"
+          ],
+          "synonyms": ["purine derivatives"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "purine",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of nitrogen-containing compound (a purine) that forms part of DNA and RNA; it also refers to the purine base adenine or guanine.",
+          "examples": [
+            "Adenine is a purine base in DNA.",
+            "Purines pair with pyrimidines in nucleic acids."
+          ],
+          "collocations": [
+            "purine base",
+            "purine synthesis",
+            "adenine and guanine are purines"
+          ],
+          "synonyms": ["purine base", "nucleobase"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "purines",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plural of purine; the purine bases in nucleic acids such as adenine and guanine.",
+          "examples": [
+            "Purines pair with pyrimidines in DNA."
+          ],
+          "collocations": [
+            "purines in DNA",
+            "purines and pyrimidines"
+          ],
+          "synonyms": ["purine bases"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "puring",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "dialectal or archaic form relating to purifying; not common in modern standard English.",
+          "examples": [
+            "In old texts, they spoke of puring the streams."
+          ],
+          "collocations": [],
+          "synonyms": ["purifying"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "history"]
+        }
+      ]
+    },
+    {
+      "term": "purins",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "nonstandard or erroneous form; likely intended as purine or purines in scientific contexts.",
+          "examples": [
+            "The manuscript had several occurrences of purins instead of purines."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["academic", "linguistic"]
+        }
+      ]
+    },
+    {
+      "term": "puriri",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "puriri, a species of flowering tree native to New Zealand (Beilschmiedia tarairi or Coprosma chathamica depending on spelling).",
+          "examples": [
+            "The puriri tree is valued for its hard timber."
+          ],
+          "collocations": [
+            "puriri wood",
+            "puriri tree"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "botany", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "puriris",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of puriri; references to multiple puriri trees or items named after the tree.",
+          "examples": [
+            "The grove includes several puriris."
+          ],
+          "collocations": [
+            "puriris grove",
+            "puriri tree collection"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "puris",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of puris; uncommon, may refer to tissues or contexts named after Latin 'puri' root; not common in standard modern English.",
+          "examples": [
+            "Historical texts mention puris in reference to anatomy."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["medical", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "purism",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a belief that language, art, or other fields should adhere strictly to traditional rules or forms.",
+          "examples": [
+            "Some writers are critics of purism in English spelling.",
+            "Purism can limit creative expression."
+          ],
+          "collocations": [
+            "linguistic purism",
+            "artistic purism",
+            "national purism"
+          ],
+          "synonyms": ["orthodoxy", "strictness"],
+          "antonyms": ["liberalism", "experimentalism"],
+          "register": "formal",
+          "domain": ["language", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "purisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of purism; practices or expressions that embody purism.",
+          "examples": [
+            "The essay discussed the purisms of the academy."
+          ],
+          "collocations": [
+            "linguistic purisms",
+            "cultural purisms"
+          ],
+          "synonyms": ["orthodoxies"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["language", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "purist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who insists on strict adherence to traditional rules or standards.",
+          "examples": [
+            "He is a purist when it comes to spelling."
+          ],
+          "collocations": [
+            "language purist",
+            "musical purist",
+            "purist approach"
+          ],
+          "synonyms": ["orthodox", "stickler"],
+          "antonyms": ["liberal", "moderate"],
+          "register": "neutral",
+          "domain": ["language", "culture"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to a purist; emphasizing strict adherence to tradition.",
+          "examples": [
+            "Purist expectations shaped the project."
+          ],
+          "collocations": [
+            "purist standard",
+            "purist philosophy"
+          ],
+          "synonyms": ["orthodox", "strict"],
+          "antonyms": ["liberal", "flexible"],
+          "register": "neutral",
+          "domain": ["language", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "puristic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "showing or relating to purism; strict about rules and forms.",
+          "examples": [
+            "Her puristic views on typography influenced the design."
+          ],
+          "collocations": [
+            "puristic approach",
+            "puristic standards"
+          ],
+          "synonyms": ["purist", "orthodox"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["language", "design"]
+        }
+      ]
+    },
+    {
+      "term": "puristical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to purism; very formal or doctrinaire in mode.",
+          "examples": [
+            "Puristical debates can hinder practical work."
+          ],
+          "collocations": [
+            "puristical debate",
+            "puristical stance"
+          ],
+          "synonyms": ["puristic"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["language", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "puristically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a puristic manner; with strict adherence to rules or forms.",
+          "examples": [
+            "He speaks puristically, rarely bending grammar rules."
+          ],
+          "collocations": [
+            "speaks puristically",
+            "puristically correct"
+          ],
+          "synonyms": ["orthodoxly"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["language", "culture"]
+        }
+      ]
+    }
+  ]
+}

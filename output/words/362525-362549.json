@@ -1,0 +1,429 @@
+{
+  "items": [
+    {
+      "term": "smithed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the past tense of smith, meaning to shape or forge metal by heating and hammering it.",
+          "examples": ["The blacksmith smithed the iron into a decorative gate."],
+          "collocations": ["smithed metal", "smithed into", "carefully smithed"],
+          "synonyms": ["forged", "tempered"],
+          "antonyms": ["unshaped", "unforged"],
+          "register": "formal",
+          "domain": ["technology", "general", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "smither",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who forges metal; a smith.",
+          "examples": ["The old smither worked at the anvil all morning."],
+          "collocations": ["local smither", "retired smither", "master smither"],
+          "synonyms": ["blacksmith", "metalworker"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "craft", "work"]
+        }
+      ]
+    },
+    {
+      "term": "smithereen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a single small piece; a fragment, usually of something that has broken.",
+          "examples": ["A smithereen of glass flew across the room."],
+          "collocations": ["a smithereen of", "every smithereen", "shattered smithereens (variant)"],
+          "synonyms": ["fragment", "shard", "splinter"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "emergency"]
+        }
+      ]
+    },
+    {
+      "term": "smithereened",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past participle of smithereen, used metaphorically to mean smashed to pieces.",
+          "examples": ["The vase was smithereened by the careless throw."],
+          "collocations": ["smithereened vase", "smithereened into dust"],
+          "synonyms": ["shattered", "demolished"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "informal"]
+        }
+      ]
+    },
+    {
+      "term": "smithereening",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of smashing into small pieces; breaking into fragments.",
+          "examples": ["The plate was smithereening after the fall."],
+          "collocations": ["smithereening glass", "ongoing smithereening"],
+          "synonyms": ["shattering", "smashing"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "smithereens",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "fragments or tiny pieces; pieces into which something has been smashed.",
+          "examples": ["The mug broke into smithereens."],
+          "collocations": ["in smithereens", "shattered into smithereens"],
+          "synonyms": ["fragments", "shards"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "smitheries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "places where smithing is done; workshops of smiths; smithy-like works.",
+          "examples": ["The quiet smitheries around the harbor smell of metal."],
+          "collocations": ["local smitheries", "ancient smitheries"],
+          "synonyms": ["smithies", "workshops"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "smithers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "people who smith; plural form of smither; can also be a surname.",
+          "examples": ["The smithers tested a new hammer."],
+          "collocations": ["local smithers", "craftsman smithers"],
+          "synonyms": ["blacksmiths", "metalworkers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "smithery",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the craft or trade of smiths; the place where smiths work.",
+          "examples": ["He studied at the smithery to learn metalwork."],
+          "collocations": ["quality smithery", "old smithery"],
+          "synonyms": ["smithing", "metalwork"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "smithfield",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a historical place in London known for meat markets; also a breed or type name in some contexts; can refer to a location named Smithfield.",
+          "examples": ["They visited Smithfield Market in London."],
+          "collocations": ["Smithfield Market", "Smithfield meat"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "smithian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a follower or believer of the ideas of Adam Smith; a Smithian.",
+          "examples": ["Smithians debated economics at the lecture."],
+          "collocations": ["classic Smithian", "Smithian economics"],
+          "synonyms": ["Adam Smith admirer", "classical economist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "smithianism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the economic doctrine associated with Adam Smith; classical liberal economics.",
+          "examples": ["Smithianism influenced 19th-century policy ideas."],
+          "collocations": ["Smithianism", "economic Smithianism"],
+          "synonyms": ["classical liberalism", "laissez-faire economics"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "smithied",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of smithy meaning 'to mold or shape something like a smith' or to embellish with metalwork; also spelled smith'ied in some contexts.",
+          "examples": ["They smithied the gate with decorative ironwork."],
+          "collocations": ["smithied metal", "carefully smithied"],
+          "synonyms": ["shaped", "worked"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "smithier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative form of smithy; more like a smith in skill or nature; more skilled in metalwork.",
+          "examples": ["This blade is smithier than the others."],
+          "collocations": ["more smithy", "smithier craft"],
+          "synonyms": ["better-forged", "more skilled"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "smithies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smithy; places where smiths work or the trade of smiths collectively.",
+          "examples": ["The smithies were quiet at dawn."],
+          "collocations": ["local smithies", "historic smithies"],
+          "synonyms": ["workshops", "smitheries"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "historic"]
+        }
+      ]
+    },
+    {
+      "term": "smithing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the activity of shaping metal by heating and hammering; the craft of a smith.",
+          "examples": ["He learned smithing to craft decorative hardware."],
+          "collocations": ["practice of smithing", "smithing skills"],
+          "synonyms": ["metalworking", "forging"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smithings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smithing; instances or kinds of smithing work.",
+          "examples": ["They admired several smithings on display."],
+          "collocations": ["various smithings", "smithings collection"],
+          "synonyms": ["forgings", "metalwork"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "smithite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mineral; a zinc arsenate mineral sometimes associated with smithsonite; a term in geology.",
+          "examples": ["The geologist noted smithite crystals."],
+          "collocations": ["smithite specimen", "brown smithite"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "smiths",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural of smith)",
+          "definition": "people who forge metal; skilled workers who shape metal by heating and hammering.",
+          "examples": ["The smiths in the village made fine knives."],
+          "collocations": ["local smiths", "silver smiths", "blacksmiths"],
+          "synonyms": ["blacksmiths", "metalworkers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "smithsonian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "referring to the Smithsonian Institution, a group of museums and research centers in the United States; may appear in phrases like 'Smithsonian Institution' or 'Smithsonian magazine'.",
+          "examples": ["We visited the Smithsonian in Washington, D.C."],
+          "collocations": ["Smithsonian Institution", "Smithsonian magazine"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["culture", "education", "museum"]
+        }
+      ]
+    },
+    {
+      "term": "smithsonite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mineral consisting of zinc carbonate, usually with a pinkish or greenish hue.",
+          "examples": ["The gem displayed smithsonite crystals."],
+          "collocations": ["smithsonite specimen", "pink smithsonite"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "smithsonites",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smithsonite; various specimens of the mineral.",
+          "examples": ["Collectors displayed several smithsonites."],
+          "collocations": ["smithsonites on display"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "smithum",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a black, poisonous substance in ancient or mythic contexts; sometimes used poetically to mean a tool or trick for forging metal.",
+          "examples": ["Legends spoke of the smithum blade."],
+          "collocations": ["legendary smithum"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fantasy", "myth"]
+        }
+      ]
+    },
+    {
+      "term": "smithwork",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the work of a smith; metalwork or craftsmanship with metal.",
+          "examples": ["The gate featured intricate smithwork."],
+          "collocations": ["ornate smithwork", "smithwork details"],
+          "synonyms": ["metalwork", "forging"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "art"]
+        }
+      ]
+    },
+    {
+      "term": "smithy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a blacksmith’s workshop; a place where metal is forged.",
+          "examples": ["The smithy hummed with the sound of hammering."],
+          "collocations": ["the smithy", "in the smithy"],
+          "synonyms": ["forge", "workshop"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "general"]
+        }
+      ]
+    }
+  ]
+}

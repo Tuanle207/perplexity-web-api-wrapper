@@ -1,0 +1,486 @@
+{
+  "items": [
+    {
+      "term": "signer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who signs something, such as a document, or who signs in a public context",
+          "examples": [
+            "The signer of the contract must initial each page.",
+            "The autograph signer stood beside the celebrity for photos."
+          ],
+          "collocations": ["signer of the contract", "authorized signer", "signature signer"],
+          "synonyms": ["endorser", "signatory"],
+          "antonyms": ["signatory (opposite sense)", "non-signer"],
+          "register": "formal",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "signers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of signer; multiple people who sign something or who sign autographs",
+          "examples": [
+            "The signers of the petition gathered to present it.",
+            "The room contained several famous signers after the event."
+          ],
+          "collocations": ["signers of the petition", "autograph signers"],
+          "synonyms": ["endorsers", "signatories"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "signet",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small seal used to imprint a design onto wax as a mark of authentication; a ring or seal",
+          "examples": [
+            "The king wore his signet ring on his finger.",
+            "She pressed the signet into the wax to seal the letter."
+          ],
+          "collocations": ["signet ring", "signet seal", "royal signet"],
+          "synonyms": ["seal", "emblem"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "history", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "signeted",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "marked with a signet or possessing an official seal",
+          "examples": [
+            "A signeted document carried the royal approval.",
+            "The signeted ring bore the family's crest."
+          ],
+          "collocations": ["signeted document", "signeted ring"],
+          "synonyms": ["sealed", "emblemed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "law"]
+        }
+      ]
+    },
+    {
+      "term": "signeting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of applying a signet or seal (rare usage)",
+          "examples": [
+            "Signeting was essential to authenticate the document."
+          ],
+          "collocations": ["signeting process"],
+          "synonyms": ["sealing", "branding"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["historical", "legal"]
+        }
+      ]
+    },
+    {
+      "term": "signets",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of signet; seals or devices used to imprint an emblem",
+          "examples": [
+            "The signets on the letters indicated official approval.",
+            "The signets were kept in a velvet-lined box."
+          ],
+          "collocations": ["royal signets", "family signets"],
+          "synonyms": ["seals", "emblems"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "polity"]
+        }
+      ]
+    },
+    {
+      "term": "signetur",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a variant or misspelling related to signet terms; not widely used in modern English",
+          "examples": [
+            "The term signetur appears in some medieval glossaries."
+          ],
+          "collocations": ["signetur term"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "signetwise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner related to a signet or seal; by seal or emblem",
+          "examples": [
+            "The document was sealed signetwise, confirming its authenticity."
+          ],
+          "collocations": ["seal signetwise"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "signeur",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a lord or noble person; a variant of 'signeur' used in some English texts",
+          "examples": [
+            "The signeur ruled the lands with measured justice."
+          ],
+          "collocations": ["local signeur", "feudal signeur"],
+          "synonyms": ["lord", "noble"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "signeurie",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the domain or lordship of a signeur; feudal lordship",
+          "examples": [
+            "The signeurie included several villages and a castle."
+          ],
+          "collocations": ["signeurie rights", "feudal signeurie"],
+          "synonyms": ["lordship", "domain"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "signeuries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of signeury, an old term for lordship or signory",
+          "examples": [
+            "The signeuries were inherited lands governed by a noble."
+          ],
+          "collocations": ["signeries", "signory rights"],
+          "synonyms": ["signory", "lordship"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "signeury",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an old or rare term for lordship or authority over a domain",
+          "examples": [
+            "The signeury was granted by the crown."
+          ],
+          "collocations": ["signeury rights"],
+          "synonyms": ["lordship", "domain"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "signieur",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who signs, especially in French-influenced historical contexts",
+          "examples": [
+            "The signieur placed his seal on the treaty."
+          ],
+          "collocations": ["signieur of the treaty"],
+          "synonyms": ["signer"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "signieurs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of signieur; multiple signers",
+          "examples": [
+            "The signieurs confirmed the agreement."
+          ],
+          "collocations": ["signieurs of the treaty"],
+          "synonyms": ["signers"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "signifer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a bearer or carrier; one who carries a sign or emblem",
+          "examples": [
+            "The signifer carried the standard into battle."
+          ],
+          "collocations": ["signifer of the banner"],
+          "synonyms": ["bearer", "emblem bearer"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "signifiable",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being signified or signified; able to be signaled or indicated through signs",
+          "examples": [
+            "The data is signifiable as a trend when plotted over time."
+          ],
+          "collocations": ["signifiable data", "signifiable pattern"],
+          "synonyms": ["signifiable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "data"]
+        }
+      ]
+    },
+    {
+      "term": "signifiant",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a concept from semiotics referring to the sign as a form that conveys meaning; sometimes used in French-influenced scholarly contexts",
+          "examples": [
+            "In semiotics, signifiant is the form that conveys meaning."
+          ],
+          "collocations": ["signifiant term"],
+          "synonyms": ["signifier"], 
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["linguistics", "semiotics"]
+        }
+      ]
+    },
+    {
+      "term": "signific",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or consisting of signs; signifying",
+          "examples": [
+            "The signific style of the manuscript drew scholars' attention."
+          ],
+          "collocations": ["signific meaning", "signific value"],
+          "synonyms": ["signifying", "meaningful"],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["linguistics", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "significal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to significance or meaning; not commonly used",
+          "examples": [
+            "The term has a significal role in the theory."
+          ],
+          "collocations": ["significal meaning"],
+          "synonyms": ["significant", "meaningful"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "significance",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the importance or meaning of something",
+          "examples": [
+            "What is the significance of this result?",
+            "The significance of the finding was clear."
+          ],
+          "collocations": ["great significance", "cultural significance", "social significance"],
+          "synonyms": ["importance", "meaning", "consequence"],
+          "antonyms": ["insignificance", "triviality"],
+          "register": "neutral",
+          "domain": ["general", "education", "science"]
+        }
+      ]
+    },
+    {
+      "term": "significances",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of significance; multiple important meanings or meanings",
+          "examples": [
+            "The significances of the experiment are numerous."
+          ],
+          "collocations": ["social significances", "historical significances"],
+          "synonyms": ["importances", "meanings"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "history"]
+        }
+      ]
+    },
+    {
+      "term": "significancies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an uncommon plural form relating to significance or things that signify",
+          "examples": [
+            "The significancies of the symbols were debated by scholars."
+          ],
+          "collocations": ["cultural significancies"],
+          "synonyms": ["significances"],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["linguistics", "cultural studies"]
+        }
+      ]
+    },
+    {
+      "term": "significancy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being significant; importance or meaning",
+          "examples": [
+            "The significancy of the result was questioned by peers."
+          ],
+          "collocations": ["statistical significancy (note: common usage is 'significance')"],
+          "synonyms": ["importance", "meaning"],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["statistics", "research"]
+        }
+      ]
+    },
+    {
+      "term": "significand",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the part of a number that contains the significant digits in scientific notation",
+          "examples": [
+            "In scientific notation, the significand is multiplied by a power of ten."
+          ],
+          "collocations": ["significand digits", "normalized significand"],
+          "synonyms": ["mantissa"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science", "mathematics"]
+        }
+      ]
+    },
+    {
+      "term": "significant",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "important or meaningful; not trivial",
+          "examples": [
+            "This is a significant milestone for the project.",
+            "There are several significant differences between the two methods."
+          ],
+          "collocations": ["significant impact", "significant change", "statistically significant"],
+          "synonyms": ["important", "meaningful", "notable"],
+          "antonyms": ["insignificant", "minor"],
+          "register": "neutral",
+          "domain": ["general", "education", "science"]
+        }
+      ]
+    }
+  ]
+}

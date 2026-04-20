@@ -1,0 +1,460 @@
+{
+  "items": [
+    {
+      "term": "profaculty",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A nonstandard or fictional term not widely recognized in standard English; may be coined to refer to a faculty or expert in a hypothetical or satirical context.",
+          "examples": ["The novel introduces a mysterious profaculty who teaches strange arts."],
+          "collocations": ["profaculty status", "hidden profaculty"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["literary", "fiction"]
+        }
+      ]
+    },
+    {
+      "term": "profamily",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A made-up or rare term suggesting a professional or guided form of family; not established in standard English.",
+          "examples": ["A profamily model of kinship appears in the satire."],
+          "collocations": ["profamily unit", "profamily policy"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "profanable",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Capable of being profaned or treated with irreverence.",
+          "examples": ["The temple ground was profanable by modern events."],
+          "collocations": ["profanable space", "profanable relic"],
+          "synonyms": ["desacralizable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+        ,
+        {
+          "pos": "adjective",
+          "definition": "Not sacred or holy; capable of being desecrated.",
+          "examples": ["Some argue the site is profanable and should be respected."],
+          "collocations": ["profanable site", "profanable object"],
+          "synonyms": ["desecrable"],
+          "antonyms": ["sacred", "hallowed"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "profanableness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality of being profanable; not sacred or sacred space that can be desecrated.",
+          "examples": ["The profanableness of the site caused controversy."],
+          "collocations": ["level of profanableness", "profanableness rating"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "profanably",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a profanable or desecratable manner; irreverently.",
+          "examples": ["The ceremony was profanably interrupted by loud music."],
+          "collocations": ["profanably interrupted", "profanably treated"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "profanation",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of treating something sacred with disrespect or irreverence.",
+          "examples": ["The profanation of the temple shocked the community."],
+          "collocations": ["religious profanation", "profanation of symbols"],
+          "synonyms": ["desacralization", "disrespect"],
+          "antonyms": ["reverence", "sanctification"],
+          "register": "formal",
+          "domain": ["general", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "profanations",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple acts of profanation; instances of desecration.",
+          "examples": ["The profanations reported included graffiti on sacred sites."],
+          "collocations": ["several profanations", "recent profanations"],
+          "synonyms": ["desacralizations"],
+          "antonyms": ["reverences", "sanctifications"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "profanatory",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Aiming to profane; intended to desecrate or disrespect.",
+          "examples": ["The artifact was described as profanatory in nature."],
+          "collocations": ["profanatory act", "profanatory language"],
+          "synonyms": ["desecratory"],
+          "antonyms": ["sacred", "holy"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "profanchise",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A fictitious or rare term; could be construed as a blend of 'profane' and 'franchise' suggesting corporate irreverence; not standard.",
+          "examples": ["The company embraced profanchise as a satirical concept."],
+          "collocations": ["profanchise model"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literary", "business"]
+        }
+      ]
+    },
+    {
+      "term": "profane",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not sacred; relating to ordinary life or to common, worldly things.",
+          "examples": ["The building has a profane, modern design."],
+          "collocations": ["profane language", "profane objects", "profane thoughts"],
+          "synonyms": ["secular", "worldly"],
+          "antonyms": ["sacred", "holy"],
+          "register": "neutral",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To treat something sacred with disrespect or to desecrate; to make something less holy or respected.",
+          "examples": ["They profane a grave with graffiti."],
+          "collocations": ["profane the temple", "profane a ritual"],
+          "synonyms": ["desecrate", "disrespect"],
+          "antonyms": ["consecrate", "sanctify"],
+          "register": "neutral",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "profaned",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of profane; treated something sacred with disrespect.",
+          "examples": ["They profaned the shrine by painting on it."],
+          "collocations": ["profaned the site", "profaned objects"],
+          "synonyms": ["desecrated"],
+          "antonyms": ["consecrated", "sanctified"],
+          "register": "neutral",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "profanely",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a profane or disrespectful way; irreverently.",
+          "examples": ["He spoke profanely about sacred matters."],
+          "collocations": ["profanely spoken", "profanely used language"],
+          "synonyms": ["disrespectfully"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "profanement",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of profaning; the action of disrespecting something sacred.",
+          "examples": ["The profanement of the relic caused outrage."],
+          "collocations": ["act of profanement"],
+          "synonyms": ["desecration"],
+          "antonyms": ["reverence"],
+          "register": "formal",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "profaneness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality of being profane; lack of reverence or sacredness.",
+          "examples": ["Some criticized the profaneness of the ceremony."],
+          "collocations": ["utter profaneness", "moral profaneness"],
+          "synonyms": ["disrespect", "impiety"],
+          "antonyms": ["reverence", "piety"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "profanenesses",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple instances of profaneness; acts of disrespect.",
+          "examples": ["The profanenesses in the speech angered many listeners."],
+          "collocations": ["multiple profanenesses"],
+          "synonyms": ["disrespects"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "profaner",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "One who profanes or disrespects something sacred; a desecrator.",
+          "examples": ["The profaner was confronted by the community."],
+          "collocations": ["local profaner", "accused profaner"],
+          "synonyms": ["desecrator"],
+          "antonyms": ["reverer"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "profANers",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of profaner; people who profane or desecrate.",
+          "examples": ["Various profaners were named in the report."],
+          "collocations": ["group of profANers"],
+          "synonyms": ["desecrators"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "profanes",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Items or acts that profane; acts of desecration.",
+          "examples": ["Such profanes shocked the religious community."],
+          "collocations": ["religious profanes"],
+          "synonyms": ["desecrations"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "profaning",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "The act of profaning; desecrating something sacred.",
+          "examples": ["Profing the relics is forbidden by law."],
+          "collocations": ["profaning the shrine"],
+          "synonyms": ["desecrating"],
+          "antonyms": ["consecrating", "sanctifying"],
+          "register": "neutral",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "profanism",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Support or advocacy of profane or irreverent behavior; a belief or practice that tolerates desecration.",
+          "examples": ["Pro-fanism in the piece questions sacred boundaries."],
+          "collocations": ["profanism tendencies"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "profanities",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Words or phrases considered rude or offensive; strong language.",
+          "examples": ["He uttered several profanities during the argument."],
+          "collocations": ["strong profanities", "use profanities", "recorded profanities"],
+          "synonyms": ["swear words", "curse words"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["language", "education"]
+        }
+      ]
+    },
+    {
+      "term": "profanity",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Strong language considered rude or offensive; a swear word or crude expression.",
+          "examples": ["She apologized for using profanity in class."],
+          "collocations": ["foul profanity", "use profanity"],
+          "synonyms": ["swear words", "curse words"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["language", "education"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Disrespect or irreverence toward something sacred; the act of being profane.",
+          "examples": ["The film faced criticism for profanity toward religious symbols."],
+          "collocations": ["profanity against", "tone of profanity"],
+          "synonyms": ["desecration", "disrespect"],
+          "antonyms": ["reverence", "piety"],
+          "register": "neutral",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "profanize",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To profane or desecrate; to treat something sacred with disrespect.",
+          "examples": ["They profanize sacred grounds with graffiti."],
+          "collocations": ["profanez sacred sites"],
+          "synonyms": ["desecrate", "disrespect"],
+          "antonyms": ["consecrate", "sanctify"],
+          "register": "neutral",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "profarmer",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A farmer who grows crops using professional methods; a coined term not widely used.",
+          "examples": ["The profarmer uses data to optimize yields."],
+          "collocations": ["professional farmer", "data-driven profarmer"],
+          "synonyms": ["professional farmer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "profascism",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A critical or satirical term referring to strong or extreme fascist tendencies.",
+          "examples": ["The essay warned against profascism in politics."],
+          "collocations": ["rise of profascism", "profascism ideology"],
+          "synonyms": ["extreme fascism"],
+          "antonyms": ["antifascism"],
+          "register": "formal",
+          "domain": ["politics", "history"]
+        }
+      ]
+    }
+  ]
+}

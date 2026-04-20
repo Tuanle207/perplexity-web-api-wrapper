@@ -1,0 +1,627 @@
+{
+  "items": [
+    {
+      "term": "cartas",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun plural",
+          "definition": "A misspelling or alternative spelling of 'cards' or a term used in some languages; not a standard English word with a widely recognized meaning.",
+          "examples": [
+            "Note: 'cartas' is not commonly used in English outside of error or specialized contexts."
+          ],
+          "collocations": ["playing cartas", "deck of cartas", "cartas game"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "cartboot",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A boot used for carting or a boot in a cart; not a standard English term; likely a nonce or dialectal form.",
+          "examples": [
+            "In some dialects, a 'cart boot' might refer to a boot used for loading into a cart."
+          ],
+          "collocations": ["cart boot", "load into cart boot"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "cartbote",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An obscure or misspelled form; not a recognized English word.",
+          "examples": [
+            "The form 'cartbote' appears only as a variant in certain lists and is not standard English."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "carte",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "In some cuisines, a 'carte' refers to a menu of a restaurant (from French 'carte menu').",
+          "examples": [
+            "The waiter handed us the carte before we ordered.",
+            "She studied the wine carte for a suitable pairing."
+          ],
+          "collocations": ["a la carte", "carte menu", "wine carte"],
+          "synonyms": ["menu", "bill of fare"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["food", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "In cards or gaming, 'carte' can refer to a card or card deck term in some contexts (from French).",
+          "examples": [
+            "He drew a powerful carte from the deck."
+          ],
+          "collocations": ["carte card", "card carte"],
+          "synonyms": ["card"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["gaming", "general"]
+        }
+      ]
+    },
+    {
+      "term": "carted",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of 'cart' meaning to transport goods in a cart or to remove or carry away in a cart.",
+          "examples": [
+            "They carted the crates to the loading dock."
+          ],
+          "collocations": ["carted away", "carted items", "carted goods"],
+          "synonyms": ["hauled", "toted"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "cartel",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A group of independent companies or suppliers that collude to control prices or markets.",
+          "examples": [
+            "The oil cartel agreed on production cuts.",
+            "A cartel can influence supply and prices in a market."
+          ],
+          "collocations": ["drug cartel", "oil cartel", "cartel agreement"],
+          "synonyms": ["trust", "monopoly group", "syndicate"],
+          "antonyms": ["competition", "market freedom"],
+          "register": "formal",
+          "domain": ["business", "economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelisation",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process or act of forming a cartel; the creation or becoming part of a cartel.",
+          "examples": [
+            "Cartelisation reduced competition in the market.",
+            "Authorities warned against cartelisation in the industry."
+          ],
+          "collocations": ["cartelisation process", "economic cartelisation"],
+          "synonyms": ["collusion", "monopolisation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelisations",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of cartelisation; instances or processes of forming cartels.",
+          "examples": [
+            "There have been multiple cartelisations across sectors."
+          ],
+          "collocations": ["cartelisations across industries"],
+          "synonyms": ["collusions", "monopolisations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelise",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To form or become part of a cartel; to collude to control a market.",
+          "examples": [
+            "Companies may cartelise to fix prices."
+          ],
+          "collocations": ["cartelise prices", "cartelise industry"],
+          "synonyms": ["collude", "monopolise"],
+          "antonyms": ["compete", "deregulate"],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelised",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past participle of 'cartelise'; having formed or been part of a cartel.",
+          "examples": [
+            "The market was cartelised for several years."
+          ],
+          "collocations": ["cartelised market", "cartelised price"],
+          "synonyms": ["colluded", "monopolised"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelises",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third-person singular present of 'cartelise'; forms or facilitates cartel activity.",
+          "examples": [
+            "The company cartelises the industry to control output."
+          ],
+          "collocations": ["cartelises prices", "cartelises competition"],
+          "synonyms": ["colludes", "monopolises"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelising",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of 'cartelise'; the act of forming a cartel.",
+          "examples": [
+            "The industry is cartelising, which may raise prices."
+          ],
+          "collocations": ["cartelising markets", "cartelising prices"],
+          "synonyms": ["colluding", "monopolising"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Belief in or practice of cartel-like behavior; the ideology or policy of forming cartels.",
+          "examples": [
+            "Critics argued that cartelism harmed consumers."
+          ],
+          "collocations": ["economic cartelism", "political cartelism"],
+          "synonyms": ["collusionism", "monopolism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "cartelisms",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of cartelism; multiple instances or ideas of cartel-like practice.",
+          "examples": [
+            "Various cartelisms appeared across different markets."
+          ],
+          "collocations": ["cartelisms in industry"],
+          "synonyms": ["collusionisms"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "cartelist",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who forms or supports a cartel; a cartel advocate.",
+          "examples": [
+            "He was labeled a cartelist by competitors."
+          ],
+          "collocations": ["cartelist group", "cartelist member"],
+          "synonyms": ["colluder", "monopolist"],
+          "antonyms": ["competitor", "opponent"],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelistic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or supporting cartel behavior; like a cartel.",
+          "examples": [
+            "A cartelistic approach raised concerns about fairness."
+          ],
+          "collocations": ["cartelistic practices", "cartelistic tendencies"],
+          "synonyms": ["collusive", "monopolistic"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelists",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of cartelist; people who form or support cartels.",
+          "examples": [
+            "Cartelists argued for limited competition."
+          ],
+          "collocations": ["cartelist members"],
+          "synonyms": ["colluders", "monopolists"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelization",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Alternative spelling of cartelization; the process of forming a cartel.",
+          "examples": [
+            "Cartelization can limit market competition."
+          ],
+          "collocations": ["process of cartelization"],
+          "synonyms": ["cartelisation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelizations",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of cartelization; multiple instances of forming cartels.",
+          "examples": [
+            "There were several cartelizations in the region."
+          ],
+          "collocations": ["cartelizations across sectors"],
+          "synonyms": ["cartelisations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelize",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To form or act as part of a cartel; to make into a cartel.",
+          "examples": [
+            "They attempted to cartelize the supply chain."
+          ],
+          "collocations": ["cartelize prices", "cartelize market"],
+          "synonyms": ["collude", "monopolize"],
+          "antonyms": ["compete", "break up"],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelized",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of cartelize; formed a cartel or was made into a cartel.",
+          "examples": [
+            "The industry was cartelized under new regulations."
+          ],
+          "collocations": ["cartelized prices", "cartelized market"],
+          "synonyms": ["colluded", "monopolized"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelizes",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third-person singular present of 'cartelize'; forms a cartel.",
+          "examples": [
+            "The company cartelizes the drug market."
+          ],
+          "collocations": ["cartelizes prices", "cartelizes competition"],
+          "synonyms": ["colludes", "monopolizes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelizing",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of 'cartelize'; forming a cartel.",
+          "examples": [
+            "The market is cartelizing as firms cooperate."
+          ],
+          "collocations": ["cartelizing prices", "cartelizing market"],
+          "synonyms": ["colluding", "monopolising"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartellist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who composes or arranges in a cartel-like manner; rare or nonstandard usage.",
+          "examples": [
+            "The term 'cartellist' is uncommon and not widely used."
+          ],
+          "collocations": ["cartellist member"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "cartels",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of cartel; groups of companies that collude to control prices or markets.",
+          "examples": [
+            "Several cartels were investigated for price-fixing."
+          ],
+          "collocations": ["drug cartels", "oil cartels", "cartels operate"],
+          "synonyms": ["syndicates", "collusive groups"],
+          "antonyms": ["competition", "markets with many rivals"],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartellist",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "See cartellist; alternative spelling variant.",
+          "examples": [
+            "Some lists may spell it as cartellist."
+          ],
+          "collocations": [],
+          "synonyms": ["cartelist"],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "cartellisation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant spelling of cartelisation; forming a cartel.",
+          "examples": [
+            "Cartellisation can reduce competition."
+          ],
+          "collocations": ["process of cartelisation"],
+          "synonyms": ["cartelisation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartellizations",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant plural of cartelization; multiple cartel formations.",
+          "examples": [
+            "Cartellizations occurred in several sectors."
+          ],
+          "collocations": ["cartellizations across industries"],
+          "synonyms": ["cartelizations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelize",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To form or act as part of a cartel; to make something into a cartel.",
+          "examples": [
+            "Companies may cartelize the supply chain."
+          ],
+          "collocations": ["cartelize prices", "cartelize market"],
+          "synonyms": ["collude", "monopolize"],
+          "antonyms": ["compete", "deregulate"],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelized",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of carteliz e; formed a cartel.",
+          "examples": [
+            "The market was cartelized under new rules."
+          ],
+          "collocations": ["cartelized prices", "cartelized market"],
+          "synonyms": ["colluded", "monopolized"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelizes",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third-person singular present of 'cartelize'; forms a cartel.",
+          "examples": [
+            "The company cartelizes the drug market."
+          ],
+          "collocations": ["cartelizes prices", "cartelizes competition"],
+          "synonyms": ["colludes", "monopolizes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    },
+    {
+      "term": "cartelizing",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of 'cartelize'; forming a cartel.",
+          "examples": [
+            "Markets are cartelizing as firms collude."
+          ],
+          "collocations": ["cartelizing prices", "cartelizing market"],
+          "synonyms": ["colluding", "monopolising"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "law"]
+        }
+      ]
+    }
+  ]
+}

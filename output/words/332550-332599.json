@@ -1,0 +1,405 @@
+{
+  "items": [
+    {
+      "term": "resurveying",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of surveying something again",
+          "examples": ["They are resurveying the land after the storm.", "The team is resurveying the site for accuracy."],
+          "collocations": ["resurveying land", "resurveying area", "resurveying property", "resurveying site"],
+          "synonyms": ["reexamine", "reassess", "review"],
+          "antonyms": ["ignore", "overlook"],
+          "register": null,
+          "domain": ["general", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "resurveys",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "surveys again",
+          "examples": ["He resurveys the field every year.", "The company resurveys customer opinions regularly."],
+          "collocations": ["resurveys land", "resurveys site", "resurveys data"],
+          "synonyms": ["rechecks", "reexamines"],
+          "antonyms": ["neglects"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resuscitable",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be brought back to life or consciousness",
+          "examples": ["The patient was still resuscitable.", "Doctors determined the victim was resuscitable."],
+          "collocations": ["resuscitable patient", "resuscitable condition"],
+          "synonyms": ["revivable", "recoverable"],
+          "antonyms": ["irrecoverable", "dead"],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "resuscitant",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "something that brings back life or activity",
+          "examples": ["The drug acted as a resuscitant.", "They used oxygen as a resuscitant."],
+          "collocations": ["medical resuscitant", "chemical resuscitant"],
+          "synonyms": ["reviver", "restorer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "resuscitants",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "substances or things that restore life or activity",
+          "examples": ["Doctors used resuscitants during the emergency.", "Various resuscitants were prepared."],
+          "collocations": ["use resuscitants", "administer resuscitants"],
+          "synonyms": ["revivers", "restoratives"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "resuscitate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to bring someone back to life or consciousness",
+          "examples": ["Paramedics tried to resuscitate him.", "They managed to resuscitate the patient."],
+          "collocations": ["resuscitate patient", "resuscitate victim", "attempt to resuscitate"],
+          "synonyms": ["revive", "restore", "bring back"],
+          "antonyms": ["kill", "harm"],
+          "register": null,
+          "domain": ["medicine"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to bring something back into use or activity",
+          "examples": ["They hope to resuscitate the old tradition.", "The plan aims to resuscitate the economy."],
+          "collocations": ["resuscitate economy", "resuscitate project", "resuscitate tradition"],
+          "synonyms": ["revive", "restore", "renew"],
+          "antonyms": ["abandon", "destroy"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "resuscitated",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "brought back to life or activity",
+          "examples": ["He was resuscitated after cardiac arrest.", "The program was resuscitated last year."],
+          "collocations": ["successfully resuscitated", "newly resuscitated"],
+          "synonyms": ["revived", "restored"],
+          "antonyms": ["killed"],
+          "register": null,
+          "domain": ["general", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "resuscitates",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "brings back to life or activity",
+          "examples": ["She resuscitates patients in emergencies.", "The policy resuscitates failing industries."],
+          "collocations": ["resuscitates patient", "resuscitates economy"],
+          "synonyms": ["revives", "restores"],
+          "antonyms": ["destroys"],
+          "register": null,
+          "domain": ["general", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "resuscitating",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of bringing back to life or activity",
+          "examples": ["They are resuscitating the victim.", "The team is resuscitating the brand."],
+          "collocations": ["resuscitating patient", "resuscitating project"],
+          "synonyms": ["reviving", "restoring"],
+          "antonyms": ["ending"],
+          "register": null,
+          "domain": ["general", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "resuscitation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of bringing someone back to life or consciousness",
+          "examples": ["CPR is a form of resuscitation.", "Resuscitation was successful."],
+          "collocations": ["cardiopulmonary resuscitation", "attempt resuscitation", "emergency resuscitation"],
+          "synonyms": ["revival", "recovery"],
+          "antonyms": ["death"],
+          "register": null,
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "resuscitations",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "instances of bringing back to life or activity",
+          "examples": ["The hospital recorded several resuscitations.", "These resuscitations saved many lives."],
+          "collocations": ["successful resuscitations", "multiple resuscitations"],
+          "synonyms": ["revivals"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "resuscitative",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to restoring life or consciousness",
+          "examples": ["Resuscitative efforts continued.", "They used resuscitative measures."],
+          "collocations": ["resuscitative care", "resuscitative efforts", "resuscitative measures"],
+          "synonyms": ["revival", "restorative"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "resuscitator",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or person that helps restore breathing or life",
+          "examples": ["The doctor used a resuscitator.", "A manual resuscitator was applied."],
+          "collocations": ["manual resuscitator", "use resuscitator"],
+          "synonyms": ["reviver device"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "resuscitators",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "devices or people that restore breathing or life",
+          "examples": ["Hospitals use modern resuscitators.", "The team prepared several resuscitators."],
+          "collocations": ["portable resuscitators", "medical resuscitators"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "resuspect",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to suspect again",
+          "examples": ["Police resuspect the same individual.", "He resuspected her involvement."],
+          "collocations": ["resuspect person", "resuspect suspect"],
+          "synonyms": ["reconsider", "reassess"],
+          "antonyms": ["trust"],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "resuspend",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to suspend again or mix particles back into liquid",
+          "examples": ["Shake the bottle to resuspend the solution.", "They resuspend the particles before testing."],
+          "collocations": ["resuspend particles", "resuspend solution"],
+          "synonyms": ["remix", "redisperse"],
+          "antonyms": ["separate"],
+          "register": null,
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "resuspended",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "mixed again into a liquid or suspended again",
+          "examples": ["The sample was resuspended.", "Particles were resuspended in water."],
+          "collocations": ["resuspended sample", "resuspended particles"],
+          "synonyms": ["remixed"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "resuspending",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of suspending again in liquid",
+          "examples": ["They are resuspending the cells.", "Resuspending improves consistency."],
+          "collocations": ["resuspending cells", "resuspending solution"],
+          "synonyms": ["remixing"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "resuspends",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "suspends again in liquid",
+          "examples": ["The process resuspends particles.", "He resuspends the mixture."],
+          "collocations": ["resuspends particles", "resuspends mixture"],
+          "synonyms": ["remixes"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "resuspension",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of mixing particles back into a liquid",
+          "examples": ["Resuspension is required before use.", "The resuspension improved results."],
+          "collocations": ["cell resuspension", "particle resuspension"],
+          "synonyms": ["redistribution"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "resuspensions",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "instances of mixing particles back into liquid",
+          "examples": ["Multiple resuspensions were needed.", "These resuspensions ensure accuracy."],
+          "collocations": ["repeated resuspensions"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "resveratrol",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a natural compound found in grapes and red wine, believed to have health benefits",
+          "examples": ["Resveratrol is present in red wine.", "Some supplements contain resveratrol."],
+          "collocations": ["resveratrol supplement", "resveratrol intake"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["health", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "resveratrols",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "forms or types of resveratrol compounds",
+          "examples": ["Different resveratrols exist in plants.", "Scientists study resveratrols."],
+          "collocations": ["natural resveratrols"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["science"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+```json
+{
+  "items": [
+    {
+      "term": "repricing",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of changing the price of something",
+          "examples": ["The store announced a repricing of its products."],
+          "collocations": ["product repricing", "market repricing", "price repricing", "repricing strategy"],
+          "synonyms": ["price adjustment", "revaluation"],
+          "antonyms": ["price freeze"],
+          "register": null,
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "repriefe",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "repriefes",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "reprievable",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be saved from punishment or delay of penalty",
+          "examples": ["The prisoner was considered reprievable."],
+          "collocations": ["reprievable case", "legally reprievable"],
+          "synonyms": ["pardonable"],
+          "antonyms": ["irredeemable"],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "reprieval",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of delaying or canceling punishment",
+          "examples": ["He was granted a reprieval from execution."],
+          "collocations": ["grant reprieval", "temporary reprieval"],
+          "synonyms": ["reprieve", "pardon"],
+          "antonyms": ["execution"],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "reprievals",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reprieval; acts of delaying punishment",
+          "examples": ["Several reprievals were issued."],
+          "collocations": ["multiple reprievals"],
+          "synonyms": ["pardons"],
+          "antonyms": ["executions"],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "reprieve",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a delay or cancellation of punishment",
+          "examples": ["The prisoner received a reprieve."],
+          "collocations": ["grant a reprieve", "temporary reprieve"],
+          "synonyms": ["pardon", "respite"],
+          "antonyms": ["execution"],
+          "register": "formal",
+          "domain": ["law"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to delay or cancel punishment",
+          "examples": ["The court reprieved him."],
+          "collocations": ["reprieve a prisoner"],
+          "synonyms": ["pardon", "delay"],
+          "antonyms": ["execute"],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "reprieved",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of reprieve",
+          "examples": ["She was reprieved at the last moment."],
+          "collocations": ["was reprieved"],
+          "synonyms": ["pardoned"],
+          "antonyms": ["executed"],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "repriever",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who grants a reprieve",
+          "examples": ["The governor acted as a repriever."],
+          "collocations": ["official repriever"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "reprievers",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of repriever",
+          "examples": ["The reprievers made their decision."],
+          "collocations": ["legal reprievers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "reprieves",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reprieve",
+          "examples": ["Several reprieves were granted."],
+          "collocations": ["grant reprieves"],
+          "synonyms": ["pardons"],
+          "antonyms": ["executions"],
+          "register": "formal",
+          "domain": ["law"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person form of reprieve",
+          "examples": ["The judge reprieves offenders."],
+          "collocations": ["reprieves criminals"],
+          "synonyms": ["pardons"],
+          "antonyms": ["punishes"],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "reprieving",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of reprieve",
+          "examples": ["They are reprieving the prisoner."],
+          "collocations": ["reprieving someone"],
+          "synonyms": ["pardoning"],
+          "antonyms": ["punishing"],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "reprimand",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an official or strong criticism of someone",
+          "examples": ["He received a reprimand for being late."],
+          "collocations": ["formal reprimand", "issue a reprimand"],
+          "synonyms": ["rebuke", "warning"],
+          "antonyms": ["praise"],
+          "register": null,
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to officially criticize someone",
+          "examples": ["The manager reprimanded her."],
+          "collocations": ["reprimand an employee"],
+          "synonyms": ["scold", "rebuke"],
+          "antonyms": ["praise"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reprinted",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past form of reprint; printed again",
+          "examples": ["The book was reprinted."],
+          "collocations": ["reprinted edition"],
+          "synonyms": ["republished"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["publishing"]
+        }
+      ]
+    },
+    {
+      "term": "reprint",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to print something again",
+          "examples": ["They will reprint the article."],
+          "collocations": ["reprint a book"],
+          "synonyms": ["republish"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["publishing"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a printed copy made again",
+          "examples": ["This is a reprint of the original."],
+          "collocations": ["book reprint"],
+          "synonyms": ["reissue"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["publishing"]
+        }
+      ]
+    },
+    {
+      "term": "reprisal",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an act of retaliation for something done",
+          "examples": ["They feared military reprisals."],
+          "collocations": ["take reprisals", "violent reprisals"],
+          "synonyms": ["retaliation", "revenge"],
+          "antonyms": ["forgiveness"],
+          "register": null,
+          "domain": ["general", "military"]
+        }
+      ]
+    },
+    {
+      "term": "reprise",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a repeated part of a performance or piece",
+          "examples": ["The song ended with a reprise."],
+          "collocations": ["musical reprise"],
+          "synonyms": ["repeat"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music", "arts"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to repeat something",
+          "examples": ["She reprised her role."],
+          "collocations": ["reprise a role"],
+          "synonyms": ["repeat"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "repristinate",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to restore to an earlier good condition",
+          "examples": ["They repristinated the building."],
+          "collocations": ["repristinate a system"],
+          "synonyms": ["restore", "renew"],
+          "antonyms": ["damage"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "repristination",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of restoring something to its original state",
+          "examples": ["The repristination took years."],
+          "collocations": ["full repristination"],
+          "synonyms": ["restoration"],
+          "antonyms": ["destruction"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reprivatization",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of returning something to private ownership",
+          "examples": ["The reprivatization of the company began."],
+          "collocations": ["economic reprivatization"],
+          "synonyms": ["privatization"],
+          "antonyms": ["nationalization"],
+          "register": null,
+          "domain": ["business", "economics"]
+        }
+      ]
+    }
+  ]
+}
+```

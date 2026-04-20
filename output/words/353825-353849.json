@@ -1,0 +1,546 @@
+{
+  "items": [
+    {
+      "term": "shaddup",
+      "kind": "idiom",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "interjection",
+          "definition": "a rude or slang way of telling someone to be quiet",
+          "examples": [
+            "Shaddup and let me finish my story.",
+            "If you’d just shaddup, you might hear what they’re saying."
+          ],
+          "collocations": ["shaddup already", "shaddup you"]
+          ,
+          "synonyms": ["shut up", "be quiet", "hush up"],
+          "antonyms": ["talk", "speak up"],
+          "register": "informal",
+          "domain": ["everyday", "colloquial"]
+        }
+      ]
+    },
+    {
+      "term": "shade",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an area where light is blocked from the sun",
+          "examples": [
+            "We sat in the shade to stay cool.",
+            "The tree cast a long shade over the lawn."
+          ],
+          "collocations": ["in the shade", "shadow and shade", "provide shade"],
+          "synonyms": ["shadow", "cover"],
+          "antonyms": ["sunlight", "brightness"],
+          "register": "neutral",
+          "domain": ["everyday", "nature"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a color that is darker or less intense than another color",
+          "examples": [
+            "Her dress was a cool shade of blue.",
+            "Choose a shade that matches the walls."
+          ],
+          "collocations": ["shade of", "paint shade", "color shade"],
+          "synonyms": ["tone", "hue", "tint"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "color", "design"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to partially block or screen light or visibility",
+          "examples": [
+            "The blinds shaded the room from the afternoon sun.",
+            "Her face was shaded by the brim of her hat."
+          ],
+          "collocations": ["shade the room", "shade eyes", "shade with"],
+          "synonyms": ["shadow", "screen"],
+          "antonyms": ["expose", "illuminate"],
+          "register": "neutral",
+          "domain": ["everyday", "home"]
+        }
+      ]
+    },
+    {
+      "term": "shaded",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having shade or being darker in color",
+          "examples": [
+            "The shaded pathway kept our feet cool.",
+            "Shaded leaves appeared more vibrant in the light."
+          ],
+          "collocations": ["shaded area", "shaded relief", "slightly shaded"],
+          "synonyms": ["shadowed", "darkened"],
+          "antonyms": ["unshaded", "bright"],
+          "register": "neutral",
+          "domain": ["everyday", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "shadeful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "full of shade or shadow; producing or providing shade",
+          "examples": [
+            "The shadeful canopy kept the market stall cool.",
+            "A shadeful garden is pleasant on hot days."
+          ],
+          "collocations": ["shadeful canopy", "shadeful garden"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "design"]
+        }
+      ]
+    },
+    {
+      "term": "shadeless",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not providing shade or shadow; lacking shading",
+          "examples": [
+            "The shadeless window let in a lot of sun.",
+            "Choose a dress in a color that doesn't look shadeless under lights."
+          ],
+          "collocations": ["shadeless window", "shadeless area", "shadeless color"],
+          "synonyms": ["unshaded", "bare"],
+          "antonyms": ["shaded", "shadowed"],
+          "register": "neutral",
+          "domain": ["everyday", "design"]
+        }
+      ]
+    },
+    {
+      "term": "shadelessness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of not providing shade or shadow; lack of shading",
+          "examples": [
+            "Shadelessness made the afternoon heat unbearable.",
+            "Architects considered shadelessness in the open plaza."
+          ],
+          "collocations": ["degree of shadelessness", "increase shadelessness"],
+          "synonyms": ["unshadedness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["architecture", "design"]
+        }
+      ]
+    },
+    {
+      "term": "shader",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a program or tool that adds color and texture to 3D images or surfaces",
+          "examples": [
+            "The game uses a new shader to make water look realistic.",
+            "Update your shader for better lighting effects."
+          ],
+          "collocations": ["graphics shader", "fragment shader", "vertex shader"],
+          "synonyms": ["rendering tool", "texture tool"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "computing"]
+        }
+      ]
+    },
+    {
+      "term": "shaders",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shader; programs that apply color/texture in graphics",
+          "examples": [
+            "The game includes several shaders for day and night scenes.",
+            "Artists tweaked the shaders to improve reflections."
+          ],
+          "collocations": ["graphics shaders", "fragment shaders", "custom shaders"],
+          "synonyms": ["renderers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "computing"]
+        }
+      ]
+    },
+    {
+      "term": "shades",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shade; areas of darkness under objects that block light",
+          "examples": [
+            "We found several shady spots in the park.",
+            "The shades on the windows lowered the glare."
+          ],
+          "collocations": ["in the shade", "shades of blue", "window shades"],
+          "synonyms": ["shadow", "tone"],
+          "antonyms": ["sunlight", "brightness"],
+          "register": "neutral",
+          "domain": ["everyday", "nature"]
+        },
+        {
+          "pos": "noun",
+          "definition": "slight variations of color or meaning; nuances",
+          "examples": [
+            "The painting shows shades of green.",
+            "There are shades of difference between the two proposals."
+          ],
+          "collocations": ["shades of", "subtle shades"],
+          "synonyms": ["nuances", "tints"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "literature"]
+        },
+        {
+          "pos": "noun",
+          "definition": "plural of shade also used as a synonym for sunglasses or window coverings",
+          "examples": [
+            "Grab your shades; it's sunny outside.",
+            "She pulled the shades down."
+          ],
+          "collocations": ["sunny shades", "pull the shades"],
+          "synonyms": ["sunglasses", "glasses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "shadetail",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small, often decorative part of a dragonfly species? (note: term is rare; common usage uncertain)",
+          "examples": [
+            "Shadetail is a term occasionally used in entomology to describe a feature."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["unknown"]
+        }
+      ]
+    },
+    {
+      "term": "shadflies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare or erroneous form; not a standard English term",
+          "examples": [
+            "Shadflies is not a common word in English."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["unknown"]
+        }
+      ]
+    },
+    {
+      "term": "shadflower",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare or historical term; not common in modern usage",
+          "examples": [
+            "Shadflower is seldom encountered in contemporary texts."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["unknown"]
+        }
+      ]
+    },
+    {
+      "term": "shadfly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an obscure or archaic term; not widely used in modern English",
+          "examples": [
+            "Shadfly appears in some old manuscripts."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "history"]
+        }
+      ]
+    },
+    {
+      "term": "shadier",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "more shady; darker or more suspicious in character",
+          "examples": [
+            "This part of town looks shadier at night.",
+            "Her motives become shadier as the story unfolds."
+          ],
+          "collocations": ["shadier area", "shadier deal", "shadier character"],
+          "synonyms": ["darker", "more suspicious"],
+          "antonyms": ["shadier", "brighter"] ,
+          "register": "informal",
+          "domain": ["everyday", "storytelling"]
+        }
+      ]
+    },
+    {
+      "term": "shadiest",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "most shady; most suspicious or least reputable",
+          "examples": [
+            "That is the shadiest business I've ever heard of.",
+            "The shadiest characters in the tale are revealed."
+          ],
+          "collocations": ["the shadiest person", "shadiest area", "shadiest deal"],
+          "synonyms": ["slyest", "dubious"],
+          "antonyms": ["honest", "trustworthy"],
+          "register": "informal",
+          "domain": ["everyday", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "shadily",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a shady, suspicious, or questionable way",
+          "examples": [
+            "The company acted shadily by hiding fees.",
+            "He opened the envelope shadily, as if not wanting anyone to notice."
+          ],
+          "collocations": ["operate shadily", "shadily acquire", "shadily framed"],
+          "synonyms": ["dubiously", "suspiciously"],
+          "antonyms": ["openly", "transparently"],
+          "register": "informal",
+          "domain": ["business", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "shadine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or obscure term; not commonly used",
+          "examples": [
+            "Shadine is not found in most dictionaries."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["unknown"]
+        }
+      ]
+    },
+    {
+      "term": "shadiness",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being shady; suspicion or lack of honesty",
+          "examples": [
+            "There is shadiness in his financial dealings.",
+            "The shadiness of the arrangement worries the regulators."
+          ],
+          "collocations": ["moral shadiness", "shadiness of motives", "financial shadiness"],
+          "synonyms": ["suspicion", "dishonesty"],
+          "antonyms": ["transparency", "honesty"],
+          "register": "formal",
+          "domain": ["business", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "shadinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shadiness; occurrences of shady quality",
+          "examples": [
+            "Narratives note various shadinesses in the plot."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "shading",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "material or techniques used to create shade or color gradation",
+          "examples": [
+            "The drawing uses cross-hatching shading.",
+            "Add shading to give the image depth."
+          ],
+          "collocations": ["color shading", "shading technique", "soft shading"],
+          "synonyms": ["shadowing", "hatching"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "design"]
+        }
+      ]
+    },
+    {
+      "term": "shadings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shading; variations of color or tone",
+          "examples": [
+            "There are subtle shadings in the portrait."
+          ],
+          "collocations": ["color shadings", "tone shadings"],
+          "synonyms": ["gradations", "tonal variations"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "design"]
+        }
+      ]
+    },
+    {
+      "term": "shadkan",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a title historically used in Iranian court; a person who holds a ceremonial post",
+          "examples": [
+            "The shadkan presided over ceremonial duties."
+          ],
+          "collocations": ["shadkan of the court"],
+          "synonyms": ["chamberlain", "official"],
+          "antonyms": [],
+          "register": "historical",
+          "domain": ["history", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shadkhan",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "variant spelling of shadkan; ceremonial court official",
+          "examples": [
+            "The shadkhan arranged the royal audience."
+          ],
+          "collocations": ["shadkhan of the court"],
+          "synonyms": ["shadkan", "official"],
+          "antonyms": [],
+          "register": "historical",
+          "domain": ["history", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shadkhanim",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "feminine form of shadkhan; a title for a female ceremonial official",
+          "examples": [
+            "The shadkhanim attended the assembly."
+          ],
+          "collocations": ["shadkhanim of the court"],
+          "synonyms": ["shadkhan", "female official"],
+          "antonyms": [],
+          "register": "historical",
+          "domain": ["history", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "shadkhans",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shadkhan; multiple ceremonial officials",
+          "examples": [
+            "The shadkhans presided over several ceremonies."
+          ],
+          "collocations": ["shadkhans of the court"],
+          "synonyms": ["shadkhanim", "officials"],
+          "antonyms": [],
+          "register": "historical",
+          "domain": ["history", "culture"]
+        }
+      ]
+    }
+  ]
+}

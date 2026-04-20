@@ -1,0 +1,512 @@
+{
+  "items": [
+    {
+      "term": "quest",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a long search for something, usually with many difficulties",
+          "examples": [
+            "The archaeologist began a quest for ancient artifacts.",
+            "Her quest for truth led her to many hidden records."
+          ],
+          "collocations": ["futile quest", "unending quest", "quest for", "holy quest", "quest begins"],
+          "synonyms": ["journey", "search", "mission"],
+          "antonyms": ["arrival", "settled", "done"],
+          "register": "neutral",
+          "domain": ["general", "adventure", "literary"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to search for or seek after something, especially something difficult to obtain",
+          "examples": [
+            "They quested for the perfect solution to the problem.",
+            "Liberal arts students quest knowledge beyond the classroom."
+          ],
+          "collocations": ["quest for", "quest after", "quest to find"],
+          "synonyms": ["seek", "search", "pursue"],
+          "antonyms": ["ignore", "reject", "forget"],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "questant",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is on a quest; a seeker",
+          "examples": [
+            "The questant followed the map to the hidden valley."
+          ],
+          "collocations": ["chief questant", "questant role", "questant journey"],
+          "synonyms": ["seeker", "pursuer", "traveler"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "questants",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of questant; multiple seekers",
+          "examples": [
+            "Several questants gathered at the starting point."
+          ],
+          "collocations": ["group of questants", "questants together"],
+          "synonyms": ["seekers", "pursuers"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "quested",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of quest; to have searched for something",
+          "examples": [
+            "She quested for centuries to find the lost city.",
+            "They quested after the truth and finally uncovered it."
+          ],
+          "collocations": ["have quested", "quested around", "quested for"],
+          "synonyms": ["sought", "searched", "pursued"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "quester",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who embarks on a quest; a seeker",
+          "examples": [
+            "The quester traveled alone across the desert."
+          ],
+          "collocations": ["fellow quester", "brave quester"],
+          "synonyms": ["seeker", "pursuer", "adventurer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "questers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of quester; multiple seekers",
+          "examples": [
+            "Various questers joined the expedition."
+          ],
+          "collocations": ["group of questers", "team of questers"],
+          "synonyms": ["seekers", "pursuers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "questeur",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who writes reports for a quest or a medieval term for a caller; largely historical/rare",
+          "examples": [
+            "The questeur noted each finding in the ledger."
+          ],
+          "collocations": ["royal questeur", "questeur's ledger"],
+          "synonyms": ["recorder", "scribe"],
+          "antonyms": [],
+          "register": "archic",
+          "domain": ["historical"]
+        }
+      ]
+    },
+    {
+      "term": "questful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "full of or marked by a quest; having the nature of a quest",
+          "examples": [
+            "The journey was questful, filled with discovery."
+          ],
+          "collocations": ["questful mood", "questful adventure"],
+          "synonyms": ["pursuing", "seeking"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "questhouse",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a house or place associated with a quest; a fictional or historical lodging",
+          "examples": [
+            "They stayed at the questhouse before starting the expedition."
+          ],
+          "collocations": ["questhouse stay", "old questhouse"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "questing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of quest; to search for something",
+          "examples": [
+            "They were questing for the holy relic.",
+            "We spent the afternoon questing through the markets."
+          ],
+          "collocations": ["questing for", "questing around", "questing after"],
+          "synonyms": ["seeking", "pursuing", "searching"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "questingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a searching or questioning way",
+          "examples": [
+            "She looked at him questingly, hoping for an answer."
+          ],
+          "collocations": ["look questingly", "questingly ask"],
+          "synonyms": ["curiously", "inquiringly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "questings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of questing; acts of searching or pursuing",
+          "examples": [
+            "Their questings took them to distant lands."
+          ],
+          "collocations": ["daily questings", "varied questings"],
+          "synonyms": ["searches", "pursuits"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "question",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a sentence or statement that asks about something; a request for information",
+          "examples": [
+            "Please answer the questionnaire and the question about your age.",
+            "She raised a difficult question during the meeting."
+          ],
+          "collocations": ["raise a question", "answer a question", "leading question"],
+          "synonyms": ["query", "inquiry", "interrogation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to ask someone about something or to doubt the truth of something",
+          "examples": [
+            "They questioned the witness carefully.",
+            "I question whether this is the right approach."
+          ],
+          "collocations": ["question the evidence", "question a decision", "question deeply"],
+          "synonyms": ["ask", "probe", "doubt"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "legal"]
+        }
+      ]
+    },
+    {
+      "term": "questionability",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being questionable or uncertain",
+          "examples": [
+            "Questionability of the data led to further testing."
+          ],
+          "collocations": ["high questionability", "raise questionability"],
+          "synonyms": ["uncertainty", "doubt", "doubtfulness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "questionable",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not clearly right or good; questionable",
+          "examples": [
+            "The evidence is questionable.",
+            "That deal seems questionable to me."
+          ],
+          "collocations": ["highly questionable", "questionable decision", "questionable ethics"],
+          "synonyms": ["suspicious", "doubtful", "uncertain"],
+          "antonyms": ["certain", "clear", "definite"],
+          "register": "neutral",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "questionableness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or quality of being questionable",
+          "examples": [
+            "Questionableness undermined the report's credibility."
+          ],
+          "collocations": ["level of questionableness", "perceived questionableness"],
+          "synonyms": ["uncertainty", "doubtfulness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "questionablenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of questionableness; multiple instances of being questionable",
+          "examples": [
+            "The questionablenesses in the report caused delays."
+          ],
+          "collocations": ["areas of questionableness", "varying questionablenesses"],
+          "synonyms": ["doubtfulness", "uncertainty"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "questionably",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is doubtful or questionable",
+          "examples": [
+            "The plan is productively questionable, at best."
+          ],
+          "collocations": ["questionably correct", "questionably legal"],
+          "synonyms": ["doubtfully", "skeptically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "questionaries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of questionnaire; sets of questions used for data collection",
+          "examples": [
+            "Researchers distributed several questionaries to participants."
+          ],
+          "collocations": ["survey questionaries", "online questionaries"],
+          "synonyms": ["surveys", "questionnaires"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["research", "general"]
+        }
+      ]
+    },
+    {
+      "term": "questionary",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a set of questions used to collect information",
+          "examples": [
+            "Please complete the questionary before your appointment."
+          ],
+          "collocations": ["complete a questionary", "answer the questionary"],
+          "synonyms": ["questionnaire", "survey"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["research", "general"]
+        }
+      ]
+    },
+    {
+      "term": "questioned",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of question; to ask about something or to doubt",
+          "examples": [
+            "The officer questioned the suspect for hours.",
+            "Her claims were questioned by the committee."
+          ],
+          "collocations": ["questioned the witness", "questioned the evidence"],
+          "synonyms": ["doubted", "interrogated", "probing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "questionee",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is questioned or interrogated",
+          "examples": [
+            "The questionee answered the officer's questions honestly."
+          ],
+          "collocations": ["uncooperative questionee", "consenting questionee"],
+          "synonyms": ["interviewee", "witness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "questionees",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of questionee; multiple people who are questioned",
+          "examples": [
+            "The questionees provided detailed testimonies."
+          ],
+          "collocations": ["group of questionees"],
+          "synonyms": ["interviewees", "witnesses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "questioner",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who asks questions, especially in an interview or investigation",
+          "examples": [
+            "The journalist was a persistent questioner.",
+            "As a student, she acted as a thoughtful questioner."
+          ],
+          "collocations": ["firm questioner", "patient questioner"],
+          "synonyms": ["interviewer", "inquirer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["journalism", "general"]
+        }
+      ]
+    },
+    {
+      "term": "questioners",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of questioner; multiple people who ask questions",
+          "examples": [
+            "The panel included several experienced questioners."
+          ],
+          "collocations": ["group of questioners"],
+          "synonyms": ["interviewers", "inquirers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["journalism", "general"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "items": [
+    {
+      "term": "reliquidates",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to convert something back into liquid form again, or to restore it to liquidity after being in a liquid state or after a phase where it was not liquid.",
+          "examples": [
+            "The company reliquidates its assets to cash.",
+            "Investors worry that the asset will be reliquidated if market conditions improve."
+          ],
+          "collocations": [
+            "reliquidates assets",
+            "reliquidates funds",
+            "reliquidates holdings",
+            "reliquidates a position"
+          ],
+          "synonyms": ["liquefies again", "liquefies anew"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reliquidating",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of converting something back into liquid form again, or restoring liquidity during ongoing action.",
+          "examples": [
+            "The fund is reliquidating its portfolio as part of the restructuring.",
+            "They are reliquidating previously illiquid assets to raise cash."
+          ],
+          "collocations": [
+            "reliquidating assets",
+            "reliquidating funds",
+            "reliquidating positions"
+          ],
+          "synonyms": ["liquefying again", "restoring liquidity"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "reliquidation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of turning something back into a liquid form or the act of restoring liquidity.",
+          "examples": [
+            "The reliquidation of assets occurred after the company restructured.",
+            "Investors awaited the reliquidation of certain holdings."
+          ],
+          "collocations": [
+            "asset reliquidation",
+            "reliquidation of funds",
+            "reliquidation process"
+          ],
+          "synonyms": ["liquefaction again", "restoration of liquidity"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "reliquism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an item or belief associated with reliquaries or religious relics; in some contexts, a devotion or attachment to relics or sacred objects.",
+          "examples": [
+            "The museum displayed a reliquism surrounding sacred relics.",
+            "Her reliquism influenced the way she cared for historical artifacts."
+          ],
+          "collocations": [
+            "reliquism practices",
+            "reliquism artifacts",
+            "reliquism devotion"
+          ],
+          "synonyms": ["reliquary devotion", "relic devotion"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "relish",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a strong enjoyment or appreciation of something; a taste or flavor you enjoy.",
+          "examples": [
+            "She has a relish for spicy foods.",
+            "The relish of victory showed on his face."
+          ],
+          "collocations": [
+            "a relish for",
+            "keen relish",
+            "savour the relish"
+          ],
+          "synonyms": ["enjoyment", "pleasure", "zest"],
+          "antonyms": ["dislike", "indifference"],
+          "register": "neutral",
+          "domain": ["general", "food", "emotion"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to enjoy or take great pleasure in something; to savor.",
+          "examples": [
+            "He relishes the opportunity to travel.",
+            "She relishes spicy dishes."
+          ],
+          "collocations": [
+            "relish the moment",
+            "relish the challenge",
+            "relish a taste"
+          ],
+          "synonyms": ["enjoy", "savor", "delight in"],
+          "antonyms": ["dislike", "hate", "disdain"],
+          "register": "neutral",
+          "domain": ["general", "emotion", "food"]
+        }
+      ]
+    },
+    {
+      "term": "relishable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be enjoyed or flavorful; pleasant to taste or experience.",
+          "examples": [
+            "The sauce is relishable and pairs well with fish.",
+            "They offered relishable snacks at the party."
+          ],
+          "collocations": [
+            "relishable flavor",
+            "relishable experience",
+            "relishable qualities"
+          ],
+          "synonyms": ["delicious", "tasty", "enjoyable"],
+          "antonyms": ["unpleasant", "disagreeable"],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "relished",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of relish; enjoyed or took great pleasure in something.",
+          "examples": [
+            "She relished the chance to lead the team.",
+            "They relished the idea of a long vacation."
+          ],
+          "collocations": [
+            "relished the opportunity",
+            "relished the challenge",
+            "relished the moment"
+          ],
+          "synonyms": ["enjoyed", "savored", "delighted in"],
+          "antonyms": ["disliked", "hated"],
+          "register": "neutral",
+          "domain": ["general", "emotion"]
+        }
+      ]
+    },
+    {
+      "term": "relisher",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who relishes or greatly enjoys something; a person who savors experiences or tastes.",
+          "examples": [
+            "He is a known relisher of fine wines.",
+            "She is a relisher of challenging puzzles."
+          ],
+          "collocations": [
+            "seasoned relisher",
+            "voracious relisher",
+            "relishing life as a relisher"
+          ],
+          "synonyms": ["enjoyer", "connoisseur", " savorer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "relishes",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of relish; enjoys or takes great pleasure in something.",
+          "examples": [
+            "She relishes the opportunity to travel.",
+            "He relishes a good challenge."
+          ],
+          "collocations": [
+            "relishes the opportunity",
+            "relishes the taste",
+            "relishes challenges"
+          ],
+          "synonyms": ["enjoys", "savors", "delights in"],
+          "antonyms": ["dislikes", "hates"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "relishing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of relish; enjoying something greatly or savoring it.",
+          "examples": [
+            "She is relishing the chance to study abroad.",
+            "They are relishing the summer vacation."
+          ],
+          "collocations": [
+            "relishing the moment",
+            "relishing opportunities",
+            "relishing life"
+          ],
+          "synonyms": ["enjoying", "savoring"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "relishingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows great relish or enjoyment; with gusto.",
+          "examples": [
+            "She spoke relishingly about her plans.",
+            "The flavor of the dish was relishingly strong."
+          ],
+          "collocations": [
+            "talk relishingly",
+            "eat relishingly"
+          ],
+          "synonyms": ["gleefully", "savoryly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "food"]
+        }
+      ]
+    },
+    {
+      "term": "relishsome",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "full of flavor or enjoyment; highly relish-worthy.",
+          "examples": [
+            "That relishsome sauce lingers on the palate.",
+            "A relishsome memory of the feast remained."
+          ],
+          "collocations": [
+            "relishsome flavor",
+            "relishsome memories"
+          ],
+          "synonyms": ["flavorful", "tasty", "delicious"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "relishy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a relish of flavor or enthusiasm; tasty or flavorful.",
+          "examples": [
+            "The relishy sauce complemented the meat well.",
+            "He spoke with relishy enthusiasm about the project."
+          ],
+          "collocations": [
+            "relishy flavor",
+            "relishy taste",
+            "relishy manner"
+          ],
+          "synonyms": ["tasty", "savory", "flavorful"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "relist",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to post or list again, especially items or listings that were previously removed or sold.",
+          "examples": [
+            "They decided to relist the apartment after not finding a buyer the first time.",
+            "The product was relisted at a lower price."
+          ],
+          "collocations": [
+            "relist items",
+            "relist on the marketplace",
+            "relist quickly"
+          ],
+          "synonyms": ["resell", "list again", "repost"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "e-commerce"]
+        }
+      ]
+    },
+    {
+      "term": "relisted",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of relist; items were posted again.",
+          "examples": [
+            "The apartment was relisted last week.",
+            "Many items were relisted after the price drop."
+          ],
+          "collocations": [
+            "relisted items",
+            "relisted at lower price"
+          ],
+          "synonyms": ["reposted", "relisted"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "e-commerce"]
+        }
+      ]
+    },
+    {
+      "term": "relisten",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to listen again to something, such as a recording or speech.",
+          "examples": [
+            "You should relisten to the lecture to catch the details.",
+            "Relisten to the track to hear the hidden layers."
+          ],
+          "collocations": [
+            "relisten to the podcast",
+            "relisten to the recording"
+          ],
+          "synonyms": ["listen again", "hear again"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education", "media"]
+        }
+      ]
+    },
+    {
+      "term": "relistened",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of relisten; listened again to something.",
+          "examples": [
+            "She relistened to the recording to verify the quotes."
+          ],
+          "collocations": [
+            "relisted to the lecture",
+            "relistened to the message"
+          ],
+          "synonyms": ["listened again"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "relistening",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of relisten; listening again.",
+          "examples": [
+            "They are relistening to the audio to confirm accuracy."
+          ],
+          "collocations": [
+            "relistening to the podcast",
+            "relistening to the lecture"
+          ],
+          "synonyms": ["listening again"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education", "media"]
+        }
+      ]
+    },
+    {
+      "term": "relistens",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of relist; listens again.",
+          "examples": [
+            "He relistens to the track to hear every detail."
+          ],
+          "collocations": [
+            "relistens to the podcast",
+            "relistens to the lecture"
+          ],
+          "synonyms": ["listens again"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education", "media"]
+        }
+      ]
+    },
+    {
+      "term": "relisting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of listing something again, typically in a marketplace.",
+          "examples": [
+            "The relisting of the house drew more interest.",
+            "Relisting can occur after improvements are made."
+          ],
+          "collocations": [
+            "property relisting",
+            "relisting on the site"
+          ],
+          "synonyms": ["relist", "listing again"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "real estate", "e-commerce"]
+        }
+      ]
+    },
+    {
+      "term": "relists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of relist; lists again.",
+          "examples": [
+            "The seller relists several items after adjusting prices."
+          ],
+          "collocations": [
+            "relists items",
+            "relists on the marketplace"
+          ],
+          "synonyms": ["relists"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "e-commerce"]
+        }
+      ]
+    },
+    {
+      "term": "relit",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of relight; lit again.",
+          "examples": [
+            "He relit the candle after darkness fell.",
+            "They relit the stove to warm the soup."
+          ],
+          "collocations": [
+            "relit the fire",
+            "relit the candle"
+          ],
+          "synonyms": ["lit again", "reignited"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "relitigate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to litigate again; to bring a matter back to court after a decision.",
+          "examples": [
+            "The parties decided to relitigate the case in a higher court.",
+            "They relitigated the dispute despite the prior settlement."
+          ],
+          "collocations": [
+            "re-litigate a case",
+            "relitigate claims"
+          ],
+          "synonyms": ["reopen a case", "retry litigation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "relitigated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of relitigate; brought a case back to court after a decision.",
+          "examples": [
+            "The case was relitigated after new evidence emerged."
+          ],
+          "collocations": [
+            "re-litigated claims",
+            "relitigated disputes"
+          ],
+          "synonyms": ["reopened a case", "retried litigation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "relitigating",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of relitigate; engaging in litigation again.",
+          "examples": [
+            "They are relitigating the case despite a prior settlement."
+          ],
+          "collocations": [
+            "re-litigating a claim",
+            "relitigating a dispute"
+          ],
+          "synonyms": ["reopening a case", "retrying litigation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    }
+  ]
+}

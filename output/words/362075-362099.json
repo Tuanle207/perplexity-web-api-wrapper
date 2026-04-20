@@ -1,0 +1,555 @@
+{
+  "items": [
+    {
+      "term": "slurpy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "very wet and soft, often used to describe something that is thick and dripping.",
+          "examples": [
+            "The smoothie was slurpy and delicious."
+          ],
+          "collocations": ["slurpy texture", "slurpy ice cream", "slurpy straw"],
+          "synonyms": ["gooey", "slimy", "drippy"],
+          "antonyms": ["dry", "firm"],
+          "register": "informal",
+          "domain": ["everyday", "food"]
+        }
+      ]
+    },
+    {
+      "term": "slurred",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "unclear or indistinct because of drink, drugs, fatigue, or style of speech.",
+          "examples": [
+            "His speech sounded slurred after a few drinks.",
+            "The words were slurred together in his tired voice."
+          ],
+          "collocations": ["slurred speech", "slurred words", "slurred vowels"],
+          "synonyms": ["mumbled", "unclear", "garbled"],
+          "antonyms": ["clear", "distinct"],
+          "register": "informal",
+          "domain": ["medicine", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to pronounce words indistinctly, especially due to intoxication or fatigue.",
+          "examples": [
+            "He slurred his words when he was drunk.",
+            "Her speech slurs as she grows tired."
+          ],
+          "collocations": ["slur words", "slur syllables"],
+          "synonyms": ["mumble", "garble"],
+          "antonyms": ["enunciate", "articulate"],
+          "register": "informal",
+          "domain": ["medicine", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slurried",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to turn into or mix with a slurry; to make become thick and semi-liquid.",
+          "examples": [
+            "The ingredients were slurried into a smooth paste.",
+            "They slurried the solids with water to form a suspension."
+          ],
+          "collocations": ["slurried mixture", "slurried paste", "slurried solids"],
+          "synonyms": ["muddy", "sludged"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "cooking"]
+        }
+      ]
+    },
+    {
+      "term": "slurries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "thick semi-liquid mixtures, often of solid particles suspended in a liquid.",
+          "examples": [
+            "The cement slurries were pumped into the trench.",
+            "Metal slurries must be handled with care."
+          ],
+          "collocations": ["cement slurries", "gold slurries", "slurry concentration"],
+          "synonyms": ["paste", "suspension"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["industry", "engineering", "science"]
+        }
+      ]
+    },
+    {
+      "term": "slurring",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of speaking unclearly, usually due to intoxication or fatigue.",
+          "examples": [
+            "There was noticeable slurring in his speech.",
+            "The judge noted the witness's slurring and asked for clarification."
+          ],
+          "collocations": ["slurring of speech", "slurring sounds"],
+          "synonyms": ["mumbling", "garbling"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "legal"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to speak unclearly; to blur sounds or words while speaking.",
+          "examples": [
+            "She was slurring her words after the long flight.",
+            "He kept slurring his consonants during the interview."
+          ],
+          "collocations": ["slur words", "slur syllables"],
+          "synonyms": ["mumble", "garble"],
+          "antonyms": ["enunciate", "articulate"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slurringly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is slurred or indistinct when speaking.",
+          "examples": [
+            "He spoke slurringly after the party.",
+            "Her voice trailed off slurringly as she admitted the mistake."
+          ],
+          "collocations": ["talking slurringly", "slurringly slurred speech"],
+          "synonyms": ["muddily", "garblingly"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slurry",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a thick liquid mixture where solids are suspended in a liquid.",
+          "examples": [
+            "The cement slurry must be pumped into place.",
+            "A slurry of clay and water created the desired texture."
+          ],
+          "collocations": ["cement slurry", "slurry consistency", "slurry mixture"],
+          "synonyms": ["paste", "suspension"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction", "science"]
+        }
+      ]
+    },
+    {
+      "term": "slurrying",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of making a slurry or turning something into a slurry.",
+          "examples": [
+            "They are slurrying the ore for processing.",
+            "Slurrying the solids helps in transport through pipes."
+          ],
+          "collocations": ["slurrying ore", "slurrying solids"],
+          "synonyms": ["slackening", "suspending"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "slurs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "sustained strings or musical notes (slur in music) or offensive terms directed at a person or group.",
+          "examples": [
+            "In music, a slur connects two notes.",
+            "The remark contained several slurs against a community."
+          ],
+          "collocations": ["musical slur", "racial slur", "slur used"],
+          "synonyms": ["insults", "epithets", "coarse term"],
+          "antonyms": [],
+          "register": "neutral/formal",
+          "domain": ["music", "society"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to use a slur; to speak insultingly or offensively toward someone.",
+          "examples": [
+            "The bully slurs at his classmates.",
+            "He refused to tolerate anyone slurring others."
+          ],
+          "collocations": ["slur at", "slur someone"],
+          "synonyms": ["insult", "demean"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["society"]
+        }
+      ]
+    },
+    {
+      "term": "slurve",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a curved, sideways-traveling baseball pitch similar to a slider and a curveball.",
+          "examples": [
+            "The pitcher threw a sharp slurve that fooled the batter.",
+            "He learned to throw a consistent slurve in practice."
+          ],
+          "collocations": ["baseball slurve", "hard slurve", "slurve pitch"],
+          "synonyms": ["slider", "curveball"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "slurves",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slurve; multiple curved baseball pitches.",
+          "examples": [
+            "He threw three different slurves in the inning.",
+            "The pitcher mixes fastballs with several slurves."
+          ],
+          "collocations": ["slurves in a game", "different slurves"],
+          "synonyms": ["slurve pitches"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "slurvian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or resembling a slurve; curved in a slurve-like manner.",
+          "examples": [
+            "The slurvian arc of the throw confused the batter.",
+            "They described the pitch as a slurvian move."
+          ],
+          "collocations": ["slurvian arc", "slurvian pitch"],
+          "synonyms": ["slurve-like"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "sluse",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a channel or passage, especially a sluice gate controlling water flow; variant spelling of sluice.",
+          "examples": [
+            "The water was released through the sluse and into the canal.",
+            "Maintenance of the sluse is required in flood season."
+          ],
+          "collocations": ["sluice gate", "water sluse"],
+          "synonyms": ["sluice", "sluice gate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "sluses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sluse; channels or passages that control water flow.",
+          "examples": [
+            "Several sluses were opened to manage the flood.",
+            "The canal has multiple sluses along its length."
+          ],
+          "collocations": ["water sluses", "sluice gates"],
+          "synonyms": ["sluices"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "slush",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "soft, wet, muddy snow or ice mixed with water; also a mixture of melted ice and water.",
+          "examples": [
+            "The street was covered in slush after the thaw.",
+            "Public sidewalks turned to slush in the rain."
+          ],
+          "collocations": ["street slush", "slush season"],
+          "synonyms": ["mire", "slushiness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["weather", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to cover or soak with slush; to fail to give serious effort or support (informal).",
+          "examples": [
+            "The project was slushed with delays.",
+            "He tried not to let the critics slush his ambition."
+          ],
+          "collocations": ["slush with water", "slush funds (financial term)"],
+          "synonyms": ["muddle", "sully"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "slushed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "covered or saturated with slush; dull or dull-witted in slang use.",
+          "examples": [
+            "The streets were slushed after the storm.",
+            "A tired, slushed expression crossed his face."
+          ],
+          "collocations": ["slushed streets", "slushed expression"],
+          "synonyms": ["muddied", "slushy"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slusher",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "someone who slushes, or a device used to create slush; can refer to a person who relies on slush funds.",
+          "examples": [
+            "The investor was accused of being a slusher for funding covert activities.",
+            "The machine acts as a slusher in the factory."
+          ],
+          "collocations": ["slusher device", "slusher fund"],
+          "synonyms": ["slush fund user", "fund user"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["finance", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "slushes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slush; soft, wet snow or liquid mixture.",
+          "examples": [
+            "The sidewalks were covered in slush and ice.",
+            "The slushes in the tank were moved around by the mixer."
+          ],
+          "collocations": ["snow slushes", "slushes in the tank"],
+          "synonyms": ["mire", "sludge"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["weather", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "slushier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "more slushy; more soft, wet, or muddy.",
+          "examples": [
+            "The road became slushier as the rain continued.",
+            "Her boots felt heavier in the slushier parts of the path."
+          ],
+          "collocations": ["slushier conditions", "slushier ground"],
+          "synonyms": ["muddier", "slushier"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["weather", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slushies",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "frozen flavored drinks made with crushed ice; a popular treat.",
+          "examples": [
+            "Kids bought slushies from the corner shop.",
+            "Iced slushies are perfect on a hot day."
+          ],
+          "collocations": ["blue slushie", "strawberry slushies"],
+          "synonyms": ["slush drink", "icee"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slushiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "most slushy; the softest and wettest.",
+          "examples": [
+            "The slushiest corner collected the most mud.",
+            "That was the slushiest part of the day."
+          ],
+          "collocations": ["the slushiest conditions", "slushiest area"],
+          "synonyms": ["muddier", "wettest"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["weather", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slushily",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner that is slushy or wet and soft.",
+          "examples": [
+            "The path was slushily covered in meltwater.",
+            "He trekked slushily through the mud."
+          ],
+          "collocations": ["slushily dressed", "slushily moving"],
+          "synonyms": ["muddily", "wetly"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slushiness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or quality of being slushy; wet, soft, and muddy.",
+          "examples": [
+            "The slushiness made walking difficult.",
+            "Slushiness increased after the rain."
+          ],
+          "collocations": ["level of slushiness", "slushiness of the ground"],
+          "synonyms": ["muddiness", "wetness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["weather", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "slushinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slushiness; multiple instances of wet, slushy conditions.",
+          "examples": [
+            "After several heavy storms, the city faced many slushinesses.",
+            "Slushinesses varied across the park due to shade."
+          ],
+          "collocations": ["levels of slushiness", "slushinesses in different areas"],
+          "synonyms": ["muddinesses", "wetnesses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["weather", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "slushing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of making something slushy; the process of creating or applying slush.",
+          "examples": [
+            "Slushing the ice cream gave it a fun texture.",
+            "The plant uses slushing to transport nutrients."
+          ],
+          "collocations": ["slushing process", "slushing ice cream"],
+          "synonyms": ["slurrying", "muddling"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "industry"]
+        }
+      ]
+    }
+  ]
+}

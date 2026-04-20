@@ -1,0 +1,527 @@
+{
+  "items": [
+    {
+      "term": "predicable",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being predicated; describable by a predicate",
+          "examples": [
+            "The term 'cat' is predicable of both cats and kittens.",
+            "In logic, a predicable concept can be affirmed or denied of a subject."
+          ],
+          "collocations": ["predicable term", "predicable class", "predicable attribute"],
+          "synonyms": ["predictable? (note: not identical; use caution)", "descriptive"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "philosophy", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "predicableness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being able to be predicated or described by a predicate",
+          "examples": [
+            "Predicableness is a technical term in logic.",
+            "They discussed the predicableness of certain properties."
+          ],
+          "collocations": ["degree of predicableness", "predicableness of predicates"],
+          "synonyms": ["verbalizability", "describability"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "logic"]
+        }
+      ]
+    },
+    {
+      "term": "predicables",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "terms that can be predicated of a subject in classical syllogistic (e.g., universal, particular, species, genus)",
+          "examples": [
+            "Aristotle discussed predicables like genus and species.",
+            "In traditional logic, predicables are different kinds of predication."
+          ],
+          "collocations": ["first/predicable genus", "predicables in syllogism"],
+          "synonyms": ["predicable terms"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "philosophy", "logic"]
+        }
+      ]
+    },
+    {
+      "term": "predicably",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that can be predicated; able to be described by a predicate",
+          "examples": [
+            "The term is predicably true of all instances.",
+            "Predicably, the property applies to both cases."
+          ],
+          "collocations": ["predicably true", "predicably described"],
+          "synonyms": ["describably", "predicatively"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "logic"]
+        }
+      ]
+    },
+    {
+      "term": "predicament",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a difficult, unpleasant, or tricky situation",
+          "examples": [
+            "He found himself in a financial predicament.",
+            "The team faced a moral predicament after the decision."
+          ],
+          "collocations": ["difficult predicament", "sticky predicament", "in a predicament"],
+          "synonyms": ["difficulty", "bind", "jam", "tight spot"],
+          "antonyms": ["advantage", "solution", "comfort"],
+          "register": "informal",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "predicamental",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to predicaments or to the logic of predicates (rare/technical use)",
+          "examples": [
+            "The term predicamental analysis is used in certain logical discussions.",
+            "Predicamental properties were debated by the philosophers."
+          ],
+          "collocations": ["predicamental logic"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "predicamentally",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a predicamental manner; relating to predicaments in description",
+          "examples": [
+            "The narrator spoke predicamentally about the character's choices."
+          ],
+          "collocations": ["predicamentally described"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "predicaments",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple difficult or unpleasant situations",
+          "examples": [
+            "The travelers faced various predicaments after the storm.",
+            "She found herself in a series of predicaments."
+          ],
+          "collocations": ["legal predicaments", "moral predicaments", "predicaments arise"],
+          "synonyms": ["difficulties", "binds", "troubles"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "predicant",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term for a person or thing that predicates or pronounces; also a term in grammar related to predicates",
+          "examples": [
+            "In some linguistic theories, a predicant is the predicate of a sentence.",
+            "The predicants convey the action of the subject."
+          ],
+          "collocations": ["predicant role", "predicant phrase"],
+          "synonyms": ["predicator (related)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "grammar"]
+        }
+      ]
+    },
+    {
+      "term": "predicants",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of predicant; grammatical term for predicates or predicators",
+          "examples": [
+            "The predicants modify the subject in the clause.",
+            "Linguists discuss how predicants function in sentences."
+          ],
+          "collocations": ["grammatical predicants", "predicants in clauses"],
+          "synonyms": ["predicators"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "grammar"]
+        }
+      ]
+    },
+    {
+      "term": "predicate",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the part of a sentence that says something about the subject, usually a verb and its info",
+          "examples": [
+            "In 'The cat sleeps', 'sleeps' is the predicate.",
+            "The predicate describes what the subject does."
+          ],
+          "collocations": ["compound predicate", "predicate noun", "predicate logic"],
+          "synonyms": ["verb phrase", "verbal predicate"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["language", "education", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to say something about the subject; to make a claim about something",
+          "examples": [
+            "The report predicates that sales will rise.",
+            "Their findings predicate a link between factors."
+          ],
+          "collocations": ["predicates that", "predicates a correlation"],
+          "synonyms": ["assert", "state", "claim"],
+          "antonyms": ["deny", "contradict"],
+          "register": "formal",
+          "domain": ["academic", "research"]
+        }
+      ]
+    },
+    {
+      "term": "predicated",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "formed a claim or statement about something; based on or established by",
+          "examples": [
+            "The theory is predicated on a set of assumptions.",
+            "Her argument is predicated upondata from the study."
+          ],
+          "collocations": ["predicated on", "predicated upon", "predicated statements"],
+          "synonyms": ["based on", "founded on", "posit"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "logic"]
+        }
+      ]
+    },
+    {
+      "term": "predicates",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of predicate; parts of sentences that describe actions or states about the subject",
+          "examples": [
+            "The verbs 'run' and 'eat' are predicates in their sentences.",
+            "In linguistics, predicates describe the action or state."
+          ],
+          "collocations": ["logical predicates", "subject and predicates"],
+          "synonyms": ["verbal phrases", "predicative parts"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["language", "education"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person singular present of predicate; states or declares",
+          "examples": [
+            "The statement predicates a decline in revenue.",
+            "This model predicates future outcomes."
+          ],
+          "collocations": ["predicates that", "predicates a result"],
+          "synonyms": ["asserts", "claims"],
+          "antonyms": ["refutes", "denies"],
+          "register": "formal",
+          "domain": ["academic", "research"]
+        }
+      ]
+    },
+    {
+      "term": "predicating",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of declaring or stating something about a subject; applying a predicate",
+          "examples": [
+            "They are predicating a theory based on observed data.",
+            "Predicating on assumed principles, the argument progresses."
+          ],
+          "collocations": ["predicating on", "predicating a theory"],
+          "synonyms": ["state", "assert", "largely predicate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "logic"]
+        }
+      ]
+    },
+    {
+      "term": "predication",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of saying something about a subject; the assertion about a subject",
+          "examples": [
+            "Predication is a central concept in grammar and logic.",
+            "The predication of 'happy' describes the subject's state."
+          ],
+          "collocations": ["logical predication", "grammatical predication"],
+          "synonyms": ["assertion", "statement", "predicative claim"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "predicational",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to predication or the use of predicates in grammar",
+          "examples": [
+            "Predicational analysis focuses on how verbs express actions.",
+            "A predicational approach looks at sentence structure."
+          ],
+          "collocations": ["predicational analysis", "predicational grammar"],
+          "synonyms": ["predicative", "predicating"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "grammar"]
+        }
+      ]
+    },
+    {
+      "term": "predications",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of predication; acts of asserting or stating about something",
+          "examples": [
+            "Predications in the text reveal the narrator's bias.",
+            "These predications shape the overall argument."
+          ],
+          "collocations": ["logical predications", "linguistic predications"],
+          "synonyms": ["assertions", "statements"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "predicative",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "describing the subject of a sentence, often as a property or state",
+          "examples": [
+            "The word 'happy' is predicative in 'She is happy'.",
+            "Predicative adjectives come after 'to be'."
+          ],
+          "collocations": ["predicative adjective", "predicative complement"],
+          "synonyms": ["predicating", "descriptive"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["language", "education"]
+        }
+      ]
+    },
+    {
+      "term": "predicatively",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a predicative manner; in a way that functions as a predicate",
+          "examples": [
+            "The adjective is used predicatively here.",
+            "The phrase can be used predicatively."
+          ],
+          "collocations": ["used predicatively"],
+          "synonyms": ["predicatively"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["language", "education"]
+        }
+      ]
+    },
+    {
+      "term": "predicator",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that predicates; a term for a person who states or asserts",
+          "examples": [
+            "In rhetoric, a predicator may guide the argument.",
+            "The predicator asserts the main claim."
+          ],
+          "collocations": ["leading predicator", "predicator role"],
+          "synonyms": ["predicant", "proclaimer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "rhetoric"]
+        }
+      ]
+    },
+    {
+      "term": "predicators",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of predicator; people or things that predicate",
+          "examples": [
+            "Researchers studied various predicators in the language model.",
+            "Predicators influence how claims are made."
+          ],
+          "collocations": ["social predicators", "linguistic predicators"],
+          "synonyms": ["predicants"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "rhetoric"]
+        }
+      ]
+    },
+    {
+      "term": "predicatory",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "tending to take or pray upon others; exploitative; predatory",
+          "examples": [
+            "A predicatory stance toward weaker firms can attract regulatory scrutiny.",
+            "Some predicatory practices harm consumers."
+          ],
+          "collocations": ["predicatory behavior", "predicatory lending"],
+          "synonyms": ["predatory", "exploitative"],
+          "antonyms": ["nonpredatory", "benevolent"],
+          "register": "formal",
+          "domain": ["business", "law", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "predicrotic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to predicrical? (rare, medical/technical use; not common in general English)",
+          "examples": [
+            "Predicrotic waves are discussed in specialized medical texts."
+          ],
+          "collocations": ["predicrotic wave"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "predict",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to say what will happen in the future, or to guess based on information",
+          "examples": [
+            "The weather forecast predicts rain tomorrow.",
+            "Experts predict that numbers will rise."
+          ],
+          "collocations": ["predict the outcome", "predictably accurate", "predict future"],
+          "synonyms": ["foresee", "forecast", " anticipate"],
+          "antonyms": ["ignore", "neglect"],
+          "register": "neutral",
+          "domain": ["general", "science", "weather"]
+        }
+      ]
+    },
+    {
+      "term": "predictabilities",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "capabilities or qualities that make something possible to predict",
+          "examples": [
+            "The model's predictabilities improved with more data."
+          ],
+          "collocations": ["high predictability", "predictability and predictabilities"],
+          "synonyms": ["predictability"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "data science"]
+        }
+      ]
+    }
+  ]
+}

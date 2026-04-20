@@ -1,0 +1,543 @@
+{
+  "items": [
+    {
+      "term": "sheepweed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a wild plant (Centaurea picris) with yellowish flowers that grows among grasses and is considered a weed in some places",
+          "examples": [
+            "The field was overgrown with sheepweed and other weeds.",
+            "Farmers weeded the patch to remove sheepweed."
+          ],
+          "collocations": ["sheepweed growth", "weed control", "remove sheepweed"],
+          "synonyms": ["weed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "sheepy",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or resembling a sheep; timid or gentle in a way associated with sheep",
+          "examples": [
+            "The child gave the sheepy eyes at the farmer.",
+            "The sheepy scent filled the countryside air."
+          ],
+          "collocations": ["sheepy look", "sheepy features", "sheepy demeanor"],
+          "synonyms": ["ovine-like", "sheepish"],
+          "antonyms": ["bold", "assertive"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sheer",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "completely or very thin and light; almost vertical or steep",
+          "examples": [
+            "The dress is made of sheer fabric.",
+            "The cliff rose at a sheer angle."
+          ],
+          "collocations": ["sheer fabric", "sheer drop", "sheer amount"],
+          "synonyms": ["transparent", "sheer"],
+          "antonyms": ["solid", "opaque"],
+          "register": "neutral",
+          "domain": ["general", "fashion"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "absolute or complete; not mixed with anything else",
+          "examples": [
+            "She faced the problem with sheer determination.",
+            "It was sheer luck that we arrived on time."
+          ],
+          "collocations": ["sheer luck", "sheer importance", "sheer chaos"],
+          "synonyms": ["pure", "utter"],
+          "antonyms": ["partial", "mixed"],
+          "register": "neutral",
+          "domain": ["general", "emphasis"]
+        }
+      ]
+    },
+    {
+      "term": "sheered",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of shear; to cut the wool from a sheep or to cut off or remove something, especially hair or wool",
+          "examples": [
+            "They sheered the sheep in the early morning.",
+            "The hedge was sheered back to restore its shape."
+          ],
+          "collocations": ["sheered sheep", "sheered off", "sheered hair"],
+          "synonyms": ["trimmed", "shorn"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sheerer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a comparative form of sheer; something that is more sheer or transparent",
+          "examples": [
+            "This fabric is a sheerer than the previous one.",
+            "Choose a sheerer material for a lighter look."
+          ],
+          "collocations": ["more sheer", "sheerer fabric"],
+          "synonyms": ["more transparent"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sheerest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "the most sheer; extremely transparent or pure",
+          "examples": [
+            "The sheerest fabric barely blocked the light.",
+            "That line of reasoning is the sheerest nonsense."
+          ],
+          "collocations": ["the sheerest fabric", "sheerest coincidence"],
+          "synonyms": ["most transparent", "utmost"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sheering",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of cutting the wool from a sheep or trimming edges; the process of making something smooth or straight by cutting off irregularities",
+          "examples": [
+            "Farmers perform sheering annually.",
+            "The carpenter started sheering the edge to fit perfectly."
+          ],
+          "collocations": ["annual sheering", "sheering process"],
+          "synonyms": ["trimming", "paring"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "crafts"]
+        }
+      ]
+    },
+    {
+      "term": "sheerleg",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a single long leg on a sailing ship or a structural support that appears as a single slender leg",
+          "examples": [
+            "The mast stood on a stout sheerleg.",
+            "They relied on the sheerleg to lift the heavy beam."
+          ],
+          "collocations": ["steel sheerleg", "portable sheerlegs"],
+          "synonyms": ["crane2"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sheerlegs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sheerleg; multiple single-legged lifting devices or supports",
+          "examples": [
+            "They used several sheerlegs to move the locomotive.",
+            "The workshop had two large sheerlegs for heavy lifting."
+          ],
+          "collocations": ["pair of sheerlegs", "portable sheerlegs"],
+          "synonyms": ["cranes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "sheerly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a very transparent or completely; utterly",
+          "examples": [
+            "The cliff faced sheerly upward.",
+            "She smiled sheerly at the compliment."
+          ],
+          "collocations": ["speaking sheerly", "advancing sheerly"],
+          "synonyms": ["utterly", "completely"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sheerness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being sheer; transparency or thinness",
+          "examples": [
+            "The sheerness of the fabric was remarkable.",
+            "Sheers contributed to the room's bright feel."
+          ],
+          "collocations": ["apparent sheerness", "fabric sheerness"],
+          "synonyms": ["transparency", "thinness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "textile"]
+        }
+      ]
+    },
+    {
+      "term": "sheernesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sheerness; multiple instances of transparency or thinness",
+          "examples": [
+            "The sheernesses of the curtains varied by light.",
+            "They evaluated the sheernesses of several fabrics."
+          ],
+          "collocations": ["fabric sheernesses", "level of sheerness"],
+          "synonyms": ["transparencies"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "textile"]
+        }
+      ]
+    },
+    {
+      "term": "sheers",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sheer; lightweight, transparent fabric often used for curtains",
+          "examples": [
+            "The sheers let light in softly.",
+            "She wore white sheers to the wedding."
+          ],
+          "collocations": ["white sheers", "lace sheers", "sheer curtains"],
+          "synonyms": ["voiles", "gauzes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "home"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present tense or plural form of sheer; to cut or strip away hard edges; to become thin or transparent",
+          "examples": [
+            "The light sheers through the fabric.",
+            "They sheers the hedge yearly."
+          ],
+          "collocations": ["sheers through", "sheers away"],
+          "synonyms": ["trims", "prunes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sheesh",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "interjection",
+          "definition": "an expression of mild exasperation or surprise",
+          "examples": [
+            "Sheesh, that took forever.",
+            "He spilled soda again, sheesh."
+          ],
+          "collocations": ["oh, sheesh", "saying sheesh"],
+          "synonyms": ["ugh", "geez"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["informal", "internet"]
+        }
+      ]
+    },
+    {
+      "term": "sheesha",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a water pipe used for smoking flavored tobacco; also spelled shisha",
+          "examples": [
+            "They smoked apple-flavored sheesha at the cafe.",
+            "The sheesha session lasted an hour."
+          ],
+          "collocations": ["flavored sheesha", "hookah bar", "shisha tobacco"],
+          "synonyms": ["hookah", "water pipe", "shisha"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["lifestyle", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sheeshas",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sheesha; multiple water pipes for smoking",
+          "examples": [
+            "The lounge offered several sheeshas for customers.",
+            "Two friends shared different flavored sheeshas."
+          ],
+          "collocations": ["various sheeshas", "choose sheeshas"],
+          "synonyms": ["hookahs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["lifestyle", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sheet",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a flat piece of cloth used on a bed",
+          "examples": [
+            "I changed the bed sheet this morning.",
+            "The sheet is folded neatly."
+          ],
+          "collocations": ["bed sheet", "fitted sheet", "sheet set"],
+          "synonyms": ["linen", "cotton"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["home", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a large rectangular piece of paper or material",
+          "examples": [
+            "The treasure map was a fragile sheet.",
+            "Write your name on the sheet at the front."
+          ],
+          "collocations": ["sheet of paper", "sheet metal"],
+          "synonyms": ["pane", "panel", "plate"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "sheetage",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the amount or quality of sheets (paper or fabric) in a batch; a financial or production sheet count",
+          "examples": [
+            "The sheetage of the warehouse was high this quarter.",
+            "We checked the sheetage before printing."
+          ],
+          "collocations": ["sheetage control", "record sheetage"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "sheeted",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "covered or lined with sheets; provided with sheets",
+          "examples": [
+            "The roof was sheeted with metal panels.",
+            "They sheeted the windows with plastic for protection."
+          ],
+          "collocations": ["sheeted walls", "sheeted roof"],
+          "synonyms": ["covered", "lined"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction", "home"]
+        }
+      ]
+    },
+    {
+      "term": "sheeter",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or person that sheets; someone who produces sheets of material or paper; in bakery, a device that flattens dough",
+          "examples": [
+            "The newspaper press worker is a sheeter.",
+            "The bakery uses a sheeter to roll dough smoothly."
+          ],
+          "collocations": ["paper sheeter", "dough sheeter"],
+          "synonyms": ["roller", "flattening device"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "sheeters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sheeter; multiple devices or people that sheet",
+          "examples": [
+            "The factory acquired two new sheeters.",
+            "They hired extra staff as sheeters during peak season."
+          ],
+          "collocations": ["industrial sheeters", "machine sheeters"],
+          "synonyms": ["rollers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "sheetfed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "printing or production using individual sheets of paper rather than a continuous roll",
+          "examples": [
+            "Sheetfed printers are common for small runs.",
+            "They moved from roll-fed to sheetfed equipment."
+          ],
+          "collocations": ["sheetfed printing", "sheetfed press"],
+          "synonyms": ["sheet-printed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "printing"]
+        }
+      ]
+    },
+    {
+      "term": "sheetflood",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a sudden abundance or excess of sheets or papers in a system or process",
+          "examples": [
+            "The sheetflood overwhelmed the document management system.",
+            "During the audit, there was a sheetflood of records to review."
+          ],
+          "collocations": ["document sheetflood", "sheetflood of papers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "information management"]
+        }
+      ]
+    },
+    {
+      "term": "sheetful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "as much as a sheet can hold; a quantity measured in sheets",
+          "examples": [
+            "He bought a sheetful of blank sheets.",
+            "A sheetful of paper weighs a few kilograms."
+          ],
+          "collocations": ["sheetful of sheets"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "sheetier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "more sheet-like; having greater transparency or resemblance to a sheet",
+          "examples": [
+            "This fabric is sheetier than that one.",
+            "The sheetier fabric lets in more light."
+          ],
+          "collocations": ["sheetier material"],
+          "synonyms": ["more translucent"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "textile"]
+        }
+      ]
+    }
+  ]
+}

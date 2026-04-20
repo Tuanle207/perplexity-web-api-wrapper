@@ -1,0 +1,584 @@
+{
+  "items": [
+    {
+      "term": "shallopy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A nonstandard or rare term with no widely recognized meaning in contemporary English.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "shallot",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small type of onion with a mild flavor used in cooking.",
+          "examples": [
+            "Please add a shallot to the sauce.",
+            "Shallots have a softer, sweeter taste than regular onions."
+          ],
+          "collocations": [
+            "shallot bulb",
+            "minced shallots",
+            "red shallots",
+            "shallot oil",
+            "garlic and shallots"
+          ],
+          "synonyms": ["onion (smaller/milder comparison)"],
+          "antonyms": ["onion"],
+          "register": "neutral",
+          "domain": ["general", "cooking", "food"]
+        }
+      ]
+    },
+    {
+      "term": "shallots",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of shallot: small, mild-flavored onions used in cooking.",
+          "examples": [
+            "The recipe calls for three shallots.",
+            "She chopped two shallots and sautéed them in butter."
+          ],
+          "collocations": [
+            "three shallots",
+            "sautéed shallots",
+            "finely chopped shallots"
+          ],
+          "synonyms": ["shallot (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "cooking", "food"]
+        }
+      ]
+    },
+    {
+      "term": "shallow",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not deep; having little depth or height.",
+          "examples": [
+            "The water is shallow near the shore.",
+            "She has a shallow knowledge of the topic."
+          ],
+          "collocations": [
+            "shallow pool",
+            "shallow water",
+            "shallow end",
+            "shallow thinking"
+          ],
+          "synonyms": ["superficial", "surface-level"],
+          "antonyms": ["deep", "profound"],
+          "register": "neutral",
+          "domain": ["general", "geography", "education"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To become less deep; to make or become shallow.",
+          "examples": [
+            "The river shallows as it flows into the delta.",
+            "The water shallowed gradually after the heavy rain stopped."
+          ],
+          "collocations": [
+            "shallow out",
+            "shallow up"
+          ],
+          "synonyms": ["lessen depth"],
+          "antonyms": ["deepen"],
+          "register": "neutral",
+          "domain": ["general", "natural_world"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A shallow place in a body of water where it is easy to walk or wade.",
+          "examples": [
+            "We crossed the creek at the shallow with stepping stones.",
+            "The shallows are dangerous at low tide."
+          ],
+          "collocations": [
+            "in the shallows",
+            "safety in the shallows"
+          ],
+          "synonyms": ["shallow area", "shoal (less common)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "shallowbrain",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A nonstandard or playful term implying a person with limited thinking ability; typically used insultingly.",
+          "examples": [
+            "Ignore the comments of that shallowbrain.",
+            "Some trolls call others shallowbrains online."
+          ],
+          "collocations": [
+            "shallowbrain insult",
+            "shallowbrain stereotype"
+          ],
+          "synonyms": ["idiot", "fool"],
+          "antonyms": ["intelligent person", "brainiac"],
+          "register": "informal",
+          "domain": ["general", "online_communication"]
+        }
+      ]
+    },
+    {
+      "term": "shallowbrained",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a shallow or thinly developed intellect; not deep in thought.",
+          "examples": [
+            "That shallowbrained remark shows a lack of research.",
+            "Don't waste time arguing with shallowbrained critics."
+          ],
+          "collocations": [
+            "shallowbrained person",
+            "shallowbrained comment"
+          ],
+          "synonyms": ["stupid", "superficial", "dim-witted"],
+          "antonyms": ["deep-thinking", "intelligent"],
+          "register": "informal",
+          "domain": ["general", "online_communication"]
+        }
+      ]
+    },
+    {
+      "term": "shallowed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Partially or previously regarded as good; lessened in moral or emotional quality; to feel more reserved.",
+          "examples": [
+            "The mood was shalowed after the news.",
+            "He felt a shallower interest than before."
+          ],
+          "collocations": [
+            "shalowed mood",
+            "shalowed interest"
+          ],
+          "synonyms": ["lessened", "humbled"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "emotional"]
+        }
+      ]
+    },
+    {
+      "term": "shallower",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "More shallow; less deep than another object or comparison.",
+          "examples": [
+            "The pool is shallower than the lake.",
+            "Her understanding is shallower than she thinks."
+          ],
+          "collocations": [
+            "shallower pool",
+            "shallower understanding"
+          ],
+          "synonyms": ["less deep", "superficialer (informal)"],
+          "antonyms": ["deeper"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shallower",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant spelling not commonly used; typically not listed as a separate sense in modern lexicography.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "shallowerest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Nonstandard superlative form; not typically used in standard English.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shallowhearted",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Lacking depth of feeling or sympathy; not very kind or generous.",
+          "examples": [
+            "Her shallowhearted reply surprised everyone.",
+            "He showed a shallowhearted attitude toward the project."
+          ],
+          "collocations": [
+            "shallowhearted person",
+            "shallowhearted remark"
+          ],
+          "synonyms": ["callous", "cold-hearted"],
+          "antonyms": ["compassionate", "kind"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shallowing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Act or process of becoming shallow; in some contexts, a part of a verb phrase.",
+          "examples": [
+            "The shallowing of the river occurred after drought.",
+            "Shallowing of the debate happened as tempers cooled."
+          ],
+          "collocations": [
+            "the shallowing of",
+            "shallowing process"
+          ],
+          "synonyms": ["becoming shallow"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shallowings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of shallowing; areas where water is shallow.",
+          "examples": [
+            "They waded through the shallowings near the bank.",
+            "The shallowings are safe for children."
+          ],
+          "collocations": [
+            "in the shallowings",
+            "shore shallowings"
+          ],
+          "synonyms": ["shallows"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shallowish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Somewhat shallow; not very deep or serious.",
+          "examples": [
+            "His explanation was shallowish and failed to address key points.",
+            "A shallowish joke that didn't land well."
+          ],
+          "collocations": [
+            "shallowish tendency",
+            "shallowish explanation"
+          ],
+          "synonyms": ["slightly superficial", "lightweight"],
+          "antonyms": ["deep", "profound"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shallowist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who tends to think or act in a shallow or superficial way.",
+          "examples": [
+            "Don't argue with a shallowist who values appearances over substance."
+          ],
+          "collocations": [
+            "shallowist attitude",
+            "shallowist critic"
+          ],
+          "synonyms": ["superficialist", "shallow thinker"],
+          "antonyms": ["deep thinker"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shallowly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a shallow manner; not deeply or thoroughly.",
+          "examples": [
+            "The water lapped shallowly at the shore.",
+            "He breathed shallowly and paused."
+          ],
+          "collocations": [
+            "breathe shallowly",
+            "taste shallowly"
+          ],
+          "synonyms": ["superficially", "not deeply"],
+          "antonyms": ["deeply"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shallowness",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The state of being shallow; lack of depth or seriousness.",
+          "examples": [
+            "Shallowness is a flaw in critical thinking.",
+            "The shallowness of the conversation disappointed him."
+          ],
+          "collocations": [
+            "intellectual shallowness",
+            "shallowness of thought"
+          ],
+          "synonyms": ["superficiality"],
+          "antonyms": ["depth", "profoundness"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shallownesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural noun referring to acts or instances of shallowness.",
+          "examples": [
+            "The shallownesses of the discourse were evident."
+          ],
+          "collocations": [
+            "many shallownesses",
+            "cultural shallownesses"
+          ],
+          "synonyms": ["superficialities"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shallowpate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A humorous or rare compound meaning a shallow head; not common in standard usage.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shallowpated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Nonstandard formed adjective implying a shallow or lightly imagined state; not common in standard usage.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shallows",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of shallow; places where water is not deep.",
+          "examples": [
+            "They waded through the shallows near the riverbank.",
+            "The shallows are easier to cross at low tide."
+          ],
+          "collocations": [
+            "the shallows",
+            "in the shallows",
+            "danger in the shallows"
+          ],
+          "synonyms": ["shallow places", "shoals"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "shallowy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a shallow quality; not deeply felt or examined; somewhat shallow.",
+          "examples": [
+            "He offered a shallowy explanation that missed the point."
+          ],
+          "collocations": [
+            "shallowy remark",
+            "shallowy analysis"
+          ],
+          "synonyms": ["superficial", "slight"],
+          "antonyms": ["deep", "profound"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "shallu",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Unknown or nonstandard term; not established in standard English lexicon.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "shally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Nonstandard or rare form; not widely used in modern English.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "shalm",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A variant spelling of shalme or shalm; a musical or archaic term referring to a small bell or cymbal-like object used in ceremonial contexts.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["music", "ceremony"]
+        }
+      ]
+    },
+    {
+      "term": "shalms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of shalm; bells or small cymbals used in ceremonial music.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["music", "ceremony"]
+        }
+      ]
+    }
+  ]
+}

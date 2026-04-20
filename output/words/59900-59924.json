@@ -1,0 +1,603 @@
+{
+  "items": [
+    {
+      "term": "catechists",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of catechist: people who teach the principles of a religion, especially Christianity, to others.",
+          "examples": [
+            "The catechists led the Sunday class for new converts.",
+            "Several catechists volunteered to accompany the students on the church retreat."
+          ],
+          "collocations": [
+            "catechists teach",
+            "church catechists",
+            "volunteer catechists",
+            "catechists and instructors",
+            "local catechists"
+          ],
+          "synonyms": ["teacher", "instructor", "educator"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "education", "community"]
+        }
+      ]
+    },
+    {
+      "term": "catechizable",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being catechized; able to be taught the basic principles of a religion.",
+          "examples": [
+            "The material was designed to be catechizable for junior students.",
+            "In many mission schools, all children are considered catechizable."
+          ],
+          "collocations": [
+            "catechizable subjects",
+            "catechizable audience",
+            "catechizable doctrine"
+          ],
+          "synonyms": ["teachables", "instructable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "catechization",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of teaching the basic principles of a religion; formal instruction in doctrine.",
+          "examples": [
+            "The catechization of new believers took place over several weeks.",
+            "Catechization is often done in small groups to ensure understanding."
+          ],
+          "collocations": [
+            "perform catechization",
+            "catechization program",
+            "catechization class",
+            "systematic catechization"
+          ],
+          "synonyms": ["instruction", "teaching", "religious education"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "education"]
+        }
+      ]
+    },
+    {
+      "term": "catechizations",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of catechization; multiple instances or programs of religious instruction.",
+          "examples": [
+            "The diocese offered several catechizations this spring.",
+            "Historically, catechizations varied in length across communities."
+          ],
+          "collocations": [
+            "catechizations offered",
+            "local catechizations",
+            "annual catechizations"
+          ],
+          "synonyms": ["instructive programs", "religious instruction sessions"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "education"]
+        }
+      ]
+    },
+    {
+      "term": "catechize",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to teach the basic beliefs of a religion, usually by instruction and questioning.",
+          "examples": [
+            "The priest catechizes the new converts.",
+            "Teachers in Sunday school catechize children about faith and morals."
+          ],
+          "collocations": [
+            "catechize someone",
+            "catechize through questions",
+            "catechize in church"
+          ],
+          "synonyms": ["instruct", "teach", "train"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "education"]
+        }
+      ]
+    },
+    {
+      "term": "catechized",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of catechize; taught the basic beliefs of a religion.",
+          "examples": [
+            "He catechized the candidates before baptism.",
+            "She was catechized as a child in the old parish."
+          ],
+          "collocations": [
+            "catechized children",
+            "well catechized",
+            "catechized group"
+          ],
+          "synonyms": ["instructed", "taught"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "education"]
+        }
+      ]
+    },
+    {
+      "term": "catechizer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who catechizes others; a religious teacher.",
+          "examples": [
+            "The catechizer led the class with clear questions.",
+            "As a catechizer, he was patient and articulate."
+          ],
+          "collocations": [
+            "become a catechizer",
+            "assigned catechizer",
+            "experienced catechizer"
+          ],
+          "synonyms": ["teacher", "instructor", " catechist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "education"]
+        }
+      ]
+    },
+    {
+      "term": "catechizers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of catechizer; multiple people who catechize.",
+          "examples": [
+            "The diocese recruited several catechizers for the program.",
+            "Different catechizers used varied teaching methods."
+          ],
+          "collocations": [
+            "catechizers gather",
+            "trained catechizers",
+            "catechizers group"
+          ],
+          "synonyms": ["teachers", "instructors"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "education"]
+        }
+      ]
+    },
+    {
+      "term": "catechizes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of catechize; teaches the basic beliefs of a religion.",
+          "examples": [
+            "She catechizes new members every Sunday.",
+            "The program catechizes youth through discussion and storytelling."
+          ],
+          "collocations": [
+            "catechizes students",
+            "catechizes others",
+            "widely catechizes"
+          ],
+          "synonyms": ["instructs", "teaches"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "education"]
+        }
+      ]
+    },
+    {
+      "term": "catechizing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of catechize; the act of teaching religious principles.",
+          "examples": [
+            "Catechizing the class requires patience and clarity.",
+            "They spent the afternoon catechizing the group about faith."
+          ],
+          "collocations": [
+            "catechizing students",
+            "continue catechizing",
+            "focus on catechizing"
+          ],
+          "synonyms": ["educating", "teaching"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "education"]
+        }
+      ]
+    },
+    {
+      "term": "catechizings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of catechizing; occurrences or instances of religious instruction. Note: this plural is rare; more common is 'catechizings' used in some texts.",
+          "examples": [
+            "Different catechizings occurred across the parishes.",
+            "Several catechizings were part of the curriculum."
+          ],
+          "collocations": [
+            "various catechizings",
+            "recorded catechizings"
+          ],
+          "synonyms": ["instruction sessions", "teaching moments"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "education"]
+        }
+      ]
+    },
+    {
+      "term": "catechol",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical structure (a benzene ring with two adjacent hydroxyl groups) found in some natural compounds and used in chemistry.",
+          "examples": [
+            "Catechol is a common motif in aromatic chemistry.",
+            "The compound contains a catechol moiety."
+          ],
+          "collocations": [
+            "catechol ring",
+            "catechol derivative",
+            "catechol-containing"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "catecholamine",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of hormone and neurotransmitter such as dopamine, epinephrine, or norepinephrine.",
+          "examples": [
+            "Catecholamines play key roles in stress responses.",
+            "Dopamine is a well-known catecholamine in the brain."
+          ],
+          "collocations": [
+            "release catecholamines",
+            "catecholamine levels",
+            "dopamine and other catecholamines"
+          ],
+          "synonyms": ["neurotransmitter", "hormone"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "catecholaminergic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "of or relating to catecholamines or their action as neurotransmitters or hormones.",
+          "examples": [
+            " catecholaminergic neurons show dopamine signaling.",
+            "The study focuses on catecholaminergic pathways."
+          ],
+          "collocations": [
+            "catecholaminergic system",
+            "catecholaminergic neurons",
+            "catecholaminergic signaling"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "catecholamines",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of catecholamine; hormones/neurotransmitters such as dopamine, epinephrine, and norepinephrine.",
+          "examples": [
+            "Catecholamines are released during stress.",
+            "Levels of catecholamines can affect heart rate."
+          ],
+          "collocations": [
+            "increase catecholamines",
+            "catecholamines include",
+            "monitor catecholamines"
+          ],
+          "synonyms": ["neurotransmitters", "hormones"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "catechols",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "organic compounds with a benzene ring bearing two adjacent hydroxyl groups; related to catechol.",
+          "examples": [
+            "Catechols are important intermediates in organic synthesis.",
+            "The compound contains several catechols."
+          ],
+          "collocations": [
+            "catechol derivatives",
+            "catechol-type compounds",
+            "free catechols"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "catechu",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a dark astringent extract from the wood of the acacia tree, used in traditional medicines and as a tanning agent.",
+          "examples": [
+            "Catechu is used in traditional remedies.",
+            "The ink was prepared with catechu extracts."
+          ],
+          "collocations": [
+            "catechu extract",
+            "catechu resin",
+            "catechu dye"
+          ],
+          "synonyms": ["katha", "cutch"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "traditional medicine", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "catechumen",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is being instructed in the Christian faith before baptism; an inquirer becoming a Christian.",
+          "examples": [
+            "The catechumen attended classes before baptism.",
+            "Old church records mention many catechumens in the early centuries."
+          ],
+          "collocations": [
+            "catechumen and sponsor",
+            "old catechumen",
+            "catechumenal path"
+          ],
+          "synonyms": ["inquirer", "prospective Christian"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "catechumenal",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to catechumens or the catechumenate stage in Christian initiation.",
+          "examples": [
+            "catechumenal rites are performed before baptism.",
+            "The catechumenal journey includes instruction and sponsorship."
+          ],
+          "collocations": [
+            "catechumenal rite",
+            "catechumenal year",
+            "catechumenal catechesis"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "catechumenate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the period of instruction and formation for catechumens before baptism; the catechetical process.",
+          "examples": [
+            "The catechumenate lasted several months.",
+            "During the catechumenate, candidates study doctrine and participate in worship."
+          ],
+          "collocations": [
+            "length of catechumenate",
+            "catechumenate process",
+            "catechumenate program"
+          ],
+          "synonyms": ["instruction period", "pre-baptism formation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "catechumenates",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of catechumenate; multiple instruction periods before baptism.",
+          "examples": [
+            "Several catechumenates were scheduled this year.",
+            "The diocese supported catechumenates across parishes."
+          ],
+          "collocations": [
+            "catechumenates offered",
+            "regional catechumenates"
+          ],
+          "synonyms": ["instruction periods"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "catechumenical",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to catechumens or to catechesis and early Christian instruction.",
+          "examples": [
+            "catechumenical writings guided early converts.",
+            "The rite has catechumenical significance."
+          ],
+          "collocations": [
+            "catechumenical instruction",
+            "catechumenical period",
+            "catechumenical rites"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "catechumenically",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that relates to catechumens or catechetical instruction.",
+          "examples": [
+            "The group studied catechumenically, focusing on core tenets.",
+            "They organized catechumenically structured sessions."
+          ],
+          "collocations": [
+            "catechumenically oriented",
+            "catechumenically guided"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "education"]
+        }
+      ]
+    },
+    {
+      "term": "catechumenism",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the system or doctrine of catechesis and instructions for new Christians; the practice of catechizing.",
+          "examples": [
+            "Catechumenism has shaped many Christian communities.",
+            "Scholars debate aspects of early catechumenism."
+          ],
+          "collocations": [
+            "early catechumenism",
+            "theology of catechumenism",
+            "catechumenism movement"
+          ],
+          "synonyms": ["catechesis", "instruction in faith"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "catechumenisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of catechumenism; multiple systems or instances of catechetical instruction.",
+          "examples": [
+            "The conference compared various catechumenisms.",
+            "Different communities practiced distinct catechumenisms."
+          ],
+          "collocations": [
+            "different catechumenisms",
+            "traditional catechumenisms"
+          ],
+          "synonyms": ["catechesis traditions"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "anthropology"]
+        }
+      ]
+    }
+  ]
+}

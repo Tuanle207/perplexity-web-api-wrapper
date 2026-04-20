@@ -1,0 +1,607 @@
+{
+  "items": [
+    {
+      "term": "timecard",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A card or device used to record the hours an employee has worked.",
+          "examples": [
+            "He punched his timecard when he arrived at work.",
+            "Missing timecard entries can delay payroll."
+          ],
+          "collocations": [
+            "punch timecard",
+            "clock timecard",
+            "employee timecard",
+            "weekly timecard",
+            "timecard system"
+          ],
+          "synonyms": ["timesheet", "work chart"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "employment", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timecards",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of timecard; multiple cards or records of hours worked.",
+          "examples": [
+            "The HR department reviews timecards each pay period.",
+            "Employees submit their timecards for approval."
+          ],
+          "collocations": [
+            "approve timecards",
+            "submit timecards",
+            "timecard entries",
+            "weekly timecards"
+          ],
+          "synonyms": ["timesheets"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "employment", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a specified duration or time limit; scheduled or timed to occur at a particular time.",
+          "examples": [
+            "The timed test lasted 60 minutes.",
+            "We completed the task in a timed session."
+          ],
+          "collocations": [
+            "timed test",
+            "timed challenge",
+            "timed release",
+            "timed interval"
+          ],
+          "synonyms": ["scheduled", "duration-based"],
+          "antonyms": ["untimed", "spontaneous"],
+          "register": "neutral",
+          "domain": ["education", "technology", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Past tense of time; to measure or estimate the duration of something.",
+          "examples": [
+            "They timed the race with a stopwatch.",
+            "She timed the interruptions to minimize delays."
+          ],
+          "collocations": [
+            "time a race",
+            "time an event",
+            "time the gaps"
+          ],
+          "synonyms": ["measure", "chronicle"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timeframe",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A specific period during which something happens or is planned to happen.",
+          "examples": [
+            "The project must be completed within a tight timeframe.",
+            "We expanded the timeframe to include more milestones."
+          ],
+          "collocations": [
+            "short timeframe",
+            "project timeframe",
+            "timeline timeframe",
+            "within timeframe"
+          ],
+          "synonyms": ["time window", "period", "deadline window"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "project management", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timeframes",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of timeframe; multiple periods during which things are planned or expected to occur.",
+          "examples": [
+            "The report covers several timeframes from Q1 to Q4.",
+            "Adjusting the timeframes helped align deadlines."
+          ],
+          "collocations": [
+            "different timeframes",
+            "define timeframes",
+            "stakeholder timeframes"
+          ],
+          "synonyms": ["time windows", "periods"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "planning", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timeful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Using or filled with time; full of timing or moments.",
+          "examples": [
+            "A timeful day gave us many little moments.",
+            "Her timeful schedule left little room for breaks."
+          ],
+          "collocations": [
+            "timeful day",
+            "timeful schedule",
+            "timeful life"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["poetry", "literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timefully",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a way that shows time or timing is important; with careful timing.",
+          "examples": [
+            "He spoke timefully, choosing his words with care.",
+            "The plan was timefully executed to avoid delays."
+          ],
+          "collocations": [
+            "live timefully",
+            "plan timefully"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timefulness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality of incorporating or respecting time; attentiveness to timing.",
+          "examples": [
+            "Timefulness improved project coordination.",
+            "The team's timefulness helped meet the deadline."
+          ],
+          "collocations": [
+            "demonstrate timefulness",
+            "increase timefulness"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timekeep",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To keep track of time or to record time, especially for work hours or events.",
+          "examples": [
+            "They timekeep to ensure fair pay.",
+            "The system timekeeps every shift automatically."
+          ],
+          "collocations": [
+            "timekeep hours",
+            "timekeep records",
+            "timekeeping"
+          ],
+          "synonyms": ["timetrack", "clock"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "timekeeper",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person or device that records time, especially hours worked.",
+          "examples": [
+            "The timekeeper stamped the clock when staff started.",
+            "A digital timekeeper tracks hours automatically."
+          ],
+          "collocations": [
+            "hall timekeeper",
+            "official timekeeper",
+            "digital timekeeper"
+          ],
+          "synonyms": ["timecontroller", "clock"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["workplace", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timekeepers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of timekeeper; multiple devices or people that record time.",
+          "examples": [
+            "The stadium uses several timekeepers during events.",
+            "Switzerland is known for reliable timekeepers."
+          ],
+          "collocations": [
+            "official timekeepers",
+            "backup timekeepers"
+          ],
+          "synonyms": ["timekeepers (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timekeepership",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The state or office of keeping time; the function or role of a timekeeper.",
+          "examples": [
+            "He inherited the timekeepership of the guild.",
+            "Timekeepership requires precision and reliability."
+          ],
+          "collocations": [
+            "assume timekeepership",
+            "timekeepership duties"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["historical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timekeeping",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act or practice of recording the amount of time spent or elapsed.",
+          "examples": [
+            "Timekeeping is essential for accurate payroll.",
+            "Digital timekeeping can reduce errors."
+          ],
+          "collocations": [
+            "accurate timekeeping",
+            "timekeeping system",
+            "timekeeping records"
+          ],
+          "synonyms": ["time recording"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timekeepings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of timekeeping; multiple records or practices of recording time.",
+          "examples": [
+            "Different departments have separate timekeepings.",
+            "We compare timekeepings across teams."
+          ],
+          "collocations": [
+            "compare timekeepings",
+            "standardize timekeepings"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timeless",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not affected by time; lasting forever; classic; not influenced by trends.",
+          "examples": [
+            "The timeless beauty of the painting endures.",
+            "A timeless story that people read for generations."
+          ],
+          "collocations": [
+            "timeless classic",
+            "timeless beauty",
+            "timeless appeal"
+          ],
+          "synonyms": ["eternal", "classic", "perennial"],
+          "antonyms": ["temporary", "faddish"],
+          "register": "neutral",
+          "domain": ["art", "literature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timelessly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a timeless manner; in a way that remains unaffected by time.",
+          "examples": [
+            "The scene unfolds timelessly, as if suspended in memory.",
+            "She moves timelessly, not aging with the years."
+          ],
+          "collocations": [
+            "timelessly elegant",
+            "timelessly beautiful"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["arts", "literature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timelessness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The state or quality of being timeless; lasting forever or seeming to.",
+          "examples": [
+            "Timelessness is a key trait of many masterpieces.",
+            "The film captures a sense of timelessness."
+          ],
+          "collocations": [
+            "perceived timelessness",
+            "sense of timelessness"
+          ],
+          "synonyms": ["eternality", "enduring quality"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["arts", "philosophy", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timelessnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of timelessness; multiple instances or qualities of timelessness.",
+          "examples": [
+            "The essay notes several timelessnesses in the culture.",
+            "Different artists express timelessnesses in varied ways."
+          ],
+          "collocations": [
+            "highlight timelessnesses"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["arts", "philosophy", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timelia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A genus of alga or plant; used in informal biological naming, not common in everyday language.",
+          "examples": [
+            "Timelia is a genus noted in marine botany texts."
+          ],
+          "collocations": [
+            "Timelia species"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "timelier",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "More closely suited to the current time; more appropriate or timely.",
+          "examples": [
+            "A timelier response could have prevented the issue.",
+            "We need timelier data to make decisions."
+          ],
+          "collocations": [
+            "timelier than",
+            "more timelier" ,
+            "timelier update"
+          ],
+          "synonyms": ["more timely", "more appropriate"],
+          "antonyms": ["untimely", "inopportune"],
+          "register": "neutral",
+          "domain": ["business", "data", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timeliest",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Most timely; most appropriate or fitting for the moment.",
+          "examples": [
+            "This is the timeliest moment to act.",
+            "We chose the timeliest option available."
+          ],
+          "collocations": [
+            "timeliest moment",
+            "timeliest option"
+          ],
+          "synonyms": ["most timely", "most appropriate"],
+          "antonyms": ["untimeliest", "inopportune"],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timeliidae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A taxonomic family name; usage in scientific contexts to group related genera.",
+          "examples": [
+            "The Timeliidae includes several fossil genera."
+          ],
+          "collocations": [
+            "family Timeliidae"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "timeliine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A taxonomic term or placeholder used in certain classifications.",
+          "examples": [
+            "The specimen was assigned a timeliine classification."
+          ],
+          "collocations": [
+            "timeliine species"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "timelily",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having the appearance or structure of a timeline; arranged in order of time.",
+          "examples": [
+            "The book presents events in a timelily sequence.",
+            "A timelily layout helps readers track progress."
+          ],
+          "collocations": [
+            "timelily sequence",
+            "timelily arrangement"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literary", "design", "general"]
+        }
+      ]
+    },
+    {
+      "term": "timeline",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A line showing the order of events in time; a sequence of dates or times.",
+          "examples": [
+            "We drew a timeline of the project milestones.",
+            "Her life timeline starts with her birth in 1990."
+          ],
+          "collocations": [
+            "historical timeline",
+            "timeline of events",
+            "timeline view",
+            "timeline chart"
+          ],
+          "synonyms": ["chronology", "time line"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "history", "general"]
+        }
+      ]
+    }
+  ]
+}

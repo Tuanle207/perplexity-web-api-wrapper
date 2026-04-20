@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "term": "rymming",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A misspelling or playful variant of 'rhyming', referring to words that have a similar ending sound.",
+          "examples": ["The author notes many rymming patterns in the poem, intentionally using playful sounds."],
+          "collocations": ["rymming patterns", "rymming words", "sound rymming"],
+          "synonyms": ["rhyming"],
+          "antonyms": ["unrhyming"],
+          "register": "informal",
+          "domain": ["language", "education", "literature"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To compose or identify words that have the same ending sounds; to rhyme.",
+          "examples": ["She enjoys rymming lines to create a musical effect.", "The lyrics rymming the chorus with the verses impressed the crowd."],
+          "collocations": ["rymming lines", "rymming words", "rymming scheme"],
+          "synonyms": ["rhyme", "rhyming"],
+          "antonyms": ["unrhyming", "nonrhyming"],
+          "register": "informal",
+          "domain": ["language", "literature", "poetry"]
+        }
+      ]
+    }
+  ]
+}

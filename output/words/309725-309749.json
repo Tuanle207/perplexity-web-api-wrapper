@@ -1,0 +1,516 @@
+{
+  "items": [
+    {
+      "term": "proofread",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to read and correct a written text in order to improve its grammar, punctuation, and spelling",
+          "examples": [
+            "I need to proofread my essay before submitting it.",
+            "She proofreads all the reports for accuracy.",
+            "Before printing, please proofread the draft for any errors."
+          ],
+          "collocations": ["proofread the manuscript", "carefully proofread", "proofread for mistakes", "proofread and edit"],
+          "synonyms": ["edit", "polish", "revise"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education", "writing"]
+        }
+      ]
+    },
+    {
+      "term": "proofreader",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who reads written text to find and correct errors before publication",
+          "examples": [
+            "The proofreader fixed several typos in the manuscript.",
+            "We hired a proofreader to improve the report.",
+            "Being a proofreader requires attention to detail."
+          ],
+          "collocations": ["professional proofreader", "hire a proofreader", "proofreader's mark"],
+          "synonyms": ["editor", "copy editor"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "publishing", "writing"]
+        }
+      ]
+    },
+    {
+      "term": "proofreaders",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of proofreader; multiple people who proofread texts",
+          "examples": [
+            "The magazine employs several proofreaders.",
+            "Proofreaders worked in shifts to meet the deadline."
+          ],
+          "collocations": ["team of proofreaders", "proofreaders' notes"],
+          "synonyms": ["editors"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["publishing", "writing"]
+        }
+      ]
+    },
+    {
+      "term": "proofreading",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the activity of reading and correcting a text for errors before publication",
+          "examples": [
+            "Proofreading is the final stage before printing.",
+            "She spends two hours on proofreading each day."
+          ],
+          "collocations": ["last-minute proofreading", "proofreading pass", "thorough proofreading"],
+          "synonyms": ["editing", "copy editing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "publishing", "writing"]
+        }
+      ]
+    },
+    {
+      "term": "proofreadings",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of proofreading; instances or records of proofreading actions",
+          "examples": [
+            "The author submitted several proofreadings for review.",
+            "We compared proofreadings across different drafts."
+          ],
+          "collocations": ["proofreading sessions", "proofreadings notes"],
+          "synonyms": ["edits", "corrections"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["publishing", "writing"]
+        }
+      ]
+    },
+    {
+      "term": "proofreads",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of proofread; to read and correct a text for errors",
+          "examples": [
+            "She proofreads the manuscript every evening.",
+            "He proofreads emails before sending them."
+          ],
+          "collocations": ["proofreads quickly", "proofreads for clarity"],
+          "synonyms": ["edits", "checks"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "publishing", "writing"]
+        }
+      ]
+    },
+    {
+      "term": "proofroom",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a room used for preparing or testing proofs; a term not widely standard outside specific contexts",
+          "examples": [
+            "The artist stored materials in the proofroom.",
+            "We reserved the proofroom for a quiet review."
+          ],
+          "collocations": ["proofroom access", "go to the proofroom"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["workplace", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "proofrooms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of proofroom; rooms used for proofs or testing in certain settings",
+          "examples": [
+            "Two proofrooms were available for demonstrations."
+          ],
+          "collocations": ["proofrooms available"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["workplace", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "proofs",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a text made to demonstrate a truth or a correct result; a verifiable argument or a mathematical statement",
+          "examples": [
+            "We have proofs that the theory works.",
+            "He shared the proofs from the experiment."
+          ],
+          "collocations": ["mathematical proofs", "proofs and disproofs", "proofs provided"],
+          "synonyms": ["evidence", "arguments"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "science", "mathematics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "proofy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "informal: resembling or containing proofs; not a standard common word",
+          "examples": [
+            "The document had a proofy look, with many citations."
+          ],
+          "collocations": ["proofy style"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "prootic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "anatomical: relating to the prootic part of the skull",
+          "examples": [
+            "The prootic bone is located near the temporal region."
+          ],
+          "collocations": ["prootic bone", "prootic region"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "prootics",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prootic; anatomical term used in biology",
+          "examples": [
+            "Researchers studied the prootics of the specimen."
+          ],
+          "collocations": ["prootics development"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "prop",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a support that holds something up; a tool or object used on stage or in filming",
+          "examples": [
+            "She used a prop to hold the curtain in place.",
+            "The actor carried a prop sword."
+          ],
+          "collocations": ["stage prop", "prop shelf", "prop list"],
+          "synonyms": ["support", "tool"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["theatre", "film", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to support or prop up; to provide physical or moral support",
+          "examples": [
+            "They propped the fence with a wooden stake.",
+            "The evidence props up his alibi."
+          ],
+          "collocations": ["prop up", "prop against", "prop the door"],
+          "synonyms": ["support", "shore up"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "construction", "law"]
+        }
+      ]
+    },
+    {
+      "term": "propacifism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a theoretical stance combining propaganda with pacifism; not a standard common term",
+          "examples": [
+            "The essay discusses propacifism in modern movements."
+          ],
+          "collocations": ["propacifism theory"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "propacifist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who combines propaganda strategies with pacifist beliefs; not common",
+          "examples": [
+            "The speaker was labeled a propacifist by critics."
+          ],
+          "collocations": ["propacifist advocate"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "propadiene",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical compound (also known as allene) with the formula C3H4",
+          "examples": [
+            "Propadiene is a reactive hydrocarbon used in organic synthesis."
+          ],
+          "collocations": ["propadiene synthesis", "propadiene gas"],
+          "synonyms": ["allene"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "propaedeutic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "instructional or introductory teaching; a preparatory course",
+          "examples": [
+            "The students attended propaedeutic lectures before the main course."
+          ],
+          "collocations": ["propaedeutic study", "propaedeutic curriculum"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "academic"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "serving as an introduction or preface; introductory",
+          "examples": [
+            "A propaedeutic course helps beginners understand the basics."
+          ],
+          "collocations": ["propaedeutic primer"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "propaedeutical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to propaedeutics; introductory or preparatory",
+          "examples": [
+            "The propaedeutical material is designed for new students."
+          ],
+          "collocations": ["propaedeutical material"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "propaedeutics",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the branch of study dealing with introductory teaching or preliminary training",
+          "examples": [
+            "The course covers propaedeutics to science."
+          ],
+          "collocations": ["propaedeutics curriculum"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "propagabilities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form referring to the capacity to propagate or spread (rare in common usage)",
+          "examples": [
+            "The propagabilities of the device depend on environmental factors."
+          ],
+          "collocations": ["propagabilities of an idea"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "propagability",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being propagable; ability to spread or replicate",
+          "examples": [
+            "Assess the propagability of the signal before deployment."
+          ],
+          "collocations": ["propagability assessment"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "propagable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being propagated or spread",
+          "examples": [
+            "The virus is propagable under certain conditions."
+          ],
+          "collocations": ["propagable material"],
+          "synonyms": ["propagatable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "propagableness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being propagable; ease of propagation",
+          "examples": [
+            "High propagableness increases spread potential."
+          ],
+          "collocations": ["propagableness factor"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "propagand",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the letters are likely a misspelling of propaganda; historically related term",
+          "examples": [
+            "This page seems to be a misspelling of propagand."
+          ],
+          "collocations": ["propagand note"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "communication"]
+        }
+      ]
+    },
+    {
+      "term": "propaganda",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "information, ideas, or rumors spread to influence opinions or actions, often biased or misleading",
+          "examples": [
+            "The speech was full of propaganda.",
+            "They used propaganda to sway public opinion."
+          ],
+          "collocations": ["political propaganda", "state propaganda", "war propaganda"],
+          "synonyms": ["disinformation", "persuasion", "indoctrination"],
+          "antonyms": ["truth", "transparency"],
+          "register": "neutral",
+          "domain": ["politics", "media", "society"]
+        }
+      ]
+    }
+  ]
+}

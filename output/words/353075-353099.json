@@ -1,0 +1,625 @@
+{
+  "items": [
+    {
+      "term": "servente",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person employed to do basic or domestic work, or to assist in tasks that do not require specialized training.",
+          "examples": [
+            "The servent-turned-helper cleaned the kitchen after the meal.",
+            "In some offices, a servent helps with filing and tidying the workspace."
+          ],
+          "collocations": [
+            "servant",
+            "household servent",
+            "servente de pedreiro (construction context in Portuguese)"
+          ],
+          "synonyms": [
+            "servant",
+            "domestic worker",
+            "housekeeper"
+          ],
+          "antonyms": [
+            "employer",
+            "master"
+          ],
+          "register": "neutral",
+          "domain": ["general", "household", "occupation"]
+        }
+      ]
+    },
+    {
+      "term": "serventism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Historically, a conception or movement related to servente-like service; in some contexts, a belief system associated with early religious or social notions of service. Note: this term is rare and not common in contemporary everyday English.",
+          "examples": [
+            "Scholars study servetism as part of historical linguistics.",
+            "The usage of serventism appears primarily in old texts."
+          ],
+          "collocations": [
+            "serventism term",
+            "historical servetism"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaeic",
+          "domain": ["academic", "history"]
+        }
+      ]
+    },
+    {
+      "term": "server",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A computer or program that provides data, resources, or services to other computers or devices over a network.",
+          "examples": [
+            "The website loads slowly because the server is busy.",
+            "She works as a server at a busy cafe on weekends."
+          ],
+          "collocations": [
+            "web server",
+            "file server",
+            "server room",
+            "database server"
+          ],
+          "synonyms": [
+            "host",
+            "machine",
+            "computer"
+          ],
+          "antonyms": [
+            "client"
+          ],
+          "register": "neutral",
+          "domain": ["technology", "general", "business"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A person who serves food or drinks in a restaurant or at an event; a waiter or waitress.",
+          "examples": [
+            "The server took our order promptly.",
+            "Tip the server if you were happy with the service."
+          ],
+          "collocations": [
+            "restaurant server",
+            "friendly server",
+            "table server"
+          ],
+          "synonyms": [
+            "waiter",
+            "waitress",
+            "attendant"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food_service", "general"]
+        }
+      ]
+    },
+    {
+      "term": "serveries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Places or rooms where meals or provisions are served; a plural form referring to locations for serving food.",
+          "examples": [
+            "The campus has several serveries where students can eat.",
+            "Old monasteries had multiple serveries to feed guests."
+          ],
+          "collocations": [
+            "refectory",
+            "dining serveries",
+            "on-site serveries"
+          ],
+          "synonyms": [
+            "refectories",
+            "diners"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "architecture", "hospitality"]
+        }
+      ]
+    },
+    {
+      "term": "servers",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple devices or people that provide services, such as computers in a network or people who serve food.",
+          "examples": [
+            "The restaurant has several servers working tonight.",
+            "The data centers rely on powerful servers to handle requests."
+          ],
+          "collocations": [
+            "file servers",
+            "web servers",
+            "server farm"
+          ],
+          "synonyms": [
+            "hosts",
+            "machines"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "business", "food_service"]
+        }
+      ]
+    },
+    {
+      "term": "servery",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A place where food is prepared or served; a serving area in a kitchen or establishment.",
+          "examples": [
+            "The Servery is where cooks place hot dishes.",
+            "Maintenance checked the servery for cleanliness."
+          ],
+          "collocations": [
+            "kitchen servery",
+            "servery area"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["kitchen", "hospitality"]
+        }
+      ]
+    },
+    {
+      "term": "serves",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To give or provide something to someone; to help or be of use.",
+          "examples": [
+            "This dish serves four people.",
+            "He serves his community by volunteering."
+          ],
+          "collocations": [
+            "serve a meal",
+            "serve customers",
+            "serve tea"
+          ],
+          "synonyms": [
+            "provide",
+            "present",
+            "dish out"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "food_service", "community"]
+        }
+      ]
+    },
+    {
+      "term": "servet",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A historical or rare term; not widely used in modern English. Could refer to a serving or to a formal service context in older texts.",
+          "examples": [
+            "The manuscript uses the word servet in a ceremonial sense."
+          ],
+          "collocations": [
+            "ceremonial servet"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "servetian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A member or follower of a group or ideology named after a figure or concept; rare and context-specific.",
+          "examples": [
+            "The text mentions a servetian community.",
+            "Historically, a servetian was described in religious writings."
+          ],
+          "collocations": [
+            "servetian movement"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "servette",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A diminutive or variant spelling referring to a small serving or a nicknaming form; not standard in modern usage.",
+          "examples": [
+            "The term servette appears in some glossaries."
+          ],
+          "collocations": [
+            "servette form"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "dictionary"]
+        }
+      ]
+    },
+    {
+      "term": "servewe",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A nonstandard or mistaken form; not widely recognized in standard English.",
+          "examples": [
+            "Servewe is not found in major dictionaries."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["languages"]
+        }
+      ]
+    },
+    {
+      "term": "servewed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "A nonstandard or archaic form; not used in current standard English.",
+          "examples": [
+            "Servewed is not a common modern form."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["language"]
+        }
+      ]
+    },
+    {
+      "term": "servewes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Nonstandard plural form; not commonly used in modern English.",
+          "examples": [
+            "Servewes appears in old texts."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["language"]
+        }
+      ]
+    },
+    {
+      "term": "servewing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A rarely used or nonstandard term; not part of standard contemporary English.",
+          "examples": [
+            "Servewing is not commonly used."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["language"]
+        }
+      ]
+    },
+    {
+      "term": "serviable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Capable of being served or of serving; usable or serviceable.",
+          "examples": [
+            "The tool is serviable and still works well.",
+            "They kept the old equipment serviable for emergencies."
+          ],
+          "collocations": [
+            "serviable condition",
+            "serviable tool"
+          ],
+          "synonyms": [
+            "useful",
+            "serviceable",
+            "functional"
+          ],
+          "antonyms": [
+            "useless",
+            "broken"
+          ],
+          "register": "neutral",
+          "domain": ["general", "equipment"]
+        }
+      ]
+    },
+    {
+      "term": "servian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to servers or serving; not commonly used in modern everyday English.",
+          "examples": [
+            "The term has servian connotations in old manuals."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "service",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An act of helping or doing work for someone; useful work that a person or company provides.",
+          "examples": [
+            "The bank offers excellent customer service.",
+            "They provide 24-hour roadside service."
+          ],
+          "collocations": [
+            "customer service",
+            "service industry",
+            "public service"
+          ],
+          "synonyms": [
+            "assistance",
+            "help",
+            "facility"
+          ],
+          "antonyms": [
+            "harm",
+            "damage"
+          ],
+          "register": "neutral",
+          "domain": ["general", "business", "public"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Work done for others; a system or method by which something is used or supplied.",
+          "examples": [
+            "Internet service provider",
+            "serving of meals is part of the service."
+          ],
+          "collocations": [
+            "service quality",
+            "maintenance service",
+            "after-sales service"
+          ],
+          "synonyms": [
+            "utilization",
+            "use"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "serviceabilities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A plural form referring to the qualities of a product or item that make it capable of being used or functioning as intended.",
+          "examples": [
+            "The serviceabilities of the device include long battery life."
+          ],
+          "collocations": [
+            "high serviceability",
+            "serviceability features"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "serviceability",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The ability of something to be used or kept in good working order; the ease of maintenance.",
+          "examples": [
+            "The serviceability of this tool is excellent.",
+            "Designers considered serviceability in the product, making repairs simple."
+          ],
+          "collocations": [
+            "improved serviceability",
+            "maintenance serviceability"
+          ],
+          "synonyms": [
+            "usability",
+            "maintainability"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "serviceable",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Fit to be used or kept in good condition; usable.",
+          "examples": [
+            "The old equipment is still serviceable.",
+            "We kept a serviceable spare tire in the trunk."
+          ],
+          "collocations": [
+            "serviceable condition",
+            "serviceable equipment"
+          ],
+          "synonyms": [
+            "usable",
+            "functional",
+            "fit"
+          ],
+          "antonyms": [
+            "unserviceable",
+            "broken"
+          ],
+          "register": "neutral",
+          "domain": ["general", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "serviceableness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality of being serviceable; usefulness or practicality.",
+          "examples": [
+            "Serviceableness is valued in reliable gear."
+          ],
+          "collocations": [
+            "high serviceableness"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "serviceablenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form referring to multiple aspects of being serviceable; various degrees of usefulness.",
+          "examples": [
+            "The serviceablenesses of this toolkit vary by model."
+          ],
+          "collocations": [
+            "varying serviceableness"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "serviceably",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a manner that is usable or serviceable.",
+          "examples": [
+            "The equipment functioned serviceably during the expedition.",
+            "The machines were serviceably maintained."
+          ],
+          "collocations": [
+            "operate serviceably",
+            "serviceably repair"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technical", "industrial"]
+        }
+      ]
+    },
+    {
+      "term": "serviceberries",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A type of edible berry from the serviceberry plant, also called saskatoon or juneberry in some regions.",
+          "examples": [
+            "Serviceberries are sweet and can be eaten fresh.",
+            "They grow in temperate areas and are used in jams."
+          ],
+          "collocations": [
+            "eaten fresh",
+            "made into jam",
+            "picked berries"
+          ],
+          "synonyms": [
+            "saskatoon",
+            "juneberry"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "botany"]
+        }
+      ]
+    }
+  ]
+}

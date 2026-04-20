@@ -1,0 +1,516 @@
+{
+  "items": [
+    {
+      "term": "showerier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative of showery: more showery; having more rain showers or rain-like appearance",
+          "examples": [
+            "a showerier sky than yesterday",
+            "the forecast promises a showerier afternoon."
+          ],
+          "collocations": ["more showery", "showerier sky", "showerier forecast"],
+          "synonyms": ["rainier"],
+          "antonyms": ["drier"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "showeriest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative of showery: the most showery; having the greatest amount of rain showers or rain-like appearance",
+          "examples": [
+            "the showeriest day of the week",
+            "a showeriest forecast yet."
+          ],
+          "collocations": ["most showery", "the showeriest day"],
+          "synonyms": ["rainiest"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "showeriness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being showery; the presence of rain showers or a sky that looks rainy",
+          "examples": [
+            "the showeriness of the afternoon discouraged outdoor plans.",
+            "they noted the showeriness in the forecast."
+          ],
+          "collocations": ["degree of showeriness", "showeriness of the weather"],
+          "synonyms": ["raininess", "wetness"],
+          "antonyms": ["dryness"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "showerinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of showeriness; multiple instances or degrees of being showery",
+          "examples": [
+            "the showerinesses in the forecast across the region.",
+            "observed showerinesses vary by hour."
+          ],
+          "collocations": ["showerinesses in the forecast", "multiple showerinesses"],
+          "synonyms": ["raininesses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "showering",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of shower; to fall or cause to fall in rain; to bathe or wash oneself under running water",
+          "examples": [
+            "it is showering outside.",
+            "they are showering after the gym.",
+            "she is showering the plants with water."
+          ],
+          "collocations": ["showering outside", "showering under warm water", "showering the plants"],
+          "synonyms": ["raining", "bathing", "watering"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "showerings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of showering; acts of showering or things that shower",
+          "examples": [
+            "two showerings occurred during the day.",
+            "the showerings of gifts at the party."
+          ],
+          "collocations": ["two showerings", "occasional showerings"],
+          "synonyms": ["baths", "washings"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "showerless",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without rain showers; lacking rain; without a showering effect",
+          "examples": [
+            "a showerless afternoon",
+            "the garden remained showerless for weeks."
+          ],
+          "collocations": ["showerless afternoon", "post-showerless period"],
+          "synonyms": ["dry", "rainless"],
+          "antonyms": ["showery", "rainy"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "showerlike",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling a shower; having characteristics like a rain shower",
+          "examples": [
+            "a showerlike drizzle",
+            "the sky had a showerlike quality."
+          ],
+          "collocations": ["showerlike drizzle", "showerlike appearance"],
+          "synonyms": ["rainlike", "showery"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "showerproof",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resistant to rain; able to withstand rain without water getting through",
+          "examples": [
+            "a showerproof jacket",
+            "the tent is showerproof."
+          ],
+          "collocations": ["showerproof jacket", "showerproof fabric"],
+          "synonyms": ["waterproof", "water-resistant"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "showerproofed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of showerproof; treated or made resistant to rain",
+          "examples": [
+            "the coat was showerproofed for the trip.",
+            "they showerproofed the tent before the expedition."
+          ],
+          "collocations": ["showerproofed coat", "showerproofed tent"],
+          "synonyms": ["waterproofed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "showerproofing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of making something resistant to rain",
+          "examples": [
+            "the showerproofing of outdoor equipment is essential.",
+            "they invested in showerproofing for the gear."
+          ],
+          "collocations": ["showerproofing process", "improved showerproofing"],
+          "synonyms": ["waterproofing", "rainproofing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "showerproofings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of showerproofing; multiple measures or instances of making rain-resistant",
+          "examples": [
+            "different showerproofings were applied to the jackets.",
+            "the project included several showerproofings."
+          ],
+          "collocations": ["several showerproofings", "different showerproofings"],
+          "synonyms": ["waterproofings"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "showerproofs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "devices or materials that provide shower protection; sometimes shorthand for showerproof products",
+          "examples": [
+            "these showerproofs are lightweight.",
+            "the catalog lists several showerproofs."
+          ],
+          "collocations": ["showerproofs catalog", "lightweight showerproofs"],
+          "synonyms": ["waterproofs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "showers",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "short periods of rain; a rain shower",
+          "examples": [
+            "the forecast predicts showers this afternoon.",
+            "we waited out the showers under a cafe awning."
+          ],
+          "collocations": ["afternoon showers", "heavy showers", "light showers"],
+          "synonyms": ["rain", "sprinkle"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "plural of shower as a place where one washes or a party to celebrate a forthcoming event",
+          "examples": [
+            "a bridal shower",
+            "the baby shower was nice."
+          ],
+          "collocations": ["bridal shower", "baby shower", "shower party"],
+          "synonyms": ["bath", "celebration"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "social"]
+        }
+      ]
+    },
+    {
+      "term": "showery",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having lots of showers; rainy with short bursts of rain",
+          "examples": [
+            "showery weather is forecast for tomorrow.",
+            "they wore hats for the showery day."
+          ],
+          "collocations": ["showery weather", "showery day"],
+          "synonyms": ["rainy", "showersome"],
+          "antonyms": ["dry", "sunny"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "showfolk",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people involved in shows or performances; performers or audience in a show context",
+          "examples": [
+            "the showfolk gathered backstage.",
+            "showfolk prepared for the finale."
+          ],
+          "collocations": ["showfolk", "fellow showfolk"],
+          "synonyms": ["performers", "cast", "audience"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "showful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the amount or number of shows or exhibition items; a quantity on display",
+          "examples": [
+            "the gallery offers a showful of portraits.",
+            "a showful of demonstrations adorned the hall."
+          ],
+          "collocations": ["showful of", "a large showful"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "general"]
+        }
+      ]
+    },
+    {
+      "term": "showghe",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "no standard meaning in contemporary English; appears to be a nonword or error",
+          "examples": [
+            "no clear usage found for showghe."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "showghes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "no standard meaning in contemporary English; appears to be a nonword or error",
+          "examples": [
+            "no clear usage found for showghes."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "showgirl",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a dancer or performer, typically in a club, who performs in a show",
+          "examples": [
+            "the showgirl took a bow on stage.",
+            "showgirls often wear elaborate costumes."
+          ],
+          "collocations": ["showgirl costume", "showgirl performance"],
+          "synonyms": ["performer", "dancer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "showgirls",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of showgirl; multiple performers",
+          "examples": [
+            "the showgirls waved to the crowd.",
+            "a troupe of showgirls presented the finale."
+          ],
+          "collocations": ["showgirls waved", "group of showgirls"],
+          "synonyms": ["performers", "dancers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "showgoer",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who attends a show or performance",
+          "examples": [
+            "the showgoers filled the theater early.",
+            "as a showgoer, she knew the backstage layout."
+          ],
+          "collocations": ["showgoer ticket", "season showgoer"],
+          "synonyms": ["audience member", "attendee"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "showgoers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of showgoer; multiple attendees",
+          "examples": [
+            "the showgoers waited for the curtain to rise.",
+            "season showgoers often get priority seating."
+          ],
+          "collocations": ["showgoers", "season showgoers"],
+          "synonyms": ["audience", "attendees"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "showground",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an area or ground where shows or events are held; a fairground",
+          "examples": [
+            "the showground hosted a variety of events.",
+            "parking near the showground is busy on weekends."
+          ],
+          "collocations": ["showground site", "the showground admission"],
+          "synonyms": ["fairground", "exhibition ground"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "events"]
+        }
+      ]
+    },
+    {
+      "term": "showgrounds",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of showground; multiple show venues",
+          "examples": [
+            "the showgrounds were bustling with visitors.",
+            "two showgrounds hosted different exhibitions."
+          ],
+          "collocations": ["showgrounds", "the showgrounds"],
+          "synonyms": ["fairgrounds", "exhibition grounds"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "events"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,495 @@
+{
+  "items": [
+    {
+      "term": "shoplift",
+      "kind": "verb",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to steal goods from a store while pretending to be a customer",
+          "examples": [
+            "Someone tried to shoplift a jacket from the department store.",
+            "If you’re caught shoplifting, security will involve the police."
+          ],
+          "collocations": ["shoplift a product", "shoplift goods", "shoplift attempt"],
+          "synonyms": ["steal from a shop", "lift"],
+          "antonyms": ["return", "pay for"],
+          "register": "informal",
+          "domain": ["everyday", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "shoplifted",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of shoplift; stole goods from a store",
+          "examples": [
+            "The suspect shoplifted a pair of sunglasses yesterday.",
+            "She claimed she did not shoplift anything."
+          ],
+          "collocations": ["shoplifted goods", "was shoplifted? (not standard)", "shoplifted item"],
+          "synonyms": ["stole from a shop", "lifted"],
+          "antonyms": ["paid for", "returned"],
+          "register": "informal",
+          "domain": ["everyday", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "shoplifter",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who steals goods from a shop",
+          "examples": [
+            "The shoplifter was stopped by the security guard.",
+            "Shoplifters are sometimes caught on surveillance cameras."
+          ],
+          "collocations": ["shoplifter arrest", "known shoplifter", "shoplifter incident"],
+          "synonyms": ["thief", "larcenist (archaic)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "shoplifters",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shoplifter; multiple people who steal from shops",
+          "examples": [
+            "Two shoplifters were taken into custody.",
+            "The store has a policy to deter shoplifters."
+          ],
+          "collocations": ["shoplifters arrested", "names of shoplifters", "shoplifters in the mall"],
+          "synonyms": ["thieves", "larcenists"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "shoplifting",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of stealing goods from a shop",
+          "examples": [
+            "Shoplifting is a crime.",
+            "The store implemented measures to prevent shoplifting."
+          ],
+          "collocations": ["prevent shoplifting", "shoplifting incident", "shoplifting spree"],
+          "synonyms": ["theft in a store", "larceny (shop)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "shopliftings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of shoplifting; acts of stealing from shops",
+          "examples": [
+            "Several shopliftings were reported this month."
+          ],
+          "collocations": ["multiple shopliftings", "unreported shopliftings"],
+          "synonyms": ["thefts in stores"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "shoplifts",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of shoplift; steals from a shop",
+          "examples": [
+            "He shoplifts from time to time, but rarely gets caught.",
+            "Stores monitor anyone who shoplifts."
+          ],
+          "collocations": ["shoplifts a jacket", "shoplifts items"],
+          "synonyms": ["steals from a shop", "pilfers"],
+          "antonyms": ["pays for", "buys"],
+          "register": "informal",
+          "domain": ["everyday", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "shoplike",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "similar to or characteristic of a shop",
+          "examples": [
+            "The market has a shoplike feel with bright displays.",
+            "They arranged the space in a shoplike way."
+          ],
+          "collocations": ["shoplike appearance", "shoplike atmosphere"],
+          "synonyms": ["storelike", "retail-like"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "shopmaid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female shop assistant or a servant who works in a shop",
+          "examples": [
+            "The shopmaid attended to customers all afternoon.",
+            "In old plays, a shopmaid served the shopkeeper."
+          ],
+          "collocations": ["shopmaid duties", "shopmaid uniform"],
+          "synonyms": ["shopgirl", "shop assistant"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "shopman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a man who works in a shop; shopkeeper or salesman",
+          "examples": [
+            "The shopman greeted customers at the door.",
+            "Old novels refer to a shopman with a friendly smile."
+          ],
+          "collocations": ["shopman duties", "shopman clerk"],
+          "synonyms": ["shopkeeper", "salesman"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "shopmark",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mark or sign used in a shop for branding or pricing",
+          "examples": [
+            "The shopmark on the window advertised today's sale."
+          ],
+          "collocations": ["shopmark symbol", "storefront shopmark"],
+          "synonyms": ["logo", "brand mark"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "marketing"]
+        }
+      ]
+    },
+    {
+      "term": "shopmate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who works in the same shop; colleague or companion in a shop",
+          "examples": [
+            "She shared tea breaks with her shopmate.",
+            "Shopmates often help each other during busy periods."
+          ],
+          "collocations": ["shopmate colleague", "shopmate duties"],
+          "synonyms": ["colleague", "co-worker"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "work"]
+        }
+      ]
+    },
+    {
+      "term": "shopmen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shopman; male shop workers or shopkeepers",
+          "examples": [
+            "The shopmen attended the night shift.",
+            "A group of shopmen gathered at the market."
+          ],
+          "collocations": ["shopmen workers", "shopmen union"],
+          "synonyms": ["shopkeepers", "salesmen"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "work"]
+        }
+      ]
+    },
+    {
+      "term": "shopocracy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rule or power of merchants or shopkeepers in a society",
+          "examples": [
+            "The term shopocracy describes a governance dominated by merchants."
+          ],
+          "collocations": ["shopocracy system", "merchants' shopocracy"],
+          "synonyms": ["merchants' rule", "merchant oligarchy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "shopocrat",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who favors or participates in shopocracy; a merchant leader",
+          "examples": [
+            "The town's shopocrat influenced local policies."
+          ],
+          "collocations": ["shopocrat leader", "shopocrat influence"],
+          "synonyms": ["merchant leader", "shopkeeper leader"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "shoppe",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an old-fashioned spelling of shop; a small store",
+          "examples": [
+            "They visited a quaint shoppe in the village."
+          ],
+          "collocations": ["quaint shoppe", "olde shoppe"],
+          "synonyms": ["shop", "store"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "shopped",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of shop; visited stores to buy things",
+          "examples": [
+            "She shopped for groceries all afternoon.",
+            "We shopped until we found the perfect outfit."
+          ],
+          "collocations": ["shopped for groceries", "shopped around", "shopped online"],
+          "synonyms": ["bought", "purchased", "browsed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "shopping"]
+        }
+      ]
+    },
+    {
+      "term": "shopper",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is buying things in a shop",
+          "examples": [
+            "The shopper compared prices before buying.",
+            "Shoppers lined up at the checkout."
+          ],
+          "collocations": ["shopper behavior", "store shopper", "regular shopper"],
+          "synonyms": ["customer", "buyer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "retail"]
+        }
+      ]
+    },
+    {
+      "term": "shoppers",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shopper; multiple people buying things in shops",
+          "examples": [
+            "Shoppers waited for the sale to begin.",
+            "The mall attracts many shoppers daily."
+          ],
+          "collocations": ["shoppers and browsers", "loyal shoppers"],
+          "synonyms": ["customers", "buyers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "retail"]
+        }
+      ]
+    },
+    {
+      "term": "shoppes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "archaic or stylistic spelling of shops (stores)",
+          "examples": [
+            "The old manuscript lists several shoppes in the town."
+          ],
+          "collocations": ["local shoppes", "village shoppes"],
+          "synonyms": ["shops", "storehouses"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "shoppier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "more shoplike or more like a shop; fancier or more cluttered like a shop",
+          "examples": [
+            "The market is shoppier today with new displays.",
+            "Their living room has a shoppier aesthetic than before."
+          ],
+          "collocations": ["shoppier decor", "shoppier atmosphere"],
+          "synonyms": ["store-like", "more shop-like"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "design"]
+        }
+      ]
+    },
+    {
+      "term": "shoppiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "most shoplike or most characteristic of a shop",
+          "examples": [
+            "The window display is the shoppiest part of the store."
+          ],
+          "collocations": ["shoppiest display", "shoppiest vibe"],
+          "synonyms": ["storelikeest (colloquial)", "most shop-like"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["design", "retail"]
+        }
+      ]
+    },
+    {
+      "term": "shopping",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the activity of buying goods and services",
+          "examples": [
+            "Shopping helps people plan what to eat for the week.",
+            "We went shopping for shoes."
+          ],
+          "collocations": ["online shopping", "daily shopping", "grocery shopping"],
+          "synonyms": ["buying", "purchasing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "retail"]
+        }
+      ]
+    },
+    {
+      "term": "shoppings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of shopping; instances or types of shopping",
+          "examples": [
+            "They compared shoppings across several shops."
+          ],
+          "collocations": ["different shoppings", "shoppings around town"],
+          "synonyms": ["purchases", "buying trips"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["retail", "daily life"]
+        }
+      ]
+    },
+    {
+      "term": "shoppini",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of small Italian shop or café (from Italian, in English sometimes used playfully)",
+          "examples": [
+            "We stopped at a tiny shoppini for coffee."
+          ],
+          "collocations": ["local shoppini", "italian shoppini"],
+          "synonyms": ["small shop", "cafe-bar (informal)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "retail", "culture"]
+        }
+      ]
+    }
+  ]
+}

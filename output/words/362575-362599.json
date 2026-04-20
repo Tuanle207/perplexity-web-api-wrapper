@@ -1,0 +1,507 @@
+{
+  "items": [
+    {
+      "term": "smogless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "free from smog; with no smoke-related pollution in the air",
+          "examples": [
+            "The city tried to stay smogless during the festival by limiting car traffic.",
+            "We enjoyed a smogless morning on the coast."
+          ],
+          "collocations": [
+            "smogless day",
+            "smogless air",
+            "smogless skyline"
+          ],
+          "synonyms": ["pollution-free", "clear-air"],
+          "antonyms": ["smoggy", "polluted"],
+          "register": "neutral",
+          "domain": ["environment", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smogs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smog; thick, hazy air caused by pollution from smoke and other pollutants",
+          "examples": [
+            "Cities often experience smogs in winter due to burning coal.",
+            "The smogs reduced visibility on the highway."
+          ],
+          "collocations": [
+            "air smogs",
+            "urban smogs",
+            "smogs rise",
+            "thick smogs"
+          ],
+          "synonyms": ["pollution fog", "haze"],
+          "antonyms": ["clear air", "clean air"],
+          "register": "neutral",
+          "domain": ["environment", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smoile",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "smoiled",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "smoiles",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "smoiling",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "smokable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being smoked or smoked in a device or process",
+          "examples": [
+            "This tobacco is smokable in a pipe.",
+            "Only smokable herbs are allowed in the grill."
+          ],
+          "collocations": [
+            "smokable tobacco",
+            "smokable herbs",
+            "smokable material"
+          ],
+          "synonyms": ["ready-to-smoke", "smoking-ready"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smokables",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "items that are suitable to be smoked, such as tobacco or herbs",
+          "examples": [
+            "The shop stocked several smokables, including different tobaccos.",
+            "Containment rules restrict smokables in carry-on luggage."
+          ],
+          "collocations": [
+            "different smokables",
+            "smokeable items",
+            "legal smokables"
+          ],
+          "synonyms": ["smokeables", "smoke-able items"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["commerce", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smoke",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the visible gaseous product of burning something; the smoke from a fire",
+          "examples": [
+            "The smoke from the campfire drifted toward the tent.",
+            "Smoke filled the room after the chimney cracked."
+          ],
+          "collocations": [
+            "smoke rises",
+            "thick smoke",
+            "puff of smoke",
+            "smoke detector"
+          ],
+          "synonyms": ["vapor", "fog", "fumage"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "environment"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to inhale and exhale smoke from a cigarette, pipe, or other burning substance",
+          "examples": [
+            "He began to smoke after dinner.",
+            "Smokers are asked to go outside."
+          ],
+          "collocations": [
+            "smoke a cigarette",
+            "smoke weed",
+            "smoke a pipe"
+          ],
+          "synonyms": ["inhale", "puff"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["lifestyle", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smokeable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "fit to be smoked; suitable to smoke",
+          "examples": [
+            "Only smokeable blends are sold in this shop.",
+            "The supplier provided several smokeable varieties."
+          ],
+          "collocations": [
+            "smokeable product",
+            "smokeable blend",
+            "smokeable material"
+          ],
+          "synonyms": ["smoke-ready", "smokeable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["commerce", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smokeboard",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a board used for smoking or as a surface to place smoking-related items; also a term for a regulatory or oversight board related to smoking in some contexts",
+          "examples": [
+            "The hotel installed a new smokeboard for ash management.",
+            "The smokeboard committee reviews tobacco advertising."
+          ],
+          "collocations": [
+            "smokeboard policy",
+            "smokeboard meeting",
+            "smokeboard regulation"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "smokeboards",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smokeboard; multiple boards or regulatory bodies related to smoking",
+          "examples": [
+            "City smokeboards issued new advisories.",
+            "Smokeboards across campuses updated their guidelines."
+          ],
+          "collocations": [
+            "smokeboards rules",
+            "smokeboards meetings"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["policy", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smokebox",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a container or chamber where smoke is contained or vented; in some contexts a small stove or device containing burning material",
+          "examples": [
+            "The smoker loaded wood into the smokebox and sealed it.",
+            "The railway smokebox covers the exhaust area."
+          ],
+          "collocations": [
+            "smokebox door",
+            "smokebox vent",
+            "smokebox design"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smokeboxes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smokebox; multiple smokeboxes",
+          "examples": [
+            "The locomotive had several smokeboxes in different models.",
+            "Smokeboxes on vintage trains vary in size."
+          ],
+          "collocations": [
+            "smokeboxes design",
+            "smokeboxes maintenance"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smokebush",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a shrub or small tree, Cotinus coggygria, with feathery plumes resembling smoke",
+          "examples": [
+            "The garden featured a smoky glow from the smokebush in spring.",
+            "Smokebush is known for its dramatic, fluffy seed clusters."
+          ],
+          "collocations": [
+            "smokebush hedge",
+            "smokebush trim",
+            "smokebush shrub"
+          ],
+          "synonyms": ["cotinus", "smoke tree"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["botany", "gardening"]
+        }
+      ]
+    },
+    {
+      "term": "smokechaser",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who pursues or follows smoke, often used metaphorically for someone who investigates or chases after problems or rumors related to smoke or fire",
+          "examples": [
+            "The fire investigator acted as a smokechaser to find the source.",
+            "In the newsroom, she played the role of a smokechaser, tracking down the truth."
+          ],
+          "collocations": [
+            "smokechaser report",
+            "smokechaser role"
+          ],
+          "synonyms": ["fire investigator", "truth-seeker"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["occupational", "journalism", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smoked",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having been exposed to smoke or cured by smoking; flavored or preserved by smoking",
+          "examples": [
+            "Smoked salmon is a popular breakfast item.",
+            "The cheese was smoked for extra flavor."
+          ],
+          "collocations": [
+            "smoked fish",
+            "smoked meat",
+            "smoked salmon"
+          ],
+          "synonyms": ["cured", "smoked-flavored"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "past tense of smoke; to have inhaled smoke or to have exposed something to smoke",
+          "examples": [
+            "He smoked a cigarette after lunch.",
+            "The meat was smoked for eight hours."
+          ],
+          "collocations": [
+            "smoked fish",
+            "smoked meat",
+            "smoked salmon"
+          ],
+          "synonyms": ["inhabited by smoke", "cured by smoking"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["lifestyle", "food"]
+        }
+      ]
+    },
+    {
+      "term": "smokefarthings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "smokeho",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "smokehole",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the opening in a chimney or stove through which smoke escapes",
+          "examples": [
+            "Clear the smokehole to improve draft.",
+            "Smoke rose from the smokehole of the old stove."
+          ],
+          "collocations": [
+            "smokehole draft",
+            "smokehole opening"
+          ],
+          "synonyms": ["flue opening", "chimney opening"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smokehood",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or condition of being enclosed and surrounded by smoke; a smoker's hood or mask in some contexts",
+          "examples": [
+            "In a closed room, smokehood is essential for safety.",
+            "The escape room used smokehoods to simulate a hazy environment."
+          ],
+          "collocations": [
+            "smokehood device",
+            "smokehood safety"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["safety", "general"]
+        }
+      ]
+    },
+    {
+      "term": "smokehoods",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smokehood; multiple smokehoods",
+          "examples": [
+            "The lab stocked several smokehoods for experiments.",
+            "Smokehoods are part of proper PPE in some industries."
+          ],
+          "collocations": [
+            "smokehoods for labs",
+            "smokehoods PPE"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["safety", "occupational"]
+        }
+      ]
+    },
+    {
+      "term": "smokehos",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "smokehouse",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a building or room where meat or other foods are smoked for flavor and preservation",
+          "examples": [
+            "The smokehouse adds a rich, smoky flavor to the brisket.",
+            "They built a small smokehouse in their backyard."
+          ],
+          "collocations": [
+            "smokehouse meat",
+            "smokehouse technique",
+            "smokehouse recipe"
+          ],
+          "synonyms": ["smoking shed", "smoker"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "domestic"]
+        }
+      ]
+    },
+    {
+      "term": "smokehouses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of smokehouse; multiple buildings or rooms for smoking foods",
+          "examples": [
+            "The town had several smokehouses along the river.",
+            "Smoking times vary between smokehouses."
+          ],
+          "collocations": [
+            "smokehouses and curing",
+            "many smokehouses"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "business"]
+        }
+      ]
+    }
+  ]
+}

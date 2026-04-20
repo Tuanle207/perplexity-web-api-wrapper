@@ -1,0 +1,430 @@
+{
+  "items": [
+    {
+      "term": "prehensibility",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being understandable or capable of being understood.",
+          "examples": ["The teacher explained the concept with great clarity, increasing the overall prehensibility of the material."],
+          "collocations": ["high prehensibility", "level of prehensibility", "improved prehensibility"],
+          "synonyms": ["comprehensibility", "understandability"],
+          "antonyms": ["incomprehensibility", "obscurity"],
+          "register": "formal",
+          "domain": ["general", "education"]
+        }
+       
+      ]
+    },
+    {
+      "term": "prehensible",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being understood; intelligible.",
+          "examples": ["The instructions are prehensible once you read them slowly.", "Her handwriting is barely prehensible to anyone but herself."],
+          "collocations": ["prehensible enough", "readily prehensible", "not prehensible"],
+          "synonyms": ["understandable", "comprehensible"],
+          "antonyms": ["incomprehensible", "obscure"],
+          "register": "formal",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "prehensile",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of grasping or holding, especially by use of a limb or organ that can grasp.",
+          "examples": ["The monkey has a prehensile tail that it uses to grip branches.", "Some creatures have prehensile tongues or appendages for feeding."],
+          "collocations": ["prehensile tail", "prehensile limb", "prehensile organ"],
+          "synonyms": ["grasping", "tactile", "grasping-enabled"],
+          "antonyms": ["non-grasping", "immobile"],
+          "register": "neutral",
+          "domain": ["biology", "animal science"]
+        }
+      ]
+    },
+    {
+      "term": "prehensilities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prehensility; the capacities or instances of being prehensile.",
+          "examples": ["Different species exhibit varying prehensilities.", "The study compared edge cases of prehensilities in mammals."],
+          "collocations": ["various prehensilities", "levels of prehensility"],
+          "synonyms": ["prehensile capabilities"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "zoology"]
+        }
+      ]
+    },
+    {
+      "term": "prehensility",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or quality of being prehensile; the ability to grasp.",
+          "examples": ["The prehensility of the octopus is remarkable.", "Researchers tested the limits of prehensility in different species."],
+          "collocations": ["degree of prehensility", "level of prehensility"],
+          "synonyms": ["grasping ability", "prehension"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "prehension",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of grasping or understanding; comprehension or perception.",
+          "examples": ["Her prehension of the text was quick and accurate.", "The film requires careful prehension of its themes."],
+          "collocations": ["grasping prehension", "prehension of ideas", "sensory prehension"],
+          "synonyms": ["comprehension", "understanding"],
+          "antonyms": ["misunderstanding", "ignorance"],
+          "register": "neutral",
+          "domain": ["education", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "prehensions",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prehension; instances or acts of grasping or understanding.",
+          "examples": ["The biologist noted several unusual prehensions among specimens.", "Analysts tracked the prehensons of the language learners."],
+          "collocations": ["various prehensions", "different prehensions"],
+          "synonyms": ["graspings", "comprehensions"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "prehensive",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comprehensive; including all or much; broad in scope.",
+          "examples": ["A comprehensive study was published on the topic.", "The report provides comprehensive coverage of the issue."],
+          "collocations": ["comprehensive analysis", "comprehensive review", "comprehensive coverage"],
+          "synonyms": ["thorough", "complete", "inclusive"],
+          "antonyms": ["limited", "incomplete"],
+          "register": "formal",
+          "domain": ["education", "research", "general"]
+        }
+      ]
+    },
+    {
+      "term": "prehensiveness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being comprehensive; including or dealing with all or nearly all elements or aspects.",
+          "examples": ["The guide's comprehensiveness makes it a valuable resource.", "There is room to improve the comprehensiveness of the documentation."],
+          "collocations": ["level of comprehensiveness", "overall comprehensiveness"],
+          "synonyms": ["completeness", "breadth"],
+          "antonyms": ["narrowness", "partiality"],
+          "register": "formal",
+          "domain": ["education", "publishing"]
+        }
+      ]
+    },
+    {
+      "term": "prehensor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one who prehends; a holder or restrainer in certain mechanical or legal senses; a person who captures or seizes.",
+          "examples": ["The legal preensor acted to secure evidence.", "In anatomy, a preensor muscle performs a grasping action."],
+          "collocations": ["criminal preensor", "prehensor muscle"],
+          "synonyms": ["seizer", "grasper"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["law", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "prehensorial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a preensor; capable of grasping or restraining.",
+          "examples": ["The prehensorial apparatus aids the creature in climbing.", "Anatomists describe the prehensorial muscles in detail."],
+          "collocations": ["prehensorial system", "prehensorial action"],
+          "synonyms": ["grasping", "seizing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "prehensors",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of preensor; devices or persons that prehend or seize.",
+          "examples": ["The cage includes multiple prehensors to secure the net.", "Researchers study the actions of various prehensors."],
+          "collocations": ["multiple prehensors", "types of prehensors"],
+          "synonyms": ["graspers", "seizers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "prehensory",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to prehension or grasping; capable of grasping.",
+          "examples": ["The prehensory limb evolved for better grasping.", "This device provides prehensory feedback to users."],
+          "collocations": ["prehensory function", "prehensory limb"],
+          "synonyms": ["grasping", "prehension"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "biomechanics"]
+        }
+      ]
+    },
+    {
+      "term": "prehepatic",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "situated or occurring before the liver in the body, particularly in relation to blood flow or anatomy.",
+          "examples": ["Prehepatic conditions affect how blood enters the liver.", "The prehepatic phase of digestion is when bile is produced."],
+          "collocations": ["prehepatic period", "prehepatic blood flow"],
+          "synonyms": ["antehepatic"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "prehepaticus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Latin-derived term used in medical contexts to refer to prehepatic conditions or classifications.",
+          "examples": ["Diagnosis noted prehepaticus factors in the chart."],
+          "collocations": ["prehepaticus classification"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "preheroic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "occurring before the heroic or epic stage; not yet heroic in narrative or action.",
+          "examples": ["The preheroic tales set the stage for legend.", "In preheroic times, communities faced dangers differently."],
+          "collocations": ["preheroic era", "preheroic episodes"],
+          "synonyms": ["pre-epic", "early-stage"],
+          "antonyms": ["heroic", "epic"],
+          "register": "literary",
+          "domain": ["literature", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "prehesitancy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an older or variant spelling of hesitancy; hesitation before action.",
+          "examples": ["His prehesitancy delayed the decision until it was too late."],
+          "collocations": ["great prehesitancy", "notable prehesitancy"],
+          "synonyms": ["hesitation", "reluctance"],
+          "antonyms": ["decisiveness", "certainty"],
+          "register": "neutral",
+          "domain": ["psychology", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "prehesitate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to hesitate before acting; to delay.",
+          "examples": ["To avoid mistakes, he prehesitated before answering.", "She tends to prehesitate when faced with ambiguity."],
+          "collocations": ["to prehesitate", "prehesitated response"],
+          "synonyms": ["hesitate", "delay", "stall"],
+          "antonyms": ["proceed", "decide"],
+          "register": "neutral",
+          "domain": ["psychology", "communication"]
+        }
+      ]
+    },
+    {
+      "term": "prehesitated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of prehesitate; acted with hesitation.",
+          "examples": ["He prehesitated before signing the contract."],
+          "collocations": ["prehesitated action", "prehesitated decision"],
+          "synonyms": ["hesitated", "delayed"],
+          "antonyms": ["proceeded", "decided"],
+          "register": "neutral",
+          "domain": ["business", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "prehesitating",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of prehesitate; hesitant in action.",
+          "examples": ["She was prehesitating at the edge of the platform."],
+          "collocations": ["prehesitating before", "prehesitating motion"],
+          "synonyms": ["hesitating", "stalling"],
+          "antonyms": ["proceeding", "acting"],
+          "register": "neutral",
+          "domain": ["psychology", "daily usage"]
+        }
+      ]
+    },
+    {
+      "term": "prehesitation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or moment of hesitating before acting; hesitation before a choice.",
+          "examples": ["There was a moment of prehesitation before the leap.", "His prehesitation slowed the team's progress."],
+          "collocations": ["brief prehesitation", "sudden prehesitation"],
+          "synonyms": ["hesitation", "reluctance"],
+          "antonyms": ["decisiveness", "resolve"],
+          "register": "neutral",
+          "domain": ["psychology", "daily usage"]
+        }
+      ]
+    },
+    {
+      "term": "prehexameral",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or consisting of a prehexamer; a term used in biochemistry to describe a state before a six-unit assembly.",
+          "examples": ["The prehexameral stage is observed in the early assembly process."],
+          "collocations": ["prehexameral complex"],
+          "synonyms": ["pre-hexameric"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "biochemistry"]
+        }
+      ]
+    },
+    {
+      "term": "prehiring",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of hiring in advance or to preselect candidates; or a person who is considered for hiring early.",
+          "examples": ["The company announced prehiring of applicants who met criteria."],
+          "collocations": ["prehiring period", "prehiring decision"],
+          "synonyms": ["preselection", "early hiring"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "human resources"]
+        }
+      ]
+    },
+    {
+      "term": "prehistorian",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who studies prehistory, especially the period before written records.",
+          "examples": ["The archaeologist is a renowned prehistorian.", "Prehistorians study ancient tools and cultures."],
+          "collocations": ["famous prehistorian", "archaeological prehistorian"],
+          "synonyms": ["archaeologist (contextually)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "prehistorians",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of prehistorian; people who study prehistory.",
+          "examples": ["Several prehistorians presented new findings."],
+          "collocations": ["team of prehistorians"],
+          "synonyms": ["archaeologists (contextual)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "anthropology"]
+        }
+      ]
+    }
+  ]
+}

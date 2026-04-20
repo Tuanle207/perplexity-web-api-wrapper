@@ -1,0 +1,854 @@
+{
+"items": [
+{
+"term": "rimbase",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a base or lower edge forming a rim-like support",
+"examples": ["The rimbase of the container held it steady."],
+"collocations": ["rimbase support", "metal rimbase"],
+"synonyms": ["base", "edge"],
+"antonyms": [],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "rime",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a white frost formed by freezing fog on surfaces",
+"examples": ["The trees were covered in rime after the cold night."],
+"collocations": ["rime ice", "heavy rime", "coated in rime"],
+"synonyms": ["frost", "hoarfrost"],
+"antonyms": [],
+"register": null,
+"domain": ["weather"]
+}
+]
+},
+{
+"term": "rimed",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "covered with frost or rime",
+"examples": ["The rimed branches sparkled in the sun."],
+"collocations": ["rimed surface", "rimed trees"],
+"synonyms": ["frosted", "icy"],
+"antonyms": ["bare"],
+"register": null,
+"domain": ["weather"]
+}
+]
+},
+{
+"term": "rimeless",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "without frost or rime",
+"examples": ["The fields were rimeless despite the cold."],
+"collocations": ["rimeless morning"],
+"synonyms": ["clear", "unfrosted"],
+"antonyms": ["rimed"],
+"register": null,
+"domain": ["weather"]
+}
+]
+},
+{
+"term": "rimer",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a person who writes rhymes or poetry",
+"examples": ["The rimer composed short verses."],
+"collocations": ["skilled rimer", "young rimer"],
+"synonyms": ["poet", "versifier"],
+"antonyms": [],
+"register": "literary",
+"domain": ["literature"]
+}
+]
+},
+{
+"term": "rimers",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "people who write rhymes or poetry",
+"examples": ["Medieval rimers often traveled widely."],
+"collocations": ["wandering rimers"],
+"synonyms": ["poets"],
+"antonyms": [],
+"register": "literary",
+"domain": ["literature"]
+}
+]
+},
+{
+"term": "rimery",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the practice or art of writing rhymes",
+"examples": ["His rimery was admired for its rhythm."],
+"collocations": ["fine rimery"],
+"synonyms": ["poetry", "verse"],
+"antonyms": [],
+"register": "literary",
+"domain": ["literature"]
+}
+]
+},
+{
+"term": "rimes",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of rime; frost formed by freezing fog",
+"examples": ["The rimes melted as the temperature rose."],
+"collocations": ["thick rimes"],
+"synonyms": ["frosts"],
+"antonyms": [],
+"register": null,
+"domain": ["weather"]
+}
+]
+},
+{
+"term": "rimester",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a writer of rhymes or simple poetry",
+"examples": ["The rimester entertained the crowd."],
+"collocations": ["amateur rimester"],
+"synonyms": ["poet"],
+"antonyms": [],
+"register": "literary",
+"domain": ["literature"]
+}
+]
+},
+{
+"term": "rimesters",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of rimester",
+"examples": ["The rimesters gathered to share their work."],
+"collocations": ["local rimesters"],
+"synonyms": ["poets"],
+"antonyms": [],
+"register": "literary",
+"domain": ["literature"]
+}
+]
+},
+{
+"term": "rimfire",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "a type of firearm cartridge fired by striking its rim",
+"examples": ["The rifle uses rimfire ammunition."],
+"collocations": ["rimfire cartridge", "rimfire rifle"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["technology"]
+}
+]
+},
+{
+"term": "rimfires",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of rimfire cartridges",
+"examples": ["He stocked several rimfires for practice."],
+"collocations": ["small rimfires"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["technology"]
+}
+]
+},
+{
+"term": "rimier",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "comparative form of rimy; more covered with frost",
+"examples": ["The north side was rimier than the south."],
+"collocations": ["rimier surface"],
+"synonyms": [],
+"antonyms": ["clearer"],
+"register": null,
+"domain": ["weather"]
+}
+]
+},
+{
+"term": "rimiest",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "superlative form of rimy; most covered with frost",
+"examples": ["It was the rimiest morning of the winter."],
+"collocations": ["rimiest conditions"],
+"synonyms": [],
+"antonyms": ["clearest"],
+"register": null,
+"domain": ["weather"]
+}
+]
+},
+{
+"term": "rimiform",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "having the shape of a rim or edge",
+"examples": ["The rimiform structure surrounded the center."],
+"collocations": ["rimiform shape"],
+"synonyms": ["ring-shaped"],
+"antonyms": [],
+"register": "formal",
+"domain": ["academic"]
+}
+]
+},
+{
+"term": "riminess",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the state of being covered with frost",
+"examples": ["The riminess of the air was visible."],
+"collocations": ["winter riminess"],
+"synonyms": ["frostiness"],
+"antonyms": [],
+"register": null,
+"domain": ["weather"]
+}
+]
+},
+{
+"term": "riminesses",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of riminess",
+"examples": ["Different riminesses appeared across regions."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": []
+}
+]
+},
+{
+"term": "riming",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "verb",
+"definition": "forming frost or covering with rime",
+"examples": ["The cold air is riming the branches."],
+"collocations": ["riming surfaces"],
+"synonyms": ["frosting"],
+"antonyms": [],
+"register": null,
+"domain": ["weather"]
+}
+]
+},
+{
+"term": "rimland",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "a region along the edge of a larger area or continent",
+"examples": ["The country lies in the coastal rimland."],
+"collocations": ["coastal rimland"],
+"synonyms": ["borderland"],
+"antonyms": ["center"],
+"register": null,
+"domain": ["geography"]
+}
+]
+},
+{
+"term": "rimlands",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of rimland",
+"examples": ["The rimlands are economically important."],
+"collocations": ["eastern rimlands"],
+"synonyms": ["border regions"],
+"antonyms": [],
+"register": null,
+"domain": ["geography"]
+}
+]
+},
+{
+"term": "rimless",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "having no outer edge or frame",
+"examples": ["He wore rimless glasses."],
+"collocations": ["rimless glasses", "rimless design"],
+"synonyms": ["frameless"],
+"antonyms": ["framed"],
+"register": null,
+"domain": ["everyday"]
+}
+]
+},
+{
+"term": "rimmaker",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a person who makes rims or edges",
+"examples": ["The rimmaker crafted metal rings."],
+"collocations": ["skilled rimmaker"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["craft"]
+}
+]
+},
+{
+"term": "rimmaking",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "the process of making rims",
+"examples": ["Rimmaking requires precision tools."],
+"collocations": ["metal rimmaking"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["craft"]
+}
+]
+},
+{
+"term": "rimmed",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "having a rim or edge",
+"examples": ["She used a gold-rimmed plate."],
+"collocations": ["gold-rimmed", "rimmed glasses"],
+"synonyms": ["edged"],
+"antonyms": ["rimless"],
+"register": null,
+"domain": ["everyday"]
+}
+]
+},
+{
+"term": "rimmer",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a tool or person that shapes or finishes rims",
+"examples": ["The mechanic used a rimmer to smooth the edge."],
+"collocations": ["wheel rimmer"],
+"synonyms": ["tool"],
+"antonyms": [],
+"register": null,
+"domain": ["technology"]
+}
+]
+},
+{
+"term": "rimmers",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of rimmer",
+"examples": ["Different rimmers were used for the job."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": []
+}
+]
+},
+{
+"term": "rimming",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "verb",
+"definition": "forming or adding a rim to something",
+"examples": ["They are rimming the glasses with sugar."],
+"collocations": ["rimming edges"],
+"synonyms": ["edging"],
+"antonyms": [],
+"register": null,
+"domain": ["everyday"]
+}
+]
+},
+{
+"term": "rimmings",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "material trimmed from a rim",
+"examples": ["The rimmings were discarded."],
+"collocations": [],
+"synonyms": ["trimmings"],
+"antonyms": [],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "rimose",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "full of cracks or splits",
+"examples": ["The rimose surface showed signs of dryness."],
+"collocations": ["rimose bark"],
+"synonyms": ["cracked", "fissured"],
+"antonyms": ["smooth"],
+"register": "formal",
+"domain": ["academic"]
+}
+]
+},
+{
+"term": "rimosely",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "adverb",
+"definition": "in a cracked or split way",
+"examples": ["The soil broke rimosely under pressure."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["academic"]
+}
+]
+},
+{
+"term": "rimosities",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of rimosity",
+"examples": ["The rock showed deep rimosities."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["academic"]
+}
+]
+},
+{
+"term": "rimosity",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the condition of having cracks or fissures",
+"examples": ["The rimosity of the bark increased in drought."],
+"collocations": ["surface rimosity"],
+"synonyms": ["crackiness"],
+"antonyms": [],
+"register": "formal",
+"domain": ["academic"]
+}
+]
+},
+{
+"term": "rimous",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "full of cracks; similar to rimose",
+"examples": ["The rimous ground was difficult to walk on."],
+"collocations": ["rimous terrain"],
+"synonyms": ["cracked"],
+"antonyms": ["smooth"],
+"register": "formal",
+"domain": ["academic"]
+}
+]
+},
+{
+"term": "rimpi",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a type of plant or material used in weaving",
+"examples": ["The basket was made from rimpi."],
+"collocations": ["rimpi fibers"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["craft"]
+}
+]
+},
+{
+"term": "rimple",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "verb",
+"definition": "to wrinkle or fold slightly",
+"examples": ["The fabric began to rimple in the wind."],
+"collocations": ["rimpled surface"],
+"synonyms": ["wrinkle"],
+"antonyms": ["smooth"],
+"register": "literary",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "rimpled",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "having small wrinkles or folds",
+"examples": ["The water was lightly rimpled."],
+"collocations": ["rimpled texture"],
+"synonyms": ["wrinkled"],
+"antonyms": ["smooth"],
+"register": "literary",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "rimples",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "small wrinkles or folds",
+"examples": ["Tiny rimples appeared on the cloth."],
+"collocations": [],
+"synonyms": ["wrinkles"],
+"antonyms": [],
+"register": "literary",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "rimpling",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "verb",
+"definition": "forming small wrinkles or folds",
+"examples": ["The wind is rimpling the lake surface."],
+"collocations": ["rimpling water"],
+"synonyms": ["wrinkling"],
+"antonyms": [],
+"register": "literary",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "rimption",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a lively or noisy argument or fuss",
+"examples": ["There was a rimption over the decision."],
+"collocations": ["cause a rimption"],
+"synonyms": ["argument", "fuss"],
+"antonyms": [],
+"register": "informal",
+"domain": ["everyday"]
+}
+]
+},
+{
+"term": "rimptions",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of rimption",
+"examples": ["Several rimptions broke out during the meeting."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": "informal",
+"domain": ["everyday"]
+}
+]
+},
+{
+"term": "rimrock",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "rock forming the edge of a canyon or plateau",
+"examples": ["They stood on the rimrock overlooking the valley."],
+"collocations": ["steep rimrock"],
+"synonyms": ["cliff edge"],
+"antonyms": [],
+"register": null,
+"domain": ["geography"]
+}
+]
+},
+{
+"term": "rimrocks",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of rimrock",
+"examples": ["The rimrocks were rugged and sharp."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["geography"]
+}
+]
+},
+{
+"term": "rims",
+"kind": "word",
+"cefrLevel": "A2",
+"senses": [
+{
+"pos": "noun",
+"definition": "outer edges of objects",
+"examples": ["The rims of the cups were chipped."],
+"collocations": ["cup rims", "wheel rims"],
+"synonyms": ["edges"],
+"antonyms": ["centers"],
+"register": null,
+"domain": ["everyday"]
+}
+]
+},
+{
+"term": "rimshot",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a drum sound made by striking the rim and head together",
+"examples": ["The drummer added a rimshot for emphasis."],
+"collocations": ["play a rimshot"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["music"]
+}
+]
+},
+{
+"term": "rimshots",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of rimshot",
+"examples": ["The song featured sharp rimshots."],
+"collocations": [],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["music"]
+}
+]
+},
+{
+"term": "rimstone",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "mineral deposits forming ridges in caves",
+"examples": ["The cave had beautiful rimstone pools."],
+"collocations": ["rimstone formations"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["geology"]
+}
+]
+},
+{
+"term": "rimu",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a type of evergreen tree native to New Zealand",
+"examples": ["The rimu is valued for its wood."],
+"collocations": ["rimu tree"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "rimula",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a small crack or fissure",
+"examples": ["The stone showed a tiny rimula."],
+"collocations": [],
+"synonyms": ["crack"],
+"antonyms": [],
+"register": "formal",
+"domain": ["academic"]
+}
+]
+},
+{
+"term": "rimulose",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "marked with small cracks",
+"examples": ["The rimulose surface indicated dryness."],
+"collocations": ["rimulose texture"],
+"synonyms": ["cracked"],
+"antonyms": ["smooth"],
+"register": "formal",
+"domain": ["academic"]
+}
+]
+},
+{
+"term": "rimus",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a crack or fissure",
+"examples": ["A rimus ran through the rock."],
+"collocations": [],
+"synonyms": ["fissure"],
+"antonyms": [],
+"register": "formal",
+"domain": ["academic"]
+}
+]
+}
+]
+}

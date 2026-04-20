@@ -1,0 +1,554 @@
+{
+  "items": [
+    {
+      "term": "somatocyst",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An air-filled cavity in the float of a siphonophore (a colonial marine organism).",
+          "examples": [
+            "The somatocyst helps maintain buoyancy in certain colonial jellyfish-like organisms."
+          ],
+          "collocations": [
+            "somatocyst chamber",
+            "buoyancy somatocyst"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "marine biology"]
+        }
+      ]
+    },
+    {
+      "term": "somatocystic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to somatocysts (air-filled cavities in certain marine organisms) or resembling them.",
+          "examples": [
+            "Somatocystic structures were observed in the specimen under study."
+          ],
+          "collocations": [
+            "somatocystic tissue",
+            "somatocystic structure"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "zoology"]
+        }
+      ]
+    },
+    {
+      "term": "somatoderm",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The somatopleura or somatic layer of mesoderm in vertebrate embryos.",
+          "examples": [
+            "During early development, the somatoderm contributes to the body wall."
+          ],
+          "collocations": [
+            "somatoderm layer",
+            "somatoderm development"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "embryology"]
+        }
+      ]
+    },
+    {
+      "term": "somatogenetic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Originating from the somatic cells; arising in bodily tissues.",
+          "examples": [
+            "The somatogenetic theory proposed a bodily basis for the condition."
+          ],
+          "collocations": [
+            "somatogenetic origin",
+            "somatogenetic mechanism"
+          ],
+          "synonyms": ["somatic-origin"],
+          "antonyms": [],
+          "register": "formAL",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "somatogenic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Originating in the body; arising from bodily states rather than psychological causes.",
+          "examples": [
+            "Somatogenic disorders are caused by physical conditions rather than mental factors."
+          ],
+          "collocations": [
+            "somatogenic illness",
+            "somatogenic factors"
+          ],
+          "synonyms": ["somatic-origin", "bodily-origin"],
+          "antonyms": ["psychogenic"],
+          "register": "neutral",
+          "domain": ["medicine", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "somatognosis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Awareness or knowledge of the body's position and sensations; body schema.",
+          "examples": [
+            "Impaired somatognosis can affect coordination and movement.",
+            "The test assessed the patient’s somatognosis after the injury."
+          ],
+          "collocations": [
+            "impaired somatognosis",
+            "somatognosis assessment"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["neurology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "somatognostic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to somatognosis or the awareness of the body’s position.",
+          "examples": [
+            "Somatognostic abilities are tested in neurological exams."
+          ],
+          "collocations": [
+            "somatognostic skills",
+            "somatognostic evaluation"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "neuroscience"]
+        }
+      ]
+    },
+    {
+      "term": "somatologic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to the study of the body; bodily structure and function.",
+          "examples": [
+            "Somatologic data were collected to understand body systems."
+          ],
+          "collocations": [
+            "somatologic data",
+            "somatologic study"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "somatological",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to the body or to the study of the body.",
+          "examples": [
+            "Somatological measurements were taken during the health check."
+          ],
+          "collocations": [
+            "somatological measurements",
+            "somatological approach"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "health"]
+        }
+      ]
+    },
+    {
+      "term": "somatologically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a way related to the body or the study of the body.",
+          "examples": [
+            "They measured somatologically to ensure accurate data."
+          ],
+          "collocations": [
+            "somatologically speaking"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "somatologies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The sciences or studies dealing with the body; the body of knowledge about the body.",
+          "examples": [
+            "Her interests include somatologies and anatomy."
+          ],
+          "collocations": [
+            "somatologies of the body",
+            "different somatologies"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "somatologist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who studies somatology; an expert in body sciences.",
+          "examples": [
+            "The somatologist presented findings on human body systems."
+          ],
+          "collocations": [
+            "somatologist student",
+            "somatologist 연구"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "somatologists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "People who study somatology; experts in body sciences collectively.",
+          "examples": [
+            "Somatologists discussed upcoming conferences."
+          ],
+          "collocations": [
+            "somatologists gathering",
+            "somatologists colleagues"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "somatology",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The science or study of the body, especially in its biological aspects.",
+          "examples": [
+            "Somatology covers anatomy, physiology, and related topics."
+          ],
+          "collocations": [
+            "human somatology",
+            "somatology course"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "somatome",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A developmental structure or mass of tissue in embryos; a somatic body part.",
+          "examples": [
+            "The somatome differentiates into several tissues during development."
+          ],
+          "collocations": [
+            "somatome formation",
+            "somatome tissue"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["embryology", "developmental biology"]
+        }
+      ]
+    },
+    {
+      "term": "somatomedin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small protein that acts as a growth factor to stimulate cell growth; also called insulin-like growth factor (IGF).",
+          "examples": [
+            "Somatomedins play a role in growth regulation."
+          ],
+          "collocations": [
+            "somatomedin production",
+            "somatomedin effect"
+          ],
+          "synonyms": ["IGF"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "somatomedins",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of somatomedin; growth factors similar to IGFs that stimulate cell growth.",
+          "examples": [
+            "Researchers studied the roles of several somatomedins in development."
+          ],
+          "collocations": [
+            "several somatomedins",
+            "somatomedin family"
+          ],
+          "synonyms": ["IGFs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "somatomic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Related to somatic atoms or cellular components of the body.",
+          "examples": [
+            "Somatomic processes were observed in cultured cells."
+          ],
+          "collocations": [
+            "somatomic state",
+            "somatomic research"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "biochemistry"]
+        }
+      ]
+    },
+    {
+      "term": "somatophyte",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A plant or organism that grows on the body of another organism (or metaphorically a body-dwelling organism).",
+          "examples": [
+            "The somatophyte colonized the surface of the host."
+          ],
+          "collocations": [
+            "somatophyte species",
+            "somatophyte growth"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "somatophytic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to somatophytes or organisms that live on another body.",
+          "examples": [
+            "Somatophytic interactions were observed in the study."
+          ],
+          "collocations": [
+            "somatophytic relationship",
+            "somatophytic growth"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "somatoplasm",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The living content of a cell; the cytoplasm and organelles within the cell membrane.",
+          "examples": [
+            "Somatoplasm contains the cell's cytoplasm and organelles."
+          ],
+          "collocations": [
+            "somatoplasm volume",
+            "cell somatoplasm"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "cell biology"]
+        }
+      ]
+    },
+    {
+      "term": "somatoplasms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of somatoplasm; the living content of multiple cells.",
+          "examples": [
+            "Differences in somatoplasms were noted between cell types."
+          ],
+          "collocations": [
+            "somatoplasms analysis",
+            "different somatoplasms"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "somatoplastic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to somatoplasty or bodily tissue shaping or repair.",
+          "examples": [
+            "Somatoplastic techniques were used in reconstructive surgery."
+          ],
+          "collocations": [
+            "somatoplastic procedure",
+            "somatoplastic surgery"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "surgery"]
+        }
+      ]
+    },
+    {
+      "term": "somatopleural",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to the somatopleura and the pleural (lung) area in embryology.",
+          "examples": [
+            "Somatopleural layers contribute to the thoracic structure."
+          ],
+          "collocations": [
+            "somatopleural membrane",
+            "somatopleural development"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["embryology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "somatopleure",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The somatic layer of the mesoderm that contributes to body wall and pleural membranes in an embryo.",
+          "examples": [
+            "The somatopleure forms part of the embryonic body wall."
+          ],
+          "collocations": [
+            "somatopleure formation",
+            "somatopleure structure"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["embryology", "anatomy"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "items": [
+    {
+      "term": "carbohydrases",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "enzymes that help break down carbohydrates in digestion",
+          "examples": [
+            "Saliva contains amylase, a carbohydrase, which begins starch digestion.",
+            "Different foods have varying levels of carbohydrases that aid digestion."
+          ],
+          "collocations": ["digestive carbohydrase", "starch-digesting carbohydrase", "plant carbohydrases"],
+          "synonyms": ["amylase (general term when referring to carbohydrate-digesting enzymes)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "carbohydrate",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance in foods that provides the body with its main source of energy; includes sugars, starches, and fibers",
+          "examples": [
+            "Bread is a common source of carbohydrate.",
+            "Fruits contain natural carbohydrates like glucose and fructose."
+          ],
+          "collocations": ["simple carbohydrate", "complex carbohydrate", "dietary carbohydrate", "carbohydrate intake"],
+          "synonyms": ["sugar (in a broad sense)", "starch (specific type)", "carbs (informal)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "nutrition", "health"]
+        }
+      ]
+    },
+    {
+      "term": "carbohydrates",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of carbohydrate; the group of nutrients that provide energy from sugars, starches, and fibers",
+          "examples": [
+            "Vegetables and grains are sources of carbohydrates.",
+            "The diet includes complex carbohydrates like whole grains."
+          ],
+          "collocations": ["complex carbohydrates", "simple carbohydrates", "high-carbohydrate diet"],
+          "synonyms": ["carbs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "nutrition", "health"]
+        }
+      ]
+    },
+    {
+      "term": "carbohydraturia",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the presence of carbohydrates in the urine, typically a sign of abnormal metabolism or diabetes",
+          "examples": [
+            "Carbohydraturia can indicate a problem with glucose regulation.",
+            "Tests detected carbohydraturia in the patient’s urine."
+          ],
+          "collocations": ["test for carbohydraturia", "urine carbohydraturia"],
+          "synonyms": ["glycosuria (in some contexts)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "carbohydrazide",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical compound containing both carbohydrate and hydrazide groups; typically a specialized organic reagent",
+          "examples": [
+            "The synthesis used carbohydrazide as a key intermediate.",
+            "Carbohydrazide derivatives are studied in organic chemistry."
+          ],
+          "collocations": ["carbohydrazide derivative", "synthesis with carbohydrazide"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "carbohydride",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical species containing both carbon, hydrogen, and a hydride; used in some synthetic chemistry contexts",
+          "examples": [
+            "Researchers examined the reactivity of a carbohydride intermediate.",
+            "Carbohydride compounds can participate in reduction reactions."
+          ],
+          "collocations": ["carbohydride intermediate", "reactivity of carbohydride"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "carbohydrogen",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a compound or concept involving carbon and hydrogen in the study of hydrocarbons",
+          "examples": [
+            "The material is described as a carbohydrogen framework.",
+            "Carbohydrogen ratios influence the compound's properties."
+          ],
+          "collocations": ["carbohydrogen ratio", "carbohydrogen framework"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "carbolate",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical salt or ester derived from carbolic acid (phenol) or related substances",
+          "examples": [
+            "The solution contained a carbolate salt.",
+            "Carbolates were used in early chemical syntheses."
+          ],
+          "collocations": ["phenol carbolate", "sodium carbolate"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "carbolated",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "treated with or containing carbolic acid or related compounds",
+          "examples": [
+            "The surface was carbolated to prevent bacterial growth.",
+            "Carbolated wood was used as a preservative."
+          ],
+          "collocations": ["carbolated material", "carbolated wood"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "carbolating",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the process of treating with carbolic acid or introducing carbolic compounds",
+          "examples": [
+            "The chemist is carbolating the sample to sterilize it.",
+            "Carbolating agents were used in early antiseptics."
+          ],
+          "collocations": ["carbolating agent", "carbolating treatment"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "medicine", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "carbolfuchsin",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a deep red dye used in microbiology, also known as carbol fuchsin",
+          "examples": [
+            "Carbolfuchsin is used in acid-fast staining in bacteriology.",
+            "The microscope slides were stained with carbolfuchsin."
+          ],
+          "collocations": ["carbolfuchsin stain", "acid-fast staining with carbolfuchsin"],
+          "synonyms": ["carbol fuchsin"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "carbolic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to carbolic acid or phenol; traditionally used for antiseptic properties",
+          "examples": [
+            "Carbolic acid was once widely used as a disinfectant.",
+            "Carbolic compounds have antiseptic characteristics."
+          ],
+          "collocations": ["carbolic acid", "carbolic disinfectant"],
+          "synonyms": ["phenolic"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "carbolics",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "carbolic acids or phenolic compounds collectively; used historically in disinfectants",
+          "examples": [
+            "The shelves were washed with carbolics to prevent infection.",
+            "Carbolics were common antiseptics in the 19th century."
+          ],
+          "collocations": ["carbolics solution", "carbolic disinfectants"],
+          "synonyms": ["phenols"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "carboline",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a heterocyclic compound used in chemical research or pharmacology",
+          "examples": [
+            "The researchers synthesized a new carboline derivative.",
+            "Carboline derivatives show interesting biological activity."
+          ],
+          "collocations": ["carboline derivative", "carboline compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "pharmacology"]
+        }
+      ]
+    },
+    {
+      "term": "carbolineate",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical salt or ester derived from carboline compounds",
+          "examples": [
+            "A carbolineate was prepared as part of the synthesis.",
+            "The study discusses carbolineate reactivity."
+          ],
+          "collocations": ["carbolineate salt", "carbolineate ester"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "carbolineum",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a historic term for coal tar or a similar wood preservative; sometimes used for carbolic oil products",
+          "examples": [
+            "Old ships were treated with carbolineum to protect the timber.",
+            "Carbolineum products were once common in wood treatment."
+          ],
+          "collocations": ["carbolineum preservative", "carbolineum oil"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "carbolise",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to treat or Char obtain carbolic properties; to apply carbolic acid or phenol to something",
+          "examples": [
+            "They carbolised the equipment to prevent contamination.",
+            "The procedure involves carbolising the surfaces."
+          ],
+          "collocations": ["carbolise equipment", "carbolise surface"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "medicine", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "carbolised",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having been treated with carbolic acid or phenol",
+          "examples": [
+            "The carbolised timber resisted fungal decay.",
+            "Carbolised surfaces were cleaned thoroughly."
+          ],
+          "collocations": ["carbolised timber", "carbolised surface"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "carbolises",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular of carbolise; applies carbolic acid or related treatment",
+          "examples": [
+            "The lab carbolises the equipment after each use.",
+            "They carbolises the tools to ensure sterility."
+          ],
+          "collocations": ["carbolises equipment", "carbolises tools"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "medicine", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "carbolising",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of applying carbolic acid or phenol to something",
+          "examples": [
+            "Carbolising the timber helped prevent rot.",
+            "The process involves carbolising the surface."
+          ],
+          "collocations": ["carbolising process", "carbolising timber"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "carbolize",
+        "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to treat with carbolic acid or phenol; to apply carbolic properties",
+          "examples": [
+            "They carbolize the laboratory surfaces to kill bacteria.",
+            "The wood was carbolize-treated for preservation."
+          ],
+          "collocations": ["carbolize the surface", "carbolize treatment"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "medicine", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "carbolized",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having been treated with carbolic acid or phenol",
+          "examples": [
+            "Carbolized timber showed resistance to decay.",
+            "The carbolized surfaces were thoroughly cleaned."
+          ],
+          "collocations": ["carbolized timber", "carbolized surface"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "carbolizes",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular of carbolize; applies carbolic acid treatment",
+          "examples": [
+            "The process carbolizes the equipment after use.",
+            "He carbolizes the pipes to prevent rust."
+          ],
+          "collocations": ["carbolizes equipment", "carbolizes pipes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "medicine", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "carbolizing",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of applying carbolic acid or phenol to something",
+          "examples": [
+            "Carbolizing the tools helps sterilize them.",
+            "The carbolizing process is common in historical lab work."
+          ],
+          "collocations": ["carbolizing process", "carbolizing tools"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "carboloy",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a trade name for a hard, wear-resistant alloy used in cutting tools; often associated with tungsten carbide coatings",
+          "examples": [
+            "The drill bits were made with Carboloy alloy.",
+            "Carboloy tools offered extended life in hard cutting operations."
+          ],
+          "collocations": ["Carboloy alloy", "Carboloy tools"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["industry", "engineering"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "items": [
+    {
+      "term": "sidewalk",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a path for pedestrians at the side of a road",
+          "examples": [
+            "She walked on the sidewalk to avoid the traffic.",
+            "The storefront has a bench on the sidewalk."
+          ],
+          "collocations": ["city sidewalk", "paved sidewalk", "sidewalk cafe", "sidewalk chalk"],
+          "synonyms": ["footpath (UK)", "pavement (UK)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sidewalks",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sidewalk; pedestrian paths at the side of roads",
+          "examples": [
+            "The sidewalks were crowded with tourists.",
+            "Keep to the sidewalks, please."
+          ],
+          "collocations": ["city sidewalks", "tree-lined sidewalks"],
+          "synonyms": ["footpaths (UK)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sidewall",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the wall on the side of a building or container",
+          "examples": [
+            "The stickers were placed on the sidewall of the truck.",
+            "The brochure lists the measurements of the sidewall panels."
+          ],
+          "collocations": ["outer sidewall", "sidewall panel", "sidewall height"],
+          "synonyms": ["lateral wall"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "sidewalls",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sidewall; walls on the sides of a structure or container",
+          "examples": [
+            "The tires touch the sidewalls poorly when underinflated.",
+            "Inspect the sidewalls for cracks."
+          ],
+          "collocations": ["tire sidewalls", "sidewall height"],
+          "synonyms": ["lateral walls"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "sideward",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "to or toward the side; sideways",
+          "examples": [
+            "She looked sideward to catch a glimpse.",
+            "The boat drifted sideward with the current."
+          ],
+          "collocations": ["to sideward", "sideward glance"],
+          "synonyms": ["aside", "lateral"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sidewards",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a sideward direction; sideways",
+          "examples": [
+            "The car moved sidewards to avoid the obstacle.",
+            "She stepped sidewards to let him pass."
+          ],
+          "collocations": ["sidewards movement", "move sidewards"],
+          "synonyms": ["sideways"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sidewash",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the water that washes to the side of something (often in maritime or engineering contexts)",
+          "examples": [
+            "The sidewash from the propeller was noticeable.",
+            "Engineers accounted for sidewash in the design."
+          ],
+          "collocations": ["propeller sidewash", "sidewash effect"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["engineering", "marine"]
+        }
+      ]
+    },
+    {
+      "term": "sideway",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a position or movement to the side; a sideways direction",
+          "examples": [
+            "He took a sideway step to avoid the obstacle.",
+            "The path runs to the sideway of the river."
+          ],
+          "collocations": ["sideway step", "path to the sideway"],
+          "synonyms": ["side path"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sideways",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "to or along the side; not straight ahead",
+          "examples": [
+            "The car moved sideways to fit through the gate.",
+            "She turned sideways to speak to him."
+          ],
+          "collocations": ["move sideways", "look sideways"],
+          "synonyms": ["aside", "lateral"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "situated or moving toward the side",
+          "examples": [
+            "A sideways glance",
+            "Sideways rain hit the window."
+          ],
+          "collocations": ["sideways movement", "sideways rain"],
+          "synonyms": ["lateral"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sidewheel",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a wheel on the side of a machine or vehicle, often used for steering or propulsion",
+          "examples": [
+            "The old ship had sidewheels instead of a tail.",
+            "Convert the sidewheel to an electric drive."
+          ],
+          "collocations": ["sidewheel drive", "sidewheel steering"],
+          "synonyms": ["auxiliary wheel"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "mechanical"]
+        }
+      ]
+    },
+    {
+      "term": "sidewheeler",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a vessel propelled by side wheels; a sidewheel steamer",
+          "examples": [
+            "The riverboat was a famous sidewheeler from the 19th century.",
+            "Photographs show elaborate sidewheelers on the lake."
+          ],
+          "collocations": ["steamer", "river sidewheeler"],
+          "synonyms": ["sidewheel steamer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "transport"]
+        }
+      ]
+    },
+    {
+      "term": "sidewheelerS",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sidewheeler; vessels or machines with side wheels",
+          "examples": [
+            "Historical collections include several sidewheelers.",
+            "The museum featured multiple sidewheeler exhibits."
+          ],
+          "collocations": ["sidewheelers", "historic sidewheeler"],
+          "synonyms": ["sidewheel steamer(s)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "transport"]
+        }
+      ]
+    },
+    {
+      "term": "sidewheels",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the wheels on the side of a vehicle or machine",
+          "examples": [
+            "The antique clock has ornamental sidewheels.",
+            "Friction wore down the sidewheels of the gear system."
+          ],
+          "collocations": ["outer sidewheels", "sidewheels drive"],
+          "synonyms": ["lateral wheels"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "sidewinder",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a weapon or object that moves to the side; also a slang term for a dangerous or unpredictable person or thing",
+          "examples": [
+            "The missile model was named Sidewinder.",
+            "Watch out for that sidewinder in the negotiations."
+          ],
+          "collocations": ["military sidewinder", "sidewinder missile", "dangerous sidewinder"],
+          "synonyms": ["trickster", "sniper (informal)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["military", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sidewinders",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sidewinder; missiles or people/things that move erratically sideways",
+          "examples": [
+            "The unit trained with several sidewinders.",
+            "The term is also used metaphorically for tricky individuals."
+          ],
+          "collocations": ["sidewinders", "mobile sidewinders"],
+          "synonyms": ["sidewinder missile(s)", "tricksters (informal)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["military", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sidewipe",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a swift brush or blow from the side; a sudden and superficial contact or effect",
+          "examples": [
+            "The car received a sidewipe from the other vehicle.",
+            "The speech was a sidewipe to the main topic."
+          ],
+          "collocations": ["sidewipe collision", "minor sidewipe"],
+          "synonyms": ["side hit"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["transport", "media"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to strike or affect someone or something from the side",
+          "examples": [
+            "A careless driver sidewiped the parked car.",
+            "The rumor sidewiped her reputation briefly."
+          ],
+          "collocations": ["sidewipe the car", "sidewipe effect"],
+          "synonyms": ["strike from the side", "brush"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["transport", "media"]
+        }
+      ]
+    },
+    {
+      "term": "sidewiper",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or person that wipes or clears from the side; also a person who wipes windows from the side (informal) or a helicopter with sideward movement",
+          "examples": [
+            "The sidewiper cleared the rain on the windshield.",
+            "In some markets, a sidewiper is used to remove debris from the side of a ship."
+          ],
+          "collocations": ["windshield sidewiper", "sidewiper blade"],
+          "synonyms": ["brush", "wipe"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "transport"]
+        }
+      ]
+    },
+    {
+      "term": "sidewise",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a direction of the side; sideways",
+          "examples": [
+            "The man swung his arm sidewise to block the punch.",
+            "A sidewise glance revealed nothing unusual."
+          ],
+          "collocations": ["sidewise motion", "step sidewise"],
+          "synonyms": ["sideways"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sidh",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term from folklore referring to a boundary of the Otherworld; often found in Gaelic myth as a realm of fairies",
+          "examples": [
+            "The travelers passed into the sidh where the fairies danced.",
+            "In the legend, the sidh is a liminal place between worlds."
+          ],
+          "collocations": ["sidhe", "the sidh boundary"],
+          "synonyms": ["sidhe (Gaelic Gaelic)"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["mythology", "folklore"]
+        }
+      ]
+    },
+    {
+      "term": "sidha",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term used in certain traditions referring to a female seer or saint; often connected to yogic or tantric traditions in some contexts",
+          "examples": [
+            "The sidha tradition emphasizes breath and inner energy.",
+            "He studied sidha practices under a master."
+          ],
+          "collocations": ["sidha practitioner", "sidha tradition"],
+          "synonyms": ["sidhi", "siddha (variant)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["spiritual", "traditional"]
+        }
+      ]
+    },
+    {
+      "term": "sidhas",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sidha; practitioners or adherents of sidha traditions",
+          "examples": [
+            "The sidhas gathered for a teaching session.",
+            "Historical texts mention several sidhas who achieved mastery."
+          ],
+          "collocations": ["sidha practitioners", "sidhas lineage"],
+          "synonyms": ["sidhi practitioners"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["spiritual", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sidhe",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the Gaelic supernatural beings, often translated as fairies or elves; a mythic realm or beings in Celtic folklore",
+          "examples": [
+            "The sidhe are said to dance on moonlit nights.",
+            "Legends describe the sidhe as powerful, elusive beings."
+          ],
+          "collocations": ["the sidhe", "faerie sidhe"],
+          "synonyms": ["fae", "fairies"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["folklore", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "sidi",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a title used in some cultures for respected elders or spiritual leaders; sometimes used in nouns for mosques or religious figures",
+          "examples": [
+            "The sidi spoke with quiet authority.",
+            "A sidi charms the crowd with stories."
+          ],
+          "collocations": ["sidi leader", "sidi figure"],
+          "synonyms": ["sheikh (variant)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "sidia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term appearing in certain linguistic or cultural contexts; may be a proper noun or specific term in some systems",
+          "examples": [
+            "The scholar discussed sidia in the context of regional languages."
+          ],
+          "collocations": ["sidia term", "sidia language"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "cultural studies"]
+        }
+      ]
+    },
+    {
+      "term": "siding",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "material applied to the exterior of a building for protection and decoration; the side covering of a wall",
+          "examples": [
+            "The house has vinyl siding.",
+            "We chose cedar siding for the cottage."
+          ],
+          "collocations": ["vinyl siding", "wood siding"],
+          "synonyms": ["cladding", "wall covering"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction", "architecture"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to add siding to a building or to attach material to the side",
+          "examples": [
+            "They will siding the exterior with aluminum panels.",
+            "The workers are siding the house this week."
+          ],
+          "collocations": ["siding the house", "install siding"],
+          "synonyms": ["clad"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction", "architecture"]
+        }
+      ]
+    }
+  ]
+}

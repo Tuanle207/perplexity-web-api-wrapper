@@ -1,0 +1,430 @@
+{
+  "items": [
+    {
+      "term": "postponed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "held back or delayed to a later time",
+          "examples": ["The meeting was postponed until next week.", "Her trip was postponed due to bad weather."],
+          "collocations": ["postponed indefinitely", "postponed decision", "postponed schedule"],
+          "synonyms": ["delayed", "deferred", "put off"],
+          "antonyms": ["urgent", "immediate", "scheduled"],
+          "register": "formal",
+          "domain": ["general", "everyday"]
+        }
+        // Note: as a past participle used as adjective, typically one sense
+      ]
+    },
+    {
+      "term": "postponement",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of delaying something to a later time",
+          "examples": ["The postponement of the project disappointed the team.", "There was a postponement due to technical issues."],
+          "collocations": ["delay/ postponement of plans", "temporary postponement", "postponement decision"],
+          "synonyms": ["delay", "deferment", "adjournment"],
+          "antonyms": ["progress", "expedition", "advance"],
+          "register": "formal",
+          "domain": ["general", "business", "project management"]
+        }
+      ]
+    },
+    {
+      "term": "postponements",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of postponement; instances of delaying actions or events",
+          "examples": ["There were several postponements this quarter.", "The postponements affected schedules worldwide."],
+          "collocations": ["several postponements", "repeated postponements", "postponements and cancellations"],
+          "synonyms": ["delays", "deferments", "adjournments"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "planning", "logistics"]
+        }
+      ]
+    },
+    {
+      "term": "postponence",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality or state of being postponed; the act or habit of delaying",
+          "examples": ["The postponence of deadlines was not well received.", "A culture of postponence can hinder progress."],
+          "collocations": ["moral postponence", "systematic postponence"],
+          "synonyms": ["delay", "deferment", "procrastination (contextual)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "theory"]
+        }
+      ]
+    },
+    {
+      "term": "postponences",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of postponence; instances or types of postponement",
+          "examples": ["They noted several postponences in the data collection timeline."],
+          "collocations": ["various postponences", "causes of postponence"],
+          "synonyms": ["delays", "deferments"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "research"]
+        }
+      ]
+    },
+    {
+      "term": "postponer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who postpones or delays something",
+          "examples": ["He acted as a chronic postponer to meet the deadline."],
+          "collocations": ["habitual postponer", "procrastinating postponer"],
+          "synonyms": ["delayer", "dilator"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "behavior"]
+        }
+      ]
+    },
+    {
+      "term": "postponers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of postponer; people who postpone things",
+          "examples": ["Each poster was labeled as one of the postponers in the team."],
+          "collocations": ["habitual postponers"],
+          "synonyms": ["delayers", "procrastinators"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "postpones",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "causes something to be delayed or put off",
+          "examples": ["The committee postpones decisions when information is incomplete."],
+          "collocations": ["postpones plans", "postpones decisions"],
+          "synonyms": ["delays", "defers"],
+          "antonyms": ["facilitates", "advances"],
+          "register": "formal",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "postponing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of delaying something to a later time",
+          "examples": ["Postponing the meeting gave attendees more time to prepare."],
+          "collocations": ["delaying/ postponing action", "postponing indefinitely"],
+          "synonyms": ["deferring", "delaying"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "postpontile",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rarely used or archaic term related to postponement; not commonly encountered in modern English",
+          "examples": ["The term postpontile appears in some archaic texts."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "postpose",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to place after or behind; to postpone by placing after something else",
+          "examples": ["The editor chose to postpose the conclusion until later chapters."],
+          "collocations": ["postpose a decision", "postpose the discussion"],
+          "synonyms": ["defer", "delay", "transpose"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literary", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "postposed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "placed after something; deferred or delayed in placement",
+          "examples": ["The postposed chapter appeared after the main narrative."],
+          "collocations": ["postposed chapter", "postposed arrangement"],
+          "synonyms": ["delayed", "deferred", "placed after"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "postposes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "plural third-person singular or present tense of postpose; places after something",
+          "examples": ["The editor postposes certain sections for later review."],
+          "collocations": ["postposes sections", "postposes the agenda"],
+          "synonyms": ["postpones", "defers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literary", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "postposing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of placing something after another or delaying its position",
+          "examples": ["Postposing can change the emphasis of the argument."],
+          "collocations": ["the postposing of details"],
+          "synonyms": ["deferring", "delaying"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "language study"]
+        }
+      ]
+    },
+    {
+      "term": "postposit",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an obscure or technical term related to post-position or placement; not common",
+          "examples": ["The scholar discussed postposit in a niche field."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["academic", "specialized"]
+        }
+      ]
+    },
+    {
+      "term": "postposited",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "placed after something else; postponed or arranged after",
+          "examples": ["The postposited chapter was added later in the manuscript."],
+          "collocations": ["postposited clause"],
+          "synonyms": ["delayed", "deferred", "placed after"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literary", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "postposition",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a grammatical particle placed after a noun to indicate its relation to other words",
+          "examples": ["In English, 'of' is a postposition in many phrases."],
+          "collocations": ["preposition vs postposition", "foreign postpositions"],
+          "synonyms": ["postpositional particle"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "grammar"]
+        }
+      ]
+    },
+    {
+      "term": "postpositional",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or used after a noun to show grammatical relationships",
+          "examples": ["A postpositional language uses postpositions rather than prepositions."],
+          "collocations": ["postpositional phrase", "postpositional case"],
+          "synonyms": ["postpositionalistic (rare)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "language"]
+        }
+      ]
+    },
+    {
+      "term": "postpositionally",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a postpositional manner; after the noun, as in languages with postpositions",
+          "examples": ["The language is analyzed postpositionally."],
+          "collocations": ["used postpositionally"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "postpositions",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of postposition; grammatical elements that come after a noun",
+          "examples": ["Many languages rely on postpositions to mark relationships."],
+          "collocations": ["types of postpositions", "postpositions in grammar"],
+          "synonyms": ["postpositional particles"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "grammar"]
+        }
+      ]
+    },
+    {
+      "term": "postpositive",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "placed after the noun it modifies",
+          "examples": ["The adjective 'attached' is postpositive in 'the king alone'."],
+          "collocations": ["postpositive adjective"],
+          "synonyms": ["postposed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["grammar", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "postpositively",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a postpositive manner; after the noun",
+          "examples": ["The adjective was used postpositively."],
+          "collocations": ["used postpositively"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "postpositives",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of postpositive; postpositive adjectives or particles",
+          "examples": ["Some languages have many postpositives."],
+          "collocations": ["types of postpositives"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "postprandial",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the period after a meal",
+          "examples": ["Postprandial glucose levels were measured."],
+          "collocations": ["postprandial period", "postprandial blood sugar"],
+          "synonyms": ["after-meal"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "postprandially",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "after a meal",
+          "examples": ["They walked postprandially to aid digestion."],
+          "collocations": ["eat and exercise postprandially"],
+          "synonyms": ["after meals"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    }
+  ]
+}
