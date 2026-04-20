@@ -1,0 +1,586 @@
+{
+  "items": [
+    {
+      "term": "sonant",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "producing or capable of producing a sound or sound; relating to sound in general",
+          "examples": [
+            "The instrument is sonant, capable of producing a clear note.",
+            "The string vibrated, creating a sonant tone."
+          ],
+          "collocations": [
+            "sonant voice",
+            "sonant sound",
+            "sonant quality",
+            "sonant pitch"
+          ],
+          "synonyms": ["sonic", "vocal", "resonant"],
+          "antonyms": ["silent", "asthenic"],
+          "register": "neutral",
+          "domain": ["general", "music"]
+        }
+      ]
+    },
+    {
+      "term": "sonantal",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or consisting of sounds; pertaining to the sounds in speech or music",
+          "examples": [
+            "The sonantal texture of the chorus added depth.",
+            "A sonantal description of the instrument's timbre."
+          ],
+          "collocations": [
+            "sonantal texture",
+            "sonantal range",
+            "sonantal voice"
+          ],
+          "synonyms": ["sonant", "vocal"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sonantic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to tone or sound; pertaining to sounds or speech",
+          "examples": [
+            "The poem uses sonantic imagery to evoke sound.",
+            "A sonantic approach to linguistics focuses on auditory features."
+          ],
+          "collocations": [
+            "sonantic imagery",
+            "sonantic features",
+            "sonantic analysis"
+          ],
+          "synonyms": ["sonant", "auditory"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literary", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "sonantina",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a musical term related to a small, resonant sound; diminutive form associated with sonata-derived ornaments",
+          "examples": [
+            "The maestro introduced a brief sonantina during the recap."
+          ],
+          "collocations": [
+            "brief sonantina",
+            "ornamental sonantina"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "sonantized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "modified or treated to produce sound; endowed with sonority",
+          "examples": [
+            "The composer sonantized the motif to enhance richness.",
+            "The instrument was sonantized through careful resonance tuning."
+          ],
+          "collocations": [
+            "sonantized motif",
+            "sonantized instrument"
+          ],
+          "synonyms": ["sonorized"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music", "technique"]
+        }
+      ]
+    },
+    {
+      "term": "sonants",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "speech sounds produced with constriction in the vocal tract; letters that represent those sounds",
+          "examples": [
+            "English has several consonants, including /b/, /k/, and /t/.",
+            "We classify sounds as vowels and consonants (sonants)."
+          ],
+          "collocations": [
+            "consonant sound",
+            "consonant cluster",
+            "voiceless consonants",
+            "soft consonants"
+          ],
+          "synonyms": ["consonant sound", "speech sound"],
+          "antonyms": ["vowel"],
+          "register": "neutral",
+          "domain": ["linguistics", "education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sonar",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device that uses sound waves to locate objects under water or to measure distance",
+          "examples": [
+            "The submarine used sonar to detect ships nearby.",
+            "She studied sonar technology in her marine engineering course."
+          ],
+          "collocations": [
+            "active sonar",
+            "sonar system",
+            "underwater sonar"
+          ],
+          "synonyms": ["echo-sounder", "sonic detection"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "science", "marine"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the range or sound of the human voice or instrument; a tone or signal",
+          "examples": [
+            "The instrument has a rich sonar that resonates well.",
+            "Her voice carried a bright sonar in the upper register."
+          ],
+          "collocations": [
+            "bright sonar",
+            "rich sonar",
+            "vocal sonar"
+          ],
+          "synonyms": ["tone", "resonance"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sonarman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who operates a sonar device, especially in a submarine or navy context",
+          "examples": [
+            "The sonar man analyzed the underwater readings.",
+            "Sonarman responsibilities include tracking sonar images."
+          ],
+          "collocations": [
+            "sonarman on watch",
+            "sonarman duties",
+            "sonarman training"
+          ],
+          "synonyms": ["sonar operator"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["military", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "sonarmen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sonarman; multiple personnel operating sonar",
+          "examples": [
+            "The ship's sonarmen detected the noise pattern."
+          ],
+          "collocations": [
+            "sonarmen aboard",
+            "training for sonarmen"
+          ],
+          "synonyms": ["sonar operators"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["military", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "sonars",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "devices or systems that use sound waves to detect objects underwater; plural of sonar",
+          "examples": [
+            "Different ships use multiple sonar arrays.",
+            "The navy tested new sonars during the exercise."
+          ],
+          "collocations": [
+            "active sonar systems",
+            "towed sonar",
+            "sonar array"
+          ],
+          "synonyms": ["sonar systems"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["military", "technology", "marine"]
+        }
+      ]
+    },
+    {
+      "term": "sonata",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a long musical composition for one or more instruments, typically in several movements",
+          "examples": [
+            "Beethoven wrote many famous sonatas.",
+            "She practiced a difficult sonata for the recital."
+          ],
+          "collocations": [
+            "piano sonata",
+            "sonata form",
+            "violin sonata"
+          ],
+          "synonyms": ["musical piece", "suite"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "sonatas",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sonata; multiple musical compositions",
+          "examples": [
+            "She played two sonatas in the concert."
+          ],
+          "collocations": [
+            "two sonatas",
+            "baroque sonatas",
+            "sonatas for piano"
+          ],
+          "synonyms": ["musical pieces"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "sonatina",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a short or simpler musical composition similar to a sonata",
+          "examples": [
+            "She practiced a gentle sonatina for beginners."
+          ],
+          "collocations": [
+            "easy sonatina",
+            "short sonatina"
+          ],
+          "synonyms": ["miniature sonata", "short sonata"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "education"]
+        }
+      ]
+    },
+    {
+      "term": "sonatinas",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sonatina; multiple short pieces",
+          "examples": [
+            "The teacher assigned several sonatinas to beginners."
+          ],
+          "collocations": [
+            "collection of sonatinas",
+            "easy sonatinas"
+          ],
+          "synonyms": ["miniature sonatas"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "education"]
+        }
+      ]
+    },
+    {
+      "term": "sonatine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a musical piece akin to a sonata, usually shorter and lighter",
+          "examples": [
+            "The pianist finished with a delicate sonatine."
+          ],
+          "collocations": [
+            "delicate sonatine",
+            "romantic sonatine"
+          ],
+          "synonyms": ["short sonata"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "sonation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of producing sound; sound creation",
+          "examples": [
+            "The instrument's sonation was rich and bright."
+          ],
+          "collocations": [
+            "full sonation",
+            "vocal sonation"
+          ],
+          "synonyms": ["sonority", "sound production"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music", "biology" ]
+        }
+      ]
+    },
+    {
+      "term": "sonce",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "archaic or dialectal term relating to sound or sun (rare; used in historical texts)",
+          "examples": [
+            "In old manuscripts, 'sonce' is found as a poetic form."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "sonces",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sonce; rare usage in historical texts",
+          "examples": [
+            "Various sonces appear in the anthology."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "sonchus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a genus name for sowthistles; botanical term",
+          "examples": [
+            "The garden includes several species of Sonchus."
+          ],
+          "collocations": [
+            "Sonchus plant",
+            "Sonchus species"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "soncy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "archaic or rare term relating to sound or music",
+          "examples": [
+            "A soncy cadence was described by the old poet."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "sond",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a probing or sounding device or act; or a trench/ditch (archaic or specialized usage)",
+          "examples": [
+            "They performed a sond to measure depth.",
+            "A sond may be used in surveying."
+          ],
+          "collocations": [
+            "depth sond",
+            "geotechnical sond"
+          ],
+          "synonyms": ["sounding", "probe"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["engineering", "geology", "military"]
+        }
+      ]
+    },
+    {
+      "term": "sondage",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a survey or systematic inquiry; in archaeology, a test dig",
+          "examples": [
+            "The researchers conducted a sondage of the area.",
+            "Political polling is a modern form of sondage."
+          ],
+          "collocations": [
+            "public sondage",
+            "preliminary sondage"
+          ],
+          "synonyms": ["survey", "poll"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["research", "social sciences"]
+        }
+      ]
+    },
+    {
+      "term": "sondages",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sondage; surveys or inquiries",
+          "examples": [
+            "The report includes several sondages from different regions."
+          ],
+          "collocations": [
+            "national sondages",
+            "market sondages"
+          ],
+          "synonyms": ["surveys", "polls"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["research", "business"]
+        }
+      ]
+    },
+    {
+      "term": "sondation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of probing or sounding; a survey process",
+          "examples": [
+            "Sondation helps determine underwater features."
+          ],
+          "collocations": [
+            "seafloor sondation",
+            "geotechnical sondation"
+          ],
+          "synonyms": ["sounding", "surveying"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "science"]
+        }
+      ]
+    },
+    {
+      "term": "sonde",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an instrument used to probe or measure; a device for sending signals or sampling (often under water or in air)",
+          "examples": [
+            "A weather sonde was deployed to collect data.",
+            "The spacecraft carried a weather sonde for atmospheric readings."
+          ],
+          "collocations": [
+            "weather sonde",
+            "sonde probe",
+            "data-collecting sonde"
+          ],
+          "synonyms": ["probe", "sensor"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering", "military"]
+        }
+      ]
+    }
+  ]
+}

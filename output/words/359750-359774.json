@@ -1,0 +1,438 @@
+{
+  "items": [
+    {
+      "term": "skeining",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of making a skein (a length of thread or yarn wound in a figure-eight or hollow coil) or the state of being skeined.",
+          "examples": ["The skeining of the yarn completed the ball for knitting."],
+          "collocations": ["bone skeining", "thread skeining", "yarn skeining"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "skeins",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of skein; multiple lengths of yarn or thread wound into coils; a tangled or winding amount or sequence.",
+          "examples": ["She counted the skeins of wool in the drawer.", "A skein of tunnels wound through the hillside."],
+          "collocations": ["skeins of yarn", "skeins of wool", "skein of", "long skeins"],
+          "synonyms": ["balls of yarn (informal)", "hanks"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "skeipp",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "null",
+          "definition": "no established sense in contemporary English; possibly a misspelling or nonce form.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "skel",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "short informal form of skeleton or a placeholder referring to a skeleton; also used as an abbreviation in some technical contexts.",
+          "examples": ["The skel needs updating in the model."],
+          "collocations": ["skel diagram", "skel model"],
+          "synonyms": ["skeleton (informal)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "skelder",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or dialectal term for a deceitful person or trickster; alternatively a person who skins or peels.",
+          "examples": ["The old tale mentioned a skelder who tricked travellers."],
+          "collocations": ["elder skelder", "skelder prize"],
+          "synonyms": ["trickster", "swindler"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "skelderdrake",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mythical creature name composed of skelder and drake; not a common modern term.",
+          "examples": ["Legends spoke of the skelderdrake guarding hidden caves."],
+          "collocations": ["elder skelderdrake"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["mythology", "fantasy"]
+        }
+      ]
+    },
+    {
+      "term": "skeldered",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "describing someone as having been skeldered; related to deceit or trickery in older usage.",
+          "examples": ["The skeldered tale left villagers wary of strangers."],
+          "collocations": ["skeldered tale", "skeldered reputation"],
+          "synonyms": ["deceptive", "tricksy"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "skeldering",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of skeldering; deceit or trickery in older usage.",
+          "examples": ["There was skeldering in the bargain."],
+          "collocations": ["skeldering activity", "state of skeldering"],
+          "synonyms": ["deception", "trickery"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "skelders",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of skelder; deceitful persons or tricksters in older usage.",
+          "examples": ["The market was full of skelders."],
+          "collocations": ["band of skelders"],
+          "synonyms": ["tricksters"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "skeldock",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term from folklore or nautical slang; a dock or place associated with a skelder in legends.",
+          "examples": ["The ship moored at the old skeldock."],
+          "collocations": ["skeldock quay"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["folklore", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "skeldraik",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mythical creature name; a skelder-related term in fantasy lore.",
+          "examples": ["The hero faced a skeldraik in the mist."],
+          "collocations": ["fearful skeldraik"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["mythology", "fantasy"]
+        }
+      ]
+    },
+    {
+      "term": "skeldrake",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a legendary dragon or drake associated with deceitful folklore.",
+          "examples": ["The skeldrake breathed a cold flame."],
+          "collocations": ["skeldrake legend"],
+          "synonyms": ["dragon", "wyrm"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["mythology", "fantasy"]
+        }
+      ]
+    },
+    {
+      "term": "skelet",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a misspelling or rare form of skeleton; a bare framework or structure.",
+          "examples": ["The skelet of the model was incomplete."],
+          "collocations": ["skelet system"],
+          "synonyms": ["skeleton"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "skeletal",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or like a skeleton; very thin or bony.",
+          "examples": ["The dog has a skeletal frame from illness.", "A skeletal outline of the report was prepared."],
+          "collocations": ["skeletal system", "skeletal remains", "skeletal structure"],
+          "synonyms": ["bonelike", "bony", "gaunt"],
+          "antonyms": ["fleshed", "full-bodied"],
+          "register": "neutral",
+          "domain": ["biology", "anatomy", "general"]
+        }
+      ]
+    },
+    {
+      "term": "skeletally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a skeletal or bare, minimal, or stripped-down manner.",
+          "examples": ["The project was skeletally funded, with little margin."],
+          "collocations": ["skeletally outlined"],
+          "synonyms": ["barely", "minimally"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "skeletin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a misspelling or variant of 'skeletin' not widely recognized; likely intended to be 'skeletin' as a root related to skeleton or skeletonized forms.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "skeletogenous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "producing or generating a skeleton or skeletal framework; used in biology or medicine to describe forming a skeleton.",
+          "examples": ["Stem cells can be skeletogenous in early development."],
+          "collocations": ["skeletogenous tissue"],
+          "synonyms": ["osseous-generating"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "skeletogeny",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the origin or development of a skeleton; formation of skeletal structures.",
+          "examples": ["The study explored skeletogeny in embryology."],
+          "collocations": ["skeletogeny process"],
+          "synonyms": ["ossification", "osseogenesis"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "embryology"]
+        }
+      ]
+    },
+    {
+      "term": "skeletomuscular",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or consisting of the skeleton and muscles; pertaining to the musculoskeletal system.",
+          "examples": ["Exercises improve skeletomuscular health."],
+          "collocations": ["skeletomuscular system", "skeletomuscular health"],
+          "synonyms": ["musculoskeletal"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "skeleton",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the structure of bones that supports a living body; the framework of any object.",
+          "examples": ["The human skeleton protects the organs.", "The ship's wooden skeleton was exposed after the hull rotted."],
+          "collocations": ["human skeleton", "skeleton crew", "skeleton key", "skeleton in the closet"],
+          "synonyms": ["bones", "frame"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a basic or incomplete outline or plan.",
+          "examples": ["We created a skeleton outline of the report."],
+          "collocations": ["skeleton outline", "skeleton draft"],
+          "synonyms": ["outline", "framework"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "skeletonian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fictional or stylistic term; could denote a follower or admirer of skeleton-themed aesthetics; not a standard dictionary entry.",
+          "examples": ["The artist styled the character as a skeletonian figure."],
+          "collocations": ["skeletonian aesthetic"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fiction", "art"]
+        }
+      ]
+    },
+    {
+      "term": "skeletonic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or resembling a skeleton; skeletal in form.",
+          "examples": ["The figure had a skeletonic frame."],
+          "collocations": ["skeletonic structure"],
+          "synonyms": ["skeletal"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "art"]
+        }
+      ]
+    },
+    {
+      "term": "skeletonise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to remove all soft tissue from a body or to reduce something to its basic framework.",
+          "examples": ["The curator skeletonised the specimen for display."],
+          "collocations": ["skeletonise the body", "skeletonise the diagram"],
+          "synonyms": ["dissect", "eviscerate (contextual)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "museum"]}
+      ]
+    },
+    {
+      "term": "skeletonised",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having had soft tissues removed to reveal the skeleton or a minimal external appearance.",
+          "examples": ["The skeletonised fossil revealed bone structure."],
+          "collocations": ["skeletonised remains"],
+          "synonyms": ["skeletal", "bare"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "skeletoniser",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one who skeletonises; an instrument or person that removes soft tissue to reveal a skeleton; an object used to skeletonise something.",
+          "examples": ["The skeletoniser equipment prepared the specimen."],
+          "collocations": ["lab skeletoniser"],
+          "synonyms": ["dissector", "eviscerator"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "laboratory"]
+        }
+      ]
+    }
+  ]
+}

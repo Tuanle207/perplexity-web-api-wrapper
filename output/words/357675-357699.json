@@ -1,0 +1,539 @@
+{
+  "items": [
+    {
+      "term": "sigloi",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of siglo; a historical Spanish term meaning a century.",
+          "examples": [
+            "The sigloi of Spain saw many great artists.",
+            "They studied events from the sigloi that shaped the region."
+          ],
+          "collocations": [
+            "siglo i", "siglo xx", "en el siglo"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general", "history", "language_learning"]
+        }
+      ]
+    },
+    {
+      "term": "siglos",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of siglo; centuries in Spanish used in English discussions when quoting or translating.",
+          "examples": [
+            "The siglos of the 16th and 17th centuries influenced architecture.",
+            "Scholars compare siglos to identify long-term trends."
+          ],
+          "collocations": [
+            "los siglos", "siglos pasados"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general", "history", "translation"]
+        }
+      ]
+    },
+    {
+      "term": "siglum",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a sign, abbreviation, letter, or character used to represent words in manuscripts, on coins, or in edited texts.",
+          "examples": [
+            "The siglum 'A' marked the primary manuscript.",
+            "Coins bore sigla that indicated mint marks."
+          ],
+          "collocations": [
+            "siglum for", "sigla",
+            "manuscript siglum"
+          ],
+          "synonyms": ["symbol", "glyph", "mark"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "archaeology", "textual criticism", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "sigma",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the 18th letter of the Greek alphabet; also a term for standard deviation in statistics, and a slang label for a person who is coolly independent.",
+          "examples": [
+            "Sigma is the 18th letter of the Greek alphabet.",
+            "The standard deviation is denoted by sigma in statistics.",
+            "He’s a sigma who prefers to work alone."
+          ],
+          "collocations": [
+            "sigma in statistics", "sigma value", "sigma male"
+          ],
+          "synonyms": ["letter", "SD (standard deviation)", "independent type (slang)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["language", "mathematics", "sociology"]
+        }
+      ]
+    },
+    {
+      "term": "sigmas",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sigma; multiple symbols representing the letter, or multiple standard deviations/indices in context.",
+          "examples": [
+            "Several sigmas were marked on the chart.",
+            "The sigmas of the dataset are spread out."
+          ],
+          "collocations": [
+            "sigmas of the chart", "multivariate sigmas"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["mathematics", "data science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sigmaspire",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a coined or niche term possibly referring to a concept combining 'sigma' with 'spire'; not a widely recognized English sense.",
+          "examples": [
+            "Researchers referenced sigmaspire in a theoretical model."
+          ],
+          "collocations": [
+            "sigmaspire concept"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["academic", "theoretical"]
+        }
+      ]
+    },
+    {
+      "term": "sigmate",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to mate with a sigma; plausible constructed or domain-specific term; not common in general English.",
+          "examples": [
+            "Researchers used sigmate terminology in the model."
+          ],
+          "collocations": [
+            "sigmate pair"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "theory"]
+        }
+      ]
+    },
+    {
+      "term": "sigmated",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past participle of sigmate; used in domain-specific contexts.",
+          "examples": [
+            "The sigmated arrangement was analyzed."
+          ],
+          "collocations": [
+            "sigmated configuration"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "theory"]
+        }
+      ]
+    },
+    {
+      "term": "sigmates",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of sigmate; multiple sigmate entities in a context.",
+          "examples": [
+            "The sigmates were studied in pairs."
+          ],
+          "collocations": [
+            "sigmates sample"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "theory"]
+        }
+      ]
+    },
+    {
+      "term": "sigmatic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to sigma or the Greek letter sigma; used in science or mathematics.",
+          "examples": [
+            "Sigmatic symbols were used in the diagram.",
+            "A sigmatic function was introduced in the paper."
+          ],
+          "collocations": [
+            "sigmatic notation", "sigmatic properties"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["mathematics", "science", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "sigmating",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of forming sigmas; used in niche contexts.",
+          "examples": [
+            "Sigmating was described in the model."
+          ],
+          "collocations": [
+            "sigmating process"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "theory"]
+        }
+      ]
+    },
+    {
+      "term": "sigmation",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term for the process of applying a sigma-related operation; rare and technical.",
+          "examples": [
+            "The sigmation step followed data normalization."
+          ],
+          "collocations": [
+            "sigmation step"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "mathematics"]
+        }
+      ]
+    },
+    {
+      "term": "sigmations",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sigmation; multiple sigmation operations.",
+          "examples": [
+            "The sigmations were compared statistically."
+          ],
+          "collocations": [
+            "sigmations list"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "mathematics"]
+        }
+      ]
+    },
+    {
+      "term": "sigmatism",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term in linguistics for a sigmatic sound pattern; not common in general usage.",
+          "examples": [
+            "Sigmatism occurs in some phonological analyses."
+          ],
+          "collocations": [
+            "sigmatic phonology"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["linguistics", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "sigmatisms",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sigmatism; multiple sigmatic patterns discussed.",
+          "examples": [
+            "Sigmatisms were cataloged in the appendix."
+          ],
+          "collocations": [
+            "sigmatisms in language"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["linguistics", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "sigmatron",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fictional or technical device named for sigma; used in sci-fi or speculative contexts.",
+          "examples": [
+            "The sigmatron activated a signal beacon.",
+            "Engineers tested the sigmatron prototype."
+          ],
+          "collocations": [
+            "sigmatron prototype", "sigmatron device"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science fiction", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "sigmatrons",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sigmatron; multiple sigmatron devices or concepts.",
+          "examples": [
+            "Two sigmatrons were used in the experiment."
+          ],
+          "collocations": [
+            "sigmatrons array"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "sigmodont",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of a rodent subfamily Sigmodontinae, native to the Americas.",
+          "examples": [
+            "Sigmodonts inhabit several South American habitats."
+          ],
+          "collocations": [
+            "sigmodont rodent", "Sigmodontinae family"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "zoology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "sigmodontes",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sigmodont; rodents of the Sigmodontinae subfamily.",
+          "examples": [
+            "Sigmodontes species are diverse in South America."
+          ],
+          "collocations": [
+            "Sigmodontes genera"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "zoology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "sigmoid",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a sigmoid curve in mathematics; an S-shaped curve.",
+          "examples": [
+            "The sigmoid curve shows rapid growth then leveling off."
+          ],
+          "collocations": [
+            "sigmoid function", "logistic sigmoid"
+          ],
+          "synonyms": ["S-curve"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["mathematics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "sigmoidal",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having the shape or form of a sigmoid curve; S-shaped.",
+          "examples": [
+            "The sigmoidal growth pattern was observed in the data.",
+            "A sigmoidal response was modeled."
+          ],
+          "collocations": [
+            "sigmoidal growth", "sigmoidal function"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["mathematics", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "sigmoidally",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a sigmoid manner; following an S-shaped pattern.",
+          "examples": [
+            "The data increased sigmoidally over time."
+          ],
+          "collocations": [
+            "increase sigmoidally"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["mathematics", "data analysis"]
+        }
+      ]
+    },
+    {
+      "term": "sigmoidectomies",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sigmoidectomy; surgical removal of part of the sigmoid colon.",
+          "examples": [
+            "Sigmoidectomies are performed to treat certain diseases of the sigmoid colon."
+          ],
+          "collocations": [
+            "sigmoidectomy procedures", "postoperative sigmoidectomies"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "surgery"]
+        }
+      ]
+    },
+    {
+      "term": "sigmoidectomy",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "surgical removal of the sigmoid colon.",
+          "examples": [
+            "The patient underwent a sigmoidectomy due to diverticular disease."
+          ],
+          "collocations": [
+            "perform a sigmoidectomy", "postoperative sigmoidectomy"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "surgery"]
+        }
+      ]
+    },
+    {
+      "term": "sigmoiditis",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "inflammation of the sigmoid colon.",
+          "examples": [
+            "Symptoms suggested sigmoiditis requiring medical evaluation."
+          ],
+          "collocations": [
+            "acute sigmoiditis", "sigmoiditis symptoms"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "gastroenterology"]
+        }
+      ]
+    }
+  ]
+}

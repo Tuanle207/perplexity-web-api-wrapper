@@ -1,0 +1,524 @@
+{
+  "items": [
+    {
+      "term": "canonicalized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "made to conform to a general rule or standard; made canonical or officially recognized as standard.",
+          "examples": [
+            "The manuscript was canonicalized to align with the universally accepted version.",
+            "The data was canonicalized to ensure consistency across the database."
+          ],
+          "collocations": ["canonicalized data", "canonicalized form", "canonicalized version"],
+          "synonyms": ["standardized", "formalized", "regularized"],
+          "antonyms": ["anomalous", "idiosyncratic"],
+          "register": "formal",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "canonicalizes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "adds or converts something to a canonical form or standard; makes something conform to a recognized rule or norm.",
+          "examples": [
+            "The program canonicalizes input data before processing.",
+            "Researchers canonicalize results to compare across studies."
+          ],
+          "collocations": ["canonicalizes data", "canonicalizes input", "canonicalizes results"],
+          "synonyms": ["standardizes", "normalizes"],
+          "antonyms": ["diverges", "varies"],
+          "register": "formal",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "canonicalizing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the process of converting something to a canonical form or standard.",
+          "examples": [
+            "The algorithm is currently canonicalizing the dataset.",
+            "They are canonicalizing the metadata for interoperability."
+          ],
+          "collocations": ["canonicalizing data", "canonicalizing form", "canonicalizing process"],
+          "synonyms": ["standardizing", "normalizing"],
+          "antonyms": ["deviating", "unstandardizing"],
+          "register": "formal",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "canonically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that conforms to a canon or established standard; according to the canon.",
+          "examples": [
+            "The document is canonically organized by section.",
+            "Historically, the text is canonically cited in scholarly works."
+          ],
+          "collocations": ["canonically organized", "canonically cited"],
+          "synonyms": ["accordingly", "appropriately"],
+          "antonyms": ["anomalously", "noncanonically"],
+          "register": "formal",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "canonicalness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or quality of being canonical or conforming to accepted standards.",
+          "examples": [
+            "The canonicalness of the text was confirmed by several experts.",
+            "They debated the canonicalness of the new interpretation."
+          ],
+          "collocations": ["degree of canonicalness", "canonicalness check"],
+          "synonyms": ["canonicity", "normativity"],
+          "antonyms": ["anomalousness", "noncanonicity"],
+          "register": "formal",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "canonicals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "items that are canonical; official standards or the canonical set within a domain.",
+          "examples": [
+            "The canonicals of the library include the core historical documents.",
+            "They archived the canonicals for preservation."
+          ],
+          "collocations": ["library canonicals", "core canonicals"],
+          "synonyms": ["standards", "canons"],
+          "antonyms": ["noncanonicals"],
+          "register": "formal",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "canonicate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to appoint or declare something as canonical; to recognize as belonging to the canon.",
+          "examples": [
+            "The theologian canonicates certain writings as authoritative.",
+            "The manuscript was canonicated after review."
+          ],
+          "collocations": ["canonicate a text", "canonicate authority"],
+          "synonyms": ["canonize", "validate"],
+          "antonyms": ["desecrate", "disallow"],
+          "register": "formal",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "canonicates",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "entities or persons that can be or are canonicated; candidates for canonization or inclusion in the canon.",
+          "examples": [
+            "The canonicates of the tradition were carefully reviewed.",
+            "Several canonicates emerged during the debate."
+          ],
+          "collocations": ["possible canonicates", "canonicates list"],
+          "synonyms": ["candidates", "prospects"],
+          "antonyms": ["non-candidates"],
+          "register": "formal",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "canonici",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of canonicus; in some contexts refers to a group of canons or canonical scholars in Latin-used terms.",
+          "examples": [
+            "The canoni of the medieval church were gathered.",
+            "The canonici contributed to the scholarly canon."
+          ],
+          "collocations": ["canonici scholars", "canonici chapter"],
+          "synonyms": ["canons", "clerics"],
+          "antonyms": ["laypeople"],
+          "register": "archaic",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "canonicities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of canonicity; the quality of being canonical or the degree to which something conforms to the canon.",
+          "examples": [
+            "Different canonicities are recognized across traditions.",
+            "The canonicities of various versions were compared."
+          ],
+          "collocations": ["varying canonicities", "level of canonicity"],
+          "synonyms": ["canonicity degrees"],
+          "antonyms": ["noncanonicity"],
+          "register": "formal",
+          "domain": ["religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "canonicity",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being canonical; the state of belonging to a recognized canon.",
+          "examples": [
+            "The canonicity of the work is debated among scholars.",
+            "Maintaining canonicity is important for the tradition."
+          ],
+          "collocations": ["text canonicity", "scholarly canonicity"],
+          "synonyms": ["canonicness"],
+          "antonyms": ["noncanonicity"],
+          "register": "formal",
+          "domain": ["religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "canonics",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the body of canonical writings or the canons collectively; canonical laws or rules.",
+          "examples": [
+            "The canonics of the church were codified.",
+            "Scholars study the canonics to understand doctrine."
+          ],
+          "collocations": ["church canonics", "doctrinal canonics"],
+          "synonyms": ["canons", "canonical laws"],
+          "antonyms": ["noncanonic laws"],
+          "register": "formal",
+          "domain": ["religion", "law", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "canonisation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of declaring someone or something to be part of the canon; the process of becoming canonical.",
+          "examples": [
+            "The canonisation of the saint took place after careful review.",
+            "Canonisation is a formal recognition of canonicity."
+          ],
+          "collocations": ["process of canonisation", "intermediate canonisation"],
+          "synonyms": ["canonization"],
+          "antonyms": ["desecration"],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "canonisations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of canonisation; multiple acts or instances of declaring canons or saints canonical.",
+          "examples": [
+            "The canonisations over the centuries reflect changing beliefs.",
+            "Several petites canons underwent canonisations."
+          ],
+          "collocations": ["plural canonisations", "historical canonisations"],
+          "synonyms": ["canonizations"],
+          "antonyms": ["non-canonisations"],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "canonise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to declare something to be canonical; to recognize as part of the canon.",
+          "examples": [
+            "They will canonise the new text after verification.",
+            "The scholar proposed to canonise the fragment as authoritative."
+          ],
+          "collocations": ["canonise a document", "canonise a text"],
+          "synonyms": ["canonize", "authorize"],
+          "antonyms": ["desecrate", "disallow"],
+          "register": "formal",
+          "domain": ["religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "canonised",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "declared canonical; recognized as part of the official canon.",
+          "examples": [
+            "The saint was canonised in the 12th century.",
+            "The manuscript was canonised after review."
+          ],
+          "collocations": ["canonised boundary", "canonised status"],
+          "synonyms": ["canonized"],
+          "antonyms": ["desecrated", "disallowed"],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "canoniser",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who canonises; someone who declares something canonical.",
+          "examples": [
+            "The canoniser reviewed the manuscript before approval.",
+            "As a canoniser, she helps determine authoritative texts."
+          ],
+          "collocations": ["church canoniser", "official canoniser"],
+          "synonyms": ["canonizer"],
+          "antonyms": ["desecrator"],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "canonisers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of canoniser; multiple people who declare something canonical.",
+          "examples": [
+            "The canonisers agreed on the saint's status.",
+            "Different canonisers have different criteria."
+          ],
+          "collocations": ["group of canonisers", "natural canonisers"],
+          "synonyms": ["canonizers"],
+          "antonyms": ["desecrators"],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "canonises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "declares something to be canonical; recognizes as part of the canon.",
+          "examples": [
+            "The body canonises new works each decade.",
+            "Experts canonise the text as authoritative."
+          ],
+          "collocations": ["canonise a work", "canonise a text"],
+          "synonyms": ["canonize", "validate"],
+          "antonyms": ["deselect", "doubt"],
+          "register": "formal",
+          "domain": ["religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "canonising",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of declaring something canonical; the process of becoming canonical.",
+          "examples": [
+            "The church is canonising several saints this year.",
+            "They are canonising the manuscript after review."
+          ],
+          "collocations": ["canonising process", "ongoing canonising"],
+          "synonyms": ["canonizing"],
+          "antonyms": ["desecrating"],
+          "register": "formal",
+          "domain": ["religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "canonist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who studies or writes about canons or canon law; an expert on the canon.",
+          "examples": [
+            "The canonist explained the rules governing canonicity.",
+            "A renowned canonist spoke at the conference."
+          ],
+          "collocations": ["leading canonist", "canonist commentary"],
+          "synonyms": ["canon lawyer", "jurist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "canonistic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to canon law or canons; conforming to canonical rules.",
+          "examples": [
+            "A canonistic interpretation was offered.",
+            "They discussed canonistic procedures."
+          ],
+          "collocations": ["canonistic law", "canonistic interpretation"],
+          "synonyms": ["canonic", "canon-lawful"],
+          "antonyms": ["non-canonical"],
+          "register": "formal",
+          "domain": ["law", "religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "canonistical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "pertaining to canons or canon law; consisting of canons; lawful according to the canon.",
+          "examples": [
+            "Canonistical rules define church governance.",
+            "He studied canonistical disciplines."
+          ],
+          "collocations": ["canonistical rules", "canonistical studies"],
+          "synonyms": ["canonic", "canon-lawful"],
+          "antonyms": ["non-canonical"],
+          "register": "formal",
+          "domain": ["religion", "law"]
+        }
+      ]
+    },
+    {
+      "term": "canonistical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to canons or canon law; of or relating to canonical procedures.",
+          "examples": [
+            "Canonistical matters were debated in the council.",
+            "They followed canonistical guidelines."
+          ],
+          "collocations": ["canonistical matters", "canonistical guidelines"],
+          "synonyms": ["canonic", "canon-lawful"],
+          "antonyms": ["non-canonical"],
+          "register": "formal",
+          "domain": ["religion", "law"]
+        }
+      ]
+    },
+    {
+      "term": "canonists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of canonist; scholars or jurists who study or apply canon law.",
+          "examples": [
+            "Canonists argued for a reform of rules.",
+            "The canonists contributed to legal theory."
+          ],
+          "collocations": ["group of canonists", "leading canonists"],
+          "synonyms": ["canon lawyers", "jurists"],
+          "antonyms": ["non-canonists"],
+          "register": "formal",
+          "domain": ["law", "religion", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "canonizant",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an entity that causes or effects canonization; one who canonizes.",
+          "examples": [
+            "The canonizant approved the saint's biography.",
+            "As a canonizant, he endorsed the text."
+          ],
+          "collocations": ["supporting canonizant"],
+          "synonyms": ["canonizer", "sponsor"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    }
+  ]
+}

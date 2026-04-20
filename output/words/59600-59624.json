@@ -1,0 +1,615 @@
+{
+  "items": [
+    {
+      "term": "cataloes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "This form is not a standard English word and does not have established senses in contemporary usage.",
+          "examples": [""],
+          "collocations": [""],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "catalog",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A complete list of items, often with descriptions, in a library, store, or collection.",
+          "examples": [
+            "The library catalog shows which books are available.",
+            "She browsed the catalog for a new desk lamp."
+          ],
+          "collocations": [
+            "library catalog",
+            "product catalog",
+            "online catalog",
+            "catalog entry",
+            "catalog table"
+          ],
+          "synonyms": ["list", "inventory", "index"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business", "education"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A complete and systematic listing of the items in a collection or the contents of a file.",
+          "examples": [
+            "Her music catalog contains works from the 18th century.",
+            "The archive's catalog helps researchers locate documents."
+          ],
+          "collocations": [
+            "music catalog",
+            "archive catalog",
+            "catalog entry",
+            "catalog number"
+          ],
+          "synonyms": ["register", "record"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "library", "information"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To arrange items in an organized list or to itemize and categorize.",
+          "examples": [
+            "The librarian cataloged the new acquisitions.",
+            "They cataloged the specimens by species."
+          ],
+          "collocations": [
+            "catalog something",
+            "catalog a collection",
+            "careful cataloging"
+          ],
+          "synonyms": ["index", "register", "document"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "cataloged",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of catalog; arranged items in a list or classified them.",
+          "examples": [
+            "The librarian cataloged the new arrivals yesterday.",
+            "They cataloged the artifacts in detail."
+          ],
+          "collocations": [
+            "cataloged the items",
+            "be cataloged",
+            "carefully cataloged"
+          ],
+          "synonyms": ["indexed", "recorded", "documented"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information", "general"]
+        }
+      ]
+    },
+    {
+      "term": "cataloger",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who catalogs items, especially in a library, archive, or collection.",
+          "examples": [
+            "The cataloger ensured all books were correctly classified.",
+            "Catalogers maintain detailed records of new acquisitions."
+          ],
+          "collocations": [
+            "librarian cataloger",
+            "cataloger role",
+            "cataloger training"
+          ],
+          "synonyms": ["indexer", "registrar"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "cataloguers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of cataloguer; people who catalog items.",
+          "examples": [
+            "Cataloguers at the museum catalogues the collection.",
+            "Several cataloguers worked on the archive project."
+          ],
+          "collocations": [
+            "cataloguers at",
+            "professional cataloguers"
+          ],
+          "synonyms": ["indexers", "registrars"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "catalogia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "There is no established usage for 'catalogia' in contemporary English; it may be mistaken for related terms.",
+          "examples": [""],
+          "collocations": [""],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "catalogic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not a standard common word; appears in some rare or scholarly uses related to catalogs, but not established in modern usage.",
+          "examples": [""],
+          "collocations": [""],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "catalogical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Uncommon or theoretical form relating to catalogs; not widely used in everyday English.",
+          "examples": [""],
+          "collocations": [""],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "cataloging",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process of creating and organizing a catalog of items.",
+          "examples": [
+            "Cataloging new books takes careful attention.",
+            "They are responsible for cataloging the museum's artifacts."
+          ],
+          "collocations": [
+            "data cataloging",
+            "begin cataloging",
+            "cataloging system"
+          ],
+          "synonyms": ["indexing", "recording"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "catalogise",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "British spelling of catalog; to list items in a catalog.",
+          "examples": [
+            "They will catalogise the new arrivals next week."
+          ],
+          "collocations": [
+            "catalogise the items",
+            "attempt to catalogise"
+          ],
+          "synonyms": ["catalog", "index"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "information"]
+        }
+      ]
+    },
+    {
+      "term": "catalogised",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of catalogise; arranged items in a catalog.",
+          "examples": [
+            "They catalogised the specimens after inspection."
+          ],
+          "collocations": [
+            "catalogised the collection"
+          ],
+          "synonyms": ["catalogued", "indexed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "catalogises",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third-person singular present of catalogise; lists items in a catalog.",
+          "examples": [
+            "She catalogises the new entries every week."
+          ],
+          "collocations": [
+            "catalogises the records"
+          ],
+          "synonyms": ["indexes", "records"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "catalogising",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of catalogise; the act of listing items into a catalog.",
+          "examples": [
+            "Catalogising the archive is a lengthy project."
+          ],
+          "collocations": [
+            "catalogising the archive"
+          ],
+          "synonyms": ["indexing", "recording"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "catalogist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who catalogs items; a catalog expert.",
+          "examples": [
+            "The catalogist organized the reference collection.",
+            "She trained as a catalogist for the university library."
+          ],
+          "collocations": [
+            "professional catalogist",
+            "catalogist duties"
+          ],
+          "synonyms": ["indexer", "librarian"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "catalogistic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Rare or scholarly term relating to catalogs; not common in everyday use.",
+          "examples": [""],
+          "collocations": [""],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "catalogize",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "American English spelling of catalog; to list items in a catalog.",
+          "examples": [
+            "They will catalogize the new editions."
+          ],
+          "collocations": [
+            "catalogize the collection"
+          ],
+          "synonyms": ["catalog", "index"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "information"]
+        }
+      ]
+    },
+    {
+      "term": "catalogized",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of catalogize; listed items in a catalog.",
+          "examples": [
+            "They catalogized the artifacts for the exhibit."
+          ],
+          "collocations": [
+            "catalogized the records"
+          ],
+          "synonyms": ["indexed", "recorded"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "catalogizes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third-person singular present of catalogize; lists items in a catalog.",
+          "examples": [
+            "The team catalogizes the inventory weekly."
+          ],
+          "collocations": [
+            "catalogizes the inventory"
+          ],
+          "synonyms": ["indexes", "records"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "catalogizing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of catalogize; the act of listing items into a catalog.",
+          "examples": [
+            "Catalogizing the archive is a major project."
+          ],
+          "collocations": [
+            "catalogizing the archive"
+          ],
+          "synonyms": ["indexing", "recording"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "catalogs",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple items listed in a catalog; a collection's listings.",
+          "examples": [
+            "The catalogs contain many decorative items.",
+            "They maintain several catalogs of spare parts."
+          ],
+          "collocations": [
+            "product catalogs",
+            "online catalogs",
+            "print catalogs"
+          ],
+          "synonyms": ["listings", "registers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "retail", "information"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Third-person singular present of catalog; to list items in a catalog.",
+          "examples": [
+            "The museum catalogs new acquisitions every month."
+          ],
+          "collocations": [
+            "catalogs new items"
+          ],
+          "synonyms": ["indexes", "records"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "catalogue",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "British spelling of catalog; a complete list of items with descriptions.",
+          "examples": [
+            "The museum's catalogue lists every painting.",
+            "Browse the product catalogue for options."
+          ],
+          "collocations": [
+            "product catalogue",
+            "museum catalogue",
+            "onlineCatalogue" 
+          ],
+          "synonyms": ["catalog", "list", "inventory"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "education", "arts"]
+        },
+        {
+          "pos": "verb",
+          "definition": "British spelling of catalog; to list items in a catalogue.",
+          "examples": [
+            "They catalogue the exhibits for the tour."
+          ],
+          "collocations": [
+            "catalogue the items"
+          ],
+          "synonyms": ["catalog", "index"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "catalogued",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of catalogue; listed items in a catalogue.",
+          "examples": [
+            "The artifacts were catalogued by the team yesterday."
+          ],
+          "collocations": [
+            "catalogued the items"
+          ],
+          "synonyms": ["indexed", "registered"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "cataloguer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who catalogues items; a library or archive specialist.",
+          "examples": [
+            "The cataloguer updated the catalog with new entries."
+          ],
+          "collocations": [
+            "librarian cataloguer",
+            "professional cataloguer"
+          ],
+          "synonyms": ["indexer", "librarian"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "cataloguers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of cataloguer; people who catalog items.",
+          "examples": [
+            "Cataloguers review new acquisitions weekly."
+          ],
+          "collocations": [
+            "cataloguers in the department"
+          ],
+          "synonyms": ["indexers", "librarians"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "catalogues",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third-person singular present of catalogue; lists items in a catalogue.",
+          "examples": [
+            "She catalogues the collection every quarter."
+          ],
+          "collocations": [
+            "catalogues the records"
+          ],
+          "synonyms": ["indexes", "records"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["library", "information"]
+        }
+      ]
+    },
+    {
+      "term": "null",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "null",
+          "definition": "No entry due to input errors or unrecognized term.",
+          "examples": [""],
+          "collocations": [""],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    }
+  ]
+}

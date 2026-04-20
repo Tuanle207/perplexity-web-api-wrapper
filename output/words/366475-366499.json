@@ -1,0 +1,479 @@
+{
+  "items": [
+    {
+      "term": "southbound",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "moving or directed toward the south",
+          "examples": ["The train was southbound to Lisbon.", "We took a southbound route to avoid the storm."],
+          "collocations": ["southbound train", "southbound flight", "southbound lane", "southbound traffic"],
+          "synonyms": ["southerly"],
+          "antonyms": ["northbound"],
+          "register": "neutral",
+          "domain": ["general", "transport"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a direction or route toward the south or the southern part of a region",
+          "examples": ["The southbound is faster in the morning.", "We followed the southbound for most of the journey."],
+          "collocations": ["southbound", "southbound route", "southbound line"],
+          "synonyms": ["southward direction"],
+          "antonyms": ["northbound"],
+          "register": "neutral",
+          "domain": ["general", "transport"]
+        }
+      ]
+    },
+    {
+      "term": "southcottian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or characteristic of Southcott, a historical reference (often used in theology or literature) describing a prophetic or millenarian stance associated with Joanna Southcott",
+          "examples": ["The sermon had a Southcottian tone, invoking prophecies."],
+          "collocations": ["Southcottian prophecy", "Southcottian doctrine"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["academic", "religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "southdown",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a hill or range of hills in the southern part of a country or region; also a breed of sheep from Sussex, England",
+          "examples": ["We hiked the Southdown hills at sunset.", "The Southdown sheep is hardy and docile."],
+          "collocations": ["Southdown hills", "Southdown sheep", "Southdown ram"],
+          "synonyms": ["south hill", "southward hills"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "geography", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "southeast",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the direction halfway between south and east; a compass point",
+          "examples": ["Turn southeast to reach the coast.", "The wind came from the southeast."],
+          "collocations": ["southeast wind", "southeast Asia", "to the southeast"],
+          "synonyms": ["SE"],
+          "antonyms": ["northwest", "north", "southwest"],
+          "register": "neutral",
+          "domain": ["general", "geography", "navigation"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "located toward or in the southeast",
+          "examples": ["The southeast corner of the room is brighter.", "They moved to a southeast-facing street."],
+          "collocations": [" Southeast Asia", "southeast corner", "southeast wind"],
+          "synonyms": ["SE-facing"],
+          "antonyms": ["northwest"],
+          "register": "neutral",
+          "domain": ["general", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "southeaster",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing from the southeast; in meteorology, a wind blowing from the southeast",
+          "examples": ["A southeaster brought warm air.", "They labeled the storm as a southeaster."],
+          "collocations": ["southeaster wind", "southeasterly breeze"],
+          "synonyms": ["SE wind"],
+          "antonyms": ["northwester"],
+          "register": "neutral",
+          "domain": ["weather", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "southeasterlies",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of southeasterly; winds coming from the southeast",
+          "examples": ["The southeasterlies persisted for days.", "Sailing in the southeasterlies required skill."],
+          "collocations": ["strong southeasterlies", "persistent southeasterlies"],
+          "synonyms": ["SE winds"],
+          "antonyms": ["northwesterlies"],
+          "register": "neutral",
+          "domain": ["weather", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "southeasterly",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or characteristic of the southeast; blowing from the southeast",
+          "examples": ["A southeasterly breeze cooled the beach.", "We followed a southeasterly route."],
+          "collocations": ["southeasterly wind", "southeasterly breeze"],
+          "synonyms": ["SE", "from the SE"],
+          "antonyms": ["northwesterly"],
+          "register": "neutral",
+          "domain": ["weather", "geography"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a southeasterly wind or direction",
+          "examples": ["The southeasterly carried the fog away.", "Expect a southeasterly to shift tonight."],
+          "collocations": ["a southeasterly", "the southeasterly wind"],
+          "synonyms": ["SE wind"],
+          "antonyms": ["northwesterly"],
+          "register": "neutral",
+          "domain": ["weather", "navigation"]
+        }
+      ]
+    },
+    {
+      "term": "southeastern",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the southeast region; located toward the southeast",
+          "examples": ["The Southeastern United States has a warm climate.", "They live in a southeastern suburb."],
+          "collocations": ["southeastern region", "southeastern coast", "southeastern wind"],
+          "synonyms": ["SE regional"],
+          "antonyms": ["northwestern"],
+          "register": "neutral",
+          "domain": ["geography", "general"]
+        }
+      ]
+    },
+    {
+      "term": "southeasterner",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person from the southeast; a resident of the southeast",
+          "examples": ["A Southeasterner knows the coast well."],
+          "collocations": ["local Southeasterner"],
+          "synonyms": ["resident of the southeast"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "southeasternmost",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "the most southeastern; located farthest to the southeast",
+          "examples": ["We visited the southeasternmost point of the island."],
+          "collocations": ["southeasternmost point", "the southeasternmost town"],
+          "synonyms": ["most southeast"],
+          "antonyms": ["northwesternmost", "southwesternmost"],
+          "register": "neutral",
+          "domain": ["geography", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "southeasters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of southeaster; winds from the southeast",
+          "examples": ["Expect sudden changes from the southeasters."],
+          "collocations": ["strong southeasters", "light southeasters"],
+          "synonyms": ["SE winds"],
+          "antonyms": ["northwesterlies"],
+          "register": "neutral",
+          "domain": ["weather", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "southeasts",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of southeast; the southeastern directions or areas",
+          "examples": ["They mapped the southeasts of the country."],
+          "collocations": ["the southeasts of Asia"],
+          "synonyms": ["SE regions"],
+          "antonyms": ["northwests"],
+          "register": "neutral",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "southeastward",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in the direction toward the southeast",
+          "examples": ["They moved southeastward to escape the storm."],
+          "collocations": ["move southeastward", "travel southeastwardly"],
+          "synonyms": ["toward the SE"],
+          "antonyms": ["northwestward"],
+          "register": "neutral",
+          "domain": ["travel", "geography"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "directed toward the southeast",
+          "examples": ["a southeastward path"],
+          "collocations": ["southeastward march"],
+          "synonyms": ["SEward"],
+          "antonyms": ["northward"],
+          "register": "neutral",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "southeastwardly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a southeastward direction; toward the southeast",
+          "examples": ["They were moving southeastwardly across the map."],
+          "collocations": ["move southeastwardly"],
+          "synonyms": ["toward SE"],
+          "antonyms": ["toward NW"],
+          "register": "neutral",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "southeastwards",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in the direction toward the southeast; toward the southeast",
+          "examples": ["The road bends southeastwards."],
+          "collocations": ["continue southeastwards"],
+          "synonyms": ["toward SE"],
+          "antonyms": ["toward NW"],
+          "register": "neutral",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "southed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of shut or closed gently by pressing lips together; to make a sound by hitting with the tongue against the teeth (archaic or dialectal) or to cause to stop briefly",
+          "examples": ["She gently soured the flavors."],
+          "collocations": ["southed lips" ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "souther",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person from the south; a southern person",
+          "examples": ["A friendly souther will guide you."],
+          "collocations": ["native souther", "souther accent"],
+          "synonyms": ["southerner"],
+          "antonyms": ["northerner"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "southered",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a southern aspect or origin; marked by southern characteristics",
+          "examples": ["A southered complexion."],
+          "collocations": ["southered skin"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "southering",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of moving toward the south or the southern region; southern wind or direction",
+          "examples": ["The southering of the wind was gentle."],
+          "collocations": ["southering breeze"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["weather", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "southerland",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "historical or poetic name for southern lands or regions; could be a place name",
+          "examples": ["They found tales of Southerland in old maps."],
+          "collocations": ["mythic Southerland"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature", "history"]
+        }
+      ]
+    },
+    {
+      "term": "southerlies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of southerly winds; winds coming from the south",
+          "examples": ["The voyage faced strong southerlies."],
+          "collocations": ["strong southerlies", "persistent southerlies"],
+          "synonyms": ["south winds"],
+          "antonyms": ["northerlies"],
+          "register": "neutral",
+          "domain": ["weather", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "southerliness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being southern in origin or character; southern charm",
+          "examples": ["Her southerliness made guests feel at home."],
+          "collocations": ["southerliness and hospitality"],
+          "synonyms": ["southern warmth"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "southerlinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of southerliness; multiple instances of southern quality",
+          "examples": ["The southerlinesses of the region stood out."],
+          "collocations": ["various southerlinesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["regional"]
+        }
+      ]
+    },
+    {
+      "term": "southerly",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "toward the south; southern in position",
+          "examples": ["The house faces a southerly direction.", "We followed the southerly wind."],
+          "collocations": ["southerly wind", "southerly direction", "southerly breeze"],
+          "synonyms": ["southward", "south"],
+          "antonyms": ["northerly"],
+          "register": "neutral",
+          "domain": ["weather", "geography"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a southerly wind or direction",
+          "examples": ["A strong southerly shifted the sail."],
+          "collocations": ["the southerly", "southerly wind"],
+          "synonyms": ["south wind"],
+          "antonyms": ["northerly"],
+          "register": "neutral",
+          "domain": ["weather", "nautical"]
+        }
+      ]
+    },
+    {
+      "term": "southermost",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "the most southern; farthest to the south",
+          "examples": ["The southernmost point is marked by a lighthouse."],
+          "collocations": ["southernmost point", "southernmost city"],
+          "synonyms": ["most southern"],
+          "antonyms": ["northernmost"],
+          "register": "neutral",
+          "domain": ["geography"]
+        }
+      ]
+    }
+  ]
+}

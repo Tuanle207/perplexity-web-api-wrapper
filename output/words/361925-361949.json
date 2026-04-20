@@ -1,0 +1,610 @@
+{
+  "items": [
+    {
+      "term": "sluer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A rare or dialect word for a slough or underside of a slug; not common in modern English.",
+          "examples": [
+            "The old dialect speaker used the word sluer to describe a damp, slippery place."
+          ],
+          "collocations": [
+            "mud",
+            "slippery surface",
+            "wet ground"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slues",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third-person singular present of slue: to turn or rotate quickly or unexpectedly; to pivot.",
+          "examples": [
+            "The helicopter slues to avoid the mountain.",
+            "The car slues around the corner."
+          ],
+          "collocations": [
+            "slue to",
+            "slue around",
+            "rapidly slue"
+          ],
+          "synonyms": ["yaw", "swerve"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "sluff",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A loose outer covering or loose material; also a dialect form of 'sluff' meaning loose dead skin or refuse.",
+          "examples": [
+            "The old cloak shed its sluff as it dried.",
+            "He peeled away the sluff from the poster frame."
+          ],
+          "collocations": [
+            "sluff off",
+            "dusty sluff"
+          ],
+          "synonyms": ["sluff-off", "slough"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To shed or remove something loose or unwanted; to shed a layer.",
+          "examples": [
+            "The tree sluffed its old bark during the season.",
+            "You should sluff off the excess skin after the sunburn."
+          ],
+          "collocations": [
+            "sluff off",
+            "sluff away"
+          ],
+          "synonyms": ["shed", "discard", "cast off"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sluffed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of sluff: shed or remove something loose or unnecessary.",
+          "examples": [
+            "The bark sluffed off easily.",
+            "She sluffed the old clothes before washing."
+          ],
+          "collocations": [
+            "sluffed off",
+            "sluffed away"
+          ],
+          "synonyms": ["shed", "discarded"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sluffing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of sluff: shedding or removing loose material; also to cast off or shirk responsibility in some dialects.",
+          "examples": [
+            "The snake is sluffing its old skin.",
+            "Stop sluffing your duties."
+          ],
+          "collocations": [
+            "sluff off",
+            "sluffing away"
+          ],
+          "synonyms": ["shedding", "discarding"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sluffs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third-person singular present of sluff: sheds or removes loose material; shirks responsibilities in dialectal usage.",
+          "examples": [
+            "The old paint sluffs off in sheets.",
+            "He sluffs his chores again."
+          ],
+          "collocations": [
+            "sluffs off",
+            "sluffs away"
+          ],
+          "synonyms": ["sheds", "avoids"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slug",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A slow, lazy person; a dull, inert or sluggardly person.",
+          "examples": [
+            "Don’t be a slug, get up and finish your work.",
+            "That slug of a mouse made no move."
+          ],
+          "collocations": [
+            "lazy slug",
+            "sluggard slug"
+          ],
+          "synonyms": ["slacker", "loafer"],
+          "antonyms": ["active person", "go-getter"],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A bullet or a small, soft, pliable mass; also a unit of drink in a slug of whiskey.",
+          "examples": [
+            "Take a slug of water.",
+            "He poured a slug of whiskey."
+          ],
+          "collocations": [
+            "drink a slug",
+            "slug of",
+            "slugs of"
+          ],
+          "synonyms": ["mouthful", "draught"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To hit or strike someone or something, especially with a fist or blunt object; to punch.",
+          "examples": [
+            "He slugged him in the jaw.",
+            "The car slugged through the debris."
+          ],
+          "collocations": [
+            "slug someone",
+            "slug a punch"
+          ],
+          "synonyms": ["punch", "strike"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slugabed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who stays in bed late; a lazy sleeper.",
+          "examples": [
+            "Don't be a slugabed on a school day.",
+            "The slugabeds slept through the alarm."
+          ],
+          "collocations": [
+            "early in the morning",
+            "lazy slugabed"
+          ],
+          "synonyms": ["sleepyhead (antonym)", "lazybones"],
+          "antonyms": ["early riser"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slugabeds",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of slugabed; people who stay in bed late.",
+          "examples": [
+            "The slugabeds missed the sunrise.",
+            "Slugabeds everywhere woke up late after the party."
+          ],
+          "collocations": [
+            "group of slugabeds",
+            "late-rising slugabeds"
+          ],
+          "synonyms": ["lazybones"],
+          "antonyms": ["early risers"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slugfest",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A situation or event characterized by a high amount of heavy, repeated attacks or blows, especially in sports or fighting; a flurry of activity.",
+          "examples": [
+            "The boxing match turned into a slugfest.",
+            "The debate became a political slugfest."
+          ],
+          "collocations": [
+            "intense slugfest",
+            "slugfest between"
+          ],
+          "synonyms": ["brawl", "melee", "donnybrook"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "sports", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "slugfests",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of slugfest; multiple occasions of heavy fighting or aggressive exchanges.",
+          "examples": [
+            "The two games produced back-to-back slugfests.",
+            "There were several slugfests in the tournament."
+          ],
+          "collocations": [
+            "violent slugfests",
+            "season slugfests"
+          ],
+          "synonyms": ["melees"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "sports"]
+        }
+      ]
+    },
+    {
+      "term": "sluggabed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant spelling of slugabed; a lazy person who stays in bed late.",
+          "examples": [
+            "The sluggabed finally rolled out at noon."
+          ],
+          "collocations": [
+            "late in the morning",
+            "lazy sluggabed"
+          ],
+          "synonyms": ["slugabed", "lazybones"],
+          "antonyms": ["early riser"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "sluggabeds",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of sluggabed; people who stay in bed late.",
+          "examples": [
+            "The sluggabeds lingered past dawn."
+          ],
+          "collocations": [
+            "group of sluggabeds",
+            "late risers"
+          ],
+          "synonyms": ["lazybones"],
+          "antonyms": ["early risers"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "sluggard",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A lazy or slow person who avoids work.",
+          "examples": [
+            "Don’t be a sluggard; finish your chores.",
+            "The town needs to shake off its sluggards."
+          ],
+          "collocations": [
+            "idle sluggard",
+            "lazy sluggard"
+          ],
+          "synonyms": ["lazybones", "procrastinator"],
+          "antonyms": ["diligent worker"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "sluggarding",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of sluggard; the act of being lazy or avoiding work.",
+          "examples": [
+            "He is sluggarding again instead of finishing the report."
+          ],
+          "collocations": [
+            "sluggarding around",
+            "stop sluggarding"
+          ],
+          "synonyms": ["procrastinating", "idling"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "sluggardise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To make someone lazy or to cause slothful behavior; a rare or playful coinage.",
+          "examples": [
+            "The new policy could sluggardise the workforce."
+          ],
+          "collocations": [
+            "sluggardise the system"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sluggardised",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past participle of sluggardise; caused to become lazy.",
+          "examples": [
+            "The reform left many workers sluggardised."
+          ],
+          "collocations": [
+            "sluggardised by"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sluggardises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third-person singular present of sluggardise; causes to become lazy.",
+          "examples": [
+            "The policy sluggardises many workers."
+          ],
+          "collocations": [
+            "sluggardises the economy"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sluggardising",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of sluggardise; causing to become lazy.",
+          "examples": [
+            "The plan is sluggardising the team by reducing responsibilities."
+          ],
+          "collocations": [
+            "sluggardising the workforce"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sluggardize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To make slow or lazy; to deprive of energy or efficiency.",
+          "examples": [
+            "The routine could sluggardize productivity."
+          ],
+          "collocations": [
+            "sluggardize efficiency",
+            "sluggardize the process"
+          ],
+          "synonyms": ["languish", "dull"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sluggardized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of sluggardize; made slow or lazy.",
+          "examples": [
+            "The policy sluggardized many teams."
+          ],
+          "collocations": [
+            "sluggardized efficiency"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sluggardizes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third-person singular present of sluggardize; makes slow or lazy.",
+          "examples": [
+            "Bureaucracy sluggardizes decision making."
+          ],
+          "collocations": [
+            "sluggardizes efficiency"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sluggardizing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of sluggardize; causing to become slow or lazy.",
+          "examples": [
+            "The changes are sluggardizing the organization."
+          ],
+          "collocations": [
+            "sluggardizing efficiency"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sluggardliness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Quality of being a sluggard; laziness.",
+          "examples": [
+            "His sluggardliness slowed the project."
+          ],
+          "collocations": [
+            "visible sluggardliness",
+            "rampant sluggardliness"
+          ],
+          "synonyms": ["laziness", "sloth"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sluggardly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Like a sluggard; lazy or sluggish in behavior.",
+          "examples": [
+            "He spoke in a sluggardly voice.",
+            "The team moved with sluggardly pace."
+          ],
+          "collocations": [
+            "sluggardly behavior",
+            "sluggardly pace"
+          ],
+          "synonyms": ["slothful", "lazy"],
+          "antonyms": ["energetic", "active"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

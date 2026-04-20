@@ -1,0 +1,530 @@
+{
+  "items": [
+    {
+      "term": "slopdash",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a reckless or messy hurry; a careless, hasty action or performance",
+          "examples": [
+            "The painter did the job in a slopdash and left streaks on the walls.",
+            "Don't do it in slopdash—take your time and be precise."
+          ],
+          "collocations": ["slopdash job", "slopdash manner", "in a slopdash"],
+          "synonyms": ["careless haste", "sloppiness"],
+          "antonyms": ["careful work", "precision"],
+          "register": "informal",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "slope",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the inclined surface of a hill or plane",
+          "examples": [
+            "The driveway has a steep slope.",
+            "We walked up the slope to reach the viewpoint."
+          ],
+          "collocations": ["steep slope", "gentle slope", "slope angle", "slope stability"],
+          "synonyms": ["hill", "incline", "gradient"],
+          "antonyms": ["flatness", "level"],
+          "register": "neutral",
+          "domain": ["general", "geography"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to be inclined or to cause to tilt at an angle",
+          "examples": [
+            "The road slopes down to the river.",
+            "The roof slopes away from the center."
+          ],
+          "collocations": ["slope away", "slope down", "sloping roof"],
+          "synonyms": ["tilt", "slant", "tilt"],
+          "antonyms": ["level", "flatten"],
+          "register": "neutral",
+          "domain": ["general", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "sloped",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having or forming a slope; inclined",
+          "examples": [
+            "A sloped roof helps water run off.",
+            "The ground is sloped toward the driveway."
+          ],
+          "collocations": ["sloped roof", "sloped surface", "sloped terrain"],
+          "synonyms": ["inclined", "slanting"],
+          "antonyms": ["flat", "level"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slopely",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a sloppy or messy manner",
+          "examples": [
+            "The work was slopely done, with paint spills everywhere.",
+            "She dressed slopely for the casual outing."
+          ],
+          "collocations": ["slopely done", "slopely dressed"],
+          "synonyms": ["carelessly", "messily"],
+          "antonyms": ["tidily", "neatly"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "slopeness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or quality of being sloped or inclined",
+          "examples": [
+            "The slopeness of the hill makes the climb challenging.",
+            "Architects considered the slopeness when designing the structure."
+          ],
+          "collocations": ["degree of slopeness", "slopeness measure"],
+          "synonyms": ["inclination", "tilt"],
+          "antonyms": ["levelness", "flatness"],
+          "register": "neutral",
+          "domain": ["general", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "sloper",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a tool or device that slopes; or a person who slopes (inclines) something; or a conical hat? (context dependent) common meaning: a slope-making tool or a slope-inspired object",
+          "examples": [
+            "The carpenter used a sloper to shape the curved edge.",
+            "He earned the nickname sloper after adjusting the ramp."
+          ],
+          "collocations": ["sloper tool", "ramp sloper"],
+          "synonyms": ["shaper", "incliner"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "slopers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sloper; people or objects that slope or incline, or a group of individuals who slope in some context",
+          "examples": [
+            "The team used several slopers to set the ramp angles.",
+            "The slopers gathered to discuss slope measurements."
+          ],
+          "collocations": ["slopers team", "sloper models"],
+          "synonyms": ["incliners", "shapers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "slopes",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of slope; inclined surfaces or hills",
+          "examples": [
+            "Many ski slopes are wide and safe.",
+            "The hillside has several steep slopes."
+          ],
+          "collocations": ["ski slopes", "grassy slopes", "slopes of a hill"],
+          "synonyms": ["inclines", "rises"],
+          "antonyms": ["plains", "flat areas"],
+          "register": "neutral",
+          "domain": ["sport", "geography"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to incline or be inclined at an angle",
+          "examples": [
+            "The land slopes toward the sea.",
+            "Her shoulders slope slightly when she stands."
+          ],
+          "collocations": ["slopes downward", "slopes upward"],
+          "synonyms": ["tilt", "incline"],
+          "antonyms": ["level", "flatten"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slopeways",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "path or route that ascends or descends at an angle; a slope or inclined passage",
+          "examples": [
+            "The hikers followed the slopeways to reach the ridge.",
+            "The slopeways made the trail challenging after rain."
+          ],
+          "collocations": ["bright slopeways", "steep slopeways"],
+          "synonyms": ["inclines", "passages"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["outdoors", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "slopewise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in relation to slope or at an angle; slopewise direction",
+          "examples": [
+            "The fence runs slopewise along the hillside.",
+            "They arranged the boards slopewise to create a ramp."
+          ],
+          "collocations": ["slopewise direction", "cut slopewise"],
+          "synonyms": ["diagonally", "at an angle"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slopier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "more sloppy; less careful or tidy",
+          "examples": [
+            "This revision is slopier than the first draft.",
+            "We need a tighter, less slopier approach."
+          ],
+          "collocations": ["more slopier", "slopier than"],
+          "synonyms": ["messier", "sloppier"],
+          "antonyms": ["tidier", "neater"],
+          "register": "informal",
+          "domain": ["writing", "general"]
+        }
+      ]
+    },
+    {
+      "term": "slopiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "most sloppy; most messy or careless",
+          "examples": [
+            "That was the slopiest presentation I've seen all year.",
+            "Her desk is the slopiest in the office."
+          ],
+          "collocations": ["most slopiest", "slopiest of all"],
+          "synonyms": ["messiest", "sloppiest"],
+          "antonyms": ["tidiest", "neatest"],
+          "register": "informal",
+          "domain": ["work", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sloping",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "inclined or slanting; having a slope",
+          "examples": [
+            "A sloping lawn leads to the street.",
+            "The roof has a sloping design."
+          ],
+          "collocations": ["sloping roof", "sloping angle"],
+          "synonyms": ["inclined", "slanting"],
+          "antonyms": ["flat", "level"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slopingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a sloping manner; at an angle",
+          "examples": [
+            "The path runs slopingly toward the valley.",
+            "Slopes are slopingly arranged to drain rainwater."
+          ],
+          "collocations": ["slopingly down", "slopedly? (rare)"],
+          "synonyms": ["diagonally", "at an angle"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "general"]
+        }
+      ]
+    },
+    {
+      "term": "slopingness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality or state of being sloped",
+          "examples": [
+            "The slopingness of the hill affects water runoff.",
+            "Engineers measured the slopingness for stability."
+          ],
+          "collocations": ["degree of slopingness", "slopingness ratio"],
+          "synonyms": ["inclination", "tilt"],
+          "antonyms": ["levelness"],
+          "register": "neutral",
+          "domain": ["general", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "slopingnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of slopingness; multiple inclinations",
+          "examples": [
+            "The landscape features several slopingnesses that complicate construction.",
+            "Different regions vary in their slopingnesses."
+          ],
+          "collocations": ["various slopingnesses", "slopingnesses map"],
+          "synonyms": ["inclinations", "tilts"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "slopmaker",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or device that creates a slope or sloppy result; a maker of slop or mess",
+          "examples": [
+            "The slopmaker left the ramp uneven and unsafe.",
+            "In the workshop, the slopmaker adjusted the angle."
+          ],
+          "collocations": ["slopmaker tool", "slopmaker ramp"],
+          "synonyms": ["shaper", "incliner"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["engineering", "general"]
+        }
+      ]
+    },
+    {
+      "term": "slopmaking",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of creating a slope or sloppy result; making slopes",
+          "examples": [
+            "Slopmaking is critical when designing ramps for accessibility.",
+            "The team discussed slopmaking techniques."
+          ],
+          "collocations": ["slopmaking techniques", "slopmaking process"],
+          "synonyms": ["inclination design", "tilt creation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["engineering", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sloppage",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the amount of sloppy waste or spillage; a state of mess",
+          "examples": [
+            "There was significant sloppage from the paint cans.",
+            "Clean up the sloppage before it dries."
+          ],
+          "collocations": ["sloppage amount", "reduce sloppage"],
+          "synonyms": ["mess", "spillage"],
+          "antonyms": ["tidiness", "order"],
+          "register": "informal",
+          "domain": ["work", "general"]
+        }
+      ]
+    },
+    {
+      "term": "slopped",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of slop; to spill or splash liquid; to work carelessly",
+          "examples": [
+            "He slopped the paint across the canvas.",
+            "The water slopped over the edge of the jug."
+          ],
+          "collocations": ["slopped paint", "slopped over"],
+          "synonyms": ["spilled", "dripped"],
+          "antonyms": ["contained", "neat"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slopperies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sloppery; acts or instances of sloppiness",
+          "examples": [
+            "The slopperies in the report reduced its credibility.",
+            "We must address these slopperies in procedure."
+          ],
+          "collocations": ["numerous slopperies", "eliminate slopperies"],
+          "synonyms": ["carelessness", "sloppiness"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["work", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sloppery",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being sloppy or careless; sloppy behavior",
+          "examples": [
+            "The sloppery of the incident angered the manager.",
+            "Avoid sloppery in data entry."
+          ],
+          "collocations": ["notable sloppery", "reduce sloppery"],
+          "synonyms": ["carelessness", "sloppiness"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["work", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sloppier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "more sloppy; less careful",
+          "examples": [
+            "Her handwriting is sloppier than before.",
+            "They produced sloppier results this quarter."
+          ],
+          "collocations": ["more sloppier", "sloppier handwriting"],
+          "synonyms": ["messier", "sloppier"],
+          "antonyms": ["tidier", "neater"],
+          "register": "informal",
+          "domain": ["writing", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sloppiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "most sloppy; least careful",
+          "examples": [
+            "That was the sloppiest work of the year.",
+            "He admitted the sloppiest error in the report."
+          ],
+          "collocations": ["most sloppier? (avoid)"], 
+          "synonyms": ["messiest", "sloppiest"],
+          "antonyms": ["tidiest", "neatest"],
+          "register": "informal",
+          "domain": ["work", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sloppily",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a sloppy or careless way",
+          "examples": [
+            "The report was sloppily written and hard to read.",
+            "He sloppily smeared paint across the canvas."
+          ],
+          "collocations": ["sloppily written", "sloppily prepared"],
+          "synonyms": ["carelessly", "messily"],
+          "antonyms": ["carefully", "neatly"],
+          "register": "informal",
+          "domain": ["writing", "general"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,785 @@
+{
+  "items": [
+    {
+      "term": "socialise",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to engage in activities that involve meeting and interacting with others, or to participate in social events.",
+          "examples": [
+            "People go to parties to socialise and make new friends.",
+            "The school encourages students to socialise after class."
+          ],
+          "collocations": [
+            "socialise with",
+            "socialise at",
+            "socialise online",
+            "socialise properly",
+            "socialise with friends"
+          ],
+          "synonyms": ["mingle", "mix", "socialize"],
+          "antonyms": ["isolate", "withdraw"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "socialised",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of socialise; to have engaged in social activities or to be influenced by social norms.",
+          "examples": [
+            "He socialised with colleagues at the conference.",
+            "The child was well socialised by the time he started school."
+          ],
+          "collocations": [
+            "socialised with",
+            "socialised by",
+            "socialised upbringing",
+            "socialised person"
+          ],
+          "synonyms": ["socialized"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "socialiser",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who socialises with others or who helps others to socialise; a device or tool that encourages social interaction.",
+          "examples": [
+            "She is a natural socialiser who loves parties.",
+            "The event included a few ice-breaker activities run by a socialiser."
+          ],
+          "collocations": [
+            "talented socialiser",
+            "socialiser at",
+            "socialiser role"
+          ],
+          "synonyms": ["mixer", "networker"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "socialisers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of socialiser; people who socialise with others.",
+          "examples": [
+            "The party included several socialisers who brought energy to the room.",
+            "Socialisers help guests feel welcome."
+          ],
+          "collocations": [
+            "many socialisers",
+            "active socialisers",
+            "group of socialisers"
+          ],
+          "synonyms": ["networkers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "socialises",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of socialise; to engage in social activities or to interact with others.",
+          "examples": [
+            "She socialises with colleagues after work.",
+            "The club socialises every Friday."
+          ],
+          "collocations": [
+            "socialises with",
+            "socialises at",
+            "socialises regularly"
+          ],
+          "synonyms": ["mingle", "socialize"],
+          "antonyms": ["isolate", "withdraw"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "socialising",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the activity of interacting with others socially; the act of socialising.",
+          "examples": [
+            "A key part of the event is socialising with new people.",
+            "They spent the evening socialising and laughing together."
+          ],
+          "collocations": [
+            "enjoy socialising",
+            "socialising with friends",
+            "socialising event"
+          ],
+          "synonyms": ["milling about (informal)", "mingling"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "socialism",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a political and economic theory that production and distribution are owned or regulated by the community as a whole.",
+          "examples": [
+            "They discussed socialism and its impact on wealth distribution.",
+            "Socialism calls for public ownership of major industries."
+          ],
+          "collocations": [
+            "democratic socialism",
+            "socialism ideologies",
+            " socialism movement"
+          ],
+          "synonyms": ["collectivism"],
+          "antonyms": ["capitalism"],
+          "register": "neutral",
+          "domain": ["politics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "socialisms",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of socialism; various forms or interpretations of socialist ideas.",
+          "examples": [
+            "The seminar explored different socialisms from history.",
+            "There are multiple socialisms advocated by scholars."
+          ],
+          "collocations": [
+            "different socialisms",
+            "various socialisms",
+            "historical socialisms"
+          ],
+          "synonyms": ["collectivisms"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "socialist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who supports or believes in socialism.",
+          "examples": [
+            "She is a socialist who campaigns for reform.",
+            "The party attracted many socialists at the rally."
+          ],
+          "collocations": [
+            "young socialist",
+            "leading socialist",
+            "socialist party"
+          ],
+          "synonyms": ["leftist", "communist (historical nuance)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to or supporting socialism.",
+          "examples": [
+            "socialist policies aim to reduce inequality.",
+            "They advocated socialist principles in government."
+          ],
+          "collocations": [
+            "socialist policies",
+            "socialist ideology",
+            "socialist reform"
+          ],
+          "synonyms": ["collectivist"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "socialistic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to socialism or its ideas; characteristic of socialist principles.",
+          "examples": [
+            "The film depicts a socialistic economy.",
+            "A socialistic approach to healthcare system was proposed."
+          ],
+          "collocations": [
+            "socialistic economy",
+            "socialistic policies",
+            "socialistic ideals"
+          ],
+          "synonyms": ["socialist", "collectivist"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "socialistically",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a socialistic manner; with socialist principles or aims.",
+          "examples": [
+            "The government attempted to restructure the market socialistically.",
+            "Policies were designed socialistically to reduce inequality."
+          ],
+          "collocations": [
+            "socialistically oriented",
+            "socialistically funded",
+            "implemented socialistically"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "socialists",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of socialist; people who advocate socialism.",
+          "examples": [
+            "Several socialists spoke at the conference.",
+            "The movement gathered many socialists from different regions."
+          ],
+          "collocations": [
+            "many socialists",
+            "democratic socialists",
+            "socialists abroad"
+          ],
+          "synonyms": ["socialist supporters"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "socialite",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is well known in fashionable social circles and enjoys attending social events.",
+          "examples": [
+            "She is a socialite who goes to every party in town.",
+            "The event attracted several wealthy socialites."
+          ],
+          "collocations": [
+            "rich socialite",
+            "celebrity socialite",
+            "party socialite"
+          ],
+          "synonyms": ["celebrity", "society figure"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["society", "general"]
+        }
+      ]
+    },
+    {
+      "term": "socialites",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of socialite; people who are famous in fashionable society.",
+          "examples": [
+            "The gala was attended by several socialites.",
+            "Socialites often coordinate outfits for events."
+          ],
+          "collocations": [
+            "famous socialites",
+            "wealthy socialites",
+            "society socialites"
+          ],
+          "synonyms": ["society figures"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["society", "general"]
+        }
+      ]
+    },
+    {
+      "term": "socialities",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being sociable; the tendency to associate with others.",
+          "examples": [
+            "Socialities vary among individuals; some people are more sociable.",
+            "Human socialities drive community life."
+          ],
+          "collocations": [
+            "high sociality",
+            "level of sociability",
+            "sociality index"
+          ],
+          "synonyms": ["sociability"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["psychology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sociality",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the tendency to form groups and seek company; the quality of being social.",
+          "examples": [
+            "Dogs show sociality by living in packs.",
+            "Sociality is important for human development."
+          ],
+          "collocations": [
+            "group sociality",
+            "sociality trait",
+            "child sociality"
+          ],
+          "synonyms": ["sociability"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "psychology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "socializable",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being socialized or adapted to social circumstances.",
+          "examples": [
+            "Children are highly socializable and learn quickly in groups.",
+            "The temperament makes the puppy easily socializable."
+          ],
+          "collocations": [
+            "highly socializable",
+            "socializable behaviour",
+            "socializable animal"
+          ],
+          "synonyms": ["trainable", "manageable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["psychology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "socialization",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process by which people learn and adopt the norms and patterns of a group or society; the act of becoming social.",
+          "examples": [
+            "Children's socialization helps them interact with others.",
+            "Socialization at work improves team cohesion."
+          ],
+          "collocations": [
+            "process of socialization",
+            "cultural socialization",
+            "early socialization"
+          ],
+          "synonyms": ["social upbringing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": [" psychology", "education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "socializations",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of socialization; instances or forms of socializing within different contexts.",
+          "examples": [
+            "Different socializations occur in schools and workplaces.",
+            "The study compared family and peer socializations."
+          ],
+          "collocations": [
+            "different socializations",
+            "family socializations",
+            "peer socializations"
+          ],
+          "synonyms": ["socializations (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "psychology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "socialize",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something part of a social or communal life; to introduce to group activities; to socialize society's institutions.",
+          "examples": [
+            "The government proposed to socialize healthcare costs.",
+            "We should socialize the use of common spaces."
+          ],
+          "collocations": [
+            "socialize healthcare",
+            "socialize cost",
+            "socialize with friends"
+          ],
+          "synonyms": ["publicize", "administer collectively"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to interact with other people in a friendly way; to mingle.",
+          "examples": [
+            "They like to socialize after work.",
+            "He socialized with guests at the party."
+          ],
+          "collocations": [
+            "socialize with",
+            "socialize at",
+            "socialize regularly"
+          ],
+          "synonyms": ["mingle", "hang out"],
+          "antonyms": ["isolate"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "socialized",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of socialize; to interact with others in a friendly way or to bring something into common use.",
+          "examples": [
+            "The city socialized healthcare services over time.",
+            "She socialized with neighbors at the block party."
+          ],
+          "collocations": [
+            "socialized with",
+            "socialized the system",
+            "socialized medicine (historical use)"
+          ],
+          "synonyms": ["mingled", "publicized"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "socializer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who socializes with others; someone who encourages others to join in social activities.",
+          "examples": [
+            "He's a great socializer at parties.",
+            "We need a good socializer to break the ice."
+          ],
+          "collocations": [
+            "friendly socializer",
+            "natural socializer",
+            "party socializer"
+          ],
+          "synonyms": ["mixer", "networker"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "social"]
+        }
+      ]
+    },
+    {
+      "term": "socializers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of socializer; people who socialize with others.",
+          "examples": [
+            "The event attracted several socializers from the tech scene.",
+            "Socializers help teams bond."
+          ],
+          "collocations": [
+            "group of socializers",
+            "active socializers",
+            "professional socializers"
+          ],
+          "synonyms": ["networkers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "social"]
+        }
+      ]
+    },
+    {
+      "term": "socializes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of socialize; to interact with others socially.",
+          "examples": [
+            "She socializes with classmates after school.",
+            "The club socializes weekly."
+          ],
+          "collocations": [
+            "socializes with",
+            "socializes at",
+            "socializes regularly"
+          ],
+          "synonyms": ["mingles", "hangs out"],
+          "antonyms": ["isolates", "withdraws"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "socializing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of interacting with others socially; engaging in social activities.",
+          "examples": [
+            "Socializing helps build friendships.",
+            "They spent the evening socializing with guests."
+          ],
+          "collocations": [
+            "enjoy socializing",
+            "socializing with friends",
+            "group socializing"
+          ],
+          "synonyms": ["mingling", "social activity"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "socialize",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something common or shared among people; to interact socially.",
+          "examples": [
+            "Policies aim to socialize resources.",
+            "People gather to socialize at community events."
+          ],
+          "collocations": [
+            "socialize resources",
+            "socialize the market",
+            "socialize with neighbors"
+          ],
+          "synonyms": ["publicize", "share", "cooperate"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["politics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "socialized",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of socialize; to interact socially or to bring into common use.",
+          "examples": [
+            "Healthcare was socialized over several decades.",
+            "The project socialized knowledge across teams."
+          ],
+          "collocations": [
+            "socialized with",
+            "socialized healthcare",
+            "socialized system"
+          ],
+          "synonyms": ["mingled", "shared"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "socializer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who helps others to socialize or who fosters social interaction.",
+          "examples": [
+            "The trainer acts as a socializer for new volunteers.",
+            "She is a natural socializer at networking events."
+          ],
+          "collocations": [
+            "ice-breaker socializer",
+            "effective socializer",
+            "socializer role"
+          ],
+          "synonyms": ["networker", "mixer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "social"]
+        }
+      ]
+    },
+    {
+      "term": "socializers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of socializer; people who socialize with others.",
+          "examples": [
+            "The event attracted several socializers from the community.",
+            "Socializers helped guests feel comfortable."
+          ],
+          "collocations": [
+            "group of socializers",
+            "active socializers",
+            "professional socializers"
+          ],
+          "synonyms": ["networkers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "social"]
+        }
+      ]
+    },
+    {
+      "term": "socializes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of socialize; to interact socially with others.",
+          "examples": [
+            "He socializes with teammates after matches.",
+            "The club socializes on weekends."
+          ],
+          "collocations": [
+            "socializes with",
+            "socializes at",
+            "socializes regularly"
+          ],
+          "synonyms": ["mingles", "hangs out"],
+          "antonyms": ["isolates", "withdraws"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "socializing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of interacting socially; the process of socializing.",
+          "examples": [
+            "Socializing is important for building friendships.",
+            "They enjoyed socializing with colleagues."
+          ],
+          "collocations": [
+            "enjoy socializing",
+            "socializing with friends",
+            "group socializing"
+          ],
+          "synonyms": ["mingling", "social activity"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "items": [
+    {
+      "term": "snazzinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being snazzy; stylishness or attractiveness, often with flair",
+          "examples": [
+            "Her outfit and accessories added real snazziness to the event.",
+            "The car's snazziness helped it stand out in the showroom."
+          ],
+          "collocations": [
+            "snazziness of",
+            "own snazziness",
+            "unmistakable snazziness"
+          ],
+          "synonyms": ["style", "flair", "fashionableness", "flash"],
+          "antonyms": ["drabness", "tasilence", "plainness"],
+          "register": "informal",
+          "domain": ["everyday", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "snazzy",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "stylish and attractive in a lively or flashy way",
+          "examples": [
+            "She wore a snazzy dress to the party.",
+            "That snazzy new phone has lots of features."
+          ],
+          "collocations": [
+            "snazzy outfit",
+            "snazzy dress",
+            "snazzy car",
+            "snazzy design"
+          ],
+          "synonyms": ["stylish", "fashionable", "flashy", "smart"],
+          "antonyms": ["drab", "plain", "unfashionable"],
+          "register": "informal",
+          "domain": ["everyday", "fashion", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "snead",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a surname or rare given name; not widely used as a common English term",
+          "examples": ["The author Snead published several novels."],
+          "collocations": ["surname Snead", "Mr. Snead"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sneads",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of Snead; a surname or proper noun form",
+          "examples": ["The Sneads attended the reunion."],
+          "collocations": ["the Sneads", "family Sneads"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sneak",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to move quietly and secretly to avoid being seen or heard",
+          "examples": [
+            "The cat sneaks through the garden at night.",
+            "She tried to sneak a cookie before dinner."
+          ],
+          "collocations": [
+            "sneak away",
+            "sneak out",
+            "sneak up on",
+            "sneak a peek"
+          ],
+          "synonyms": ["creep", "tiptoe", "steal"],
+          "antonyms": ["march", "stride", "announce"],
+          "register": "informal",
+          "domain": ["everyday", "security"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a person who is deceitful or underhanded; a thief or informant in a small-scale sense",
+          "examples": [
+            "He was caught as a sneak trying to steal from the drawer.",
+            "Don't be a sneak and spread misinformation."
+          ],
+          "collocations": [
+            "little sneaks",
+            "sneak thief",
+            "sneak peek" // note: handled in separate sense but included for collocation variety
+          ],
+          "synonyms": ["thief", "deceiver", "stealthy person"],
+          "antonyms": ["honest person", "upright citizen"],
+          "register": "informal",
+          "domain": ["everyday", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "sneakbox",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small, hidden container or device used to smuggle or conceal items; historically a slang term",
+          "examples": [
+            "The pirate hid the contraband in a sneaks box.",
+            "A sneakbox could be used to carry tiny tools."
+          ],
+          "collocations": [
+            "hidden sneaks box",
+            "sneakbox device"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "sneakboxes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sneaksbox; multiple concealment devices",
+          "examples": [
+            "The market sold several sneaksboxes for covert use."
+          ],
+          "collocations": [
+            "sneakboxes for concealment",
+            "security sneaksboxes"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sneaked",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of sneak; moved quietly to avoid being seen or heard",
+          "examples": [
+            "He sneaked into the room without anyone noticing.",
+            "She sneaked a note to her friend during class."
+          ],
+          "collocations": [
+            "sneaked away",
+            "sneaked past",
+            "sneaked a look"
+          ],
+          "synonyms": ["crept", "tiptoed", "slid"],
+          "antonyms": ["entered openly", "announced"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "sneaker",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a soft athletic shoe designed for casual wear or sports",
+          "examples": [
+            "I bought a new pair of sneakers for running.",
+            "Sneakers come in many colors."
+          ],
+          "collocations": [
+            "running sneakers",
+            "basketball sneakers",
+            "stylish sneakers"
+          ],
+          "synonyms": ["tennis shoe", "trainer"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "sports"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a person who sneaks; a conspirator or stealthy worker",
+          "examples": [
+            "The organizer suspected a sneaker among the team.",
+            "Be careful, there might be a sneaker in the crowd."
+          ],
+          "collocations": [
+            "covert sneaker",
+            "double sneaker"
+          ],
+          "synonyms": ["spy", "lurker"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sneakered",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "wearing sneakers; dressed in casual athletic shoes",
+          "examples": [
+            "She arrived at the party sneakered and comfortable.",
+            "He wore a sneakered outfit for the informal event."
+          ],
+          "collocations": [
+            "sneakered outfit",
+            "sneakered feet"
+          ],
+          "synonyms": ["sneaker-clad", "sneaker-wearing"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "sneakers",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sneaker; soft athletic shoes worn for sports or casual use",
+          "examples": [
+            "Her new sneakers are very comfortable.",
+            "Basketball players often wear high-top sneakers."
+          ],
+          "collocations": [
+            "running sneakers",
+            "fashion sneakers",
+            "sneakers store"
+          ],
+          "synonyms": ["tennis shoes", "trainers"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "fashion", "sports"]
+        }
+      ]
+    },
+    {
+      "term": "sneakeup",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a casual or humorous term for makeup applied in a sneaky or quick way; not standard",
+          "examples": [
+            "She slapped on some sneakeup before the selfie."
+          ],
+          "collocations": [
+            "quick sneakeup",
+            "light sneakeup"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "sneakeups",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sneakeup; quick or informal makeup applications",
+          "examples": [
+            "She used several sneakeups for the concert look."
+          ],
+          "collocations": [
+            "cute sneakeups",
+            "concealing sneakeups"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "sneakier",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "more sly or stealthy than someone or something else",
+          "examples": [
+            "The sneakier thief wore dark clothes to blend into the shadows.",
+            "He asked sneakier questions to avoid giving away his plan."
+          ],
+          "collocations": [
+            "sneakier plan",
+            "sneakier thief",
+            "sneakier move"
+          ],
+          "synonyms": ["more stealthy", "cagier", "wily"],
+          "antonyms": ["honest", "open"],
+          "register": "informal",
+          "domain": ["everyday", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "sneakiest",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "most sly or stealthy; most likely to act secretly",
+          "examples": [
+            "The sneakiest thief avoided all cameras.",
+            "She is the sneakiest student in the class."
+          ],
+          "collocations": [
+            "sneakiest thief",
+            "sneakiest move",
+            "sneakiest approach"
+          ],
+          "synonyms": ["most stealthy", "cagiest", "wiliest"],
+          "antonyms": ["bold", "visible"],
+          "register": "informal",
+          "domain": ["everyday", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "sneakily",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a secretive or stealthy way; without being noticed",
+          "examples": [
+            "He glanced sneakily at his phone during the meeting.",
+            "They moved sneakily along the corridor."
+          ],
+          "collocations": [
+            "move sneakily",
+            "sneakily observe"
+          ],
+          "synonyms": ["covertly", "stealthily", "secretively"],
+          "antonyms": ["openly", "frankly"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "sneakiness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being sneaky; stealth or deceitful behavior",
+          "examples": [
+            "The sneakiness of the plan worried the team.",
+            "Her sneakiness made them suspicious."
+          ],
+          "collocations": [
+            "display sneakiness",
+            "acts of sneakiness"
+          ],
+          "synonyms": ["stealth", "cunning", "deceit"],
+          "antonyms": ["honesty", "transparency"],
+          "register": "informal",
+          "domain": ["everyday", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "sneakinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sneakiness; multiple instances of stealth or deceit",
+          "examples": [
+            "The report highlighted the various sneakinesses in the organization."
+          ],
+          "collocations": [
+            "various sneakinesses"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sneaking",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of moving stealthily; the process of sneaking",
+          "examples": [
+            "Sneaking through the doorway, he avoided waking anyone."
+          ],
+          "collocations": [
+            "begin sneaking",
+            "sneaking around"
+          ],
+          "synonyms": ["creeping", "stealth"],
+          "antonyms": ["marching", "bolting"],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "done in a stealthy way; intended to avoid detection",
+          "examples": [
+            "a sneaking suspicion",
+            "a sneaking glance"
+          ],
+          "collocations": [
+            "sneaking suspicion",
+            "sneaking feeling"
+          ],
+          "synonyms": ["stealthy", "hidden"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "sneakingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a sneaking manner; stealthily",
+          "examples": [
+            "He glanced sneakingly toward the exit."
+          ],
+          "collocations": [
+            "look sneakingly",
+            "sneakingly approach"
+          ],
+          "synonyms": ["stealthily", "surreptitiously"],
+          "antonyms": ["openly", "frankly"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "sneakingness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of moving or acting stealthily; sneakiness",
+          "examples": [
+            "Her sneakingness raised suspicions about her motives."
+          ],
+          "collocations": [
+            "display sneakingness"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "sneakingnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sneakingness; multiple acts or qualities of sneakiness",
+          "examples": [
+            "The report documented several sneakingnesses within the department."
+          ],
+          "collocations": [
+            "various sneakingnesses"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sneakish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "slightly sneaky or sly in character or appearance",
+          "examples": [
+            "He gave a sneakish grin that hinted at mischief.",
+            "A sneakish charm kept the audience uncertain."
+          ],
+          "collocations": [
+            "sneakish grin",
+            "sneakish behavior"
+          ],
+          "synonyms": ["sly", "guileful", "deceptive"],
+          "antonyms": ["open", "frank"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "sneakishly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a sneaky or sly way",
+          "examples": [
+            "He smiled sneakishly and declined to explain."
+          ],
+          "collocations": [
+            "behave sneakishly"
+          ],
+          "synonyms": ["slyly", "guilefully"],
+          "antonyms": ["frankly", "openly"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "sneakishness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being sneakish; sly or slyly influential behavior",
+          "examples": [
+            "Her sneakishness affected how colleagues trusted her."
+          ],
+          "collocations": [
+            "display sneakishness"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

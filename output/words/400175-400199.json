@@ -1,0 +1,615 @@
+{
+  "items": [
+    {
+      "term": "tileroot",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the main or original tile used to start a tiling pattern",
+          "examples": [
+            "The tileroot set the layout for the mosaic.",
+            "Begin with the tileroot to ensure alignment."
+          ],
+          "collocations": [
+            "tileroot layout",
+            "tileroot pattern",
+            "tileroot tile"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["crafts", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "tilers",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "people who lay tiles as a trade",
+          "examples": [
+            "The tilers finished the bathroom floor.",
+            "They hired three tilers for the renovation."
+          ],
+          "collocations": [
+            "professional tilers",
+            "tile tilers",
+            "tilers job"
+          ],
+          "synonyms": ["tile setter", "tiler"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction", "trades"]
+        }
+      ]
+    },
+    {
+      "term": "tilery",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the craft or place where tiles are made or used; the art of decorating with tiles",
+          "examples": [
+            "The tilery produced glazed floor tiles.",
+            "She studied tilery to learn mosaic techniques."
+          ],
+          "collocations": [
+            "tilery workshop",
+            "tilery goods",
+            "tilery skills"
+          ],
+          "synonyms": ["tile making", "tilework"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["crafts", "artisanship", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "tiles",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "flat pieces of baked clay, stone, or other material used to cover surfaces",
+          "examples": [
+            "The kitchen floor was covered with ceramic tiles.",
+            "Glass tiles add a bright touch to the wall."
+          ],
+          "collocations": [
+            "ceramic tiles",
+            "porcelain tiles",
+            "floor tiles",
+            "wall tiles",
+            "glazed tiles"
+          ],
+          "synonyms": ["tiles"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["home", "construction", "design"]
+        },
+        {
+          "pos": "noun (plural, game",
+          "definition": "pieces used in games such as dominoes or mahjong",
+          "examples": [
+            "He arranged the tiles on the board.",
+            "The player drew a new tile from the rack."
+          ],
+          "collocations": [
+            "game tiles",
+            "domino tiles",
+            "mahjong tiles"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["gaming", "recreation"]
+        }
+      ]
+    },
+    {
+      "term": "tileseed",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a hypothetical or symbolic seed used to start a tiling pattern; not a common standard term",
+          "examples": [
+            "The tileseed concept guides the initial grid.",
+            "Some designs use a tileseed to anchor symmetry."
+          ],
+          "collocations": [
+            "tileseed pattern",
+            "tileseed concept"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["design", "art"]
+        }
+      ]
+    },
+    {
+      "term": "tilesherd",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a collective group or collection of tiles; a coined term not widely used in standard glossaries",
+          "examples": [
+            "The tilesherd in the showroom showcased various textures.",
+            "A tilesherd helps organize different tile types."
+          ],
+          "collocations": [
+            "tilesherd collection",
+            "tilesherd display"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["design", "retail"]
+        }
+      ]
+    },
+    {
+      "term": "tilestone",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a stone shaped or used as a tile, or a stone used in tiling; a tile-like stone",
+          "examples": [
+            "The tilestone is used for outdoor paving.",
+            "They selected a dark tilestone for the patio."
+          ],
+          "collocations": [
+            "tilestone paving",
+            "tilestone flooring"
+          ],
+          "synonyms": ["tile stone", "tiled stone"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction", "landscape"]
+        }
+      ]
+    },
+    {
+      "term": "tilette",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small tile or tile-shaped piece; a tiny tile used in decorative work",
+          "examples": [
+            "The mosaic used many little tilettes for detail.",
+            "She glued a delicate tillette into the border."
+          ],
+          "collocations": [
+            "marble tillette",
+            "glass tillette"
+          ],
+          "synonyms": ["mini tile", "small tile"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "crafts"]
+        }
+      ]
+    },
+    {
+      "term": "tileways",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "paths or routes built with tiles; a decorative tiling network",
+          "examples": [
+            "The tileways created a pleasant walking path.",
+            "Tileways around the square form a mosaic pattern."
+          ],
+          "collocations": [
+            "tileways network",
+            "tileways path"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["architecture", "landscape"]
+        }
+      ]
+    },
+    {
+      "term": "tilework",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the art or craft of making and laying tiles",
+          "examples": [
+            "The tilework on the fountain is intricate.",
+            "Her tilework draws inspiration from Byzantine mosaics."
+          ],
+          "collocations": [
+            "ornate tilework",
+            "tilework design",
+            "tilework patterns"
+          ],
+          "synonyms": ["tiling", "tessellation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "tileworks",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "factories or studios where tiles are made or the collective products of such places",
+          "examples": [
+            "The tileworks supply ceramic tiles for the project.",
+            "Different tileworks offer unique glazes."
+          ],
+          "collocations": [
+            "local tileworks",
+            "tileworks production"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "tilewright",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who makes or installs tiles; a tiler by trade",
+          "examples": [
+            "The tilewright laid every tile with precision.",
+            "A skilled tilewright is essential for a good finish."
+          ],
+          "collocations": [
+            "professional tilewright",
+            "tilewright workshop"
+          ],
+          "synonyms": ["tiler", "tile setter"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction", "trades"]
+        }
+      ]
+    },
+    {
+      "term": "tileyard",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place where tiles are stored, produced, or sold; a yard associated with tiling work",
+          "examples": [
+            "The tileyard held stacks of ceramic tiles.",
+            "Deliveries arrived from the tileyard daily."
+          ],
+          "collocations": [
+            "tileyard storage",
+            "tileyard stock"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["commerce", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "tilia",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun (proper noun / botanical)",
+          "definition": "the genus of flowering trees in the lime family, also called linden or basswood",
+          "examples": [
+            "The tilia tree provides fragrant blossoms in summer.",
+            "Bee activity is high around tilia in late spring."
+          ],
+          "collocations": [
+            "tilia tree",
+            "tilia genus"
+          ],
+          "synonyms": ["linden", "lime tree", "basswood"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "botany", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "tiliaceae",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant family that includes tilias; the lime family",
+          "examples": [
+            "Tiliaceae is known for flowering trees and shrubs."
+          ],
+          "collocations": [
+            "family Tiliaceae",
+            "tiliaceae plants"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "tiliaceous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the Tiliaceae family or to tilia trees",
+          "examples": [
+            "The leaves have tiliaceous veins."
+          ],
+          "collocations": [
+            "tiliaceous leaves",
+            "tiliaceous trees"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "tilicetum",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a botanical term for an association or plant community dominated by tilia species",
+          "examples": [
+            "The tilicetum represents a lime-tree-dominated community."
+          ],
+          "collocations": [
+            "tilicetum composition",
+            "tilicetum association"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "tilikum",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a natural place name or a proper noun; may refer to a location or entity named Tilkum",
+          "examples": [
+            "Tilkum is a district in the study area."
+          ],
+          "collocations": [
+            "Tilkum region",
+            "Tilkum River"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography", "name"]
+        }
+      ]
+    },
+    {
+      "term": "tiling",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of covering surfaces with tiles",
+          "examples": [
+            "Tiling the bathroom is a large project.",
+            "The tiling pattern uses alternating colors."
+          ],
+          "collocations": [
+            "floor tiling",
+            "kitchen tiling",
+            "wet-area tiling"
+          ],
+          "synonyms": ["tiling work", "tessellation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["construction", "home improvement"]
+        }
+      ]
+    },
+    {
+      "term": "tilings",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "multiple tiling processes or patterns",
+          "examples": [
+            "The tilings in the floor design are complex.",
+            "Several tilings were used in the mosaic."
+          ],
+          "collocations": [
+            "intricate tilings",
+            "color tilings"
+          ],
+          "synonyms": ["tiling patterns"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "till",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a cash drawer or the place where money is stored in a shop",
+          "examples": [
+            "He opened the till to give change.",
+            "The cashier counted the till at the end of the day."
+          ],
+          "collocations": [
+            "cash till",
+            "register till",
+            "front till"
+          ],
+          "synonyms": ["cash drawer", "register"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "retail"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to plow or turn over soil in farming",
+          "examples": [
+            "They tilled the field after harvest.",
+            "Farmers tilled the soil to prepare the bed."
+          ],
+          "collocations": [
+            "till the soil",
+            "deep till",
+            "soil tilled"
+          ],
+          "synonyms": ["cultivate", "plow"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "farming"]
+        }
+      ]
+    },
+    {
+      "term": "tillable",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be tilled or cultivated by farming",
+          "examples": [
+            "The land is tillable and suitable for crops.",
+            "Farmers prefer tillable soil for maize."
+          ],
+          "collocations": [
+            "tillable land",
+            "tillable soil"
+          ],
+          "synonyms": ["cultivable", "arable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "land use"]
+        }
+      ]
+    },
+    {
+      "term": "tillaea",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a historical or botanical term referring to a group within certain plant classifications; rare usage",
+          "examples": [
+            "Tillaea is mentioned in old botanical texts."
+          ],
+          "collocations": [
+            "tillaea genus"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "botany", "history"]
+        }
+      ]
+    },
+    {
+      "term": "tillaeastrum",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an obsolete or obscure plant name; not widely used in modern dictionaries",
+          "examples": [
+            "Tillaeastrum appears in legacy herbals."
+          ],
+          "collocations": [
+            "tillaeastrum species"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "botany", "history"]
+        }
+      ]
+    },
+    {
+      "term": "tillage",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of tilling soil; agricultural preparation of land",
+          "examples": [
+            "Tillage helps seeds grow better.",
+            "Modern tillage uses tractors and plows."
+          ],
+          "collocations": [
+            "conventional tillage",
+            "no-till tillage",
+            "soil tillage"
+          ],
+          "synonyms": ["cultivation", "cultivation of soil"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "farming"]
+        }
+      ]
+    }
+  ]
+}

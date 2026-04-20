@@ -1,0 +1,223 @@
+{
+  "items": [
+    {
+      "term": "canzon",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "canzona",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "canzonas",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "canzone",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "canzones",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "canzonet",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "canzonets",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "canzonetta",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "canzonettas",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "canzonette",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "canzoni",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "canzos",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "caoba",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "caodaism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "caodaist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "caoine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "caon",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "caoutchin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "caoutchouc",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "caoutchoucin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "caoutchoucs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "cap",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A protective or decorative top for the head or a bottle; also a limit or reach.",
+          "examples": [
+            "Put on your cap before you go outside.",
+            "The price cap is set at 100 euros.",
+            "He popped the cap off the bottle."
+          ],
+          "collocations": ["cap", "cap itself", "baseball cap", "cap size", "reach cap"],
+          "synonyms": ["lid (for container)", "hat (for head)", "limit (figurative)"],
+          "antonyms": ["base", "floor", "bottom"],
+          "register": "informal",
+          "domain": ["everyday", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A maximum limit or upper bound in a rule or policy.",
+          "examples": [
+            "The tax rate has a cap at 50%.",
+            "There is a cap on how much you can withdraw daily."
+          ],
+          "collocations": ["salary cap", "cap on", "cap amount"],
+          "synonyms": ["limit", "ceiling"],
+          "antonyms": ["floor", "minimum"],
+          "register": "formal",
+          "domain": ["general", "business"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To cover or close with a cap; to limit or restrain.",
+          "examples": [
+            "Cap the nozzle to prevent spills.",
+            "The company capped the price to protect consumers."
+          ],
+          "collocations": ["cap off", "cap at", "cap price"],
+          "synonyms": ["restrict", "limit", "top"],
+          "antonyms": ["increase", "raise"],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "capa",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "capabilities",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The abilities or qualities that enable someone or something to do something.",
+          "examples": [
+            "The new software has advanced capabilities.",
+            "We assessed the capabilities of the team."
+          ],
+          "collocations": ["technical capabilities", "capabilities and limitations", "capabilities assessment"],
+          "synonyms": ["abilities", "competences", "potential"],
+          "antonyms": ["inabilities", "limits"],
+          "register": "neutral",
+          "domain": ["technology", "general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "capability",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A natural or developed ability to perform a task.",
+          "examples": [
+            "The robot has the capability to move around obstacles.",
+            "She has the capability to learn languages quickly."
+          ],
+          "collocations": ["technical capability", "capability gap", "human capability"],
+          "synonyms": ["ability", "competence", "capacity"],
+          "antonyms": ["inability", "limitation"],
+          "register": "neutral",
+          "domain": ["technology", "education", "general"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "items": [
+    {
+      "term": "snowplough",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a vehicle or machine that clears snow from roads.",
+          "examples": [
+            "The snowplough cleared the highway after the heavy storm.",
+            "Municipal crews used a snowplough to keep the main streets passable."
+          ],
+          "collocations": ["snowplough blades", "front-mounted snowplough", "tow truck and snowplough", "snowplough driver", "heavy snowplough"],
+          "synonyms": ["plough", "plow (US)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transportation", "weather"]
+        }
+      ]
+    },
+    {
+      "term": "snowploughed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to clear snow from a road using a snowplough (past tense).",
+          "examples": [
+            "The road was snowploughed this morning after the blizzard.",
+            "Salt was spread after the snow was snowploughed from the lanes."
+          ],
+          "collocations": ["snowploughed road", "snowploughed street", "well snowploughed"],
+          "synonyms": ["ploughed (UK)", "plowed (US)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transportation"]
+        }
+      ]
+    },
+    {
+      "term": "snowploughing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of clearing snow from roads with a snowplough.",
+          "examples": [
+            "Snowploughing is essential to keep roads open during a winter storm.",
+            "Maintenance crews scheduled daily snowploughing in the city."
+          ],
+          "collocations": ["routine snowploughing", "overnight snowploughing", "snowploughing operations"],
+          "synonyms": ["ploughing (UK)", "plowing (US)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transportation"]
+        }
+      ]
+    },
+    {
+      "term": "snowploughs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of snowplough; multiple vehicles or machines that clear snow from roads.",
+          "examples": [
+            "The snowploughs were deployed along the motorway.",
+            "Several snowploughs lined up at the depot before dawn."
+          ],
+          "collocations": ["fleet of snowploughs", "snowploughs available", "repairing snowploughs"],
+          "synonyms": ["ploughs (UK)", "plows (US)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transportation"]
+        }
+      ]
+    },
+    {
+      "term": "snowplow",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternate spelling of snowplough; a vehicle that clears snow from roads.",
+          "examples": [
+            "The town used a snowplow to reopen the main street.",
+            "A malfunctioning snowplow caused a delay on the highway."
+          ],
+          "collocations": ["snowplow blade", "snowplow operator", "snowplow route"],
+          "synonyms": ["snowplough"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transportation"]
+        }
+      ]
+    },
+    {
+      "term": "snowplowed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to clear snow from something using a snowplow (past tense).",
+          "examples": [
+            "The road was snowplowed overnight.",
+            "They snowplowed the parking lot after the storm."
+          ],
+          "collocations": ["snowplowed area", "well snowplowed"],
+          "synonyms": ["ploughed", "plowed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transportation"]
+        }
+      ]
+    },
+    {
+      "term": "snowplowing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of clearing snow with a snowplow (present participle).",
+          "examples": [
+            "Snowplowing takes place during early morning hours.",
+            "Winter road maintenance includes routine snowplowing."
+          ],
+          "collocations": ["daily snowplowing", "extensive snowplowing"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transportation"]
+        }
+      ]
+    },
+    {
+      "term": "snowplows",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of snowplow; multiple vehicles that clear snow.",
+          "examples": [
+            "The fleet of snowplows cleared the highway.",
+            "Two snowplows were damaged in the storm."
+          ],
+          "collocations": ["fleet of snowplows", "snowplows on standby"],
+          "synonyms": ["plows (US)", "ploughs (UK)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transportation"]
+        }
+      ]
+    },
+    {
+      "term": "snowproof",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "designed to resist or withstand snow; not easily damaged or affected by snow.",
+          "examples": [
+            "The jacket is snowproof and keeps you warm in the blizzard.",
+            "We bought snowproof boots for the trip."
+          ],
+          "collocations": ["snowproof coat", "snowproof boots", "snowproofing treatment"],
+          "synonyms": ["snow-resistant", "snow-resistant"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "outdoor", "clothing"]
+        }
+      ]
+    },
+    {
+      "term": "snows",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun_or_verb",
+          "definition": "plural of snow (n) or third-person singular of snow (v).",
+          "examples": [
+            "Snow covers the fields after the storm.",
+            "He snows every winter in these mountains." // illustrative but grammatically odd; better as verb form
+          ],
+          "collocations": ["heavy snows", "fresh snows", "snows fall"],
+          "synonyms": ["precipitation (n)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "weather"]
+        }
+      ]
+    },
+    {
+      "term": "snowscape",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a landscape covered with snow; a snowy scene.",
+          "examples": [
+            "The photograph captures a quiet snowscape at dawn.",
+            "Tourists stopped to admire the winter snowscape."
+          ],
+          "collocations": ["beautiful snowscape", "urban snowscape", "snowscape photography"],
+          "synonyms": ["snow scene", "winter landscape"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "general"]
+        }
+      ]
+    },
+    {
+      "term": "snowscapes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of snowscape; multiple snowy landscapes or scenes.",
+          "examples": [
+            "The gallery features a series of snowscapes by a local artist.",
+            "Her snowscapes depict quiet, moonlit winters."
+          ],
+          "collocations": ["collection of snowscapes", "snowscapes series"],
+          "synonyms": ["snow scenes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "general"]
+        }
+      ]
+    },
+    {
+      "term": "snowshade",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a shading device or shelter made to block snow or sun reflecting snow; a name for a shade or barrier in snowy areas.",
+          "examples": [
+            "A snowshade protected the doorway from drifting snow.",
+            "We set up a snowshade to keep the entrance clear."
+          ],
+          "collocations": ["wind snowshade", "portable snowshade"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "snowshed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a protective structure built to cover a railway or road to prevent or shield from snow.",
+          "examples": [
+            "The train passed through the tunnel and into the snowshed.",
+            "Damage was avoided thanks to the snowshed."
+          ],
+          "collocations": ["snowshed roof", "maintenance of snowsheds"],
+          "synonyms": ["snow shed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transportation"]
+        }
+      ]
+    },
+    {
+      "term": "snowsheds",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of snowshed; multiple protective structures over railways or roads.",
+          "examples": [
+            "The region relies on several snowsheds to keep tracks clear.",
+            "Snowsheds line the mountain railway."
+          ],
+          "collocations": ["network of snowsheds", "snowsheds maintenance"],
+          "synonyms": ["snow sheds"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transportation"]
+        }
+      ]
+    },
+    {
+      "term": "snowshine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a poetic or literary reference to snow requiring light; a term used to describe shimmering snow.",
+          "examples": [
+            "The morning had a soft snowshine across the fields.",
+            "They admired the pale snowshine on the trees."
+          ],
+          "collocations": ["gentle snowshine", "sparkling snowshine"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "snowshoe",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of footwear with a wide base used to walk on snow without sinking.",
+          "examples": [
+            "We rented snowshoes for the winter hike.",
+            "Her snowshoes helped her cross the deep snow."
+          ],
+          "collocations": ["pair of snowshoes", "snowshoe hike", "snowshoe rental"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "outdoor"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to walk using snowshoes.",
+          "examples": [
+            "We snowshoed across the snowy field.",
+            "They love to snowshoe in the national park."
+          ],
+          "collocations": ["snowshoeing", "snowshoes"],
+          "synonyms": ["snowshoe-walk"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "outdoor"]
+        }
+      ]
+    },
+    {
+      "term": "snowshoed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of snowshoe; walked using snowshoes.",
+          "examples": [
+            "They snowshoed along the forest trail.",
+            "We snowshoed for miles in the quiet winter woods."
+          ],
+          "collocations": ["snowshoed route", "snowshoed through forest"],
+          "synonyms": ["snowshoed (past)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "outdoor"]
+        }
+      ]
+    },
+    {
+      "term": "snowshoeing",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the activity or sport of walking on snow with snowshoes.",
+          "examples": [
+            "Snowshoeing is a popular winter activity.",
+            "They went snowshoeing in the hills near Amsterdam."
+          ],
+          "collocations": ["beginner snowshoeing", "snowshoeing trip"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "outdoor"]
+        }
+      ]
+    },
+    {
+      "term": "snowshoer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who uses snowshoes; a snowshoer.",
+          "examples": [
+            "The group included a skilled snowshoer who led the way.",
+            "Every snowshoer carried a small backpack."
+          ],
+          "collocations": ["experienced snowshoer", "novice snowshoer"],
+          "synonyms": ["snowshoer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "outdoor"]
+        }
+      ]
+    },
+    {
+      "term": "snowshoers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of snowshoer; multiple people who use snowshoes.",
+          "examples": [
+            "The tour group included several seasoned snowshoers.",
+            "Snowshoers crowded the trail after sunrise."
+          ],
+          "collocations": ["group of snowshoers", "snowshoers on trail"],
+          "synonyms": ["snowshoers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "outdoor"]
+        }
+      ]
+    },
+    {
+      "term": "snowshoes",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of snowshoe; equipment worn on the feet to walk on snow.",
+          "examples": [
+            "Her snowshoes helped her trek across the snow." ,
+            "We rented snowshoes for the hiking trip."
+          ],
+          "collocations": ["pair of snowshoes", "heavy snowshoes", "backpacking snowshoes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "outdoor"]
+        }
+      ]
+    },
+    {
+      "term": "snowshoing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "alternative spelling error for snowshoeing; walking with snowshoes.",
+          "examples": [
+            "They were snowshoing along the ridge."
+          ],
+          "collocations": ["snowshoing trip"],
+          "synonyms": ["snowshoeing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "outdoor"]
+        }
+      ]
+    },
+    {
+      "term": "snowslide",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a slide or avalanche of snow down a slope.",
+          "examples": [
+            "A snowslide buried the road after the heavy fall.",
+            "Skier narrowly escaped a snowslide."
+          ],
+          "collocations": ["dangerous snowslide", "snowslide area"],
+          "synonyms": ["avalanche (snow)", "snow avalanche"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "snowslides",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of snowslide; multiple snow slides or avalanches.",
+          "examples": [
+            "The region is prone to frequent snowslides in the spring.",
+            "Warning signs were posted for snowslides."
+          ],
+          "collocations": ["risk of snowslides", "snowslides reported"],
+          "synonyms": ["avalanches"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "geography"]
+        }
+      ]
+    }
+  ]
+}

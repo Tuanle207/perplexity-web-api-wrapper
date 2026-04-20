@@ -1,0 +1,451 @@
+{
+  "items": [
+    {
+      "term": "sleeves",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the part of a garment that covers the arm",
+          "examples": ["She rolled up the sleeves of her shirt.", "The coat has long sleeves."],
+          "collocations": ["long sleeves", "short sleeves", "sleeve length", "sleeve pattern", "raglan sleeves"],
+          "synonyms": ["arm cover", "arm part of a garment"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "fashion", "clothing"]
+        }
+      ]
+    },
+    {
+      "term": "sleeving",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or material of covering or enclosing with sleeves or sleeve-like coverings; the process of putting sleeves on something",
+          "examples": ["The sleigh was sleeving the merchandise in protective sleeves."],
+          "collocations": ["sleeving material", "protective sleeving"],
+          "synonyms": ["encasing", "enclosing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "manufacturing"]
+        }
+        ,
+        {
+          "pos": "verb",
+          "definition": "to provide with sleeves or sleeve-like coverings",
+          "examples": ["The pipes were sleeved to prevent leaks."],
+          "collocations": ["sleeving pipes", "cable sleeving"],
+          "synonyms": ["encase", "cover"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "sleevings",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sleeve; coverings or parts that function as sleeves",
+          "examples": ["The garment has multiple sleevings."],
+          "collocations": ["arm sleevings", "protective sleevings"],
+          "synonyms": ["sleeves", "arm coverings"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "sleezier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "more sleazy; more disreputable or corrupt",
+          "examples": ["That club looked sleazier than the last one."],
+          "collocations": ["sleazier than", "sleazier atmosphere"],
+          "synonyms": ["more disreputable", "seedier"],
+          "antonyms": ["squeaky-clean", "honest"],
+          "register": "informal",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sleaziest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "most sleazy; most disreputable or morally low",
+          "examples": ["That was the sleaziest move in the game."],
+          "collocations": ["sleaziest move", "sleaziest people"],
+          "synonyms": ["most disreputable", "seediest"],
+          "antonyms": ["most respectable", "honestest"],
+          "register": "informal",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sleezy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "slang spelling of sleazy; morally low or disreputable",
+          "examples": ["That car salesman was so sleezy."],
+          "collocations": ["sleezy behavior", "sleezy tactics"],
+          "synonyms": ["sleazy", "shady"],
+          "antonyms": ["upright", "credible"],
+          "register": "slang",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sleided",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "archaic or dialect form meaning to slide or slip; to kill (less common use in historical texts)",
+          "examples": ["The wheel sleided on the rough road."],
+          "collocations": ["sleid(e)d motion", "sleided across"],
+          "synonyms": ["slid", "slipped"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sleigh",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a vehicle on runners pulled by horses or dogs, used on snow",
+          "examples": ["They rode a horse-drawn sleigh through the snowy forest."],
+          "collocations": ["horse-drawn sleigh", "sleigh ride", "sleigh bells"],
+          "synonyms": ["sledge (British)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "travel", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sleighed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of sleigh; to ride in a sleigh, or to kill with a sleigh (historical or literary use)",
+          "examples": ["They sleighed across the frozen lake."],
+          "collocations": ["sleighed along", "sleighed through snow"],
+          "synonyms": ["rode (in a sleigh)", "driven"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sleigher",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one who sleighs; a person who drives or handles a sleigh",
+          "examples": ["The sleigher guided the team through the woods."],
+          "collocations": ["sleigh driver", "sled sleigher"],
+          "synonyms": ["driver", "pilot"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "sleighers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sleigher or people who use sleighs",
+          "examples": ["The sleighers gathered by the village square."],
+          "collocations": ["sleighers team", "sledders and sleighers"],
+          "synonyms": ["drivers", "runners"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sleighing",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of traveling in a sleigh; the sport or activity of riding sleighs",
+          "examples": ["Sleighing is popular in snowy regions."],
+          "collocations": ["sleighing season", "go sleighing"],
+          "synonyms": ["sleigh rides"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "recreation"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle of sleigh; to travel in or drive a sleigh",
+          "examples": ["They are sleighing through the valley."],
+          "collocations": ["sleighing through", "sleighing team"],
+          "synonyms": ["riding in a sleigh"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sleighings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sleighing; instances of sleighing",
+          "examples": ["They enjoyed several sleighings that week."],
+          "collocations": ["winter sleighings", "evening sleighings"],
+          "synonyms": ["sleigh rides"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "recreation"]
+        }
+      ]
+    },
+    {
+      "term": "sleighs",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sleigh; a vehicle on runners for snow",
+          "examples": ["The kids pulled a toy sleigh across the snow."],
+          "collocations": ["reindeer sleighs", "decorate sleighs"],
+          "synonyms": ["sleighs", "sledge (UK)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "sleight",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "skillful or cunning deception; dexterity",
+          "examples": ["The magician used sleight of hand to distract the audience.", "With great sleight, he dodged the question."],
+          "collocations": ["sleight of hand", "sleight of mind"],
+          "synonyms": ["deception", "dexterity", "skill"],
+          "antonyms": ["clumsiness", "naivety"],
+          "register": "neutral",
+          "domain": ["magic", "general", "theater"]
+        }
+      ]
+    },
+    {
+      "term": "sleightful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "full of sleight; marked by dexterous trickery",
+          "examples": ["A sleightful display of illusion."]
+,
+          "collocations": ["sleightful performance"],
+          "synonyms": ["dexterous", "tricky"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "sleightness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being deceitful or dexterous; deftness",
+          "examples": ["Her sleightness impressed the audience."],
+          "collocations": ["sleightness of hand", "mental sleightness"],
+          "synonyms": ["dexterity", "deftness", "deception"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "sleights",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sleight; acts of trickery or dexterous moves",
+          "examples": ["He attempted several sleights to win the game."],
+          "collocations": ["magician's sleights", "sleights of hand"],
+          "synonyms": ["deceptions", "dexterities"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "magic"]
+        }
+      ]
+    },
+    {
+      "term": "sleighty",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "agile and quick; crafty in movement or conduct",
+          "examples": ["A sleighty thief slipped through the crowd."],
+          "collocations": ["sleighty moves", "sleighty thief"],
+          "synonyms": ["nimble", "canny"],
+          "antonyms": ["clumsy", "slow"],
+          "register": "neutral",
+          "domain": ["general", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "slendang",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "unknown or rare term; likely a misspelling or dialect variant; no clear standard senses",
+          "examples": ["No common usage detected."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "slender",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "slim in form; gracefully thin",
+          "examples": ["She wore a slender silver necklace.", "The plant has a slender stem."],
+          "collocations": ["slender figure", "slender waist", "slender build"],
+          "synonyms": ["thin", "slim", "lean"],
+          "antonyms": ["plump", "thick"],
+          "register": "neutral",
+          "domain": ["general", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "slenderer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative form of slender; more slender",
+          "examples": ["This rod is slenderer than the one we used yesterday."],
+          "collocations": ["slenderer frame"],
+          "synonyms": ["thinner"],
+          "antonyms": ["fatter", "broader"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slenderest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative form of slender; thinnest",
+          "examples": ["She wore the slenderest necklace in the shop."],
+          "collocations": ["slenderest figure"],
+          "synonyms": ["thinnest"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "slenderise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make slender or thinner; to make more slender",
+          "examples": ["They plan to slenderise the profile of the bottle."],
+          "collocations": ["slenderise the figure", "slenderise the waste"],
+          "synonyms": ["thin", "trim"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "slenderised",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of slenderise; became slender",
+          "examples": ["They slenderised the doorway by removing a wall."],
+          "collocations": ["slenderised silhouette"],
+          "synonyms": ["thinned", "trimmed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

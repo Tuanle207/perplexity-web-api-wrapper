@@ -1,0 +1,749 @@
+{
+  "items": [
+    {
+      "term": "siphoid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Resembling or having the form of a siphon (a tube or tube-like structure).",
+          "examples": [
+            "The algae produced a siphoid structure that resembled a small tube.",
+            "In the specimen, the main body showed siphoid extensions."
+          ],
+          "collocations": [
+            "siphoid shape",
+            "siphoid structure",
+            "siphoid projection"
+          ],
+          "synonyms": ["tubiform", "tubular"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "siphon",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A tube or pipe that allows liquid to move from one place to another by gravity or atmospheric pressure.",
+          "examples": [
+            "Pour the water into the bottle using a siphon.",
+            "The car's fuel siphon quickly drained the tank."
+          ],
+          "collocations": [
+            "siphon tube",
+            "gas siphon",
+            "siphon hose",
+            "siphon effect"
+          ],
+          "synonyms": ["tube", "pipe", "conduit"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To remove liquid by using a siphon or to cause liquid to move in a siphon-like way.",
+          "examples": [
+            "She siphoned the liquid into a jar.",
+            "The thief siphoned gasoline from the car."
+          ],
+          "collocations": [
+            "siphon off",
+            "siphon out",
+            "siphon gas"
+          ],
+          "synonyms": ["drain", "draw off"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "siphonaceous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Describing organisms that have siphons or siphon-like structures; resembling a siphon.",
+          "examples": [
+            "Siphonaceous fungi form long, tube-like filaments.",
+            "In some algae, siphonaceous colonies extend into a continuous tube."
+          ],
+          "collocations": [
+            "siphonaceous mycelia",
+            "siphonaceous structures",
+            "siphonaceous tissue"
+          ],
+          "synonyms": ["tubular", "siphon-forming"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "siphonage",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act or process of siphoning; specifically the loss of a water seal from a trap due to air pressure in a drainage system.",
+          "examples": [
+            "Siphonage can cause sewer smells to enter a building.",
+            "Self-siphonage occurs when a discharge creates a vacuum in the drain."
+          ],
+          "collocations": [
+            "siphonage risk",
+            "induced siphonage",
+            "prevent siphonage"
+          ],
+          "synonyms": ["siphoning", "drainage loss"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "construction", "public health"]
+        }
+      ]
+    },
+    {
+      "term": "siphonages",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of siphonage; multiple instances or types of siphonage events.",
+          "examples": [
+            "The report lists several siphonages observed in the system.",
+            "Maintenance addressed several siphonages in the vents."
+          ],
+          "collocations": [
+            "multiple siphonages",
+            "prevent siphonages",
+            "detect siphonages"
+          ],
+          "synonyms": ["siphonage (plural)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "public health"]
+        }
+      ]
+    },
+    {
+      "term": "siphonal",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or resembling a siphon; pertaining to a siphonal structure.",
+          "examples": [
+            "The mollusk has a long siphonal canal.",
+            "Siphonal grooves aid in water flow."
+          ],
+          "collocations": [
+            "siphonal canal",
+            "siphonal aperture",
+            "siphonal structure"
+          ],
+          "synonyms": ["siphonal", "tubular"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "siphonales",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An order of algae (red or brown) characterized by siphon-like filaments.",
+          "examples": [
+            "Siphonales include species with tubular filaments.",
+            "Researchers studied the siphonales to understand their growth."
+          ],
+          "collocations": [
+            "order Siphonales",
+            "Siphonales algae",
+            "siphonal filaments"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "siphonaptera",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An order of insects that includes fleas.",
+          "examples": [
+            "Siphonaptera are small, wingless parasitic insects.",
+            "Flee larvae belong to the Siphonaptera order."
+          ],
+          "collocations": [
+            "order Siphonaptera",
+            "Siphonaptera fleas",
+            "fleas (Siphonaptera)"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "taxonomy"]
+        }
+      ]
+    },
+    {
+      "term": "siphonapterous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": " Having or relating to fleas; bearing the characteristics of fleas.",
+          "examples": [
+            "Siphonapterous animals are often found on hosts.",
+            "The flea is a siphonapterous parasite."
+          ],
+          "collocations": [
+            "siphonapterous parasite",
+            "siphonapterous wings (rare usage)"
+          ],
+          "synonyms": ["flea-related"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "zoology"]
+        }
+      ]
+    },
+    {
+      "term": "siphonaria",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A genus of air-breathing sea snails with a siphon-like mantle.",
+          "examples": [
+            "Siphonaria species are pulmonate limpets found in coastal areas.",
+            "The siphonaria mollusk has a distinctive siphonal shape."
+          ],
+          "collocations": [
+            "Siphonaria species",
+            "siphonaria snail",
+            "siphonaria mollusk"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "marine biology"]
+        }
+      ]
+    },
+    {
+      "term": "siphonariid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A member of the family Siphonariidae, the air-breathing sea snails.",
+          "examples": [
+            "The siphonariid lives on rocky shores.",
+            "Siphonariids use a siphon-like mantle for gas exchange."
+          ],
+          "collocations": [
+            "siphonariid species",
+            "siphonariid mollusk",
+            "family Siphonariidae"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "marine biology"]
+        }
+      ]
+    },
+    {
+      "term": "siphonariidae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The biological family that includes siphonariid sea snails.",
+          "examples": [
+            "Siphonariidae contains several genera of limpet-like snails.",
+            "Scientists study Siphonariidae to understand pulmonate evolution."
+          ],
+          "collocations": [
+            "family Siphonariidae",
+            "Siphonariidae mollusks",
+            "genera in Siphonariidae"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "taxonomy"]
+        }
+      ]
+    },
+    {
+      "term": "siphonata",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A taxonomic grouping or collection related to siphon-like structures (context-specific).",
+          "examples": [
+            "The specimen belongs to the siphonata group.",
+            "Researchers described several siphonata in the study."
+          ],
+          "collocations": [
+            "siphonata group",
+            "siphonata specimens"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "taxonomy"]
+        }
+      ]
+    },
+    {
+      "term": "siphonate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To produce or form a siphon; to act as a siphon.",
+          "examples": [
+            "Certain devices siphonate liquids efficiently.",
+            "Some plants siphonate moisture through their structures."
+          ],
+          "collocations": [
+            "siphonate liquid",
+            "siphonate flow"
+          ],
+          "synonyms": ["siphonize (US)", "draw off"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "siphonated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of siphonate; having had a siphon effect or been drawn off by a siphon.",
+          "examples": [
+            "The liquid was siphonated into the container.",
+            "They siphonated the fuel for the trip."
+          ],
+          "collocations": [
+            "siphonated off",
+            "been siphonated"
+          ],
+          "synonyms": ["siphoned"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "siphoneae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A taxonomic grouping used in some classifications (often a subfamily or related grouping in certain mollusk classifications).",
+          "examples": [
+            "The genus falls within the subfamily siphoneae in older literature.",
+            "Siphoneae classifications vary across sources."
+          ],
+          "collocations": [
+            "siphoneae subfamily",
+            "genus in siphoneae"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "taxonomy"]
+        }
+      ]
+    },
+    {
+      "term": "siphoned",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of siphon; removed liquid using a siphon.",
+          "examples": [
+            "He siphoned gas from the tank.",
+            "She siphoned water into a bottle."
+          ],
+          "collocations": [
+            "siphoned off",
+            "siphoned gas",
+            "siphoned water"
+          ],
+          "synonyms": ["drained", "drawn off"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "siphoneous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having siphon-like tubes or structures; formed by siphons.",
+          "examples": [
+            "Siphoneous networks allow fluid transport within tissues.",
+            "The organism displays siphoneous growth."
+          ],
+          "collocations": [
+            "siphoneous tissue",
+            "siphoneous network"
+          ],
+          "synonyms": ["siphonous"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "siphonet",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Historical or archaic term related to a siphon; usage varies by text.",
+          "examples": [
+            "The old manuscript uses siphonet to refer to a tube.",
+            "Siphonet appears in some early scientific writings."
+          ],
+          "collocations": [
+            "siphonet usage",
+            "archaic siphonet"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "history"]
+        }
+      ]
+    },
+    {
+      "term": "siphonets",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of siphonet or related small siphon-like structures; context-dependent.",
+          "examples": [
+            "The apparatus includes several tiny siphonets.",
+            "Siphonets were observed in the mucous tubes."
+          ],
+          "collocations": [
+            "mini siphonets",
+            "siphonet(s) apparatus"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "lab equipment"]
+        }
+      ]
+    },
+    {
+      "term": "siphonia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A genus or taxonomic group within certain invertebrates; context-specific.",
+          "examples": [
+            "Siphonia species are studied for their siphonal structures.",
+            "The siphonia fossil shows tube-like features."
+          ],
+          "collocations": [
+            "Siphonia genus",
+            "siphonia species"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "taxonomy"]
+        }
+      ]
+    },
+    {
+      "term": "siphonial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or resembling a siphon or siphon-like structures.",
+          "examples": [
+            "The snail has a siphonial mantle opening.",
+            "Siphonial features aid in water intake."
+          ],
+          "collocations": [
+            "siphonial opening",
+            "siphonial structure"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "siphoniata",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A taxonomic grouping within certain mollusks or related organisms; context-specific.",
+          "examples": [
+            "Siphoniata is mentioned in old classifications of mollusks.",
+            "The siphoniata group includes tubular forms."
+          ],
+          "collocations": [
+            "siphoniata group",
+            "members of siphoniata"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "taxonomy"]
+        }
+      ]
+    },
+    {
+      "term": "siphonic",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Of or relating to a siphon; making a sucking or drawing action.",
+          "examples": [
+            "The siphonic action draws water up the tube.",
+            "A siphonic sound could be heard from the device."
+          ],
+          "collocations": [
+            "siphonic action",
+            "siphonic flow",
+            "siphonic system"
+          ],
+          "synonyms": ["siphon-related"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "siphonifera",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A taxonomic grouping of marine organisms (often a class or subclass within certain phyla) with siphon-like features.",
+          "examples": [
+            "Species of siphonifera are studied in plankton surveys.",
+            "Siphonifera show tubular body parts."
+          ],
+          "collocations": [
+            "siphonifera species",
+            "members of siphonifera"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "marine science"]
+        }
+      ]
+    },
+    {
+      "term": "siphonets",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Small siphonal structures; variant spelling or plural form in some classifications.",
+          "examples": [
+            "Researchers noted several tiny siphonets along the tissue.",
+            "The device includes several siphonets for measurement."
+          ],
+          "collocations": [
+            "tiny siphonets",
+            "siphonet-like tubes"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "lab equipment"]
+        }
+      ]
+    },
+    {
+      "term": "siphonia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A condition or structure involving siphons; used in some scientific texts.",
+          "examples": [
+            "The siphonial features are characteristic of siphonia.",
+            "Siphonia refers to a tubular aspect in certain organisms."
+          ],
+          "collocations": [
+            "siphonia condition",
+            "siphonia feature"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "siphonial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A siphon-related part or organ; an alternate form of siphon.",
+          "examples": [
+            "The snail's siphonial is visible near the mantle edge.",
+            "Siphonials regulate water intake."
+          ],
+          "collocations": [
+            "siphonial organ",
+            "siphonial structure"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "siphoniata",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A broader taxonomic grouping related to siphon-like features; context-specific.",
+          "examples": [
+            "The siphoniata include several tubular-lineage species.",
+            "Taxonomic references vary on the scope of siphoniata."
+          ],
+          "collocations": [
+            "siphoniata grouping",
+            "members of siphoniata"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "taxonomy"]
+        }
+      ]
+    },
+    {
+      "term": "siphonic",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Of or relating to a siphon; causing or involving suction or drawing.",
+          "examples": [
+            "The siphonic action draws liquid up the tube.",
+            "A siphonic pump reduces air bubbles."
+          ],
+          "collocations": [
+            "siphonic action",
+            "siphonic flow",
+            "siphonic pump"
+          ],
+          "synonyms": ["siphon-related"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "siphonifera",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A broad taxonomic grouping that includes siphon-bearing organisms; context-dependent.",
+          "examples": [
+            "Siphonifera are studied in aquatic ecology.",
+            "The term appears in some classifications of invertebrates."
+          ],
+          "collocations": [
+            "siphonifera group",
+            "members of siphonifera"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "taxonomy"]
+        }
+      ]
+    }
+  ]
+}

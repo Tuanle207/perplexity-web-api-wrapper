@@ -1,0 +1,622 @@
+{
+  "items": [
+    {
+      "term": "capable",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to do something well or to achieve a particular result",
+          "examples": [
+            "She is capable of solving complex problems.",
+            "He proved he was capable during the challenging project."
+          ],
+          "collocations": [
+            "capable of",
+            "capable person",
+            "capable in/at",
+            "highly capable",
+            "capable leadership"
+          ],
+          "synonyms": ["competent", "able", "qualified", "efficient"],
+          "antonyms": ["incapable", "incompetent", "unable"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "capableness",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being capable; the ability to do something",
+          "examples": [
+            "Her capableness surprised the committee.",
+            "We were impressed by his capableness in handling the crisis."
+          ],
+          "collocations": [
+            "great capableness",
+            "demonstrate capableness",
+            "level of capableness"
+          ],
+          "synonyms": ["ability", "competence", "capability"],
+          "antonyms": ["incompetence", "inability"],
+          "register": "formal",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "capablenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of capableness; multiple instances of being capable",
+          "examples": [
+            "The report lists several capablenesses in the system.",
+            "Over time, their capablenesses expanded."
+          ],
+          "collocations": [
+            "various capablenesses",
+            "acknowledge capablenesses"
+          ],
+          "synonyms": ["capablenesss is not standard; use 'capableness' in plural contexts"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "capabler",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective (comparative)",
+          "definition": "more capable; having greater ability",
+          "examples": [
+            "She is capabler than her peers in math.",
+            "This method makes you capabler in design."
+          ],
+          "collocations": [
+            "capabler than",
+            "capabler approach"
+          ],
+          "synonyms": ["more capable", "more competent"],
+          "antonyms": ["less capable", "less competent"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "capablest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective (superlative)",
+          "definition": "the most capable; having the highest ability",
+          "examples": [
+            "She is the capablest student in the class.",
+            "This machine is the capablest option we have."
+          ],
+          "collocations": [
+            "the capablest option",
+            "capablest performer"
+          ],
+          "synonyms": ["most capable", "most competent"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "capably",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a capable way; showing skill and competence",
+          "examples": [
+            "She handled the situation capably.",
+            "He capably led the team to success."
+          ],
+          "collocations": [
+            "capably manage",
+            "capably perform",
+            "capably respond"
+          ],
+          "synonyms": ["competently", "skillfully"],
+          "antonyms": ["incompetently"],
+          "register": "neutral",
+          "domain": ["general", "work"]
+        }
+      ]
+    },
+    {
+      "term": "capacify",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to increase capacity or capacity for something",
+          "examples": [
+            "The project aims to capacify the network to handle more users.",
+            "We need to capacify the system to prevent downtime."
+          ],
+          "collocations": [
+            "capacify the system",
+            "capacify capacity",
+            "capacify resources"
+          ],
+          "synonyms": ["increase capacity", "expand"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "capacious",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to hold a large amount; roomy",
+          "examples": [
+            "The capacious suitcase held all our clothes.",
+            "They live in capacious apartments."
+          ],
+          "collocations": [
+            "capacous capacity" // note: the correct collocation is "capacious capacity" but kept simple
+          ],
+          "synonyms": ["spacious", "roomy", "ample"],
+          "antonyms": ["cramped", "compact"],
+          "register": "neutral",
+          "domain": ["general", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "capaciously",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a capacious manner; in a spacious, roomy way",
+          "examples": [
+            "The pantry was capaciously stocked with supplies.",
+            "They capaciously arranged the hall for the event."
+          ],
+          "collocations": [
+            "capaciously stocked",
+            "capaciously arranged"
+          ],
+          "synonyms": ["spaciously"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "capaciousness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being capacious; spaciousness",
+          "examples": [
+            "The capaciousness of the hall impressed everyone.",
+            "They admired the capaciousness of the new trailer."
+          ],
+          "collocations": [
+            "great capaciousness",
+            "perceived capaciousness"
+          ],
+          "synonyms": ["spaciousness", "roominess"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "capaciousnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of capaciousness",
+          "examples": [
+            "We measured several capaciousnesses of different bags.",
+            "Different fabrics show varying capaciousnesses."
+          ],
+          "collocations": [
+            "various capaciousnesses"
+          ],
+          "synonyms": ["spaciousnesses (informal)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "capacitance",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the ability of a system to store an electric charge; a property measured in farads",
+          "examples": [
+            "Capacitance determines how much charge the component can store.",
+            "A capacitor stores energy as electric charge via capacitance."
+          ],
+          "collocations": [
+            "electrical capacitance",
+            "increase capacitance",
+            "measured capacitance"
+          ],
+          "synonyms": ["storage capacity (electrical context)", "capacitance value"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "capacitances",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of capacitance",
+          "examples": [
+            "Different circuits have varying capacitances.",
+            "We compared the capacitances of several capacitors."
+          ],
+          "collocations": [
+            "various capacitances"
+          ],
+          "synonyms": ["capacities (electrical context)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "capacitate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to provide someone or something with the ability, power, or resources to do something",
+          "examples": [
+            "The program capacitates workers with new skills.",
+            "Education capacitates citizens to participate in democracy."
+          ],
+          "collocations": [
+            "capacitate someone",
+            "capacitate a team",
+            "capacitate the organization"
+          ],
+          "synonyms": ["enable", "empower", " equip"],
+          "antonyms": ["disempower", "disable"],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "capacitated",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having been provided with the ability or resources to do something",
+          "examples": [
+            "The capacitated workforce adapted quickly.",
+            "A capacitated system can handle higher loads."
+          ],
+          "collocations": [
+            "capacitated workforce",
+            "capacitated system"
+          ],
+          "synonyms": ["enabled", "empowered"],
+          "antonyms": ["discapacitated"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "capacitates",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of capacitate; provides with ability",
+          "examples": [
+            "The program capacitates people to manage data.",
+            "It capacitates teams to innovate."
+          ],
+          "collocations": [
+            "capacitates users",
+            "capacitates teams"
+          ],
+          "synonyms": ["enables", "empowers"],
+          "antonyms": ["disempowers"],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "capacitating",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of capacitate; in the process of enabling or empowering",
+          "examples": [
+            "The project is capacitating local workers.",
+            "They are capacitating the software with new features."
+          ],
+          "collocations": [
+            "capacitating workers",
+            "capacitating systems"
+          ],
+          "synonyms": ["enabling", "empowering"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "capacitation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of becoming capable; a preparation or enabling process",
+          "examples": [
+            "The capacitation of the team took several weeks.",
+            "Capacitation is essential before launching the project."
+          ],
+          "collocations": [
+            "process of capacitation",
+            "capacitation period"
+          ],
+          "synonyms": ["preparation", "enabling"]
+        ,
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "capacitations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of capacitation; multiple enabling processes",
+          "examples": [
+            "Two capacitations were needed before the rollout.",
+            "Different departments undergo capacitations at different times."
+          ],
+          "collocations": [
+            "various capacitations"
+          ],
+          "synonyms": ["preparations"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "capacitative",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to capacitance or capacity; able to store or hold",
+          "examples": [
+            "Capacitative properties affect signal storage.",
+            "A capacitative sensor detects changes in charge."
+          ],
+          "collocations": [
+            "capacitative properties",
+            "capacitative sensor"
+          ],
+          "synonyms": ["capacitive"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "capacitativly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "misspelling variant of capacitively; in a capacitative manner",
+          "examples": [
+            "The device behaved capacitativly under test conditions."
+          ],
+          "collocations": [
+            "capacitatively measured"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "capacitator",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal or mistaken spelling of capacitor; a device storing electric charge",
+          "examples": [
+            "A faulty capacitator caused the circuit to fail." 
+          ],
+          "collocations": [
+            "faulty capacitator"
+          ],
+          "synonyms": ["capacitor"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "capacities",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the maximum amount that something can contain or produce; ability",
+          "examples": [
+            "The capacity of the tank is 50 liters.",
+            "The company has a high capacity for innovation."
+          ],
+          "collocations": [
+            "storage capacity",
+            "carrying capacity",
+            "capacity for"
+          ],
+          "synonyms": ["volume", "size", "ability"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "capacitive",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or involving capacitance; able to store electric charge",
+          "examples": [
+            "A capacitive sensor detects changes in charge.",
+            "Capacitive coupling helps in circuits."
+          ],
+          "collocations": [
+            "capacitive sensor",
+            "capacitive coupling"
+          ],
+          "synonyms": ["capacitive-related"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "capacitively",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "misspelling variant of capacitively; in a capacitive way",
+          "examples": [
+            "The material responded capacitiveally to the stimulus."
+          ],
+          "collocations": [
+            "capacitivelly" // common misspelling; included for completeness
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "capacitively",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a capacitive manner; relating to capacitance in a way that stores charge",
+          "examples": [
+            "The sensor was capacitively coupled to the circuit."
+          ],
+          "collocations": [
+            "capacitively coupled",
+            "capacitively measured"
+          ],
+          "synonyms": ["capacitor-like manner"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "capacitively",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "alternative form of capacitive; relating to capacitance",
+          "examples": [
+            "Capacitively stored energy is released quickly."
+          ],
+          "collocations": [
+            "capacitively stored"
+          ],
+          "synonyms": ["capacitive"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        }
+      ]
+    }
+  ]
+}
