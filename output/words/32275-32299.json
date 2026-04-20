@@ -1,0 +1,479 @@
+```json
+{
+  "items": [
+    {
+      "term": "banbury",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A town in Oxfordshire, England.",
+          "examples": ["Banbury is known for its crossroad market.", "She visited Banbury last summer."],
+          "collocations": ["Banbury town", "Banbury cross", "Banbury market"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A type of cake or tart associated with Banbury.",
+          "examples": ["I bought a Banbury cake from the bakery.", "Banbury cakes are sweet and spicy."],
+          "collocations": ["Banbury cake", "Banbury tart"],
+          "synonyms": ["currant cake"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "banc",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The bench of judges in certain courts.",
+          "examples": ["The case was heard before the banc.", "Full banc decided the appeal."],
+          "collocations": ["full banc", "en banc", "banc decision"],
+          "synonyms": ["bench"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "banca",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A bank, especially in Italian or financial contexts.",
+          "examples": ["La Banca d'Italia regulates banks.", "He works at a banca in Milan."],
+          "collocations": ["banca account", "banca services"],
+          "synonyms": ["bank"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "bancal",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A raised bed or terrace for growing crops, used in agriculture.",
+          "examples": ["Farmers built bancals on the hillside.", "The bancal holds vines well."],
+          "collocations": ["stone bancal", "vine bancal"],
+          "synonyms": ["terrace", "raised bed"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "bancales",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bancal; raised beds for crops.",
+          "examples": ["The bancales prevent soil erosion.", "They planted in the bancales."],
+          "collocations": ["stone bancales"],
+          "synonyms": ["terraces"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "bancassurance",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The selling of insurance products through banks.",
+          "examples": ["Bancassurance grew popular in Europe.", "The bank offers bancassurance services."],
+          "collocations": ["bancassurance products", "bancassurance model", "bancassurance sales"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance", "insurance"]
+        }
+      ]
+    },
+    {
+      "term": "bancassurances",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bancassurance; instances of bank insurance sales.",
+          "examples": ["Several bancassurances operate globally.", "These bancassurances compete fiercely."],
+          "collocations": ["various bancassurances"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "bancassurer",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A bank or company providing bancassurance services.",
+          "examples": ["The bancassurer expanded its offerings.", "Local bancassurers serve small clients."],
+          "collocations": ["leading bancassurer"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "bancassurers",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bancassurer.",
+          "examples": ["Bancassurers met at the conference.", "Top bancassurers reported growth."],
+          "collocations": ["major bancassurers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bancha",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A coarse green tea from Korea.",
+          "examples": ["Bancha is less expensive than matcha.", "She brews bancha daily."],
+          "collocations": ["Korean bancha", "loose bancha"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "banchi",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banco in Italian, meaning gaming tables or banks.",
+          "examples": ["The casino had several banchi.", "Players gathered at the banchi."],
+          "collocations": ["casino banchi"],
+          "synonyms": ["tables"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["gambling"]
+        }
+      ]
+    },
+    {
+      "term": "banco",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The bank in gambling games like baccarat.",
+          "examples": ["He played banco and won big.", "Banco takes the house edge."],
+          "collocations": ["play banco", "banco bet"],
+          "synonyms": ["bank"],
+          "antonyms": ["player"],
+          "register": "null",
+          "domain": ["gambling"]
+        }
+      ]
+    },
+    {
+      "term": "bancos",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banco; gaming banks.",
+          "examples": ["Multiple bancos were active.", "The bancos rotated players."],
+          "collocations": ["several bancos"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["gambling"]
+        }
+      ]
+    },
+    {
+      "term": "bancs",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banc; benches of judges.",
+          "examples": ["Both bancs reviewed the case.", "The bancs issued rulings."],
+          "collocations": ["judicial bancs"],
+          "synonyms": ["benches"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bancus",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "band",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A group of musicians who play together.",
+          "examples": ["The band played great music.", "My favorite band is coming to town."],
+          "collocations": ["rock band", "live band", "band concert", "band member", "garage band"],
+          "synonyms": ["group", "combo"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A thin strip of material used to hold things together.",
+          "examples": ["Put a band around the papers.", "The rubber band snapped."],
+          "collocations": ["rubber band", "band around", "wrist band", "hair band"],
+          "synonyms": ["strip", "ring"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A range of frequencies or values.",
+          "examples": ["This radio is on the FM band.", "The band covers ages 20-30."],
+          "collocations": ["frequency band", "broad band", "age band"],
+          "synonyms": ["range", "spectrum"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To unite or group together.",
+          "examples": ["They banded together for safety.", "Workers banded against the boss."],
+          "collocations": ["band together", "banded workers"],
+          "synonyms": ["unite", "join"],
+          "antonyms": ["separate"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "banda",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A brass band or marching band, common in Latin cultures.",
+          "examples": ["The banda played at the festival.", "Local banda performed lively tunes."],
+          "collocations": ["mariachi banda", "brass banda"],
+          "synonyms": ["band"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "bandage",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A strip of cloth used to cover and protect wounds.",
+          "examples": ["Put a bandage on the cut.", "The nurse changed the bandage daily."],
+          "collocations": ["clean bandage", "wound bandage", "elastic bandage", "adhesive bandage"],
+          "synonyms": ["dressing"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To cover a wound with a bandage.",
+          "examples": ["She bandaged his injured arm.", "Bandage the knee before running."],
+          "collocations": ["bandage wound", "bandage tightly"],
+          "synonyms": ["dress"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bandaged",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Covered with a bandage.",
+          "examples": ["His hand was bandaged after the accident.", "The bandaged patient rested quietly."],
+          "collocations": ["bandaged arm", "bandaged head"],
+          "synonyms": ["dressed"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bandager",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who applies bandages.",
+          "examples": ["The bandager worked quickly in the ER.", "Volunteers trained as bandagers."],
+          "collocations": ["trained bandager"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bandagers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bandager.",
+          "examples": ["Bandagers assisted at the clinic.", "The team of bandagers was ready."],
+          "collocations": ["medical bandagers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bandages",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bandage; strips for wounds.",
+          "examples": ["Keep extra bandages in the kit.", "She packed bandages for the hike."],
+          "collocations": ["first-aid bandages", "sterile bandages"],
+          "synonyms": ["dressings"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bandaging",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of applying bandages.",
+          "examples": ["Bandaging requires clean hands.", "Good bandaging prevents infection."],
+          "collocations": ["proper bandaging", "wound bandaging"],
+          "synonyms": ["dressing"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Present participle of bandage.",
+          "examples": ["He is bandaging the sprained ankle.", "She was bandaging patients all night."],
+          "collocations": ["bandaging wounds"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bandagist",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bandaid",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A brand name for adhesive bandages; often used generically.",
+          "examples": ["Put a Band-Aid on the scrape.", "Band-Aids are in the bathroom cabinet."],
+          "collocations": ["stick-on Band-Aid", "waterproof Band-Aid", "kid Band-Aid"],
+          "synonyms": ["plaster", "sticking plaster"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["medicine", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A temporary or superficial solution to a problem.",
+          "examples": ["This is just a Band-Aid fix.", "We need real change, not Band-Aids."],
+          "collocations": ["Band-Aid solution", "quick Band-Aid"],
+          "synonyms": ["temporary fix", "stopgap"],
+          "antonyms": ["permanent solution"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}
+```

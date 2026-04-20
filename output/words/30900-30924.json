@@ -1,0 +1,653 @@
+{
+"items": [
+{
+"term": "bacteriochlorophylls",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "special pigments in certain bacteria that help them capture light for photosynthesis, like chlorophyll in plants, but they do not produce oxygen",
+"examples": [
+"Photosynthetic bacteria use bacteriochlorophylls to absorb light at wavelengths different from those used by plants.",
+"The bacteriochlorophylls in purple sulfur bacteria allow them to carry out anoxygenic photosynthesis.",
+"Researchers study bacteriochlorophylls to understand how ancient life might have harnessed solar energy.",
+"collocations": [
+"bacteriochlorophylls in phototrophic bacteria",
+"bacteriochlorophylls used in photosynthesis",
+"different types of bacteriochlorophylls a, b, g",
+"bacteriochlorophylls absorb light",
+"bacteriochlorophylls do not produce oxygen",
+"detecting bacteriochlorophylls in microbial mats",
+"measuring bacteriochlorophylls in environmental samples"
+],
+"synonyms": [
+"photosynthetic bacterial pigments"
+],
+"antonyms": [],
+"register": "null",
+"domain": [
+"biology",
+"microbiology",
+"photosynthesis",
+"scientific",
+"environmental science"
+]
+}
+]
+}
+},
+{
+"term": "bacteriocidal",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "adjective",
+"definition": "describing something that kills bacteria, rather than just stopping them from growing",
+"examples": [
+"The antibiotic has a strong bacteriocidal effect against many common pathogens.",
+"Hand sanitizers with bacteriocidal action destroy bacteria on the skin quickly.",
+"Disinfectants used in hospitals are often required to be bacteriocidal.",
+"collocations": [
+"bacteriocidal antibiotic",
+"bacteriocidal action",
+"bacteriocidal effect",
+"bacteriocidal disinfectant",
+"bacteriocidal hand gel",
+"bacteriocidal soap",
+"highly bacteriocidal agent"
+],
+"synonyms": [
+"germicidal",
+"microbicide",
+"antibacterial (in some contexts)"
+],
+"antonyms": [
+"bacteriostatic"
+],
+"register": "null",
+"domain": [
+"medicine",
+"microbiology",
+"pharmacy",
+"healthcare",
+"laboratory science"
+]
+}
+]
+}
+},
+{
+"term": "bacteriocide",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a substance or agent that kills bacteria",
+"examples": [
+"Hydrogen peroxide is often used as a bacteriocide in wound care.",
+"The new formulation includes a broad‑spectrum bacteriocide for medical devices.",
+"Natural substances such as some plant extracts can act as bacteriocides.",
+"collocations": [
+"chemical bacteriocide",
+"natural bacteriocide",
+"topical bacteriocide",
+"broad‑spectrum bacteriocide",
+"bacteriocide used in disinfection",
+"bacteriocide in sanitizer",
+"environmental bacteriocide"
+],
+"synonyms": [
+"bactericidal agent",
+"germ killer",
+"disinfectant (in some contexts)"
+],
+"antonyms": [],
+"register": "null",
+"domain": [
+"medicine",
+"microbiology",
+"public health",
+"laboratory science"
+]
+}
+]
+}
+},
+{
+"term": "bacteriocides",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the plural form of bacteriocide, meaning multiple substances or agents that kill bacteria",
+"examples": [
+"Several bacteriocides are used in combination to reduce the risk of resistance.",
+"In industrial settings, strong bacteriocides prevent bacterial contamination of equipment.",
+"Regulatory guidelines limit the concentration of certain bacteriocides in consumer products.",
+"collocations": [
+"multiple bacteriocides",
+"broad‑spectrum bacteriocides",
+"environmental bacteriocides",
+"bacteriocides used in cleaning",
+"bacteriocides in water treatment",
+"bacteriocides in personal care products",
+"bacteriocides tested for safety"
+],
+"synonyms": [
+"bactericidal agents",
+"germ killers",
+"disinfectants (in some contexts)"
+],
+"antonyms": [],
+"register": "null",
+"domain": [
+"medicine",
+"microbiology",
+"public health",
+"laboratory science",
+"consumer safety"
+]
+}
+]
+}
+},
+{
+"term": "bacteriocin",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a protein made by certain bacteria that can kill or stop the growth of similar or closely related bacterial strains",
+"examples": [
+"Bacteriocin produced by lactic acid bacteria helps protect food from spoiling bacteria.",
+"Scientists are studying bacteriocins as possible alternatives to traditional antibiotics.",
+"Some bacteriocins act only against strains of the same species, making them highly specific.",
+"collocations": [
+"bacteriocin production",
+"bacteriocin‑producing strain",
+"narrow‑spectrum bacteriocin",
+"bacteriocin used in food preservation",
+"bacteriocin tested for toxicity",
+"bacteriocin engineered for medicine",
+"bacteriocin activity against pathogens"
+],
+"synonyms": [
+"bacterial toxin",
+"antimicrobial peptide",
+"proteinaceous antibiotic (in some contexts)"
+],
+"antonyms": [],
+"register": "null",
+"domain": [
+"microbiology",
+"biotechnology",
+"food science",
+"medicine"
+]
+}
+]
+}
+},
+{
+"term": "bacteriocins",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the plural form of bacteriocin, referring to several such antibacterial proteins made by bacteria",
+"examples": [
+"Bacteriocins are being explored for use in treating infections caused by antibiotic‑resistant bacteria.",
+"Fermented foods often contain bacteriocins that help control harmful bacteria.",
+"Each bacteriocin in a mixture may target different bacterial strains.",
+"collocations": [
+"bacteriocins produced by lactic acid bacteria",
+"bacteriocins used as preservatives",
+"bacteriocins tested for safety in humans",
+"bacteriocins with narrow spectrum",
+"bacteriocins resistant to proteases",
+"bacteriocins in probiotic formulations",
+"bacteriocins studied in biotechnology"
+],
+"synonyms": [
+"bacterial toxins",
+"antimicrobial peptides",
+"proteinaceous antibiotics (in some contexts)"
+],
+"antonyms": [],
+"register": "null",
+"domain": [
+"microbiology",
+"biotechnology",
+"food science",
+"medicine",
+"laboratory science"
+]
+}
+]
+}
+},
+{
+"term": "bacteriocyte",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a specialized cell in some animals that contains symbiotic bacteria, often involved in nutrient production",
+"examples": [
+"In some insects, bacteriocytes host bacteria that help synthesize essential amino acids.",
+"Each bacteriocyte may contain large numbers of symbiotic bacteria inside its cytoplasm.",
+"Development of bacteriocytes is tightly regulated during the insect’s life cycle.",
+"collocations": [
+"symbiotic bacteriocyte",
+"bacteriocyte in insects",
+"bacteriocyte containing bacteria",
+"bacteriocyte associated with nutrition",
+"bacteriocyte development",
+"bacteriocyte in aphids",
+"bacteriocyte in tsetse flies"
+],
+"synonyms": [
+"symbiont‑hosting cell",
+"symbiocyte"
+],
+"antonyms": [],
+"register": "null",
+"domain": [
+"biology",
+"zoology",
+"microbiology",
+"symbiosis research"
+]
+}
+]
+}
+},
+{
+"term": "bacteriodiagnosis",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the use of bacteria or bacterial products in diagnosing diseases or biological conditions",
+"examples": [
+"Bacteriodiagnosis methods can detect infections by identifying specific bacterial markers.",
+"Some tests rely on bacteriodiagnosis to distinguish between different bacterial pathogens.",
+"Modern bacteriodiagnosis often combines culture with molecular techniques.",
+"collocations": [
+"bacteriodiagnosis of infections",
+"bacteriodiagnosis by culture",
+"bacteriodiagnosis using molecular methods",
+"bacteriodiagnosis in clinical microbiology",
+"bacteriodiagnosis for tuberculosis",
+"bacteriodiagnosis in environmental samples",
+"bacteriodiagnosis assisted by sequencing"
+],
+"synonyms": [
+"bacterial diagnosis",
+"microbiological diagnosis"
+],
+"antonyms": [],
+"register": "null",
+"domain": [
+"medicine",
+"microbiology",
+"laboratory diagnostics",
+"clinical science"
+]
+}
+]
+}
+},
+{
+"term": "bacteriofluorescin",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a fluorescent substance produced by or associated with bacteria, often used in laboratory or imaging techniques",
+"examples": [
+"Bacteriofluorescin is used as a marker to track bacterial activity in experimental systems.",
+"Researchers detected bacteriofluorescin under ultraviolet light to visualize bacterial colonies.",
+"Measuring bacteriofluorescin levels helps assess metabolic activity in bacterial cultures.",
+"collocations": [
+"bacteriofluorescin detection",
+"bacteriofluorescin staining",
+"bacteriofluorescin used in microscopy",
+"bacteriofluorescin signal",
+"bacteriofluorescin as a marker",
+"bacteriofluorescin measured in cultures",
+"bacteriofluorescin in environmental bacteria"
+],
+"synonyms": [
+"bacterial fluorescent dye",
+"fluorescent bacterial product",
+"microbial fluorophore (in some contexts)"
+],
+"antonyms": [],
+"register": "null",
+"domain": [
+"microbiology",
+"laboratory science",
+"biophysics",
+"imaging science"
+]
+}
+]
+}
+},
+{
+"term": "bacteriogenic",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "describing something that is produced by or caused by bacteria",
+"examples": [
+"It is a bacteriogenic disease that results from toxins made by certain bacteria.",
+"The bacteriogenic gas in the soil is mainly methane produced by microbes.",
+"Sediment layers show bacteriogenic structures formed by ancient microbial communities.",
+"collocations": [
+"bacteriogenic disease",
+"bacteriogenic gas",
+"bacteriogenic process",
+"bacteriogenic layer",
+"bacteriogenic origin",
+"bacteriogenic deposit",
+"bacteriogenic infection"
+],
+"synonyms": [
+"bacterial",
+"microbial",
+"bacterially produced"
+],
+"antonyms": [
+"abiotic",
+"non‑biological"
+],
+"register": "null",
+"domain": [
+"medicine",
+"microbiology",
+"geology",
+"environmental science"
+]
+}
+]
+}
+},
+{
+"term": "bacteriogenous",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "describing something that originates from or is derived from bacteria",
+"examples": [
+"The bacteriogenous material in the sediment comes from dead bacterial cells.",
+"Bacteriogenous compounds can serve as indicators of past microbial activity.",
+"Organic matter in the lake is largely bacteriogenous in origin.",
+"collocations": [
+"bacteriogenous matter",
+"bacteriogenous deposit",
+"bacteriogenous carbon",
+"bacteriogenous origin",
+"bacteriogenous sediment",
+"bacteriogenous organic matter",
+"bacteriogenous biomolecules"
+],
+"synonyms": [
+"bacterial in origin",
+"microbially derived"
+],
+"antonyms": [
+"non‑microbial",
+"abiotic"
+],
+"register": "null",
+"domain": [
+"microbiology",
+"geology",
+"environmental science",
+"geochemistry"
+]
+}
+]
+}
+},
+{
+"term": "bacteriohemolysin",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a bacterial toxin that breaks down red blood cells, releasing hemoglobin",
+"examples": [
+"Bacteriohemolysin from the pathogen contributes to tissue damage in infected patients.",
+"Some bacteria produce bacteriohemolysin in order to obtain iron from red blood cells.",
+"Presence of bacteriohemolysin in a culture indicates hemolytic activity.",
+"collocations": [
+"bacteriohemolysin production",
+"bacteriohemolysin released by bacteria",
+"bacteriohemolysin causing hemolysis",
+"bacteriohemolysin detected in blood cultures",
+"bacteriohemolysin in pathogenic strains",
+"bacteriohemolysin associated with virulence",
+"bacteriohemolysin activity in vitro"
+],
+"synonyms": [
+"bacterial hemolysin",
+"hemolytic toxin",
+"bacterial toxin (in some contexts)"
+],
+"antonyms": [],
+"register": "null",
+"domain": [
+"medicine",
+"microbiology",
+"pathology",
+"laboratory science"
+]
+}
+]
+}
+},
+{
+"term": "bacterioid",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a rounded or irregular bacterial‑like body; sometimes used for a bacterial cell or a structure resembling a bacterium",
+"examples": [
+"In older literature, some structures were called bacterioids before they were properly identified.",
+"The histology shows bacterioid bodies within the infected tissue.",
+"Electron microscopy revealed bacterioid forms inside the cells.",
+"collocations": [
+"bacterioid bodies",
+"bacterioid structures",
+"bacterioid cells",
+"bacterioid organisms",
+"bacterioid forms in tissue",
+"bacterioid morphology",
+"bacterioid inclusions"
+],
+"synonyms": [
+"bacterial‑like body",
+"microbial body",
+"coccoid form (in some contexts)"
+],
+"antonyms": [],
+"register": "null",
+"domain": [
+"microbiology",
+"histology",
+"medical science",
+"laboratory science"
+]
+}
+]
+}
+},
+{
+"term": "bacterioidal",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "resembling a bacterioid or similar to a small, bacterial‑like body",
+"examples": [
+"The tissue section shows bacterioidal inclusions that stain like bacteria.",
+"Some intracellular bodies have a bacterioidal appearance under the microscope.",
+"Pathologists describe these structures as bacterioidal based on their morphology.",
+"collocations": [
+"bacterioidal inclusions",
+"bacterioidal bodies",
+"bacterioidal structures",
+"bacterioidal appearance",
+"bacterioidal morphology",
+"bacterioidal forms in histology",
+"bacterioidal staining pattern"
+],
+"synonyms": [
+"bacterioid‑like",
+"bacterial‑like",
+"coccoidal (in some contexts)"
+],
+"antonyms": [],
+"register": "null",
+"domain": [
+"microbiology",
+"histology",
+"medical science"
+]
+}
+]
+}
+},
+{
+"term": "bacterioids",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the plural form of bacterioid, referring to several small, bacterial‑like bodies or structures",
+"examples": [
+"The slide shows numerous bacterioids clustered within the infected cells.",
+"Researchers distinguish true bacteria from bacterioids by genetic testing.",
+"Older medical texts sometimes referred to unknown bodies as bacterioids.",
+"collocations": [
+"clusters of bacterioids",
+"bacterioids in tissue sections",
+"bacterioids seen in histology",
+"bacterioids staining like bacteria",
+"bacterioids in electron microscopy",
+"bacterioids in infected material",
+"bacterioids identified by PCR"
+],
+"synonyms": [
+"bacterial‑like bodies",
+"microbial bodies",
+"coccoid forms (in some contexts)"
+],
+"antonyms": [],
+"register": "null",
+"domain": [
+"microbiology",
+"histology",
+"medical science",
+"laboratory science"
+]
+}
+]
+}
+},
+{
+"term": "bacteriol",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "an old or rarely used term for a bacterial substance or preparation, sometimes used in early medical or chemical literature",
+"examples": [
+"In early bacteriology, some antiseptic preparations were described as containing bacteriol.",
+"Historical texts mention bacteriol as a bacterial extract used in experiments.",
+"Modern usage has largely replaced the term bacteriol with more precise names.",
+"collocations": [
+"bacteriol preparation",
+"bacteriol used in experiments",
+"bacteriol in early literature",
+"bacteriol as a bacterial extract",
+"bacteriol in antiseptic solutions",
+"bacteriol mentioned in historical texts",
+"bacteriol in old medical manuals"
+],
+"synonyms": [
+"bacterial extract",
+" bacterial preparation"
+],
+"antonyms": [],
+"register": "null",
+"domain": [
+"medicine",
+"microbiology",
+"history of science"
+]
+}
+]
+}
+},
+{
+"term": "bacteriologic",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "relating to bacteriology or the study of bacteria (less common variant of bacteriological)",
+"examples": [
+"The bacteriologic findings support a diagnosis of bacterial infection.",
+"The bacteriologic analysis of the sample revealed several pathogenic strains.",
+"Specimens were handled under strict bacteriologic safety conditions.",
+"collocations": [
+"bacteriologic examination",
+"bacteriologic analysis",
+"bacteriologic culture",
+"bacteriologic test",
+"bacteriologic findings",
+"bacteriologic safety",
+"bacteriologic laboratory"
+],
+"synonyms": [
+"bacteriological",
+"bacterial",
+"microbiological"
+],
+"antonyms": [],
+"register": "null",
+"domain": [
+"medicine",
+"microbiology",
+"laboratory science"
+]
+}
+]
+}
+},
+{
+"

@@ -1,0 +1,609 @@
+{
+  "items": [
+    {
+      "term": "nonnegativistic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not following the standard assumption of nonnegativity; relating to a mathematical or scientific model that allows negative values",
+          "examples": [
+            "The nonnegativistic model permits negative energies under certain conditions.",
+            "In some theories, a nonnegativistic approach is used for simplicity."
+          ],
+          "collocations": [
+            "nonnegativistic model",
+            "nonnegativistic framework",
+            "nonnegativistic assumption"
+          ],
+          "synonyms": ["negativist model (rare)", "negative-value model (less common)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "science", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "nonnegativity",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the property of being greater than or equal to zero",
+          "examples": [
+            "Nonnegativity is essential in probability distributions.",
+            "The function must maintain nonnegativity for all inputs."
+          ],
+          "collocations": [
+            "nonnegativity constraint",
+            "nonnegativity condition",
+            "maintain nonnegativity"
+          ],
+          "synonyms": ["nonnegative condition", "zero-bound"],
+          "antonyms": ["negativity"],
+          "register": "formal",
+          "domain": ["mathematics", "science", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "nonnegligence",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality or state of not being negligent; carefulness",
+          "examples": [
+            "The safety protocol shows a trend of nonnegligence in our operations.",
+            "They demanded nonnegligence in handling hazardous materials."
+          ],
+          "collocations": [
+            "display nonnegligence",
+            "ensure nonnegligence",
+            "standard of nonnegligence"
+          ],
+          "synonyms": ["carefulness", "diligence"],
+          "antonyms": ["negligence", "carelessness"],
+          "register": "formal",
+          "domain": ["general", "law", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "nonnegligent",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "careful and attentive; not negligent",
+          "examples": [
+            "The nonnegligent handling of the chemicals reduced accidents.",
+            "A nonnegligent approach is required in clinical trials."
+          ],
+          "collocations": [
+            "negligent",
+            "nonnegligent handling",
+            "nonnegligent attitude"
+          ],
+          "synonyms": ["careful", "cautious", "prudent"],
+          "antonyms": ["negligent", "careless"],
+          "register": "formal",
+          "domain": ["general", "law", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "nonnegligently",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonnegligent manner; carefully and without negligence",
+          "examples": [
+            "The researchers conducted the experiment nonnegligently.",
+            "Work was performed nonnegligently to prevent errors."
+          ],
+          "collocations": [
+            "act nonnegligently",
+            "behave nonnegligently",
+            "perform nonnegligently"
+          ],
+          "synonyms": ["carefully", "prudently"],
+          "antonyms": ["negligently"],
+          "register": "formal",
+          "domain": ["general", "science", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "nonnegligibility",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being significant enough to matter; not negligible",
+          "examples": [
+            "The nonnegligibility of the error led to a redesign.",
+            "We must consider the nonnegligibility of boundary effects."
+          ],
+          "collocations": [
+            "apparent nonnegligibility",
+            "measure nonnegligibility",
+            "quantify nonnegligibility"
+          ],
+          "synonyms": ["significance", "importance"],
+          "antonyms": ["negligibility"],
+          "register": "formal",
+          "domain": ["mathematics", "science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "nonnegligible",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "important enough to be noticed or to have an effect",
+          "examples": [
+            "The nonnegligible amount of data changed the conclusion.",
+            "There is a nonnegligible risk involved."
+          ],
+          "collocations": [
+            "nonnegligible amount",
+            "nonnegligible impact",
+            "nonnegligible risk"
+          ],
+          "synonyms": ["significant", "considerable", "notable"],
+          "antonyms": ["negligible"],
+          "register": "formal",
+          "domain": ["general", "science", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "nonnegligibleness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being nonnegligible; significance",
+          "examples": [
+            "The nonnegligibleness of the effect required further study."
+          ],
+          "collocations": [
+            "degree of nonnegligibleness",
+            "assess nonnegligibleness"
+          ],
+          "synonyms": ["importance", "significance"],
+          "antonyms": ["negligibility"],
+          "register": "formal",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "nonnegligibly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "to a noticeable or important degree",
+          "examples": [
+            "The price increased nonnegligibly after the policy change.",
+            "The results were nonnegligibly better than expected."
+          ],
+          "collocations": [
+            "increase nonnegligibly",
+            "affect nonnegligibly",
+            "improve nonnegligibly"
+          ],
+          "synonyms": ["significantly", "considerably"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["economics", "science", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nonnegotiability",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being nonnegotiable; cannot be bargained or changed",
+          "examples": [
+            "The contract's nonnegotiability surprised the buyer.",
+            "There is a clear nonnegotiability of terms in this deal."
+          ],
+          "collocations": [
+            "degree of nonnegotiability",
+            "enforce nonnegotiability",
+            "absolute nonnegotiability"
+          ],
+          "synonyms": ["inflexibility", "unnegotiability"],
+          "antonyms": ["negotiability", "flexibility"],
+          "register": "formal",
+          "domain": ["law", "business", "contracts"]
+        }
+      ]
+    },
+    {
+      "term": "nonnegotiable",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not able to be negotiated or changed",
+          "examples": [
+            "Price is nonnegotiable.",
+            "Some terms are nonnegotiable in this agreement."
+          ],
+          "collocations": [
+            "nonnegotiable price",
+            "nonnegotiable terms",
+            "nonnegotiable item"
+          ],
+          "synonyms": ["inflexible", "fixed", "nonnegotiated"],
+          "antonyms": ["negotiable", "flexible"],
+          "register": "formal",
+          "domain": ["general", "law", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nonnegotiables",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "terms or items that cannot be negotiated",
+          "examples": [
+            "The price and delivery date are among the nonnegotiables.",
+            "There are a few nonnegotiables in our contract."
+          ],
+          "collocations": [
+            "set nonnegotiables",
+            "respect nonnegotiables",
+            "list of nonnegotiables"
+          ],
+          "synonyms": ["prerequisites", "nonnegotiable terms"],
+          "antonyms": ["negotiables"],
+          "register": "formal",
+          "domain": ["business", "law", "negotiation"]
+        }
+      ]
+    },
+    {
+      "term": "nonnegotiation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or state of not negotiating; absence of negotiation",
+          "examples": [
+            "There was no room for nonnegotiation in this matter.",
+            "The policy allows no nonnegotiation."
+          ],
+          "collocations": [
+            "avoid nonnegotiation",
+            "policy of nonnegotiation"
+          ],
+          "synonyms": ["inflexibility", "unnegotiability"],
+          "antonyms": ["negotiation"],
+          "register": "formal",
+          "domain": ["law", "politics", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nonnephritic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not nephritic; not relating to nephritis in medicine",
+          "examples": [
+            "The patient showed nonnephritic signs in the urinalysis.",
+            "Nonnephritic symptoms were observed in the study."
+          ],
+          "collocations": [
+            "nonnephritic disease",
+            "nonnephritic symptoms",
+            "nonnephritic patient"
+          ],
+          "synonyms": ["non-renal-inflammatory", "non-kidney inflammation-related"],
+          "antonyms": ["nephritic"],
+          "register": "medical",
+          "domain": ["medicine", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "nonnervous",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not nervous; calm or fearless",
+          "examples": [
+            "He remained nonnervous during the presentation.",
+            "She gave a nonnervous reply to the question."
+          ],
+          "collocations": [
+            "nonnervous demeanor",
+            "feel nonnervous",
+            "remain nonnervous"
+          ],
+          "synonyms": ["calm", "untroubled", "composed"],
+          "antonyms": ["nervous", "anxious"],
+          "register": "neutral",
+          "domain": ["general", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "nonnervously",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonnervous manner; calmly",
+          "examples": [
+            "He spoke nonnervously and clearly.",
+            "She answered the questions nonnervously."
+          ],
+          "collocations": [
+            "speak nonnervously",
+            "act nonnervously",
+            "perform nonnervously"
+          ],
+          "synonyms": ["calmly", "composedly"],
+          "antonyms": ["nervously"],
+          "register": "neutral",
+          "domain": ["general", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "nonnervousness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being calm or not nervous",
+          "examples": [
+            "Her nonnervousness helped her perform well.",
+            "Nonnervousness is valued in high-pressure roles."
+          ],
+          "collocations": [
+            "display nonnervousness",
+            "project nonnervousness"
+          ],
+          "synonyms": ["calmness", "composure"],
+          "antonyms": ["nervousness", "anxiety"],
+          "register": "neutral",
+          "domain": ["general", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "nonnescience",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "ignorance or lack of knowledge about something; not understanding",
+          "examples": [
+            "His nonscience of the topic showed in the report.",
+            "The meeting revealed a broad nonnescience about the project."
+          ],
+          "collocations": [
+            "display nonnescience",
+            "address nonnescience"
+          ],
+          "synonyms": ["ignorance", "unawareness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonnescient",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not having knowledge; ignorant",
+          "examples": [
+            "She was nonnescient of the local rules.",
+            "A nonnescient observer might misinterpret the data."
+          ],
+          "collocations": [
+            "be nonnescient",
+            "nonnescient assumption"
+          ],
+          "synonyms": ["ignorant", "uninformed"],
+          "antonyms": ["knowledgeable", "informed"],
+          "register": "neutral",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonnetwork",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a network that is not connected to a larger system; or a person who is not part of a formal network",
+          "examples": [
+            "They built a nonnetwork of local suppliers.",
+            "As a nonnetwork individual, he relied on word-of-mouth."
+          ],
+          "collocations": [
+            "nonnetwork organization",
+            "nonnetwork suppliers"
+          ],
+          "synonyms": ["independent network", "ungrouped network"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nonneural",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not neural; not related to the nervous system or neurons",
+          "examples": [
+            "Nonneural tissue was studied for comparison.",
+            "The nonneural components contributed to the signal."
+          ],
+          "collocations": [
+            "nonneural tissue",
+            "nonneural components"
+          ],
+          "synonyms": ["non-neuronal"],
+          "antonyms": ["neural", "neuronal"],
+          "register": "neutral",
+          "domain": ["biology", "neuroscience"]
+        }
+      ]
+    },
+    {
+      "term": "nonneurotic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not affected by neurotic tendencies; emotionally stable",
+          "examples": [
+            "He was praised for his nonneurotic demeanor under pressure."
+          ],
+          "collocations": [
+            "nonneurotic behavior",
+            "remain nonneurotic"
+          ],
+          "synonyms": ["stoic", "stable", "calm"],
+          "antonyms": ["neurotic", "anxious"],
+          "register": "formal",
+          "domain": ["psychology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonneutral",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not neutral; biased or having a stance",
+          "examples": [
+            "The reporter gave a nonneutral assessment of the event."
+          ],
+          "collocations": [
+            "nonneutral bias",
+            "nonneutral stance"
+          ],
+          "synonyms": ["biased", "partial"],
+          "antonyms": ["neutral"],
+          "register": "formal",
+          "domain": ["media", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "nonneutrality",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of not being neutral; bias",
+          "examples": [
+            "The nonneutrality of the judge raised questions about fairness."
+          ],
+          "collocations": [
+            "exhibit nonneutrality",
+            "claim nonneutrality"
+          ],
+          "synonyms": ["bias", "partiality"],
+          "antonyms": ["neutrality"],
+          "register": "formal",
+          "domain": ["law", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "nonneutrally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonneutral way; with bias",
+          "examples": [
+            "The article presented nonneutrally, favoring one side."
+          ],
+          "collocations": [
+            "speak nonneutrally",
+            "present nonneutrally"
+          ],
+          "synonyms": ["biasedly", "partially"],
+          "antonyms": ["neutrally"],
+          "register": "formal",
+          "domain": ["media", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "nonneutrally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonneutral way; biased",
+          "examples": [
+            "The coverage was delivered nonneutrally."
+          ],
+          "collocations": [
+            "present nonneutrally"
+          ],
+          "synonyms": ["biasedly"],
+          "antonyms": ["neutrally"],
+          "register": "formal",
+          "domain": ["media", "politics"]
+        }
+      ]
+    }
+  ]
+}

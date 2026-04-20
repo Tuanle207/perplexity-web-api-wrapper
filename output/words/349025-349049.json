@@ -1,0 +1,501 @@
+{
+  "items": [
+    {
+      "term": "secure",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "free from danger or risk; safe",
+          "examples": [
+            "Keep your valuables in a secure place.",
+            "They felt secure after receiving confirmation."
+          ],
+          "collocations": ["secure position", "secure environment", "secure investment", "secure and stable", "securely fastened"],
+          "synonyms": ["safe", "protected", "sound"],
+          "antonyms": ["unsafe", "risky", "unsecured"],
+          "register": "formal",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to make something safe or certain; to obtain or achieve something with effort",
+          "examples": [
+            "They secured a loan for the project.",
+            "She secured the victory with a final goal.",
+            "Please secure the lid before transporting."
+          ],
+          "collocations": ["secure funding", "secure a contract", "secure a place", "secure the perimeter", "securely fasten"],
+          "synonyms": ["protect", "obtain", "acquire", "lock down"],
+          "antonyms": ["expose", "endanger"],
+          "register": "formal",
+          "domain": ["business", "general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "secured",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "protected from danger or secured against loss or damage; firmly fixed",
+          "examples": [
+            "The door was securely locked.",
+            "The deal is secured for next year."
+          ],
+          "collocations": ["secured loan", "secured area", "securely fastened"],
+          "synonyms": ["protected", "locked", "fixed"],
+          "antonyms": ["unsecured", "unsafe"],
+          "register": "formal",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "secureful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not a standard, widely recognized word in modern English; likely a nonce or error form",
+          "examples": [
+            "Secureful behavior is not common in everyday language."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "securely",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is safe or firmly fixed; without risk",
+          "examples": [
+            "The package was sealed securely.",
+            "He spoke securely about the plan."
+          ],
+          "collocations": ["fasten securely", "tie securely", "store securely"],
+          "synonyms": ["safely", "firmly"],
+          "antonyms": ["loosely", "insecurely"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "securement",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of securing or making something safe or fixed; a method of securing",
+          "examples": [
+            "The securement of the cargo prevented damage.",
+            "Proper securement is essential during transport."
+          ],
+          "collocations": ["cargo securement", "seat belt securement", "securement device"],
+          "synonyms": ["attachment", "fastening", "fixing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "securements",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of securement; multiple acts or items used to secure something",
+          "examples": [
+            "The truck has several securements to hold the load."
+          ],
+          "collocations": ["various securements", "tie-down securements"],
+          "synonyms": ["attachments", "fastenings"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "secureness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an uncommon or nonstandard noun form meaning the state of being secure",
+          "examples": [
+            "The secureness of the building was tested during the storm."
+          ],
+          "collocations": ["sense of secureness"],
+          "synonyms": ["security", "safety"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "securenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of secureness; uncommon in modern usage",
+          "examples": [
+            "We analyzed several securenesses in the building's design."
+          ],
+          "collocations": ["levels of secureness"],
+          "synonyms": ["securities", "safety measures"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "securer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that secures; someone who ensures safety or stability",
+          "examples": [
+            "The harbor security guard acts as a securer of the docks."
+          ],
+          "collocations": ["security securer", "asset securer"],
+          "synonyms": ["protector", "guardian", "safety officer"],
+          "antonyms": ["risker"],
+          "register": "neutral",
+          "domain": ["general", "employment"]
+        }
+      ]
+    },
+    {
+      "term": "securers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of securer; multiple agents or devices that secure",
+          "examples": [
+            "The securers held the parcels in place."
+          ],
+          "collocations": ["mounting securers", "clip securers"],
+          "synonyms": ["protectors", "lockers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "secures",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of secure; to gains or keeps safe or certain",
+          "examples": [
+            "The company secures new clients every quarter.",
+            "She secures the door before leaving."
+          ],
+          "collocations": ["secures funding", "secures a contract", "secures the win"],
+          "synonyms": ["obtains", "guards", "locks down"],
+          "antonyms": ["loses", "endangers"],
+          "register": "formal",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "securest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative form of secure; most safe or firmly fixed",
+          "examples": [
+            "This is the securest option available."
+          ],
+          "collocations": ["the securest approach", "the securest setting"],
+          "synonyms": ["safest", "best protected"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "securicornate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "not a recognized English term; appears to be a coined or erroneous form",
+          "examples": [
+            "Securicornate is not found in standard dictionaries."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "securifer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "not a standard English word; likely a construction error or nonce word",
+          "examples": [
+            "securifer is not commonly used."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "securifera",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "not a standard English word; appears to be a botanical or coined term",
+          "examples": [
+            "securifera is not attested in common usage."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "securiferous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not a standard English term; likely a coined form inspired by 'securi-' roots",
+          "examples": [
+            "securiferous is not in typical dictionaries."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "securiform",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not a standard English term; possibly a coined form meaning 'having a shape related to security'",
+          "examples": [
+            "securiform is not commonly used."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "securigera",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "not a standard English term; likely a coined or Latinized name",
+          "examples": [
+            "securigera does not appear in standard usage."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "securigerous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not a standard English term; appears to be a constructed word",
+          "examples": [
+            "securigerous is not used in common language."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "securing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "gerund/present participle",
+          "definition": "the act of making something safe or fixed or the process of attaching",
+          "examples": [
+            "Securing the load is essential for transport.",
+            "They are securing the perimeter now."
+          ],
+          "collocations": ["securing funding", "securing the door", "securing a deal"],
+          "synonyms": ["obtaining", "locking down", "fastening"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "securings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of securing; instances of securing",
+          "examples": [
+            "Several securings were applied to the cargo."
+          ],
+          "collocations": ["various securings"],
+          "synonyms": ["fastenings", "attachments"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "securitan",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "not a standard English term; likely a partial or erroneous form",
+          "examples": [
+            "securitan is not recognized."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "securitans",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "not a standard English term; possibly a biological or coined plural",
+          "examples": [
+            "securitans does not appear in dictionaries."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "securities",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": " financial instruments that hold value and can be traded; protection against risk",
+          "examples": [
+            "They bought several securities to diversify their portfolio.",
+            "Securities laws regulate trading."
+          ],
+          "collocations": ["government securities", "market securities", "security securities (redundant)"],
+          "synonyms": ["stocks", "bonds", "investments"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance", "general"]
+        }
+      ]
+    },
+    {
+      "term": "securitisation",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of pooling financial assets and creating traded securities from them",
+          "examples": [
+            "The bank engaged in securitisation to raise capital.",
+            "Securitisation helped diversify risk."
+          ],
+          "collocations": ["mortgage securitisation", "securitisation process", "securitisation market"],
+          "synonyms": ["securitization (US)", "asset securitisation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance", "law"]
+        }
+      ]
+    }
+  ]
+}

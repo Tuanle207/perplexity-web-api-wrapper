@@ -1,0 +1,441 @@
+```json
+{
+  "items": [
+    {
+      "term": "barbarea",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A genus of plants in the mustard family, including winter cress.",
+          "examples": ["Barbarea grows well in damp soils.", "Gardeners plant barbarea for its edible leaves.", "The flowers of barbarea attract bees in spring."],
+          "collocations": ["winter cress", "Barbarea vulgaris", "mustard family", "edible greens", "damp soil"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany", "gardening"]
+        }
+      ]
+    },
+    {
+      "term": "barbaresque",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "In the style of barbarians; wild or uncivilized in appearance.",
+          "examples": ["The barbaresque decorations gave the room a savage feel.", "Her barbaresque outfit shocked the formal guests.", "The painting had a barbaresque energy."],
+          "collocations": ["barbaresque style", "barbaresque art", "barbaresque design", "barbaresque manner"],
+          "synonyms": ["barbaric", "savage"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["art", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "barbarian",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who is uncivilized or primitive, especially from ancient times.",
+          "examples": ["The barbarians attacked the city walls.", "Historians study barbarian tribes of Europe.", "He was called a barbarian for his rude manners."],
+          "collocations": ["barbarian tribes", "barbarian invasion", "barbarian hordes", "barbarian warrior", "barbarian culture"],
+          "synonyms": ["savage", "primitive"],
+          "antonyms": ["civilized person"],
+          "register": "null",
+          "domain": ["history", "general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Uncivilized or cruel.",
+          "examples": ["Barbarian customs shocked the travelers.", "The barbarian conquest destroyed the empire.", "His barbarian behavior upset everyone."],
+          "collocations": ["barbarian customs", "barbarian conquest", "barbarian behavior", "barbarian acts"],
+          "synonyms": ["barbaric", "savage"],
+          "antonyms": ["civilized"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarianism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The state or behavior of being uncivilized or savage.",
+          "examples": ["Barbarianism led to the fall of great cities.", "The leader condemned modern barbarianism in society.", "Historians debate the role of barbarianism in history."],
+          "collocations": ["pure barbarianism", "age of barbarianism", "spread of barbarianism"],
+          "synonyms": ["barbarism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "barbarianisms",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barbarianism; acts or states of being uncivilized.",
+          "examples": ["The book details barbarianisms of ancient tribes.", "Such barbarianisms have no place in modern life."],
+          "collocations": ["ancient barbarianisms", "various barbarianisms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "barbarianize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To make something or someone barbaric or uncivilized.",
+          "examples": ["The war threatened to barbarianize the peaceful land.", "Policies could barbarianize the refined culture."],
+          "collocations": ["barbarianize society", "barbarianize culture"],
+          "synonyms": ["barbarize"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarianized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Made barbaric or uncivilized.",
+          "examples": ["The once elegant city was now barbarianized.", "Their manners had become completely barbarianized."],
+          "collocations": ["barbarianized culture", "barbarianized land"],
+          "synonyms": ["barbarized"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarianizing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "In the process of making something barbaric.",
+          "examples": ["Barbarianizing forces destroyed the arts.", "The barbarianizing influence spread quickly."],
+          "collocations": ["barbarianizing effect", "barbarianizing process"],
+          "synonyms": ["barbarizing"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarians",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barbarian; uncivilized people.",
+          "examples": ["The barbarians swept through the empire.", "Legends tell of fierce barbarians from the north.", "Don't act like barbarians at the dinner table!"],
+          "collocations": ["barbarians at the gate", "hordes of barbarians", "barbarians from the hills"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "barbaric",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Very cruel or uncivilized.",
+          "examples": ["The barbaric treatment of prisoners shocked the world.", "Ancient barbaric rituals involved human sacrifice.", "His barbaric laughter filled the room."],
+          "collocations": ["barbaric act", "barbaric treatment", "barbaric ritual", "barbaric custom", "barbaric violence"],
+          "synonyms": ["savage", "brutal", "cruel"],
+          "antonyms": ["civilized", "humane"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Rare form of barbaric; savage or uncivilized.",
+          "examples": ["The barbarical wars of old still fascinate historians.", "Such barbarical practices are now illegal."],
+          "collocations": ["barbarical wars", "barbarical practices"],
+          "synonyms": ["barbaric"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "barbarically",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a cruel or uncivilized way.",
+          "examples": ["The invaders behaved barbarically.", "They treated the animals barbarically."],
+          "collocations": ["act barbarically", "treat barbarically", "behave barbarically"],
+          "synonyms": ["savagely"],
+          "antonyms": ["civilizedly"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarious",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Savage or like a barbarian.",
+          "examples": ["The barbarious tribe lived in the mountains.", "His barbarious temper scared everyone."],
+          "collocations": ["barbarious tribe", "barbarious temper"],
+          "synonyms": ["barbaric", "savage"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbariousness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality of being savage or uncivilized.",
+          "examples": ["The barbariousness of the attack was shocking."],
+          "collocations": ["pure barbariousness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarisation",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process of becoming barbaric or uncivilized, especially British spelling.",
+          "examples": ["War led to the barbarisation of society.", "The barbarisation of culture worried experts."],
+          "collocations": ["cultural barbarisation", "moral barbarisation"],
+          "synonyms": ["barbarization"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["sociology"]
+        }
+      ]
+    },
+    {
+      "term": "barbarisations",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barbarisation; instances of becoming barbaric.",
+          "examples": ["History records many barbarisations during wars."],
+          "collocations": ["multiple barbarisations"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "barbarise",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To make something barbaric or uncivilized, British spelling.",
+          "examples": ["Violence can barbarise even gentle people.", "The regime sought to barbarise its opponents."],
+          "collocations": ["barbarise society", "barbarise culture"],
+          "synonyms": ["barbarize"],
+          "antonyms": ["civilize"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarised",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of barbarise; made barbaric.",
+          "examples": ["The peaceful village was barbarised by invaders."],
+          "collocations": ["completely barbarised"],
+          "synonyms": ["barbarized"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarises",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person of barbarise; makes barbaric.",
+          "examples": ["War barbarises all who fight in it."],
+          "collocations": ["barbarises people"],
+          "synonyms": ["barbarizes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarising",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of barbarise; making barbaric.",
+          "examples": ["The barbarising effect of violence lasts for years."],
+          "collocations": ["barbarising influence", "barbarising process"],
+          "synonyms": ["barbarizing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarism",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An act or state of extreme cruelty or lack of civilization.",
+          "examples": ["Human sacrifice was a form of barbarism.", "The bombing was an act of pure barbarism.", "Linguists study phonetic barbarism in speech."],
+          "collocations": ["act of barbarism", "sheer barbarism", "cultural barbarism", "moral barbarism"],
+          "synonyms": ["savagery", "brutality"],
+          "antonyms": ["civilization"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarisms",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barbarism; cruel or uncivilized acts.",
+          "examples": ["The report listed barbarisms committed in war.", "His speech was full of grammatical barbarisms."],
+          "collocations": ["various barbarisms", "historical barbarisms", "linguistic barbarisms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarities",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barbarity; cruel and brutal acts.",
+          "examples": ["The trial revealed wartime barbarities.", "Historians document colonial barbarities."],
+          "collocations": ["unspeakable barbarities", "wartime barbarities"],
+          "synonyms": ["atrocities"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "barbarity",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Cruel and brutal behavior.",
+          "examples": ["The barbarity of the dictator shocked the world.", "Such barbarity has no place in modern society."],
+          "collocations": ["extreme barbarity", "utter barbarity", "act of barbarity"],
+          "synonyms": ["cruelty", "brutality", "savagery"],
+          "antonyms": ["humanity"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarization",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process of becoming barbaric or uncivilized.",
+          "examples": ["The barbarization of the army was rapid.", "Critics warned of cultural barbarization."],
+          "collocations": ["military barbarization", "cultural barbarization"],
+          "synonyms": ["barbarisation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["sociology"]
+        }
+      ]
+    }
+  ]
+}
+```

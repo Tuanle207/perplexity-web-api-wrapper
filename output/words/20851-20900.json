@@ -1,0 +1,830 @@
+{
+  "items": [
+    {
+      "term": "appoggiature",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a musical ornament consisting of a note played before a main note to decorate it",
+          "examples": ["The melody includes several appoggiature for expression."],
+          "collocations": ["musical appoggiature", "use appoggiature", "ornamental appoggiature"],
+          "synonyms": ["grace note", "ornament"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "appoint",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to officially choose someone for a job or position",
+          "examples": ["They appointed her as manager."],
+          "collocations": ["appoint a manager", "appoint a committee", "appoint someone to a role"],
+          "synonyms": ["assign", "nominate", "designate"],
+          "antonyms": ["dismiss", "remove"],
+          "register": null,
+          "domain": ["general", "business"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to arrange or decide a time or place for something",
+          "examples": ["They appointed a time for the meeting."],
+          "collocations": ["appoint a time", "appoint a meeting", "appoint a place"],
+          "synonyms": ["schedule", "set", "arrange"],
+          "antonyms": ["cancel"],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "appointable",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be appointed to a position",
+          "examples": ["He is appointable under the rules."],
+          "collocations": ["appointable candidate", "legally appointable"],
+          "synonyms": ["eligible", "qualified"],
+          "antonyms": ["ineligible"],
+          "register": "formal",
+          "domain": ["law", "business"]
+        }
+      ]
+    },
+    {
+      "term": "appointe",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "appointed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "chosen officially for a position",
+          "examples": ["The appointed leader spoke."],
+          "collocations": ["appointed official", "appointed role"],
+          "synonyms": ["selected", "designated"],
+          "antonyms": ["elected"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "appointee",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is officially chosen for a job",
+          "examples": ["The appointee started work today."],
+          "collocations": ["new appointee", "political appointee"],
+          "synonyms": ["nominee", "selectee"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "government"]
+        }
+      ]
+    },
+    {
+      "term": "appointees",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who are officially chosen for jobs",
+          "examples": ["The appointees attended the briefing."],
+          "collocations": ["government appointees", "new appointees"],
+          "synonyms": ["nominees"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["government"]
+        }
+      ]
+    },
+    {
+      "term": "appointer",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or authority that appoints someone",
+          "examples": ["The president is the appointer."],
+          "collocations": ["official appointer", "appointing authority"],
+          "synonyms": ["authority", "selector"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "government"]
+        }
+      ]
+    },
+    {
+      "term": "appointers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people or authorities that appoint others",
+          "examples": ["The appointers made their decisions."],
+          "collocations": ["legal appointers"],
+          "synonyms": ["authorities"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "appointing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "choosing someone officially for a position",
+          "examples": ["They are appointing a new CEO."],
+          "collocations": ["appointing authority", "appointing committee"],
+          "synonyms": ["assigning", "nominating"],
+          "antonyms": ["removing"],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "appointive",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "related to positions filled by appointment rather than election",
+          "examples": ["It is an appointive office."],
+          "collocations": ["appointive position", "appointive office"],
+          "synonyms": ["nominated"],
+          "antonyms": ["elective"],
+          "register": "formal",
+          "domain": ["government"]
+        }
+      ]
+    },
+    {
+      "term": "appointively",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that relates to appointment",
+          "examples": ["The role is filled appointively."],
+          "collocations": ["appointively filled"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["government"]
+        }
+      ]
+    },
+    {
+      "term": "appointment",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an arrangement to meet someone at a specific time",
+          "examples": ["I have a doctor's appointment."],
+          "collocations": ["make an appointment", "keep an appointment"],
+          "synonyms": ["meeting", "booking"],
+          "antonyms": ["cancellation"],
+          "register": null,
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the act of choosing someone for a job",
+          "examples": ["Her appointment was announced."],
+          "collocations": ["official appointment", "job appointment"],
+          "synonyms": ["selection", "nomination"],
+          "antonyms": ["dismissal"],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "appointments",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "arranged meetings or scheduled times",
+          "examples": ["He has many appointments today."],
+          "collocations": ["medical appointments", "business appointments"],
+          "synonyms": ["meetings"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "appointor",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who makes an appointment to a role",
+          "examples": ["The appointor has final authority."],
+          "collocations": ["legal appointor"],
+          "synonyms": ["appointer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "appointors",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who appoint others",
+          "examples": ["The appointors met privately."],
+          "collocations": ["official appointors"],
+          "synonyms": ["appointers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "appoints",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "chooses someone officially",
+          "examples": ["She appoints team leaders."],
+          "collocations": ["appoints members"],
+          "synonyms": ["assigns"],
+          "antonyms": ["removes"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "appomatox",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "appomattoc",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "appomattox",
+      "kind": "proper_noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place in Virginia known for the end of the American Civil War",
+          "examples": ["The surrender happened at Appomattox."],
+          "collocations": ["Appomattox Court House"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "apport",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an object said to appear suddenly by supernatural means",
+          "examples": ["The séance produced an apport."],
+          "collocations": ["spiritual apport"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["paranormal"]
+        }
+      ]
+    },
+    {
+      "term": "apportion",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to divide and share something among people",
+          "examples": ["They apportioned the funds fairly."],
+          "collocations": ["apportion blame", "apportion resources"],
+          "synonyms": ["divide", "allocate", "distribute"],
+          "antonyms": ["withhold"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "apportionable",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be divided or shared",
+          "examples": ["The costs are apportionable."],
+          "collocations": ["apportionable costs"],
+          "synonyms": ["divisible"],
+          "antonyms": ["indivisible"],
+          "register": "formal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "apportionate",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to divide something proportionally",
+          "examples": ["They apportionate the tax burden."],
+          "collocations": ["apportionate shares"],
+          "synonyms": ["allocate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "apportioned",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "divided and shared among people",
+          "examples": ["The money was apportioned equally."],
+          "collocations": ["apportioned funds"],
+          "synonyms": ["distributed"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "apportioner",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who divides something among others",
+          "examples": ["The apportioner decided the shares."],
+          "collocations": ["official apportioner"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "apportioners",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who divide things among others",
+          "examples": ["The apportioners met to decide."],
+          "collocations": ["legal apportioners"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "apportioning",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "dividing something among people",
+          "examples": ["They are apportioning the budget."],
+          "collocations": ["apportioning resources"],
+          "synonyms": ["allocating"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "apportionment",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of dividing and sharing something",
+          "examples": ["The apportionment of seats was debated."],
+          "collocations": ["apportionment of resources", "seat apportionment"],
+          "synonyms": ["allocation", "distribution"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["government"]
+        }
+      ]
+    },
+    {
+      "term": "apportionments",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "divisions or distributions of something",
+          "examples": ["The apportionments were reviewed."],
+          "collocations": ["budget apportionments"],
+          "synonyms": ["allocations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "apportions",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "divides something among people",
+          "examples": ["She apportions the tasks."],
+          "collocations": ["apportions blame"],
+          "synonyms": ["divides"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "apports",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "objects said to appear by supernatural means",
+          "examples": ["The medium claimed to produce apports."],
+          "collocations": ["mysterious apports"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["paranormal"]
+        }
+      ]
+    },
+    {
+      "term": "apposability",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being able to be placed side by side",
+          "examples": ["The apposability of the terms was noted."],
+          "collocations": ["semantic apposability"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "apposable",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be placed next to something else",
+          "examples": ["These elements are apposable."],
+          "collocations": ["apposable structures"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "appose",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to place something next to or beside another thing",
+          "examples": ["The terms are apposed for comparison."],
+          "collocations": ["appose words"],
+          "synonyms": ["place", "set"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "apposed",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "placed next to something else",
+          "examples": ["The apposed clauses clarify meaning."],
+          "collocations": ["apposed elements"],
+          "synonyms": ["adjacent"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "apposer",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "someone who places things side by side",
+          "examples": ["The apposer structured the sentence."],
+          "collocations": ["sentence apposer"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "apposers",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who place elements side by side",
+          "examples": ["Apposers create clarity."],
+          "collocations": ["linguistic apposers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "apposes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "places next to something else",
+          "examples": ["He apposes two ideas."],
+          "collocations": ["apposes terms"],
+          "synonyms": ["places"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "apposing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "placing something beside another",
+          "examples": ["They are apposing phrases."],
+          "collocations": ["apposing clauses"],
+          "synonyms": ["placing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "apposiopestic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "apposite",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "very suitable or appropriate for a situation",
+          "examples": ["His comment was apposite."],
+          "collocations": ["apposite remark", "highly apposite"],
+          "synonyms": ["appropriate", "relevant"],
+          "antonyms": ["irrelevant"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "appositely",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a suitable or appropriate way",
+          "examples": ["She spoke appositely."],
+          "collocations": ["appositely chosen"],
+          "synonyms": ["appropriately"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "appositeness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being appropriate or suitable",
+          "examples": ["The appositeness of his reply impressed us."],
+          "collocations": ["appositeness of remarks"],
+          "synonyms": ["relevance"],
+          "antonyms": ["irrelevance"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "appositenesses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "instances of being appropriate or suitable",
+          "examples": ["The appositenesses were noted."],
+          "collocations": ["various appositenesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "apposition",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a grammatical structure where two elements are placed side by side",
+          "examples": ["The phrase uses apposition."],
+          "collocations": ["in apposition"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "appositional",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to apposition",
+          "examples": ["An appositional phrase adds detail."],
+          "collocations": ["appositional phrase"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "appositionally",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that uses apposition",
+          "examples": ["The nouns are used appositionally."],
+          "collocations": ["used appositionally"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "appositions",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "instances of placing elements side by side",
+          "examples": ["The text contains several appositions."],
+          "collocations": ["multiple appositions"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "appositive",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a word or phrase that explains another word beside it",
+          "examples": ["'My brother, a doctor,' contains an appositive."],
+          "collocations": ["appositive phrase"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    }
+  ]
+}

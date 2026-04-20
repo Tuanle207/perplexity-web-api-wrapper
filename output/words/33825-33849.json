@@ -1,0 +1,586 @@
+```json
+{
+  "items": [
+    {
+      "term": "basement",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the lowest floor of a building, usually below ground level",
+          "examples": [
+            "We store old furniture in the basement.",
+            "The basement flooded during the storm.",
+            "She has a playroom in the basement."
+          ],
+          "collocations": [
+            "basement apartment",
+            "basement door",
+            "basement stairs",
+            "basement window",
+            "basement floor"
+          ],
+          "synonyms": ["cellar"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "basementless",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "lacking a basement",
+          "examples": [
+            "The small bungalow was basementless.",
+            "Many modern homes are basementless designs."
+          ],
+          "collocations": [
+            "basementless house",
+            "basementless building"
+          ],
+          "synonyms": [],
+          "antonyms": ["basemented"],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "basements",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basement; more than one lowest floor of buildings",
+          "examples": [
+            "The twins have rooms in different basements.",
+            "Many houses nearby have unfinished basements."
+          ],
+          "collocations": [
+            "multiple basements",
+            "unfinished basements"
+          ],
+          "synonyms": ["cellars"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "basementward",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "toward the basement",
+          "examples": [
+            "She headed basementward after dinner."
+          ],
+          "collocations": [
+            "move basementward"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "basen",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "basename",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the main name of a file without its extension",
+          "examples": [
+            "The basename of 'document.pdf' is 'document'.",
+            "Enter the basename for your project files."
+          ],
+          "collocations": [
+            "file basename",
+            "basename function"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "computing"]
+        }
+      ]
+    },
+    {
+      "term": "baseness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being low, mean, or morally bad",
+          "examples": [
+            "He condemned the baseness of their actions.",
+            "The novel explores human baseness."
+          ],
+          "collocations": [
+            "moral baseness",
+            "utter baseness"
+          ],
+          "synonyms": ["vileliness", "depravity"],
+          "antonyms": ["nobility"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "basenesses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baseness; multiple instances of low moral quality",
+          "examples": [
+            "The speech listed history's basenesses."
+          ],
+          "collocations": [
+            "various basenesses"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "basenet",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "basenji",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a breed of dog from Africa that does not bark",
+          "examples": [
+            "She adopted a basenji puppy last month.",
+            "Basenjis are known as barkless dogs."
+          ],
+          "collocations": [
+            "basenji dog",
+            "purebred basenji"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["animals", "pets"]
+        }
+      ]
+    },
+    {
+      "term": "basenjis",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basenji; more than one basenji dog",
+          "examples": [
+            "The park had several basenjis playing.",
+            "Basenjis make quiet, loyal pets."
+          ],
+          "collocations": [
+            "several basenjis",
+            "pack of basenjis"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["animals", "pets"]
+        }
+      ]
+    },
+    {
+      "term": "basepath",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the path between bases that a runner must follow in baseball",
+          "examples": [
+            "He stayed on the basepath to avoid an out.",
+            "The umpire called interference on the basepath."
+          ],
+          "collocations": [
+            "stay on basepath",
+            "basepath interference"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "baseball"]
+        }
+      ]
+    },
+    {
+      "term": "basepaths",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basepath; multiple paths between bases",
+          "examples": [
+            "Runners must touch all basepaths."
+          ],
+          "collocations": [
+            "all basepaths"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "baseball"]
+        }
+      ]
+    },
+    {
+      "term": "baseplate",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a flat piece that forms the base of a machine or structure",
+          "examples": [
+            "The engine sits on a steel baseplate.",
+            "Check the baseplate for damage."
+          ],
+          "collocations": [
+            "steel baseplate",
+            "mounting baseplate"
+          ],
+          "synonyms": ["base", "foundation plate"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["engineering", "construction"]
+        }
+      ]
+    },
+    {
+      "term": "baseplates",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baseplate; multiple base supports",
+          "examples": [
+            "Replace the worn baseplates."
+          ],
+          "collocations": [
+            "several baseplates"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["engineering", "construction"]
+        }
+      ]
+    },
+    {
+      "term": "baseplug",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "basepoint",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fixed starting point for calculations, especially in math or navigation",
+          "examples": [
+            "Choose zero as the basepoint.",
+            "The map uses this hill as basepoint."
+          ],
+          "collocations": [
+            "chosen basepoint",
+            "reference basepoint"
+          ],
+          "synonyms": ["reference point"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["mathematics", "navigation"]
+        }
+      ]
+    },
+    {
+      "term": "baser",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative of base; more low or mean",
+          "examples": [
+            "His baser instincts took over.",
+            "She rejected his baser motives."
+          ],
+          "collocations": [
+            "baser instincts",
+            "baser motives"
+          ],
+          "synonyms": ["lowlier"],
+          "antonyms": ["nobler"],
+          "register": "literary",
+          "domain": ["general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a person who plays baseball and runs between bases",
+          "examples": [
+            "The baser stole second base easily."
+          ],
+          "collocations": [
+            "fast baser"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "baseball"]
+        }
+      ]
+    },
+    {
+      "term": "baserunner",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a baseball player running between bases",
+          "examples": [
+            "The baserunner slid safely into home.",
+            "Two baserunners were left on base."
+          ],
+          "collocations": [
+            "advancing baserunner",
+            "stranded baserunner"
+          ],
+          "synonyms": ["runner"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "baseball"]
+        }
+      ]
+    },
+    {
+      "term": "baserunners",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baserunner; multiple baseball players running bases",
+          "examples": [
+            "The baserunners scored on the hit.",
+            "Baserunners must avoid the tag."
+          ],
+          "collocations": [
+            "multiple baserunners",
+            "loaded baserunners"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "baseball"]
+        }
+      ]
+    },
+    {
+      "term": "baserunning",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the skill or action of running bases in baseball",
+          "examples": [
+            "His baserunning won the game.",
+            "She teaches baserunning techniques."
+          ],
+          "collocations": [
+            "smart baserunning",
+            "aggressive baserunning"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "baseball"]
+        }
+      ]
+    },
+    {
+      "term": "baserunnings",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baserunning; multiple instances or styles of base running",
+          "examples": [
+            "Coaches analyze various baserunnings."
+          ],
+          "collocations": [
+            "different baserunnings"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "baseball"]
+        }
+      ]
+    },
+    {
+      "term": "bases",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of base; lowest parts or foundations",
+          "examples": [
+            "The lamp stands on three bases.",
+            "Check the bases of the pillars."
+          ],
+          "collocations": [
+            "solid bases",
+            "multiple bases"
+          ],
+          "synonyms": ["foundations"],
+          "antonyms": ["tops"],
+          "register": null,
+          "domain": ["general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "places used by military or teams",
+          "examples": [
+            "The army has bases worldwide.",
+            "Touch all three bases in baseball."
+          ],
+          "collocations": [
+            "military bases",
+            "home bases"
+          ],
+          "synonyms": ["headquarters"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["military", "sports"]
+        }
+      ]
+    },
+    {
+      "term": "basest",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative of base; most low, mean, or morally bad",
+          "examples": [
+            "He sank to his basest level.",
+            "Such basest betrayal shocked everyone."
+          ],
+          "collocations": [
+            "basest level",
+            "basest betrayal"
+          ],
+          "synonyms": ["lowest", "vilest"],
+          "antonyms": ["noblest"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bash",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a big, fun party",
+          "examples": [
+            "We're having a bash this weekend.",
+            "It was the party of the year bash."
+          ],
+          "collocations": [
+            "wild bash",
+            "birthday bash"
+          ],
+          "synonyms": ["party"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to hit someone or something very hard",
+          "examples": [
+            "He bashed his knee on the table.",
+            "Waves bashed against the rocks."
+          ],
+          "collocations": [
+            "bash head",
+            "bash door"
+          ],
+          "synonyms": ["hit", "smash"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to criticize someone strongly",
+          "examples": [
+            "Critics bashed the new movie.",
+            "They bashed the government's plan."
+          ],
+          "collocations": [
+            "bash policy",
+            "media bash"
+          ],
+          "synonyms": ["criticize", "attack"],
+          "antonyms": ["praise"],
+          "register": "informal",
+          "domain": ["media"]
+        }
+      ]
+    }
+  ]
+}
+```

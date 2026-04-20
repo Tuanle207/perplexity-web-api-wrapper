@@ -1,0 +1,322 @@
+```json
+{
+  "items": [
+    {
+      "term": "asperuloside",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a natural chemical compound found in some plants, especially used in research or medicine",
+          "examples": ["Asperuloside is studied for its possible anti-inflammatory effects."],
+          "collocations": ["asperuloside compound", "plant asperuloside", "asperuloside extract"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "asperulous",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "slightly rough or uneven to the touch",
+          "examples": ["The leaf felt asperulous under my fingers."],
+          "collocations": ["asperulous surface", "asperulous texture"],
+          "synonyms": ["rough", "coarse"],
+          "antonyms": ["smooth", "soft"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "asphalt",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a black sticky material used for making roads and covering roofs",
+          "examples": ["The road is made of asphalt.", "Workers poured hot asphalt onto the street."],
+          "collocations": ["asphalt road", "asphalt surface", "hot asphalt"],
+          "synonyms": ["bitumen", "tar"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to cover something with asphalt",
+          "examples": ["They asphalted the parking lot last week."],
+          "collocations": ["asphalt a road", "asphalt a driveway"],
+          "synonyms": ["pave"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "asphalted",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "covered with asphalt",
+          "examples": ["The asphalted road is smooth."],
+          "collocations": ["asphalted surface", "asphalted street"],
+          "synonyms": ["paved"],
+          "antonyms": ["unpaved"],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "asphaltene",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a heavy component of crude oil that does not dissolve easily",
+          "examples": ["Asphaltenes can cause problems in pipelines."],
+          "collocations": ["asphaltene content", "asphaltene deposits"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "energy"]
+        }
+      ]
+    },
+    {
+      "term": "asphalter",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or machine that applies asphalt",
+          "examples": ["The asphalter worked late to finish the road."],
+          "collocations": ["road asphalter", "asphalter machine"],
+          "synonyms": ["paver"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "asphaltic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or made of asphalt",
+          "examples": ["The asphaltic layer protects the surface."],
+          "collocations": ["asphaltic material", "asphaltic layer"],
+          "synonyms": ["bituminous"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "asphaltite",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a natural solid form of asphalt found in rocks",
+          "examples": ["Asphaltite is mined in certain regions."],
+          "collocations": ["natural asphaltite", "asphaltite deposits"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "asphaltum",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "another word for asphalt, especially in older or technical use",
+          "examples": ["Asphaltum was used in early road construction."],
+          "collocations": ["asphaltum coating", "natural asphaltum"],
+          "synonyms": ["asphalt", "bitumen"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "aspheric",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not perfectly spherical in shape",
+          "examples": ["The lens is slightly aspheric."],
+          "collocations": ["aspheric lens", "aspheric surface"],
+          "synonyms": ["non-spherical"],
+          "antonyms": ["spherical"],
+          "register": "formal",
+          "domain": ["science", "optics"]
+        }
+      ]
+    },
+    {
+      "term": "aspherical",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not having a perfectly round shape like a sphere",
+          "examples": ["Aspherical lenses improve image quality."],
+          "collocations": ["aspherical lens", "aspherical shape"],
+          "synonyms": ["aspheric"],
+          "antonyms": ["spherical"],
+          "register": "formal",
+          "domain": ["science", "optics"]
+        }
+      ]
+    },
+    {
+      "term": "aspheterize",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to take something away by force or theft",
+          "examples": ["He was accused of aspheterizing valuable goods."],
+          "collocations": ["aspheterize property", "aspheterize goods"],
+          "synonyms": ["steal", "rob"],
+          "antonyms": ["give", "return"],
+          "register": "archaic",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "aspheterism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of stealing or taking something unlawfully",
+          "examples": ["The crime was described as aspheterism."],
+          "collocations": ["act of aspheterism", "charge of aspheterism"],
+          "synonyms": ["theft", "robbery"],
+          "antonyms": ["honesty"],
+          "register": "archaic",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "asphodel",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant with long leaves and pale flowers, often mentioned in Greek mythology",
+          "examples": ["Asphodels were said to grow in the fields of the dead."],
+          "collocations": ["asphodel flower", "field of asphodel"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["mythology", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "asphyxia",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a condition where someone cannot breathe and lacks oxygen",
+          "examples": ["The patient died from asphyxia.", "Smoke can cause asphyxia."],
+          "collocations": ["cause asphyxia", "death by asphyxia"],
+          "synonyms": ["suffocation"],
+          "antonyms": ["breathing"],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "asphyxiate",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to cause someone to be unable to breathe, or to stop breathing",
+          "examples": ["The fumes could asphyxiate workers.", "He nearly asphyxiated in the smoke."],
+          "collocations": ["asphyxiate someone", "asphyxiate by gas"],
+          "synonyms": ["suffocate", "choke"],
+          "antonyms": ["revive"],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "asphyxiation",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process or result of being unable to breathe",
+          "examples": ["The cause of death was asphyxiation."],
+          "collocations": ["risk of asphyxiation", "death by asphyxiation"],
+          "synonyms": ["suffocation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "asphyxiant",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance that causes suffocation by preventing oxygen intake",
+          "examples": ["Carbon monoxide is a dangerous asphyxiant."],
+          "collocations": ["toxic asphyxiant", "chemical asphyxiant"],
+          "synonyms": ["poison gas"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "medicine"]
+        }
+      ]
+    }
+  ]
+}
+```

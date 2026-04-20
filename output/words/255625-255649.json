@@ -1,0 +1,601 @@
+{
+  "items": [
+    {
+      "term": "nonunionists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who are not members of a labor union or who oppose union membership",
+          "examples": [
+            "The meeting included several nonunionists who argued against strikes.",
+            "Some workers identified as nonunionists in the survey."
+          ],
+          "collocations": [
+            "nonunionists vote",
+            "nonunionists attitudes",
+            "nonunionists groups"
+          ],
+          "synonyms": ["antiunion workers", "non-members"],
+          "antonyms": ["unionists", "labour organizers"],
+          "register": "neutral",
+          "domain": ["general", "workplace", "labor"]
+        }
+      ]
+    },
+    {
+      "term": "nonunionized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not belonging to or protected by a labor union",
+          "examples": [
+            "Nonunionized workers often rely on company policies instead of collective bargaining.",
+            "The plant employs many nonunionized staff."
+          ],
+          "collocations": [
+            "nonunionized workforce",
+            "nonunionized employees",
+            "nonunionized status"
+          ],
+          "synonyms": ["non-organized", "without a union"],
+          "antonyms": ["unionized"],
+          "register": "formal",
+          "domain": ["general", "workplace"]
+        }
+      ]
+    },
+    {
+      "term": "nonunions",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "instances or groups that do not form or join unions",
+          "examples": [
+            "The region saw several nonunions despite labor pressure.",
+            "There are few nonunions in that industry."
+          ],
+          "collocations": [
+            "grow nonunions",
+            "free of nonunions",
+            "nonunions membership"
+          ],
+          "synonyms": ["nonmember groups", "antiunion groups"],
+          "antonyms": ["unions", "union members"],
+          "register": "neutral",
+          "domain": ["general", "labor"]
+        }
+      ]
+    },
+    {
+      "term": "nonunique",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not unique; having more than one instance or copy",
+          "examples": [
+            "The ID codes are nonunique and must be corrected.",
+            "Data may be nonunique due to duplication."
+          ],
+          "collocations": [
+            "nonunique identifier",
+            "nonunique values",
+            "nonunique records"
+          ],
+          "synonyms": ["not unique", "ambiguous"],
+          "antonyms": ["unique", "distinct"],
+          "register": "technical",
+          "domain": ["technology", "data", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonuniquely",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is not unique or not clearly distinct",
+          "examples": [
+            "The problem is nonuniquely defined in the specification.",
+            "Variables are nonuniquely named in the script."
+          ],
+          "collocations": [
+            "nonuniquely defined",
+            "nonuniquely named"
+          ],
+          "synonyms": ["not uniquely", "ambiguously"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["technology", "documentation"]
+        }
+      ]
+    },
+    {
+      "term": "nonuniqueness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of not being unique; multiple identical instances exist",
+          "examples": [
+            "Nonuniqueness of identifiers caused confusion in the database.",
+            "The nonuniqueness of this sample limits its usefulness."
+          ],
+          "collocations": [
+            "data nonuniqueness",
+            "measurement nonuniqueness",
+            "address nonuniqueness"
+          ],
+          "synonyms": ["ambiguity", "multiplicity"],
+          "antonyms": ["uniqueness", "distinctness"],
+          "register": "technical",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonuniquenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nonuniqueness; multiple instances of non-uniqueness",
+          "examples": [
+            "The report lists several nonuniquenesses in the dataset.",
+            "We documented the nonuniquenesses to improve data quality."
+          ],
+          "collocations": [
+            "document nonuniquenesses",
+            "explain nonuniquenesses"
+          ],
+          "synonyms": ["multiplicities of nonuniqueness"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "nonunison",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a lack of simultaneous or identical action or sound; not in harmony",
+          "examples": [
+            "The choir sang out of nonunison, creating a quirky effect.",
+            "There was a moment of nonunison in the marching band."
+          ],
+          "collocations": [
+            "in nonunison",
+            "sound nonunison",
+            "perform in nonunison"
+          ],
+          "synonyms": ["discord", "dissonance"],
+          "antonyms": ["unison", "harmony"],
+          "register": "neutral",
+          "domain": ["arts", "music", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonunitable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not capable of being made into a single unit or entity",
+          "examples": [
+            "The components are nonunitable due to incompatible interfaces.",
+            "This system is nonunitable with the current modules."
+          ],
+          "collocations": [
+            "nonunitable component",
+            "nonunitable design"
+          ],
+          "synonyms": ["non-joinable", "not unitizable"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["engineering", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nonunitarian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who does not belong to or support a unitarian church or doctrine",
+          "examples": [
+            "The speaker described herself as a nonunitarian in the religious group.",
+            "Nonunitarians attended the interfaith gathering."
+          ],
+          "collocations": [
+            "nonunitarian beliefs",
+            "nonunitarian group"
+          ],
+          "synonyms": ["nontrinitarian"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonuniteable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not able to be joined or entered into a single unit",
+          "examples": [
+            "The fasteners are nonuniteable with this material.",
+            "Some parts are nonuniteable without modification."
+          ],
+          "collocations": [
+            "nonuniteable joint",
+            "nonuniteable connection"
+          ],
+          "synonyms": ["not joinable"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["engineering", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "nonunited",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not united or joined; in a state of disunity",
+          "examples": [
+            "The club remained nonunited after the vote.",
+            "The regions stayed nonunited under the new leadership."
+          ],
+          "collocations": [
+            "nonunited factions",
+            "remain nonunited"
+          ],
+          "synonyms": ["divided", "disunited"],
+          "antonyms": ["united", "joined"],
+          "register": "neutral",
+          "domain": ["politics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonuniting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "actively not becoming or remaining a single unit; separating",
+          "examples": [
+            "The teams are nonuniting despite the agreement.",
+            "Efforts to nonuniting the organization continued."
+          ],
+          "collocations": [
+            "nonuniting efforts",
+            "nonuniting process"
+          ],
+          "synonyms": ["disuniting", "splitting"],
+          "antonyms": ["uniting"],
+          "register": "neutral",
+          "domain": ["politics", "organizations"]
+        }
+      ]
+    },
+    {
+      "term": "nonunity",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "lack of unity; state of not being united",
+          "examples": [
+            "There was a sense of nonunity among the delegates.",
+            "Nonunity weakened the coalition."
+          ],
+          "collocations": [
+            "create nonunity",
+            "foster nonunity"
+          ],
+          "synonyms": ["disunity", "divisions"],
+          "antonyms": ["unity", "harmony"],
+          "register": "neutral",
+          "domain": ["politics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonuniversal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not applying to all cases or people; not universal",
+          "examples": [
+            "The policy is nonuniversal and excludes some groups.",
+            "Nonuniversal rules may cause confusion."
+          ],
+          "collocations": [
+            "nonuniversal application",
+            "nonuniversal standard"
+          ],
+          "synonyms": ["inapplicable", "partial"],
+          "antonyms": ["universal", "general"],
+          "register": "neutral",
+          "domain": ["policy", "general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "nonuniversalist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who believes in or advocates nonuniversalist ideas; not advocating universal principles",
+          "examples": [
+            "Some scholars described themselves as nonuniversalists.",
+            "The debate featured several nonuniversalists."
+          ],
+          "collocations": [
+            "nonuniversalist theory",
+            "nonuniversalist stance"
+          ],
+          "synonyms": ["partialist"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["philosophy", "religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonuniversality",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality or state of not being universal; not applying everywhere",
+          "examples": [
+            "Nonuniversality limits the reach of the model.",
+            "They discussed the philosophical implications of nonuniversality."
+          ],
+          "collocations": [
+            "economic nonuniversality",
+            "philosophical nonuniversality"
+          ],
+          "synonyms": ["partial applicability", "non-ubiquity"],
+          "antonyms": ["universality", "ubiquity"],
+          "register": "academic",
+          "domain": ["philosophy", "science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonuniversally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is not universal; not applying to all cases",
+          "examples": [
+            "The results are nonuniversally applicable across all cultures.",
+            "Nonuniversally, the method works better in some contexts."
+          ],
+          "collocations": [
+            "nonuniversally applicable",
+            "nonuniversally recognized"
+          ],
+          "synonyms": ["partially", "in some cases"],
+          "antonyms": [],
+          "register": "academic",
+          "domain": ["research", "science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonuniversals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "things that are not universal; not applicable to all cases",
+          "examples": [
+            "The theory discusses many nonuniversals in cultural practice.",
+            "Nonuniversals were identified in the dataset."
+          ],
+          "collocations": [
+            "identify nonuniversals",
+            "discuss nonuniversals"
+          ],
+          "synonyms": ["exceptions", "particulars"],
+          "antonyms": ["universals"],
+          "register": "academic",
+          "domain": ["science", "humanities", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonuniversities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "institutions that are not universities or do not have university status",
+          "examples": [
+            "Some nonuniversities offer strong professional programs.",
+            "The city hosts several nonuniversities with practical training."
+          ],
+          "collocations": [
+            "local nonuniversities",
+            "nonuniversities programs"
+          ],
+          "synonyms": ["colleges", "institute of technology"],
+          "antonyms": ["universities"],
+          "register": "neutral",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonuniversity",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an institution that is not a university",
+          "examples": [
+            "The campus includes a nonuniversity offering vocational courses.",
+            "Nonuniversity education can be valuable for many careers."
+          ],
+          "collocations": [
+            "nonuniversity program",
+            "nonuniversity education"
+          ],
+          "synonyms": ["college", "institute"],
+          "antonyms": ["university"],
+          "register": "neutral",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonupholstered",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not covered with fabric or padding; bare",
+          "examples": [
+            "The chair was nonupholstered and uncomfortable.",
+            "They chose nonupholstered furniture for a minimalist look."
+          ],
+          "collocations": [
+            "nonupholstered seat",
+            "nonupholstered furniture"
+          ],
+          "synonyms": ["bare", "uncovered", "unupholstered"],
+          "antonyms": ["upholstered"],
+          "register": "neutral",
+          "domain": ["home", "decor"]
+        }
+      ]
+    },
+    {
+      "term": "nonuple",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one of nine equal parts; in music or mathematics a group of nine",
+          "examples": [
+            "The set contains a nonuple of items.",
+            "In some games, a nonuple scoring sequence occurs."
+          ],
+          "collocations": [
+            "nonuple group",
+            "nonuple sequence"
+          ],
+          "synonyms": ["ninefold", "enneaplet"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["mathematics", "music", "general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "involving nine units; ninefold",
+          "examples": [
+            "A nonuple multiplication results in a large number.",
+            "They observed nonuple symmetry."
+          ],
+          "collocations": [
+            "nonuple multiplication",
+            "nonuple symmetry"
+          ],
+          "synonyms": ["ninefold"],
+          "antonyms": ["single", "binary"],
+          "register": "neutral",
+          "domain": ["mathematics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonuples",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "groups of nine; multiple sets of nine",
+          "examples": [
+            "The puzzle includes several nonuples.",
+            "Nonuples were arranged in rows for the display."
+          ],
+          "collocations": [
+            "three nonuples",
+            "nonuples arranged"
+          ],
+          "synonyms": ["ninefold groups"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["mathematics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonuplet",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a group or set of nine, especially in a sequence",
+          "examples": [
+            "A nonuplet pattern appeared in the data.",
+            "The sequence features a nonuplet segment."
+          ],
+          "collocations": [
+            "nonuplet sequence",
+            "nonuplet pattern"
+          ],
+          "synonyms": ["nine-tuple", "ennea-tuple"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["mathematics", "science"]
+        }
+      ]
+    }
+  ]
+}

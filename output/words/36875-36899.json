@@ -1,0 +1,363 @@
+{
+  "items": [
+    {
+      "term": "belars",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "belash",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "belast",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "belat",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "belate",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to cause to be late or to arrive late; to do something later than planned or expected",
+          "examples": [
+            "I don't want to belate you, so I'll start the meeting now.",
+            "If we belate the start, we'll miss the first speaker."
+          ],
+          "collocations": ["to belate", "late", "belatedly", "be belated"],
+          "synonyms": ["delay", "postpone", "tarry"],
+          "antonyms": ["advance", "expedite"],
+          "register": "neutral",
+          "domain": ["general", "everyday", "time"]
+        }
+      ]
+    },
+    {
+      "term": "belated",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "coming or happening later than the usual or expected time",
+          "examples": [
+            "We received belated congratulations on our anniversary.",
+            "Her belated apology arrived after many months."
+          ],
+          "collocations": ["belated apology", "belated congratulations", "belated birthday wishes"],
+          "synonyms": ["delayed", "late", "tardy"],
+          "antonyms": ["timely", "prompt"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "belatedly",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a belated manner; later than the time expected or appropriate",
+          "examples": [
+            "She apologized belatedly for the mistake.",
+            "Belatedly, he sent flowers after the argument."
+          ],
+          "collocations": ["belatedly realize", "belatedly apologize"],
+          "synonyms": ["late", "tardily"],
+          "antonyms": ["promptly", "timely"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "belatedness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of arriving later than is appropriate or expected",
+          "examples": [
+            "The belatedness of the email caused confusion.",
+            "Fans felt the belatedness of the apology diminished its impact."
+          ],
+          "collocations": ["degree of belatedness", "belatedness of attention"],
+          "synonyms": ["lateness", "tardiness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "time"]
+        }
+      ]
+    },
+    {
+      "term": "belatednesses",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of belatedness; multiple instances of lateness or tardiness",
+          "examples": [
+            "The belatednesses in the reports were corrected after review.",
+            "They noted several belatednesses in the project timeline."
+          ],
+          "collocations": ["instances of belatedness"],
+          "synonyms": ["latenesses", "tardinesses"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "time"]
+        }
+      ]
+    },
+    {
+      "term": "belates",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of belate; to cause to be late or to arrive late",
+          "examples": [
+            "It belates the start of the ceremony.",
+            "The rain belates the arrival of the guests."
+          ],
+          "collocations": ["belates the start", "belates arrival"],
+          "synonyms": ["delays", "retards"],
+          "antonyms": ["prepares", "expedites"],
+          "register": "neutral",
+          "domain": ["general", "time"]
+        }
+      ]
+    },
+    {
+      "term": "belating",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "gerund/participle",
+          "definition": "the act of delaying or arriving late",
+          "examples": [
+            "Belating the decision caused frustration.",
+            "Belating the response is not helpful."
+          ],
+          "collocations": ["belating the decision", "belating the response"],
+          "synonyms": ["delaying", "retarding"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "time"]
+        }
+      ]
+    },
+    {
+      "term": "belatticed",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "belaud",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "belauded",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "belauder",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "belauding",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "belauds",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "belavendered",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "belay",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to fix or secure a rope or line so that it will not slip; to secure or fasten",
+          "examples": [
+            "Belay the rope to the anchor.",
+            "He belayed the line to prevent it from moving."
+          ],
+          "collocations": ["belay the rope", "belay device", "belay line"],
+          "synonyms": ["secure", "fasten", "anchor"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "outdoors", "sport"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to cancel or reverse a previous order or instruction; to stop following an order",
+          "examples": [
+            "The captain belayed the command due to poor visibility.",
+            "Belay that instruction; abandon the plan."
+          ],
+          "collocations": ["belay the command", "belay that order"],
+          "synonyms": ["cancel", "withdraw", "reverse"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["military", "general"]
+        }
+      ]
+    },
+    {
+      "term": "belayed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of belay; to fix or secure a rope or line; to cancel or reverse a previous order",
+          "examples": [
+            "The climber belayed the rope to protect the ascent.",
+            "They belayed the decision when new information arrived."
+          ],
+          "collocations": ["belayed the rope", "belayed the command"],
+          "synonyms": ["secured", "fastened", "canceled"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "outdoors", "military"]
+        }
+      ]
+    },
+    {
+      "term": "belayer",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who belays, especially in climbing or ropework",
+          "examples": [
+            "The belayer kept tension on the rope.",
+            "She trained as a belayer for the climbing group."
+          ],
+          "collocations": ["primary belayer", "rope belayer"],
+          "synonyms": ["tensioner", "rigger"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "outdoors"]
+        }
+      ]
+    },
+    {
+      "term": "belayers",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of belayer",
+          "examples": [
+            "The belayers in the gym practice safe rope management.",
+            "Two belayers coordinated with the climbers."
+          ],
+          "collocations": ["group of belayers", "two belayers"],
+          "synonyms": ["tensioners"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "outdoors"]
+        }
+      ]
+    },
+    {
+      "term": "belaying",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "gerund/participle",
+          "definition": "the act of belaying, securing a rope for a climber",
+          "examples": [
+            "Belaying requires focus and trust.",
+            "They spent the afternoon belaying beginners."
+          ],
+          "collocations": ["belaying duties", "belaying competence"],
+          "synonyms": ["tensioning", "securing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "outdoors"]
+        }
+      ]
+    },
+    {
+      "term": "belays",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of belay; to secure a rope or to cancel an order",
+          "examples": [
+            "He belays the rope for the climber.",
+            "The captain belays the previous directive."
+          ],
+          "collocations": ["belays the rope", "belays the directive"],
+          "synonyms": ["secures", "cancels"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "military", "general"]
+        }
+      ]
+    },
+    {
+      "term": "belch",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to release gas noisily from the stomach through the mouth; to burp",
+          "examples": [
+            "He belches loudly after the meal.",
+            "She tried not to belch in the quiet restaurant."
+          ],
+          "collocations": ["belch loudly", "belch gas"],
+          "synonyms": ["burp"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    }
+  ]
+}

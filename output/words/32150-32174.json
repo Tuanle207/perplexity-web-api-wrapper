@@ -1,0 +1,383 @@
+```json
+{
+  "items": [
+    {
+      "term": "balt",
+      "kind": "abbreviation",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person from the Baltic states, such as Estonia, Latvia, or Lithuania.",
+          "examples": ["Many Balts speak multiple languages.", "The Balt community in the US is growing.", "Balts have a rich cultural heritage."],
+          "collocations": ["ethnic Balt", "Balt population", "Balt history", "Balt diaspora", "Balt identity"],
+          "synonyms": ["Baltic person"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "baltei",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "balter",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To dance clumsily or awkwardly.",
+          "examples": ["He baltered around the dance floor.", "She baltered with her partner at the party.", "They baltered to the music without rhythm."],
+          "collocations": ["balter awkwardly", "balter on the floor", "balter clumsily"],
+          "synonyms": ["lumber", "shuffle"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baltetei",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "balteus",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A baldric or sword belt in ancient Roman clothing.",
+          "examples": ["The soldier wore a balteus across his chest.", "The balteus held his sword securely.", "Roman balteus designs were ornate."],
+          "collocations": ["Roman balteus", "military balteus", "decorated balteus"],
+          "synonyms": ["baldric"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "balthasar",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A male given name of biblical origin, one of the Three Wise Men.",
+          "examples": ["Balthasar brought myrrh to the baby Jesus.", "His name is Balthasar.", "Balthasar is a traditional name."],
+          "collocations": ["Saint Balthasar", "Balthasar gift", "King Balthasar"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["religion", "names"]
+        }
+      ]
+    },
+    {
+      "term": "balthasars",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "balthazar",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A very large wine bottle size, holding 12 standard bottles.",
+          "examples": ["They ordered a Balthazar of champagne.", "The Balthazar was the highlight of the party.", "A Balthazar costs a lot."],
+          "collocations": ["Balthazar bottle", "champagne Balthazar", "large Balthazar"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "wine"]
+        },
+        {
+          "pos": "proper_noun",
+          "definition": "A male given name, variant of Balthasar.",
+          "examples": ["Balthazar is his first name.", "The character Balthazar appears in the play.", "He named his son Balthazar."],
+          "collocations": ["Balthazar name", "King Balthazar"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["names"]
+        }
+      ]
+    },
+    {
+      "term": "balthazars",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of Balthazar; very large wine bottles.",
+          "examples": ["The restaurant displayed several balthazars.", "They bought two balthazars for the event."],
+          "collocations": ["champagne balthazars", "collect balthazars"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "wine"]
+        }
+      ]
+    },
+    {
+      "term": "baltheus",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "balti",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A spicy curry dish from Pakistan, cooked with meat and vegetables.",
+          "examples": ["I ordered chicken balti.", "Balti is served in a special wok.", "Try the lamb balti."],
+          "collocations": ["chicken balti", "lamb balti", "balti house", "spicy balti", "balti sauce"],
+          "synonyms": ["curry"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "cooking"]
+        }
+      ]
+    },
+    {
+      "term": "baltic",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to the Baltic Sea or the countries around it like Estonia, Latvia, Lithuania.",
+          "examples": ["Baltic states joined the EU.", "She loves Baltic amber jewelry.", "Baltic weather is cold."],
+          "collocations": ["Baltic Sea", "Baltic states", "Baltic amber", "Baltic languages", "Baltic region"],
+          "synonyms": ["Nordic"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "baltimore",
+      "kind": "proper_noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A major city in Maryland, USA.",
+          "examples": ["Baltimore is known for its harbor.", "I visited Baltimore last summer.", "The Ravens play in Baltimore."],
+          "collocations": ["Baltimore harbor", "Baltimore Ravens", "Baltimore Orioles"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "baltimorean",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person from Baltimore.",
+          "examples": ["The Baltimorean cheered for the team.", "As a Baltimorean, she loves crab cakes."],
+          "collocations": ["native Baltimorean", "proud Baltimorean"],
+          "synonyms": ["Baltimore resident"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Relating to Baltimore.",
+          "examples": ["Baltimorean culture is unique.", "She has a Baltimorean accent."],
+          "collocations": ["Baltimorean style", "Baltimorean food"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baltimorite",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person from Baltimore (less common term).",
+          "examples": ["He identifies as a Baltimorite."],
+          "collocations": ["local Baltimorite"],
+          "synonyms": ["Baltimorean"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baltis",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of balti; spicy curry dishes.",
+          "examples": ["The menu lists various baltis.", "We shared baltis for dinner."],
+          "collocations": ["chicken baltis", "assorted baltis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "balu",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baluba",
+      "kind": "proper_noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A Bantu ethnic group in Central Africa, mainly in DR Congo.",
+          "examples": ["The Baluba have a rich tradition.", "Baluba art is famous worldwide."],
+          "collocations": ["Baluba people", "Baluba culture", "Baluba masks"],
+          "synonyms": ["Luba"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anthropology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baluch",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A member of the Baloch ethnic group in Pakistan, Iran, Afghanistan.",
+          "examples": ["The Baluch have their own language.", "Baluch rugs are handwoven."],
+          "collocations": ["Baluch people", "Baluch language", "Baluch rugs"],
+          "synonyms": ["Baloch"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anthropology"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Relating to the Baloch people or their culture.",
+          "examples": ["Baluch embroidery is intricate.", "Baluch music uses traditional instruments."],
+          "collocations": ["Baluch culture", "Baluch traditions"],
+          "synonyms": ["Baloch"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "baluchi",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A language spoken by the Baloch people.",
+          "examples": ["Baluchi is an Iranian language.", "He speaks Baluchi fluently."],
+          "collocations": ["Baluchi language", "learn Baluchi"],
+          "synonyms": ["Baloch"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["linguistics"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Relating to the Baloch people or their language.",
+          "examples": ["Baluchi poetry is beautiful.", "Baluchi dialects vary."],
+          "collocations": ["Baluchi speaker", "Baluchi literature"],
+          "synonyms": ["Baloch"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "baluchistan",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A region in Pakistan, also provinces in Iran and Afghanistan.",
+          "examples": ["Baluchistan is resource-rich.", "Travel to Baluchistan requires care."],
+          "collocations": ["Baluchistan province", "Baluchistan desert"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "baluchithere",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baluchitheria",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baluchitherium",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An extinct giant rhinoceros-like mammal from the Oligocene.",
+          "examples": ["Baluchitherium was one of the largest land mammals.", "Fossils of baluchitherium were found in Asia."],
+          "collocations": ["Baluchitherium fossils", "giant baluchitherium"],
+          "synonyms": ["Indricotherium"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["paleontology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "baluga",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    }
+  ]
+}
+```

@@ -1,0 +1,439 @@
+{
+  "items": [
+    {
+      "term": "nonlivings",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nonliving; things or beings that are not alive",
+          "examples": ["The exhibit described nonlivings such as rocks and machines."],
+          "collocations": ["nonlivings in a display", "study of nonlivings"],
+          "synonyms": ["inanimate things", "non-living things"],
+          "antonyms": ["livings", "creatures"],
+          "register": "formal",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "nonlixiviated",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not lixiviated; not subjected to leaching or washout processes",
+          "examples": ["The soil sample remained nonlixiviated after limited treatment."],
+          "collocations": ["nonlixiviated ore/soil", "nonlixiviated residue"],
+          "synonyms": ["unleached", "undissolved"],
+          "antonyms": ["lixiviated", "leached"],
+          "register": "technical",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nonlixiviation",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of not undergoing lixiviation (leaching) in a process",
+          "examples": ["The experiment failed due to nonlixiviation of the sample."],
+          "collocations": ["process of nonlixiviation", "nonlixiviation step"],
+          "synonyms": ["unleaching", "non-leaching"],
+          "antonyms": ["lixiviation", "leaching"],
+          "register": "technical",
+          "domain": ["science", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "nonlocal",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not confined to one place; arising or existing in more than one location",
+          "examples": ["Nonlocal effects can be observed across the network."],
+          "collocations": ["nonlocal influence", "nonlocal communication"],
+          "synonyms": ["distant", "remote", "translocal"],
+          "antonyms": ["local", "intraregional"],
+          "register": "formal",
+          "domain": ["technology", "general", "academic"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to or involving nonlocal means in mathematics or physics",
+          "examples": ["Nonlocal operators are used in certain models."],
+          "collocations": ["nonlocal operator", "nonlocal equation"],
+          "synonyms": ["nonlocalized", "spatially extended"],
+          "antonyms": ["local"],
+          "register": "formal",
+          "domain": ["academic", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonlocalizable",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not able to be localized or assigned to a specific location",
+          "examples": ["The signal is nonlocalizable by this method."],
+          "collocations": ["nonlocalizable output", "nonlocalizable signal"],
+          "synonyms": ["unlocalizable", "not localizable"],
+          "antonyms": ["localizable"],
+          "register": "technical",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonlocalized",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not localized; lacking fixed location in a given frame",
+          "examples": ["The map shows nonlocalized data."],
+          "collocations": ["nonlocalized data", "nonlocalized pattern"],
+          "synonyms": ["non-localized", "unlocalized"],
+          "antonyms": ["localized"],
+          "register": "technical",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonlocally",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonlocal way; not confined to a single location",
+          "examples": ["The influence spreads nonlocally across communities."],
+          "collocations": ["act nonlocally", "affect nonlocally"],
+          "synonyms": ["remotely", "distantly"],
+          "antonyms": ["locally", "in-situ"],
+          "register": "formal",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "nonlocals",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people or things that are not local; outsiders",
+          "examples": ["The policy affected nonlocals in the area."],
+          "collocations": ["treat nonlocals fairly", "nonlocals rights"],
+          "synonyms": ["outsiders", "foreigners"],
+          "antonyms": ["locals"],
+          "register": "formal",
+          "domain": ["society", "law"]
+        }
+      ]
+    },
+    {
+      "term": "nonlocation",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or absence of a definite location",
+          "examples": ["Nonlocation made it hard to track the device."],
+          "collocations": ["nonlocation data", "nonlocation tracking"],
+          "synonyms": ["unlocation", "no fixed place"],
+          "antonyms": ["location", "localization"],
+          "register": "technical",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonlogic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a lack of logical reasoning or coherence",
+          "examples": ["The argument showed nonlogic in its structure."],
+          "collocations": ["display nonlogic", "avoid nonlogic"],
+          "synonyms": ["illogic", "nonsense"],
+          "antonyms": ["logic", "reason"],
+          "register": "formal",
+          "domain": ["logic", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "nonlogical",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not based on logic; lacking logical reasoning",
+          "examples": ["A nonlogical conclusion was drawn from the data."],
+          "collocations": ["nonlogical assumption", "nonlogical thinking"],
+          "synonyms": ["illogical", "irrational"],
+          "antonyms": ["logical", "rational"],
+          "register": "formal",
+          "domain": ["philosophy", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonlogicality",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being illogical or lacking coherent reasoning",
+          "examples": ["The essay failed due to its nonlogicality."],
+          "collocations": ["exhibit nonlogicality", "remove nonlogicality"],
+          "synonyms": ["illogicality", "irrationality"],
+          "antonyms": ["logic", "rationality"],
+          "register": "formal",
+          "domain": ["philosophy", "logic"]
+        }
+      ]
+    },
+    {
+      "term": "nonlogically",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonlogical manner; illogically",
+          "examples": ["The statement was nonlogically argued."],
+          "collocations": ["nonlogically assert", "nonlogically conclude"],
+          "synonyms": ["illogically", "irrationally"],
+          "antonyms": ["logically", "rationally"],
+          "register": "formal",
+          "domain": ["philosophy", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonlogicalness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being nonlogical; lack of logical structure",
+          "examples": ["They debated the nonlogicalness of the theory."],
+          "collocations": ["accentuate nonlogicalness", "reduce nonlogicalness"],
+          "synonyms": ["illogicality", "irrationality"],
+          "antonyms": ["logic", "rationality"],
+          "register": "formal",
+          "domain": ["philosophy", "logic"]
+        }
+      ]
+    },
+    {
+      "term": "nonlogistic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not related to logistics; not focused on planning and execution of operations",
+          "examples": ["The plan was criticized as nonlogistic."],
+          "collocations": ["nonlogistic approach", "nonlogistic system"],
+          "synonyms": ["unlogistic", "uncoordinated"],
+          "antonyms": ["logistic", "operational"],
+          "register": "formal",
+          "domain": ["business", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "nonlogistical",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not related to logistics; lacking logistical planning or support",
+          "examples": ["Nonlogistical support hindered the project."],
+          "collocations": ["nonlogistical issue", "nonlogistical planning"],
+          "synonyms": ["unlogistical", "uncoordinated"],
+          "antonyms": ["logistical", "organized"],
+          "register": "formal",
+          "domain": ["business", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "nonlosable",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not able to be lost or easily lost",
+          "examples": ["The data is stored in nonlosable format."],
+          "collocations": ["nonlosable data", "nonlosable item"],
+          "synonyms": ["unloseable", "indelible"],
+          "antonyms": ["losable"],
+          "register": "formal",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nonloser",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who does not lose; a winner or resilient competitor",
+          "examples": ["In the race, she proved to be a nonloser after a tough start."],
+          "collocations": ["be a nonloser", "act as a nonloser"],
+          "synonyms": ["winner", "survivor", "success"],
+          "antonyms": ["loser", "defeated person"],
+          "register": "informal",
+          "domain": ["sports", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonlover",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who does not love; someone without affection",
+          "examples": ["He is a nonlover of crowded places."],
+          "collocations": ["be a nonlover", "nonlover attitude"],
+          "synonyms": ["disliker", "hater (in strong cases)"],
+          "antonyms": ["lover", "admiring partner"],
+          "register": "informal",
+          "domain": ["emotions", "society"]
+        }
+      ]
+    },
+    {
+      "term": "nonloving",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not showing love or affection; cold",
+          "examples": ["The nonloving treatment hurt many people."],
+          "collocations": ["nonloving stance", "nonloving behavior"],
+          "synonyms": ["cold", "unaffectionate", "detached"],
+          "antonyms": ["loving", "affectionate"],
+          "register": "neutral",
+          "domain": ["emotions", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonloxodromic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not following a loxodrome; not following a constant bearing path on a sphere",
+          "examples": ["The trajectory is nonloxodromic."],
+          "collocations": ["nonloxodromic path", "nonloxodromic curve"],
+          "synonyms": ["nonloxodromical"],
+          "antonyms": ["loxodromic"],
+          "register": "technical",
+          "domain": ["geometry", "mathematics"]
+        }
+      ]
+    },
+    {
+      "term": "nonloxodromical",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "alternate spelling or variant of nonloxodromic; not following a loxodrome",
+          "examples": ["A nonloxodromical path was observed."],
+          "collocations": ["nonloxodromical analysis"],
+          "synonyms": ["nonloxodromic"],
+          "antonyms": ["loxodromic"],
+          "register": "technical",
+          "domain": ["mathematics", "geometry"]
+        }
+      ]
+    },
+    {
+      "term": "nonloyal",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not loyal; disloyal",
+          "examples": ["A nonloyal ally can be risky."],
+          "collocations": ["nonloyal behavior", "nonloyal friend"],
+          "synonyms": ["disloyal", "untrustworthy"],
+          "antonyms": ["loyal", "faithful"],
+          "register": "neutral",
+          "domain": ["society", "personality"]
+        }
+      ]
+    },
+    {
+      "term": "nonloyally",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonloyal manner; disloyally",
+          "examples": ["They acted nonloyally toward their partner."],
+          "collocations": ["act nonloyally", "nonloyally betray"],
+          "synonyms": ["disloyally"],
+          "antonyms": ["loyally"],
+          "register": "neutral",
+          "domain": ["society", "personal"]
+        }
+      ]
+    },
+    {
+      "term": "nonloyalties",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "situations or feelings of not being loyal; disloyalty",
+          "examples": ["The group faced many nonloyalties among members."],
+          "collocations": ["experiences of nonloyalties", "nonloyalties within teams"],
+          "synonyms": ["disloyalties"],
+          "antonyms": ["loyalties"],
+          "register": "formal",
+          "domain": ["society", "psychology"]
+        }
+      ]
+    }
+  ]
+}

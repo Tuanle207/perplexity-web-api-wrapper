@@ -1,0 +1,481 @@
+```json
+{
+  "items": [
+    {
+      "term": "barbecueing",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of barbecue, cooking food on a grill outdoors.",
+          "examples": ["We were barbecueing chicken in the backyard all afternoon.", "The smell of barbecueing meat filled the air.", "They are barbecueing for the party tonight."],
+          "collocations": ["barbecueing meat", "barbecueing chicken", "barbecueing outdoors", "barbecueing sausages", "barbecueing ribs"],
+          "synonyms": ["grilling", "barbecuing"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "food"]
+        }
+      ]
+    },
+    {
+      "term": "barbecuer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who barbecues food.",
+          "examples": ["He is an expert barbecuer and always cooks perfect steaks.", "The barbecuer lit the grill early.", "My uncle is the family barbecuer."],
+          "collocations": ["expert barbecuer", "family barbecuer", "backyard barbecuer"],
+          "synonyms": ["griller", "BBQ chef"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "food"]
+        }
+      ]
+    },
+    {
+      "term": "barbecuers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barbecuer, people who barbecue food.",
+          "examples": ["The barbecuers gathered around the grill.", "All the barbecuers brought their own meat.", "Experienced barbecuers shared tips."],
+          "collocations": ["group of barbecuers", "expert barbecuers", "backyard barbecuers"],
+          "synonyms": ["grillers"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "food"]
+        }
+      ]
+    },
+    {
+      "term": "barbecues",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barbecue, outdoor meals cooked on a grill.",
+          "examples": ["We love summer barbecues.", "The barbecues in the park were fun.", "Family barbecues are our tradition."],
+          "collocations": ["summer barbecues", "family barbecues", "backyard barbecues", "beach barbecues"],
+          "synonyms": ["BBQs", "grill parties"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "food"]
+        },
+        {
+          "pos": "noun",
+          "definition": "plural of barbecue, grills for cooking outdoors.",
+          "examples": ["She bought two new barbecues.", "Gas barbecues are easy to use.", "Clean the barbecues after use."],
+          "collocations": ["gas barbecues", "charcoal barbecues", "portable barbecues"],
+          "synonyms": ["grills"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "food"]
+        }
+      ]
+    },
+    {
+      "term": "barbecuing",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the activity of cooking food on an outdoor grill.",
+          "examples": ["Barbecuing is popular in summer.", "I enjoy barbecuing with friends.", "Barbecuing takes practice."],
+          "collocations": ["summer barbecuing", "backyard barbecuing", "outdoor barbecuing"],
+          "synonyms": ["grilling", "BBQing"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "food"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle of barbecue, cooking on a grill.",
+          "examples": ["They are barbecuing right now.", "She was barbecuing all day."],
+          "collocations": ["barbecuing meat", "barbecuing vegetables"],
+          "synonyms": ["grilling"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "food"]
+        }
+      ]
+    },
+    {
+      "term": "barbed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having sharp points like a barb.",
+          "examples": ["The barbed wire kept animals out.", "He got a cut from the barbed fence.", "Barbed hooks catch fish easily."],
+          "collocations": ["barbed wire", "barbed hooks", "barbed fence"],
+          "synonyms": ["hooked", "spiked", "pointed"],
+          "antonyms": ["smooth", "blunt"],
+          "register": "null",
+          "domain": ["general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "sharp and hurtful in speech.",
+          "examples": ["She made a barbed comment about his work.", "His barbed reply hurt her feelings.", "The debate had many barbed remarks."],
+          "collocations": ["barbed comment", "barbed remark", "barbed wit"],
+          "synonyms": ["cutting", "sarcastic", "biting"],
+          "antonyms": ["kind", "gentle"],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barbedness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being barbed or having sharp points.",
+          "examples": ["The barbedness of the wire made it dangerous.", "Barbedness helps plants defend themselves."],
+          "collocations": ["sharp barbedness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "barbeiro",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a genus of barber fish.",
+          "examples": ["The barbeiro lives in coral reefs.", "Barbeiro fish are colorful."],
+          "collocations": ["barbeiro fish"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "barbel",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a thin, fleshy growth near the mouth of some fish, used for feeling.",
+          "examples": ["The catfish has long barbels.", "Barbel help the fish find food.", "The barbel moved in the current."],
+          "collocations": ["long barbel", "catfish barbel", "whisker barbel"],
+          "synonyms": ["whisker"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "fishing"]
+        }
+      ]
+    },
+    {
+      "term": "barbeled",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having barbels, thin feelers near the mouth.",
+          "examples": ["The barbeled fish swam slowly.", "Barbeled catfish are common."],
+          "collocations": ["barbeled catfish", "barbeled fish"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "barbell",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a long metal bar with weights at both ends, used for weight training.",
+          "examples": ["He lifted the heavy barbell.", "She does barbell exercises daily.", "The gym has many barbells."],
+          "collocations": ["lift barbell", "barbell curls", "barbell squats", "weighted barbell"],
+          "synonyms": ["weight bar"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports", "fitness"]
+        }
+      ]
+    },
+    {
+      "term": "barbellate",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "botany: having short, stiff hairs like small barbs.",
+          "examples": ["The barbellate leaves protect the plant.", "Barbellate seeds stick to fur."],
+          "collocations": ["barbellate hairs", "barbellate leaves"],
+          "synonyms": [],
+          "antonyms": ["smooth"],
+          "register": "formal",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "barbells",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barbell, long bars with weights for exercise.",
+          "examples": ["The gym has many barbells.", "He bought new barbells."],
+          "collocations": ["heavy barbells", "gym barbells"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports", "fitness"]
+        }
+      ]
+    },
+    {
+      "term": "barbellula",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small, barb-like structure in biology.",
+          "examples": ["The barbellula aids in attachment."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "barbellulae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barbellula, small barb-like structures.",
+          "examples": ["Barbellulae cover the surface."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "barbellulate",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having small barb-like structures.",
+          "examples": ["The barbellulate surface grips well."],
+          "collocations": ["barbellulate hairs"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "barbels",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barbel, feelers on fish.",
+          "examples": ["The fish's barbels touched the bottom.", "Long barbels sense food."],
+          "collocations": ["fish barbels", "long barbels"],
+          "synonyms": ["whiskers"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "fishing"]
+        }
+      ]
+    },
+    {
+      "term": "barbeque",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative spelling of barbecue, an outdoor grill meal or the grill itself.",
+          "examples": ["Let's have a barbeque this weekend.", "The barbeque was delicious.", "I need to buy a new barbeque."],
+          "collocations": ["backyard barbeque", "summer barbeque"],
+          "synonyms": ["BBQ", "barbecue", "grill"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "food"]
+        }
+      ]
+    },
+    {
+      "term": "barbequed",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of barbeque, cooked on a grill.",
+          "examples": ["We barbequed ribs last night.", "The meat was barbequed perfectly."],
+          "collocations": ["barbequed chicken", "barbequed ribs"],
+          "synonyms": ["grilled"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "cooked on a barbecue.",
+          "examples": ["Barbequed pork is my favorite.", "Serve the barbequed vegetables hot."],
+          "collocations": ["barbequed meat", "barbequed pork"],
+          "synonyms": ["grilled"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "barbeques",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barbeque, outdoor grill meals or grills.",
+          "examples": ["We attend many barbeques in summer.", "The store sells barbeques."],
+          "collocations": ["summer barbeques", "family barbeques"],
+          "synonyms": ["BBQs"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "food"]
+        }
+      ]
+    },
+    {
+      "term": "barbequing",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of barbeque, cooking on a grill.",
+          "examples": ["They are barbequing now.", "She loves barbequing steak."],
+          "collocations": ["barbequing meat", "barbequing outdoors"],
+          "synonyms": ["grilling"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "barber",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person whose job is to cut hair, usually men's.",
+          "examples": ["I go to the barber every two weeks.", "The barber gave him a nice haircut.", "My barber is very friendly."],
+          "collocations": ["visit barber", "local barber", "barber shop", "good barber"],
+          "synonyms": ["hairdresser", "haircutter"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to cut a man's hair.",
+          "examples": ["The barber barbered him quickly.", "They barbered the boys before the event."],
+          "collocations": ["barbered hair"],
+          "synonyms": ["cut hair"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barbera",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a red wine grape variety from Italy, or wine made from it.",
+          "examples": ["Barbera is a popular Italian wine.", "I ordered a glass of Barbera."],
+          "collocations": ["Barbera wine", "Italian Barbera"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food", "wine"]
+        }
+      ]
+    },
+    {
+      "term": "barbered",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of barber, cut hair.",
+          "examples": ["He was barbered this morning.", "The boys were barbered neatly."],
+          "collocations": ["freshly barbered"],
+          "synonyms": ["trimmed"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barberess",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female barber.",
+          "examples": ["The barberess cut his hair perfectly.", "She is a skilled barberess."],
+          "collocations": ["female barberess"],
+          "synonyms": ["female barber"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    }
+  ]
+}
+```

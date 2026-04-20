@@ -1,0 +1,612 @@
+{
+  "items": [
+    {
+      "term": "scythed",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of scythe, meaning to cut down with a curved blade weapon or tool.",
+          "examples": [
+            "The farmer scythed tall grass along the field edge.",
+            "The mower scythed through the meadow with a swift motion."
+          ],
+          "collocations": [
+            "scythed grass",
+            "scythed down",
+            "scythed rows"
+          ],
+          "synonyms": [
+            "cut down",
+            "mow",
+            "hew"
+          ],
+          "antonyms": [
+            "grow",
+            "leave standing"
+          ],
+          "register": "neutral",
+          "domain": ["general", "everyday", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "scytheless",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without a scythe; not equipped with or using a scythe.",
+          "examples": [
+            "The scytheless garden worker used a trimmer instead.",
+            "In the old field, the scytheless approach was impractical."
+          ],
+          "collocations": [
+            "scytheless implement",
+            "scytheless mode"
+          ],
+          "synonyms": [
+            "unarmed",
+            "unscythed"
+          ],
+          "antonyms": [
+            "scythed",
+            "mowed"
+          ],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "scythelike",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling or having the shape or function of a scythe.",
+          "examples": [
+            "The scythelike blade curved outward.",
+            "A scythelike curve cut through the tall grass."
+          ],
+          "collocations": [
+            "scythelike blade",
+            "scythelike motion"
+          ],
+          "synonyms": [
+            "sickle-shaped",
+            "curved"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "scytheman",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a man who uses a scythe, especially in farming or harvesting.",
+          "examples": [
+            "The scytheman moved along the field at dawn.",
+            "In folklore, the scarecrow is protected by a scytheman."
+          ],
+          "collocations": [
+            "old scytheman",
+            "scytheman with a blade"
+          ],
+          "synonyms": [
+            "sickle worker",
+            "reaper"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "literary", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "scythemen",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scytheman; multiple people who use scythes.",
+          "examples": [
+            "The scythemen gathered to harvest the wheat.",
+            "Two scythemen took turns along the field edge."
+          ],
+          "collocations": [
+            "scythemen harvest",
+            "team of scythemen"
+          ],
+          "synonyms": [
+            "reapers",
+            "scythe workers"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "scyther",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that uses or resembles a scythe; also a collector or user named for a mythic or fictional scythe-wielder.",
+          "examples": [
+            "The mythic scyther roamed the valley.",
+            "In fantasy, a scyther can harvest with stealth."
+          ],
+          "collocations": [
+            "mythic scyther",
+            "scyther figure"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fantasy", "general"]
+        }
+      ]
+    },
+    {
+      "term": "scythers",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scyther; multiple scythers.",
+          "examples": [
+            "The guild of scythers trained daily.",
+            "Two rival scythers faced each other in the arena."
+          ],
+          "collocations": [
+            "guild of scythers",
+            "competition among scythers"
+          ],
+          "synonyms": [
+            "scyther figures",
+            "reapers"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fantasy", "general"]
+        }
+      ]
+    },
+    {
+      "term": "scythes",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "long curved blade with a handle, used for cutting grass or grain.",
+          "examples": [
+            "The farmer sharpened the scythes for harvest.",
+            "Ancient farmers carried scythes to the field."
+          ],
+          "collocations": [
+            "hatched scythes",
+            "sharp scythes",
+            "two scythes"
+          ],
+          "synonyms": [
+            "reaping tool",
+            "curved blade"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "scythesmith",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a maker or smith who crafts scythes.",
+          "examples": [
+            "The scythesmith forged a new blade.",
+            "Ancient scythesmiths kept the steel keen."
+          ],
+          "collocations": [
+            "scythesmith forge",
+            "scythesmith shop"
+          ],
+          "synonyms": [
+            "blade-smith",
+            "currier"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "scythestone",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a stone used to shape or sharpen a scythe blade; historically a whetstone associated with scythes.",
+          "examples": [
+            "The scythestone kept the blade razor-sharp.",
+            "He rubbed the scythestone along the edge."
+          ],
+          "collocations": [
+            "whetstone",
+            "scythestone edge"
+          ],
+          "synonyms": [
+            "whetstone",
+            "stone"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "craft", "general"]
+        }
+      ]
+    },
+    {
+      "term": "scythework",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "work done with a scythe, especially cutting grass or grain.",
+          "examples": [
+            "He documented his scythework in the field notebooks.",
+            "The laborer took pride in his scythework."
+          ],
+          "collocations": [
+            "efficient scythework",
+            "scythework in the meadow"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "scythian",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective / noun",
+          "definition": "relating to the ancient Scythians or their culture; a historic group of nomadic people.",
+          "examples": [
+            "Scythian art features intricate animal motifs.",
+            "A Scythian burial site was excavated nearby."
+          ],
+          "collocations": [
+            "Scythian culture",
+            "Scythian artifacts"
+          ],
+          "synonyms": [
+            "nomadic",
+            "ancient"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "anthropology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "scythic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or resembling scythes; used in literature to evoke cutting or death imagery.",
+          "examples": [
+            "The scythic blade gleamed in the sun.",
+            "A scythic chill ran through the crowd."
+          ],
+          "collocations": [
+            "scythic blade",
+            "scythic imagery"
+          ],
+          "synonyms": [
+            "scythe-like",
+            "curved"
+          ],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "scything",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of scythe; cutting down with a scythe.",
+          "examples": [
+            "She is scything the tall grasses in the field.",
+            "Scything through the meadow, the blades sang."
+          ],
+          "collocations": [
+            "scything through",
+            "scything motion"
+          ],
+          "synonyms": [
+            "mowing",
+            "cutting"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "scythize",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make or use like a scythe; to scythe or reap.",
+          "examples": [
+            "To scythize the field, they moved in synchronized strokes.",
+            "The tool was adapted to scythize dense weeds."
+          ],
+          "collocations": [
+            "scythize the field",
+            "scythize tools"
+          ],
+          "synonyms": [
+            "reap",
+            "mow"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "scytitis",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fictional or rare medical term; no common use in contemporary English.",
+          "examples": [
+            "The text mentions scytitis in a fantasy glossary."
+          ],
+          "collocations": [
+            "scytitis diagnosis"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fantasy", "medical (rare)"]
+        }
+      ]
+    },
+    {
+      "term": "scytoblastema",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an extremely rare or fictional biological term; not in standard modern usage.",
+          "examples": [
+            "The manuscript references scytoblastema as a primitive tissue."
+          ],
+          "collocations": [
+            "scytoblastema tissue"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science fiction", "fantasy"]
+        }
+      ]
+    },
+    {
+      "term": "scytodepsic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term of unclear or fictional origin; not used in standard English.",
+          "examples": [
+            "The glossary lists scytodepsic as a speculative condition."
+          ],
+          "collocations": [
+            "scytodepsic condition"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fiction", "fantasy"]
+        }
+      ]
+    },
+    {
+      "term": "scytonema",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a genus of filamentous cyanobacteria; in biology, a real taxonomic term.",
+          "examples": [
+            "Scytonema species can form tufts in moist soils.",
+            "Researchers studied scytonema in the lab sample."
+          ],
+          "collocations": [
+            "scytonema species",
+            "scytonema culture"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "scytonemataceae",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a family of cyanobacteria that includes the genus Scytonema.",
+          "examples": [
+            "The scytonemataceae were observed under the microscope.",
+            "Taxonomic work placed the organism within scytonemataceae."
+          ],
+          "collocations": [
+            "scytonemataceae family",
+            "scytonemataceae genus"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "scytonemataceous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or resembling scytons or the scytonemataceae family.",
+          "examples": [
+            "The scytonemataceous colonies appeared in the sample."
+          ],
+          "collocations": [
+            "scytonemataceous formations"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "scytonematoid",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling or characteristic of Scytonema organisms; used in biology.",
+          "examples": [
+            "The sample contained scytonematoid filaments."
+          ],
+          "collocations": [
+            "scytonematoid filaments"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "scytonematous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "of or relating to scytonema; forming scytonematous layers.",
+          "examples": [
+            "Scytonematous crusts covered the rock."
+          ],
+          "collocations": [
+            "scytonematous crust",
+            "scytonematous layer"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "scytopetalaceae",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a botanical family name (Scytopetalaceae); taxonomic term.",
+          "examples": [
+            "The plant belongs to the scytopetalaceae family."
+          ],
+          "collocations": [
+            "scytopetalaceae genus"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "scytopetalaceous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to Scytopetalaceae or scytopetals; a botanical descriptor.",
+          "examples": [
+            "The petals showed scytopetalaceous characteristics."
+          ],
+          "collocations": [
+            "scytopetalaceous features"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "science"]
+        }
+      ]
+    }
+  ]
+}

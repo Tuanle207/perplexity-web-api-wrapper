@@ -1,0 +1,254 @@
+```json
+{
+  "items": [
+    {
+      "term": "audiotaped",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "recorded sound on tape or a device",
+          "examples": ["The interview was audiotaped for accuracy."],
+          "collocations": ["audiotaped interview", "audiotaped message", "audiotaped lecture"],
+          "synonyms": ["recorded", "taped"],
+          "antonyms": ["erased"],
+          "register": null,
+          "domain": ["media", "general"]
+        }
+      ]
+    },
+    {
+      "term": "audiotapes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "tapes used to store sound recordings",
+          "examples": ["She found old audiotapes in the drawer."],
+          "collocations": ["old audiotapes", "cassette audiotapes", "play audiotapes"],
+          "synonyms": ["recordings", "tapes"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["media", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "audiotaping",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of recording sound",
+          "examples": ["Audiotaping is allowed during lectures."],
+          "collocations": ["audiotaping process", "audiotaping equipment"],
+          "synonyms": ["recording"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["media"]
+        }
+      ]
+    },
+    {
+      "term": "audiotyping",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "typing text from audio recordings",
+          "examples": ["She works in audiotyping for medical reports."],
+          "collocations": ["audiotyping job", "audiotyping skills"],
+          "synonyms": ["transcription"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "audiotypings",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "instances of typing from audio recordings",
+          "examples": ["The office handles many audiotypings daily."],
+          "collocations": ["multiple audiotypings"],
+          "synonyms": ["transcriptions"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "audiotypist",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who types text from audio recordings",
+          "examples": ["The audiotypist prepared the report."],
+          "collocations": ["skilled audiotypist", "medical audiotypist"],
+          "synonyms": ["transcriber"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "audiotypists",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who type text from audio recordings",
+          "examples": ["Audiotypists are needed in hospitals."],
+          "collocations": ["professional audiotypists"],
+          "synonyms": ["transcribers"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "audiovisual",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to both sound and visual elements",
+          "examples": ["The course uses audiovisual materials."],
+          "collocations": ["audiovisual equipment", "audiovisual presentation"],
+          "synonyms": ["multimedia"],
+          "antonyms": ["audio-only", "visual-only"],
+          "register": null,
+          "domain": ["education", "media"]
+        }
+      ]
+    },
+    {
+      "term": "audiovisually",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that involves both sound and images",
+          "examples": ["The lesson is presented audiovisually."],
+          "collocations": ["present audiovisually"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "audiovisuals",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "materials that use both sound and images",
+          "examples": ["The teacher used audiovisuals in class."],
+          "collocations": ["teaching audiovisuals"],
+          "synonyms": ["media", "multimedia"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "audiphone",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device used to help people hear better",
+          "examples": ["He used an audiphone to improve hearing."],
+          "collocations": ["use an audiphone"],
+          "synonyms": ["hearing aid"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "audiphones",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "devices used to help hearing",
+          "examples": ["Old audiphones were made of metal."],
+          "collocations": ["early audiphones"],
+          "synonyms": ["hearing aids"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "audism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "discrimination against deaf or hard-of-hearing people",
+          "examples": ["Audism affects access to education."],
+          "collocations": ["combat audism"],
+          "synonyms": ["discrimination"],
+          "antonyms": ["inclusion"],
+          "register": null,
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "audit",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an official check of accounts or systems",
+          "examples": ["The company passed the audit."],
+          "collocations": ["financial audit", "internal audit"],
+          "synonyms": ["inspection", "review"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to examine accounts or systems officially",
+          "examples": ["They audit the accounts yearly."],
+          "collocations": ["audit accounts", "audit process"],
+          "synonyms": ["inspect", "review"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    }
+  ]
+}
+```

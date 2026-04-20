@@ -1,0 +1,386 @@
+```json
+{
+  "items": [
+    {
+      "term": "batsmanship",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "skill in playing cricket with a bat",
+          "examples": ["His batsmanship was praised by the coach.", "Fine batsmanship won the match.", "She admired his elegant batsmanship."],
+          "collocations": ["brilliant batsmanship", "solid batsmanship", "defensive batsmanship", "aggressive batsmanship", "sound batsmanship"],
+          "synonyms": ["batting"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "cricket"]
+        }
+      ]
+    },
+    {
+      "term": "batsmanships",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of batsmanship; skills in playing cricket with a bat",
+          "examples": ["The batsmanships of the players varied greatly.", "Comparing batsmanships helps improve technique."],
+          "collocations": ["different batsmanships", "various batsmanships"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "cricket"]
+        }
+      ]
+    },
+    {
+      "term": "batsmen",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of batsman; male cricket player who bats",
+          "examples": ["The batsmen scored 200 runs.", "Both batsmen were out quickly.", "The batsmen defended well."],
+          "collocations": ["opening batsmen", "top-order batsmen", "star batsmen", "struggling batsmen"],
+          "synonyms": ["batters"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "cricket"]
+        }
+      ]
+    },
+    {
+      "term": "batster",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "slang for a skilled cricket batsman",
+          "examples": ["He's a real batster in the team.", "The batster hit sixes everywhere."],
+          "collocations": ["pro batster", "star batster"],
+          "synonyms": ["batsman"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["sports", "cricket"]
+        }
+      ]
+    },
+    {
+      "term": "batswing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a style of swinging the bat in cricket",
+          "examples": ["His batswing was flawless.", "Practice the batswing daily."],
+          "collocations": ["perfect batswing", "smooth batswing"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "cricket"]
+        }
+      ]
+    },
+    {
+      "term": "batswoman",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "female cricket player who bats",
+          "examples": ["The batswoman scored a century.", "She is our best batswoman."],
+          "collocations": ["opening batswoman", "star batswoman"],
+          "synonyms": ["batter"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "cricket"]
+        }
+      ]
+    },
+    {
+      "term": "batswomen",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of batswoman; female cricket players who bat",
+          "examples": ["The batswomen dominated the game.", "All batswomen trained hard."],
+          "collocations": ["top batswomen", "visiting batswomen"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "cricket"]
+        }
+      ]
+    },
+    {
+      "term": "batt",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "piece of matted material used for stuffing or insulation",
+          "examples": ["Place the batt in the wall.", "Fiberglass batt keeps heat in."],
+          "collocations": ["insulation batt", "fiberglass batt", "cotton batt"],
+          "synonyms": ["pad", "mattress"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction", "textiles"]
+        }
+      ]
+    },
+    {
+      "term": "batta",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "extra pay for government workers on special duty (India)",
+          "examples": ["He received batta for the trip.", "Batta covered travel costs."],
+          "collocations": ["field batta", "daily batta"],
+          "synonyms": ["allowance"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "battable",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "battailant",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "ready or eager for battle (archaic)",
+          "examples": ["The battailant army marched forward."],
+          "collocations": ["battailant warriors", "battailant spirit"],
+          "synonyms": ["warlike", "bellicose"],
+          "antonyms": ["peaceful"],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "battailous",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "warlike or ready for battle (archaic)",
+          "examples": ["Battailous knights charged ahead."],
+          "collocations": ["battailous foes"],
+          "synonyms": ["martial"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "battak",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "battakhin",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "battalia",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "large military force or army (archaic)",
+          "examples": ["The king led a great battalia."],
+          "collocations": ["grand battalia", "royal battalia"],
+          "synonyms": ["army", "host"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["military", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "battalias",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of battalia; large armies (archaic)",
+          "examples": ["Clashing battalias filled the field."],
+          "collocations": ["rival battalias"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["military", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "battalion",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "large group of soldiers for battle",
+          "examples": ["The battalion marched to war.", "One battalion guarded the fort.", "The whole battalion trained hard."],
+          "collocations": ["infantry battalion", "first battalion", "elite battalion", "armored battalion", "reserve battalion"],
+          "synonyms": ["unit", "regiment", "squadron"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "battalions",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of battalion; groups of soldiers",
+          "examples": ["Battalions advanced together.", "Several battalions were deployed."],
+          "collocations": ["enemy battalions", "fresh battalions"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "battarism",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "battarismus",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "battas",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of batta; extra pays for special duty (India)",
+          "examples": ["Workers claimed their battas."],
+          "collocations": ["outstanding battas"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "batteau",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "light, flat-bottomed boat used on rivers",
+          "examples": ["They rowed the batteau upstream.", "The batteau carried supplies."],
+          "collocations": ["river batteau", "wooden batteau"],
+          "synonyms": ["canoe", "skiff"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "batteaux",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of batteau; light river boats",
+          "examples": ["Batteaux lined the shore.", "Traders used batteaux for cargo."],
+          "collocations": ["fleet of batteaux"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "batted",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bat; hit the ball with a bat in cricket or baseball",
+          "examples": ["He batted the ball hard.", "She batted for two hours."],
+          "collocations": ["batted confidently", "batted first"],
+          "synonyms": ["struck"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        },
+        {
+          "pos": "verb",
+          "definition": "flapped eyelashes to flirt",
+          "examples": ["She batted her eyes at him.", "He batted his lashes playfully."],
+          "collocations": ["batted eyelashes", "batted eyes"],
+          "synonyms": ["flirted"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "batteilant",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "warring or battle-ready (archaic)",
+          "examples": ["Batteilant forces clashed."],
+          "collocations": ["batteilant troops"],
+          "synonyms": ["belligerent"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    }
+  ]
+}
+```

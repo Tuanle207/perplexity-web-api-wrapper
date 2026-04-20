@@ -1,0 +1,531 @@
+```json
+{
+  "items": [
+    {
+      "term": "backgammons",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person singular of backgammon, to win a game of backgammon by bearing off all one's own pieces before the opponent removes any.",
+          "examples": ["He backgammons his opponent every time they play.", "She backgammons skillfully in tournaments.", "The expert backgammons beginners easily."],
+          "collocations": ["backgammons opponent", "backgammons game", "backgammons pieces", "backgammons board", "backgammons match"],
+          "synonyms": ["doubles up"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["games"]
+        }
+      ]
+    },
+    {
+      "term": "backgeared",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Equipped with back gears, especially in machinery like lathes for lower speeds.",
+          "examples": ["The lathe is backgeared for heavy cutting.", "This machine is backgeared to handle tough materials.", "They installed a backgeared headstock."],
+          "collocations": ["backgeared lathe", "backgeared machine", "backgeared headstock", "backgeared gears", "backgeared tool"],
+          "synonyms": ["geared down"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "background",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The part of a scene behind the main subjects.",
+          "examples": ["The mountains form the background of the photo.", "She painted a blue sky in the background.", "Keep the background simple for the portrait."],
+          "collocations": ["blurred background", "dark background", "busy background", "natural background", "plain background", "change background"],
+          "synonyms": ["backdrop", "setting"],
+          "antonyms": ["foreground"],
+          "register": "null",
+          "domain": ["general", "photography", "art"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A person's education, experience, and family history.",
+          "examples": ["Tell me about your background.", "She has a strong academic background.", "His background is in engineering."],
+          "collocations": ["family background", "educational background", "work background", "cultural background", "professional background", "check background"],
+          "synonyms": ["history", "origin"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general", "business"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Information that explains the context of a situation.",
+          "examples": ["Here's some background on the project.", "The article gives background to the news.", "Provide background before the meeting."],
+          "collocations": ["historical background", "provide background", "background information", "give background", "background details"],
+          "synonyms": ["context"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backgrounded",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of background, to provide background information.",
+          "examples": ["The speaker backgrounded the issue well.", "They backgrounded the topic before discussion.", "The report backgrounded the data thoroughly."],
+          "collocations": ["properly backgrounded", "fully backgrounded", "briefly backgrounded", "carefully backgrounded"],
+          "synonyms": ["contextualized"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "journalism"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Sent to run in the background on a computer.",
+          "examples": ["The app was backgrounded during the call.", "Several processes are backgrounded now.", "It backgrounded smoothly without crashing."],
+          "collocations": ["backgrounded app", "backgrounded process", "backgrounded task", "remains backgrounded"],
+          "synonyms": ["minimized"],
+          "antonyms": ["foregrounded"],
+          "register": "null",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "backgrounder",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A briefing that provides background information, often for journalists.",
+          "examples": ["The press office issued a backgrounder on the policy.", "Attend the backgrounder before the event.", "The backgrounder clarified the company's position."],
+          "collocations": ["press backgrounder", "policy backgrounder", "issue backgrounder", "hold backgrounder", "release backgrounder"],
+          "synonyms": ["briefing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["journalism", "business", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "backgrounders",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of backgrounder, briefings providing background information.",
+          "examples": ["They distributed several backgrounders to reporters.", "The backgrounders helped explain the situation.", "Read all the backgrounders first."],
+          "collocations": ["multiple backgrounders", "press backgrounders", "policy backgrounders"],
+          "synonyms": ["briefings"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["journalism", "business"]
+        }
+      ]
+    },
+    {
+      "term": "backgrounding",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process of providing background information.",
+          "examples": ["The backgrounding was thorough and helpful.", "Good backgrounding sets the context.", "Skip the backgrounding if you know it."],
+          "collocations": ["proper backgrounding", "thorough backgrounding", "initial backgrounding"],
+          "synonyms": ["contextualization"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "journalism"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Running a process in the background on a computer.",
+          "examples": ["Backgrounding saves battery life.", "Enable backgrounding for apps.", "Backgrounding caused high CPU use."],
+          "collocations": ["app backgrounding", "process backgrounding", "enable backgrounding"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "backgrounds",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of background, the parts behind main subjects or people's histories.",
+          "examples": ["Check the backgrounds in all photos.", "People from different backgrounds attended.", "The app offers many backgrounds."],
+          "collocations": ["various backgrounds", "diverse backgrounds", "check backgrounds", "custom backgrounds"],
+          "synonyms": ["backdrops", "histories"],
+          "antonyms": ["foregrounds"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backhand",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A stroke made with the back of the hand facing the direction of the stroke, in racket sports.",
+          "examples": ["His backhand is his strongest shot.", "She hit a perfect backhand down the line.", "Practice your backhand daily."],
+          "collocations": ["strong backhand", "slice backhand", "topspin backhand", "one-handed backhand", "two-handed backhand"],
+          "synonyms": ["reverse stroke"],
+          "antonyms": ["forehand"],
+          "register": "null",
+          "domain": ["sports"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Writing done with the hand turned backwards.",
+          "examples": ["Her backhand is hard to read.", "He has a distinctive backhand.", "The note was in backhand."],
+          "collocations": ["sloping backhand", "italic backhand"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To hit with a backhand stroke.",
+          "examples": ["She backhanded the ball over the net.", "He backhanded his opponent in tennis.", "Backhand the serve carefully."],
+          "collocations": ["backhand volley", "backhand smash", "backhand return"],
+          "synonyms": [],
+          "antonyms": ["forehand"],
+          "register": "null",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "backhanded",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Indirect and not sincere, often a disguised insult.",
+          "examples": ["That was a backhanded compliment.", "His praise sounded backhanded.", "She gave a backhanded apology."],
+          "collocations": ["backhanded compliment", "backhanded insult", "backhanded remark", "backhanded praise"],
+          "synonyms": ["indirect", "sarcastic"],
+          "antonyms": ["direct"],
+          "register": "null",
+          "domain": ["general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Made with the back of the hand.",
+          "examples": ["He threw a backhanded punch.", "It was a backhanded slap.", "The backhanded catch won the game."],
+          "collocations": ["backhanded stroke", "backhanded blow", "backhanded swing"],
+          "synonyms": ["reverse-handed"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports", "general"]
+        }
+      ]
+    },
+    {
+      "term": "backhandedly",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In an indirect or insincere way, like a backhanded compliment.",
+          "examples": ["She praised him backhandedly.", "The remark was said backhandedly.", "He criticized backhandedly."],
+          "collocations": ["compliment backhandedly", "remark backhandedly"],
+          "synonyms": ["indirectly"],
+          "antonyms": ["directly"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backhandedness",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality of being indirect or insincere.",
+          "examples": ["The backhandedness of his comment annoyed her.", "Detect the backhandedness in praise.", "Such backhandedness confuses listeners."],
+          "collocations": ["subtle backhandedness", "obvious backhandedness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backhander",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A blow or stroke with the back of the hand.",
+          "examples": ["He received a backhander from the referee.", "The backhander sent the shuttle flying.", "Avoid the risky backhander."],
+          "collocations": ["sharp backhander", "powerful backhander"],
+          "synonyms": ["backhand blow"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports"]
+        },
+        {
+          "pos": "noun",
+          "definition": "An illegal secret payment or bribe.",
+          "examples": ["Officials took backhanders for contracts.", "The scandal involved backhanders.", "He offered a backhander quietly."],
+          "collocations": ["pay backhander", "accept backhander", "huge backhander"],
+          "synonyms": ["bribe", "kickback"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["business", "law"]
+        }
+      ]
+    },
+    {
+      "term": "backhanders",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of backhander, blows or bribes.",
+          "examples": ["The match had many backhanders.", "Investigators found backhanders everywhere.", "Several backhanders changed hands."],
+          "collocations": ["multiple backhanders", "illegal backhanders"],
+          "synonyms": ["bribes"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports", "business"]
+        }
+      ]
+    },
+    {
+      "term": "backhanding",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of backhand, hitting with the back of the hand.",
+          "examples": ["She is backhanding the ball now.", "He was backhanding during practice.", "Stop backhanding wildly."],
+          "collocations": ["backhanding serve", "backhanding volley"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "backhands",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of backhand, strokes in racket sports.",
+          "examples": ["Improve your backhands.", "Great backhands win points.", "Practice backhands and forehands."],
+          "collocations": ["slice backhands", "two-handed backhands"],
+          "synonyms": [],
+          "antonyms": ["forehands"],
+          "register": "null",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "backhatch",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The rear hatch or door of a vehicle.",
+          "examples": ["Open the backhatch to load gear.", "The backhatch was stuck.", "Check the backhatch seal."],
+          "collocations": ["rear backhatch", "lift backhatch"],
+          "synonyms": ["rear hatch"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["automotive"]
+        }
+      ]
+    },
+    {
+      "term": "backhaul",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The return trip of a vehicle carrying goods after delivering a load.",
+          "examples": ["Fill the truck for the backhaul.", "Backhaul rates are low.", "They specialize in backhaul services."],
+          "collocations": ["empty backhaul", "backhaul route", "backhaul freight"],
+          "synonyms": ["return load"],
+          "antonyms": ["forward haul"],
+          "register": "null",
+          "domain": ["transport", "logistics"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Transmission of data from a remote site back to a central location.",
+          "examples": ["The network needs better backhaul.", "Upgrade the fiber backhaul.", "Wireless backhaul connects towers."],
+          "collocations": ["fiber backhaul", "microwave backhaul", "backhaul bandwidth"],
+          "synonyms": ["uplink"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "telecom"]
+        }
+      ]
+    },
+    {
+      "term": "backhauled",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of backhaul, transported on a return trip.",
+          "examples": ["Goods were backhauled to the city.", "The truck backhauled produce.", "Data was backhauled overnight."],
+          "collocations": ["backhauled goods", "backhauled freight"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["transport", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "backhauling",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The activity of transporting goods on return trips.",
+          "examples": ["Backhauling reduces empty miles.", "They profit from backhauling.", "Improve backhauling efficiency."],
+          "collocations": ["efficient backhauling", "cross-border backhauling"],
+          "synonyms": ["return hauling"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["transport"]
+        }
+      ]
+    },
+    {
+      "term": "backhauls",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of backhaul, return trips or data links.",
+          "examples": ["Negotiate better backhauls.", "Multiple backhauls daily.", "Fiber backhauls connect sites."],
+          "collocations": ["daily backhauls", "long-distance backhauls"],
+          "synonyms": ["return hauls"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["transport", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "backheel",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A kick or pass made with the heel, often in soccer.",
+          "examples": ["What a clever backheel goal!", "He scored with a backheel.", "Practice the backheel flick."],
+          "collocations": ["brilliant backheel", "backheel pass", "backheel goal"],
+          "synonyms": ["heel pass"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To kick or pass with the heel.",
+          "examples": ["She backheeled the ball to her teammate.", "He backheeled it into the net.", "Backheel the ball quickly."],
+          "collocations": ["backheel pass", "backheel shot"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "backhoe",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A machine with a digging arm at the back, used in construction.",
+          "examples": ["The backhoe dug the foundation.", "Operate the backhoe carefully.", "Rent a backhoe for the job."],
+          "collocations": ["dig with backhoe", "backhoe operator", "heavy backhoe", "excavator backhoe"],
+          "synonyms": ["digger", "excavator"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["construction", "machinery"]
+        }
+      ]
+    },
+    {
+      "term": "backhoed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of backhoe, dug with a backhoe.",
+          "examples": ["They backhoed the trench yesterday.", "The site was backhoed quickly.", "Workers backhoed deep holes."],
+          "collocations": ["backhoed trench", "backhoed foundation"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "backhoeing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of backhoe, digging with a backhoe.",
+          "examples": ["They are backhoeing the new road.", "Backhoeing continues all day.", "Stop backhoeing near the pipes."],
+          "collocations": ["backhoeing ditch", "backhoeing site"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["construction"]
+        }
+      ]
+    }
+  ]
+}
+```

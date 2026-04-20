@@ -1,0 +1,818 @@
+{
+  "items": [
+    {
+      "term": "sanitariums",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "plural noun",
+          "definition": "plural of sanitarium, a medical facility for long-term illness where patients are treated in a comfortable environment",
+          "examples": [
+            "Several sanitariaums were located near the hillside.",
+            "The old town had abandoned several sanitariums after modern hospitals opened."
+          ],
+          "collocations": [
+            "old sanitarium",
+            "abandoned sanitarium",
+            "health sanitarium",
+            "mental health sanitarium"
+          ],
+          "synonyms": ["sanatorium", "asylum (historic)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "medicine", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sanitary",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to cleanliness and the prevention of disease",
+          "examples": [
+            "Clean surfaces help keep the kitchen sanitary.",
+            "They installed sanitary facilities in the campsite."
+          ],
+          "collocations": [
+            "sanitary conditions",
+            "sanitary measures",
+            "sanitary napkins",
+            "sanitary sewer"
+          ],
+          "synonyms": ["hygienic", "cleanly"],
+          "antonyms": ["unclean", "unsanitary"],
+          "register": "formal",
+          "domain": ["general", "medicine", "technology"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a sanitary product or facility",
+          "examples": [
+            "The clinic provided sanitary towels.",
+            "Public restrooms must have proper sanitary facilities."
+          ],
+          "collocations": [
+            "sanitary towel",
+            "sanitary pad",
+            "sanitary facility"
+          ],
+          "synonyms": ["hygienic product"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "health", "consumer"]
+        }
+      ]
+    },
+    {
+      "term": "sanitate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something clean or hygienic; to cleanse or disinfect",
+          "examples": [
+            "They attempted to sanitate the abandoned warehouse.",
+            "Efforts were made to sanitate the water supply."
+          ],
+          "collocations": [
+            "sanitate surfaces",
+            "sanitate water",
+            "sanitate the area"
+          ],
+          "synonyms": ["sanitize", "disinfect"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": "sanitated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb (past participle)",
+          "definition": "having been cleaned or disinfected",
+          "examples": [
+            "The sanitated equipment was ready for use.",
+            "They sanitated the room after the incident."
+          ],
+          "collocations": [
+            "sanitated equipment",
+            "well sanitated"
+          ],
+          "synonyms": ["disinfected", "cleaned"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": "sanitates",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of sanitate; cleanses or disinfects",
+          "examples": [
+            "The process sanitates the water before distribution.",
+            "It sanitates surfaces to prevent infection."
+          ],
+          "collocations": [
+            "sanitates water",
+            "sanitates surfaces"
+          ],
+          "synonyms": ["sanitizes", "disinfects"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": "sanitating",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb (present participle)",
+          "definition": "the act of making something clean or hygienic; disinfecting",
+          "examples": [
+            "They are sanitating the facilities to reduce illness.",
+            "Sanitating the kitchen is essential after cooking fish."
+          ],
+          "collocations": [
+            "sanitating surfaces",
+            "sanitating the area"
+          ],
+          "synonyms": ["sanitizing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": "sanitation",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the systems and services for keeping places clean and free from dirt and disease",
+          "examples": [
+            "The city invested in better sanitation to improve health.",
+            "Access to sanitation is a basic human right."
+          ],
+          "collocations": [
+            "public sanitation",
+            "sanitation system",
+            "sanitation services",
+            "adequate sanitation"
+          ],
+          "synonyms": ["hygiene", "cleanliness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": "sanitationist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who works in sanitation; a sanitation worker",
+          "examples": [
+            "Sanitationists collect and treat waste daily.",
+            "The sanitationist spoke about safe waste practices."
+          ],
+          "collocations": [
+            "sanitationist crew",
+            "sanitationist worker"
+          ],
+          "synonyms": ["sanitation worker", "garbage collector"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "employment", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": "sanitationists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sanitationist",
+          "examples": [
+            "Sanitationists helped keep the city clean during the festival.",
+            "The union represents sanitationists across the region."
+          ],
+          "collocations": [
+            "sanitationists union",
+            "sanitationists program"
+          ],
+          "synonyms": ["sanitation workers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "employment", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": "sanitations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sanitation; systems or instances of keeping places clean",
+          "examples": [
+            "The city upgraded its sanitations to reduce disease.",
+            "Poor sanitations are a health risk."
+          ],
+          "collocations": [
+            "industrial sanitations",
+            "household sanitations"
+          ],
+          "synonyms": ["sanitation systems"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": "sanities",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "normal mental state; sanity; soundness of mind",
+          "examples": [
+            "He questioned his sanities after the strange events.",
+            "The doctor tested the patient's sanities during the exam."
+          ],
+          "collocations": [
+            "loss of sanities",
+            "mental sanities",
+            "preserve sanities"
+          ],
+          "synonyms": ["sanity", "soundness"],
+          "antonyms": ["insanity", "madness"],
+          "register": "neutral",
+          "domain": ["general", "psychiatry"]
+        }
+      ]
+    },
+    {
+      "term": " sanitisation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative spelling of sanitisation; the process of making something sanitary",
+          "examples": [
+            "The sanitisation of the water supply was completed.",
+            "There were debates about the sanitisation standards."
+          ],
+          "collocations": [
+            "industrial sanitisation",
+            "food sanitisation"
+          ],
+          "synonyms": ["sanitisation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitisations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sanitisation; processes of making sanitary",
+          "examples": [
+            "Different countries have varying sanitisations standards.",
+            "The report compares several sanitisations approaches."
+          ],
+          "collocations": [
+            "industrial sanitisations",
+            "food sanitisations"
+          ],
+          "synonyms": ["sanitisation processes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitise",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make clean or hygienic; to disinfect",
+          "examples": [
+            "Please sanitise the kitchen after cooking.",
+            "They sanitise hospital rooms between patients."
+          ],
+          "collocations": [
+            "sanitise surfaces",
+            "sanitise hands",
+            "sanitise equipment"
+          ],
+          "synonyms": ["sanitize", "disinfect"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitised",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb (past participle)",
+          "definition": "made clean or hygienic; disinfected",
+          "examples": [
+            "The room was sanitised after the outbreak.",
+            "All equipment is sanitised before use."
+          ],
+          "collocations": [
+            "sanitised room",
+            "sanitised equipment"
+          ],
+          "synonyms": ["disinfected", "cleaned"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitiser",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance that sanitises, especially a liquid used to disinfect hands or surfaces",
+          "examples": [
+            "Alcohol-based sanitiser kills many germs.",
+            "Keep sanitiser away from heat."
+          ],
+          "collocations": [
+            "hand sanitiser",
+            "gel sanitiser",
+            "surface sanitiser"
+          ],
+          "synonyms": ["sanitizing agent", "disinfectant"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitisers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sanitiser",
+          "examples": [
+            "The shop sold several brands of sanitisers.",
+            "They distributed sanitisers to local clinics."
+          ],
+          "collocations": [
+            "hand sanitisers",
+            "alcohol-based sanitisers"
+          ],
+          "synonyms": ["sanitisers", "disinfectants"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of sanitise; disinfects",
+          "examples": [
+            "The clinic sanitises every surface daily.",
+            "They sanitise products to ensure safety."
+          ],
+          "collocations": [
+            "sanitises hands",
+            "sanitises surfaces",
+            "sanitises equipment"
+          ],
+          "synonyms": ["disinfects", "cleans"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitising",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb (present participle)",
+          "definition": "the act of making clean or hygienic; disinfecting",
+          "examples": [
+            "They are sanitising the hospital rooms this week.",
+            "Sanitising is an important step in food safety."
+          ],
+          "collocations": [
+            "sanitising surfaces",
+            "sanitising equipment"
+          ],
+          "synonyms": ["sanitizing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who believes in or advocates sanitation; not common",
+          "examples": [
+            "The pamphlet was written by a sanitist.",
+            "Sanist groups promoted clean living practices."
+          ],
+          "collocations": [
+            "sanist movement"
+          ],
+          "synonyms": ["sanitationist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitization",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of making something clean or free from germs",
+          "examples": [
+            "The sanitization of drinking water reduced illness.",
+            "Food safety requires proper sanitization."
+          ],
+          "collocations": [
+            "water sanitization",
+            "food sanitization",
+            "industrial sanitization"
+          ],
+          "synonyms": ["sanitization", "disinfection"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitizations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sanitization; processes of making something clean",
+          "examples": [
+            "Different methods of sanitizations exist.",
+            "Regulations govern food sanitizations."
+          ],
+          "collocations": [
+            "industrial sanitizations",
+            "household sanitizations"
+          ],
+          "synonyms": ["sanitizations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitize",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something clean or hygienic; to disinfect",
+          "examples": [
+            "Please sanitize the surface before you eat.",
+            "They sanitize the tools after use."
+          ],
+          "collocations": [
+            "sanitize the area",
+            "sanitize the hands",
+            "sanitize equipment"
+          ],
+          "synonyms": ["disinfect", "clean"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb (past participle)",
+          "definition": "made clean or hygienic; disinfected",
+          "examples": [
+            "The surface was sanitized before use.",
+            "They sanitized the equipment."
+          ],
+          "collocations": [
+            "sanitized surface",
+            "sanitized equipment"
+          ],
+          "synonyms": ["disinfected", "cleaned"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitizer",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance used to sanitize, especially a liquid for hands or surfaces",
+          "examples": [
+            "Hand sanitizer helps prevent the spread of germs.",
+            "Alcohol-based sanitizer is effective against many bacteria."
+          ],
+          "collocations": [
+            "hand sanitizer",
+            "surface sanitizer",
+            "gel sanitizer"
+          ],
+          "synonyms": ["disinfectant", "sanitizing agent"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitizers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sanitizer; substances used to sanitize",
+          "examples": [
+            "Several sanitizers are available at the store.",
+            "They tested different sanitizers for effectiveness."
+          ],
+          "collocations": [
+            "hand sanitizers",
+            "kitchen sanitizers"
+          ],
+          "synonyms": ["disinfectants"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of sanitize; disinfects",
+          "examples": [
+            "The company sanitises products to ensure safety.",
+            "They sanitise the shop each morning."
+          ],
+          "collocations": [
+            "sanitises surfaces",
+            "sanitises hands"
+          ],
+          "synonyms": ["disinfects", "cleans"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitising",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb (present participle)",
+          "definition": "the act of making something clean or hygienic; disinfecting",
+          "examples": [
+            "They are sanitising the labels on bottles.",
+            "Sanitising is important in food preparation."
+          ],
+          "collocations": [
+            "sanitising surfaces",
+            "sanitising equipment"
+          ],
+          "synonyms": ["sanitizing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who advocates sanitation; a sanitation advocate",
+          "examples": [
+            "The sanitist argued for better street cleaning.",
+            "Sanist groups promoted hygiene education."
+          ],
+          "collocations": [
+            "sanist advocate",
+            "sanist movement"
+          ],
+          "synonyms": ["sanitationist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitization",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of making something clean and free from germs",
+          "examples": [
+            "Food sanitization reduces the risk of illness.",
+            "Air sanitization can improve indoor air quality."
+          ],
+          "collocations": [
+            "water sanitization",
+            "air sanitization",
+            "industrial sanitization"
+          ],
+          "synonyms": ["sanitization", "disinfection"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitizations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sanitization; processes of making something clean",
+          "examples": [
+            "Different sanitizations are used in food processing.",
+            "Standards cover multiple sanitizations methods."
+          ],
+          "collocations": [
+            "industrial sanitizations",
+            "household sanitizations"
+          ],
+          "synonyms": ["sanitizations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitize",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make clean or hygienic; to disinfect",
+          "examples": [
+            "Please sanitize the cutting board after cutting raw meat.",
+            "They sanitize the water before drinking."
+          ],
+          "collocations": [
+            "sanitize surfaces",
+            "sanitize water",
+            "sanitize tools"
+          ],
+          "synonyms": ["disinfect", "clean"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb (past participle)",
+          "definition": "made clean or hygienic; disinfected",
+          "examples": [
+            "The kitchen was sanitized after the meal.",
+            "All utensils were sanitized before use."
+          ],
+          "collocations": [
+            "sanitized utensils",
+            "sanitized surface"
+          ],
+          "synonyms": ["disinfected", "cleaned"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": " sanitizer",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "substance used to sanitize; a cleaning product",
+          "examples": [
+            "Alcohol-based sanitizer kills germs on hands.",
+            "Carry a sanitizer when you travel."
+          ],
+          "collocations": [
+            "hand sanitizer",
+            "surface sanitizer"
+          ],
+          "synonyms": ["disinfectant", "sanitizing product"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "health"]
+        }
+      ]
+    }
+  ]
+}

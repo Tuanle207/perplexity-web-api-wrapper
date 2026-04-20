@@ -1,0 +1,580 @@
+{
+  "items": [
+    {
+      "term": "scientific",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to science or the methods used in science",
+          "examples": [
+            "a scientific paper",
+            "scientific research methods",
+            "scientific reasoning"
+          ],
+          "collocations": [
+            "scientific evidence",
+            "scientific study",
+            "scientific theory",
+            "scientific method",
+            "scientific community"
+          ],
+          "synonyms": [
+            "empirical",
+            "academic",
+            "research-based"
+          ],
+          "antonyms": [
+            "unscientific"
+          ],
+          "register": "formal",
+          "domain": ["general", "science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scientifical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "an obsolete or rarely used variant meaning scientific; not common in modern English",
+          "examples": [
+            "scientifical inquiries (archaic usage)"
+          ],
+          "collocations": [
+            "scientifical inquiry"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "scientifically",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that relates to science or to the scientific method",
+          "examples": [
+            "The experiment was conducted scientifically.",
+            "We must test this hypothesis scientifically."
+          ],
+          "collocations": [
+            "operate scientifically",
+            "approach scientifically",
+            "design scientifically",
+            "prove scientifically",
+            "develop scientifically"
+          ],
+          "synonyms": [
+            "methodically",
+            "systematically"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "scientificalness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being scientific or scientifically rigorous",
+          "examples": [
+            "The scientist questioned the scientificness of the claim."
+          ],
+          "collocations": [
+            "historical scientificness",
+            "the scientificness of data"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "scientificities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the qualities or features characteristic of science; scientific aspects",
+          "examples": [
+            "The book discusses the scientificities of climate research."
+          ],
+          "collocations": [
+            "logical scientificities",
+            "observational scientificities"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "scientificity",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being scientific; adherence to scientific principles",
+          "examples": [
+            "The scientificity of the study is evident from its controls."
+          ],
+          "collocations": [
+            "degree of scientificity",
+            "measure of scientificity"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "scientificogeographical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to both science and geography; involving scientific study of geographic phenomena",
+          "examples": [
+            "scientificogeographical data mapping"
+          ],
+          "collocations": [
+            "scientificogeographical analysis",
+            "scientificogeographical survey"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "scientificohistorical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "combining science and history; using scientific methods to study history",
+          "examples": [
+            "scientificohistorical research describes past events with data."
+          ],
+          "collocations": [
+            "scientificohistorical analysis"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "history"]
+        }
+      ]
+    },
+    {
+      "term": "scientificophilosophical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to both science and philosophy; exploring scientific theories philosophically",
+          "examples": [
+            "a scientificophilosophical debate about knowledge"
+          ],
+          "collocations": [
+            "scientificophilosophical discussion"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "scientificopoetic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "merging scientific ideas with poetic expression; describing science in a poetic way",
+          "examples": [
+            "a scientificopoetic description of the cosmos"
+          ],
+          "collocations": [
+            "scientificopoetic imagery"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["science", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "scientificoreligious",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "combining science and religion; examining science and faith together",
+          "examples": [
+            "scientificoreligious questions about creation"
+          ],
+          "collocations": [
+            "scientificoreligious dialogue"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "scientificoromantic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "linking scientific thinking with romantic ideals or aesthetics",
+          "examples": [
+            "a scientificoromantic interpretation of the universe"
+          ],
+          "collocations": [
+            "scientificoromantic perspective"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "scientintically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "incorrect/erroneous spelling of scientifically; not standard",
+          "examples": [
+            "This was done scientintically by mistake."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "scientise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something scientific or to study it scientifically",
+          "examples": [
+            "They aim to scientise medical data.",
+            "We should scientise the approach to climate risk."
+          ],
+          "collocations": [
+            "scientise data",
+            "scientise research"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "research"]
+        }
+      ]
+    },
+    {
+      "term": "scientised",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of scientise; made scientific",
+          "examples": [
+            "The method was scientised to improve accuracy."
+          ],
+          "collocations": [
+            "scientised method"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "research"]
+        }
+      ]
+    },
+    {
+      "term": "scientises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of scientise",
+          "examples": [
+            "The researcher scientises complex data sets."
+          ],
+          "collocations": [
+            "scientises data",
+            "scientises information"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "research"]
+        }
+      ]
+    },
+    {
+      "term": "scientising",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of scientise; making something scientific",
+          "examples": [
+            "They are scientising their approach to assessment."
+          ],
+          "collocations": [
+            "scientising methodology"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scientism",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the belief that science is the ultimate path to knowledge and that science can explain everything",
+          "examples": [
+            "Some critics argue that scientism limits human experience.",
+            "He warned against scientism in philosophy."
+          ],
+          "collocations": [
+            "scientism belief",
+            "challenge scientism"
+          ],
+          "synonyms": [
+            "scientific arrogance",
+            "scientificism"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scientisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scientism; multiple beliefs that science is the only reliable path to knowledge",
+          "examples": [
+            "Debates over scientisms appear in science and humanities."
+          ],
+          "collocations": [
+            "criticisms of scientisms"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scientist",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who studies or works in science; a researcher",
+          "examples": [
+            "She is a scientist who studies climate change.",
+            "The scientist conducted an experiment."
+          ],
+          "collocations": [
+            "brilliant scientist",
+            "young scientist",
+            "lead scientist",
+            "virologist scientist"
+          ],
+          "synonyms": [
+            "researcher",
+            "scientific researcher"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "education", "professional"]
+        }
+      ]
+    },
+    {
+      "term": "scientistic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or characteristic of scientism; overly confident in science",
+          "examples": [
+            "Some critics call his approach scientistic."
+          ],
+          "collocations": [
+            "scientistic view",
+            "scientistic attitude"
+          ],
+          "synonyms": [
+            "scientism-related",
+            "scientific arrogance"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scientifically",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "see entry for scientifically; same sense",
+          "examples": [
+            "The data were collected scientifically."
+          ],
+          "collocations": [
+            "test scientifically",
+            "prove scientifically"
+          ],
+          "synonyms": [
+            "methodically",
+            "systematically"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scientists",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scientist; multiple people who study or work in science",
+          "examples": [
+            "Many scientists contributed to the project.",
+            "The scientists published their findings."
+          ],
+          "collocations": [
+            "leading scientists",
+            "group of scientists",
+            "scientists and engineers"
+          ],
+          "synonyms": [
+            "researchers"
+          ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "education", "professional"]
+        }
+      ]
+    },
+    {
+      "term": "scientize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something scientific or to study it scientifically",
+          "examples": [
+            "They aim to scientize education policy."
+          ],
+          "collocations": [
+            "scientize education",
+            "scientize policy"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "scientized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past participle of scientize; made scientific",
+          "examples": [
+            "The approach was scientized to improve reliability."
+          ],
+          "collocations": [
+            "scientized approach"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "policy"]
+        }
+      ]
+    }
+  ]
+}

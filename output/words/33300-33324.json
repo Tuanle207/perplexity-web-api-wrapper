@@ -1,0 +1,461 @@
+```json
+{
+  "items": [
+    {
+      "term": "barms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barm, the frothy top of fermenting beer or liquor.",
+          "examples": ["The barms rose high during brewing.", "Yeast collects in the barms."],
+          "collocations": ["yeast barms", "fermenting barms", "beer barms"],
+          "synonyms": ["yeast", "froth"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food", "brewing"]
+        }
+      ]
+    },
+    {
+      "term": "barmskin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a thin skin or film formed on fermenting liquids.",
+          "examples": ["The barmskin covered the ale.", "Remove the barmskin before bottling."],
+          "collocations": ["fermenting barmskin", "yeast barmskin"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["brewing"]
+        }
+      ]
+    },
+    {
+      "term": "barmy",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "crazy or silly.",
+          "examples": ["That's a barmy idea!", "He's gone completely barmy."],
+          "collocations": ["barmy idea", "completely barmy", "go barmy", "bit barmy"],
+          "synonyms": ["crazy", "mad", "insane", "daft"],
+          "antonyms": ["sane", "sensible"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barmybrained",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a foolish or crazy mind.",
+          "examples": ["What a barmybrained fool he is."],
+          "collocations": ["barmybrained fool"],
+          "synonyms": ["foolish", "crazy"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barn",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large building on a farm for storing grain or keeping animals.",
+          "examples": ["The barn is full of hay.", "Cows sleep in the barn."],
+          "collocations": ["barn door", "red barn", "farm barn", "hay barn"],
+          "synonyms": ["shed", "stable"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["farming", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barnabas",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a male given name, also a biblical apostle.",
+          "examples": ["Barnabas joined Paul on his journeys.", "My uncle is named Barnabas."],
+          "collocations": ["Saint Barnabas"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion", "names"]
+        }
+      ]
+    },
+    {
+      "term": "barnabite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of a Roman Catholic order named after Saint Barnabas.",
+          "examples": ["The barnabite preached in the village."],
+          "collocations": ["Barnabite order", "Barnabite monk"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "barnaby",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a male given name.",
+          "examples": ["Barnaby Rudge is a Dickens character.", "Barnaby lives next door."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["names"]
+        }
+      ]
+    },
+    {
+      "term": "barnacle",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small shellfish that sticks tightly to rocks and ship bottoms.",
+          "examples": ["Barnacles covered the boat's hull.", "The rock was full of barnacles."],
+          "collocations": ["barnacle goose", "ship barnacles", "rock barnacles"],
+          "synonyms": ["shellfish"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nature", "marine"]
+        }
+      ]
+    },
+    {
+      "term": "barnacled",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "covered with barnacles.",
+          "examples": ["The old ship was barnacled.", "Barnacled rocks lined the shore."],
+          "collocations": ["barnacled hull", "barnacled rocks"],
+          "synonyms": ["encrusted"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["marine"]
+        }
+      ]
+    },
+    {
+      "term": "barnacles",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barnacle.",
+          "examples": ["Scrape off the barnacles.", "Barnacles clung to the pier."],
+          "collocations": ["sea barnacles", "remove barnacles"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["marine"]
+        },
+        {
+          "pos": "noun",
+          "definition": "slang for spectacles (British informal).",
+          "examples": ["Put on your barnacles to read."],
+          "collocations": ["wear barnacles"],
+          "synonyms": ["glasses", "specs"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["informal"]
+        }
+      ]
+    },
+    {
+      "term": "barnacling",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the action of forming or attaching barnacles.",
+          "examples": ["Barnacling damaged the ship's speed."],
+          "collocations": ["hull barnacling"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["marine"]
+        }
+      ]
+    },
+    {
+      "term": "barnage",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a collective group of barns.",
+          "examples": ["The barnage housed all the grain."],
+          "collocations": ["farm barnage"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["farming"]
+        }
+      ]
+    },
+    {
+      "term": "barnard",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a male surname or given name.",
+          "examples": ["Christiaan Barnard was a famous surgeon.", "Mr. Barnard owns the farm."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["names"]
+        }
+      ]
+    },
+    {
+      "term": "barnbrack",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an Irish fruit bread with dried fruit and sometimes coins.",
+          "examples": ["We ate barnbrack at Halloween.", "Bake a barnbrack for tea."],
+          "collocations": ["Irish barnbrack", "fruit barnbrack"],
+          "synonyms": ["barmbrack"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "barnbracks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barnbrack.",
+          "examples": ["She made several barnbracks."],
+          "collocations": ["fresh barnbracks"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "barnburner",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an exciting event or game.",
+          "examples": ["That match was a real barnburner!", "The debate was a barnburner."],
+          "collocations": ["real barnburner", "exciting barnburner"],
+          "synonyms": ["thriller"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a fire that destroys a barn.",
+          "examples": ["The barnburner spread quickly."],
+          "collocations": ["devastating barnburner"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["farming"]
+        }
+      ]
+    },
+    {
+      "term": "barndoor",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the large door of a barn.",
+          "examples": ["Shut the barndoor before the cows escape.", "The barndoor creaked open."],
+          "collocations": ["open barndoor", "barndoor skate"],
+          "synonyms": ["barn door"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["farming"]
+        }
+      ]
+    },
+    {
+      "term": "barned",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of barn, to store in a barn.",
+          "examples": ["They barned the hay early."],
+          "collocations": ["hay barned"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["farming"]
+        }
+      ]
+    },
+    {
+      "term": "barnet",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "hair (Cockney rhyming slang: Barnet Fair).",
+          "examples": ["Get your barnet cut.", "Nice barnet, mate!"],
+          "collocations": ["nice barnet", "dye barnet"],
+          "synonyms": ["hair", "locks"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["informal"]
+        }
+      ]
+    },
+    {
+      "term": "barnets",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barnet, meaning hair.",
+          "examples": ["Check out their barnets!"],
+          "collocations": ["wild barnets"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["informal"]
+        }
+      ]
+    },
+    {
+      "term": "barney",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a loud argument or fight (British informal).",
+          "examples": ["They had a right barney.", "Stop having a barney!"],
+          "collocations": ["have a barney", "big barney", "family barney"],
+          "synonyms": ["argument", "row", "fight"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "proper_noun",
+          "definition": "a male name, e.g., Barney the dinosaur.",
+          "examples": ["Barney is purple and friendly."],
+          "collocations": ["Barney Rubble"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["names"]
+        }
+      ]
+    },
+    {
+      "term": "barneyed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of barney, to argue loudly.",
+          "examples": ["They barneyed all night."],
+          "collocations": ["barneyed loudly"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barneying",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of barney, arguing noisily.",
+          "examples": ["They're barneying in the kitchen."],
+          "collocations": ["keep barneying"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barneys",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barney, arguments.",
+          "examples": ["No more barneys today."],
+          "collocations": ["daily barneys"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    }
+  ]
+}
+```

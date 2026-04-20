@@ -1,0 +1,330 @@
+```json
+{
+  "items": [
+    {
+      "term": "balladwise",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "ballahoo",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "ballahou",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "ballam",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "ballan",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of wrasse fish found in coastal waters.",
+          "examples": ["The ballan is a large, colorful fish.", "Fishermen often catch ballan near rocky shores."],
+          "collocations": ["ballan wrasse", "catch ballan", "ballan fish"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["marine biology", "fishing"]
+        }
+      ]
+    },
+    {
+      "term": "ballans",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "ballant",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "ballanted",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "ballanting",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "ballants",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "ballanwrasse",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large edible wrasse fish living in rocky coastal areas.",
+          "examples": ["The ballanwrasse hides in crevices.", "Divers spotted a ballanwrasse while exploring."],
+          "collocations": ["ballanwrasse fish", "catch ballanwrasse", "rocky habitat ballanwrasse"],
+          "synonyms": ["ballan wrasse"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["marine biology", "fishing"]
+        }
+      ]
+    },
+    {
+      "term": "ballanwrasses",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of ballanwrasse; multiple large edible wrasse fish.",
+          "examples": ["Ballanwrasses are common in UK waters.", "The catch included several ballanwrasses."],
+          "collocations": ["school of ballanwrasses", "various ballanwrasses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["marine biology", "fishing"]
+        }
+      ]
+    },
+    {
+      "term": "ballarag",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to bully or scold someone in a loud, aggressive way.",
+          "examples": ["He would ballarag the workers daily.", "Don't ballarag the children like that."],
+          "collocations": ["ballarag someone", "ballarag workers", "loudly ballarag"],
+          "synonyms": ["bully", "scold", "berate"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "ballard",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a surname or place name.",
+          "examples": ["J.G. Ballard wrote science fiction.", "She lives in Ballard, Seattle."],
+          "collocations": ["J.G. Ballard", "Ballard neighborhood"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "ballas",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a spherical cluster of small diamonds used in industry.",
+          "examples": ["Ballas is valued for its strength.", "They processed ballas for tools."],
+          "collocations": ["industrial ballas", "diamond ballas"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "mining"]
+        }
+      ]
+    },
+    {
+      "term": "ballast",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "heavy material carried in a ship to keep it stable.",
+          "examples": ["The ship took on ballast.", "Ballast helps during rough seas."],
+          "collocations": ["ship ballast", "take ballast", "heavy ballast"],
+          "synonyms": ["weight", "stabilizer"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical", "shipping"]
+        },
+        {
+          "pos": "noun",
+          "definition": "gravel or crushed rock used to support railway tracks.",
+          "examples": ["The tracks need fresh ballast.", "Ballast prevents the rails from shifting."],
+          "collocations": ["railway ballast", "track ballast", "gravel ballast"],
+          "synonyms": ["gravel", "aggregate"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["engineering", "railways"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to give a ship stability by loading it with heavy material.",
+          "examples": ["They ballasted the vessel before sailing.", "Ballast the boat for safety."],
+          "collocations": ["ballast ship", "properly ballasted"],
+          "synonyms": ["stabilize", "load"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "ballastage",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a toll or duty charged for taking on or off ballast.",
+          "examples": ["The port charged ballastage.", "Pay the ballastage fee now."],
+          "collocations": ["port ballastage", "ballastage fee", "charge ballastage"],
+          "synonyms": ["toll", "duty"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["nautical", "law"]
+        }
+      ]
+    },
+    {
+      "term": "ballasted",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "loaded with heavy material to provide stability.",
+          "examples": ["The ballasted ship sailed steadily.", "Use ballasted foundations for the structure."],
+          "collocations": ["ballasted ship", "ballasted track", "properly ballasted"],
+          "synonyms": ["stabilized", "weighted"],
+          "antonyms": ["unballasted"],
+          "register": null,
+          "domain": ["nautical", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "ballaster",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or device that loads ballast onto a ship.",
+          "examples": ["The ballaster prepared the cargo.", "Hire a skilled ballaster."],
+          "collocations": ["ship ballaster", "hire ballaster"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "ballasters",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of ballaster; workers who load ballast.",
+          "examples": ["The ballasters worked quickly.", "Several ballasters were needed."],
+          "collocations": ["team of ballasters", "dock ballasters"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "ballastic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "ballasting",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of loading heavy material for stability.",
+          "examples": ["Ballasting takes time.", "Check the ballasting process."],
+          "collocations": ["ship ballasting", "railway ballasting"],
+          "synonyms": ["stabilizing", "loading"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "ballasts",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of ballast; heavy materials for stability.",
+          "examples": ["The ballasts were unloaded.", "Multiple ballasts secure the ship."],
+          "collocations": ["ship ballasts", "railway ballasts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "ballat",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "ballata",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an Italian poetic and musical form similar to a ballad.",
+          "examples": ["The poet wrote a ballata.", "Listen to this medieval ballata."],
+          "collocations": ["Italian ballata", "medieval ballata"],
+          "synonyms": ["ballad"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music", "literature"]
+        }
+      ]
+    }
+  ]
+}
+```

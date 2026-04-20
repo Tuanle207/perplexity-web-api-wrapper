@@ -1,0 +1,539 @@
+{
+  "items": [
+    {
+      "term": "nonrelevant",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not related to the subject being considered; not important to the current matter.",
+          "examples": [
+            "The comment about weather was nonrelevant to our discussion on finance.",
+            "She raised a nonrelevant point during the meeting."
+          ],
+          "collocations": ["nonrelevant issue", "nonrelevant detail", "nonrelevant information"],
+          "synonyms": ["irrelevant", "unrelated", "extraneous"],
+          "antonyms": ["relevant", "pertinent", "germane"],
+          "register": "formal",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nonreliability",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of not being dependable or trustworthy.",
+          "examples": [
+            "Frequent delays exposed the nonreliability of the system.",
+            "Users complained about the nonreliability of the software updates."
+          ],
+          "collocations": ["perceived nonreliability", "machine nonreliability", "trustworthiness and nonreliability"],
+          "synonyms": ["unreliability", "untrustworthiness"],
+          "antonyms": ["reliability", "trustworthiness"],
+          "register": "formal",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nonreliable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not dependable or trustworthy; liable to fail or be inaccurate.",
+          "examples": [
+            "This sensor is nonreliable in extreme temperatures.",
+            "They used a nonreliable source for the report."
+          ],
+          "collocations": ["nonreliable source", "nonreliable data", "nonreliable method"],
+          "synonyms": ["unreliable", "untrustworthy", "faulty"],
+          "antonyms": ["reliable", "dependable", "trustworthy"],
+          "register": "formal",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonreliableness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of not being reliable; lack of dependability.",
+          "examples": [
+            "The nonreliableness of the prototype caused delays.",
+            "Investors worried about the nonreliableness of the data."
+          ],
+          "collocations": ["degree of nonreliableness", "perceived nonreliableness"],
+          "synonyms": ["unreliability", "inconsistency"],
+          "antonyms": ["reliability", "dependability"],
+          "register": "formal",
+          "domain": ["technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nonreliably",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is not reliable or dependable.",
+          "examples": [
+            "The device intermittently fails nonreliably.",
+            "Data is collected nonreliably under poor conditions."
+          ],
+          "collocations": ["behave nonreliably", "nonreliably sourced data"],
+          "synonyms": ["unreliably"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonreliance",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the absence of dependence or trust in something or someone.",
+          "examples": [
+            "The contract shows a policy of nonreliance on external consultants.",
+            "There is a degree of nonreliance in their risk management."
+          ],
+          "collocations": ["nonreliance on", "build nonreliance"],
+          "synonyms": ["independence", "self-reliance (contextual)"],
+          "antonyms": ["reliance", "dependence"],
+          "register": "formal",
+          "domain": ["business", "law"]
+        }
+      ]
+    },
+    {
+      "term": "nonrelieving",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not providing relief or alleviation.",
+          "examples": [
+            "The medication was nonrelieving, offering no pain relief.",
+            "Nonrelieving weather conditions affected the schedule."
+          ],
+          "collocations": ["nonrelieving effect", "nonrelieving therapy"],
+          "synonyms": ["unrelieving", "ineffective"],
+          "antonyms": ["relieving", "alleviating"],
+          "register": "formal",
+          "domain": ["healthcare", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonreligion",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the absence or rejection of religious beliefs or practices.",
+          "examples": [
+            "She studied nonreligion in modern societies.",
+            "Nonreligion is a growing demographic in some regions."
+          ],
+          "collocations": ["growth of nonreligion", "nonreligion movement"],
+          "synonyms": ["secularism", "atheism (context)"],
+          "antonyms": ["religion", "faith"],
+          "register": "neutral",
+          "domain": ["sociology", "religion studies"]
+        }
+      ]
+    },
+    {
+      "term": "nonreligious",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not connected with religion; secular.",
+          "examples": [
+            "Nonreligious schools separate church and state.",
+            "He identifies as nonreligious."
+          ],
+          "collocations": ["nonreligious education", "nonreligious group"],
+          "synonyms": ["secular", "atheistic (context)"],
+          "antonyms": ["religious"],
+          "register": "neutral",
+          "domain": ["education", "society"]
+        }
+      ]
+    },
+    {
+      "term": "nonreligiously",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonreligious manner; secularly.",
+          "examples": [
+            "They lived nonreligiously, focusing on culture and science.",
+            "The festival was conducted nonreligiously."
+          ],
+          "collocations": ["nonreligiously themed", "nonreligiously observed"],
+          "synonyms": ["secularly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "society"]
+        }
+      ]
+    },
+    {
+      "term": "nonreligiousness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or quality of being nonreligious or secular.",
+          "examples": [
+            "Nonreligiousness varies across communities.",
+            "Debates about nonreligiousness often involve policy questions."
+          ],
+          "collocations": ["degree of nonreligiousness", "expression of nonreligiousness"],
+          "synonyms": ["secularism", "atheism (context)"],
+          "antonyms": ["religiousness"],
+          "register": "neutral",
+          "domain": ["sociology", "religion studies"]
+        }
+      ]
+    },
+    {
+      "term": "nonrelinquishment",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of not giving up or surrendering something; persistence in keeping something.",
+          "examples": [
+            "The nonrelinquishment of rights was central to the agreement.",
+            "Nonrelinquishment can be a legal principle in disputes."
+          ],
+          "collocations": ["nonrelinquishment of property", "nonrelinquishment clause"],
+          "synonyms": ["tenacity", "retention", "holding on"],
+          "antonyms": ["relinquishment", "surrender"],
+          "register": "formal",
+          "domain": ["law", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nonremanie",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or rare term with no common contemporary usage; likely a misspelling or impronounceable form.",
+          "examples": [
+            "This appears to be a nonremanie term not found in standard dictionaries."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "nonremediability",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of not being remediable; cannot be cured or corrected.",
+          "examples": [
+            "The nonremediability of the damage made restoration impossible.",
+            "Addressing nonremediability requires preventive measures."
+          ],
+          "collocations": ["extent of nonremediability", "nonremediability in policy"],
+          "synonyms": ["irremediability", "unfixability"],
+          "antonyms": ["remediability", "fixability"],
+          "register": "formal",
+          "domain": ["law", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "nonremediable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not capable of being remedied or corrected.",
+          "examples": [
+            "The issue is nonremediable once the damage is done.",
+            "Some losses are nonremediable in practice."
+          ],
+          "collocations": ["nonremediable defect", "nonremediable situation"],
+          "synonyms": ["irremediable", "irredeemable"],
+          "antonyms": ["remediable", "repairable"],
+          "register": "formal",
+          "domain": ["law", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "nonremediably",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that cannot be remedied or corrected.",
+          "examples": [
+            "The fault is nonremediably embedded in the system.",
+            "Nonremediably damaged assets were written off."
+          ],
+          "collocations": ["nonremediably damaged", "nonremediably defective"],
+          "synonyms": ["irremediably"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "law"]
+        }
+      ]
+    },
+    {
+      "term": "nonremedial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not relating to remediation or remedial action.",
+          "examples": [
+            "The course included nonremedial topics like ethics.",
+            "Nonremedial measures were taken to secure the data."
+          ],
+          "collocations": ["nonremedial measures", "nonremedial topics"],
+          "synonyms": ["nonremedial"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "nonremedially",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner not aimed at remediation.",
+          "examples": [
+            "They addressed the issue nonremedially, leaving the root cause untouched."
+          ],
+          "collocations": ["act nonremedially"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "nonremedies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "things that are not remedies; not able to cure or help.",
+          "examples": [
+            "These options are nonremedies for the problem.",
+            "Nonremedies include cosmetic changes that do not fix the underlying issue."
+          ],
+          "collocations": ["nonremedies for", "perceived nonremedies"],
+          "synonyms": ["nonremedies"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "nonremedy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a solution or cure that does not actually fix the problem.",
+          "examples": [
+            "The policy was criticized as a nonremedy.",
+            "There is no real remedy, only a nonremedy."
+          ],
+          "collocations": ["considered a nonremedy", "nonremedy approach"],
+          "synonyms": ["ineffective fix", "short-term fix"],
+          "antonyms": ["remedy", "cure"],
+          "register": "formal",
+          "domain": ["law", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "nonremembrance",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of not remembering or the failure to recall.",
+          "examples": [
+            "Nonremembrance of the incident surprised the witnesses.",
+            "Memory gaps can lead to nonremembrance of key facts."
+          ],
+          "collocations": ["periods of nonremembrance", "nonremembrance of details"],
+          "synonyms": ["forgetfulness", "omission"],
+          "antonyms": ["remembrance", "recollection"],
+          "register": "neutral",
+          "domain": ["psychology", "memoir"]
+        }
+      ]
+    },
+    {
+      "term": "nonremissible",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not permissible or allowed; not to be neglected.",
+          "examples": [
+            "The rule is nonremissible in competitive contexts.",
+            "Nonremissible duties must be completed."
+          ],
+          "collocations": ["nonremissible requirement", "nonremissible action"],
+          "synonyms": ["unallowable", "impermissible"],
+          "antonyms": ["permissible", "allowable"],
+          "register": "formal",
+          "domain": ["law", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "nonremission",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of not stopping or the absence of remission; continued severity.",
+          "examples": [
+            "The disease showed nonremission despite treatment.",
+            "There was no sign of nonremission in the symptoms."
+          ],
+          "collocations": ["persistent nonremission", "nonremission phase"],
+          "synonyms": ["persistence", "continuation"],
+          "antonyms": ["remission"],
+          "register": "medical",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "nonremittable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not capable of being remitted or reduced; not payable or transferable easily.",
+          "examples": [
+            "The debt was nonremittable under current law.",
+            "This tax is nonremittable to foreign accounts."
+          ],
+          "collocations": ["nonremittable debt", "nonremittable tax"],
+          "synonyms": ["irremissible", "unpayable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "nonremittably",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner that cannot be remitted or reduced.",
+          "examples": [
+            "The obligation is nonremittably bound to the contract."
+          ],
+          "collocations": ["nonremittably bound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "nonremittable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "unremittable; cannot be remitted or reduced.",
+          "examples": [
+            "The fine is nonremittable in this jurisdiction."
+          ],
+          "collocations": ["nonremittable fine"],
+          "synonyms": ["irremediable", "unpayable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "nonremittably",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonremittable way; in a manner that cannot be remitted.",
+          "examples": [
+            "The obligation is nonremittably enforced."
+          ],
+          "collocations": ["nonremittably enforced"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "finance"]
+        }
+      ]
+    }
+  ]
+}

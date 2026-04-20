@@ -1,0 +1,471 @@
+```json
+{
+  "items": [
+    {
+      "term": "bea",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbrev",
+          "definition": "Bureau of Economic Analysis, a US government agency that tracks economic data.",
+          "examples": ["The BEA released new GDP figures today."],
+          "collocations": ["BEA report", "BEA data", "BEA statistics"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "beach",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A flat area of sand or small stones next to the sea or a lake.",
+          "examples": ["We spent the day at the beach.", "The beach was crowded with tourists.", "She walked along the sandy beach."],
+          "collocations": ["sandy beach", "sunny beach", "beach resort", "beach vacation", "beach towel"],
+          "synonyms": ["seashore", "coast", "strand"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To pull or drive a boat onto the beach.",
+          "examples": ["The fishermen beached their boat after the storm.", "The whale beached itself on the shore."],
+          "collocations": ["beached boat", "beached whale", "beached ship"],
+          "synonyms": ["ground", "strand"],
+          "antonyms": ["launch"],
+          "register": "null",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "beachball",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A large, colorful, inflatable ball used for playing games on the beach.",
+          "examples": ["The kids were playing with a beachball.", "She bought a beachball for the beach trip."],
+          "collocations": ["inflatable beachball", "colorful beachball", "beachball game"],
+          "synonyms": ["beach ball"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beachballs",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beachball; more than one large, colorful inflatable ball for beach play.",
+          "examples": ["The beachballs floated in the waves.", "They brought several beachballs to the party."],
+          "collocations": ["giant beachballs", "colorful beachballs"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beachboy",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A young man who works at a beach resort, often giving surfing lessons or renting equipment.",
+          "examples": ["The beachboy taught her how to surf.", "Beachboys were setting up umbrellas."],
+          "collocations": ["tanned beachboy", "surf beachboy"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["travel", "tourism"]
+        }
+      ]
+    },
+    {
+      "term": "beachboys",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beachboy; more than one young man working at beach resorts.",
+          "examples": ["The beachboys entertained the guests with music."],
+          "collocations": ["local beachboys"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "beachcomb",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To search a beach for useful or interesting items like shells or driftwood.",
+          "examples": ["We spent the morning beachcombing for shells.", "She loves to beachcomb after storms."],
+          "collocations": ["beachcomb for shells", "beachcomb daily"],
+          "synonyms": ["scavenge"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["leisure"]
+        }
+      ]
+    },
+    {
+      "term": "beachcombed",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of beachcomb; searched a beach for items.",
+          "examples": ["We beachcombed the entire shore yesterday."],
+          "collocations": ["beachcombed for treasures"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["leisure"]
+        }
+      ]
+    },
+    {
+      "term": "beachcomber",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who searches beaches for useful or interesting items.",
+          "examples": ["The beachcomber found a rare seashell.", "Local beachcombers know all the best spots."],
+          "collocations": ["professional beachcomber", "daily beachcomber"],
+          "synonyms": ["shell collector"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["leisure"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A person who lives a wandering life near the sea, collecting food from the shore.",
+          "examples": ["The old beachcomber lived off what the sea provided."],
+          "collocations": ["wandering beachcomber"],
+          "synonyms": ["vagabond"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beachcombers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beachcomber.",
+          "examples": ["Beachcombers gathered interesting driftwood."],
+          "collocations": ["group of beachcombers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["leisure"]
+        }
+      ]
+    },
+    {
+      "term": "beachcombing",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The activity of searching beaches for useful or interesting items.",
+          "examples": ["Beachcombing is her favorite pastime.", "He wrote a book about beachcombing."],
+          "collocations": ["enjoy beachcombing", "beachcombing expedition"],
+          "synonyms": ["shell hunting"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["leisure"]
+        }
+      ]
+    },
+    {
+      "term": "beachcombings",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Items found while beachcombing.",
+          "examples": ["Her collection included beachcombings from years of searching."],
+          "collocations": ["odd beachcombings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["leisure"]
+        }
+      ]
+    },
+    {
+      "term": "beachcombs",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person singular of beachcomb.",
+          "examples": ["She beachcombs every morning."],
+          "collocations": ["beachcombs regularly"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["leisure"]
+        }
+      ]
+    },
+    {
+      "term": "beachdrops",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Supplies dropped by parachute onto a beach, especially in military operations.",
+          "examples": ["The beachdrops arrived just in time for the troops."],
+          "collocations": ["military beachdrops"],
+          "synonyms": ["airdrops"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "beached",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Driven or run aground on a beach.",
+          "examples": ["The beached ship was a sad sight.", "Rescuers helped the beached whale."],
+          "collocations": ["beached whale", "beached boat", "beached vessel"],
+          "synonyms": ["grounded", "stranded"],
+          "antonyms": ["afloat"],
+          "register": "null",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "beacher",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who frequents beaches.",
+          "examples": ["As a beacher, she knows every cove."],
+          "collocations": ["regular beacher"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beaches",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beach.",
+          "examples": ["They visited many beaches on vacation.", "The beaches here are beautiful."],
+          "collocations": ["tropical beaches", "crowded beaches"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beachfront",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Land or property right next to the beach.",
+          "examples": ["The hotel has beachfront rooms.", "Beachfront property is expensive."],
+          "collocations": ["beachfront hotel", "beachfront property", "beachfront restaurant"],
+          "synonyms": ["seaside", "waterfront"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["real estate", "travel"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Located directly on the beach.",
+          "examples": ["They stayed in a beachfront villa."],
+          "collocations": ["beachfront location"],
+          "synonyms": ["seaside"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "beachfronts",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beachfront.",
+          "examples": ["Developers bought several beachfronts."],
+          "collocations": ["prime beachfronts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["real estate"]
+        }
+      ]
+    },
+    {
+      "term": "beachgoer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who goes to the beach often.",
+          "examples": ["Beachgoers enjoyed the sunny weather.", "As a beachgoer, she packs sunscreen daily."],
+          "collocations": ["regular beachgoer", "casual beachgoer"],
+          "synonyms": ["sunbather"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beachgoers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beachgoer.",
+          "examples": ["Beachgoers crowded the sand."],
+          "collocations": ["thousands of beachgoers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beachhead",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An area on enemy territory captured by an attacking force to allow more troops to land.",
+          "examples": ["They established a beachhead at dawn.", "The beachhead was vital for the invasion."],
+          "collocations": ["secure beachhead", "establish beachhead"],
+          "synonyms": ["foothold"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["military"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A first position gained to allow further advance.",
+          "examples": ["The new store was their beachhead in the market."],
+          "collocations": ["commercial beachhead"],
+          "synonyms": ["foothold", "starting point"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "beachheads",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beachhead.",
+          "examples": ["They captured multiple beachheads."],
+          "collocations": ["several beachheads"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "beachie",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small, young mackerel fish that stays near beaches.",
+          "examples": ["Beachies are common in shallow coastal waters."],
+          "collocations": ["school of beachies"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fishing"]
+        }
+      ]
+    },
+    {
+      "term": "beachier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Comparative of beachy; more resembling a beach or beach lifestyle.",
+          "examples": ["This spot feels even beachier than last summer."],
+          "collocations": ["beachier vibe"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    }
+  ]
+}
+```

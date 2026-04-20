@@ -1,0 +1,515 @@
+{
+  "items": [
+    {
+      "term": "besees",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to see someone or something; to observe or perceive.",
+          "examples": [
+            "He besees the mountain from his window every morning.",
+            "She besees the crowd and smiles.",
+            "They beseeze the opportunity as it appears."
+          ],
+          "collocations": ["besees the mountain", "besees the crowd", "besees opportunities"],
+          "synonyms": ["see", "spot", "observe"],
+          "antonyms": ["ignore", "miss"],
+          "register": "formal",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beseige",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "archaic or dialectal form of beseige meaning to besiege; to surround and attack a place with an armed force.",
+          "examples": [
+            "The castle was beseiged by the invading army.",
+            "They beseiged the city walls until surrender.",
+            "Stories say they beseige the fortress for months."
+          ],
+          "collocations": ["beseiged city", "beseiging army"],
+          "synonyms": ["besiege", "surround", "attack"],
+          "antonyms": ["defend", "liberate"],
+          "register": "archaic",
+          "domain": ["history", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "beses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of base in some dialectal forms; not widely used in modern standard English.",
+          "examples": [
+            "The beses of the old coin are scarce.",
+            "In old texts, beses are mentioned as units."
+          ],
+          "collocations": ["beses of coins"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "beset",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to surround or attack from all sides; to trouble or harass persistently.",
+          "examples": [
+            "The village was beset by wolves at night.",
+            "She was beset by doubts and fears.",
+            "The project is beset with problems."
+          ],
+          "collocations": ["beset by difficulties", "beset on all sides", "beset with lawsuits"],
+          "synonyms": ["harass", "plague", "surround"],
+          "antonyms": ["free", "assist"],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "besetment",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being beset; the surrounding or harassing condition.",
+          "examples": [
+            "The besetment of the castle led to its surrender.",
+            "He spoke of the besetment during the crisis."
+          ],
+          "collocations": ["state of besetment", "besetment by threats"],
+          "synonyms": ["harassment", "surrounding pressure"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "besetments",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of besetment; multiple instances of being beset.",
+          "examples": [
+            "The besetments were noted in the report."
+          ],
+          "collocations": ["several besetments", "multiple besetments"],
+          "synonyms": ["harassments", "pressures"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "besets",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of beset; surrounds or troubles persistently.",
+          "examples": [
+            "Difficulties besets the team as deadlines approach.",
+            "Gloom besets the village after the flood."
+          ],
+          "collocations": ["besets the team", "besets the village"],
+          "synonyms": ["harasses", "plagues"],
+          "antonyms": ["relieves", "assists"],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "besetter",
+        "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "someone who besets; a harasser or tormentor.",
+          "examples": [
+            "The besetter pressured him with constant questions.",
+            "In the story, the besetter is relentless."
+          ],
+          "collocations": ["persistent besetter", "relentless besetter"],
+          "synonyms": ["harasser", "tormentor"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "besetters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of besetter; multiple harassers or tormentors.",
+          "examples": [
+            "The besetters were spoken of in whispers."
+          ],
+          "collocations": ["the besetters"],
+          "synonyms": ["harassers", "tormentors"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "besetting",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of besetting; something that encroaches or troubles.",
+          "examples": [
+            "Fear was the besetting of the night.",
+            "The besetting sin of pride appears in the tale."
+          ],
+          "collocations": ["besetting fear", "besetting sin"],
+          "synonyms": ["haunting", "torment"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "surrounding or assailing on all sides; persistent.",
+          "examples": [
+            "Besetting doubts clouded his mind.",
+            "Besetting winds made the voyage perilous."
+          ],
+          "collocations": ["besetting doubts", "besetting winds"],
+          "synonyms": ["plaguing", "harassing"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "besew",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to sew by hand or with a needle; to stitch.",
+          "examples": [
+            "She besewed a patch onto the jacket.",
+            "They spent the afternoon besewing a quilt."
+          ],
+          "collocations": ["besew a patch", "besewing a quilt"],
+          "synonyms": ["sew", "stitch"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["crafts", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beshackle",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to remove shackles or restraints; to release from bondage.",
+          "examples": [
+            "They beshackle the prisoner at dawn.",
+            "The decree would beshackle the formerly imprisoned artist."
+          ],
+          "collocations": ["beshackle the prisoner", "beshackling chains"],
+          "synonyms": ["unshackle", "release", "liberate"],
+          "antonyms": ["shackle", "bind"],
+          "register": "formal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beshade",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to shade or cover with shade; to obscure or dim by shading.",
+          "examples": [
+            "The trees beshade the path from the sun.",
+            "Her face was beshaded by a hat brim."
+          ],
+          "collocations": ["beshade the path", "beshading the face"],
+          "synonyms": ["shade", "shadow"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beshadow",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to cast a shadow over; to shadow or follow closely.",
+          "examples": [
+            "The mountains beshadow the valley at sunset.",
+            "Her success beshadowed his earlier achievements."
+          ],
+          "collocations": ["beshadow the valley", "beshadowed by fame"],
+          "synonyms": ["shadow", "overcast"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beshadowed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "cast in shadow or overshadowed; obscured.",
+          "examples": [
+            "The beshadowed statue was barely visible.",
+            "His reputation was beshadowed by rumors."
+          ],
+          "collocations": ["beshadowed figure", "beshadowed by rumors"],
+          "synonyms": ["shadowed", "obscured"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "news"]
+        }
+      ]
+    },
+    {
+      "term": "beshadowing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of shadowing or the state of being beshadowed.",
+          "examples": [
+            "The beshadowing of the sculpture adds mystery.",
+            "Beshadowing gives the scene a moody tone."
+          ],
+          "collocations": ["beshadowing of the figure"],
+          "synonyms": ["shadowing", "shadow"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "beshadows",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of beshadow; casts shadow over or follows closely.",
+          "examples": [
+            "The rumor beshadows her career.",
+            "Every decision beshadows the next."
+          ],
+          "collocations": ["beshadows the event", "beshadows her career"],
+          "synonyms": ["shadows", "overshadows"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beshag",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to spread or smear with shag or a shaggy effect; in some contexts to comb hair into shaggy arrangement.",
+          "examples": [
+            "They beshag the coat to add texture.",
+            "He beshags his beard for a rugged look."
+          ],
+          "collocations": ["beshag the coat", "beshag the hair"],
+          "synonyms": ["roughen", "texture"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beshake",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to shake or cause to shake; to tremble.",
+          "examples": [
+            "The earthquake beshake the city.",
+            "The stock market beshakes investors daily."
+          ],
+          "collocations": ["beshake the ground", "beshake the nerves"],
+          "synonyms": ["shake", "tremble"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "beshame",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to cause to feel shame; to make feel ashamed.",
+          "examples": [
+            "The insult beshames him publicly.",
+            "Don't beshame someone for asking questions."
+          ],
+          "collocations": ["beshame someone", "beshaming remarks"],
+          "synonyms": ["shame", "humiliate"],
+          "antonyms": ["praise", "honor"],
+          "register": "neutral",
+          "domain": ["social", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beshamed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "feeling or caused to feel shame.",
+          "examples": [
+            "He stood beshamed after the stumble.",
+            "She looked beshamed by the comment."
+          ],
+          "collocations": ["beshamed by remarks", "beshamed expression"],
+          "synonyms": ["ashamed", "humiliated"],
+          "antonyms": ["proud", "unashamed"],
+          "register": "neutral",
+          "domain": ["emotional", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beshames",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of beshame; shames or causes to feel shame.",
+          "examples": [
+            "The critic beshames the author with harsh words."
+          ],
+          "collocations": ["beshames the author"],
+          "synonyms": ["shames", "humiliates"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beshaming",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of shaming or the state of being ashamed.",
+          "examples": [
+            "The beshaming of the leader was swift."
+          ],
+          "collocations": ["beshaming of the leader"],
+          "synonyms": ["shaming", "humiliation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["current affairs", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beshawled",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "covered in shawls or with being shaven; in historical contexts, wearing bladed garments; rarely used.",
+          "examples": [
+            "The beshawled figure stood by the fire."
+          ],
+          "collocations": ["beshawled figure"],
+          "synonyms": ["shawled", "veiled"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "beshear",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to bless or confer good fortune formally; to hallow.",
+          "examples": [
+            "The ceremony will beshear the new partnership.",
+            "They beshared the land with blessings."
+          ],
+          "collocations": ["beshear the union", "beshearing the land"],
+          "synonyms": ["bless", "consecrate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religious", "ceremony"]
+        }
+      ]
+    }
+  ]
+}

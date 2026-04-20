@@ -1,0 +1,431 @@
+```json
+{
+  "items": [
+    {
+      "term": "battlement",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a low wall with gaps for shooting, built on top of a castle or fort",
+          "examples": ["The castle's battlements offered protection to the soldiers.", "Tourists walked along the ancient battlements.", "Arrows flew from the battlements during the siege."],
+          "collocations": ["castle battlements", "fortified battlements", "walk the battlements", "stand on battlements", "medieval battlements"],
+          "synonyms": ["parapet", "crenellation"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture", "history", "military"]
+        }
+      ]
+    },
+    {
+      "term": "battlemented",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having battlements; built with low walls for defense on top",
+          "examples": ["The battlemented tower overlooked the valley.", "They admired the battlemented walls of the old fortress.", "The battlemented castle stood proudly on the hill."],
+          "collocations": ["battlemented castle", "battlemented walls", "battlemented tower", "battlemented fortress"],
+          "synonyms": ["crenellated"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture", "history"]
+        }
+      ]
+    },
+    {
+      "term": "battlements",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of battlement; low walls with gaps on top of castles for defense",
+          "examples": ["Soldiers patrolled the battlements at dawn.", "The battlements were lined with archers.", "From the battlements, they saw the enemy approaching."],
+          "collocations": ["castle battlements", "defensive battlements", "top the battlements", "man the battlements", "gaze from battlements"],
+          "synonyms": ["parapets", "crenellations"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture", "history", "military"]
+        }
+      ]
+    },
+    {
+      "term": "battlepiece",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a painting, writing, or musical piece depicting a battle",
+          "examples": ["The museum displayed a famous battlepiece by the artist.", "His novel includes vivid battlepieces from the war.", "The orchestra performed a stirring battlepiece."],
+          "collocations": ["famous battlepiece", "historical battlepiece", "paint a battlepiece", "literary battlepiece"],
+          "synonyms": ["war scene", "battle depiction"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["art", "literature", "music"]
+        }
+      ]
+    },
+    {
+      "term": "battlepieces",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of battlepiece; paintings or writings showing battles",
+          "examples": ["The gallery featured several battlepieces from the Renaissance.", "Collectors sought rare battlepieces by that painter."],
+          "collocations": ["Renaissance battlepieces", "collect battlepieces", "display battlepieces"],
+          "synonyms": ["war scenes"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["art", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "battleplane",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an airplane designed or used for combat in battle",
+          "examples": ["The battleplane soared over the battlefield.", "Vintage battleplanes were on display at the air show."],
+          "collocations": ["armed battleplane", "military battleplane", "fly battleplane"],
+          "synonyms": ["fighter plane", "warplane"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["military", "aviation"]
+        }
+      ]
+    },
+    {
+      "term": "battleplanes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of battleplane; combat airplanes",
+          "examples": ["Squadrons of battleplanes attacked the enemy lines.", "The museum housed several restored battleplanes."],
+          "collocations": ["squadron of battleplanes", "deploy battleplanes"],
+          "synonyms": ["fighter planes"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["military", "aviation"]
+        }
+      ]
+    },
+    {
+      "term": "battler",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who fights hard or struggles against difficulties",
+          "examples": ["She's a real battler, never giving up despite the odds.", "The old battler kept working through his illness.", "He's known as a battler in the boxing ring."],
+          "collocations": ["real battler", "tough battler", "street battler", "life's battler"],
+          "synonyms": ["fighter", "struggler", "warrior"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "sports"]
+        }
+      ]
+    },
+    {
+      "term": "battlers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of battler; people who fight or struggle persistently",
+          "examples": ["The battlers in the community rebuilt after the flood.", "These battlers deserve our support."],
+          "collocations": ["hardworking battlers", "everyday battlers"],
+          "synonyms": ["fighters"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "battles",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of battle; fights between armies or groups",
+          "examples": ["History books describe famous battles.", "The museum shows artifacts from ancient battles.", "Soldiers fought in many battles during the war."],
+          "collocations": ["famous battles", "win battles", "major battles", "street battles", "naval battles"],
+          "synonyms": ["fights", "combats", "wars"],
+          "antonyms": ["truces", "peaces"],
+          "register": null,
+          "domain": ["military", "history"]
+        }
+      ]
+    },
+    {
+      "term": "battleship",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large warship with big guns, used in naval battles",
+          "examples": ["The battleship sailed into the harbor.", "They played a game modeled on battleships.", "The old battleship is now a museum."],
+          "collocations": ["massive battleship", "sail battleship", "sink battleship", "naval battleship"],
+          "synonyms": ["warship", "man-of-war"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["military", "navy"]
+        }
+      ]
+    },
+    {
+      "term": "battleships",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of battleship; large warships",
+          "examples": ["The fleet included several battleships.", "Battleships dominated naval warfare in the past."],
+          "collocations": ["fleet of battleships", "line of battleships"],
+          "synonyms": ["warships"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["military", "navy"]
+        }
+      ]
+    },
+    {
+      "term": "battlesome",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "fond of fighting or battle; warlike",
+          "examples": ["The battlesome king led his army into war.", "He had a battlesome spirit that thrilled in conflict."],
+          "collocations": ["battlesome warrior", "battlesome nature", "battlesome leader"],
+          "synonyms": ["warlike", "bellicose", "militant"],
+          "antonyms": ["peaceful", "pacifist"],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "battlestead",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place or field where a battle takes place",
+          "examples": ["The battlestead was littered with fallen soldiers.", "They returned to the battlestead at dawn."],
+          "collocations": ["ancient battlestead", "bloody battlestead"],
+          "synonyms": ["battlefield"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["military", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "battlewagon",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal term for a battleship or heavily armed military vehicle",
+          "examples": ["The battlewagon led the naval assault.", "That old battlewagon is a sight to see."],
+          "collocations": ["armed battlewagon", "naval battlewagon"],
+          "synonyms": ["battleship", "warship"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["military", "slang"]
+        }
+      ]
+    },
+    {
+      "term": "battlewagons",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of battlewagon; battleships or armed vehicles",
+          "examples": ["The battlewagons steamed toward the enemy fleet.", "Collectors restored rusty battlewagons."],
+          "collocations": ["fleet battlewagons", "deploy battlewagons"],
+          "synonyms": ["battleships"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "battleward",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in the direction of battle",
+          "examples": ["The troops marched battleward at full speed."],
+          "collocations": ["march battleward", "head battleward"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["military", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "battlewise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "experienced or knowledgeable in battle",
+          "examples": ["The battlewise general anticipated the ambush.", "She was battlewise from years in combat."],
+          "collocations": ["battlewise veteran", "grow battlewise"],
+          "synonyms": ["battle-hardened"],
+          "antonyms": ["naive"],
+          "register": null,
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "battling",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of battle; fighting or struggling",
+          "examples": ["The two sides are still battling fiercely.", "She's battling a serious illness.", "Fans were battling in the streets after the game."],
+          "collocations": ["battling forces", "battling illness", "battling wind", "keep battling"],
+          "synonyms": ["fighting", "struggling", "combating"],
+          "antonyms": ["surrendering"],
+          "register": null,
+          "domain": ["general", "military"]
+        }
+      ]
+    },
+    {
+      "term": "battological",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to battology; characterized by needless repetition in speech",
+          "examples": ["His battological speech bored the audience.", "Avoid battological phrases in your writing."],
+          "collocations": ["battological speech", "battological style"],
+          "synonyms": ["repetitive", "tautological"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "rhetoric"]
+        }
+      ]
+    },
+    {
+      "term": "battologies",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of battology; instances of needless repetition in speaking",
+          "examples": ["His lecture was full of battologies.", "Critics noted the battologies in the text."],
+          "collocations": ["rhetorical battologies", "avoid battologies"],
+          "synonyms": ["repetitions"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "battologise",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to speak or write with needless repetition",
+          "examples": ["The politician tended to battologise during debates.", "Don't battologise; get to the point."],
+          "collocations": ["tend to battologise"],
+          "synonyms": ["repeat", "tautologize"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "battologised",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of battologise; spoke repetitively",
+          "examples": ["He battologised through his entire speech."],
+          "collocations": ["had battologised"],
+          "synonyms": ["repeated"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "battologising",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of battologise; speaking with repetition",
+          "examples": ["She was battologising again, saying the same thing twice."],
+          "collocations": ["keep battologising"],
+          "synonyms": ["repeating"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "battologist",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who speaks or writes with needless repetition",
+          "examples": ["The battologist droned on without saying anything new.", "Critics called him a battologist for his style."],
+          "collocations": ["notorious battologist"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "rhetoric"]
+        }
+      ]
+    }
+  ]
+}
+```

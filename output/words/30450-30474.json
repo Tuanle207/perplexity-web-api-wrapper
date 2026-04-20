@@ -1,0 +1,521 @@
+```json
+{
+  "items": [
+    {
+      "term": "backcourt",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the part of a court or field in sports like basketball or tennis that is at the back or near the goal a team is defending.",
+          "examples": ["The ball went out in the backcourt.", "She returned from the backcourt with a powerful serve.", "Our team lost control in the backcourt."],
+          "collocations": ["backcourt violation", "backcourt player", "backcourt area", "defensive backcourt", "backcourt pass"],
+          "synonyms": ["rear court", "defensive end"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "basketball", "tennis"]
+        }
+      ]
+    },
+    {
+      "term": "backcourtman",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a player who plays mainly in the backcourt area in basketball.",
+          "examples": ["The backcourtman dribbled past two defenders.", "He's our best backcourtman this season.", "The backcourtman set up the play perfectly."],
+          "collocations": ["starting backcourtman", "defensive backcourtman", "lead backcourtman"],
+          "synonyms": ["guard"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "basketball"]
+        }
+      ]
+    },
+    {
+      "term": "backcourtmen",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of backcourtman; players who play mainly in the backcourt area in basketball.",
+          "examples": ["The backcourtmen controlled the game's pace.", "Our backcourtmen need more practice.", "The backcourtmen scored most points."],
+          "collocations": ["starting backcourtmen", "elite backcourtmen"],
+          "synonyms": ["guards"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "basketball"]
+        }
+      ]
+    },
+    {
+      "term": "backcourts",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of backcourt; the back parts of courts in sports like basketball or tennis.",
+          "examples": ["Both backcourts were busy during practice.", "The backcourts saw little action.", "Players stayed in their backcourts."],
+          "collocations": ["opposing backcourts", "various backcourts"],
+          "synonyms": ["rear courts"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "basketball", "tennis"]
+        }
+      ]
+    },
+    {
+      "term": "backcross",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a breeding method in genetics where a hybrid is crossed back with one of its parents.",
+          "examples": ["The backcross produced stronger plants.", "They used a backcross to recover traits.", "This backcross restored the original genes."],
+          "collocations": ["first backcross", "repeated backcross", "backcross generation"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "genetics", "agriculture"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to breed a hybrid with one of its parents in genetics.",
+          "examples": ["Scientists backcross plants to improve traits.", "They backcross mice for research.", "Farmers backcross crops for resistance."],
+          "collocations": ["backcross hybrids", "backcross with parent", "backcross progeny"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "genetics"]
+        }
+      ]
+    },
+    {
+      "term": "backcrossed",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense: bred a hybrid with one of its parents.",
+          "examples": ["The hybrid was backcrossed to the parent strain.", "These plants were backcrossed for disease resistance.", "The mice were backcrossed successfully."],
+          "collocations": ["backcrossed hybrids", "backcrossed lines", "backcrossed population"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "genetics"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "having undergone backcrossing.",
+          "examples": ["Backcrossed varieties show better yield.", "The backcrossed strain is stable.", "These backcrossed tomatoes resist pests."],
+          "collocations": ["backcrossed plants", "backcrossed animals", "backcrossed genes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "genetics"]
+        }
+      ]
+    },
+    {
+      "term": "backcrosses",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of backcross; breeding methods in genetics.",
+          "examples": ["Multiple backcrosses were needed.", "These backcrosses improved the breed.", "Researchers performed several backcrosses."],
+          "collocations": ["successive backcrosses", "multiple backcrosses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "genetics"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person: breeds a hybrid with one of its parents.",
+          "examples": ["This method backcrosses the hybrid repeatedly.", "The program backcrosses for purity.", "It backcrosses traits accurately."],
+          "collocations": ["backcrosses hybrids", "backcrosses strains"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "genetics"]
+        }
+      ]
+    },
+    {
+      "term": "backcrossing",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of breeding a hybrid with one of its parents.",
+          "examples": ["Backcrossing takes several generations.", "Backcrossing is common in plant breeding.", "This backcrossing restored wild traits."],
+          "collocations": ["repeated backcrossing", "introgressive backcrossing", "backcrossing method"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "genetics"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle: breeding a hybrid with a parent.",
+          "examples": ["They are backcrossing for better yield.", "Scientists are backcrossing gene lines.", "Farmers are backcrossing local varieties."],
+          "collocations": ["backcrossing hybrids", "backcrossing populations"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "genetics"]
+        }
+      ]
+    },
+    {
+      "term": "backdate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to put an earlier date on a document or agreement than the actual date.",
+          "examples": ["They backdated the contract to January.", "Please backdate this form.", "The check was backdated by a week."],
+          "collocations": ["backdate contract", "backdate cheque", "backdate agreement", "backdate payment"],
+          "synonyms": ["pre-date", "retrodate"],
+          "antonyms": ["forward date"],
+          "register": null,
+          "domain": ["business", "finance", "law"]
+        }
+      ]
+    },
+    {
+      "term": "backdated",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense: put an earlier date on a document.",
+          "examples": ["The form was backdated to last month.", "They backdated all invoices.", "It was backdated incorrectly."],
+          "collocations": ["backdated contract", "backdated cheque", "backdated documents"],
+          "synonyms": ["pre-dated"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "law"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "having an earlier date than actual.",
+          "examples": ["This is a backdated cheque.", "Backdated claims are not accepted.", "The backdated policy caused issues."],
+          "collocations": ["backdated payment", "backdated agreement"],
+          "synonyms": ["pre-dated"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "backdates",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person: puts an earlier date on a document.",
+          "examples": ["The accountant backdates forms.", "She backdates reports regularly.", "It backdates automatically."],
+          "collocations": ["backdates contracts", "backdates cheques"],
+          "synonyms": ["pre-dates"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "backdating",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of putting an earlier date on a document.",
+          "examples": ["Backdating is illegal in some cases.", "The backdating scandal made news.", "Avoid backdating without permission."],
+          "collocations": ["illegal backdating", "stock option backdating", "contract backdating"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "law", "finance"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle: putting an earlier date on something.",
+          "examples": ["They are backdating the paperwork.", "He is backdating old entries.", "Stop backdating these files."],
+          "collocations": ["backdating documents", "backdating payments"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "backdoor",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a secret or hidden way to enter a place, system, or achieve something indirectly.",
+          "examples": ["Hackers found a backdoor in the software.", "They used a backdoor to win the deal.", "Avoid the backdoor entrance at night."],
+          "collocations": ["backdoor entry", "software backdoor", "backdoor deal", "backdoor access"],
+          "synonyms": ["secret entrance", "loophole", "Trojan horse"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "everyday", "business"]
+        }
+      ]
+    },
+    {
+      "term": "backdown",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an act of giving up a fight, claim, or strong position.",
+          "examples": ["The union forced a backdown.", "It was a rare backdown for the leader.", "After protests, there was a backdown."],
+          "collocations": ["complete backdown", "policy backdown", "forced backdown"],
+          "synonyms": ["retreat", "concession", "capitulation"],
+          "antonyms": ["stand firm"],
+          "register": null,
+          "domain": ["politics", "business", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "backdowns",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of backdown; acts of giving up a position.",
+          "examples": ["Negotiations led to several backdowns.", "There were mutual backdowns.", "Past backdowns weakened their stance."],
+          "collocations": ["multiple backdowns", "series of backdowns"],
+          "synonyms": ["retreats", "concessions"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["politics", "business"]
+        }
+      ]
+    },
+    {
+      "term": "backdraft",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a dangerous fire phenomenon where flames suddenly spread when oxygen enters a burning building.",
+          "examples": ["Firefighters watched for backdraft.", "The backdraft exploded the room.", "Backdraft killed two rescuers."],
+          "collocations": ["backdraft explosion", "flashover backdraft", "avoid backdraft"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["firefighting", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "backdrafts",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of backdraft; dangerous fire phenomena.",
+          "examples": ["Multiple backdrafts occurred that night.", "Trained for backdrafts and flashovers.", "Backdrafts caused major damage."],
+          "collocations": ["several backdrafts", "repeated backdrafts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["firefighting"]
+        }
+      ]
+    },
+    {
+      "term": "backdraught",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "British spelling of backdraft; sudden fire spread from oxygen influx.",
+          "examples": ["The backdraught filled the house with flames.", "Beware of backdraught in fires.", "A backdraught trapped the firefighters."],
+          "collocations": ["backdraught risk", "backdraught explosion"],
+          "synonyms": ["backdraft"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["firefighting", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "backdraughts",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of backdraught; sudden fire spreads.",
+          "examples": ["Several backdraughts were reported.", "Training covers backdraughts extensively.", "Backdraughts destroyed the building."],
+          "collocations": ["multiple backdraughts"],
+          "synonyms": ["backdrafts"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["firefighting"]
+        }
+      ]
+    },
+    {
+      "term": "backdrop",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a painted cloth or scenery hung at the back of a theatre stage.",
+          "examples": ["The backdrop showed a city skyline.", "They changed the backdrop between acts.", "A forest backdrop set the scene."],
+          "collocations": ["stage backdrop", "painted backdrop", "theatre backdrop"],
+          "synonyms": ["background", "set"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["theatre", "performing arts"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the general setting or situation for an event.",
+          "examples": ["War was the backdrop to their romance.", "Economic crisis formed the backdrop.", "History provides the backdrop here."],
+          "collocations": ["historical backdrop", "political backdrop", "economic backdrop"],
+          "synonyms": ["background", "context"],
+          "antonyms": ["foreground"],
+          "register": null,
+          "domain": ["general", "media"]
+        }
+      ]
+    },
+    {
+      "term": "backdropped",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense: provided a backdrop or background for something.",
+          "examples": ["Stars backdropped the rocket launch.", "Mountains backdropped the village.", "The sea backdropped their wedding."],
+          "collocations": ["backdropped by mountains", "backdropped against sunset"],
+          "synonyms": ["backgrounded"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "photography"]
+        }
+      ]
+    },
+    {
+      "term": "backdropping",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle: serving as a backdrop.",
+          "examples": ["Snow-capped peaks were backdropping the lake.", "City lights backdropped the speech.", "Trees backdropped the picnic."],
+          "collocations": ["backdropping scene", "backdropping event"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backdrops",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of backdrop; painted cloths or general settings.",
+          "examples": ["The show used colorful backdrops.", "Various backdrops set different moods.", "Political backdrops influenced the vote."],
+          "collocations": ["multiple backdrops", "theatre backdrops"],
+          "synonyms": ["backgrounds"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["theatre", "general"]
+        }
+      ]
+    },
+    {
+      "term": "backdropt",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "rare past tense or archaic: served as a backdrop.",
+          "examples": ["The castle backdropt the tournament.", "Stars backdropt the ancient rite."],
+          "collocations": ["backdropt by hills"],
+          "synonyms": ["backdropped"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "backed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of back: moved backwards or supported.",
+          "examples": ["She backed the car out of the garage.", "They backed her idea strongly.", "The team backed their captain."],
+          "collocations": ["backed away", "backed up", "backed decision", "backed project"],
+          "synonyms": ["supported", "reversed"],
+          "antonyms": ["opposed", "advanced"],
+          "register": null,
+          "domain": ["everyday", "business"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "supported by someone or something.",
+          "examples": ["A government-backed scheme helped farmers.", "It's a bank-backed loan.", "Fully backed by experts."],
+          "collocations": ["government-backed", "fully backed", "financially backed"],
+          "synonyms": ["supported", "endorsed"],
+          "antonyms": ["unbacked"],
+          "register": null,
+          "domain": ["business", "general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "having a back or material on the back.",
+          "examples": ["High-backed chairs lined the room.", "The backed envelope was sealed.", "Leather-backed books filled the shelf."],
+          "collocations": ["high-backed", "padded-backed", "backed material"],
+          "synonyms": ["reinforced"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    }
+  ]
+}
+```

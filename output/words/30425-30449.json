@@ -1,0 +1,451 @@
+```json
+{
+  "items": [
+    {
+      "term": "backburn",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A fire started to control a larger wildfire by burning an area in its path.",
+          "examples": ["Firefighters set a backburn to stop the forest fire from spreading.", "The backburn created a safe barrier around the town.", "They lit a backburn during the night to protect the valley."],
+          "collocations": ["control a wildfire", "set a backburn", "backburn line", "create a backburn", "backburn operation"],
+          "synonyms": ["controlled burn", "counterfire"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["firefighting", "forestry"]
+        }
+      ]
+    },
+    {
+      "term": "backburned",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense and past participle of backburn; started a control fire to stop a wildfire.",
+          "examples": ["The area was backburned to create a firebreak.", "They had backburned the ridge before the wind changed.", "The field was backburned successfully last season."],
+          "collocations": ["backburned area", "successfully backburned", "carefully backburned", "ridge backburned"],
+          "synonyms": ["controlled-burned"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["firefighting", "forestry"]
+        }
+      ]
+    },
+    {
+      "term": "backburning",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of starting a control fire to stop a wildfire.",
+          "examples": ["Backburning saved the village from destruction.", "The backburning operation required many firefighters.", "They used backburning along with water drops."],
+          "collocations": ["backburning operation", "control backburning", "strategic backburning", "night backburning"],
+          "synonyms": ["controlled burning"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["firefighting", "forestry"]
+        }
+      ]
+    },
+    {
+      "term": "backburns",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person singular of backburn; starts a control fire.",
+          "examples": ["The crew backburns when conditions are right.", "The captain backburns the edge of the fire line.", "This team backburns efficiently in dry weather."],
+          "collocations": ["backburns the line", "team backburns", "carefully backburns"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["firefighting", "forestry"]
+        }
+      ]
+    },
+    {
+      "term": "backcap",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To place a cap or cover on the back of something.",
+          "examples": ["They backcap the pipe to prevent leaks.", "Backcap the bottle after filling it.", "The mechanic will backcap the fitting tomorrow."],
+          "collocations": ["backcap the pipe", "backcap fitting", "securely backcap"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technical", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "backcast",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A cast made by moving the fishing rod backwards before the forward cast.",
+          "examples": ["His backcast scared the fish away.", "Practice your backcast in an open area.", "A smooth backcast leads to a good forward cast."],
+          "collocations": ["smooth backcast", "perfect backcast", "practice backcast", "false backcast"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fishing", "sports"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A prediction or projection based on past data.",
+          "examples": ["The backcast showed growth in previous years.", "Economists use backcast to verify models.", "Our backcast matched the historical records."],
+          "collocations": ["economic backcast", "historical backcast", "data backcast"],
+          "synonyms": ["retrospective forecast"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["economics", "statistics"]
+        }
+      ]
+    },
+    {
+      "term": "backcasting",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A planning method that starts with a desired future and works backwards to identify steps needed today.",
+          "examples": ["Backcasting helps with long-term sustainability goals.", "They used backcasting for the climate strategy.", "Backcasting reveals key actions required now."],
+          "collocations": ["sustainability backcasting", "strategic backcasting", "scenario backcasting", "future backcasting"],
+          "synonyms": [],
+          "antonyms": ["forecasting"],
+          "register": "null",
+          "domain": ["planning", "business", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "backcasts",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person singular of backcast; makes a backward fishing cast.",
+          "examples": ["The angler backcasts over his shoulder.", "She backcasts perfectly every time.", "He backcasts too close to the trees."],
+          "collocations": ["smoothly backcasts", "expertly backcasts", "carefully backcasts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fishing"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Plural of backcast.",
+          "examples": ["Avoid tangles during backcasts.", "His backcasts improved with practice.", "Watch for obstacles on backcasts."],
+          "collocations": ["multiple backcasts", "practice backcasts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fishing"]
+        }
+      ]
+    },
+    {
+      "term": "backchain",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To trace or analyze a chain of events or data backwards.",
+          "examples": ["Analysts backchain the transactions to find the source.", "We need to backchain this error log.", "The tool will backchain the dependencies."],
+          "collocations": ["backchain transactions", "backchain errors", "backchain dependencies"],
+          "synonyms": ["trace back"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "computing"]
+        }
+      ]
+    },
+    {
+      "term": "backchat",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Cheeky or argumentative replies; rude talkback.",
+          "examples": ["Don't give me any backchat!", "The teacher won't tolerate backchat.", "His backchat got him in trouble."],
+          "collocations": ["no backchat", "rude backchat", "cheeky backchat", "answer backchat"],
+          "synonyms": ["sass", "lip", "backtalk"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "backchats",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of backchat; instances of cheeky replies.",
+          "examples": ["Kids' backchats annoy parents.", "She hates backchats from students.", "The boss silenced the backchats."],
+          "collocations": ["constant backchats", "student backchats"],
+          "synonyms": ["sass sessions"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "backchatted",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of backchat; gave rude replies.",
+          "examples": ["He backchatted the referee and got a yellow card.", "She backchatted her mum again.", "They backchatted during the meeting."],
+          "collocations": ["rudely backchatted", "boldly backchatted"],
+          "synonyms": ["sassed"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "backchatting",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of backchat; giving cheeky replies.",
+          "examples": ["Stop backchatting right now!", "The kids were backchatting all day.", "He's always backchatting authority."],
+          "collocations": ["keep backchatting", "constantly backchatting"],
+          "synonyms": ["sassing"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "backcheck",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "In ice hockey, to skate back towards one's defensive zone to help prevent the opponent from scoring.",
+          "examples": ["The forward must backcheck hard.", "Good teams backcheck every shift.", "He failed to backcheck on that play."],
+          "collocations": ["strong backcheck", "hard backcheck", "defensive backcheck", "aggressive backcheck"],
+          "synonyms": ["check back"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports", "hockey"]
+        }
+      ]
+    },
+    {
+      "term": "backchecked",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of backcheck; skated back defensively.",
+          "examples": ["She backchecked all the way to her own net.", "The players backchecked furiously.", "He backchecked but couldn't stop the goal."],
+          "collocations": ["quickly backchecked", "tirelessly backchecked"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports", "hockey"]
+        }
+      ]
+    },
+    {
+      "term": "backchecking",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The defensive action of skating back in hockey.",
+          "examples": ["Backchecking wins championships.", "His backchecking was outstanding.", "Improve your backchecking technique."],
+          "collocations": ["defensive backchecking", "team backchecking", "poor backchecking"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports", "hockey"]
+        }
+      ]
+    },
+    {
+      "term": "backchecks",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person singular of backcheck.",
+          "examples": ["Every forward backchecks in this system.", "She backchecks better than most defenders.", "He backchecks on every rush."],
+          "collocations": ["always backchecks", "relentlessly backchecks"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports", "hockey"]
+        }
+      ]
+    },
+    {
+      "term": "backcloth",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A large painted cloth at the back of a theatre stage as background.",
+          "examples": ["The backcloth showed a mountain scene.", "They painted a new backcloth for the play.", "Change the backcloth between acts."],
+          "collocations": ["painted backcloth", "theatre backcloth", "scenic backcloth", "backdrop backcloth"],
+          "synonyms": ["backdrop", "scrim"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["theater"]
+        }
+      ]
+    },
+    {
+      "term": "backcloths",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of backcloth; multiple theatre backgrounds.",
+          "examples": ["The production used several backcloths.", "Store the backcloths in the loft.", "We need three backcloths for the show."],
+          "collocations": ["multiple backcloths", "various backcloths"],
+          "synonyms": ["backdrops"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["theater"]
+        }
+      ]
+    },
+    {
+      "term": "backcomb",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To comb hair from ends to roots to make it full and fluffy.",
+          "examples": ["Backcomb your hair for more volume.", "She backcombs before curling.", "Backcomb the top layers only."],
+          "collocations": ["gently backcomb", "backcomb roots", "tease backcomb", "volume backcomb"],
+          "synonyms": ["tease", "rat"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["hairdressing", "beauty"]
+        }
+      ]
+    },
+    {
+      "term": "backcombed",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of backcomb; combed hair for volume.",
+          "examples": ["Her hair was backcombed perfectly.", "I backcombed mine too high.", "The style was backcombed for the event."],
+          "collocations": ["heavily backcombed", "lightly backcombed"],
+          "synonyms": ["teased"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["hairdressing"]
+        }
+      ]
+    },
+    {
+      "term": "backcombing",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The technique of combing hair towards the scalp for fullness.",
+          "examples": ["Backcombing gives instant height.", "Avoid too much backcombing daily.", "Master backcombing for big hair."],
+          "collocations": ["gentle backcombing", "root backcombing", "professional backcombing"],
+          "synonyms": ["teasing", "ratting"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["hairdressing", "beauty"]
+        }
+      ]
+    },
+    {
+      "term": "backcombs",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person singular of backcomb.",
+          "examples": ["She backcombs her bangs every morning.", "The stylist backcombs for extra lift.", "He backcombs before spraying."],
+          "collocations": ["carefully backcombs", "quickly backcombs"],
+          "synonyms": ["teases"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["hairdressing"]
+        }
+      ]
+    },
+    {
+      "term": "backcountries",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of backcountry; remote wilderness areas.",
+          "examples": ["These backcountries attract adventurers.", "Protect the backcountries from development.", "Maps cover various backcountries."],
+          "collocations": ["remote backcountries", "rugged backcountries"],
+          "synonyms": ["wildernesses"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography", "outdoors"]
+        }
+      ]
+    },
+    {
+      "term": "backcountry",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Remote, rugged areas far from roads and cities, used for outdoor activities.",
+          "examples": ["Backcountry skiing is dangerous.", "They explored the backcountry by snowshoe.", "Respect backcountry rules and wildlife."],
+          "collocations": ["backcountry skiing", "backcountry camping", "backcountry trails", "remote backcountry", "rugged backcountry"],
+          "synonyms": ["wilderness", "outback", "bush"],
+          "antonyms": ["city", "urban area"],
+          "register": "null",
+          "domain": ["outdoors", "geography", "sports"]
+        }
+      ]
+    }
+  ]
+}
+```

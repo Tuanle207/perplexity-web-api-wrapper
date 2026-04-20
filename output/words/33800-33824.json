@@ -1,0 +1,418 @@
+```json
+{
+  "items": [
+    {
+      "term": "baseej",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "basehead",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "slang term for someone addicted to freebase cocaine",
+          "examples": ["The basehead wandered the streets looking for a fix.", "He tried to help his friend, but the basehead life was too deep."],
+          "collocations": ["crack basehead", "street basehead", "desperate basehead"],
+          "synonyms": ["crackhead"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["slang", "drugs"]
+        }
+      ]
+    },
+    {
+      "term": "baseheads",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basehead; people addicted to freebase cocaine",
+          "examples": ["Baseheads gathered near the alley.", "The neighborhood was full of baseheads after dark."],
+          "collocations": ["crack baseheads", "street baseheads"],
+          "synonyms": ["crackheads"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["slang", "drugs"]
+        }
+      ]
+    },
+    {
+      "term": "basehearted",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a low, mean, or cowardly heart",
+          "examples": ["He called his rival basehearted for the betrayal.", "Her basehearted actions shocked everyone."],
+          "collocations": ["basehearted coward", "basehearted traitor"],
+          "synonyms": ["cowardly", "vile"],
+          "antonyms": ["noble", "brave"],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "baseheartedness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "quality of being basehearted; cowardice or vileness",
+          "examples": ["His baseheartedness was evident in his excuses.", "She accused him of baseheartedness."],
+          "collocations": ["pure baseheartedness", "reveal baseheartedness"],
+          "synonyms": ["cowardice"],
+          "antonyms": ["bravery"],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "baselard",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a medieval dagger with a broad blade",
+          "examples": ["The knight carried a baselard at his belt.", "Baselards were common weapons in the 14th century."],
+          "collocations": ["medieval baselard", "dagger baselard"],
+          "synonyms": ["dagger"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "weapons"]
+        }
+      ]
+    },
+    {
+      "term": "baselards",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baselard; medieval daggers",
+          "examples": ["The museum displayed several baselards.", "Soldiers wore baselards as sidearms."],
+          "collocations": ["medieval baselards", "collection of baselards"],
+          "synonyms": ["daggers"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "weapons"]
+        }
+      ]
+    },
+    {
+      "term": "baseless",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without foundation or reason",
+          "examples": ["The rumors were completely baseless.", "She dismissed his baseless claims.", "His fears proved baseless."],
+          "collocations": ["baseless accusation", "baseless rumor", "baseless fear", "baseless claim", "baseless allegation"],
+          "synonyms": ["groundless", "unfounded"],
+          "antonyms": ["founded", "justified"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baselessly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that lacks foundation",
+          "examples": ["He baselessly attacked her character.", "The story was baselessly repeated."],
+          "collocations": ["accuse baselessly", "claim baselessly"],
+          "synonyms": ["groundlessly"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baselessness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "quality of lacking foundation",
+          "examples": ["The baselessness of the argument was clear.", "He pointed out the baselessness of her fears."],
+          "collocations": ["prove baselessness", "total baselessness"],
+          "synonyms": ["groundlessness"],
+          "antonyms": ["foundation"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baselessnesses",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baselessness; instances of lacking foundation",
+          "examples": ["The report listed various baselessnesses.", "He exposed the baselessnesses in their logic."],
+          "collocations": ["multiple baselessnesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baselevel",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baselike",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baseline",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a standard or starting point for comparison",
+          "examples": ["Sales this month beat last year's baseline.", "We need to establish a baseline for the project."],
+          "collocations": ["baseline measurement", "baseline data", "baseline comparison", "establish baseline", "baseline level"],
+          "synonyms": ["standard", "reference"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "science", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "line at the end of a tennis or basketball court",
+          "examples": ["She served from the baseline.", "He dribbled along the baseline."],
+          "collocations": ["baseline shot", "from the baseline", "baseline drive"],
+          "synonyms": ["end line"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "baseliner",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "tennis player who hits shots from the back of the court",
+          "examples": ["She's a consistent baseliner.", "The baseliner controlled the rally."],
+          "collocations": ["aggressive baseliner", "defensive baseliner"],
+          "synonyms": ["baseline player"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "baseliners",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baseliner; tennis players who play from the back",
+          "examples": ["The baseliners dominated the match.", "Modern tennis favors baseliners."],
+          "collocations": ["consistent baseliners"],
+          "synonyms": ["baseline players"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "baselines",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baseline; standards or starting points",
+          "examples": ["Compare results against previous baselines.", "The baselines shifted over time."],
+          "collocations": ["multiple baselines", "new baselines"],
+          "synonyms": ["standards"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "science"]
+        },
+        {
+          "pos": "noun",
+          "definition": "lines at the ends of tennis or basketball courts",
+          "examples": ["Players ran between the baselines.", "She hit the ball over the baselines."],
+          "collocations": ["court baselines"],
+          "synonyms": ["end lines"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "basella",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "genus of tropical plants including Malabar spinach",
+          "examples": ["Basella alba is a leafy vegetable.", "Farmers grow basella for its leaves."],
+          "collocations": ["Basella alba", "Basella plant"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "basellaceae",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "family of flowering plants including Basella",
+          "examples": ["Basellaceae includes vine plants.", "The Basellaceae family is tropical."],
+          "collocations": ["Basellaceae family"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "basellaceous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the Basellaceae family",
+          "examples": ["Basellaceous plants thrive in heat.", "It is a basellaceous vine."],
+          "collocations": ["basellaceous vine", "basellaceous species"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "baseload",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "minimum constant load on an electrical power system",
+          "examples": ["Nuclear plants provide baseload power.", "Baseload keeps the grid stable."],
+          "collocations": ["baseload power", "baseload capacity", "baseload demand", "baseload generation"],
+          "synonyms": ["base load"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["energy", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "baseloads",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baseload; minimum loads on power systems",
+          "examples": ["Different regions have varying baseloads.", "Utilities manage multiple baseloads."],
+          "collocations": ["daily baseloads"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["energy"]
+        }
+      ]
+    },
+    {
+      "term": "basely",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a mean, dishonorable, or cowardly way",
+          "examples": ["He acted basely toward his friends.", "She spoke basely of her family."],
+          "collocations": ["betray basely", "act basely"],
+          "synonyms": ["vilely", "cowardly"],
+          "antonyms": ["nobly"],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "baseman",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "baseball player guarding first, second, or third base",
+          "examples": ["The first baseman caught the throw.", "He's a great second baseman."],
+          "collocations": ["first baseman", "second baseman", "third baseman", "good baseman"],
+          "synonyms": ["infielder"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "basemen",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baseman; baseball players at bases",
+          "examples": ["The basemen turned a double play.", "Strong basemen win games."],
+          "collocations": ["skilled basemen", "defensive basemen"],
+          "synonyms": ["infielder"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    }
+  ]
+}
+```

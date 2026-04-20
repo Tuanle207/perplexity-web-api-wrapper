@@ -1,0 +1,424 @@
+{
+  "items": [
+    {
+      "term": "nonvoid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not void; containing or producing something substantial or of value; not empty.",
+          "examples": [
+            "The contract gave the nonvoid promise of real benefits.",
+            "Their argument seemed nonvoid with concrete evidence."
+          ],
+          "collocations": ["nonvoid argument", "nonvoid reservoir", "nonvoid evidence"],
+          "synonyms": ["substantial", "meaningful"],
+          "antonyms": ["void", "empty"],
+          "register": "formal",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nonvoidable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not able to be voided or invalidated; not cancelable.",
+          "examples": [
+            "The agreement is nonvoidable once signed by both parties.",
+            "This clause is nonvoidable under current law."
+          ],
+          "collocations": ["nonvoidable clause", "nonvoidable contract"],
+          "synonyms": ["non-cancelable", "irrevocable"],
+          "antonyms": ["voidable", "cancellable"],
+          "register": "formal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonvolant",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not volant; not flying or capable of flight; earthbound.",
+          "examples": [
+            "The nonvolant animal stayed on the ground.",
+            "Some seeds are nonvolant and rely on being moved by wind."
+          ],
+          "collocations": ["nonvolant creature", "nonvolant seed"],
+          "synonyms": ["grounded", "flightless"],
+          "antonyms": ["volant", "flying"],
+          "register": "formal",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonvolatile",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not volatile; not easily evaporated or changing; stable in form or value.",
+          "examples": [
+            "Nonvolatile memory retains data without power.",
+            "Investors preferred nonvolatile assets during the market downturn."
+          ],
+          "collocations": ["nonvolatile memory", "nonvolatile compound", "nonvolatile behavior"],
+          "synonyms": ["stable", "persistent", "inert"],
+          "antonyms": ["volatile", "ephemeral"],
+          "register": "formal",
+          "domain": ["technology", "finance", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonvolatileness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality of being nonvolatile; stability or persistence of substance or value.",
+          "examples": [
+            "The nonvolatileness of the memory makes it reliable.",
+            "Nonvolatileness is prized in long-term data storage."
+          ],
+          "collocations": ["degree of nonvolatileness", "nonvolatileness of memory"],
+          "synonyms": ["stability", "persistence"],
+          "antonyms": ["volatility", "instability"],
+          "register": "formal",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonvolatility",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The state of not being volatile; tendency to remain stable or unchanged.",
+          "examples": [
+            "Nonvolatility is important for long-term data storage and firmware.",
+            "The system was praised for its nonvolatility during power fluctuations."
+          ],
+          "collocations": ["degree of nonvolatility", "high nonvolatility"],
+          "synonyms": ["stability", "consistency"],
+          "antonyms": ["volatility", "instability"],
+          "register": "formal",
+          "domain": ["technology", "finance", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonvolatilizable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not able to be made nonvolatile; incapable of being stabilized or made persistent.",
+          "examples": [
+            "The compound is nonvolatilizable under standard conditions.",
+            "Some substances are inherently nonvolatilizable."
+          ],
+          "collocations": ["nonvolatilizable compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "nonvolatilized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not volatilized; not converted into a vapor or gas.",
+          "examples": [
+            "The sample remained nonvolatilized after heating.",
+            "Nonvolatilized residues stayed in the container."
+          ],
+          "collocations": ["nonvolatilized residue", "nonvolatilized compound"],
+          "synonyms": ["non-evaporated"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonvolatiness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality of not evaporating; stability in staying as a liquid or solid without vaporizing.",
+          "examples": [
+            "Nonvolatiness helps retain material in a closed system.",
+            "Engineers measured the nonvolatiness of the sealant."
+          ],
+          "collocations": ["measure of nonvolatiness", "high nonvolatiness"],
+          "synonyms": ["non-evaporation", "stability"],
+          "antonyms": ["volatility", "evaporation"],
+          "register": "formal",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "nonvoluble",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not volume-able; unable to be filled or measured by volume.",
+          "examples": [
+            "The container is nonvoluble due to its fixed capacity.",
+            "Nonvoluble buffers cannot be poured."
+          ],
+          "collocations": ["nonvoluble container"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nonvolubleness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality of being nonvoluble; incapacity to change volume.",
+          "examples": [
+            "Nonvolubleness characterizes the solid, incompressible material.",
+            "Engineers noted the nonvolubleness of the alloy."
+          ],
+          "collocations": ["degree of nonvolubleness"],
+          "synonyms": ["incompressibility", "rigidity"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "nonvolubly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a nonvoluble manner; without changing volume.",
+          "examples": [
+            "The liquid settled nonvolubly in the flask.",
+            "Substances behaved nonvolubly under the test conditions."
+          ],
+          "collocations": ["remain nonvolubly", "nonvolubly stable"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "laboratory"]
+        }
+      ]
+    },
+    {
+      "term": "nonvoluntary",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not chosen or done by one's own will; involuntary.",
+          "examples": [
+            "Blinking is a nonvoluntary action.",
+            "Nonvoluntary manslaughter is a legal term in some jurisdictions."
+          ],
+          "collocations": ["nonvoluntary movement", "nonvoluntary action"],
+          "synonyms": ["involuntary"],
+          "antonyms": ["voluntary"],
+          "register": "formal",
+          "domain": ["law", "medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonvortical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not vortical; lacking a vortex or spiral motion.",
+          "examples": [
+            "The flow was nonvortical and smooth.",
+            "Nonvortical currents indicated laminar movement."
+          ],
+          "collocations": ["nonvortical flow"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "physics"]
+        }
+      ]
+    },
+    {
+      "term": "nonvortically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a nonvortical manner; without vortex behavior.",
+          "examples": [
+            "The fluid circulated nonvortically under steady conditions.",
+            "Nonvortically, the system remained stable."
+          ],
+          "collocations": ["move nonvortically"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "nonvoter",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who does not vote.",
+          "examples": [
+            "The election had many nonvoters.",
+            "Campaign efforts targeted first-time nonvoters."
+          ],
+          "collocations": ["young nonvoter", "increase nonvoter turnout"],
+          "synonyms": ["unregistered voter", "nonparticipant"],
+          "antonyms": ["voter", "elector"],
+          "register": "neutral",
+          "domain": ["politics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonvoters",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "People who do not vote, plural.",
+          "examples": [
+            "Nonvoters often cite disillusionment with politics.",
+            "The surveys examined reasons of nonvoters."
+          ],
+          "collocations": ["statistical nonvoters", "nonvoters turnout"],
+          "synonyms": ["nonparticipants"],
+          "antonyms": ["voters"],
+          "register": "neutral",
+          "domain": ["politics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonvoting",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of not voting; abstaining from a vote.",
+          "examples": [
+            "Nonvoting is a form of political expression for some people.",
+            "The bill passed despite widespread nonvoting on the final tally."
+          ],
+          "collocations": ["pattern of nonvoting", "nonvoting behavior"],
+          "synonyms": ["abstention", "no-vote"],
+          "antonyms": ["voting"],
+          "register": "neutral",
+          "domain": ["politics", "social"]
+        }
+      ]
+    },
+    {
+      "term": "nonvulcanizable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not vulcanizable; cannot be processed to become vulcanized.",
+          "examples": [
+            "This rubber is nonvulcanizable under standard equipment.",
+            "Some compounds are inherently nonvulcanizable."
+          ],
+          "collocations": ["nonvulcanizable rubber"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "nonvulcanized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not vulcanized; in its raw rubber form before vulcanization.",
+          "examples": [
+            "Nonvulcanized rubber is softer and needs processing.",
+            "The factory supplies nonvulcanized sheets."
+          ],
+          "collocations": ["nonvulcanized rubber", "nonvulcanized material"],
+          "synonyms": ["raw rubber"],
+          "antonyms": ["vulcanized"],
+          "register": "formal",
+          "domain": ["technology", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "nonvulgarities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Absence of vulgarities; the quality of being nonvulgar.",
+          "examples": [
+            "The article is noted for its nonvulgarities and clarity.",
+            "Parents appreciated the nonvulgarities in the children’s book."
+          ],
+          "collocations": ["nonvulgarities in speech", "display nonvulgarities"],
+          "synonyms": ["politeness", "decency"],
+          "antonyms": ["vulgarities"],
+          "register": "formal",
+          "domain": ["language", "communication"]
+        }
+      ]
+    }
+  ]
+}

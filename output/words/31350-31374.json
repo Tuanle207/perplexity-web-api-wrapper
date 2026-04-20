@@ -1,0 +1,441 @@
+```json
+{
+  "items": [
+    {
+      "term": "baillie",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a municipal officer or magistrate in Scotland, especially in the past.",
+          "examples": ["The baillie presided over the town court.", "Local disputes were settled by the baillie.", "He was elected baillie in 1750."],
+          "collocations": ["town baillie", "chief baillie", "former baillie", "district baillie", "bailie court"],
+          "synonyms": ["magistrate", "alderman"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "history", "Scotland"]
+        }
+      ]
+    },
+    {
+      "term": "baillies",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baillie; municipal officers or magistrates in Scotland.",
+          "examples": ["The baillies met to discuss town matters.", "Local baillies enforced the bylaws.", "Several baillies attended the ceremony."],
+          "collocations": ["town baillies", "chief baillies", "former baillies"],
+          "synonyms": ["magistrates", "aldermen"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "history", "Scotland"]
+        }
+      ]
+    },
+    {
+      "term": "baillieship",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the office or position of a baillie.",
+          "examples": ["He held the baillieship for ten years.", "Baillieship was a position of local authority."],
+          "collocations": ["former baillieship", "chief baillieship"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "history", "Scotland"]
+        }
+      ]
+    },
+    {
+      "term": "baillieships",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baillieship; offices of baillies.",
+          "examples": ["Records list past baillieships."],
+          "collocations": ["various baillieships"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "history", "Scotland"]
+        }
+      ]
+    },
+    {
+      "term": "baillis",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailli; a French bailiff or administrative officer.",
+          "examples": ["The baillis governed the provinces.", "Medieval baillis collected taxes."],
+          "collocations": ["royal baillis", "provincial baillis"],
+          "synonyms": ["bailiffs"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "history", "France"]
+        }
+      ]
+    },
+    {
+      "term": "baillone",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or dialectal term with no established common sense in contemporary English.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "baillonella",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a genus of trees in the family Lecythidaceae, native to tropical Africa.",
+          "examples": ["Baillonella toxisperma is a valuable timber tree.", "The wood from baillonella is used locally."],
+          "collocations": ["Baillonella toxisperma", "African baillonella"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["botany", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "bailment",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of handing over personal property to another for a specific purpose, creating a legal duty to return it.",
+          "examples": ["The contract specified the terms of the bailment.", "This was a bailment for safekeeping.", "The court ruled on the bailment dispute."],
+          "collocations": ["gratuitous bailment", "bailment contract", "bailment for hire", "voluntary bailment"],
+          "synonyms": ["delivery", "entrustment"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailments",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailment; multiple acts of handing over property.",
+          "examples": ["The warehouse handled many bailments.", "Records showed various bailments."],
+          "collocations": ["multiple bailments", "daily bailments"],
+          "synonyms": ["deliveries"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailo",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the Venetian ambassador or representative to the Ottoman Empire.",
+          "examples": ["The bailo negotiated with the Sultan.", "Historical accounts mention the bailo in Constantinople."],
+          "collocations": ["Venetian bailo"],
+          "synonyms": ["ambassador"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "diplomacy"]
+        }
+      ]
+    },
+    {
+      "term": "bailor",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who delivers personal property to another under a bailment.",
+          "examples": ["The bailor entrusted the goods to the warehouse.", "As bailor, she expected their safe return."],
+          "collocations": ["original bailor", "bailor liability"],
+          "synonyms": ["deliverer"],
+          "antonyms": ["bailee"],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailors",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailor; people who deliver property under bailment.",
+          "examples": ["Multiple bailors used the service.", "The bailors claimed their items."],
+          "collocations": ["various bailors"],
+          "synonyms": ["deliverers"],
+          "antonyms": ["bailees"],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailout",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "financial help given to rescue a business or country from bankruptcy.",
+          "examples": ["The government approved a bailout for the bank.", "The company received a bailout package."],
+          "collocations": ["government bailout", "financial bailout", "bank bailout", "corporate bailout", "economic bailout"],
+          "synonyms": ["rescue", "lifeline"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "finance", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "bailouts",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailout; multiple financial rescues.",
+          "examples": ["Several bailouts were needed in 2008.", "The bailouts cost taxpayers billions."],
+          "collocations": ["multiple bailouts", "recent bailouts"],
+          "synonyms": ["rescues"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "bailpiece",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a piece of timber used in certain traditional constructions.",
+          "examples": [],
+          "collocations": ["bailpiece wood"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "bails",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bail; the crossbars on top of the wicket stumps in cricket.",
+          "examples": ["The ball hit the bails.", "The bails fell off."],
+          "collocations": ["top bails", "stumps and bais"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "cricket"]
+        },
+        {
+          "pos": "noun",
+          "definition": "plural of bail; money paid to release someone from jail temporarily.",
+          "examples": ["He posted bails for his friends.", "Courts set high bails."],
+          "collocations": ["post bails", "high bails"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailsman",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who provides bail for another.",
+          "examples": ["The bailsman guaranteed his appearance in court.", "He acted as bailsman for his brother."],
+          "collocations": ["professional bailsman"],
+          "synonyms": ["surety"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailsmen",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailsman; people who provide bail.",
+          "examples": ["Local bailsmen were in demand.", "The bailsmen signed the bonds."],
+          "collocations": ["various bailsmen"],
+          "synonyms": ["sureties"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailwood",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "wood used for making bails in cricket.",
+          "examples": [],
+          "collocations": ["cricket bailwood"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "bain",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a bath or immersion, especially in hot water (Scottish or dialectal).",
+          "examples": ["Take a bain to warm up."],
+          "collocations": ["hot bain"],
+          "synonyms": ["bath"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["Scotland", "dialect"]
+        }
+      ]
+    },
+    {
+      "term": "bainie",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of fine white linen cloth (Irish/Scottish).",
+          "examples": [],
+          "collocations": ["fine bainie"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["textiles", "dialect"]
+        }
+      ]
+    },
+    {
+      "term": "bainin",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "white baize or flannel cloth (Irish/Scottish dialect).",
+          "examples": [],
+          "collocations": ["bainin cloth"],
+          "synonyms": ["baize"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["textiles", "dialect"]
+        }
+      ]
+    },
+    {
+      "term": "baining",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the practice of taking a bain or bath (dialectal).",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["dialect"]
+        }
+      ]
+    },
+    {
+      "term": "bainins",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bainin; pieces of white baize cloth.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["textiles", "dialect"]
+        }
+      ]
+    },
+    {
+      "term": "bainite",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a microstructure of steel formed by transformation during cooling.",
+          "examples": ["The steel contained bainite for strength.", "Bainite improves toughness."],
+          "collocations": ["upper bainite", "lower bainite", "bainite microstructure"],
+          "synonyms": [],
+          "antonyms": ["martensite", "pearlite"],
+          "register": "formal",
+          "domain": ["technology", "metallurgy", "engineering"]
+        }
+      ]
+    }
+  ]
+}
+```

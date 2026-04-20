@@ -1,0 +1,481 @@
+```json
+{
+  "items": [
+    {
+      "term": "bashalick",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of pasha's district or territory in the Ottoman Empire",
+          "examples": ["The bashalick was governed by a local leader."],
+          "collocations": ["Ottoman bashalick", "govern bashalick"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bashara",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a surname or a place name in some cultures",
+          "examples": ["Bashara family lives nearby."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["names"]
+        }
+      ]
+    },
+    {
+      "term": "bashaw",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a pasha or high-ranking Turkish officer",
+          "examples": ["The bashaw commanded the troops.", "He acted like a bashaw in the village."],
+          "collocations": ["grand bashaw", "Turkish bashaw"],
+          "synonyms": ["pasha"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bashawdom",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the rank, authority, or territory of a bashaw",
+          "examples": ["He ruled over the bashawdom with an iron fist."],
+          "collocations": ["bashawdom rule"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bashawism",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the rule or practices of a bashaw",
+          "examples": ["Bashawism dominated the region."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bashawisms",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bashawism; practices of bashaws",
+          "examples": ["The bashawisms were oppressive."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bashaws",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bashaw; Turkish officers",
+          "examples": ["The bashaws met to discuss strategy."],
+          "collocations": ["several bashaws"],
+          "synonyms": ["pashas"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bashawship",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the position or dignity of a bashaw",
+          "examples": ["He was appointed to bashawship."],
+          "collocations": ["bashawship position"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bashawships",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bashawship",
+          "examples": ["Multiple bashawships were created."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bashed",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bash; hit hard",
+          "examples": ["He bashed the door open.", "She bashed her knee on the table."],
+          "collocations": ["bashed head", "bashed car", "bashed in"],
+          "synonyms": ["hit", "struck", "smashed"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "past tense of bash; criticized strongly (informal)",
+          "examples": ["The critics bashed the movie."],
+          "collocations": ["bashed film", "bashed politician"],
+          "synonyms": ["criticized", "slammed"],
+          "antonyms": ["praised"],
+          "register": "informal",
+          "domain": ["media"]
+        }
+      ]
+    },
+    {
+      "term": "basher",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "person who hits hard",
+          "examples": ["The basher broke the window."],
+          "collocations": ["right-wing basher"],
+          "synonyms": ["hitter"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "person who criticizes strongly",
+          "examples": ["He's a film basher."],
+          "collocations": ["government basher", "Labour basher"],
+          "synonyms": ["critic"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["media"]
+        }
+      ]
+    },
+    {
+      "term": "bashers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basher",
+          "examples": ["The bashers attacked the policy."],
+          "collocations": ["anti-government bashers"],
+          "synonyms": ["critics"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["media"]
+        }
+      ]
+    },
+    {
+      "term": "bashes",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bash; lively party (informal)",
+          "examples": ["They went to wild bashes every weekend."],
+          "collocations": ["big bash", "wild bash"],
+          "synonyms": ["parties"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person of bash; hits hard",
+          "examples": ["He bashes the drum loudly."],
+          "collocations": ["bashes head"],
+          "synonyms": ["hits", "strikes"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bashful",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "shy and easily embarrassed",
+          "examples": ["The bashful child hid behind her mother.", "He gave a bashful smile."],
+          "collocations": ["bashful smile", "bashful look", "feel bashful"],
+          "synonyms": ["shy", "timid", "coy"],
+          "antonyms": ["bold", "confident"],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bashfully",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a shy or embarrassed way",
+          "examples": ["She bashfully accepted the gift.", "He bashfully looked away."],
+          "collocations": ["bashfully smiled", "bashfully spoke"],
+          "synonyms": ["shyly"],
+          "antonyms": ["boldly"],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bashfulness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being shy or embarrassed",
+          "examples": ["Her bashfulness charmed everyone."],
+          "collocations": ["overcome bashfulness"],
+          "synonyms": ["shyness"],
+          "antonyms": ["boldness"],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bashfulnesses",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bashfulness",
+          "examples": ["His bashfulnesses were endearing."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bashibazouk",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of an irregular Turkish army unit known for violence",
+          "examples": ["The bashibazouk charged into battle."],
+          "collocations": ["Turkish bashibazouk"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "military"]
+        }
+      ]
+    },
+    {
+      "term": "bashibazouks",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bashibazouk",
+          "examples": ["Bashibazouks terrorized the area."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bashilange",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of snake in southern Africa",
+          "examples": ["The bashilange slithered through the grass."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bashing",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of hitting someone or something hard",
+          "examples": ["The bashing damaged the car."],
+          "collocations": ["head bashing", "severe bashing"],
+          "synonyms": ["beating"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "strong public criticism",
+          "examples": ["The politician received a media bashing."],
+          "collocations": ["policy bashing", "government bashing"],
+          "synonyms": ["criticism"],
+          "antonyms": ["praise"],
+          "register": "informal",
+          "domain": ["media"]
+        }
+      ]
+    },
+    {
+      "term": "bashings",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bashing; acts of hitting or criticizing",
+          "examples": ["The team took several bashings this season."],
+          "collocations": ["repeated bashings"],
+          "synonyms": ["beatings", "criticisms"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "media"]
+        }
+      ]
+    },
+    {
+      "term": "bashkir",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of a Turkic people from the Bashkortostan region",
+          "examples": ["The Bashkir attended the cultural festival."],
+          "collocations": ["Bashkir people"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["ethnicity"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to the Bashkir people or their language",
+          "examples": ["Bashkir traditions are unique."],
+          "collocations": ["Bashkir language", "Bashkir culture"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["ethnicity"]
+        }
+      ]
+    },
+    {
+      "term": "bashless",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without sudden loud noise or strike",
+          "examples": ["The bashless entry surprised no one."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bashlik",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of hood or cowl worn in the Caucasus region",
+          "examples": ["He wore a bashlik in the cold wind."],
+          "collocations": ["woolen bashlik"],
+          "synonyms": ["hood"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["clothing"]
+        }
+      ]
+    }
+  ]
+}
+```

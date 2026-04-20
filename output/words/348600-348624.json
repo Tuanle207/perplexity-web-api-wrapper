@@ -1,0 +1,449 @@
+{
+  "items": [
+    {
+      "term": "seasonings",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "spices or flavorings added to food to enhance taste",
+          "examples": ["The kitchen cabinet is stocked with salt, pepper, and other seasonings."],
+          "collocations": ["spice seasonings", "herb seasonings", "seasonings mix", "seasonings cabinet", "seasonings rack"],
+          "synonyms": ["spices", "flavorings"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "food"]
+        }
+      ]
+    },
+    {
+      "term": "seasonless",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not associated with a particular season or time of year; not seasonal",
+          "examples": ["Seasonless fashion can be worn year-round."],
+          "collocations": ["seasonless fashion", "seasonless collection", "seasonless wine"],
+          "synonyms": ["timeless", "undated", "all-year-round"],
+          "antonyms": ["seasonal"],
+          "register": "neutral",
+          "domain": ["fashion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "seasons",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one of the four periods of the year: spring, summer, autumn (fall), and winter",
+          "examples": ["Winter is my least favorite season."],
+          "collocations": ["four seasons", "season of the year", "seasonal changes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "nature"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the act of bringing flavor or character to something by adding elements (in games, TV) or in sports, the period of a competition",
+          "examples": ["The TV show has three seasons."],
+          "collocations": ["season premiere", "season finale", "season ticket"],
+          "synonyms": ["term", "period"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media", "sport"]
+        }
+      ]
+    },
+    {
+      "term": "seaspeak",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "specialized vocabulary or jargon used at sea by sailors",
+          "examples": ["The captain warned that seaspeak could confuse new crew members."],
+          "collocations": ["marine seaspeak", "seamanship seaspeak"],
+          "synonyms": ["lingo", "pirate-speak (informal)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["language", "marine"]
+        }
+      ]
+    },
+    {
+      "term": "seaspeaks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the plural or verb form referring to sea-speech terms or the act of speaking in seaspeak",
+          "examples": ["The crew used seaspeaks to communicate quickly."],
+          "collocations": ["seaspeaks terms", "under seaspeaks"],
+          "synonyms": ["lingo", "naval jargon"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["language", "maritime"]
+        }
+      ]
+    },
+    {
+      "term": "seastar",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a marine animal with five or more arms, also called starfish",
+          "examples": ["The seastar clung to the rock."],
+          "collocations": ["blue seastar", "harvested seastar", "seastar population"],
+          "synonyms": ["starfish"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "seastrand",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a strand or edge of the sea; a coastline area',
+          "examples": ["We walked along the seastrand at sunset."],
+          "collocations": ["seastrand path", "seastrand walk"],
+          "synonyms": ["seashore", "coastline"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "seastrands",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seastrand; multiple coastlines or coastline areas",
+          "examples": ["We explored several seastrands along the bay."],
+          "collocations": ["seastrands along the coast", "different seastrands"],
+          "synonyms": ["seashores", "coastlines"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "seastroke",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a stroke of the sea, referring to waves or a sudden movement of the sea",
+          "examples": ["A strong seastroke knocked the boat off course."],
+          "collocations": ["violent seastroke", "seastroke pattern"],
+          "synonyms": ["wave", "tide"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["marine", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "seasure",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a measurement or act of ceasing to measure; archaic usage for seizure or assessment",
+          "examples": ["The seasure of the lands was recorded in the charter."],
+          "collocations": ["land seasure", "tax seasure"],
+          "synonyms": ["seizure", "assessment"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["law", "history"]
+        }
+      ]
+    },
+    {
+      "term": "seasures",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seasure; acts of measuring or seizures (archaic)",
+          "examples": ["Records of seasures were kept in the old archive."],
+          "collocations": ["seasure records", "historic seasures"],
+          "synonyms": ["seizures", "assessments"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["law", "history"]
+        }
+      ]
+    },
+    {
+      "term": "seat",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a thing for sitting on; a place to sit",
+          "examples": ["Take a seat and relax."],
+          "collocations": ["seat belt", "seat cushion", "aisle seat"],
+          "synonyms": ["chair", "stool"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to be located or placed in a particular place",
+          "examples": ["The meeting is seated in the main hall."],
+          "collocations": ["seat yourself", "seat the guests"],
+          "synonyms": ["place", "position"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "seatang",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "nonsense or placeholder term; no established meaning in standard English",
+          "examples": ["Seatang was sprinkled into the draft as a placeholder."],
+          "collocations": ["seatang placeholder"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["miscellaneous"]
+        }
+      ]
+    },
+    {
+      "term": "seatback",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the part of a chair or seat that supports your back",
+          "examples": ["The seatback is adjustable for comfort."],
+          "collocations": ["car seatback", "adjust seatback"],
+          "synonyms": ["backrest"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transport"]
+        }
+      ]
+    },
+    {
+      "term": "seatbacks",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seatback; multiple backrests on seats",
+          "examples": ["The airplane has reclining seatbacks."],
+          "collocations": ["folding seatbacks", "reclining seatbacks"],
+          "synonyms": ["backrests"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transport"]
+        }
+      ]
+    },
+    {
+      "term": "seatbelt",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a safety strap that goes over a person in a vehicle to keep them in place",
+          "examples": ["Fasten your seatbelt before the car starts."],
+          "collocations": ["fasten seatbelt", "seatbelt warning", "seatbelt sign"],
+          "synonyms": ["safety belt"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["transport", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "seatbelts",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seatbelt; multiple safety belts",
+          "examples": ["All passengers must wear their seatbelts."],
+          "collocations": ["wear seatbelts", "seatbelts on"],
+          "synonyms": ["safety belts"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["transport", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "seated",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "already sitting in a chair or place",
+          "examples": ["The guests were seated near the window."],
+          "collocations": ["seated area", "seated position"],
+          "synonyms": ["sitting", "sat"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "seater",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who sits; a seat or chair (informal for a person who repeatedly sits in a place)",
+          "examples": ["He's a heavy seater at the cinema."],
+          "collocations": ["front seater", "row seater"],
+          "synonyms": ["sitter"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["entertainment", "general"]
+        }
+      ]
+    },
+    {
+      "term": "seaters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seater; people who sit in a place or chairs",
+          "examples": ["The theater has several seaters in the lobby."],
+          "collocations": ["injury seaters", "late seaters"],
+          "synonyms": ["sitters"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["entertainment", "general"]
+        }
+      ]
+    },
+    {
+      "term": "seathe",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to put into a seat; to seat someone (archaic/rare usage)",
+          "examples": ["They seathe the honored guest at the head of the table."],
+          "collocations": ["seat?","seathe the guests"],
+          "synonyms": ["seat", "place"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "history"]
+        }
+      ]
+    },
+    {
+      "term": "seating",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of providing seats or the arrangement of seats",
+          "examples": ["The seating plan shows where everyone will sit."],
+          "collocations": ["arrangement of seating", "seating area"],
+          "synonyms": ["sitting", "placement"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "events"]
+        }
+      ]
+    },
+    {
+      "term": "seatings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seating; arrangements of seats",
+          "examples": ["The theatre's seatings were adjusted for accessibility."],
+          "collocations": ["theatre seatings", "seatings plan"],
+          "synonyms": ["sitings", "arrangements"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["theatre", "events"]
+        }
+      ]
+    },
+    {
+      "term": "seatless",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not having a seat; lacking places to sit",
+          "examples": ["The stadium was almost seatless due to the crowd."],
+          "collocations": ["seatless crowd", "seatless area"],
+          "synonyms": ["unseated", "without seats"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["events", "general"]
+        }
+      ]
+    },
+    {
+      "term": "seatmate",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the person who sits next to you on a plane, bus, etc.",
+          "examples": ["I chatted with my seatmate during the flight."],
+          "collocations": ["random seatmate", "seatmate conversation"],
+          "synonyms": ["neighbor", "adjacent passenger"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["travel", "social"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1652 @@
+{
+  "items": [
+    {
+      "term": "autodestructs",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Destroys itself by design, usually as part of a built-in safety or security system.",
+          "examples": [
+            "The spaceship autodestructs if it is captured by the enemy.",
+            "In the movie, the robot autodestructs to prevent anyone from copying its technology.",
+            "The device autodestructs automatically when it detects tampering."
+          ],
+          "collocations": [
+            "spaceship autodestructs",
+            "device autodestructs",
+            "system autodestructs",
+            "robot autodestructs",
+            "missile autodestructs"
+          ],
+          "synonyms": [
+            "self-destructs",
+            "destroys itself"
+          ],
+          "antonyms": [
+            "shuts down",
+            "disarms"
+          ],
+          "register": "null",
+          "domain": [
+            "technology",
+            "science_fiction"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodetector",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A device that automatically senses or detects a particular signal, substance, or condition without human control.",
+          "examples": [
+            "The gas autodetector sounds an alarm if dangerous levels are reached.",
+            "An autodetector can monitor radiation levels around the clock.",
+            "The system includes an autodetector for smoke and heat in the tunnel."
+          ],
+          "collocations": [
+            "gas autodetector",
+            "smoke autodetector",
+            "radiation autodetector",
+            "automatic autodetector",
+            "install an autodetector"
+          ],
+          "synonyms": [
+            "automatic detector",
+            "sensor"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "technology",
+            "engineering",
+            "safety"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodiagnosis",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of diagnosing a problem or illness by oneself, without professional help, or by a system diagnosing its own faults.",
+          "examples": [
+            "Online autodiagnosis of medical symptoms can be risky.",
+            "The software performs autodiagnosis and reports any errors.",
+            "Relying only on autodiagnosis may delay proper treatment."
+          ],
+          "collocations": [
+            "medical autodiagnosis",
+            "software autodiagnosis",
+            "perform autodiagnosis",
+            "rely on autodiagnosis",
+            "automatic autodiagnosis"
+          ],
+          "synonyms": [
+            "self-diagnosis"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "medicine",
+            "technology",
+            "everyday"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodiagnostic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Able to diagnose itself or its own problems automatically.",
+          "examples": [
+            "The autodiagnostic program checks the computer’s hardware every time it starts.",
+            "Many modern cars have autodiagnostic systems built into the engine.",
+            "The device sends an autodiagnostic report to the service center."
+          ],
+          "collocations": [
+            "autodiagnostic system",
+            "autodiagnostic tool",
+            "autodiagnostic program",
+            "autodiagnostic test",
+            "built-in autodiagnostic"
+          ],
+          "synonyms": [
+            "self-diagnosing",
+            "self-checking"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "technology",
+            "engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodiagrammatic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or using diagrams that are generated or explained automatically, often by a system about itself.",
+          "examples": [
+            "The software includes an autodiagrammatic feature that shows how the data flows.",
+            "Autodiagrammatic tools can help engineers understand complex circuits.",
+            "An autodiagrammatic display updates itself in real time."
+          ],
+          "collocations": [
+            "autodiagrammatic display",
+            "autodiagrammatic feature",
+            "autodiagrammatic tool",
+            "autodiagrammatic representation",
+            "autodiagrammatic system"
+          ],
+          "synonyms": [
+            "automatic-diagramming"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "technology",
+            "engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodial",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To dial a phone number automatically, without the user pressing each digit.",
+          "examples": [
+            "The alarm system will autodial the police if the door is forced.",
+            "You can program the phone to autodial emergency services.",
+            "The modem will autodial the server every night at midnight."
+          ],
+          "collocations": [
+            "autodial a number",
+            "autodial emergency services",
+            "program to autodial",
+            "system autodial",
+            "modem autodial"
+          ],
+          "synonyms": [
+            "speed-dial",
+            "auto-call"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "technology",
+            "telecommunications"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodialed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Dialed a phone number automatically, without manual input.",
+          "examples": [
+            "The system autodialed several contacts from the list.",
+            "Her phone autodialed his number by mistake.",
+            "The computer autodialed the support center as soon as the error appeared."
+          ],
+          "collocations": [
+            "system autodialed",
+            "phone autodialed",
+            "autodialed the number",
+            "autodialed contacts",
+            "autodialed emergency services"
+          ],
+          "synonyms": [
+            "auto-dialed"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "telecommunications",
+            "technology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodialer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A device or software that automatically dials phone numbers, often from a stored list.",
+          "examples": [
+            "The call center uses an autodialer to reach customers quickly.",
+            "An autodialer can save time when making many calls.",
+            "He installed an autodialer that calls his phone if the alarm is triggered."
+          ],
+          "collocations": [
+            "use an autodialer",
+            "install an autodialer",
+            "predictive autodialer",
+            "automatic autodialer",
+            "autodialer software",
+            "autodialer system"
+          ],
+          "synonyms": [
+            "automatic dialer"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "business",
+            "telecommunications",
+            "technology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodialers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Devices or software programs that automatically dial phone numbers.",
+          "examples": [
+            "Telemarketers often use autodialers to place thousands of calls a day.",
+            "Some countries regulate the use of autodialers for marketing calls.",
+            "Modern autodialers can detect if a call is answered by a person or a machine."
+          ],
+          "collocations": [
+            "use autodialers",
+            "ban autodialers",
+            "marketing autodialers",
+            "predictive autodialers",
+            "automatic autodialers"
+          ],
+          "synonyms": [
+            "automatic dialers"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "business",
+            "telecommunications",
+            "law"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodialing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The action or process of dialing telephone numbers automatically.",
+          "examples": [
+            "Autodialing saves time in emergency response centers.",
+            "The company was fined for illegal autodialing of customers.",
+            "Autodialing helps call centers keep agents busy."
+          ],
+          "collocations": [
+            "automatic autodialing",
+            "illegal autodialing",
+            "predictive autodialing",
+            "autodialing system",
+            "autodialing technology"
+          ],
+          "synonyms": [
+            "automatic dialing"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "telecommunications",
+            "business",
+            "law"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodialled",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Dialled a phone number automatically, without manual input (chiefly British spelling).",
+          "examples": [
+            "The security system autodialled his mobile when the door opened.",
+            "Her phone accidentally autodialled the last number.",
+            "The computer autodialled the helpline during the test."
+          ],
+          "collocations": [
+            "system autodialled",
+            "phone autodialled",
+            "autodialled the number",
+            "automatically autodialled",
+            "autodialled emergency services"
+          ],
+          "synonyms": [
+            "auto-dialled"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "telecommunications",
+            "technology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodialling",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The British spelling of autodialing, meaning automatic dialing of phone numbers.",
+          "examples": [
+            "Autodialling is widely used in British call centers.",
+            "The law places limits on autodialling for marketing purposes.",
+            "Emergency services rely on autodialling in some alarm systems."
+          ],
+          "collocations": [
+            "automatic autodialling",
+            "marketing autodialling",
+            "regulate autodialling",
+            "autodialling system",
+            "autodialling technology"
+          ],
+          "synonyms": [
+            "automatic dialling"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "telecommunications",
+            "business",
+            "law"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodials",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Dials phone numbers automatically, usually as part of a programmed process.",
+          "examples": [
+            "The modem autodials the server at regular intervals.",
+            "The alarm autodials your phone when it detects movement.",
+            "The system autodials a backup number if the first line fails."
+          ],
+          "collocations": [
+            "system autodials",
+            "modem autodials",
+            "alarm autodials",
+            "autodials a number",
+            "autodials emergency services"
+          ],
+          "synonyms": [
+            "auto-dials",
+            "speed-dials"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "telecommunications",
+            "technology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodidact",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who has taught themselves a subject or skill without formal classes or a teacher.",
+          "examples": [
+            "He is an autodidact who learned programming from free online courses.",
+            "Many famous writers were autodidacts with little formal education.",
+            "As an autodidact, she spends hours each week studying on her own."
+          ],
+          "collocations": [
+            "self-taught autodidact",
+            "natural autodidact",
+            "autodidact learner",
+            "brilliant autodidact",
+            "autodidact in music"
+          ],
+          "synonyms": [
+            "self-taught person",
+            "self-learner",
+            "independent learner"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "education",
+            "general"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodidactic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to learning by oneself, without formal teaching.",
+          "examples": [
+            "She took an autodidactic approach to learning Japanese.",
+            "His career in design was largely autodidactic.",
+            "Autodidactic learning can be very effective for motivated students."
+          ],
+          "collocations": [
+            "autodidactic approach",
+            "autodidactic learning",
+            "autodidactic methods",
+            "autodidactic education",
+            "largely autodidactic"
+          ],
+          "synonyms": [
+            "self-taught",
+            "self-educated",
+            "self-directed"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "education",
+            "general"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodidactically",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a way that involves teaching or educating oneself.",
+          "examples": [
+            "He learned to play the piano autodidactically.",
+            "Many people study foreign languages autodidactically using apps and books.",
+            "She developed her coding skills autodidactically over several years."
+          ],
+          "collocations": [
+            "learn autodidactically",
+            "study autodidactically",
+            "develop skills autodidactically",
+            "train autodidactically",
+            "work autodidactically"
+          ],
+          "synonyms": [
+            "self-taught",
+            "independently"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "education",
+            "general"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodidacticism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The practice or philosophy of educating oneself without formal teaching.",
+          "examples": [
+            "Autodidacticism has become easier with access to online resources.",
+            "His success is often used as an example of autodidacticism.",
+            "The article explores the benefits and limits of autodidacticism."
+          ],
+          "collocations": [
+            "embrace autodidacticism",
+            "practice autodidacticism",
+            "tradition of autodidacticism",
+            "modern autodidacticism",
+            "autodidacticism in art"
+          ],
+          "synonyms": [
+            "self-education",
+            "self-learning",
+            "self-study"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "education",
+            "academic"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodidacts",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "People who have taught themselves a subject or skill without formal teaching.",
+          "examples": [
+            "Many successful entrepreneurs are autodidacts.",
+            "Online courses have created a global community of autodidacts.",
+            "Autodidacts often design their own learning paths."
+          ],
+          "collocations": [
+            "self-taught autodidacts",
+            "group of autodidacts",
+            "community of autodidacts",
+            "natural autodidacts",
+            "talented autodidacts"
+          ],
+          "synonyms": [
+            "self-taught people",
+            "independent learners"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "education",
+            "general"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodifferentiation",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process by which something, especially a cell or tissue, differentiates or changes form by internal factors rather than external influence.",
+          "examples": [
+            "The study focuses on autodifferentiation in early embryonic cells.",
+            "Autodifferentiation can occur without chemical signals from other tissues.",
+            "Researchers observed autodifferentiation in the lab-grown organoids."
+          ],
+          "collocations": [
+            "cell autodifferentiation",
+            "tissue autodifferentiation",
+            "observe autodifferentiation",
+            "process of autodifferentiation",
+            "study autodifferentiation"
+          ],
+          "synonyms": [
+            "self-differentiation"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "biology",
+            "medicine",
+            "academic"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodiffusion",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The natural spreading of particles or molecules within the same substance, without an outside driving force.",
+          "examples": [
+            "Autodiffusion affects how atoms move through a metal crystal.",
+            "The rate of autodiffusion increases with temperature.",
+            "Scientists measured autodiffusion in the alloy under high pressure."
+          ],
+          "collocations": [
+            "rate of autodiffusion",
+            "measure autodiffusion",
+            "atomic autodiffusion",
+            "autodiffusion in metals",
+            "control autodiffusion"
+          ],
+          "synonyms": [
+            "self-diffusion"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "physics",
+            "chemistry",
+            "materials_science"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodigestion",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process in which an organ or tissue is digested by its own enzymes.",
+          "examples": [
+            "Severe pancreatitis can lead to autodigestion of the pancreas.",
+            "Autodigestion may damage the stomach lining after surgery.",
+            "The researchers studied autodigestion in damaged liver tissue."
+          ],
+          "collocations": [
+            "autodigestion of the pancreas",
+            "cause autodigestion",
+            "prevent autodigestion",
+            "tissue autodigestion",
+            "process of autodigestion"
+          ],
+          "synonyms": [
+            "self-digestion"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "biology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodigestive",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or causing autodigestion in an organ or tissue.",
+          "examples": [
+            "Autodigestive changes were seen in the intestinal wall.",
+            "The enzyme leak created an autodigestive effect in the gland.",
+            "Doctors tried to control the autodigestive process with medication."
+          ],
+          "collocations": [
+            "autodigestive process",
+            "autodigestive changes",
+            "autodigestive damage",
+            "autodigestive effect",
+            "autodigestive enzymes"
+          ],
+          "synonyms": [
+            "self-digesting"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "biology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodrainage",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The automatic removal or flowing away of liquid or fluid, often from a body cavity or system, without external help.",
+          "examples": [
+            "The surgeon relied on autodrainage rather than inserting a tube.",
+            "Autodrainage of the sinus reduced the patient’s discomfort.",
+            "The design of the tank allows for autodrainage after use."
+          ],
+          "collocations": [
+            "allow autodrainage",
+            "promote autodrainage",
+            "sinus autodrainage",
+            "natural autodrainage",
+            "autodrainage of fluid"
+          ],
+          "synonyms": [
+            "self-drainage",
+            "natural drainage"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodrome",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A track or circuit used for testing or racing motor vehicles.",
+          "examples": [
+            "The company tested its new cars at a private autodrome.",
+            "Races at the old autodrome attracted huge crowds.",
+            "The autodrome includes both high-speed straights and tight corners."
+          ],
+          "collocations": [
+            "motor autodrome",
+            "racing autodrome",
+            "test autodrome",
+            "private autodrome",
+            "autodrome circuit"
+          ],
+          "synonyms": [
+            "motor track",
+            "test track",
+            "racetrack"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "transport",
+            "sports"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodynamic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Operating with its own internal power or motion, often adjusting itself automatically.",
+          "examples": [
+            "The autodynamic system adapts to changes in load without human control.",
+            "Researchers developed an autodynamic model of the engine.",
+            "Autodynamic mechanisms help stabilize the structure under stress."
+          ],
+          "collocations": [
+            "autodynamic system",
+            "autodynamic model",
+            "autodynamic mechanism",
+            "autodynamic response",
+            "autodynamic adjustment"
+          ],
+          "synonyms": [
+            "self-regulating",
+            "self-adjusting"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "engineering",
+            "physics"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodyne",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A type of radio receiver that uses self-oscillation to detect signals.",
+          "examples": [
+            "Early radio experiments used an autodyne to improve sensitivity.",
+            "The autodyne allowed the operator to hear very weak signals.",
+            "He built a small autodyne as part of his electronics project."
+          ],
+          "collocations": [
+            "radio autodyne",
+            "build an autodyne",
+            "tune the autodyne",
+            "autodyne receiver",
+            "autodyne circuit"
+          ],
+          "synonyms": [
+            "self-oscillating receiver"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "electronics",
+            "technology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autodynes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Radio receivers that use self-oscillation to detect signals.",
+          "examples": [
+            "Autodynes were common in early radar systems.",
+            "Engineers compared different autodynes for signal clarity.",
+            "The museum collection includes several historic autodynes."
+          ],
+          "collocations": [
+            "early autodynes",
+            "radar autodynes",
+            "build autodynes",
+            "design autodynes",
+            "use autodynes"
+          ],
+          "synonyms": [
+            "self-oscillating receivers"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "electronics",
+            "technology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoecholalia",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The automatic repetition of one’s own words or sounds, often seen as a speech or neurological symptom.",
+          "examples": [
+            "Autoecholalia can be observed in some patients with neurological disorders.",
+            "The child’s autoecholalia made conversation difficult.",
+            "Therapists worked to reduce the frequency of his autoecholalia."
+          ],
+          "collocations": [
+            "exhibit autoecholalia",
+            "reduce autoecholalia",
+            "speech autoecholalia",
+            "symptom of autoecholalia",
+            "treat autoecholalia"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "psychology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoecic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Describing a parasitic fungus or organism that completes its entire life cycle on a single host species.",
+          "examples": [
+            "This rust fungus is autoecic on wheat.",
+            "Autoecic parasites are easier to control than those with multiple hosts.",
+            "The researcher classified the species as autoecic after years of observation."
+          ],
+          "collocations": [
+            "autoecic fungus",
+            "autoecic parasite",
+            "autoecic species",
+            "autoecic life cycle",
+            "autoecic rust"
+          ],
+          "synonyms": [
+            "single-host"
+          ],
+          "antonyms": [
+            "heteroecic"
+          ],
+          "register": "formal",
+          "domain": [
+            "biology",
+            "plant_pathology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoecious",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Living on a single host during all life stages, especially said of certain parasitic fungi.",
+          "examples": [
+            "The autoecious rust infects only one type of plant.",
+            "Autoecious species have a simpler host cycle.",
+            "They compared autoecious and heteroecious fungi in the study."
+          ],
+          "collocations": [
+            "autoecious rust",
+            "autoecious fungus",
+            "autoecious species",
+            "autoecious parasite",
+            "autoecious life cycle"
+          ],
+          "synonyms": [
+            "single-host"
+          ],
+          "antonyms": [
+            "heteroecious"
+          ],
+          "register": "formal",
+          "domain": [
+            "biology",
+            "plant_pathology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoeciously",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a way that involves living on a single host throughout the entire life cycle.",
+          "examples": [
+            "The fungus lives autoeciously on this plant species.",
+            "Rusts that develop autoeciously are easier to track.",
+            "These parasites reproduce autoeciously on their host."
+          ],
+          "collocations": [
+            "lives autoeciously",
+            "develop autoeciously",
+            "reproduce autoeciously",
+            "grows autoeciously",
+            "occurs autoeciously"
+          ],
+          "synonyms": [
+            "on a single host"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "biology",
+            "plant_pathology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoeciousness",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality or state of completing a life cycle on a single host species.",
+          "examples": [
+            "Autoeciousness simplifies the ecology of some fungi.",
+            "The autoeciousness of the parasite affects its spread.",
+            "Researchers discussed autoeciousness in several rust species."
+          ],
+          "collocations": [
+            "degree of autoeciousness",
+            "show autoeciousness",
+            "discuss autoeciousness",
+            "parasite autoeciousness",
+            "fungal autoeciousness"
+          ],
+          "synonyms": [
+            "single-host life cycle"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "biology",
+            "plant_pathology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoecism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The condition of a parasite, especially a fungus, that completes its life cycle on a single host.",
+          "examples": [
+            "Autoecism is common in many rust fungi.",
+            "The paper analyzes autoecism and host specificity.",
+            "Autoecism can limit the spread of a disease to one plant species."
+          ],
+          "collocations": [
+            "study autoecism",
+            "fungal autoecism",
+            "autoecism and heteroecism",
+            "evidence of autoecism",
+            "host autoecism"
+          ],
+          "synonyms": [
+            "single-host parasitism"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "biology",
+            "plant_pathology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoecisms",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Instances or types of autoecism in different parasitic species.",
+          "examples": [
+            "The text describes various autoecisms among rust fungi.",
+            "Different autoecisms lead to different control strategies.",
+            "Scientists classified the observed autoecisms by host plant."
+          ],
+          "collocations": [
+            "various autoecisms",
+            "different autoecisms",
+            "describe autoecisms",
+            "classify autoecisms",
+            "observe autoecisms"
+          ],
+          "synonyms": [
+            "single-host life cycles"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "biology",
+            "plant_pathology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoecous",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a life cycle that takes place on a single host species; autoecious.",
+          "examples": [
+            "This autoecous rust affects only oak trees.",
+            "Autoecous species are restricted to one host.",
+            "The pathogen was identified as autoecous after field studies."
+          ],
+          "collocations": [
+            "autoecous rust",
+            "autoecous species",
+            "autoecous parasite",
+            "autoecous fungus",
+            "autoecous life cycle"
+          ],
+          "synonyms": [
+            "autoecious",
+            "single-host"
+          ],
+          "antonyms": [
+            "heteroecious"
+          ],
+          "register": "formal",
+          "domain": [
+            "biology",
+            "plant_pathology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoecy",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The condition of living on a single host during the entire life cycle.",
+          "examples": [
+            "Autoecy in parasites can make control more straightforward.",
+            "The article discusses autoecy and its evolutionary advantages.",
+            "Autoecy contrasts with life cycles that require multiple hosts."
+          ],
+          "collocations": [
+            "discuss autoecy",
+            "parasite autoecy",
+            "degree of autoecy",
+            "evolution of autoecy",
+            "example of autoecy"
+          ],
+          "synonyms": [
+            "autoecism",
+            "single-host life cycle"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "biology",
+            "plant_pathology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoed",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Traveled by car, especially driving oneself (rare and informal past form).",
+          "examples": [
+            "They autoed across the country one summer.",
+            "We autoed to the coast instead of taking the train.",
+            "He autoed through several small towns on his way home."
+          ],
+          "collocations": [
+            "autoed across",
+            "autoed to town",
+            "autoed through",
+            "autoed back home",
+            "autoed around"
+          ],
+          "synonyms": [
+            "drove",
+            "traveled by car"
+          ],
+          "antonyms": [],
+          "register": "informal",
+          "domain": [
+            "travel",
+            "everyday"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoeducation",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Education that a person gives themselves by independent reading, study, or practice.",
+          "examples": [
+            "The internet has made autoeducation more accessible.",
+            "He relied on autoeducation to learn advanced mathematics.",
+            "Autoeducation can complement formal schooling."
+          ],
+          "collocations": [
+            "pursue autoeducation",
+            "engage in autoeducation",
+            "autoeducation and self-improvement",
+            "tools for autoeducation",
+            "commitment to autoeducation"
+          ],
+          "synonyms": [
+            "self-education",
+            "self-study",
+            "independent learning"
+          ],
+          "antonyms": [],
+          "register": "null",
+          "domain": [
+            "education",
+            "general"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoeducative",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Helping or allowing a person to educate themselves.",
+          "examples": [
+            "The course materials are designed to be autoeducative.",
+            "Autoeducative tools encourage students to explore topics alone.",
+            "He created an autoeducative program for beginners."
+          ],
+          "collocations": [
+            "autoeducative materials",
+            "autoeducative program",
+            "autoeducative tools",
+            "autoeducative environment",
+            "highly autoeducative"
+          ],
+          "synonyms": [
+            "self-teaching",
+            "self-instructional"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "education",
+            "academic"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoelectrolysis",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Electrolysis that is produced or maintained by an electric current generated within the system itself.",
+          "examples": [
+            "The experiment demonstrated autoelectrolysis in the metal solution.",
+            "Autoelectrolysis can cause unexpected corrosion in pipelines.",
+            "They monitored autoelectrolysis during the long-term test."
+          ],
+          "collocations": [
+            "demonstrate autoelectrolysis",
+            "cause autoelectrolysis",
+            "autoelectrolysis in metals",
+            "monitor autoelectrolysis",
+            "autoelectrolysis process"
+          ],
+          "synonyms": [
+            "self-electrolysis"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "chemistry",
+            "engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoelectrolytic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or caused by autoelectrolysis.",
+          "examples": [
+            "Autoelectrolytic effects were seen in the submerged metal.",
+            "The autoelectrolytic reaction damaged the inner surface of the pipe.",
+            "Engineers study autoelectrolytic processes to prevent corrosion."
+          ],
+          "collocations": [
+            "autoelectrolytic effects",
+            "autoelectrolytic reaction",
+            "autoelectrolytic process",
+            "autoelectrolytic corrosion",
+            "autoelectrolytic cell"
+          ],
+          "synonyms": [
+            "self-electrolytic"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "chemistry",
+            "engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoelectronic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to electronic processes or devices that operate automatically, often using internal feedback.",
+          "examples": [
+            "The autoelectronic control unit adjusts the engine in real time.",
+            "Autoelectronic systems can respond faster than human operators.",
+            "They developed an autoelectronic device for precise measurements."
+          ],
+          "collocations": [
+            "autoelectronic control",
+            "autoelectronic system",
+            "autoelectronic device",
+            "autoelectronic circuit",
+            "autoelectronic unit"
+          ],
+          "synonyms": [
+            "self-regulating electronic"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "electronics",
+            "engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoelevation",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Automatic adjustment of the height or angle of something, especially a gun or instrument.",
+          "examples": [
+            "The weapon system includes autoelevation for targeting.",
+            "Autoelevation helps keep the camera level as the vehicle moves.",
+            "Engineers tested the autoelevation function under rough conditions."
+          ],
+          "collocations": [
+            "autoelevation system",
+            "autoelevation feature",
+            "adjust by autoelevation",
+            "autoelevation mechanism",
+            "test autoelevation"
+          ],
+          "synonyms": [
+            "automatic elevation control"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "military",
+            "engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoepigraph",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An inscription or writing that a person composes about themselves, especially on a monument or in a work.",
+          "examples": [
+            "The author’s final book reads like an autoepigraph.",
+            "He designed an autoepigraph for his own tombstone.",
+            "The painting includes a small autoepigraph in the corner."
+          ],
+          "collocations": [
+            "write an autoepigraph",
+            "personal autoepigraph",
+            "literary autoepigraph",
+            "create an autoepigraph",
+            "inscribed autoepigraph"
+          ],
+          "synonyms": [
+            "self-inscription",
+            "self-epitaph"
+          ],
+          "antonyms": [],
+          "register": "literary",
+          "domain": [
+            "literature",
+            "art"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoepilation",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The removal or loss of one’s own hair, especially when it happens by oneself or spontaneously.",
+          "examples": [
+            "Autoepilation was reported in several patients using the drug.",
+            "Trichotillomania can lead to autoepilation of the scalp.",
+            "The dermatologist noted signs of autoepilation on his eyebrows."
+          ],
+          "collocations": [
+            "report autoepilation",
+            "drug-induced autoepilation",
+            "scalp autoepilation",
+            "spontaneous autoepilation",
+            "symptoms of autoepilation"
+          ],
+          "synonyms": [
+            "self-epilation",
+            "hair self-removal"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "medicine",
+            "dermatology"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoerotic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to sexual arousal or satisfaction that a person gives themselves, without a partner.",
+          "examples": [
+            "The book discusses autoerotic behavior in adolescence.",
+            "Autoerotic practices are common but often not talked about openly.",
+            "The therapist explained that autoerotic activity is a normal part of development."
+          ],
+          "collocations": [
+            "autoerotic behavior",
+            "autoerotic activity",
+            "autoerotic fantasy",
+            "autoerotic practice",
+            "autoerotic stimulation"
+          ],
+          "synonyms": [
+            "self-sexual",
+            "self-stimulating"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "psychology",
+            "sexuality",
+            "medicine"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoerotically",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a way that involves giving sexual arousal or satisfaction to oneself.",
+          "examples": [
+            "He described feeling autoerotically aroused without any external stimulus.",
+            "Some people prefer to express their sexuality autoerotically.",
+            "The patient reported experiencing dreams that were autoerotically charged."
+          ],
+          "collocations": [
+            "autoerotically aroused",
+            "express sexuality autoerotically",
+            "behave autoerotically",
+            "stimulate oneself autoerotically",
+            "respond autoerotically"
+          ],
+          "synonyms": [
+            "self-sexually"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "psychology",
+            "sexuality",
+            "medicine"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoeroticism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Sexual feelings or satisfaction that a person creates for themselves, for example through fantasy or self-stimulation.",
+          "examples": [
+            "The article explores the role of autoeroticism in adult sexuality.",
+            "Autoeroticism includes both physical stimulation and sexual imagination.",
+            "Many cultures have complicated attitudes toward autoeroticism."
+          ],
+          "collocations": [
+            "role of autoeroticism",
+            "aspect of autoeroticism",
+            "forms of autoeroticism",
+            "study autoeroticism",
+            "discuss autoeroticism"
+          ],
+          "synonyms": [
+            "self-gratification",
+            "self-sexuality"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "psychology",
+            "sexuality",
+            "medicine"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoeroticisms",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Different instances or forms of autoerotic behavior or experience.",
+          "examples": [
+            "The book catalogs various autoeroticisms across history.",
+            "Artists have represented different autoeroticisms in their work.",
+            "Psychologists debate how to classify certain autoeroticisms."
+          ],
+          "collocations": [
+            "various autoeroticisms",
+            "different autoeroticisms",
+            "catalog autoeroticisms",
+            "classify autoeroticisms",
+            "study autoeroticisms"
+          ],
+          "synonyms": [
+            "forms of self-gratification"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "psychology",
+            "sexuality"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "autoerotism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The practice or state of getting sexual pleasure from oneself rather than from a partner.",
+          "examples": [
+            "Autoerotism is a common but sensitive topic in clinical discussions.",
+            "Traditional views on autoerotism have changed over time.",
+            "The therapist normalized the patient’s concerns about autoerotism."
+          ],
+          "collocations": [
+            "discuss autoerotism",
+            "practice autoerotism",
+            "views on autoerotism",
+            "attitudes toward autoerotism",
+            "history of autoerotism"
+          ],
+          "synonyms": [
+            "autoeroticism",
+            "self-gratification"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": [
+            "psychology",
+            "sexuality",
+            "medicine"
+          ]
+        }
+      ]
+    }
+  ]
+}

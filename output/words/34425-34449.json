@@ -1,0 +1,441 @@
+```json
+{
+  "items": [
+    {
+      "term": "bathythermogram",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A recording that shows how temperature changes with depth in the ocean.",
+          "examples": ["The scientist analyzed the bathythermogram to understand ocean currents.", "A clear bathythermogram revealed a thermocline at 200 meters.", "They printed the bathythermogram from the submarine data."],
+          "collocations": ["ocean bathythermogram", "deep-sea bathythermogram", "analyze bathythermogram", "plot bathythermogram", "record bathythermogram"],
+          "synonyms": ["temperature-depth profile"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["oceanography", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bathythermograph",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An instrument that records temperature variations at different depths in the sea.",
+          "examples": ["The ship deployed a bathythermograph to measure water temperature.", "Modern bathythermographs use digital sensors.", "The bathythermograph data helped predict fish locations."],
+          "collocations": ["deploy bathythermograph", "digital bathythermograph", "ocean bathythermograph", "submarine bathythermograph"],
+          "synonyms": ["deep-sea thermometer"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["oceanography", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bathythermographs",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bathythermograph; instruments that record ocean temperature by depth.",
+          "examples": ["The research vessel carried several bathythermographs.", "They compared data from different bathythermographs.", "Bathythermographs are essential for marine studies."],
+          "collocations": ["multiple bathythermographs", "deploy bathythermographs", "calibrate bathythermographs"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["oceanography"]
+        }
+      ]
+    },
+    {
+      "term": "batidaceae",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A family of flowering plants including saltbushes and related species.",
+          "examples": ["Batidaceae thrives in salty environments.", "Plants in Batidaceae have unique adaptations.", "Botanists study Batidaceae for saline agriculture."],
+          "collocations": ["family Batidaceae", "plants Batidaceae", "saltbush Batidaceae"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "batidaceous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to the plant family Batidaceae.",
+          "examples": ["Batidaceous plants grow well in arid soils.", "The batidaceous shrub tolerates high salinity.", "Researchers examined batidaceous species."],
+          "collocations": ["batidaceous plants", "batidaceous shrubs", "batidaceous family"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "batik",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A technique of wax-resist dyeing applied to cloth, or the cloth itself.",
+          "examples": ["She bought a beautiful batik scarf in Indonesia.", "Batik patterns often feature flowers and animals.", "Traditional batik is made by hand."],
+          "collocations": ["batik fabric", "batik pattern", "traditional batik", "Indonesian batik", "wax batik"],
+          "synonyms": ["tie-dye"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["art", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "batiked",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Decorated or colored using the batik dyeing technique.",
+          "examples": ["The batiked dress had vibrant colors.", "She wore a batiked blouse to the festival.", "Batiked cloth hung on the walls."],
+          "collocations": ["batiked fabric", "batiked cloth", "batiked dress"],
+          "synonyms": ["batik-dyed"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["art"]
+        }
+      ]
+    },
+    {
+      "term": "batiker",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who makes or designs batik cloth.",
+          "examples": ["The skilled batiker created intricate patterns.", "Local batikers sell their work at markets.", "She trained as a batiker in Java."],
+          "collocations": ["skilled batiker", "professional batiker", "local batiker"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["art", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "batiking",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process or activity of creating batik designs.",
+          "examples": ["Batiking requires patience and skill.", "She enjoys batiking in her free time.", "The workshop taught the basics of batiking."],
+          "collocations": ["batiking process", "batiking workshop", "learning batiking"],
+          "synonyms": ["batik making"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["art", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "batiks",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of batik; pieces of cloth made with the batik technique.",
+          "examples": ["The market sold colorful batiks.", "She collected batiks from around Asia.", "Batiks decorated the room."],
+          "collocations": ["colorful batiks", "traditional batiks", "handmade batiks"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["art"]
+        }
+      ]
+    },
+    {
+      "term": "batikulin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A tree species native to the Philippines used for its durable wood.",
+          "examples": ["Batikulin wood is strong and lightweight.", "They harvested batikulin for boat building.", "Batikulin grows in tropical forests."],
+          "collocations": ["batikulin tree", "batikulin wood", "Philippine batikulin"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "batikuling",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The wood from the batikulin tree, valued in construction.",
+          "examples": ["Batikuling is popular for furniture.", "Craftsmen use batikuling for its quality.", "Batikuling resists termites well."],
+          "collocations": ["batikuling wood", "durable batikuling", "fine batikuling"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany", "woodworking"]
+        }
+      ]
+    },
+    {
+      "term": "bating",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "preposition",
+          "definition": "Except for; excluding (often in phrases like 'save and bating').",
+          "examples": ["All were present, bating one child.", "The garden bloomed, bating a few wilted plants."],
+          "collocations": ["save bating", "all bating", "none bating"],
+          "synonyms": ["excepting", "barring"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Present participle of bate; reducing or decreasing.",
+          "examples": ["Her enthusiasm was bating after the delay.", "The wind was bating by evening."],
+          "collocations": ["interest bating", "speed bating", "pace bating"],
+          "synonyms": ["abating", "lessening"],
+          "antonyms": ["increasing"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "batino",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A Philippine tree valued for its lightweight, strong wood.",
+          "examples": ["Batino wood is used in construction.", "The batino tree grows quickly.", "Batino provides good timber."],
+          "collocations": ["batino tree", "batino wood", "lightweight batino"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "batis",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A genus of salt-tolerant plants in the Batidaceae family.",
+          "examples": ["Batis species grow in mangroves.", "Batis helps stabilize coastal soils.", "The plant B. maritima is a type of Batis."],
+          "collocations": ["genus Batis", "Batis maritima", "saltmarsh Batis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "batiste",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A fine, lightweight plain-woven fabric, often cotton or linen.",
+          "examples": ["She made a dress from batiste.", "Batiste is perfect for summer blouses.", "The handkerchief was delicate batiste."],
+          "collocations": ["fine batiste", "cotton batiste", "batiste fabric", "linen batiste"],
+          "synonyms": ["cambric"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["textiles"]
+        }
+      ]
+    },
+    {
+      "term": "batistes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of batiste; types or pieces of fine lightweight fabric.",
+          "examples": ["The shop sells various batistes.", "She chose silk batistes for the project.", "Batistes vary in weave and finish."],
+          "collocations": ["fine batistes", "cotton batistes", "various batistes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["textiles"]
+        }
+      ]
+    },
+    {
+      "term": "batitinan",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A tree species in the Philippines used for timber.",
+          "examples": ["Batitinan wood is durable for building.", "Batitinan grows in lowland forests.", "They felled batitinan for lumber."],
+          "collocations": ["batitinan tree", "batitinan timber", "Philippine batitinan"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "batlan",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "In Jewish law, an unreliable or exempt person from communal obligations.",
+          "examples": ["The batlan skipped the minyan again.", "He was labeled a batlan for his absences."],
+          "collocations": ["idle batlan", "exempt batlan", "communal batlan"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "batler",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who keeps or manages bats, especially fruit bats.",
+          "examples": ["The batler cared for the colony at night.", "Batlers monitor bat populations in caves."],
+          "collocations": ["fruit batler", "cave batler", "professional batler"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["zoology"]
+        }
+      ]
+    },
+    {
+      "term": "batlers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of batler; people who manage bats.",
+          "examples": ["Batlers work in wildlife sanctuaries.", "Several batlers attended the conference."],
+          "collocations": ["trained batlers", "wildlife batlers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["zoology"]
+        }
+      ]
+    },
+    {
+      "term": "batlet",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small or young bat.",
+          "examples": ["The batlet hung upside down with its mother.", "Researchers tagged the batlets for tracking."],
+          "collocations": ["young batlet", "baby batlet", "tiny batlet"],
+          "synonyms": ["bat pup"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["zoology"]
+        }
+      ]
+    },
+    {
+      "term": "batlets",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of batlet; small or young bats.",
+          "examples": ["Batlets learn to fly at night.", "The cave was full of batlets."],
+          "collocations": ["clusters of batlets", "flying batlets"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["zoology"]
+        }
+      ]
+    },
+    {
+      "term": "batlike",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Similar to a bat in appearance, movement, or behavior.",
+          "examples": ["The creature had batlike wings.", "It flew with batlike agility.", "Her hearing was batlike in the dark."],
+          "collocations": ["batlike wings", "batlike flight", "batlike echolocation"],
+          "synonyms": ["bat-shaped"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "batling",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A young or small bat, often in fantasy contexts.",
+          "examples": ["The batling fluttered from the cave.", "In the story, the batling became a hero."],
+          "collocations": ["young batling", "tiny batling", "cave batling"],
+          "synonyms": ["bat pup"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["zoology", "fantasy"]
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,441 @@
+```json
+{
+  "items": [
+    {
+      "term": "bandrols",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A bandrol or banderole; a small flag or streamer.",
+          "examples": ["The knight's lance bore colorful bandrols.", "Bandrols fluttered from the ship's mast in the wind."],
+          "collocations": ["silken bandrols", "waving bandrols", "heraldic bandrols", "festive bandrols"],
+          "synonyms": ["banderole", "banner", "streamer"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["historical", "heraldry"]
+        }
+      ]
+    },
+    {
+      "term": "bands",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A group of musicians who play music together.",
+          "examples": ["The band played rock music all night.", "We formed a band in high school.", "The wedding band entertained the guests."],
+          "collocations": ["rock band", "live band", "garage band", "cover band", "big band"],
+          "synonyms": ["group", "ensemble", "orchestra"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A thin strip of material used to hold things together or mark something.",
+          "examples": ["She tied the box with rubber bands.", "The hat had a wide band around it.", "His watch had a leather band."],
+          "collocations": ["rubber band", "wrist band", "head band", "elastic band"],
+          "synonyms": ["strip", "ring", "strap"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bandsaw",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A power tool with a long, thin blade in a continuous loop for cutting wood or metal.",
+          "examples": ["The carpenter used a bandsaw to cut the curves.", "Our workshop has a large bandsaw for big projects."],
+          "collocations": ["wood bandsaw", "metal bandsaw", "portable bandsaw"],
+          "synonyms": ["band saw"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["tools", "woodworking"]
+        }
+      ]
+    },
+    {
+      "term": "bandsawed",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of bandsaw; cut using a bandsaw.",
+          "examples": ["He bandsawed the board into thin strips.", "The pieces were carefully bandsawed to size."],
+          "collocations": ["bandsawed wood", "bandsawed metal", "precisely bandsawed"],
+          "synonyms": ["sawed"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["tools", "woodworking"]
+        }
+      ]
+    },
+    {
+      "term": "bandsawing",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of bandsaw; cutting using a bandsaw.",
+          "examples": ["She was bandsawing a curve in the plywood.", "Bandsawing requires steady hands."],
+          "collocations": ["bandsawing lumber", "bandsawing curves"],
+          "synonyms": ["sawing"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["tools", "woodworking"]
+        }
+      ]
+    },
+    {
+      "term": "bandsawn",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past participle of bandsaw; cut using a bandsaw.",
+          "examples": ["The board has been bandsawn to perfection.", "These parts are bandsawn for accuracy."],
+          "collocations": ["bandsawn pieces", "smoothly bandsawn"],
+          "synonyms": ["sawn"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["tools", "woodworking"]
+        }
+      ]
+    },
+    {
+      "term": "bandsaws",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bandsaw; power tools with continuous loop blades.",
+          "examples": ["The shop sells bandsaws for hobbyists.", "Several bandsaws were running in the factory."],
+          "collocations": ["electric bandsaws", "industrial bandsaws"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["tools", "woodworking"]
+        }
+      ]
+    },
+    {
+      "term": "bandshell",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A bandstand with a shell-shaped roof that reflects sound for outdoor performances.",
+          "examples": ["The concert was held at the park bandshell.", "The bandshell hosted free jazz shows."],
+          "collocations": ["outdoor bandshell", "park bandshell"],
+          "synonyms": ["bandstand", "shell", "amphitheater"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "bandshells",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bandshell; outdoor performance structures with sound-reflecting roofs.",
+          "examples": ["Many cities have bandshells in public parks.", "The festival used two bandshells."],
+          "collocations": ["city bandshells", "concert bandshells"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "bandsman",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A member of a musical band, especially a marching or military band.",
+          "examples": ["The bandsman played the trumpet.", "Several bandsmen marched in the parade."],
+          "collocations": ["military bandsman", "marching bandsman"],
+          "synonyms": ["musician", "band member"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "bandsmen",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bandsman; members of a musical band.",
+          "examples": ["The bandsmen tuned their instruments.", "Ten bandsmen performed at the event."],
+          "collocations": ["local bandsmen", "professional bandsmen"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "bandspreading",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A technique in radio receivers to increase frequency selectivity by mechanically spreading the dial scale.",
+          "examples": ["Old radios used bandspreading for better tuning.", "Bandspreading helped separate close stations."],
+          "collocations": ["variable bandspreading", "mechanical bandspreading"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "radio"]
+        }
+      ]
+    },
+    {
+      "term": "bandspreadings",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bandspreading; instances or types of frequency spreading in radios.",
+          "examples": ["Different bandspreadings were used in vintage receivers."],
+          "collocations": ["multiple bandspreadings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "radio"]
+        }
+      ]
+    },
+    {
+      "term": "bandstand",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A platform for a band to perform on, often outdoors in a park.",
+          "examples": ["The band played on the park bandstand.", "People danced around the bandstand."],
+          "collocations": ["park bandstand", "open-air bandstand"],
+          "synonyms": ["stage", "platform"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "bandstands",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bandstand; platforms for musical performances.",
+          "examples": ["Several bandstands dotted the festival grounds.", "City parks have historic bandstands."],
+          "collocations": ["multiple bandstands", "wooden bandstands"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "bandster",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who binds grain into bundles after reaping, especially in Scotland.",
+          "examples": ["The bandster worked quickly in the field.", "Bandsters followed the harvesters."],
+          "collocations": ["Scottish bandster"],
+          "synonyms": ["binder"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["agriculture", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "bandsters",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bandster; workers who bind sheaves.",
+          "examples": ["Several bandsters were employed at harvest time."],
+          "collocations": ["rural bandsters"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "bandstop",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A band-stop filter; an electronic filter that blocks a specific range of frequencies.",
+          "examples": ["The circuit used a bandstop to eliminate hum.", "Engineers designed a bandstop for noise reduction."],
+          "collocations": ["notch bandstop", "digital bandstop"],
+          "synonyms": ["notch filter"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "electronics"]
+        }
+      ]
+    },
+    {
+      "term": "bandstring",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A string or band used in musical instruments or binding.",
+          "examples": ["The bandstring was tuned carefully."],
+          "collocations": ["taut bandstring"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "bandura",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A Ukrainian stringed musical instrument like a lute with a long neck.",
+          "examples": ["He played folk songs on the bandura.", "The bandura is part of Ukrainian tradition."],
+          "collocations": ["Ukrainian bandura", "traditional bandura"],
+          "synonyms": ["lutelike instrument"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "banduras",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bandura; Ukrainian stringed instruments.",
+          "examples": ["The ensemble played banduras together."],
+          "collocations": ["multiple banduras"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "bandurria",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A Spanish stringed instrument similar to a mandolin, used in folk music.",
+          "examples": ["The bandurria led the melody in the group.", "She learned to play the bandurria."],
+          "collocations": ["Spanish bandurria", "folk bandurria"],
+          "synonyms": ["mandolin"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "bandurrias",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bandurria; Spanish mandolin-like instruments.",
+          "examples": ["Bandurrias accompanied the guitars."],
+          "collocations": ["strumming bandurrias"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "bandusia",
+      "kind": "proper_noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A fountain celebrated in Horace's Ode 3.18, symbolizing refreshment.",
+          "examples": ["Horace addressed the Bandusia in his poetry.", "The Bandusia ode praises cool waters."],
+          "collocations": ["Horatian Bandusia"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature", "classical"]
+        }
+      ]
+    },
+    {
+      "term": "bandusian",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to the Bandusia fountain in Horace's poetry.",
+          "examples": ["The Bandusian fountain inspired many poets.", "Bandusian imagery evokes coolness."],
+          "collocations": ["Bandusian spring", "Bandusian ode"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature", "classical"]
+        }
+      ]
+    }
+  ]
+}
+```

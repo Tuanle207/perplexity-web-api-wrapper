@@ -1,0 +1,507 @@
+{
+  "items": [
+    {
+      "term": "northerlies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the plural of northerly; winds or directions coming from the north",
+          "examples": [
+            "The northerlies brought a cold breeze across the coast.",
+            "Sailors tracked the northerlies to determine their sailing route."
+          ],
+          "collocations": ["northerlies wind", "strong northerlies", "persistent northerlies"],
+          "synonyms": ["north winds"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "weather"]
+        }
+      ]
+    },
+    {
+      "term": "northerliness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being northerly in direction or disposition; a tendency to come from the north or to be characteristic of the north",
+          "examples": [
+            "The northerliness of the weather patterns affected the harvest.",
+            "Her northerliness showed in the brisk, direct manner of speaking."
+          ],
+          "collocations": ["northerliness of climate", "air of northerliness"],
+          "synonyms": ["northern character", "northwardness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northerlinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of northerliness; multiple instances of northerliness",
+          "examples": [
+            "The northerlinesses across the region influenced migration patterns."
+          ],
+          "collocations": ["various northerlinesses"],
+          "synonyms": ["northern characteristics (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northerly",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "related to the north or situated toward the north",
+          "examples": [
+            "A northerly wind blew from the sea.",
+            "They adjusted their sails to catch the northerly breeze."
+          ],
+          "collocations": ["northerly wind", "northerly wind direction", "northerly breeze"],
+          "synonyms": ["northern", "northward"],
+          "antonyms": ["southerly"],
+          "register": "neutral",
+          "domain": ["general", "weather"]
+        },
+        {
+          "pos": "adverb",
+          "definition": "toward the north; from the north",
+          "examples": [
+            "The ship drifted northerly for several hours."
+          ],
+          "collocations": ["move northerly", "drift northerly"],
+          "synonyms": ["northwardly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northermost",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "most northern; farthest north",
+          "examples": [
+            "The northermost reaches of the land.",
+            "They traveled to the northermost town in the region."
+          ],
+          "collocations": ["northermost point", "northermost region"],
+          "synonyms": ["most northern", "furthest north"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northern",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the north part of a country or region; located in the north",
+          "examples": [
+            "The northern border is heavily guarded.",
+            "Fans fled to the northern towns for warmer weather."
+          ],
+          "collocations": ["northern region", "northern coast", "northern winds"],
+          "synonyms": ["up-north", "northward"],
+          "antonyms": ["southern"],
+          "register": "neutral",
+          "domain": ["general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a person from the northern part of a country (rare and regional)",
+          "examples": [
+            "The northerns gathered at the festival."
+          ],
+          "collocations": ["northern people", "northern residents"],
+          "synonyms": ["northerner (regional)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northerner",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who comes from the northern part of a country",
+          "examples": [
+            "The Northerner explained the local traditions.",
+            "Northerners in the region often speak with a distinct accent."
+          ],
+          "collocations": ["northerner identity", "local Northerners"],
+          "synonyms": ["northern person"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northerners",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of northerner; multiple people from the northern part",
+          "examples": [
+            "The Northerners gathered for the town meeting."
+          ],
+          "collocations": ["Northerners", "northern residents"],
+          "synonyms": ["northern people (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northernise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make or become northern in character or to adopt northern features or styles",
+          "examples": [
+            "The new policy northernises the regional economy."
+          ],
+          "collocations": ["northernise a region", "northernise economy"],
+          "synonyms": ["northernize (UK spelling)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "northernised",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense; has been made northern in character or features",
+          "examples": [
+            "The district was northernised by new infrastructure."
+          ],
+          "collocations": ["northernised region"],
+          "synonyms": ["northernized (US)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northernises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of northernise",
+          "examples": [
+            "The plan northernises the economy over time."
+          ],
+          "collocations": ["it northernises", "policy northernises"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northernising",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of northernise; in the process of becoming northern",
+          "examples": [
+            "The project is northernising several towns."
+          ],
+          "collocations": ["northernising process"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northernism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a belief, habit, or phrase characteristic of the north; a northern school of thought",
+          "examples": [
+            "The dialect features strong northernism in vocabulary."
+          ],
+          "collocations": ["regional northernism", "northernism in language"],
+          "synonyms": ["northern characteristic"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "northernisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of northernism; multiple northern characteristics",
+          "examples": [
+            "Various northernisms appear in the remnant dialects."
+          ],
+          "collocations": ["regional northernisms"],
+          "synonyms": ["northernisms (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "northernize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something northern in character or style; to align with northern norms",
+          "examples": [
+            "They aimed to northernize the design to appeal to local tastes."
+          ],
+          "collocations": ["northernize a design", "northernize a region"],
+          "synonyms": ["northernise (UK)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northernized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense; has been made northern in character or style",
+          "examples": [
+            "The kitchen was northernized with colder tones."
+          ],
+          "collocations": ["northernized region"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northernizes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of northernize",
+          "examples": [
+            "The policy northernizes several industries."
+          ],
+          "collocations": ["policy northernizes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northernizing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle; in the process of northernizing",
+          "examples": [
+            "They are northernizing the skyline with new towers."
+          ],
+          "collocations": ["northernizing process"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northernly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "characteristic of the north; toward the north",
+          "examples": [
+            "The land had a northernly climate with cold winters."
+          ],
+          "collocations": ["northernly climate", "northernly wind"],
+          "synonyms": ["northerly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northernmost",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "furthest to the north; at the most northern point",
+          "examples": [
+            "They reached the northernmost village in the country."
+          ],
+          "collocations": ["northernmost point", "northernmost town"],
+          "synonyms": ["furthest north", "most northerly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northernness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being northern; the characteristic of the north",
+          "examples": [
+            "The northernness of the region shapes its culture."
+          ],
+          "collocations": ["cultural northernness", "regional northernness"],
+          "synonyms": ["northern quality"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northerns",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form; people or things from the north (rare)",
+          "examples": [
+            "The settlers were known as the northerns."
+          ],
+          "collocations": ["northerns of the region"],
+          "synonyms": ["northern people (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "northers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "uncommon plural form; usually a misspelling or rare variant of northerns",
+          "examples": [
+            "The text uses northers as an archaic plural."
+          ],
+          "collocations": ["northers in text"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "northest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "word",
+          "definition": "likely a misspelling of northerness or northernmost; not a standard entry",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "northfieldite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a diminutive mineral or accidental proper noun; may refer to a mineral-like name with limited use",
+          "examples": [
+            "The specimen was labeled northfieldite."
+          ],
+          "collocations": ["northfieldite specimen"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science"]
+        }
+      ]
+    }
+  ]
+}

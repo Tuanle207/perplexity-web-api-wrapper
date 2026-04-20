@@ -1,0 +1,586 @@
+{
+  "items": [
+    {
+      "term": "sarcomatoses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "plural noun",
+          "definition": "a condition characterized by the presence and spread of sarcomas in the body",
+          "examples": [
+            "The patient was diagnosed with sarcomatoses after multiple lesions appeared.",
+            "Researchers study how sarcomatoses progress in different tissues."
+          ],
+          "collocations": [
+            "severe sarcomatoses",
+            "metastatic sarcomatoses",
+            "progression of sarcomatoses",
+            "diagnosis of sarcomatoses",
+            "treatments for sarcomatoses"
+          ],
+          "synonyms": ["sarcoma dissemination", "sarcoma metastasis (spread)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "healthcare", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sarcomatosis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a disease characterized by the presence and spread of sarcomas in the body",
+          "examples": [
+            "Sarcomatosis is a term used when sarcomas are widespread.",
+            "The clinic reported cases of sarcomatosis in the study group."
+          ],
+          "collocations": [
+            "advanced sarcomatosis",
+            "diffuse sarcomatosis",
+            "diagnosis of sarcomatosis",
+            "sarcomatosis management"
+          ],
+          "synonyms": ["sarcoma spread", "sarcoma metastasis"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "sarcomatous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or resembling sarcoma; having tumor-like characteristics",
+          "examples": [
+            "The mass showed sarcomatous features on the biopsy.",
+            "Sarcomatous tissue can be aggressive and invasive."
+          ],
+          "collocations": [
+            "sarcomatous cells",
+            "sarcomatous tissue",
+            "sarcomatous transformation",
+            "sarcomatous elements"
+          ],
+          "synonyms": ["tumor-like", "sarcoma-like"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "sarcomere",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the basic unit of a muscle fiber responsible for contraction, between two Z-lines in a myofibril",
+          "examples": [
+            "A sarcomere shortens when myosin pulls on actin.",
+            "Disruptions in sarcomeres can impair muscle contraction."
+          ],
+          "collocations": [
+            "actin filaments",
+            "myosin heads",
+            "sarcomere length",
+            "Z-line",
+            "muscle contraction"
+          ],
+          "synonyms": ["contractile unit of a muscle fiber"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "anatomy", "education"]
+        }
+      ]
+    },
+    {
+      "term": "sarcomeres",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sarcomere; the basic contractile units within muscle fibers",
+          "examples": [
+            "Sarcomeres shorten during muscle contraction.",
+            "Different muscles have different sarcomere arrangements."
+          ],
+          "collocations": [
+            "arc length of sarcomeres",
+            "sarcomeres in series",
+            "sarcomeres in parallel"
+          ],
+          "synonyms": ["contractile units of muscles"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "anatomy", "education"]
+        }
+      ]
+    },
+    {
+      "term": "sarcomeric",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or composed of sarcomeres or their structure",
+          "examples": [
+            "Sarcomeric proteins play a key role in muscle contraction.",
+            "Sarcomeric organization influences muscle function."
+          ],
+          "collocations": [
+            "sarcomeric proteins",
+            "sarcomeric arrangement",
+            "sarcomeric contraction"
+          ],
+          "synonyms": ["sarcomeric-related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "sarconet",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a network or system named sarconet (usage may be historical/rare; not widely attested in common medical literature)",
+          "examples": [
+            "The term sarconet appears in some older anatomical texts."
+          ],
+          "collocations": [
+            "sarconet connections",
+            "in the sarconet"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sarconets",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of sarconet; refers to networks named sarconet",
+          "examples": [
+            "Fragments of sarconets were described in the manuscript."
+          ],
+          "collocations": [
+            "sarconets networks"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sarcophaga",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a genus of flesh flies in the family Sarcophagidae",
+          "examples": [
+            "Sarcophaga species are often used in forensic entomology."
+          ],
+          "collocations": [
+            "Sarcophaga species",
+            "flesh fly"
+          ],
+          "synonyms": ["flesh fly genus Sarcophaga"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "entomology"]
+        }
+      ]
+    },
+    {
+      "term": "sarcophagal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "of or relating to Sarcophaga or to flesh flies; used in anatomical or entomological contexts",
+          "examples": [
+            "Sarcophagal tissue samples were examined in the study.",
+            "Sarcophagal behavior was observed in the lab."
+          ],
+          "collocations": [
+            "sarophagal tissue",
+            "sarcophagal larva"
+          ],
+          "synonyms": ["Sarcophaga-related"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "entomology"]
+        }
+      ]
+    },
+    {
+      "term": "sarcophagi",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sarcophagus; a stone coffin, typically with a lid, used in ancient times",
+          "examples": [
+            "The archaeologists uncovered ornate sarcophagi in the tombs.",
+            "Sarcophagi were often elaborately decorated."
+          ],
+          "collocations": [
+            "ancient sarcophagi",
+            "stone sarcophagi",
+            "golden sarcophagi"
+          ],
+          "synonyms": ["coffin", "tomb container"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["archaeology", "history", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "sarcophagic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or resembling a sarcophagus or to flesh-eating; used in a figurative sense to describe gruesome or coffin-like qualities",
+          "examples": [
+            "A sarcophagic display unsettled the visitors.",
+            "The scene had a sarcophagic atmosphere."
+          ],
+          "collocations": [
+            "sarcophagic display",
+            "sarcophagic imagery"
+          ],
+          "synonyms": ["tomb-like", "coffin-like", "gory (figurative)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["art", "literature", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "sarcophagid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of the family Sarcophagidae (flesh flies) within the order Diptera",
+          "examples": [
+            "Sarcophagids are commonly studied in forensic entomology."
+          ],
+          "collocations": [
+            "sarcophagid fly",
+            "family Sarcophagidae"
+          ],
+          "synonyms": ["flesh fly family member"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "entomology"]
+        }
+      ]
+    },
+    {
+      "term": "sarcophagidae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the family of flesh flies within Diptera, Sarcophagidae",
+          "examples": [
+            "Sarcophagidae includes many large flesh flies used in studies."
+          ],
+          "collocations": [
+            "family Sarcophagidae",
+            "flesh fly family"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "entomology"]
+        }
+      ]
+    },
+    {
+      "term": "sarcophagine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical compound or salt derived from sarcosine or related contexts; also used as a name in some biochemical literature",
+          "examples": [
+            "The researchers synthesized sarcophagine derivatives for the study."
+          ],
+          "collocations": [
+            "sarcophagine derivative",
+            "sarcophagine compound"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "biochemistry", "research"]
+        }
+      ]
+    },
+    {
+      "term": "sarcophagize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to enclose or bury in a sarcophagus; to entomb",
+          "examples": [
+            "They decided to sarcophagize the remains in a ceremonial tomb.",
+            "The priests planned to sarcophagize the relics."
+          ],
+          "collocations": [
+            "sarcophagize the remains",
+            "sarcophagize artifacts"
+          ],
+          "synonyms": ["entomb", "inter", "coffin"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["archaeology", "history", "religious studies"]
+        }
+      ]
+    },
+    {
+      "term": "sarcophagous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "feeding on flesh; flesh-eating, typically in reference to certain insects or organisms",
+          "examples": [
+            "Certain larvae are sarcophagous and feed on decaying tissue.",
+            "Sarcophagous flies are often studied for their ecological roles."
+          ],
+          "collocations": [
+            "sarcophagous larvae",
+            "sarcophagous insect"
+          ],
+          "synonyms": ["flesh-eating", "carnivorous (in specific contexts)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "ecology"]
+        }
+      ]
+    },
+    {
+      "term": "sarcophagus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large decorated stone coffin of ancient civilizations",
+          "examples": [
+            "The tomb housed an ornately carved sarcophagus.",
+            "Egyptian sarcophagi often have inscriptions."
+          ],
+          "collocations": [
+            "stone sarcophagus",
+            "ancient sarcophagus",
+            "carved sarcophagus"
+          ],
+          "synonyms": ["coffin", "tomb container"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["archaeology", "history", "art history"]
+        }
+      ]
+    },
+    {
+      "term": "sarcophaguses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sarcophagus",
+          "examples": [
+            "The museum displayed several ancient sarcophaguses.",
+            "Collectors studied the patterns on multiple sarcophaguses."
+          ],
+          "collocations": [
+            "sarcophaguses collection",
+            "ornate sarcophaguses"
+          ],
+          "synonyms": ["coffins", "tomb containers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["museum", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sarcophagy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the eating of flesh or decaying flesh; flesh-eating in a biological context",
+          "examples": [
+            "Sarcophagy is observed in certain scavengers and decomposition processes.",
+            "Forensic studies sometimes discuss sarcophagy in corpses."
+          ],
+          "collocations": [
+            "sarcophagy behavior",
+            "marine sarcophagy",
+            "sarcophagy in nature"
+          ],
+          "synonyms": ["flesh-eating", "carnivory (in a biological sense)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "ecology", "forensic science"]
+        }
+      ]
+    },
+    {
+      "term": "sarcophile",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who loves sarcophagi or tombs; historically used for museum curators or scholars with interest in tombs; more commonly used in fictional or niche contexts",
+          "examples": [
+            "The collector was a noted sarcophile and studied ancient tombs.",
+            "Sarcophiles often travel to archeological sites."
+          ],
+          "collocations": [
+            "sarcophile collector",
+            "sarcophile of antiquities"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["archaeology", "history", "museum studies"]
+        }
+      ]
+    },
+    {
+      "term": "sarcophilous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having an affinity for sarcophagi or tombs; tomb-loving",
+          "examples": [
+            "The sarcophilous curator curated tomb artifacts with care."
+          ],
+          "collocations": [
+            "sarcophilous collection",
+            "sarcophilous environment"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["archaeology", "museum studies"]
+        }
+      ]
+    },
+    {
+      "term": "sarcophilus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the genus that includes the Tasmanian devil; reference in zoological taxonomy",
+          "examples": [
+            "Sarcophilus harrisii is the Tasmanian devil."
+          ],
+          "collocations": [
+            "Sarcophilus genus",
+            "Sarcophilus harrisii"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "zoology", "taxonomy"]
+        }
+      ]
+    },
+    {
+      "term": "sarcoplasm",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the cytoplasm of a muscle cell, containing myofibrils",
+          "examples": [
+            "Sarcoplasm contains the components needed for muscle contraction.",
+            "The saroplasm is rich in mitochondria."
+          ],
+          "collocations": [
+            "sarcoplasm content",
+            "muscle saroplasm",
+            "sarcoplasmic reticulum"
+          ],
+          "synonyms": ["cytoplasm of muscle cell"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "sarcoplasma",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the cytoplasm within a muscle fiber or sarcoplasm; used in anatomical contexts",
+          "examples": [
+            "Sarcoplasma is involved in storing energy for muscle contraction.",
+            "Disorders can affect the composition of saroplasma."
+          ],
+          "collocations": [
+            "sarcoplasma organization",
+            "mitochondria in saroplasma"
+          ],
+          "synonyms": ["muscle cell cytoplasm"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "anatomy"]
+        }
+      ]
+    }
+  ]
+}

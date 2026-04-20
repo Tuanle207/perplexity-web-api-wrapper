@@ -1,0 +1,882 @@
+{
+  "items": [
+    {
+      "term": "nonrestorative",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not restoring health, strength, or energy; not restorative",
+          "examples": [
+            "The long hike left me feeling nonrestorative and exhausted.",
+            "The medicine was ineffective, leaving him nonrestorative rather than cured."
+          ],
+          "collocations": [
+            "nonrestorative sleep",
+            "nonrestorative effects",
+            "nonrestorative treatment"
+          ],
+          "synonyms": ["unrestorative", "unrefreshing"],
+          "antonyms": ["restorative", "rejuvenating"],
+          "register": "neutral",
+          "domain": ["general", "health"]
+        }
+      ]
+    },
+    {
+      "term": "nonrestrained",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not restrained; free in behavior or expression",
+          "examples": [
+            "Her nonrestrained laughter filled the room.",
+            "The film includes nonrestrained violence that some viewers find disturbing."
+          ],
+          "collocations": [
+            "nonrestrained laughter",
+            "nonrestrained enthusiasm",
+            "nonrestrained behavior"
+          ],
+          "synonyms": ["unrestrained", "unbridled", "unchecked"],
+          "antonyms": ["restrained", "controlled"],
+          "register": "neutral",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "nonrestraint",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the absence of restraint or limitation; the state of not being restrained",
+          "examples": [
+            "The nonrestraint of early impulses can lead to problems.",
+            "There was a debate about whether nonrestraint in media is harmful."
+          ],
+          "collocations": [
+            "lack of nonrestraint",
+            "social nonrestraint",
+            "nonrestraint policy"
+          ],
+          "synonyms": ["unrestraint", "liberty", "freedom"],
+          "antonyms": ["restraint", "discipline"],
+          "register": "neutral",
+          "domain": ["general", "social"]
+        }
+      ]
+    },
+    {
+      "term": "nonrestricted",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not limited or restricted; freely accessible or available",
+          "examples": [
+            "The library is nonrestricted to the public.",
+            "Nonrestricted access to the dataset is required for this study."
+          ],
+          "collocations": [
+            "nonrestricted access",
+            "nonrestricted area",
+            "nonrestricted file"
+          ],
+          "synonyms": ["unrestricted", "open", "free"],
+          "antonyms": ["restricted", "sealed"],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nonrestrictedly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonrestricted manner; without restrictions",
+          "examples": [
+            "Data could be shared nonrestrictedly among researchers.",
+            "The policy was nonrestrictedly permissive."
+          ],
+          "collocations": [
+            "nonrestrictedly accessible",
+            "nonrestrictedly available"
+          ],
+          "synonyms": ["unrestrictedly", "openly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nonrestricting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not causing or imposing a restriction; allowing freedom",
+          "examples": [
+            "Nonrestricting policies encourage innovation.",
+            "The contract includes nonrestricting terms for experimentation."
+          ],
+          "collocations": [
+            "nonrestricting policy",
+            "nonrestricting clause",
+            "nonrestricting environment"
+          ],
+          "synonyms": ["unrestrictive", "permissive"],
+          "antonyms": ["restrictive", "binding"],
+          "register": "neutral",
+          "domain": ["general", "law", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nonrestriction",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the absence of restriction; freedom from limits",
+          "examples": [
+            "There is a nonrestriction on the number of participants.",
+            "The nonrestriction of movement was controversial."
+          ],
+          "collocations": [
+            "degree of nonrestriction",
+            "nonrestriction policy",
+            "nonrestriction clause"
+          ],
+          "synonyms": ["unrestriction", "freedom"],
+          "antonyms": ["restriction", "limit"],
+          "register": "neutral",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "nonrestrictive",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not restrictive; allowing freedom; also a term in grammar describing a nonessential clause",
+          "examples": [
+            "In grammar, a nonrestrictive clause adds extra information.",
+            "The house has a nonrestrictive layout that feels open."
+          ],
+          "collocations": [
+            "nonrestrictive clause",
+            "nonrestrictive relative clause",
+            "nonrestrictive quotation"
+          ],
+          "synonyms": ["unrestrictive", "liberal"],
+          "antonyms": ["restrictive"],
+          "register": "neutral",
+          "domain": ["general", "language"]
+        }
+      ]
+    },
+    {
+      "term": "nonrestrictively",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonrestrictive manner; with freedom from restriction",
+          "examples": [
+            "The policy was designed nonrestrictively to encourage growth.",
+            "Nonrestrictively, the rules allow some flexibility."
+          ],
+          "collocations": [
+            "nonrestrictively defined",
+            "nonrestrictively structured"
+          ],
+          "synonyms": ["unrestrictively", "liberally"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "nonresumption",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of not resuming after a pause or interruption; lack of continuation",
+          "examples": [
+            "There was a nonresumption of negotiation after a pause.",
+            "The meeting ended with a nonresumption of talks."
+          ],
+          "collocations": [
+            "lead to nonresumption",
+            "probable nonresumption"
+          ],
+          "synonyms": ["discontinuation", "ceasing"],
+          "antonyms": ["resumption", "renewal"],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nonresurrection",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of not rising again, especially after death; nonrebirth",
+          "examples": [
+            "In this context, nonresurrection means the body will not revive.",
+            "The belief concerns nonresurrection in certain traditions."
+          ],
+          "collocations": [
+            "fear of nonresurrection",
+            "nonresurrection belief"
+          ],
+          "synonyms": ["death", "nonrebirth"],
+          "antonyms": ["resurrection", "rebirth"],
+          "register": "neutral",
+          "domain": ["general", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "nonresurrectional",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not related to resurrection or not capable of rising again",
+          "examples": [
+            "The manuscript discusses nonresurrectional themes.",
+            "Nonresurrectional processes cannot reappear after termination."
+          ],
+          "collocations": [
+            "nonresurrectional stage",
+            "nonresurrectional idea"
+          ],
+          "synonyms": ["nonresurrective"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "nonresuscitable",
+      "kind": "word",
+        "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not capable of being resuscitated or revived",
+          "examples": [
+            "The patient was deemed nonresuscitable.",
+            "Medical teams considered the case nonresuscitable given the injury."
+          ],
+          "collocations": [
+            "nonresuscitable wound",
+            "nonresuscitable patient"
+          ],
+          "synonyms": ["nonvivable", "nonrevivable"],
+          "antonyms": ["resuscitable", "revivable"],
+          "register": "neutral",
+          "domain": ["general", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "nonresuscitation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or instance of not resuscitating; withholding revival procedures",
+          "examples": [
+            "The doctors discussed nonresuscitation as a treatment option.",
+            "Ethical debates surround nonresuscitation decisions."
+          ],
+          "collocations": [
+            "advance directive for nonresuscitation",
+            "nonresuscitation order"
+          ],
+          "synonyms": ["withholding resuscitation", "DNR"],
+          "antonyms": ["resuscitation", "revival"],
+          "register": "formal",
+          "domain": ["medicine", "law"]
+        }
+      ]
+    },
+    {
+      "term": "nonresuscitative",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not used to resuscitate; not intended for revival",
+          "examples": [
+            "Nonresuscitative measures were chosen.",
+            "The team discussed nonresuscitative protocols."
+          ],
+          "collocations": [
+            "nonresuscitative care",
+            "nonresuscitative measures"
+          ],
+          "synonyms": ["withholding resuscitation"],
+          "antonyms": ["resuscitative"],
+          "register": "neutral",
+          "domain": ["medicine", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "nonretail",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not sold in retail; not intended for sale to the general public",
+          "examples": [
+            "The product is nonretail and distributed privately.",
+            "Nonretail packaging may apply for wholesale orders."
+          ],
+          "collocations": [
+            "nonretail price",
+            "nonretail channel"
+          ],
+          "synonyms": ["wholesale", "b2b"],
+          "antonyms": ["retail"],
+          "register": "neutral",
+          "domain": ["business", "commerce"]
+        }
+      ]
+    },
+    {
+      "term": "nonretainable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not able to be retained or kept",
+          "examples": [
+            "The document is nonretainable after the deadline.",
+            "Nonretainable items were discarded."
+          ],
+          "collocations": [
+            "nonretainable data",
+            "nonretainable assets"
+          ],
+          "synonyms": ["unretainable"],
+          "antonyms": ["retainable", "kept"],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nonretainment",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of not keeping or maintaining possession",
+          "examples": [
+            "The policy aims to reduce nonretainment of assets.",
+            "Nonretainment of records caused issues in the audit."
+          ],
+          "collocations": [
+            "nonretainment rate",
+            "nonretainment of data"
+          ],
+          "synonyms": ["loss", "forfeiture"],
+          "antonyms": ["retention", "maintenance"],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nonretaliation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "refusal to retaliate or seek revenge",
+          "examples": [
+            "The treaty requires nonretaliation in trade.",
+            "Nonretaliation is a key part of the agreement."
+          ],
+          "collocations": [
+            "commitment to nonretaliation",
+            "universal nonretaliation"
+          ],
+          "synonyms": ["nonviolence", "pacifism"],
+          "antonyms": ["retaliation", "revenge"],
+          "register": "formal",
+          "domain": ["law", "international"]
+        }
+      ]
+    },
+    {
+      "term": "nonretardation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or quality of not causing retardation or delay",
+          "examples": [
+            "Nonretardation of progress helped the project stay on schedule."
+          ],
+          "collocations": [
+            "nonretardation of development"
+          ],
+          "synonyms": ["timeliness", "promptness"],
+          "antonyms": ["retardation", "delay"],
+          "register": "neutral",
+          "domain": ["general", "project"]
+        }
+      ]
+    },
+    {
+      "term": "nonretardative",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not causing delay or hindrance; not retarding",
+          "examples": [
+            "The effect is nonretardative, allowing rapid progression."
+          ],
+          "collocations": [
+            "nonretardative influence",
+            "nonretardative process"
+          ],
+          "synonyms": ["timely", "unhindering"],
+          "antonyms": ["retarding", "delaying"],
+          "register": "neutral",
+          "domain": ["general", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonretardatory",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not causing retardation or delay; not slowing progress",
+          "examples": [
+            "Nonretardatory measures accelerated the project."
+          ],
+          "collocations": [
+            "nonretardatory policy"
+          ],
+          "synonyms": ["nondelaying", "expedient"],
+          "antonyms": ["retardatory", "delaying"],
+          "register": "neutral",
+          "domain": ["general", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "nonretarded",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not mentally retarded; archaic and offensive when referring to mental disability",
+          "examples": [
+            "The term nonretarded is considered outdated and offensive today.",
+            "Nonretarded jokes are inappropriate."
+          ],
+          "collocations": [
+            "nonretarded person"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["general", "disability"]
+        }
+      ]
+    },
+    {
+      "term": "nonretardment",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of not delaying or hindering; not retarding",
+          "examples": [
+            "Nonretardment of progress is essential for the project's success."
+          ],
+          "collocations": [
+            "nonretardment of growth"
+          ],
+          "synonyms": ["unhindering", "unimpeded progress"],
+          "antonyms": ["retardation", "delay"],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nonretention",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of not keeping something; failure to retain",
+          "examples": [
+            "There was nonretention of the keys after the move.",
+            "Nonretention rates affected data storage decisions."
+          ],
+          "collocations": [
+            "nonretention period",
+            "nonretention rate"
+          ],
+          "synonyms": ["loss of retention", "loss"],
+          "antonyms": ["retention", "keeping"],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nonretention",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of not retaining something",
+          "examples": [
+            "Nonretention of information can harm memory.",
+            "Nonretention protocols were reviewed."
+          ],
+          "collocations": [
+            "nonretention of records"
+          ],
+          "synonyms": ["nonretention"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "nonretention",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of not retaining; the state of not keeping",
+          "examples": [
+            "Policy focuses on nonretention of unneeded data."
+          ],
+          "collocations": [
+            "data nonretention"
+          ],
+          "synonyms": ["loss of retention"],
+          "antonyms": ["retention"],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nonretentive",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not prone to retention or memory; not retaining",
+          "examples": [
+            "Nonretentive memory tends to forget quickly.",
+            "The nonretentive surface repels water."
+          ],
+          "collocations": [
+            "nonretentive memory",
+            "nonretentive surface"
+          ],
+          "synonyms": ["forgetful", "unretentive"],
+          "antonyms": ["retentive", "memory-capable"],
+          "register": "neutral",
+          "domain": ["general", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonretentiveness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of not retaining or remembering well",
+          "examples": [
+            "Nonretentiveness makes studying harder."
+          ],
+          "collocations": [
+            "high nonretentiveness"
+          ],
+          "synonyms": ["forgetfulness", "unretentiveness"],
+          "antonyms": ["retentiveness", "memory"],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nonretentions",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nonretention; instances of not retaining",
+          "examples": [
+            "Nonretentions across the database caused data loss."
+          ],
+          "collocations": [
+            "multiple nonretentions"
+          ],
+          "synonyms": ["losses of retention"],
+          "antonyms": ["retentions"],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nonretainment",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or state of not retaining; perpetual lack of retention",
+          "examples": [
+            "Nonretainment of assets impacted the estate."
+          ],
+          "collocations": [
+            "nonretainment of assets"
+          ],
+          "synonyms": ["loss of retention"],
+          "antonyms": ["retention"],
+          "register": "neutral",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "nonretaliation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of not retaliating; avoiding revenge",
+          "examples": [
+            "Policies promote nonretaliation in the workplace.",
+            "Nonretaliation is expected in international agreements."
+          ],
+          "collocations": [
+            "commitment to nonretaliation",
+            "nonretaliation clause"
+          ],
+          "synonyms": ["nonviolence", "peaceful conduct"],
+          "antonyms": ["retaliation", "revenge"],
+          "register": "formal",
+          "domain": ["law", "international"]
+        }
+      ]
+    },
+    {
+      "term": "nonretarded",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not mentally retarded; referentially outdated and offensive",
+          "examples": [
+            "This term is considered outdated and offensive in reference to disability.",
+            "Use inclusive language instead of nonretarded terms."
+          ],
+          "collocations": [
+            "nonretarded person"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["general", "disability"]
+        }
+      ]
+    },
+    {
+      "term": "nonretardation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of not causing retardation; lack of slowing down",
+          "examples": [
+            "Nonretardation of growth was observed in the study."
+          ],
+          "collocations": [
+            "nonretardation of progress"
+          ],
+          "synonyms": ["timeliness", "rapidity"],
+          "antonyms": ["retardation", "delay"],
+          "register": "neutral",
+          "domain": ["general", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonretardative",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not causing retardation or delay; not hindering progress",
+          "examples": [
+            "Nonretardative effects sped up the project."
+          ],
+          "collocations": [
+            "nonretardative effect"
+          ],
+          "synonyms": ["unhindering", "timely"],
+          "antonyms": ["retarding", "delaying"],
+          "register": "neutral",
+          "domain": ["general", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonretardatory",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not causing retardation or delay; not slowing progress",
+          "examples": [
+            "Nonretardatory measures helped maintain schedule."
+          ],
+          "collocations": [
+            "nonretardatory policy"
+          ],
+          "synonyms": ["timely", "expedient"],
+          "antonyms": ["retardatory", "delaying"],
+          "register": "neutral",
+          "domain": ["general", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "nonretardment",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of not delaying; lack of retardation",
+          "examples": [
+            "Nonretardment of decisions improved efficiency."
+          ],
+          "collocations": [
+            "nonretardment of timelines"
+          ],
+          "synonyms": ["timeliness", "promptness"],
+          "antonyms": ["retardation", "delay"],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nonretention",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of not retaining; failure to keep or hold",
+          "examples": [
+            "Nonretention of data led to gaps in the record.",
+            "Policies address nonretention to protect privacy."
+          ],
+          "collocations": [
+            "nonretention period",
+            "nonretention policy"
+          ],
+          "synonyms": ["loss of retention", "disposal"],
+          "antonyms": ["retention", "holding"],
+          "register": "neutral",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "nonretained",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not retained or kept",
+          "examples": [
+            "Nonretained earnings were carried forward.",
+            "Nonretained objects were discarded."
+          ],
+          "collocations": [
+            "nonretained assets",
+            "nonretained funds"
+          ],
+          "synonyms": ["unretained"],
+          "antonyms": ["retained"],
+          "register": "neutral",
+          "domain": ["general", "finance"]
+        }
+      ]
+    }
+  ]
+}

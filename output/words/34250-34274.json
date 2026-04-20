@@ -1,0 +1,409 @@
+```json
+{
+  "items": [
+    {
+      "term": "batards",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of batard, a type of bread loaf that is shorter and wider than a baguette.",
+          "examples": ["The bakery sells batards fresh every morning.", "She bought two batards for the family dinner.", "Batards have a crisp crust and soft interior."],
+          "collocations": ["rustic batards", "fresh batards", "crusty batards", "sliced batards", "baked batards"],
+          "synonyms": ["baguettes", "loaves"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "culinary"]
+        }
+      ]
+    },
+    {
+      "term": "batata",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a sweet potato, especially a type common in the Caribbean and Latin America.",
+          "examples": ["Boil the batata until it is soft.", "Batata fries are a popular snack.", "She grows batata in her garden."],
+          "collocations": ["boiled batata", "sweet batata", "batata fries", "mashed batata", "roasted batata"],
+          "synonyms": ["sweet potato"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "batatas",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of batata, sweet potatoes.",
+          "examples": ["The market sells fresh batatas.", "Cook the batatas in the oven.", "Batatas are rich in vitamins."],
+          "collocations": ["fresh batatas", "baked batatas", "sweet batatas", "fried batatas"],
+          "synonyms": ["sweet potatoes"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "batatilla",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small variety of sweet potato.",
+          "examples": ["The batatilla is smaller than regular batata.", "She planted batatilla seeds."],
+          "collocations": ["small batatilla", "fresh batatilla"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "batavi",
+      "kind": "proper_noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an ancient Germanic tribe from the Netherlands region.",
+          "examples": ["The Batavi allied with the Romans.", "Historians study the Batavi culture."],
+          "collocations": ["ancient Batavi", "Batavi tribe", "Roman Batavi"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "batavia",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "historical name for Jakarta, Indonesia; also a type of lettuce.",
+          "examples": ["Batavia was the Dutch capital in Asia.", "Batavia lettuce is crisp and mild."],
+          "collocations": ["old Batavia", "Batavia lettuce", "Dutch Batavia"],
+          "synonyms": ["Jakarta"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "geography", "food"]
+        }
+      ]
+    },
+    {
+      "term": "batavian",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to ancient Batavi or Batavia (Jakarta).",
+          "examples": ["Batavian artifacts were found nearby.", "The Batavian style of lettuce is popular."],
+          "collocations": ["Batavian history", "Batavian culture", "Batavian lettuce"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "food"]
+        }
+      ]
+    },
+    {
+      "term": "batavias",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of Batavia lettuce.",
+          "examples": ["The salad has batavias.", "Buy fresh batavias at the store."],
+          "collocations": ["crisp batavias", "fresh batavias"],
+          "synonyms": ["Batavia lettuces"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "batboy",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a young boy who helps baseball players by carrying their bats and equipment.",
+          "examples": ["The batboy handed the bat to the player.", "He started as a batboy at age 12."],
+          "collocations": ["team batboy", "clubhouse batboy", "young batboy"],
+          "synonyms": ["batperson"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports", "baseball"]
+        }
+      ]
+    },
+    {
+      "term": "batboys",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of batboy.",
+          "examples": ["The batboys ran onto the field.", "Two batboys assist the team."],
+          "collocations": ["junior batboys", "stadium batboys"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "batch",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a group of things made, handled, or sent together at the same time.",
+          "examples": ["Bake a batch of cookies.", "The new batch arrived today.", "Process files in batches."],
+          "collocations": ["fresh batch", "new batch", "large batch", "small batch", "production batch"],
+          "synonyms": ["group", "lot", "quantity"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday", "business", "cooking"]
+        }
+      ]
+    },
+    {
+      "term": "batched",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "grouped or processed together in batches.",
+          "examples": ["The data is batched for efficiency.", "Batched orders save time."],
+          "collocations": ["batched data", "batched processing", "batched orders"],
+          "synonyms": ["grouped"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "batcher",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or machine that groups things into batches.",
+          "examples": ["The batcher sorts the items.", "Use a concrete batcher."],
+          "collocations": ["automatic batcher", "concrete batcher"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "batchers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of batcher.",
+          "examples": ["The factory has several batchers.", "Batchers improve production speed."],
+          "collocations": ["industrial batchers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "batches",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of batch.",
+          "examples": ["We made three batches of soup.", "The batches vary in size."],
+          "collocations": ["multiple batches", "successive batches"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "batching",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of grouping things into batches.",
+          "examples": ["Batching reduces costs.", "Use batching for emails."],
+          "collocations": ["job batching", "email batching", "data batching"],
+          "synonyms": ["grouping"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "batchings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to reduce the intensity or force of something, such as anger.",
+          "examples": ["His fury began to bate.", "The storm bated slightly."],
+          "collocations": ["bate one's breath", "anger bates", "wind bates"],
+          "synonyms": ["subside", "decrease"],
+          "antonyms": ["increase"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "batea",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a shallow pan used in gold mining or gambling.",
+          "examples": ["Miners used a batea to pan for gold.", "The batea spun on the table."],
+          "collocations": ["gold batea", "mining batea"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["mining"]
+        }
+      ]
+    },
+    {
+      "term": "bateau",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a light, flat-bottomed boat used on rivers.",
+          "examples": ["The voyageurs paddled a bateau.", "Load supplies on the bateau."],
+          "collocations": ["river bateau", "flat-bottomed bateau"],
+          "synonyms": ["flatboat"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "bateaux",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bateau.",
+          "examples": ["Several bateaux floated downstream.", "The bateaux carried fur traders."],
+          "collocations": ["fur bateaux", "river bateaux"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "bated",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "held in check or restrained, often used in 'with bated breath'.",
+          "examples": ["She waited with bated breath.", "He spoke in a bated voice."],
+          "collocations": ["bated breath", "with bated breath"],
+          "synonyms": ["restrained"],
+          "antonyms": ["unrestrained"],
+          "register": "literary",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bateful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "batekes",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural referring to the Bateke people, an ethnic group in Central Africa.",
+          "examples": ["The Batekes live along the Congo River.", "Batekes have rich traditions."],
+          "collocations": ["Bateke people"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "batel",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of small boat used in the Philippines.",
+          "examples": ["The fisherman rowed a batel.", "Batels navigate shallow waters."],
+          "collocations": ["wooden batel", "fishing batel"],
+          "synonyms": ["small boat"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,820 @@
+{
+  "items": [
+    {
+      "term": "nucleins",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A family of proteins associated with nucleic acids in cells, often used to refer to nuclein as a general type of nucleoprotein found in the cell nucleus.",
+          "examples": [
+            "Nucleins were isolated from the nucleus for study.",
+            "The role of nucleins in chromatin structure is complex."
+          ],
+          "collocations": [
+            "nucleins in the nucleus",
+            "nucleins and DNA",
+            "nucleins proteins",
+            "nuclein history"
+          ],
+          "synonyms": ["nucleoprotein"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nucleization",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A process of forming or organizing into a nucleus or a nuclear-like structure; used mainly in scientific contexts to describe nucleation-like events at a microscopic level.",
+          "examples": [
+            "Nucleization is a key step in certain crystallization reactions.",
+            "Researchers studied nucleization patterns in the cell culture."
+          ],
+          "collocations": [
+            "nucleization process",
+            "nucleization in solutions",
+            "nucleization dynamics"
+          ],
+          "synonyms": ["nucleation", "nucleation-like process"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To cause to form a nucleus or to become organized around a nucleus; to initiate a nucleation-like process.",
+          "examples": [
+            "The chemical added ions to nucleize the solution.",
+            "Rough surfaces can nucleize crystal growth."
+          ],
+          "collocations": [
+            "nucleize a solution",
+            "nucleize crystals",
+            "nucleize particles"
+          ],
+          "synonyms": ["nucleate"],
+          "antonyms": ["dissolve", "disperse"],
+          "register": "neutral",
+          "domain": ["science", "chemistry", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "nucleli",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A plural or misspelled form related to nucleoli; not a standard term in common usage, used in scientific contexts as a variation or error for nucleolus-related terminology.",
+          "examples": [
+            "The manuscript sometimes uses nucleli to refer to multiple nucleoli.",
+            "Common terms include nucleolus, not nucleli."
+          ],
+          "collocations": [
+            "nucleli in texts",
+            "nucleli plural form"
+          ],
+          "synonyms": ["nucleoli", "nucleolus-related plurals"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "linguistics", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "nucleoalbumin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A protein associated with the nucleus; a historical or specialized term referring to proteins bound to nucleic material or nucleophilic proteins within cells.",
+          "examples": [
+            "Nucleoalbumin was studied in early cell biology.",
+            "The term nucleoalbumin appears in older biochemistry texts."
+          ],
+          "collocations": [
+            "nucleoalbumin extraction",
+            "nucleoalbumin fraction",
+            "nucleoalbumin research"
+          ],
+          "synonyms": ["nucleoprotein", "nuclein"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biochemistry", "history"]
+        }
+      ]
+    },
+    {
+      "term": "nucleoalbuminuria",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A historical or highly specialized term referring to the presence of nucleoalbumin in urine, used in some older medical texts.",
+          "examples": [
+            "Nucleoalbuminuria was noted in early nephrology reports.",
+            "Modern terminology rarely uses nucleoalbuminuria."
+          ],
+          "collocations": [
+            "nucleoalbuminuria diagnosis",
+            "nucleoalbuminuria testing"
+          ],
+          "synonyms": ["proteinuria (nucleoprotein related)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "history"]
+        }
+      ]
+    },
+    {
+      "term": "nucleocapsid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The protein shell surrounding the genome of a virus; protects genetic material.",
+          "examples": [
+            "The virus particle has a nucleocapsid.",
+            "Nucleocapsids assemble before the viral envelope forms."
+          ],
+          "collocations": [
+            "viral nucleocapsid",
+            "nucleocapsid protein",
+            "nucleocapsid assembly"
+          ],
+          "synonyms": ["capsid", "nucleoprotein shell"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "virology", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleocapsids",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of nucleocapsid; multiple viral protein shells surrounding genomes.",
+          "examples": [
+            "Different viruses have different nucleocapsids.",
+            "Researchers studied the assembly of nucleocapsids."
+          ],
+          "collocations": [
+            "nucleocapsids in viruses",
+            "nucleocapsids proteins",
+            "nucleocapsids structure"
+          ],
+          "synonyms": ["capsids (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "virology", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleofugal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Moving away from the nucleus; used in biology to describe cellular processes where components migrate outward from the nucleus.",
+          "examples": [
+            "Nucleofugal transport occurs during certain cell cycles.",
+            "Nucleofugal signals direct particles away from the nucleus."
+          ],
+          "collocations": [
+            "nucleofugal movement",
+            "nucleofugal transport"
+          ],
+          "synonyms": ["efferent from nucleus", "nucleus-dispersing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleohistone",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A component of chromatin: a complex of DNA with histone proteins in the nucleus.",
+          "examples": [
+            "Nucleohistone is part of the structure that packages DNA.",
+            "Histones help organize nucleohistone in chromosomes."
+          ],
+          "collocations": [
+            "nucleohistone structure",
+            "histone-nucleohistone complex"
+          ],
+          "synonyms": ["nucleosome component", "histone complex"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "genetics"]
+        }
+      ]
+    },
+    {
+      "term": "nucleohyaloplasm",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A granular, deeply stained material in the nucleus consisting of nucleoplasm within the nuclear envelope.",
+          "examples": [
+            "Nucleohyaloplasm was observed in the stained nucleus.",
+            "The study described nucleohyaloplasm distribution during division."
+          ],
+          "collocations": [
+            "nucleohyaloplasm distribution",
+            "nucleohyaloplasm components"
+          ],
+          "synonyms": ["nuclear matrix", "nucleoplasm"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "nucleohyaloplasma",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Another term for nucleohyaloplasm; part of the nucleus’s internal substance.",
+          "examples": [
+            "Nucleohyaloplasma is closely related to nucleoplasm.",
+            "Researchers used electron microscopy to study nucleohyaloplasma."
+          ],
+          "collocations": [
+            "nucleohyaloplasma region",
+            "nucleohyaloplasma study"
+          ],
+          "synonyms": ["nucleohyaloplasm", "nuclear interior"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "cell biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleoid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "In bacteria and some microorganisms, the region within the cell where the genetic material (DNA) is located, not surrounded by a membrane.",
+          "examples": [
+            "The bacterial nucleoid contains the circular chromosome.",
+            "Gene expression in the nucleoid region occurs without a true nucleus."
+          ],
+          "collocations": [
+            "bacterial nucleoid",
+            "nucleoid region",
+            "nucleoid organization"
+          ],
+          "synonyms": ["genome region", "nuclear region (bacteria)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "microbiology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleoidioplasma",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A specialized term referring to a nucleoid-related plasma or nuclear-associated material, used in advanced cell biology contexts.",
+          "examples": [
+            "Nucleoidioplasma is mentioned in detailed studies of prokaryotic cells.",
+            "The term appears in niche discussions of nucleoid fluid components."
+          ],
+          "collocations": [
+            "nucleoidioplasma analysis",
+            "nucleoidioplasma components"
+          ],
+          "synonyms": ["nucleoid plasma"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "cell biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleoids",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of nucleoid; multiple regions in prokaryotic cells where DNA is located.",
+          "examples": [
+            "Some bacteria have multiple nucleoids.",
+            "Nucleoids organize the genetic material inside the cell."
+          ],
+          "collocations": [
+            "bacterial nucleoids",
+            "nucleoids distribution"
+          ],
+          "synonyms": ["nucleoids (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "microbiology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleolar",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Related to the nucleolus, a structure within the cell nucleus where ribosomal RNA is produced.",
+          "examples": [
+            "Nucleolar activity increases during high ribosome production.",
+            "Nucleolar proteins help organize rRNA synthesis."
+          ],
+          "collocations": [
+            "nucleolar region",
+            "nucleolar activity",
+            "nucleolar proteins"
+          ],
+          "synonyms": ["nucleolar-related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "genetics"]
+        }
+      ]
+    },
+    {
+      "term": "nucleolate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To form or become nucleolate; to cause nucleolus-like structures to form within a nucleus.",
+          "examples": [
+            "During division, certain regions nucleolate to prepare ribosome production.",
+            "The observed cells nucleolate rapidly under the stimulus."
+          ],
+          "collocations": [
+            "nucleolate process",
+            "nucleolate cells"
+          ],
+          "synonyms": ["nucleolus formation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "cell biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleolated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having nucleolate structures; described as containing nucleolate regions.",
+          "examples": [
+            "Nucleolated cells show clear ribosome-prep sites.",
+            "The sample contained nucleolated chromosomes."
+          ],
+          "collocations": [
+            "nucleolated cells",
+            "nucleolated region"
+          ],
+          "synonyms": ["nucleolate-containing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleole",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A misspelling or variant form related to nucleolus or nucleole-related terminology; not standard in modern usage.",
+          "examples": [
+            "The manuscript used nucelole as a variant; standard term is nucleolus.",
+            "Nucleole appears occasionally in old texts."
+          ],
+          "collocations": [
+            "nucleole term",
+            "nucleole variant"
+          ],
+          "synonyms": ["nucleolus", "nucleolar term"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "linguistics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "nucleoles",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of nucleole; an uncommon term referring to small nucleolar-like structures or variants in certain contexts.",
+          "examples": [
+            "Some texts mention nucleoles in discussions of nuclear substructures.",
+            "Nucleoles may be used to describe minor nucleolar features."
+          ],
+          "collocations": [
+            "nucleoles morphology",
+            "nucleoles study"
+          ],
+          "synonyms": ["nucleoli", "nucleole plural form"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "nucleoli",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The small dense structures inside a cell nucleus where ribosomal RNA is produced; plural of nucleolus.",
+          "examples": [
+            "Nucleoli disappear during mitosis then reappear.",
+            "The number of nucleoli can indicate how actively a cell makes ribosomes."
+          ],
+          "collocations": [
+            "nucleoli formation",
+            "nucleoli activity",
+            "nucleoli inside nucleus"
+          ],
+          "synonyms": ["nucleolus (singular)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "cell biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleolini",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A rare or misspelled form; likely intended as nucleolus or nucleoli plural.",
+          "examples": [
+            "Some old texts used nucleolini as a variant; the correct term is nucleoli."
+          ],
+          "collocations": [
+            "nucleolini usage"
+          ],
+          "synonyms": ["nucleoli", "nucleolus"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "linguistics", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "nucleolinus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A rarely used term referring to a component or substance related to the nucleolus or nuclear material.",
+          "examples": [
+            "Nucleolinus appears in some specialized texts."
+          ],
+          "collocations": [
+            "nucleolinus study"
+          ],
+          "synonyms": ["nucleolus component", "nucleolar material"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "nucleolar research"]
+        }
+      ]
+    },
+    {
+      "term": "nucleolocentrosome",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A hypothesized or specialized term referring to an entity at the nucleus-centered area involved in organizing microtubules; not common in general usage.",
+          "examples": [
+            "Nucleolocentrosome is discussed in advanced studies of cell organization."
+          ],
+          "collocations": [
+            "nucleolocentrosome function"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "cell biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleoloid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small, nucleolus-like component within the nucleus; used in some descriptive contexts.",
+          "examples": [
+            "The nucleoloid was observed near the nucleolus."
+          ],
+          "collocations": [
+            "nucleoloid structure",
+            "nucleoloid region"
+          ],
+          "synonyms": ["nucleolus-like body"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "cell biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleoloids",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of nucleoloid; rare in everyday use.",
+          "examples": [
+            "Some papers mention nucleoloids in descriptions of nuclear substructures."
+          ],
+          "collocations": [
+            "nucleoloids study"
+          ],
+          "synonyms": ["nucleoloid plural"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleolar",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to the nucleolus in cells.",
+          "examples": [
+            "Nucleolar activity is linked to ribosome production."
+          ],
+          "collocations": [
+            "nucleolar function",
+            "nucleolar body"
+          ],
+          "synonyms": ["nucleolar-related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "genetics"]
+        }
+      ]
+    },
+    {
+      "term": "nucleolate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To form a nucleolus or nucleolar substance; to become nucleolate.",
+          "examples": [
+            "During rapid growth, cells tend to nucleolate their nuclei."
+          ],
+          "collocations": [
+            "nucleolate during growth"
+          ],
+          "synonyms": ["nucleolus formation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "cell biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleolated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having nucleolated regions; possessing nucleolus-like features.",
+          "examples": [
+            "Nucleolated cells show prominent ribosome synthesis sites."
+          ],
+          "collocations": [
+            "nucleolated cells",
+            "nucleolated nucleus"
+          ],
+          "synonyms": ["nucleolate-containing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleole",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant form or misspelling related to nucleolus; not standard.",
+          "examples": [
+            "Some texts use nucleole as a variant; the standard is nucleolus."
+          ],
+          "collocations": [
+            "nucleole variant"
+          ],
+          "synonyms": ["nucleolus", "nucleoli"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "nucleoles",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form related to nucleole/nucleolus terminology; used in some texts.",
+          "examples": [
+            "Multiple nucleoles were described in the nucleus."
+          ],
+          "collocations": [
+            "nucleoles in literature"
+          ],
+          "synonyms": ["nucleoli", "nucleolus plural forms"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleoli",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of nucleolus; the small, dense structure inside the nucleus where ribosomal RNA is produced.",
+          "examples": [
+            "Nucleoli disappear during mitosis and re-form afterward.",
+            "The number of nucleoli can indicate how active ribosome production is."
+          ],
+          "collocations": [
+            "nucleoli formation",
+            "nucleoli activity",
+            "nucleoli inside nucleus"
+          ],
+          "synonyms": ["nucleolus (singular)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "cell biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleolini",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant plural or misspelling related to nucleolus terminology; used occasionally in historical or niche texts.",
+          "examples": [
+            "Nucleolini appears in older papers; nucleoli is standard."
+          ],
+          "collocations": [
+            "nucleolini usage"
+          ],
+          "synonyms": ["nucleoli", "nucleolus"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "linguistics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "nucleolinus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A rare term referring to a nucleolus-related substance or structure within the nucleus.",
+          "examples": [
+            "Nucleolinus is mentioned in select advanced texts."
+          ],
+          "collocations": [
+            "nucleolinus study"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleolocentrosome",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A specialized term describing a centrosome closely associated with the nucleus or nucleolar region; used in advanced cell biology.",
+          "examples": [
+            "Researchers proposed the nucleolocentrosome as a key organizer."
+          ],
+          "collocations": [
+            "nucleolocentrosome structure",
+            "nucleolocentrosome function"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "cell biology"]
+        }
+      ]
+    },
+    {
+      "term": "nucleoloid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small nucleolus-like body within the nucleus; used in some descriptions of nuclear structure.",
+          "examples": [
+            "The nucleoloid was observed near the nucleolus."
+          ],
+          "collocations": [
+            "nucleoloid structure",
+            "nucleoloid region"
+          ],
+          "synonyms": ["nucleolus-like body"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology", "cell biology"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+```json
+{
+  "items": [
+    {
+      "term": "balun",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A device that matches impedance between a balanced transmission line and an unbalanced load, used in radio and TV.",
+          "examples": ["The antenna needed a balun to work properly.", "Install a balun at the feed point.", "This balun supports high power."],
+          "collocations": ["current balun", "voltage balun", "RF balun", "feedline balun", "impedance balun"],
+          "synonyms": ["transformer", "impedance matcher"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "electronics", "radio"]
+        }
+      ]
+    },
+    {
+      "term": "balunda",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baluns",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of balun; devices for matching impedance in radio equipment.",
+          "examples": ["These baluns improve signal quality.", "Order more baluns for the setup.", "Baluns reduce common mode current."],
+          "collocations": ["multiple baluns", "quality baluns", "homemade baluns"],
+          "synonyms": ["balun devices"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "electronics"]
+        }
+      ]
+    },
+    {
+      "term": "balus",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Tok Pisin word for 'airplane', used in Papua New Guinea.",
+          "examples": ["Balus comes tomorrow.", "The balus is late."],
+          "collocations": ["big balus", "small balus", "cargo balus"],
+          "synonyms": ["plane", "airplane"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["language", "pidgin"]
+        }
+      ]
+    },
+    {
+      "term": "balushai",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A traditional Indian sweet made from semolina and sugar syrup.",
+          "examples": ["Balushai is served at festivals.", "Try the fresh balushai."],
+          "collocations": ["hot balushai", "fresh balushai", "sweet balushai"],
+          "synonyms": ["balushahi"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "indian_cuisine"]
+        }
+      ]
+    },
+    {
+      "term": "baluster",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "One of a row of upright supports for a rail, such as on a staircase.",
+          "examples": ["The baluster was carved from wood.", "Paint the balusters white.", "Iron balusters add style."],
+          "collocations": ["wooden baluster", "iron baluster", "ornate baluster", "spindled baluster"],
+          "synonyms": ["spindle", "banister"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture", "construction"]
+        }
+      ]
+    },
+    {
+      "term": "balustered",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having balusters; supported by balusters.",
+          "examples": ["The balustered balcony overlooked the garden.", "A balustered staircase graced the hall."],
+          "collocations": ["balustered railing", "finely balustered", "heavily balustered"],
+          "synonyms": ["balustraded"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "balusters",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baluster; upright supports for a railing.",
+          "examples": ["Replace the old balusters.", "The balusters need polishing.", "Count the balusters on the stairs."],
+          "collocations": ["broken balusters", "new balusters", "wrought iron balusters"],
+          "synonyms": ["spindles", "banisters"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "balustrade",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A railing with its supporting balusters along the edge of a balcony, bridge, or staircase.",
+          "examples": ["The marble balustrade was elegant.", "Lean on the balustrade carefully.", "Repair the stone balustrade."],
+          "collocations": ["stone balustrade", "iron balustrade", "ornate balustrade", "wooden balustrade"],
+          "synonyms": ["railing", "handrail"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture", "construction"]
+        }
+      ]
+    },
+    {
+      "term": "balustraded",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a balustrade.",
+          "examples": ["The balustraded terrace offered great views.", "A balustraded walkway lined the path."],
+          "collocations": ["finely balustraded", "elegant balustraded", "grand balustraded"],
+          "synonyms": ["railed"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "balustrades",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of balustrade; railings with balusters.",
+          "examples": ["Clean the balustrades weekly.", "The balustrades were gilded.", "Inspect all balustrades for safety."],
+          "collocations": ["multiple balustrades", "damaged balustrades", "decorative balustrades"],
+          "synonyms": ["railings"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "balustrading",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Material or structure forming a balustrade.",
+          "examples": ["The balustrading was custom-made.", "Install new balustrading soon."],
+          "collocations": ["cast iron balustrading", "aluminum balustrading", "glass balustrading"],
+          "synonyms": ["balustrade material"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture", "construction"]
+        }
+      ]
+    },
+    {
+      "term": "balut",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A Filipino street food of fertilized duck egg boiled with salt and vinegar.",
+          "examples": ["Balut is eaten warm.", "Try balut at the market.", "Balut vendors sell at night."],
+          "collocations": ["hot balut", "fresh balut", "spicy balut", "boiled balut"],
+          "synonyms": ["maalat"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food", "filipino_cuisine", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "balwarra",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "balza",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "balzacian",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to Honoré de Balzac or his style of realistic novels about society.",
+          "examples": ["The novel has a Balzacian scope.", "Balzacian characters fill the story."],
+          "collocations": ["Balzacian realism", "Balzacian novel", "Balzacian satire"],
+          "synonyms": ["Dickensian"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "balzarine",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A light fabric of silk and wool, used for dresses (historical term).",
+          "examples": ["The dress was made of balzarine.", "Balzarine was popular in the 19th century."],
+          "collocations": ["silk balzarine", "fine balzarine"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["fashion", "textiles"]
+        }
+      ]
+    },
+    {
+      "term": "balzarines",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of balzarine; light silk-wool fabrics.",
+          "examples": ["She collected balzarines.", "Balzarines adorned the gowns."],
+          "collocations": ["various balzarines"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bam",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "interjection",
+          "definition": "Sound of a sudden loud hit or explosion.",
+          "examples": ["Bam! The door slammed.", "Bam, he hit the ball.", "Bam! The firework burst."],
+          "collocations": ["bam went", "sudden bam", "loud bam"],
+          "synonyms": ["bang", "wham"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "onomatopoeia"]
+        }
+      ]
+    },
+    {
+      "term": "bamah",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A high place for pagan worship in ancient Israel (Biblical term).",
+          "examples": ["The bamah was destroyed.", "Idols stood on the bamah."],
+          "collocations": ["pagan bamah", "high bamah"],
+          "synonyms": ["high place"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["religion", "bible"]
+        }
+      ]
+    },
+    {
+      "term": "bamalip",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bamangwato",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A Bantu-speaking people of Botswana; also their language.",
+          "examples": ["The Bamangwato have a rich history.", "Bamangwato traditions endure."],
+          "collocations": ["chief Bamangwato", "Bamangwato people"],
+          "synonyms": ["Bangwato"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anthropology", "africa"]
+        }
+      ]
+    },
+    {
+      "term": "bambacciata",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A painting in the style of Bamboccio, depicting low-life Dutch scenes in Italy.",
+          "examples": ["The bambacciata captured street life.", "Bambacciata influenced genre art."],
+          "collocations": ["Dutch bambacciata", "genre bambacciata"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["art", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bamban",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A type of bamboo or rattan used in Philippines for weaving.",
+          "examples": ["Bamban makes strong mats.", "Use bamban for the basket."],
+          "collocations": ["fresh bamban", "woven bamban"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany", "philippines"]
+        }
+      ]
+    },
+    {
+      "term": "bambara",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A Mande language spoken in Mali and neighboring countries.",
+          "examples": ["She speaks Bambara fluently.", "Bambara is widely used in Mali."],
+          "collocations": ["learn Bambara", "speak Bambara", "Bambara language"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["language", "africa"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A member of the Bambara people of West Africa.",
+          "examples": ["The Bambara are known for farming.", "Bambara culture is vibrant."],
+          "collocations": ["Bambara people", "Bambara village"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anthropology"]
+        }
+      ]
+    }
+  ]
+}
+```

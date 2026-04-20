@@ -1,0 +1,461 @@
+```json
+{
+  "items": [
+    {
+      "term": "bearish",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "pessimistic about the stock market; expecting prices to fall",
+          "examples": ["Investors are bearish due to the economic news.", "The bearish market made everyone nervous.", "Analysts turned bearish after the report."],
+          "collocations": ["bearish outlook", "bearish investor", "bearish trend", "bearish sentiment", "bearish signal"],
+          "synonyms": ["pessimistic", "negative"],
+          "antonyms": ["bullish"],
+          "register": "null",
+          "domain": ["business", "finance"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "like a bear; rough or clumsy",
+          "examples": ["He has a bearish way of walking.", "The bearish man scared the children.", "Her bearish hug was too tight."],
+          "collocations": ["bearish figure", "bearish manner", "bearish build"],
+          "synonyms": ["bear-like", "clumsy"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bearishly",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows pessimism about the stock market",
+          "examples": ["The stocks moved bearishly today.", "Analysts spoke bearishly about the economy.", "The market trended bearishly all week."],
+          "collocations": ["speak bearishly", "trend bearishly", "move bearishly"],
+          "synonyms": ["pessimistically"],
+          "antonyms": ["bullishly"],
+          "register": "null",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "bearishness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "pessimistic feeling about the stock market",
+          "examples": ["Bearishness dominated the trading floor.", "The bearishness lasted for months.", "High bearishness scared new investors."],
+          "collocations": ["market bearishness", "investor bearishness", "economic bearishness"],
+          "synonyms": ["pessimism"],
+          "antonyms": ["bullishness"],
+          "register": "null",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "bearishnesses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bearishness; multiple instances of market pessimism",
+          "examples": ["The reports noted several bearishnesses in the year.", "Analysts discussed past bearishnesses."],
+          "collocations": ["various bearishnesses", "multiple bearishnesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "bearleap",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant with leaves like bear paws (rare)",
+          "examples": ["The bearleap grew in the garden.", "We found bearleap in the woods."],
+          "collocations": ["wild bearleap"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "bearlet",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small or young bear",
+          "examples": ["The bearlet played with its mother.", "A cute bearlet appeared from the den."],
+          "collocations": ["baby bearlet", "young bearlet"],
+          "synonyms": ["cub"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["animals"]
+        }
+      ]
+    },
+    {
+      "term": "bearlike",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling a bear in appearance or behavior",
+          "examples": ["The man had a bearlike build.", "Her bearlike growl scared the dog.", "The wrestler moved in a bearlike way."],
+          "collocations": ["bearlike strength", "bearlike fur", "bearlike gait"],
+          "synonyms": ["bearish", "ursine"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bearm",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a bear's arm (rare or dialect)",
+          "examples": ["The hunter examined the bearm.", "The bearm was powerful."],
+          "collocations": ["strong bearm"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["animals"]
+        }
+      ]
+    },
+    {
+      "term": "bearnaise",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a creamy sauce with tarragon, often for steak",
+          "examples": ["The steak came with bearnaise.", "I love bearnaise on my eggs.", "She made fresh bearnaise sauce."],
+          "collocations": ["bearnaise sauce", "steak bearnaise", "fresh bearnaise"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food", "cooking"]
+        }
+      ]
+    },
+    {
+      "term": "bearnaises",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bearnaise; multiple portions of the sauce",
+          "examples": ["They served different bearnaises.", "We tried various bearnaises."],
+          "collocations": ["multiple bearnaises", "different bearnaises"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "bearpaw",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a pastry shaped like a bear's paw",
+          "examples": ["She bought a bearpaw at the bakery.", "The bearpaw was sweet and fluffy."],
+          "collocations": ["fresh bearpaw", "chocolate bearpaw"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "bearpaws",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bearpaw; multiple bear-shaped pastries",
+          "examples": ["The kids ate all the bearpaws.", "We ordered bearpaws for dessert."],
+          "collocations": ["dozen bearpaws"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "bears",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bear; large wild animals",
+          "examples": ["Bears live in the forest.", "The bears were fishing.", "Polar bears are white."],
+          "collocations": ["grizzly bears", "polar bears", "teddy bears"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["animals"]
+        },
+        {
+          "pos": "verb",
+          "definition": "plural of bear; carries or endures something",
+          "examples": ["She bears the pain well.", "They bears heavy loads.", "He bears no grudge."],
+          "collocations": ["bears fruit", "bears responsibility", "bears resemblance"],
+          "synonyms": ["carries", "endures"],
+          "antonyms": ["drops"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bearship",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or role of a bear (rare)",
+          "examples": ["The tale spoke of bearship.", "Bearship was his disguise."],
+          "collocations": ["assume bearship"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "bearskin",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the skin or fur of a bear, used for coats or rugs",
+          "examples": ["The bearskin rug warmed the floor.", "Soldiers wear bearskin hats.", "She wore a bearskin coat."],
+          "collocations": ["bearskin rug", "bearskin hat", "bearskin coat"],
+          "synonyms": ["bear fur"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bearskins",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bearskin; multiple bear skins or hats",
+          "examples": ["The guards wore bearskins.", "They sold bearskins at the market."],
+          "collocations": ["royal bearskins", "several bearskins"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beartongue",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant with tongue-like leaves (rare, also called false dragonhead)",
+          "examples": ["Beartongue bloomed in summer.", "We planted beartongue in the herb garden."],
+          "collocations": ["wild beartongue"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "bearward",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who guards or leads bears (archaic)",
+          "examples": ["The bearward led the circus bears.", "In old tales, the bearward traveled towns."],
+          "collocations": ["circus bearward"],
+          "synonyms": ["bear keeper"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bearwards",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bearward; multiple bear keepers",
+          "examples": ["The bearwards cared for the animals.", "Several bearwards worked there."],
+          "collocations": ["team of bearwards"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bearwood",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of buckthorn tree used in medicine",
+          "examples": ["Bearwood bark treats constipation.", "They harvest bearwood in forests."],
+          "collocations": ["bearwood bark", "medicinal bearwood"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bearwoods",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bearwood; multiple bearwood trees",
+          "examples": ["The woods had many bearwoods.", "Bearwoods grew along the path."],
+          "collocations": ["stands of bearwoods"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "bearwort",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant name, possibly mullein or similar (rare)",
+          "examples": ["Bearwort was used in old remedies.", "We spotted bearwort on the hill."],
+          "collocations": ["wild bearwort"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "beast",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large wild animal, especially a dangerous one",
+          "examples": ["The beast roared in the jungle.", "Lions are powerful beasts.", "The beast attacked the village."],
+          "collocations": ["wild beast", "savage beast", "fierce beast"],
+          "synonyms": ["animal", "creature"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["animals"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a cruel or unpleasant person",
+          "examples": ["He is a beast to his dog.", "Don't be a beast!", "The bully was a real beast."],
+          "collocations": ["poor beast", "brutal beast"],
+          "synonyms": ["monster", "brute"],
+          "antonyms": ["saint"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beastbane",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant that repels or kills beasts (rare)",
+          "examples": ["Farmers used beastbane for protection.", "Beastbane grew near the fence."],
+          "collocations": ["strong beastbane"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "beastdom",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the realm or nature of beasts (rare)",
+          "examples": ["The story entered beastdom.", "Beastdom ruled the wild lands."],
+          "collocations": ["dark beastdom"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    }
+  ]
+}
+```

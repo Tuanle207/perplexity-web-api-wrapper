@@ -1,0 +1,353 @@
+```json
+{
+  "items": [
+    {
+      "term": "baggier",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "more baggy than something else.",
+          "examples": ["These pants are baggier than my old ones.", "The new sweater felt baggier around the arms."],
+          "collocations": ["baggier trousers", "baggier jeans", "baggier fit", "baggier clothes", "baggier style"],
+          "synonyms": ["looser", "roomier"],
+          "antonyms": ["tighter", "snugger"],
+          "register": null,
+          "domain": ["everyday", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "baggies",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "loose-fitting shorts or pants, often used for sports.",
+          "examples": ["He wore baggies for the beach volleyball game.", "Surf baggies are popular in summer."],
+          "collocations": ["surf baggies", "beach baggies", "board baggies", "running baggies"],
+          "synonyms": ["baggy shorts", "loose shorts"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "sports", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "baggiest",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "most baggy of all.",
+          "examples": ["These are the baggiest pants in the store.", "Her baggiest sweater kept her warm."],
+          "collocations": ["baggiest trousers", "baggiest jeans", "baggiest clothes", "baggiest fit"],
+          "synonyms": ["loosest", "roomiest"],
+          "antonyms": ["tightest", "snuggest"],
+          "register": null,
+          "domain": ["everyday", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "baggily",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a loose or baggy way.",
+          "examples": ["The trousers hung baggily on his thin legs.", "Her dress draped baggily over her frame."],
+          "collocations": ["hang baggily", "drape baggily", "fit baggily", "wear baggily"],
+          "synonyms": ["loosely"],
+          "antonyms": ["tightly"],
+          "register": null,
+          "domain": ["everyday", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bagginess",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being baggy or loose.",
+          "examples": ["The bagginess of the shirt made it comfortable.", "I don't like the bagginess around the waist."],
+          "collocations": ["excessive bagginess", "reduce bagginess", "shirt bagginess", "trouser bagginess"],
+          "synonyms": ["looseness"],
+          "antonyms": ["tightness"],
+          "register": null,
+          "domain": ["everyday", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bagginesses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple instances of bagginess.",
+          "examples": ["The bagginesses in the design were fixed.", "Various bagginesses made the outfit look sloppy."],
+          "collocations": ["multiple bagginesses", "various bagginesses"],
+          "synonyms": ["loosenesses"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bagging",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of putting items into bags.",
+          "examples": ["Bagging groceries is part of the job.", "The bagging process speeds up checkout."],
+          "collocations": ["grocery bagging", "sand bagging", "product bagging", "plastic bagging", "manual bagging"],
+          "synonyms": ["packaging", "sacking"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday", "business"]
+        },
+        {
+          "pos": "noun",
+          "definition": "sagging or becoming loose like a bag.",
+          "examples": ["The bagging of the curtains made them look old.", "Skin bagging happens with age."],
+          "collocations": ["fabric bagging", "skin bagging", "cloth bagging"],
+          "synonyms": ["sagging"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "baggings",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "materials used for making bags.",
+          "examples": ["The factory produced various baggings.", "Coarse baggings were used for sacks."],
+          "collocations": ["coarse baggings", "jute baggings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "baggit",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baggits",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baggy",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "loose and not fitting closely to the body.",
+          "examples": ["He prefers baggy jeans.", "The baggy t-shirt was comfortable for lounging.", "Baggy pants are trendy now."],
+          "collocations": ["baggy jeans", "baggy trousers", "baggy sweater", "baggy clothes", "baggy fit", "baggy style"],
+          "synonyms": ["loose", "roomy"],
+          "antonyms": ["tight", "fitted"],
+          "register": null,
+          "domain": ["everyday", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "baggyrinkle",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rope covering used on ships to prevent chafing of sails.",
+          "examples": ["The sailors added baggyrinkle to the rigging.", "Traditional baggyrinkle protects the canvas."],
+          "collocations": ["nautical baggyrinkle", "sail baggyrinkle", "rope baggyrinkle"],
+          "synonyms": ["chafe guard"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "baggywrinkle",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a protective covering of rope yarns on sailing ship rigging.",
+          "examples": ["Baggywrinkle keeps sails from rubbing.", "They wrapped baggywrinkle around the stays."],
+          "collocations": ["ship baggywrinkle", "rigging baggywrinkle", "yarn baggywrinkle"],
+          "synonyms": ["baggyrinkle", "anti-chafe"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "bagh",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a garden or park, especially in Persian or South Asian contexts.",
+          "examples": ["The bagh was filled with roses.", "We picnicked in the historic bagh."],
+          "collocations": ["Mughal bagh", "Persian bagh", "royal bagh"],
+          "synonyms": ["garden", "park"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culture", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "baghdad",
+      "kind": "proper_noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "the capital city of Iraq.",
+          "examples": ["Baghdad is on the Tigris River.", "Many tourists visit Baghdad's markets."],
+          "collocations": ["Baghdad city", "old Baghdad"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "bagheli",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baghla",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a traditional Arab sailing ship with two masts.",
+          "examples": ["The baghla was used for trading.", "A restored baghla sails the Gulf."],
+          "collocations": ["Arab baghla", "traditional baghla"],
+          "synonyms": ["boom"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baghouse",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large filter chamber using fabric bags to remove dust from air.",
+          "examples": ["The factory installed a new baghouse.", "Baghouse filters clean industrial exhaust."],
+          "collocations": ["industrial baghouse", "dust baghouse", "fabric baghouse"],
+          "synonyms": ["dust collector"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "baghouses",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baghouse; multiple dust filter systems.",
+          "examples": ["Several baghouses operate in the plant.", "Modern baghouses improve air quality."],
+          "collocations": ["multiple baghouses", "industrial baghouses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "baghs",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bagh; multiple gardens or parks.",
+          "examples": ["The city has many beautiful baghs.", "Famous baghs attract visitors."],
+          "collocations": ["Persian baghs", "Mughal baghs"],
+          "synonyms": ["gardens"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "bagie",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bagies",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baginda",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bagio",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bagios",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    }
+  ]
+}
+```

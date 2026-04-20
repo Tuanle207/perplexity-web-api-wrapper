@@ -1,0 +1,527 @@
+{
+  "items": [
+    {
+      "term": "scouser",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person from Liverpool, England",
+          "examples": [
+            "The scouser chatted with the locals about football.",
+            "She wore a Liverpool scarf, proudly showing she was a scouser."
+          ],
+          "collocations": ["Liverpool", "scousers", "accent", "football fan", "supporter", "local"],
+          "synonyms": ["Liverpudlian", "Liverpoolian"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "culture", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "scousers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scouser; multiple people from Liverpool, England",
+          "examples": [
+            "The scousers gathered for the match at Anfield.",
+            "Scousers are known for their distinctive accent."
+          ],
+          "collocations": ["scousers", "Liverpool", "voice", "accent", "fans"],
+          "synonyms": ["scouser"], 
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "scouses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural or uncountable form referring to people from Liverpool or to the soup made from beef or mutton with vegetables (also called Lancashire cheesey?)",
+          "examples": [
+            "The scouses enjoyed a hearty bowl of scouse.",
+            "Scouses lined up to watch the parade."
+          ],
+          "collocations": ["scouse soup", "eat scouse", "Liverpool food", "local dish"],
+          "synonyms": ["scouser (plural)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food", "culture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "scout",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who explores to find information or who helps to supervise a youth organization; or a person who scouts for talent or opportunities",
+          "examples": [
+            "The scout found a good camping spot.",
+            "She joined the Girl Scouts as a new scout.",
+            "A talent scout watched the performers."
+          ],
+          "collocations": ["boy scout", "girl scout", "scout leader", "scout camp", "talent scout"],
+          "synonyms": ["reconnoiterer", "finder", "observer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "youth", "education", "employment"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to search for or explore in order to find something or someone",
+          "examples": [
+            "They scoped out several locations before choosing one.",
+            "We scouted the area for a good place to build."
+          ],
+          "collocations": ["scout out", "scout for", "scouting trip"],
+          "synonyms": ["survey", "explore", "check"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "travel", "business"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a member of a youth organization that teaches outdoor skills and values; or a person who serves as a scout for a sports team or talent",
+          "examples": [
+            "The scout earned badges for camping and first aid."
+          ],
+          "collocations": ["scout master", "scout troop", "scout leader"],
+          "synonyms": ["cadet", "recruit"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["youth", "education", "sport"]
+        }
+      ]
+    },
+    {
+      "term": "scoutcraft",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the skills and practices of scouts, especially in outdoor or survival activities",
+          "examples": [
+            "Her scoutcraft helped her build a shelter quickly.",
+            "The camp emphasized traditional scoutcraft."
+          ],
+          "collocations": ["scoutcraft skills", "survival scoutcraft", "outdoor scoutcraft"],
+          "synonyms": ["scouting skill", "campcraft"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "outdoors", "youth"]
+        }
+      ]
+    },
+    {
+      "term": "scoutcrafts",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scoutcraft; various scout skills or activities",
+          "examples": [
+            "The workshop covered multiple scoutcrafts from knot-tying to fire-building."
+          ],
+          "collocations": ["various scoutcrafts", "knot-tying scoutcrafts"],
+          "synonyms": ["campcraft activities"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "outdoors"]
+        }
+      ]
+    },
+    {
+      "term": "scoutdom",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the territory, realm, or community associated with scouts; the world of scouting",
+          "examples": [
+            "He felt comfortable in the scoutdom of the camp.",
+            "The scoutdom fosters teamwork and leadership."
+          ],
+          "collocations": ["scoutdom culture", "within the scoutdom", "scouting community"],
+          "synonyms": ["scouting world", "scouting community"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "youth", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "scouted",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "searched for something or someone or was examined by a scout or talent scout",
+          "examples": [
+            "The team scouted several players before making an offer.",
+            "He was scouted by scouts during the workshop."
+          ],
+          "collocations": ["scouted players", "scouted locations", "scouted talent"],
+          "synonyms": ["reconnoitered", "searched", "examined"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "employment", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scouter",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who scouts or supervises in a scouting organization; or a device? a device to see something externally",
+          "examples": [
+            "The scouter noted the campers' progress.",
+            "The sports agency hired a scouter to find new talent."
+          ],
+          "collocations": ["scout leader", "talent scouter"],
+          "synonyms": ["scout", "recruiter"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["youth", "employment", "sport"]
+        }
+      ]
+    },
+    {
+      "term": "scouters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scouter; people who scout",
+          "examples": [
+            "The scouters traveled to inspect potential sites."
+          ],
+          "collocations": ["team of scouters", "talent scouters"],
+          "synonyms": ["scouters", "scout recruiters"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["employment", "sport"]
+        }
+      ]
+    },
+    {
+      "term": "scouth",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or dialect word referring to a scout or lookout; rarely used in modern English",
+          "examples": [
+            "The old records mention a scouth guarding the gate."
+          ],
+          "collocations": ["forest scouth", "watchful scouth"],
+          "synonyms": ["scout"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "scouther",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who scouters or surveys; one who scouts",
+          "examples": [
+            "The scoutmaster led the group while the scouther checked routes."
+          ],
+          "collocations": ["scouther group", "scouther route"],
+          "synonyms": ["scouter", "scout"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["outdoors", "youth"]
+        }
+      ]
+    },
+    {
+      "term": "scouthered",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of scouther; characterized by having been scouthered (to have been observed or explored) in older usage",
+          "examples": [
+            "The expedition scouthered the coast before settling."
+          ],
+          "collocations": ["scouthered coast", "scouthered route"],
+          "synonyms": ["observed", "surveyed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "outdoors"]
+        }
+      ]
+    },
+    {
+      "term": "scouthering",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of scouther; the act of scouting or observing",
+          "examples": [
+            "They were scouthering the valley for signs of wildlife."
+          ],
+          "collocations": ["scouthering party", "scouthering expedition"],
+          "synonyms": ["scouting", "observing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["outdoors", "science"]
+        }
+      ]
+    },
+    {
+      "term": "scoutherings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scouthering; acts or sessions of scouting",
+          "examples": [
+            "The scoutherings continued through the night."
+          ],
+          "collocations": ["scoutherings activity", "scoutherings session"],
+          "synonyms": ["scouting trips"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["outdoors", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scouthers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scouther; people who scout",
+          "examples": [
+            "The scouthers prepared for the journey."
+          ],
+          "collocations": ["group of scouthers"],
+          "synonyms": ["scouters", "scout"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["outdoors", "employment"]
+        }
+      ]
+    },
+    {
+      "term": "scouthery",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the place or condition of being a scout; the activities of scouting",
+          "examples": [
+            "The camp emphasized the scouthery of outdoor life."
+          ],
+          "collocations": ["scouthery practices", "scouthery camp"],
+          "synonyms": ["scouting", "outdoorsmanship"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "outdoors"]
+        }
+      ]
+    },
+    {
+      "term": "scouthood",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or condition of being a scout; the status of a scout organization",
+          "examples": [
+            "He achieved scouthood after years of service."
+          ],
+          "collocations": ["scouthood rank", "advance to scouthood"],
+          "synonyms": ["scout rank", "scout status"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "youth"]
+        }
+      ]
+    },
+    {
+      "term": "scouths",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scouth; people who are scouts or have scoutlike roles",
+          "examples": [
+            "A group of scouths gathered by the riverside."
+          ],
+          "collocations": ["group of scouths"],
+          "synonyms": ["scouters", "scouts"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["outdoors", "youth"]
+        }
+      ]
+    },
+    {
+      "term": "scouting",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the activity of searching for information, people, or opportunities; or the organized activity of Scouts",
+          "examples": [
+            "Scouting for new talent takes time and patience.",
+            "She joined the scouting movement as a youth."
+          ],
+          "collocations": ["scouting report", "scouting trip", "scouting organization"],
+          "synonyms": ["reconnaissance", "searching", "exploration"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "employment", "education"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to or used by scouts",
+          "examples": [
+            "scouting activities are held on weekends."
+          ],
+          "collocations": ["scouting activities", "scouting merit badge"],
+          "synonyms": ["scout-related"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "youth"]
+        }
+      ]
+    },
+    {
+      "term": "scoutingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a scouting-like manner; in a way that resembles scouting",
+          "examples": [
+            "She looked scoutingly around the camp before entering."
+          ],
+          "collocations": ["scoutingly cautious"],
+          "synonyms": ["curiously", "observantly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "outdoors"]
+        }
+      ]
+    },
+    {
+      "term": "scoutings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scouting outing; trips or expeditions for scouting purposes",
+          "examples": [
+            "Their scoutings took place in the nearby forest."
+          ],
+          "collocations": ["camp scoutings", "scouting expeditions"],
+          "synonyms": ["scouting trips"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["outdoors", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scoutish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling or characteristic of a scout; clever, observant, or adventurous",
+          "examples": [
+            "Her scoutish instincts helped the group survive."
+          ],
+          "collocations": ["scoutish behavior", "scoutish courage"],
+          "synonyms": ["adventurous", "observant"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["characteristics", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scoutmaster",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a leader of a scout group who trains and guides scouts",
+          "examples": [
+            "The scoutmaster planned a weekend hike.",
+            "Parents volunteered to support the scoutmaster."
+          ],
+          "collocations": ["scoutmaster training", "scoutmaster role", "assistant scoutmaster"],
+          "synonyms": ["troop leader", "scout troop leader"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["youth", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scoutmasters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scoutmaster; leaders of scout groups",
+          "examples": [
+            "The scoutmasters organized the camping trip."
+          ],
+          "collocations": ["group of scoutmasters"],
+          "synonyms": ["troop leaders"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["youth", "education"]
+        }
+      ]
+    }
+  ]
+}

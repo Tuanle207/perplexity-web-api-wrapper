@@ -1,0 +1,400 @@
+{
+  "items": [
+    {
+      "term": "seismometrical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or measured by a seismometer or seismometry",
+          "examples": [
+            "The seismometrical readings indicated minor ground movement.",
+            "Researchers analyzed seismometrical data to study the earthquake onset."
+          ],
+          "collocations": ["seismometrical data", "seismometrical readings", "seismometrical analysis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "seismometries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seismometry; the measurements or study of earthquakes and ground motion using seismometers",
+          "examples": [
+            "The seismometries recorded across the region helped map the quake.",
+            "Seismometries are essential in understanding tectonic activity."
+          ],
+          "collocations": ["seismometries data", "seismometries readings", "seismometries network"],
+          "synonyms": ["seismometry measurements"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "technology", "geophysics"]
+        }
+      ]
+    },
+    {
+      "term": "seismometrograph",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an instrument that records seismic activity on a chart or graph",
+          "examples": [
+            "The seismometrograph displayed a clear trace of the tremor.",
+            "Scientists compared traces from the seismometrograph with other sensors."
+          ],
+          "collocations": ["seismometrograph readings", "seismometrograph chart", "seismometrograph data"],
+          "synonyms": ["seismograph"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "technology", "geophysics"]
+        }
+      ]
+    },
+    {
+      "term": "seismometry",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the measurement and study of seismic waves and earthquake movements",
+          "examples": [
+            "Seismometry is crucial for understanding how earthquakes propagate.",
+            "Advances in seismometry improve early warning systems."
+          ],
+          "collocations": ["conduct seismometry", "seismometry data", "seismometry techniques"],
+          "synonyms": ["seismological measurement", "seismologic measurement"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "geophysics", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "seismomicrophone",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a microphone designed to detect very small seismic vibrations or related ground motions",
+          "examples": [
+            "The seismomicrophone was placed near the fault line to capture tiny movements.",
+            "By using a seismomicrophone, researchers could hear subtle tremors."
+          ],
+          "collocations": ["seismomicrophone sensitivity", "seismomicrophone array", "seismomicrophone data"],
+          "synonyms": ["geophone with microphone capability"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "geophysics", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "seismonastic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "pertaining to or characterized by a static or resting seismic posture or condition; relating to lack of movement in seismic readings",
+          "examples": [
+            "The seismonastic phase showed no notable ground motion.",
+            "Researchers labeled the period as seismonastic due to inactivity."
+          ],
+          "collocations": ["seismonastic phase", "seismonastic readings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "geophysics"]
+        }
+      ]
+    },
+    {
+      "term": "seismonasties",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seismonasty; periods or instances of seismic inactivity",
+          "examples": [
+            "Several brief seismonasties occurred before the main quake.",
+            "The dataset includes multiple seismonasties across stations."
+          ],
+          "collocations": ["seismonasties detected", "seismonasties intervals"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "geophysics"]
+        }
+      ]
+    },
+    {
+      "term": "seismonasty",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a period of seismic inactivity in a recording sequence",
+          "examples": [
+            "An extended seismonasty followed the aftershocks.",
+            "During seismonasty, the seismograph showed no activity."
+          ],
+          "collocations": ["long seismonasty", "short seismonasty"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "geophysics"]
+        }
+      ]
+    },
+    {
+      "term": "seismoscope",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an instrument that detects and indicates that an earthquake has occurred, often without measuring precise magnitude",
+          "examples": [
+            "The ancient seismoscope indicated a quake with a rotating ball.",
+            "Modern seismoscopes provide precise timing of seismic events."
+          ],
+          "collocations": ["ancient seismoscope", "modern seismoscope", "seismoscope reading"],
+          "synonyms": ["seismometer (less precise for some contexts)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "history", "geophysics"]
+        }
+      ]
+    },
+    {
+      "term": "seismoscopes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seismoscope; devices that indicate seismic events without precise measurements",
+          "examples": [
+            "The exhibition featured ancient seismoscopes from history.",
+            "Several seismoscopes were displayed alongside modern sensors."
+          ],
+          "collocations": ["historic seismoscopes", "seismoscope devices"],
+          "synonyms": ["seismoscopes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "science"]
+        }
+      ]
+    },
+    {
+      "term": "seismoscopic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or using seismoscopes or seismometry to study earthquakes",
+          "examples": [
+            "Seismoscopic techniques helped map fault zones.",
+            "The team published a seismoscopic analysis of aftershock patterns."
+          ],
+          "collocations": ["seismoscopic analysis", "seismoscopic data"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "geophysics"]
+        }
+      ]
+    },
+    {
+      "term": "seismotectonic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the tectonic forces or processes that cause earthquakes",
+          "examples": [
+            "Seismotectonic studies examine how plate movements trigger quakes.",
+            "Researchers discussed seismotectonic implications for the region."
+          ],
+          "collocations": ["seismotectonic activity", "seismotectonic analysis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "geophysics", "earth science"]
+        }
+      ]
+    },
+    {
+      "term": "seismotherapy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the use of seismic methods or vibrations in therapy or medical treatment (historical or theoretical; not widely used)",
+          "examples": [
+            "Historical texts mention seismotherapy, though it is not a common practice today.",
+            "Some researchers explored seismotherapy concepts in early experiments."
+          ],
+          "collocations": ["seismotherapy research", "seismotherapy techniques"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "history", "science"]
+        }
+      ]
+    },
+    {
+      "term": "seismotic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or caused by earthquakes",
+          "examples": [
+            "Seismotic shocks rattled the area.",
+            "Researchers assessed seismotic risks near the fault."
+          ],
+          "collocations": ["seismotic activity", "seismotic shocks"],
+          "synonyms": ["seismic"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "geophysics"]
+        }
+      ]
+    },
+    {
+      "term": "seisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seism; earthquakes or seismic events",
+          "examples": [
+            "The region experienced several big seisms in one week.",
+            "Seisms can cause large-scale damage and lasting effects."
+          ],
+          "collocations": ["regional seisms", "major seisms", "aftershocks after seisms"],
+          "synonyms": ["earthquakes", "quakes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "geophysics", "natural disaster"]
+        }
+      ]
+    },
+    {
+      "term": "seisor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an obsolete or rare term for a seismometer or instrument that measures ground movement",
+          "examples": [
+            "An old manuscript mentions a seisor used by early scientists.",
+            "Modern terms have replaced seisor in most texts."
+          ],
+          "collocations": ["historic seisor", "seisor instrument"],
+          "synonyms": ["seismometer", "seismograph"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "science"]
+        }
+      ]
+    },
+    {
+      "term": "seisans",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of seisan; not a common term in modern geology; may refer to a specific historical or technical concept",
+          "examples": [
+            "The manuscript uses seisans in a way that is not standard today."
+          ],
+          "collocations": ["seisans reference"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "science"]
+        }
+      ]
+    },
+    {
+      "term": "seiton",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term with uncertain or minimal standard usage in seismology; possibly a misspelling or rare term",
+          "examples": [
+            "Some old catalogs mention seviton as a misprint for seismonastic terms."
+          ],
+          "collocations": ["seiton notation"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "science"]
+        }
+      ]
+    },
+    {
+      "term": "seitens",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of seitеn; likely a misspelling or nonstandard form; not a recognized term in seismology",
+          "examples": [
+            "The text uses seitens in a nonstandard way."
+          ],
+          "collocations": ["seitens usage"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "textual"]
+        }
+      ]
+    },
+    {
+      "term": "seities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of seity; unclear in standard geophysics; may be a rare or erroneous term",
+          "examples": [
+            "Consulting the glossary, we find seities listed without clear definition."
+          ],
+          "collocations": ["seities entries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "textual"]
+        }
+      ]
+    }
+  ]
+}

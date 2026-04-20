@@ -1,0 +1,504 @@
+{
+  "items": [
+    {
+      "term": "nonoptional",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not optional; required or necessary",
+          "examples": [
+            "Having a safety check before use is nonoptional.",
+            "A nonoptional rule means you must follow it."
+          ],
+          "collocations": ["nonoptional item", "nonoptional requirement", "nonoptional step"],
+          "synonyms": ["required", "mandatory", "obligatory"],
+          "antonyms": ["optional", "voluntary"],
+          "register": "formal",
+          "domain": ["general", "everyday", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nonoptionally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is not optional; necessarily",
+          "examples": [
+            "The policy must be followed nonoptionally.",
+            "Nonoptionally, he completed the mandatory training."
+          ],
+          "collocations": ["act nonoptionally", "nonoptionally required", "nonoptionally included"],
+          "synonyms": ["necessarily", "unavoidably"],
+          "antonyms": ["optionally"],
+          "register": "formal",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nonoral",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not involving the mouth or spoken speech; not oral",
+          "examples": [
+            "Nonoral communication methods include writing and sign language.",
+            "The exam was conducted nonoral to minimize speaking."
+          ],
+          "collocations": ["nonoral communication", "nonoral examination", "nonoral route"],
+          "synonyms": ["unspoken", "written"],
+          "antonyms": ["oral"],
+          "register": "neutral",
+          "domain": ["education", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonorally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "without using the mouth or spoken speech; not orally",
+          "examples": [
+            "Information was conveyed nonorally through charts.",
+            "The material was taught nonorally via demonstrations."
+          ],
+          "collocations": ["present nonorally", "nonorally communicate"],
+          "synonyms": ["nonverbally", "silently"],
+          "antonyms": ["orally", "spokenly"],
+          "register": "neutral",
+          "domain": ["education", "communication"]
+        }
+      ]
+    },
+    {
+      "term": "nonorchestral",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not of or relating to an orchestra; lacking orchestral elements",
+          "examples": [
+            "The music was performed in a nonorchestral style.",
+            "She preferred nonorchestral arrangements with solo instruments."
+          ],
+          "collocations": ["nonorchestral music", "nonorchestral arrangement", "nonorchestral score"],
+          "synonyms": ["unorchestrated", "unarranged"],
+          "antonyms": ["orchestral"],
+          "register": "neutral",
+          "domain": ["arts", "music", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonorchestrally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonorchestral manner; without orchestral accompaniment",
+          "examples": [
+            "The piece was performed nonorchestrally.",
+            "They played nonorchestrally, focusing on solo lines."
+          ],
+          "collocations": ["play nonorchestrally", "nonorchestrally arranged"],
+          "synonyms": ["unorchestrally"],
+          "antonyms": ["orchestrally"],
+          "register": "neutral",
+          "domain": ["arts", "music"]
+        }
+      ]
+    },
+    {
+      "term": "nonordained",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not ordained; not officially consecrated or recognized by a church or religious body",
+          "examples": [
+            "The group was formed by nonordained leaders.",
+            "Nonordained ministers may face limitations in official service."
+          ],
+          "collocations": ["nonordained clergy", "nonordained status", "nonordained leader"],
+          "synonyms": ["unordained", "laic"],
+          "antonyms": ["ordained", "clerical"],
+          "register": "formal",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonordered",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not arranged in a specific order; unordered",
+          "examples": [
+            "The list is nonordered and will be sorted later.",
+            "Take the nonordered collection and organize it."
+          ],
+          "collocations": ["nonordered list", "nonordered data", "nonordered sequence"],
+          "synonyms": ["unordered", "disordered"],
+          "antonyms": ["ordered", "sorted"],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nonordination",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or fact of not being ordained or officially appointed",
+          "examples": [
+            "Nonordination can impact eligibility for certain religious duties.",
+            "The policy discusses nonordination in community organizations."
+          ],
+          "collocations": ["status of nonordination", "nonordination process"],
+          "synonyms": ["laicism", "secular status"],
+          "antonyms": ["ordination"],
+          "register": "formal",
+          "domain": ["religion", "law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonorganic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not made of organic matter; lacking organic origin or characteristics",
+          "examples": [
+            "Nonorganic ingredients were used in the lab sample.",
+            "The garden contains nonorganic materials like concrete sculptures."
+          ],
+          "collocations": ["nonorganic food", "nonorganic material", "nonorganic fertilizer"],
+          "synonyms": ["inorganic"],
+          "antonyms": ["organic"],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonorganically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is not organic or not grown naturally",
+          "examples": [
+            "The substance was produced nonorganically.",
+            "They tested the sample nonorganically to avoid contamination."
+          ],
+          "collocations": ["nonorganically synthesized", "nonorganically produced"],
+          "synonyms": ["inorganically"],
+          "antonyms": ["organically"],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonorganization",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the absence of an organized group or structure; lack of organization",
+          "examples": [
+            "The project suffered due to nonorganization among team members.",
+            "Nonorganization hindered progress and clarity."
+          ],
+          "collocations": ["state of nonorganization", "nonorganization problems"],
+          "synonyms": ["disorganization", "chaos"],
+          "antonyms": ["organization"],
+          "register": "neutral",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonorgasmic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not producing or relating to an orgasm; lacking orgasmic response",
+          "examples": [
+            "The device was designed to be nonorgasmic in its operation.",
+            "Some studies explore nonorgasmic alternatives for comfort."
+          ],
+          "collocations": ["nonorgasmic response", "nonorgasmic stimulation"],
+          "synonyms": ["anorgasmic"],
+          "antonyms": ["orgasmic"],
+          "register": "neutral",
+          "domain": ["health", "sexology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonorientable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not orientable; a property in geometry where a surface cannot be consistently oriented",
+          "examples": [
+            "A Möbius strip is a classic example of a nonorientable surface.",
+            "The concept of nonorientable shapes is studied in topology."
+          ],
+          "collocations": ["nonorientable surface", "nonorientable shape"],
+          "synonyms": ["non-orientable"],
+          "antonyms": ["orientable"],
+          "register": "formal",
+          "domain": ["mathematics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonoriental",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not of or associated with the Orient; not oriental; uncommon usage",
+          "examples": [
+            "The painting depicted nonoriental motifs.",
+            "Nonoriental influences appeared in the design."
+          ],
+          "collocations": ["nonoriental motifs", "nonoriental style"],
+          "synonyms": ["occidental", "not oriental"],
+          "antonyms": ["oriental", "orientalized"],
+          "register": "neutral",
+          "domain": ["art", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "nonorientation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the lack or absence of a clear orientation or direction",
+          "examples": [
+            "Nonorientation of the fleet caused delays.",
+            "A period of nonorientation followed the reset."
+          ],
+          "collocations": ["state of nonorientation", "nonorientation issue"],
+          "synonyms": ["disorientation", "uncertainty"],
+          "antonyms": ["orientation", "direction"],
+          "register": "neutral",
+          "domain": ["general", "logistics"]
+        }
+      ]
+    },
+    {
+      "term": "nonoriginal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not original; copied or lacking novelty",
+          "examples": [
+            "The design is nonoriginal and resembles existing work.",
+            "Nonoriginal ideas were rejected for the project."
+          ],
+          "collocations": ["nonoriginal idea", "nonoriginal design"],
+          "synonyms": ["unoriginal", "derivative"],
+          "antonyms": ["original", "innovative"],
+          "register": "neutral",
+          "domain": ["arts", "creativity", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonoriginally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonoriginal way; lacking originality",
+          "examples": [
+            "The concept was nonoriginally borrowed from another source.",
+            "Nonoriginally, the work resembled existing pieces."
+          ],
+          "collocations": ["nonoriginally borrowed", "nonoriginally sourced"],
+          "synonyms": ["unorigitionally (nonstandard)", "derivatively"],
+          "antonyms": ["originally"],
+          "register": "neutral",
+          "domain": ["arts", "creativity"]
+        }
+      ]
+    },
+    {
+      "term": "nonornamental",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not used for ornament; plain or functional",
+          "examples": [
+            "The building has nonornamental features, focusing on function.",
+            "Nonornamental cables were hidden inside walls."
+          ],
+          "collocations": ["nonornamental design", "nonornamental features"],
+          "synonyms": ["plain", "functional"],
+          "antonyms": ["ornamental"],
+          "register": "neutral",
+          "domain": ["architecture", "design"]
+        }
+      ]
+    },
+    {
+      "term": "nonornamentality",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being not ornamental; lack of decoration",
+          "examples": [
+            "The nonornamentality of the façade emphasizes simplicity.",
+            "They valued nonornamentality in the design philosophy."
+          ],
+          "collocations": ["degree of nonornamentality", "nonornamentality principle"],
+          "synonyms": ["plainness", "simplicity"],
+          "antonyms": ["ornamentality", "decorativeness"],
+          "register": "neutral",
+          "domain": ["architecture", "design"]
+        }
+      ]
+    },
+    {
+      "term": "nonornamentally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonornamental way; plainly or functionally",
+          "examples": [
+            "The project was designed nonornamentally.",
+            "Nonornamentally, the sculpture emphasizes form over decoration."
+          ],
+          "collocations": ["nonornamentally designed", "nonornamentally finished"],
+          "synonyms": ["plainly", "functionally"],
+          "antonyms": ["ornamentally", "decoratively"],
+          "register": "neutral",
+          "domain": ["architecture", "design"]
+        }
+      ]
+    },
+    {
+      "term": "nonorthodox",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not conforming to established or accepted beliefs or practices; unconventional",
+          "examples": [
+            "The theory was considered nonorthodox at the time.",
+            "They pursued nonorthodox methods in research."
+          ],
+          "collocations": ["nonorthodox view", "nonorthodox approach", "nonorthodox thinker"],
+          "synonyms": ["unconventional", "heterodox"],
+          "antonyms": ["orthodox", "conventional"],
+          "register": "neutral",
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonorthodoxly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonorthodox manner; unconventionally",
+          "examples": [
+            "They argued nonorthodoxly, challenging standard theories.",
+            "The team approached the problem nonorthodoxly."
+          ],
+          "collocations": ["nonorthodoxly argue", "nonorthodoxly design"],
+          "synonyms": ["unconventionally", "heterodoxly"],
+          "antonyms": ["orthodoxly", "conventionally"],
+          "register": "neutral",
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonorthogonal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not orthogonal; not at a right angle; not independent in a strict mathematical sense",
+          "examples": [
+            "The vectors are nonorthogonal, so they are not perpendicular.",
+            "In coding, nonorthogonal functions may share overlap."
+          ],
+          "collocations": ["nonorthogonal vectors", "nonorthogonal angles"],
+          "synonyms": ["nonperpendicular"],
+          "antonyms": ["orthogonal"],
+          "register": "neutral",
+          "domain": ["mathematics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nonorthogonality",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being nonorthogonal; lack of perpendicularity or independence",
+          "examples": [
+            "Nonorthogonality between features affects model performance.",
+            "The document discusses nonorthogonality in vector math."
+          ],
+          "collocations": ["degree of nonorthogonality", "measure of nonorthogonality"],
+          "synonyms": ["nonperpendicularity"],
+          "antonyms": ["orthogonality"],
+          "register": "neutral",
+          "domain": ["mathematics", "science"]
+        }
+      ]
+    }
+  ]
+}

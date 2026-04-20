@@ -1,0 +1,440 @@
+```json
+{
+  "items": [
+    {
+      "term": "bambi",
+      "kind": "proper_noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A young deer in Disney's animated film Bambi.",
+          "examples": ["Bambi is a famous Disney character.", "Children love watching Bambi.", "The story of Bambi teaches about nature."],
+          "collocations": ["Disney's Bambi", "Bambi's mother", "watch Bambi"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["entertainment", "film"]
+        }
+      ]
+    },
+    {
+      "term": "bambini",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Italian plural form of bambino, meaning children.",
+          "examples": ["I saw many bambini playing in the piazza.", "The bambini were laughing loudly.", "Nonna brought gifts for the bambini."],
+          "collocations": ["i bambini", "piccoli bambini", "tutti i bambini"],
+          "synonyms": ["children", "kids"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["foreign_words", "italian"]
+        }
+      ]
+    },
+    {
+      "term": "bambino",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Italian word for a young boy or child.",
+          "examples": ["The bambino waved at me.", "Ciao, piccolo bambino!", "The bambino is sleeping."],
+          "collocations": ["piccolo bambino", "mio bambino", "il bambino"],
+          "synonyms": ["boy", "child", "kid"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["foreign_words", "italian", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bambinos",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "English plural form of bambino, meaning young boys or children.",
+          "examples": ["The bambinos were playing football.", "All the bambinos got ice cream.", "Look at those cute bambinos!"],
+          "collocations": ["little bambinos", "happy bambinos", "the bambinos"],
+          "synonyms": ["boys", "children", "kids"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bambis",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of Bambi, referring to characters or fawns like in the film.",
+          "examples": ["The bambis hopped through the forest.", "Children drew pictures of bambis."],
+          "collocations": ["cute bambis", "baby bambis"],
+          "synonyms": ["fawns"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "bambocciade",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A painting in the style of the Bamboccianti, showing low-life scenes.",
+          "examples": ["The museum displayed a rare bambocciade.", "He studies 17th-century bambocciade."],
+          "collocations": ["Dutch bambocciade", "Italian bambocciade"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["art", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "bambochade",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Alternative spelling of bambocciade, a genre painting of everyday low scenes.",
+          "examples": ["The bambochade captured street life vividly.", "Art historians discuss the bambochade style."],
+          "collocations": ["Bambochade painting", "genre bambochade"],
+          "synonyms": ["bambocciade"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["art"]
+        }
+      ]
+    },
+    {
+      "term": "bamboche",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A lively, noisy party or carnival, from French.",
+          "examples": ["They had a wild bamboche last night.", "The bamboche lasted until dawn."],
+          "collocations": ["noisy bamboche", "street bamboche"],
+          "synonyms": ["party", "revelry"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["foreign_words"]
+        }
+      ]
+    },
+    {
+      "term": "bamboo",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A tall tropical plant with hard hollow stems.",
+          "examples": ["Bamboo grows very fast.", "They built a fence from bamboo.", "Pandas eat bamboo."],
+          "collocations": ["bamboo shoots", "bamboo forest", "bamboo poles", "giant bamboo", "bamboo cane"],
+          "synonyms": ["cane"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nature", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "The stems of the bamboo plant used for building.",
+          "examples": ["The house was made of bamboo.", "Bamboo is strong and light."],
+          "collocations": ["bamboo furniture", "bamboo floor", "bamboo stick"],
+          "synonyms": ["bamboo cane"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "bamboos",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bamboo, tall plants or their stems.",
+          "examples": ["The garden has many bamboos.", "Bamboos sway in the wind."],
+          "collocations": ["tall bamboos", "growing bamboos", "cut bamboos"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nature"]
+        }
+      ]
+    },
+    {
+      "term": "bamboozle",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To trick or deceive someone in a clever way.",
+          "examples": ["He bamboozled them into buying the fake painting.", "Don't let salespeople bamboozle you.", "She bamboozled her friends with a prank."],
+          "collocations": ["bamboozle someone into", "try to bamboozle", "completely bamboozled"],
+          "synonyms": ["trick", "deceive", "fool", "con", "hoodwink"],
+          "antonyms": ["enlighten"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bamboozled",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Tricked or confused by deception.",
+          "examples": ["I felt bamboozled by the scam.", "He was completely bamboozled.", "Don't get bamboozled online."],
+          "collocations": ["totally bamboozled", "feel bamboozled", "got bamboozled"],
+          "synonyms": ["tricked", "fooled", "deceived"],
+          "antonyms": ["aware"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bamboozlement",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of tricking or deceiving someone.",
+          "examples": ["The bamboozlement was cleverly planned.", "She saw through the bamboozlement."],
+          "collocations": ["clever bamboozlement", "pure bamboozlement"],
+          "synonyms": ["deception", "trickery"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bamboozlements",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bamboozlement, acts of tricking.",
+          "examples": ["The book is full of bamboozlements.", "He exposed their bamboozlements."],
+          "collocations": ["various bamboozlements", "many bamboozlements"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bamboozler",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who tricks or deceives others.",
+          "examples": ["The bamboozler sold fake tickets.", "He's a clever bamboozler."],
+          "collocations": ["clever bamboozler", "street bamboozler"],
+          "synonyms": ["trickster", "con artist"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bamboozlers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bamboozler, people who trick others.",
+          "examples": ["Watch out for those bamboozlers.", "The bamboozlers were caught."],
+          "collocations": ["sneaky bamboozlers", "online bamboozlers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bamboozles",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person singular of bamboozle, tricks someone.",
+          "examples": ["He bamboozles everyone with his stories.", "The ad bamboozles customers.", "She bamboozles her opponents."],
+          "collocations": ["always bamboozles", "tries to bamboozles"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bamboozling",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of bamboozle, tricking someone.",
+          "examples": ["He is bamboozling the crowd.", "Stop bamboozling me!"],
+          "collocations": ["busy bamboozling", "keeps bamboozling"],
+          "synonyms": ["tricking", "deceiving"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Confusing or deceptive.",
+          "examples": ["It's a bamboozling puzzle.", "The instructions are bamboozling."],
+          "collocations": ["bamboozling tricks", "totally bamboozling"],
+          "synonyms": ["confusing", "bewildering"],
+          "antonyms": ["clear"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bambos",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Australian slang for a bread roll or hamburger bun.",
+          "examples": ["Grab me a bambo from the shop.", "Bambo with sauce is best."],
+          "collocations": ["fresh bambo", "buy a bambo"],
+          "synonyms": ["roll", "bun"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["food", "australia"]
+        }
+      ]
+    },
+    {
+      "term": "bamboula",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A lively street dance or festival, originally from Louisiana or African traditions.",
+          "examples": ["They joined the bamboula in the square.", "The bamboula music was infectious."],
+          "collocations": ["Congo bamboula", "street bamboula"],
+          "synonyms": ["carnival", "dance"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bambuba",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bambuco",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A traditional folk song and dance from Colombia.",
+          "examples": ["They danced the bambuco at the festival.", "Bambuco music filled the air."],
+          "collocations": ["Colombian bambuco", "play bambuco"],
+          "synonyms": ["folk dance"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bambuk",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A type of African tree producing gum.",
+          "examples": ["Bambuk trees grow in Senegal."],
+          "collocations": ["bambuk gum"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "bambusa",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A genus of giant tropical bamboos.",
+          "examples": ["Bambusa vulgaris is common.", "The bambusa species grows tall."],
+          "collocations": ["Bambusa bamboo", "giant bambusa"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "bambuseae",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A tribe of grasses that includes bamboos.",
+          "examples": ["Bambuseae contains many species.", "Study the Bambuseae tribe."],
+          "collocations": ["tribe Bambuseae"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany", "academic"]
+        }
+      ]
+    }
+  ]
+}
+```

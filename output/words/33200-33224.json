@@ -1,0 +1,582 @@
+```json
+{
+  "items": [
+    {
+      "term": "barit",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "barite",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A mineral form of barium sulfate, used in industry.",
+          "examples": [
+            "Barite is the main source of barium.",
+            "Drillers use barite to make drilling mud.",
+            "The deposit contained high-quality barite."
+          ],
+          "collocations": [
+            "barite deposit",
+            "barite mining",
+            "barite powder",
+            "barite crystals",
+            "barite drill mud"
+          ],
+          "synonyms": ["baryte", "heavy spar"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geology", "mining", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "baritenor",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A singer with a voice between baritone and tenor.",
+          "examples": [
+            "He is a skilled baritenor in opera.",
+            "The baritenor stole the show last night.",
+            "Many composers wrote roles for baritenor voices."
+          ],
+          "collocations": [
+            "baritenor voice",
+            "baritenor singer",
+            "baritenor range",
+            "baritenor role"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "barites",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barite; multiple pieces of the mineral barite.",
+          "examples": [
+            "The mine exports barites worldwide.",
+            "Samples of barites were tested in the lab.",
+            "Barites are ground into fine powder."
+          ],
+          "collocations": [
+            "barites mining",
+            "barites export",
+            "barites sample",
+            "barites powder"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geology", "mining"]
+        }
+      ]
+    },
+    {
+      "term": "baritonal",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or having the quality of a baritone voice.",
+          "examples": [
+            "His baritonal tones filled the hall.",
+            "She prefers baritonal singing in jazz.",
+            "The song suited his baritonal range perfectly."
+          ],
+          "collocations": [
+            "baritonal voice",
+            "baritonal tone",
+            "baritonal range",
+            "baritonal singer"
+          ],
+          "synonyms": ["baritone-like"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "baritone",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A male singing voice between bass and tenor.",
+          "examples": [
+            "He sings as a baritone in the choir.",
+            "The baritone performed a famous aria.",
+            "Baritones often play villains in opera."
+          ],
+          "collocations": [
+            "baritone voice",
+            "baritone singer",
+            "baritone range",
+            "baritone solo",
+            "opera baritone"
+          ],
+          "synonyms": ["barytone"],
+          "antonyms": ["tenor", "bass"],
+          "register": null,
+          "domain": ["music"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A singer with a baritone voice.",
+          "examples": [
+            "The baritone received a standing ovation.",
+            "Our baritone is ill for tonight's show.",
+            "She married a famous baritone."
+          ],
+          "collocations": [
+            "famous baritone",
+            "lead baritone",
+            "chorus baritone"
+          ],
+          "synonyms": ["barytonist"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A brass musical instrument with a baritone range.",
+          "examples": [
+            "He plays the baritone in the band.",
+            "The baritone section needs more players.",
+            "Tune your baritone before rehearsal."
+          ],
+          "collocations": [
+            "baritone horn",
+            "baritone player",
+            "baritone section",
+            "euphonium baritone"
+          ],
+          "synonyms": ["euphonium"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "baritones",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baritone; multiple baritone singers or instruments.",
+          "examples": [
+            "The baritones sang harmony beautifully.",
+            "Several baritones auditioned today.",
+            "Baritones warmed up before the concert."
+          ],
+          "collocations": [
+            "opera baritones",
+            "chorus baritones",
+            "baritones section"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "barium",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A chemical element (Ba) used in medicine and industry.",
+          "examples": [
+            "Barium is a soft, silvery metal.",
+            "Doctors use barium for X-rays.",
+            "Barium compounds are toxic."
+          ],
+          "collocations": [
+            "barium sulfate",
+            "barium meal",
+            "barium test",
+            "liquid barium",
+            "barium swallow"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["chemistry", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bariums",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bark",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The loud sound a dog makes.",
+          "examples": [
+            "The dog gave a loud bark.",
+            "I heard barking outside.",
+            "Her bark woke the baby."
+          ],
+          "collocations": [
+            "dog bark",
+            "loud bark",
+            "sharp bark",
+            "angry bark",
+            "continuous bark"
+          ],
+          "synonyms": ["woof", "yelp"],
+          "antonyms": ["meow"],
+          "register": null,
+          "domain": ["everyday", "animals"]
+        },
+        {
+          "pos": "noun",
+          "definition": "The tough outer layer of a tree.",
+          "examples": [
+            "The bark protects the tree.",
+            "Peel the bark off slowly.",
+            "Cinnamon comes from tree bark."
+          ],
+          "collocations": [
+            "tree bark",
+            "rough bark",
+            "peel bark",
+            "cinnamon bark",
+            "birch bark"
+          ],
+          "synonyms": ["rind", "peel"],
+          "antonyms": ["wood"],
+          "register": null,
+          "domain": ["nature", "botany"]
+        },
+        {
+          "pos": "verb",
+          "definition": "When a dog makes a loud sound.",
+          "examples": [
+            "The dog barked at the stranger.",
+            "Don't bark at me like that!",
+            "Dogs barked all night long."
+          ],
+          "collocations": [
+            "dog barked",
+            "barked loudly",
+            "barked at",
+            "stop barking",
+            "barked orders"
+          ],
+          "synonyms": ["yelp", "bay"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday", "animals"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To speak loudly and angrily.",
+          "examples": [
+            "He barked orders at his team.",
+            "The boss barked at everyone.",
+            "She barked a reply angrily."
+          ],
+          "collocations": [
+            "bark orders",
+            "bark commands",
+            "bark angrily",
+            "bark instructions"
+          ],
+          "synonyms": ["shout", "snap"],
+          "antonyms": ["whisper"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barkan",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "barkans",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "barkantine",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A sailing ship with three masts, foremast fore-and-aft rigged.",
+          "examples": [
+            "The barkantine sailed swiftly.",
+            "They restored an old barkantine.",
+            "Barkantines were common in trade."
+          ],
+          "collocations": [
+            "sailing barkantine",
+            "old barkantine",
+            "barkantine ship",
+            "barkantine rig"
+          ],
+          "synonyms": ["barquentine"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical", "history"]
+        }
+      ]
+    },
+    {
+      "term": "barkantines",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barkantine; multiple such sailing ships.",
+          "examples": [
+            "Several barkantines docked at port.",
+            "Barkantines carried cargo across oceans.",
+            "The museum displays model barkantines."
+          ],
+          "collocations": [
+            "fleet barkantines",
+            "trading barkantines",
+            "model barkantines"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "barkary",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "barkbound",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Of a tree, having diseased or defective bark.",
+          "examples": [
+            "The barkbound oak needed treatment.",
+            "Barkbound trees often die young."
+          ],
+          "collocations": [
+            "barkbound tree",
+            "barkbound oak",
+            "barkbound condition"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "barkcutter",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person or tool that cuts bark from trees.",
+          "examples": [
+            "The barkcutter prepared the logs.",
+            "Use a barkcutter for clean cuts."
+          ],
+          "collocations": [
+            "professional barkcutter",
+            "barkcutter tool",
+            "barkcutter knife"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["forestry"]
+        }
+      ]
+    },
+    {
+      "term": "barked",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of bark; made a dog's sound or shouted.",
+          "examples": [
+            "The dog barked at the mailman.",
+            "She barked an order at him.",
+            "Dogs barked during the storm."
+          ],
+          "collocations": [
+            "dog barked",
+            "barked loudly",
+            "barked orders",
+            "suddenly barked"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barkeep",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Informal term for a bartender.",
+          "examples": [
+            "Hey barkeep, another beer please!",
+            "The barkeep knew all the regulars.",
+            "She works as a barkeep nights."
+          ],
+          "collocations": [
+            "friendly barkeep",
+            "local barkeep",
+            "call barkeep"
+          ],
+          "synonyms": ["bartender", "barman"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barkeeper",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who serves drinks in a bar.",
+          "examples": [
+            "The barkeeper mixed a perfect martini.",
+            "Barkeepers work late hours.",
+            "He tipped the barkeeper generously."
+          ],
+          "collocations": [
+            "experienced barkeeper",
+            "head barkeeper",
+            "barkeeper job"
+          ],
+          "synonyms": ["bartender", "barman"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barkeepers",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barkeeper; multiple bar workers.",
+          "examples": [
+            "The barkeepers handled the busy night.",
+            "All barkeepers wore black vests."
+          ],
+          "collocations": [
+            "team barkeepers",
+            "busy barkeepers"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barkeeps",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural informal term for bartenders.",
+          "examples": [
+            "The barkeeps poured quickly.",
+            "Barkeeps chatted with customers."
+          ],
+          "collocations": [
+            "local barkeeps",
+            "friendly barkeeps"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barken",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "barkened",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "barkening",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    }
+  ]
+}
+```

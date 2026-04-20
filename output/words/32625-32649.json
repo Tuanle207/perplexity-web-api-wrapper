@@ -1,0 +1,471 @@
+```json
+{
+  "items": [
+    {
+      "term": "banksian",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or named after the botanist Joseph Banks.",
+          "examples": ["The banksian rose is a climbing plant native to China.", "Banksian specimens were collected during Cook's voyages."],
+          "collocations": ["banksian rose", "banksian pear", "banksian specimens", "banksian collection"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany", "history"]
+        }
+      ]
+    },
+    {
+      "term": "banksias",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banksia, a type of Australian shrub or tree with bottlebrush-like flowers.",
+          "examples": ["Banksias attract birds and insects with their nectar.", "The garden features several native banksias."],
+          "collocations": ["native banksias", "banksias flowers", "banksias nectar", "Australian banksias"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "bankside",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The area of land beside a river or bank.",
+          "examples": ["They walked along the bankside path.", "Bankside is popular for picnics in summer."],
+          "collocations": ["bankside path", "bankside vegetation", "bankside area", "river bankside"],
+          "synonyms": ["riverside", "riverbank"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "banksides",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bankside, areas beside a river.",
+          "examples": ["The banksides were flooded after the rain.", "Birds nest on these banksides."],
+          "collocations": ["river banksides", "flooded banksides", "steep banksides"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "banksman",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A worker who signals to control the movement of vehicles or lifts in a mine.",
+          "examples": ["The banksman guided the cage safely.", "He trained as a banksman in the colliery."],
+          "collocations": ["mine banksman", "banksman signals", "colliery banksman"],
+          "synonyms": ["bankman"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["mining", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "banksmen",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banksman, mine workers who signal vehicles.",
+          "examples": ["The banksmen worked in shifts.", "Experienced banksmen ensure safety."],
+          "collocations": ["mine banksmen", "trained banksmen"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["mining"]
+        }
+      ]
+    },
+    {
+      "term": "bankweed",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A common weed that grows on riverbanks, often creeping yellowcress.",
+          "examples": ["Bankweed thrives in damp soil.", "Farmers clear bankweed from fields."],
+          "collocations": ["river bankweed", "creeping bankweed"],
+          "synonyms": ["creeping yellowcress"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "banky",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having many banks or slopes; or containing banks of earth.",
+          "examples": ["The banky terrain made walking difficult.", "Banky soil holds water well."],
+          "collocations": ["banky field", "banky river", "banky slope"],
+          "synonyms": [],
+          "antonyms": ["flat"],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "banlieu",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Alternative spelling of banlieue, a suburb especially in France.",
+          "examples": ["He grew up in the banlieu of Paris.", "Banlieu culture has unique styles."],
+          "collocations": ["Paris banlieu", "French banlieu"],
+          "synonyms": ["banlieue", "suburb"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "banlieue",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A suburb or district surrounding a French city, often with social housing.",
+          "examples": ["Many immigrants live in the banlieue.", "The banlieue has its own vibrant culture."],
+          "collocations": ["Paris banlieue", "French banlieue", "banlieue youth"],
+          "synonyms": ["suburb", "outskirts"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography", "sociology"]
+        }
+      ]
+    },
+    {
+      "term": "banlieues",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banlieue, suburbs around French cities.",
+          "examples": ["Banlieues surround major cities.", "Riots occurred in several banlieues."],
+          "collocations": ["French banlieues", "Paris banlieues"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "bannable",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Able to be banned or prohibited.",
+          "examples": ["Hate speech is bannable on this platform.", "Certain files are bannable."],
+          "collocations": ["bannable content", "bannable behavior", "strictly bannable"],
+          "synonyms": ["prohibited"],
+          "antonyms": ["allowed"],
+          "register": "informal",
+          "domain": ["technology", "internet"]
+        }
+      ]
+    },
+    {
+      "term": "bannack",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An abandoned gold mining town in Montana, USA.",
+          "examples": ["Bannack is now a state park.", "Visitors tour historic Bannack."],
+          "collocations": ["Bannack ghost town", "Bannack State Park"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "bannat",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A historical banner or flag; also a domain under a banner.",
+          "examples": ["The bannat was carried into battle.", "Medieval bannat marked territory."],
+          "collocations": ["medieval bannat"],
+          "synonyms": ["banner", "standard"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "banned",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Not allowed; prohibited officially.",
+          "examples": ["Smoking is banned here.", "The book was banned in schools."],
+          "collocations": ["banned substance", "banned book", "strictly banned"],
+          "synonyms": ["prohibited", "forbidden"],
+          "antonyms": ["allowed", "permitted"],
+          "register": "null",
+          "domain": ["general", "law"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Past tense of ban, to officially prohibit.",
+          "examples": ["They banned plastic bags.", "The game was banned last year."],
+          "collocations": ["banned from", "officially banned"],
+          "synonyms": ["prohibited"],
+          "antonyms": ["allowed"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "banner",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A long strip of cloth or paper with words or pictures, used to advertise.",
+          "examples": ["The banner said 'Welcome Home'.", "Protesters carried banners."],
+          "collocations": ["advertising banner", "welcome banner", "protest banner"],
+          "synonyms": ["sign", "placard"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A headline in a newspaper.",
+          "examples": ["The banner announced the victory.", "Front page banner caught attention."],
+          "collocations": ["front-page banner", "banner headline"],
+          "synonyms": ["headline"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["journalism"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Leading or outstanding.",
+          "examples": ["She is a banner example of success.", "Banner year for sales."],
+          "collocations": ["banner year", "banner achievement"],
+          "synonyms": ["leading", "top"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bannerall",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small banner or flag.",
+          "examples": ["The bannerall fluttered in the wind.", "Knights carried banneralls."],
+          "collocations": ["small bannerall"],
+          "synonyms": ["banneret"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "banneralls",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bannerall, small banners.",
+          "examples": ["Banneralls decorated the hall.", "They displayed banneralls."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bannered",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Decorated or marked with banners.",
+          "examples": ["The bannered streets welcomed the parade.", "Bannered websites have ads."],
+          "collocations": ["bannered streets", "bannered site"],
+          "synonyms": ["flagged"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bannerer",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who carries or displays banners.",
+          "examples": ["Bannerers marched in the protest.", "The bannerer waved the flag high."],
+          "collocations": ["protest bannerer"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "banneret",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small banner or knight's standard.",
+          "examples": ["The banneret was triangular.", "Knights bore bannerets."],
+          "collocations": ["knight's banneret"],
+          "synonyms": ["bannerol"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A feudal knight ranking below a baron.",
+          "examples": ["He was raised to banneret.", "Bannerets led troops."],
+          "collocations": ["military banneret"],
+          "synonyms": ["knight banneret"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bannerets",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banneret, small banners or knights.",
+          "examples": ["Bannerets adorned the castle.", "The bannerets fought bravely."],
+          "collocations": ["feudal bannerets"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bannerette",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small banner or flag.",
+          "examples": ["The bannerette marked the tent.", "She waved a bannerette."],
+          "collocations": ["small bannerette"],
+          "synonyms": ["pennant"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bannerettes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bannerette, small banners.",
+          "examples": ["Bannerettes decorated the event.", "Fans held bannerettes."],
+          "collocations": ["event bannerettes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bannerfish",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A tropical marine fish with banner-like fins, like the longfin bannerfish.",
+          "examples": ["Bannerfish swim in coral reefs.", "The bannerfish has bright colors."],
+          "collocations": ["tropical bannerfish", "reef bannerfish", "longfin bannerfish"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "marine"]
+        }
+      ]
+    }
+  ]
+}
+```

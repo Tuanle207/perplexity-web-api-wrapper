@@ -1,0 +1,622 @@
+{
+  "items": [
+    {
+      "term": "sacrificator",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that sacrifices something or someone in a ritual or for a cause",
+          "examples": [
+            "The ancient temple employed a sacrificial animal as an offering.",
+            "In the story, the hero acts as a sacrificial pastor to save the town."
+          ],
+          "collocations": [
+            "human sacrificial",
+            "animal sacrificial",
+            "ritual sacrificial"
+          ],
+          "synonyms": ["sacrifice recipient", "victim"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sacrificatory",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or used for making a sacrifice",
+          "examples": [
+            "The ritual included sacrificial rites and sacrificatory offerings.",
+            "They performed sacrificial ceremonies with sacrificial bowls."
+          ],
+          "collocations": [
+            "sacrificatory rites",
+            "sacrificatory offerings"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "cultural"]
+        }
+      ]
+    },
+    {
+      "term": "sacrificature",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of making a sacrifice; a sacrifice or offering",
+          "examples": [
+            "The ceremony involved the sacrificial act and its sacrificialature.",
+            "Historical texts describe varying forms of sacrificialature."
+          ],
+          "collocations": [
+            "ritual sacrificature",
+            "offering sacrificature"
+          ],
+          "synonyms": ["sacrifice", "offering"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sacrifice",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of giving up something valuable or important for the sake of others or a goal",
+          "examples": [
+            "He made a sacrifice by moving to a smaller apartment to save money.",
+            "Parents often make sacrifices for their children."
+          ],
+          "collocations": [
+            "make a sacrifice",
+            "personal sacrifice",
+            "family sacrifice"
+          ],
+          "synonyms": ["renunciation", "forfeit", "giving up"],
+          "antonyms": ["gain", "benefit"],
+          "register": "neutral",
+          "domain": ["general", "life"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to give up something valued for the sake of something or someone else",
+          "examples": [
+            "She sacrificed her career to care for her family.",
+            "We sacrificed a few comforts to help the project succeed."
+          ],
+          "collocations": [
+            "sacrifice time",
+            "sacrifice money",
+            "sacrifice resources"
+          ],
+          "synonyms": ["forgo", "renounce", "give up"],
+          "antonyms": ["keep", "retain"],
+          "register": "neutral",
+          "domain": ["general", "family", "work"]
+        }
+      ]
+    },
+    {
+      "term": "sacrificeable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being sacrificed or given up",
+          "examples": [
+            "The resources were considered sacrificeable for the greater good.",
+            "In the game, some pieces are sacrificeable to gain advantage."
+          ],
+          "collocations": [
+            "sacrificeable resource",
+            "sacrificeable offering"
+          ],
+          "synonyms": ["sacrificial", "vulnerable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "gambling"]
+        }
+      ]
+    },
+    {
+      "term": "sacrificed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of sacrifice; gave up something valuable",
+          "examples": [
+            "He sacrificed his spare time to finish the project.",
+            "Many people sacrificed comfort for their country during the war."
+          ],
+          "collocations": [
+            "sacrificed time",
+            "sacrificed resources",
+            "sacrificed life"
+          ],
+          "synonyms": ["forwent", "gave up", "renounced"],
+          "antonyms": ["retained", "kept"],
+          "register": "neutral",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sacrificer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who sacrifices or offers a sacrifice; a priest or individual performing sacrificial rites",
+          "examples": [
+            "The sacrificer officiated at the ancient ceremony.",
+            "Ancient texts describe the sacrificer preparing the altar."
+          ],
+          "collocations": [
+            "high priest sacrificer",
+            "ritual sacrificer"
+          ],
+          "synonyms": ["offerer", "priest"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sacrificers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sacrificer; people who sacrifice or perform sacrifices",
+          "examples": [
+            "The sacrificers gathered around the altar.",
+            "Historically, many sacrificers were part of the ritual."
+          ],
+          "collocations": [
+            "group of sacrificers",
+            "sacrificers in ceremony"
+          ],
+          "synonyms": ["offerers", "priests"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sacrifices",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "things given up or lost for a greater purpose",
+          "examples": [
+            "Many sacrifices were made during the campaign.",
+            "People make sacrifices for their families."
+          ],
+          "collocations": [
+            "make sacrifices",
+            "personal sacrifices",
+            "financial sacrifices"
+          ],
+          "synonyms": ["renunciations", "givings-up"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of sacrifice; gives up something valuable",
+          "examples": [
+            "She sacrifices her own comfort for the children.",
+            "They sacrifice time to volunteer weekly."
+          ],
+          "collocations": [
+            "sacrifices time",
+            "sacrifices money"
+          ],
+          "synonyms": ["forgoes", "renounces"],
+          "antonyms": ["retains", "keeps"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sacrificial",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or used for sacrifice; designed to be offered",
+          "examples": [
+            "The sacrificial knife was kept on the altar.",
+            "In many cultures, animals were used in sacrificial rites."
+          ],
+          "collocations": [
+            "sacrificial knife",
+            "sacrificial rite",
+            "sacrificial offering"
+          ],
+          "synonyms": ["offering-related", "ritual"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "sacrificially",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that involves sacrifice",
+          "examples": [
+            "They sacrificed sacrificially to defend their village.",
+            "The team worked sacrificially to meet the deadline."
+          ],
+          "collocations": [
+            "live sacrificially",
+            "sacrifice sacrificially"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sacrificing",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of sacrifice; giving up something valuable",
+          "examples": [
+            "She is sacrificing her weekends to help the project.",
+            "Sacrificing sleep for study is not sustainable."
+          ],
+          "collocations": [
+            "sacrificing time",
+            "sacrificing comfort"
+          ],
+          "synonyms": ["forgoing", "renouncing"],
+          "antonyms": ["keeping", "retaining"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sacrificingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner that involves making sacrifices",
+          "examples": [
+            "They worked sacrificingly to complete the project.",
+            "Sacrificingly, she put others first."
+          ],
+          "collocations": [
+            "work sacrificingly",
+            "live sacrificingly"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sacrifide",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a misspelling or rare variant of sacrificide; generally refers to a sacrifice or offering",
+          "examples": [
+            "Historical texts sometimes use sacrifide in place of sacrifice."
+          ],
+          "collocations": [
+            "sacrifide rite"
+          ],
+          "synonyms": ["sacrifice"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "sacrified",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "alternative past tense form of sacrifice; rare or archaic usage",
+          "examples": [
+            "They sacrificed their feast to the gods."
+          ],
+          "collocations": [
+            "sacrified life"
+          ],
+          "synonyms": ["sacrificed"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["religion", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "sacrifies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of sacrifice; sacrifices",
+          "examples": [
+            "He sacrif ies his time for the project." ,
+            "The village sacrif ies its harvest for the festival."
+          ],
+          "collocations": [
+            "sacrifies time",
+            "sacrifies resources"
+          ],
+          "synonyms": ["forgoes", "renounces"],
+          "antonyms": ["retains", "keeps"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sacrify",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "misspelling or archaic form of sacrifice; to make a sacrifice",
+          "examples": [
+            "To win favor, one may sacrificy or sacrif y different offerings." 
+          ],
+          "collocations": [
+            "sacrify life",
+            "sacrify resources"
+          ],
+          "synonyms": ["sacrifice"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "sacrifying",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of sacrifice; actively giving up something",
+          "examples": [
+            "They are sacrific ing their time for the project."
+          ],
+          "collocations": [
+            "sacrifying time",
+            "sacrifying comfort"
+          ],
+          "synonyms": ["forgoing", "renouncing"],
+          "antonyms": ["keeping", "retaining"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sacrifyingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner that involves sacrificing greatly",
+          "examples": [
+            "They sacrificed sacrificingly for the mission."
+          ],
+          "collocations": [
+            "act sacrificingly"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sacrilege",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of treating something sacred with disrespect or violation",
+          "examples": [
+            "It is a sacrilege to destroy a place of worship.",
+            "Carving graffiti on the temple walls was seen as sacrilege."
+          ],
+          "collocations": [
+            "commit sacrilege",
+            "sacrilege against sacred objects"
+          ],
+          "synonyms": ["blasphemy", "prof anation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "law"]
+        }
+      ]
+    },
+    {
+      "term": "sacrileger",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who commits sacrilege",
+          "examples": [
+            "The sacrileger faced social condemnation."
+          ],
+          "collocations": [
+            "recover from sacrileger acts"
+          ],
+          "synonyms": ["blasphemer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "law"]
+        }
+      ]
+    },
+    {
+      "term": "sacrileges",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sacrilege; acts of desecration or disrespect toward sacred things",
+          "examples": [
+            "Reports described multiple sacrileges across the site."
+          ],
+          "collocations": [
+            "committing sacrileges"
+          ],
+          "synonyms": ["blasphemies", "desecrations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "law"]
+        }
+      ]
+    },
+    {
+      "term": "sacrilegious",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "showing disrespect to something sacred; offensive to religion or beliefs",
+          "examples": [
+            "It was a sacrilegious remark in the temple.",
+            "Many considered the act sacrilegious."
+          ],
+          "collocations": [
+            "sacrilegious remark",
+            "sacrilegious act"
+          ],
+          "synonyms": ["blasphemous", "impious"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "sacrilegiously",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows disrespect to sacred things",
+          "examples": [
+            "They spoke sacrilegiously about the sacred texts."
+          ],
+          "collocations": [
+            "act sacrilegiously"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "sacrilegiousness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being sacrilegious; disrespect toward sacred things",
+          "examples": [
+            "The sacrilegiousness of the act shocked many followers."
+          ],
+          "collocations": [
+            "display sacrilegiousness"
+          ],
+          "synonyms": ["blasphemy", "impiety"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "sacrilegiousnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of sacrilegiousness",
+          "examples": [
+            "Different contexts note varying sacrilegiousnesses in behavior."
+          ],
+          "collocations": [
+            "display sacrilegiousnesses"
+          ],
+          "synonyms": ["blasphemies", "impieties"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "ethics"]
+        }
+      ]
+    }
+  ]
+}

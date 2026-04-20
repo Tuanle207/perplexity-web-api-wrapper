@@ -1,0 +1,703 @@
+```json
+{
+  "items": [
+    {
+      "term": "basat",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bascinet",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small round steel helmet worn by soldiers in the Middle Ages.",
+          "examples": [
+            "Knights often wore a bascinet with a visor.",
+            "The museum displays a well-preserved 14th-century bascinet.",
+            "He examined the bascinet in the armor collection."
+          ],
+          "collocations": [
+            "medieval bascinet",
+            "steel bascinet",
+            "bascinet helmet",
+            "visored bascinet",
+            "knight's bascinet"
+          ],
+          "synonyms": ["helm"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "military"]
+        }
+      ]
+    },
+    {
+      "term": "bascinets",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bascinet; small round steel helmets from the Middle Ages.",
+          "examples": [
+            "The exhibition featured several bascinets from the 1300s.",
+            "Collectors value rare bascinets highly.",
+            "The armory housed dozens of bascinets."
+          ],
+          "collocations": [
+            "medieval bascinets",
+            "visored bascinets",
+            "14th-century bascinets"
+          ],
+          "synonyms": ["helms"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "military"]
+        }
+      ]
+    },
+    {
+      "term": "bascology",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "basculation",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The action of moving like a bascule, tilting or rocking up and down.",
+          "examples": [
+            "The basculation of the bridge allows tall ships to pass.",
+            "Engineers studied the basculation mechanism.",
+            "The structure relies on basculation for operation."
+          ],
+          "collocations": [
+            "bridge basculation",
+            "basculation mechanism",
+            "controlled basculation"
+          ],
+          "synonyms": ["tilting"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "bascule",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A device that tilts or pivots like a seesaw; used in some bridges.",
+          "examples": [
+            "The bascule bridge lifted to let the boat through.",
+            "Tower Bridge in London is a famous bascule.",
+            "They repaired the bascule mechanism overnight."
+          ],
+          "collocations": [
+            "bascule bridge",
+            "bascule gate",
+            "bascule mechanism"
+          ],
+          "synonyms": ["drawbridge"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["engineering", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "bascules",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bascule; tilting bridge mechanisms.",
+          "examples": [
+            "The bascules rose slowly to open the bridge.",
+            "Two bascules form the movable span.",
+            "Maintenance was needed on both bascules."
+          ],
+          "collocations": [
+            "bascule bridges",
+            "lifting bascules",
+            "bridge bascules"
+          ],
+          "synonyms": ["drawbridges"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["engineering"]
+        }
+      ]
+    },
+    {
+      "term": "bascunan",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "base",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The bottom part or support of something.",
+          "examples": [
+            "The lamp has a heavy base.",
+            "She painted the base of the wall.",
+            "The statue stood on a stone base."
+          ],
+          "collocations": [
+            "solid base",
+            "lamp base",
+            "mountain base",
+            "data base"
+          ],
+          "synonyms": ["bottom", "foundation"],
+          "antonyms": ["top"],
+          "register": "null",
+          "domain": ["general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A place where military troops are stationed.",
+          "examples": [
+            "The soldiers returned to base.",
+            "The air base is near the city.",
+            "They built a new base overseas."
+          ],
+          "collocations": [
+            "military base",
+            "army base",
+            "naval base",
+            "air base"
+          ],
+          "synonyms": ["headquarters"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["military"]
+        },
+        {
+          "pos": "noun",
+          "definition": "One of the four stations in baseball that players must touch.",
+          "examples": [
+            "He ran to first base.",
+            "She stole second base.",
+            "The runner was safe at base."
+          ],
+          "collocations": [
+            "first base",
+            "second base",
+            "third base",
+            "home base"
+          ],
+          "synonyms": ["bag"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports"]
+        },
+        {
+          "pos": "noun",
+          "definition": "The main ingredient in a mixture.",
+          "examples": [
+            "Tomato sauce is the base for pizza.",
+            "Oil serves as the base for the paint.",
+            "Milk is the base of this soup."
+          ],
+          "collocations": [
+            "paint base",
+            "recipe base",
+            "cosmetic base"
+          ],
+          "synonyms": ["foundation"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["cooking", "chemistry"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To use something as the starting point or foundation.",
+          "examples": [
+            "They based the design on old drawings.",
+            "The story is based on real events.",
+            "Her decision was based on facts."
+          ],
+          "collocations": [
+            "based on",
+            "loosely based",
+            "primarily based"
+          ],
+          "synonyms": ["found", "ground"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Having no moral values; low or mean.",
+          "examples": [
+            "That was a base betrayal of trust.",
+            "His base motives shocked everyone.",
+            "She despised his base behavior."
+          ],
+          "collocations": [
+            "base instincts",
+            "base behavior",
+            "base treachery"
+          ],
+          "synonyms": ["vile", "low"],
+          "antonyms": ["noble"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baseball",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A popular game played with a bat and ball by two teams of nine players.",
+          "examples": [
+            "Baseball is America's favorite pastime.",
+            "They played baseball in the park.",
+            "The baseball game lasted three hours."
+          ],
+          "collocations": [
+            "play baseball",
+            "baseball game",
+            "baseball team",
+            "professional baseball",
+            "Major League Baseball"
+          ],
+          "synonyms": ["rounders"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports"]
+        },
+        {
+          "pos": "noun",
+          "definition": "The hard ball used in the game of baseball.",
+          "examples": [
+            "He hit the baseball over the fence.",
+            "She threw a fast baseball.",
+            "The baseball bounced high."
+          ],
+          "collocations": [
+            "hard baseball",
+            "signed baseball",
+            "leather baseball"
+          ],
+          "synonyms": ["ball"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "baseballdom",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The world or realm of baseball.",
+          "examples": [
+            "Baseballdom mourned the passing of the legend.",
+            "Scandals rocked baseballdom last season.",
+            "He reigns as a king in baseballdom."
+          ],
+          "collocations": [
+            "baseballdom stars",
+            "baseballdom history"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "baseballer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who plays baseball, especially professionally.",
+          "examples": [
+            "The baseballer signed autographs after the game.",
+            "Young baseballers dream of the majors.",
+            "He's a talented baseballer from Japan."
+          ],
+          "collocations": [
+            "pro baseballer",
+            "amateur baseballer",
+            "star baseballer"
+          ],
+          "synonyms": ["ballplayer"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "baseballers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baseballer; people who play baseball.",
+          "examples": [
+            "The baseballers practiced in the rain.",
+            "Top baseballers earn millions.",
+            "Local baseballers won the tournament."
+          ],
+          "collocations": [
+            "pro baseballers",
+            "young baseballers"
+          ],
+          "synonyms": ["ballplayers"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "baseballs",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baseball; the balls used in the game.",
+          "examples": [
+            "He collects old baseballs.",
+            "The kids hit baseballs into the field.",
+            "Signed baseballs sell for high prices."
+          ],
+          "collocations": [
+            "signed baseballs",
+            "vintage baseballs",
+            "practice baseballs"
+          ],
+          "synonyms": ["balls"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "baseband",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A type of signal transmission with a narrow range of frequencies, used in digital communication.",
+          "examples": [
+            "The system uses baseband signaling.",
+            "Baseband video requires special cables.",
+            "They upgraded to baseband technology."
+          ],
+          "collocations": [
+            "baseband signal",
+            "baseband transmission",
+            "baseband audio",
+            "digital baseband"
+          ],
+          "synonyms": [],
+          "antonyms": ["broadband"],
+          "register": "null",
+          "domain": ["technology", "telecommunications"]
+        }
+      ]
+    },
+    {
+      "term": "basebands",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baseband; narrow frequency signal types.",
+          "examples": [
+            "Multiple basebands operate simultaneously.",
+            "The device supports dual basebands."
+          ],
+          "collocations": [
+            "digital basebands",
+            "baseband channels"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "baseboard",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A wooden or plastic board along the bottom of a wall, covering the joint with the floor.",
+          "examples": [
+            "We painted the baseboard white.",
+            "The baseboard needs repair.",
+            "She installed new baseboard molding."
+          ],
+          "collocations": [
+            "wooden baseboard",
+            "baseboard molding",
+            "painted baseboard",
+            "baseboard heater"
+          ],
+          "synonyms": ["skirting board"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["construction", "home"]
+        }
+      ]
+    },
+    {
+      "term": "baseboards",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baseboard; boards along walls at floor level.",
+          "examples": [
+            "The baseboards were scuffed and dirty.",
+            "They replaced all the baseboards.",
+            "Dust collected behind the baseboards."
+          ],
+          "collocations": [
+            "install baseboards",
+            "replace baseboards",
+            "clean baseboards"
+          ],
+          "synonyms": ["skirting boards"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["home"]
+        }
+      ]
+    },
+    {
+      "term": "baseborn",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Born to unmarried parents; illegitimate.",
+          "examples": [
+            "The baseborn son inherited nothing.",
+            "She was dismissed as a baseborn pretender.",
+            "Historical records mention his baseborn siblings."
+          ],
+          "collocations": [
+            "baseborn child",
+            "baseborn heir",
+            "baseborn lineage"
+          ],
+          "synonyms": ["illegitimate"],
+          "antonyms": ["legitimate"],
+          "register": "literary",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "basebred",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baseburner",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A type of stove that automatically feeds fuel from a hopper.",
+          "examples": [
+            "They restored an antique baseburner stove.",
+            "The baseburner kept the house warm all winter.",
+            "Coal baseburners were common in old homes."
+          ],
+          "collocations": [
+            "coal baseburner",
+            "antique baseburner",
+            "baseburner stove"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "appliances"]
+        }
+      ]
+    },
+    {
+      "term": "baseburners",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baseburner; automatic-feed stoves.",
+          "examples": [
+            "Several baseburners lined the factory walls.",
+            "Collectors seek vintage baseburners."
+          ],
+          "collocations": [
+            "vintage baseburners",
+            "coal baseburners"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "basecoat",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The first layer of paint or coating applied to a surface.",
+          "examples": [
+            "Apply a basecoat before the top color.",
+            "The basecoat provides good coverage.",
+            "They sanded the basecoat smooth."
+          ],
+          "collocations": [
+            "primer basecoat",
+            "white basecoat",
+            "apply basecoat",
+            "automotive basecoat"
+          ],
+          "synonyms": ["primer", "undercoat"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["painting"]
+        }
+      ]
+    },
+    {
+      "term": "basecourt",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The front courtyard of a castle or large house.",
+          "examples": [
+            "Visitors entered through the basecourt.",
+            "The basecourt bustled with activity.",
+            "They crossed the basecourt to the keep."
+          ],
+          "collocations": [
+            "castle basecourt",
+            "main basecourt"
+          ],
+          "synonyms": ["outer court"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["architecture", "history"]
+        }
+      ]
+    },
+    {
+      "term": "based",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a particular location or headquarters.",
+          "examples": [
+            "The company is based in New York.",
+            "They are based overseas.",
+            "The team is based at the stadium."
+          ],
+          "collocations": [
+            "based in",
+            "UK-based",
+            "home-based",
+            "London-based"
+          ],
+          "synonyms": ["headquartered"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business", "general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Founded or built on something.",
+          "examples": [
+            "The film is based on a novel.",
+            "His theory is based on evidence.",
+            "The decision was based on facts."
+          ],
+          "collocations": [
+            "based on",
+            "loosely based",
+            "evidence-based"
+          ],
+          "synonyms": ["grounded"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Showing support or agreement; excellent (slang).",
+          "examples": [
+            "That opinion is so based!",
+            "He's based for speaking the truth.",
+            "This meme is totally based."
+          ],
+          "collocations": [
+            "stay based",
+            "very based",
+            "based take"
+          ],
+          "synonyms": ["cool", "based"],
+          "antonyms": ["cringe"],
+          "register": "slang",
+          "domain": ["internet"]
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,406 @@
+```json
+{
+  "items": [
+    {
+      "term": "basto",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a club in Spanish card games, especially in the suit of clubs",
+          "examples": ["He played the basto to win the trick.", "The basto is one of the four suits in the deck."],
+          "collocations": ["play basto", "suit of basto", "draw basto", "high basto"],
+          "synonyms": ["club"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["games", "card-playing"]
+        }
+      ]
+    },
+    {
+      "term": "baston",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a stick or staff, used in some languages for a cane or baton",
+          "examples": ["The old man leaned on his baston.", "Police carry a baston for protection."],
+          "collocations": ["wooden baston", "carry baston", "lean on baston"],
+          "synonyms": ["cane", "staff", "baton"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bastonet",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bastonite",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare mineral from the bastnasite group, used in geology",
+          "examples": ["Samples of bastonite were found in the mine.", "Bastinite is studied for its rare earth elements."],
+          "collocations": ["rare bastonite", "bastonite crystals", "analyze bastonite"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "bastos",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basto; clubs in Spanish playing cards",
+          "examples": ["He collected all the bastos in the game.", "The bastos suit was strong in his hand."],
+          "collocations": ["play bastos", "hold bastos", "win with bastos"],
+          "synonyms": ["clubs"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["games"]
+        }
+      ]
+    },
+    {
+      "term": "basts",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bast; the phloem tissue in plants used for fiber",
+          "examples": ["Farmers harvest basts for rope making.", "Basts provide strong natural fibers."],
+          "collocations": ["plant basts", "harvest basts", "bast fibers"],
+          "synonyms": ["phloem"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "basuco",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a crude, low-quality form of cocaine paste smoked in South America",
+          "examples": ["Basuco is highly addictive and dangerous.", "He warned about the risks of basuco."],
+          "collocations": ["smoke basuco", "basuco paste", "cheap basuco"],
+          "synonyms": ["cocaine paste"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["drugs"]
+        }
+      ]
+    },
+    {
+      "term": "basucos",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basuco; multiple units of cocaine paste",
+          "examples": ["Street dealers sell basucos in small bags.", "Authorities seized packets of basucos."],
+          "collocations": ["sell basucos", "buy basucos"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["drugs"]
+        }
+      ]
+    },
+    {
+      "term": "basural",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a dump or landfill site (Spanish term used in some English contexts)",
+          "examples": ["The basural was overflowing with waste.", "Workers cleaned the old basural."],
+          "collocations": ["open basural", "city basural"],
+          "synonyms": ["dump", "landfill"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["environment"]
+        }
+      ]
+    },
+    {
+      "term": "basurale",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "basuto",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative spelling of Basuto; a member of the Sotho people of Lesotho",
+          "examples": ["The Basuto have a rich cultural heritage.", "Basuto traditions are still practiced today."],
+          "collocations": ["Basuto people", "Basuto language"],
+          "synonyms": ["Sotho"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "basyl",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bat",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a flying mammal active at night",
+          "examples": ["Bats come out at night.", "The bat hung upside down in the cave."],
+          "collocations": ["fruit bat", "vampire bat", "bat cave"],
+          "synonyms": ["flying mammal"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["animals", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a wooden or metal stick used to hit the ball in sports like baseball or cricket",
+          "examples": ["He swung the bat and hit a home run.", "She bought a new cricket bat."],
+          "collocations": ["swing bat", "baseball bat", "cricket bat"],
+          "synonyms": ["club", "stick"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to hit with a bat or the hand",
+          "examples": ["He batted the ball out of the park.", "She batted her eyelashes at him."],
+          "collocations": ["bat ball", "bat eyelashes"],
+          "synonyms": ["hit", "strike"],
+          "antonyms": ["miss"],
+          "register": "informal",
+          "domain": ["sports", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bataan",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a peninsula in the Philippines, site of a famous World War II battle",
+          "examples": ["Bataan was the scene of intense fighting.", "The Bataan Death March is well-known."],
+          "collocations": ["Bataan peninsula", "Bataan Death March"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "batable",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be debated or argued about",
+          "examples": ["This is a batable point in the discussion.", "The issue remains batable among experts."],
+          "collocations": ["batable issue", "batable question", "highly batable"],
+          "synonyms": ["debatable", "arguable", "controversial"],
+          "antonyms": ["undebatable", "settled"],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "batad",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place in the Philippines known for its rice terraces",
+          "examples": ["Batad offers stunning views of terraces.", "Tourists visit Batad every year."],
+          "collocations": ["Batad terraces", "visit Batad"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["travel", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "batak",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of an indigenous people from Palawan or other parts of the Philippines",
+          "examples": ["The Batak maintain traditional ways of life.", "Batak communities live in the mountains."],
+          "collocations": ["Batak people", "Batak tribe"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["anthropology"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to the Batak people or their language",
+          "examples": ["Batak culture is unique.", "She speaks Batak fluently."],
+          "collocations": ["Batak language", "Batak culture"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "batakan",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bataleur",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of African eagle known for its dramatic flight displays",
+          "examples": ["The bataleur soared high above the savanna.", "Watch the bataleur perform its aerial show."],
+          "collocations": ["bataleur eagle", "African bataleur"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["animals", "birds"]
+        }
+      ]
+    },
+    {
+      "term": "batamote",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "batan",
+      "kind": "proper_noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a traditional Japanese fulling block used for pounding cloth",
+          "examples": ["The batan was used in textile making.", "She demonstrated the batan process."],
+          "collocations": ["wooden batan", "use batan"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "crafts"]
+        }
+      ]
+    },
+    {
+      "term": "batara",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of bird from the family Pterotocidae, found in South America",
+          "examples": ["The batara sings a loud call.", "Spot the batara in the forest."],
+          "collocations": ["South American batara"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["animals", "birds"]
+        }
+      ]
+    },
+    {
+      "term": "batard",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of bread loaf shorter and wider than a baguette",
+          "examples": ["Bake a fresh batard for dinner.", "The bakery sells crusty batards."],
+          "collocations": ["crusty batard", "fresh batard"],
+          "synonyms": ["bread loaf"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "batarde",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a style of cursive handwriting used in medieval manuscripts",
+          "examples": ["The text was written in batarde script.", "Study batarde in paleography."],
+          "collocations": ["batarde script", "medieval batarde"],
+          "synonyms": ["cursive"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "writing"]
+        }
+      ]
+    },
+    {
+      "term": "batardeau",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a temporary cofferdam or barrier used in construction near water",
+          "examples": ["Engineers built a batardeau around the site.", "The batardeau kept water out during repairs."],
+          "collocations": ["temporary batardeau", "construct batardeau"],
+          "synonyms": ["cofferdam"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "construction"]
+        }
+      ]
+    }
+  ]
+}
+```

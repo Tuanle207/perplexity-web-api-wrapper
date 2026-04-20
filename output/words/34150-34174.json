@@ -1,0 +1,440 @@
+```json
+{
+  "items": [
+    {
+      "term": "bassoonists",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who play the bassoon",
+          "examples": ["The bassoonists performed a beautiful duet.", "Our orchestra has three skilled bassoonists.", "Bassoonists need strong breath control."],
+          "collocations": ["professional bassoonists", "lead bassoonist", "bassoonists section", "young bassoonists", "famous bassoonists"],
+          "synonyms": ["bassoon players"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "bassoons",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bassoon, a large woodwind musical instrument",
+          "examples": ["The bassoons provided the deep tones.", "Several bassoons were on stage.", "He plays both oboes and bassoons."],
+          "collocations": ["double bassoons", "bassoon section", "play bassoons", "Fox bassoons", "contrabass bassoons"],
+          "synonyms": ["woodwind instruments"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "bassorin",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a gum-like substance obtained from certain trees",
+          "examples": ["Bassorin is extracted from bast trees.", "The chemist studied bassorin properties.", "Bassorin forms gels with water."],
+          "collocations": ["gum bassorin", "bassorin gum", "extract bassorin", "bassorin substance"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["chemistry", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "bassos",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basso, a singer with a low voice",
+          "examples": ["The bassos sang powerfully.", "Two bassos performed the aria.", "Bassos dominate this opera."],
+          "collocations": ["deep bassos", "opera bassos", "professional bassos", "bassos voices"],
+          "synonyms": ["bass singers"],
+          "antonyms": ["sopranos"],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "bassus",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Latin term meaning 'low', used in music for bass voice or part",
+          "examples": ["The score marks the bassus line.", "He studies bassus parts.", "Bassus refers to low notes."],
+          "collocations": ["vox bassus", "bassus voice", "musical bassus", "Latin bassus"],
+          "synonyms": ["bass"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music", "latin"]
+        }
+      ]
+    },
+    {
+      "term": "basswood",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of tree with light-colored wood, also called linden or lime tree",
+          "examples": ["Basswood grows tall in forests.", "Carvers prefer basswood.", "The basswood tree bloomed."],
+          "collocations": ["American basswood", "basswood tree", "basswood wood", "carve basswood", "basswood leaves"],
+          "synonyms": ["linden", "lime tree"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany", "woodworking"]
+        }
+      ]
+    },
+    {
+      "term": "basswoods",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basswood, trees with light wood",
+          "examples": ["Several basswoods lined the street.", "Basswoods provide good shade.", "The park has many basswoods."],
+          "collocations": ["Eastern basswoods", "basswoods trees", "plant basswoods", "basswoods forest"],
+          "synonyms": ["lindens"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "bassy",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having strong low-frequency sounds",
+          "examples": ["This speaker sounds very bassy.", "The mix is too bassy.", "I like bassy music."],
+          "collocations": ["bassy sound", "bassy music", "bassy track", "very bassy", "deep bassy"],
+          "synonyms": ["boomy"],
+          "antonyms": ["trebly"],
+          "register": "informal",
+          "domain": ["music", "audio"]
+        }
+      ]
+    },
+    {
+      "term": "bast",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the fibrous inner bark of certain trees used for making rope",
+          "examples": ["Bast fibers make strong rope.", "They harvested bast from trees.", "Bast is tough material."],
+          "collocations": ["tree bast", "bast fibers", "lime bast", "bast rope", "extract bast"],
+          "synonyms": ["phloem"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "basta",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "interjection",
+          "definition": "Italian word meaning 'enough' or 'stop', used in English contexts",
+          "examples": ["Basta! No more complaints.", "She shouted basta and left.", "Basta with the excuses."],
+          "collocations": ["basta enough", "shout basta", "basta now"],
+          "synonyms": ["enough", "stop"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bastaard",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Afrikaans term for 'bastard', a person born of unmarried parents (rare in English)",
+          "examples": ["The old text used bastaard.", "Bastaard appears in historical records.", "He translated the bastaard term."],
+          "collocations": ["call bastaard", "bastaard child"],
+          "synonyms": ["bastard"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["historical"]
+        }
+      ]
+    },
+    {
+      "term": "bastant",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bastard",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person born of parents not married to each other",
+          "examples": ["The story describes a bastard son.", "He was known as the king's bastard.", "Bastard children had few rights."],
+          "collocations": ["illegitimate bastard", "king's bastard", "poor bastard", "born bastard"],
+          "synonyms": ["illegitimate child"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["historical"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a very unpleasant person (informal)",
+          "examples": ["What a bastard he is!", "That bastard lied to me.", "Don't be such a bastard."],
+          "collocations": ["lucky bastard", "poor bastard", "stupid bastard", "sly bastard", "cheeky bastard"],
+          "synonyms": ["jerk", "git", "so-and-so"],
+          "antonyms": ["gentleman"],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "bad or annoying",
+          "examples": ["This is bastard weather.", "Bastard luck struck again.", "What a bastard situation."],
+          "collocations": ["bastard luck", "bastard weather", "bastard thing"],
+          "synonyms": ["rotten", "damn"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bastarda",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a style of semi-cursive blackletter handwriting used in medieval manuscripts",
+          "examples": ["The scribe used bastarda script.", "Bastarda appears in Gothic texts.", "Study the bastarda letter forms."],
+          "collocations": ["Gothic bastarda", "bastarda script", "medieval bastarda", "blackletter bastarda"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "calligraphy"]
+        }
+      ]
+    },
+    {
+      "term": "bastardice",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being a bastard or bastardly behavior (rare)",
+          "examples": ["The text condemns bastardice.", "Bastardice marked his character.", "Historical laws defined bastardice."],
+          "collocations": ["state of bastardice"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["historical"]
+        }
+      ]
+    },
+    {
+      "term": "bastardies",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bastardy, the condition of being a bastard",
+          "examples": ["Laws addressed bastardies.", "Records list various bastardies.", "The book covers royal bastardies."],
+          "collocations": ["royal bastardies", "prove bastardies"],
+          "synonyms": ["illegitimacies"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["historical", "law"]
+        }
+      ]
+    },
+    {
+      "term": "bastardisation",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of making something into a bastard form or corrupting it",
+          "examples": ["This is bastardisation of the original.", "Critics called it bastardisation.", "Bastardisation ruined the design."],
+          "collocations": ["cultural bastardisation", "artistic bastardisation", "linguistic bastardisation"],
+          "synonyms": ["corruption", "perversion"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bastardisations",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bastardisation, acts of corrupting or debasing",
+          "examples": ["Many bastardisations occurred.", "The list includes bastardisations.", "Avoid such bastardisations."],
+          "collocations": ["various bastardisations", "cultural bastardisations"],
+          "synonyms": ["corruptions"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bastardise",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something corrupt or impure",
+          "examples": ["They bastardise the tradition.", "Don't bastardise the recipe.", "Modern versions bastardise it."],
+          "collocations": ["bastardise tradition", "bastardise language", "completely bastardise"],
+          "synonyms": ["corrupt", "debase"],
+          "antonyms": ["purify"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bastardised",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "corrupted or made impure",
+          "examples": ["This is a bastardised version.", "The bastardised text confused readers.", "Bastardised forms spread widely."],
+          "collocations": ["bastardised version", "bastardised tradition", "heavily bastardised"],
+          "synonyms": ["corrupted", "distorted"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bastardises",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of bastardise, to corrupt",
+          "examples": ["This film bastardises the book.", "He bastardises every story.", "It bastardises the meaning."],
+          "collocations": ["bastardises original", "film bastardises", "culture bastardises"],
+          "synonyms": ["corrupts"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bastardising",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of bastardise, corrupting something",
+          "examples": ["They are bastardising the art.", "Stop bastardising history.", "This process is bastardising it."],
+          "collocations": ["bastardising culture", "bastardising language", "keep bastardising"],
+          "synonyms": ["corrupting"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bastardism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality or condition of being bastardly (rare)",
+          "examples": ["His bastardism offended everyone.", "Bastardism defined his reign.", "The trait showed bastardism."],
+          "collocations": ["pure bastardism"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bastardisms",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bastardism, instances of bastardly behavior",
+          "examples": ["His bastardisms were legendary.", "List the bastardisms.", "Many bastardisms occurred."],
+          "collocations": ["various bastardisms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bastardization",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of making something corrupt or debased (American spelling)",
+          "examples": ["This bastardization ruins it.", "Critics hate the bastardization.", "Bastardization spread quickly."],
+          "collocations": ["cultural bastardization", "artistic bastardization", "complete bastardization"],
+          "synonyms": ["corruption", "perversion"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}
+```

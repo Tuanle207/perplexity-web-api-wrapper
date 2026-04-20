@@ -1,0 +1,864 @@
+{
+  "items": [
+    {
+      "term": "authenticating",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "confirming that something or someone is genuine or valid",
+          "examples": ["The system is authenticating your login details.", "They are authenticating the document."],
+          "collocations": ["authenticating users", "authenticating identity", "authenticating documents", "authenticating access"],
+          "synonyms": ["verifying", "confirming", "validating"],
+          "antonyms": ["rejecting", "invalidating"],
+          "register": null,
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "authentication",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of proving that something is real or that someone is who they claim to be",
+          "examples": ["Two-factor authentication increases security.", "Authentication of the painting took months."],
+          "collocations": ["user authentication", "secure authentication", "authentication process", "biometric authentication"],
+          "synonyms": ["verification", "validation"],
+          "antonyms": ["falsification"],
+          "register": null,
+          "domain": ["technology", "security"]
+        }
+      ]
+    },
+    {
+      "term": "authentications",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple processes of confirming identity or truth",
+          "examples": ["The system requires multiple authentications.", "Failed authentications were logged."],
+          "collocations": ["multiple authentications", "failed authentications", "user authentications"],
+          "synonyms": ["verifications"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "authenticator",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or device that confirms identity or authenticity",
+          "examples": ["Use an authenticator app for login.", "The expert acted as an authenticator."],
+          "collocations": ["authenticator app", "security authenticator", "trusted authenticator"],
+          "synonyms": ["verifier", "validator"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "security"]
+        }
+      ]
+    },
+    {
+      "term": "authenticators",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people or tools that verify authenticity",
+          "examples": ["Modern systems rely on authenticators.", "Authenticators ensure secure access."],
+          "collocations": ["digital authenticators", "trusted authenticators"],
+          "synonyms": ["verifiers"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "authenticities",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "different instances or qualities of being real or genuine",
+          "examples": ["The museum questioned the authenticities of the artifacts."],
+          "collocations": ["question authenticities", "prove authenticities"],
+          "synonyms": ["genuinenesses"],
+          "antonyms": ["fakes"],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "authenticity",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being real, true, or genuine",
+          "examples": ["The authenticity of the painting was confirmed.", "She values authenticity in people."],
+          "collocations": ["prove authenticity", "authenticity of documents", "cultural authenticity"],
+          "synonyms": ["genuineness", "realness"],
+          "antonyms": ["fake", "falsehood"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "authenticly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is real or genuine (nonstandard spelling of authentically)",
+          "examples": ["The dish was authenticly prepared."],
+          "collocations": ["authenticly made"],
+          "synonyms": ["genuinely"],
+          "antonyms": ["falsely"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "authenticness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being authentic (rare form of authenticity)",
+          "examples": ["The authenticness of the story impressed readers."],
+          "collocations": ["authenticness of"],
+          "synonyms": ["authenticity"],
+          "antonyms": ["fakeness"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "authigene",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mineral formed in place within sediment",
+          "examples": ["Authigene minerals form during sedimentation."],
+          "collocations": ["authigene mineral"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "authigenetic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to minerals formed in the place where they are found",
+          "examples": ["Authigenetic processes occur in sediments."],
+          "collocations": ["authigenetic minerals", "authigenetic processes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "authigenic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "formed in the place where it is found",
+          "examples": ["Authigenic crystals developed in the rock."],
+          "collocations": ["authigenic formation", "authigenic minerals"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "authigenous",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "originating where it is found",
+          "examples": ["The deposit is authigenous."],
+          "collocations": ["authigenous origin"],
+          "synonyms": ["authigenic"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "author",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who writes books, articles, or texts",
+          "examples": ["She is the author of the novel.", "The author signed copies."],
+          "collocations": ["famous author", "book author", "author of a novel"],
+          "synonyms": ["writer", "novelist"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "literature"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to write or create a text",
+          "examples": ["He authored several reports."],
+          "collocations": ["author a book", "author a report"],
+          "synonyms": ["write", "compose"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "authorcraft",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "skill in writing or authorship",
+          "examples": ["Her authorcraft is impressive."],
+          "collocations": ["develop authorcraft"],
+          "synonyms": ["writing skill"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "authorcrafts",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple forms or instances of writing skill",
+          "examples": ["Different authorcrafts were displayed."],
+          "collocations": ["varied authorcrafts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "authored",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "wrote or created a text",
+          "examples": ["She authored the article."],
+          "collocations": ["authored a book", "authored a paper"],
+          "synonyms": ["wrote", "composed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "authoress",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female author (old-fashioned term)",
+          "examples": ["The authoress published several novels."],
+          "collocations": ["famous authoress"],
+          "synonyms": ["female writer"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "authoresses",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "female authors (old-fashioned plural)",
+          "examples": ["Several authoresses attended the event."],
+          "collocations": ["Victorian authoresses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "authorhood",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or identity of being an author",
+          "examples": ["He embraced his authorhood."],
+          "collocations": ["sense of authorhood"],
+          "synonyms": ["authorship"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "authorial",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to an author or writing",
+          "examples": ["The authorial voice is clear."],
+          "collocations": ["authorial voice", "authorial intent"],
+          "synonyms": ["writerly"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "authorially",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way relating to an author",
+          "examples": ["The text is authorially controlled."],
+          "collocations": ["authorially driven"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "authoring",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of writing or creating content",
+          "examples": ["Authoring tools help create websites."],
+          "collocations": ["content authoring", "authoring tools"],
+          "synonyms": ["writing", "creation"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "authorings",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "instances of writing or creating texts",
+          "examples": ["His authorings include essays and books."],
+          "collocations": ["various authorings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "authorisable",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be officially approved (British spelling)",
+          "examples": ["This action is authorisable."],
+          "collocations": ["authorisable request"],
+          "synonyms": ["approvable"],
+          "antonyms": ["unauthorisable"],
+          "register": "formal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "authorisation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "official permission to do something (British spelling)",
+          "examples": ["You need authorisation to enter."],
+          "collocations": ["official authorisation", "grant authorisation"],
+          "synonyms": ["permission", "approval"],
+          "antonyms": ["denial"],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "authorisations",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple permissions or approvals",
+          "examples": ["Several authorisations are required."],
+          "collocations": ["security authorisations"],
+          "synonyms": ["permissions"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "authorise",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to give official permission",
+          "examples": ["The manager authorised the payment."],
+          "collocations": ["authorise access", "authorise payment"],
+          "synonyms": ["approve", "permit"],
+          "antonyms": ["deny", "forbid"],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "authorised",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having official permission",
+          "examples": ["Only authorised personnel allowed."],
+          "collocations": ["authorised user", "authorised access"],
+          "synonyms": ["approved", "permitted"],
+          "antonyms": ["unauthorised"],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "authoriser",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who gives permission",
+          "examples": ["The authoriser approved the request."],
+          "collocations": ["payment authoriser"],
+          "synonyms": ["approver"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "authorisers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who grant permission",
+          "examples": ["Authorisers must review each case."],
+          "collocations": ["senior authorisers"],
+          "synonyms": ["approvers"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "authorises",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "gives permission",
+          "examples": ["She authorises all expenses."],
+          "collocations": ["authorises transactions"],
+          "synonyms": ["approves"],
+          "antonyms": ["denies"],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "authorish",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "somewhat like an author or writing style",
+          "examples": ["His tone is authorish."],
+          "collocations": ["authorish style"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "authorising",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "giving permission",
+          "examples": ["They are authorising the request."],
+          "collocations": ["authorising payments"],
+          "synonyms": ["approving"],
+          "antonyms": ["rejecting"],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "authorism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a characteristic style or expression of an author",
+          "examples": ["The novel shows clear authorism."],
+          "collocations": ["distinct authorism"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "authorisms",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "distinctive expressions typical of an author",
+          "examples": ["His authorisms are easy to recognize."],
+          "collocations": ["common authorisms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "authoritarian",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "favoring strict obedience to authority with little freedom",
+          "examples": ["The regime is authoritarian."],
+          "collocations": ["authoritarian government", "authoritarian rule"],
+          "synonyms": ["dictatorial", "strict"],
+          "antonyms": ["democratic"],
+          "register": null,
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "authoritarianism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a system of strict control by authority",
+          "examples": ["The country moved toward authoritarianism."],
+          "collocations": ["rise of authoritarianism"],
+          "synonyms": ["dictatorship"],
+          "antonyms": ["democracy"],
+          "register": null,
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "authoritarianisms",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "different forms of authoritarian systems",
+          "examples": ["Various authoritarianisms exist worldwide."],
+          "collocations": ["forms of authoritarianisms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "authoritarians",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who support strict authority",
+          "examples": ["Authoritarians oppose reforms."],
+          "collocations": ["political authoritarians"],
+          "synonyms": ["hardliners"],
+          "antonyms": ["liberals"],
+          "register": null,
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "authoritative",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "trusted as accurate or official",
+          "examples": ["This is an authoritative source."],
+          "collocations": ["authoritative source", "authoritative guide"],
+          "synonyms": ["reliable", "trusted"],
+          "antonyms": ["unreliable"],
+          "register": null,
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "authoritatively",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a confident and commanding way",
+          "examples": ["She spoke authoritatively."],
+          "collocations": ["speak authoritatively"],
+          "synonyms": ["confidently"],
+          "antonyms": ["uncertainly"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "authoritativeness",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being authoritative",
+          "examples": ["The report's authoritativeness is clear."],
+          "collocations": ["sense of authoritativeness"],
+          "synonyms": ["authority"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "authoritativenesses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple instances of being authoritative",
+          "examples": ["Different authoritativenesses appear in texts."],
+          "collocations": ["varying authoritativenesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "authorities",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people or organizations with power or expertise",
+          "examples": ["Authorities issued a warning.", "He is an authority on history."],
+          "collocations": ["local authorities", "health authorities"],
+          "synonyms": ["officials", "experts"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "authority",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "power to give orders or make decisions",
+          "examples": ["She has authority over the team."],
+          "collocations": ["have authority", "exercise authority"],
+          "synonyms": ["power", "control"],
+          "antonyms": ["weakness"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "authorizable",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be approved (American spelling)",
+          "examples": ["The request is authorizable."],
+          "collocations": ["authorizable action"],
+          "synonyms": ["approvable"],
+          "antonyms": ["unauthorizable"],
+          "register": "formal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "authorization",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "official permission (American spelling)",
+          "examples": ["Authorization is required."],
+          "collocations": ["grant authorization", "authorization code"],
+          "synonyms": ["permission", "approval"],
+          "antonyms": ["denial"],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "authorizations",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple permissions",
+          "examples": ["Several authorizations were needed."],
+          "collocations": ["security authorizations"],
+          "synonyms": ["permissions"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "authorize",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to officially allow something",
+          "examples": ["They authorized the plan."],
+          "collocations": ["authorize access", "authorize payment"],
+          "synonyms": ["approve", "permit"],
+          "antonyms": ["deny", "forbid"],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    }
+  ]
+}

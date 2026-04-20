@@ -1,0 +1,824 @@
+{
+  "items": [
+    {
+      "term": "nontestable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not capable of being tested or proven through testing.",
+          "examples": [
+            "The hypothesis remains nontestable with the current data.",
+            "Some ethical claims are nontestable by experimental means."
+          ],
+          "collocations": ["nontestable hypothesis", "nontestable claim", "unable to be tested"],
+          "synonyms": ["unverifiable", "untestable"],
+          "antonyms": ["testable", "verifiable"],
+          "register": "neutral",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "nontestamentary",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not related to or derived from a will or testament; not governed by a will.",
+          "examples": [
+            "The property passed by intestate succession, not by a nontestamentary provision.",
+            "Nontestamentary guardianship provisions were invoked."
+          ],
+          "collocations": ["nontestamentary provision", "nontestamentary transfer"],
+          "synonyms": ["intestate-related", "non-testamentary"],
+          "antonyms": ["testamentary"],
+          "register": "formal",
+          "domain": ["law", "legal"]
+        }
+      ]
+    },
+    {
+      "term": "nontesting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of not conducting tests; avoidance of testing.",
+          "examples": [
+            "The study faced criticism for nontesting of some variables.",
+            "Policy debates focused on the ethics of nontesting in trials."
+          ],
+          "collocations": ["nontesting phase", "nontesting policy", "nontesting approach"],
+          "synonyms": ["non-testing", "no testing"],
+          "antonyms": ["testing", "tests"],
+          "register": "formal",
+          "domain": ["science", "ethics", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "nontextual",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not related to text or written words; expressed without text.",
+          "examples": [
+            "Nontextual elements like images and diagrams illustrated the concept.",
+            "The presentation relied on nontextual cues such as graphs."
+          ],
+          "collocations": ["nontextual information", "nontextual content"],
+          "synonyms": ["nonverbal", "visual"],
+          "antonyms": ["textual"],
+          "register": "neutral",
+          "domain": ["education", "communication", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nontextually",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nontextual manner; not using text or words.",
+          "examples": [
+            "The diagram conveyed the idea nontextually.",
+            "Information was presented nontextually to aid comprehension."
+          ],
+          "collocations": ["presented nontextually", "nontextually interpreted"],
+          "synonyms": ["nonverbally", "visually"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "communication"]
+        }
+      ]
+    },
+    {
+      "term": "nontextural",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not having a texture or texture-like quality; without a surface texture.",
+          "examples": [
+            "The fabric is nontextural and smooth to the touch.",
+            "Some materials are nontextural and uniform in appearance."
+          ],
+          "collocations": ["nontextural material", "nontextural surface"],
+          "synonyms": ["smooth", "untextured"],
+          "antonyms": ["textured", "textural"],
+          "register": "neutral",
+          "domain": ["material science", "design"]
+        }
+      ]
+    },
+    {
+      "term": "nontexturally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nontextural way; lacking texture.",
+          "examples": [
+            "The paint was applied nontexturally.",
+            "The surface appeared nontexturally even."
+          ],
+          "collocations": ["applied nontexturally", "nontexturally smooth"],
+          "synonyms": ["untexturally"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["material science", "art"]
+        }
+      ]
+    },
+    {
+      "term": "nontheatric",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not theatrical; lacking stage or theater characteristics.",
+          "examples": [
+            "The production was nontheatric, focusing on prose rather than spectacle.",
+            "Nontheatric venues differ from traditional theaters."
+          ],
+          "collocations": ["nontheatric production", "nontheatric venue"],
+          "synonyms": ["non-theatrical", "theaterless"],
+          "antonyms": ["theatrical", "stagey"],
+          "register": "formal",
+          "domain": ["theater", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "nontheatrical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not related to theater or stage performance.",
+          "examples": [
+            "They organized nontheatrical events like readings and concerts.",
+            "Nontheatrical spaces can host community gatherings."
+          ],
+          "collocations": ["nontheatrical event", "nontheatrical space"],
+          "synonyms": ["non-theatrical", "nonstage"],
+          "antonyms": ["theatrical"],
+          "register": "neutral",
+          "domain": ["arts", "community"]
+        }
+      ]
+    },
+    {
+      "term": "nontheatrically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nontheatrical manner; without theater elements.",
+          "examples": [
+            "The event was presented nontheatrically.",
+            "Nontheatrically themed discussions occurred after the readings."
+          ],
+          "collocations": ["presented nontheatrically", "nontheatrically organized"],
+          "synonyms": ["non-theatrically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nontheist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who does not believe in a god or gods.",
+          "examples": [
+            "She identifies as a nontheist and values secular ethics.",
+            "The group welcomes nontheists as members."
+          ],
+          "collocations": ["nontheist thinker", "nontheist community"],
+          "synonyms": ["atheist (contextual)", "nonbeliever"],
+          "antonyms": ["theist"],
+          "register": "neutral",
+          "domain": ["religion", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "nontheistic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not involving belief in God or gods; not theistic.",
+          "examples": [
+            "Nontheistic perspectives emphasize human-centered ethics.",
+            "The nontheistic worldview differs from traditional religious doctrines."
+          ],
+          "collocations": ["nontheistic framework", "nontheistic philosophy"],
+          "synonyms": ["atheistic", "non-theistic"],
+          "antonyms": ["theistic"],
+          "register": "neutral",
+          "domain": ["religion", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "nontheistical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not relating to or supporting theistic beliefs; not theistic.",
+          "examples": [
+            "A nontheistical approach favors secular explanations.",
+            "Some nontheistical arguments rely on empirical evidence."
+          ],
+          "collocations": ["nontheistical argument", "nontheistical stance"],
+          "synonyms": ["non-theistic", "atheistic"],
+          "antonyms": ["theistic"],
+          "register": "neutral",
+          "domain": ["philosophy", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "nontheistically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nontheistic manner; without belief in God or gods.",
+          "examples": [
+            "They argued nontheistically for secular governance.",
+            "Her views were expressed nontheistically during the panel."
+          ],
+          "collocations": ["spoke nontheistically", "nontheistically framed"],
+          "synonyms": ["atheistically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["religion", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "nontheists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who do not believe in God or gods; plural of nontheist.",
+          "examples": [
+            "The conference included several prominent nontheists.",
+            "Nontheists often discuss ethics independently of religious doctrine."
+          ],
+          "collocations": ["nontheists group", "nontheists community"],
+          "synonyms": ["nonbelievers"],
+          "antonyms": ["theists"],
+          "register": "neutral",
+          "domain": ["religion", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "nonthematic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not related to a central theme or subject; lacking a theme.",
+          "examples": [
+            "The lecture was nonthematic and covered a broad range of topics.",
+            "A nonthematic design avoids a single unifying motif."
+          ],
+          "collocations": ["nonthematic approach", "nonthematic design"],
+          "synonyms": ["unspecific", "non-thematic"],
+          "antonyms": ["thematic"],
+          "register": "neutral",
+          "domain": ["education", "design"]
+        }
+      ]
+    },
+    {
+      "term": "nonthematically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonthematic manner; without a central theme.",
+          "examples": [
+            "The course was taught nonthematically.",
+            "Ideas were presented nonthematically to encourage exploration."
+          ],
+          "collocations": ["discussed nonthematically", "nonthematically organized"],
+          "synonyms": ["non-thematically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "communication"]
+        }
+      ]
+    },
+    {
+      "term": "nontheocratic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not pertaining to rule by a theocracy; not governed by religious authorities.",
+          "examples": [
+            "A nontheocratic state separation separates church and state.",
+            "Nontheocratic policies emphasize civil rights over religious law."
+          ],
+          "collocations": ["nontheocratic government", "nontheocratic policies"],
+          "synonyms": ["secular", "non-theocratic"],
+          "antonyms": ["theocratic"],
+          "register": "formal",
+          "domain": ["government", "law", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "nontheocratical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not related to or governed by a theocracy; secular.",
+          "examples": [
+            "A nontheocratical institution maintains secular governance.",
+            "Nontheocratical perspectives support separation of religion and state."
+          ],
+          "collocations": ["nontheocratical system", "nontheocratical ideology"],
+          "synonyms": ["secular", "non-theocratic"],
+          "antonyms": ["theocratic"],
+          "register": "formal",
+          "domain": ["law", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "nontheocratically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nontheocratic manner; not governed by a theocracy.",
+          "examples": [
+            "Policies were shaped nontheocratically to ensure equality.",
+            "The organization operates nontheocratically."
+          ],
+          "collocations": ["governed nontheocratically", "nontheocratically framed"],
+          "synonyms": ["secularly"],
+          "antonyms": ["theocratically"],
+          "register": "neutral",
+          "domain": ["law", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "nontheologic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not related to theology; not theological.",
+          "examples": [
+            "The essay offered a nontheologic interpretation of history.",
+            "Nontheologic arguments were used to support secular ethics."
+          ],
+          "collocations": ["nontheologic interpretation", "nontheologic stance"],
+          "synonyms": ["non-theologic", "secular"],
+          "antonyms": ["theologic", "theological"],
+          "register": "neutral",
+          "domain": ["religion", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "nontheological",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not related to theology; not theological.",
+          "examples": [
+            "A nontheological framework focuses on empirical evidence.",
+            "Nontheological critiques of religion exist in academic debate."
+          ],
+          "collocations": ["nontheological framework", "nontheological critique"],
+          "synonyms": ["secular", "non-theological"],
+          "antonyms": ["theological"],
+          "register": "neutral",
+          "domain": ["religion", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "nontheologically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nontheological manner; not theologically framed.",
+          "examples": [
+            "The study is nontheologically oriented.",
+            "Nontheologically argued positions were presented."
+          ],
+          "collocations": ["nontheologically oriented", "nontheologically framed"],
+          "synonyms": ["secularly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["religion", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoretic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not theoretical; lacking a formal or abstract theory.",
+          "examples": [
+            "The argument was nontheoretic and based on practical evidence.",
+            "A nontheoretic approach can be more applicable to real-world problems."
+          ],
+          "collocations": ["nontheoretic discussion", "nontheoretic framework"],
+          "synonyms": ["practical", "empirical"],
+          "antonyms": ["theoretic", "theoretical"],
+          "register": "neutral",
+          "domain": ["education", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoretical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not based on theory; empirical or practical.",
+          "examples": [
+            "A nontheoretical method was chosen for its simplicity.",
+            "Nontheoretical considerations guided the experiment."
+          ],
+          "collocations": ["nontheoretical basis", "nontheoretical method"],
+          "synonyms": ["empirical", "practical"],
+          "antonyms": ["theoretical"],
+          "register": "neutral",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoretically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nontheoretical way; based on practice rather than theory.",
+          "examples": [
+            "The model was developed nontheoretically.",
+            "They approached the problem nontheoretically."
+          ],
+          "collocations": ["nontheoretically justified", "nontheoretically tested"],
+          "synonyms": ["empirically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoretic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not based on theory; practical.",
+          "examples": [
+            "Her nontheoretic conclusions were supported by data.",
+            "A nontheoretic framework is often easier to apply."
+          ],
+          "collocations": ["nontheoretic approach", "nontheoretic conclusions"],
+          "synonyms": ["practical", "empirical"],
+          "antonyms": ["theoretical"],
+          "register": "neutral",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoretically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nontheoretic manner; practically.",
+          "examples": [
+            "The data were analyzed nontheoretically.",
+            "They approached the project nontheoretically."
+          ],
+          "collocations": ["nontheoretically evaluated", "nontheoretically approached"],
+          "synonyms": ["practically", "empirically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoretically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nontheoretically manner; practically.",
+          "examples": [
+            "The framework was applied nontheoretically.",
+            "Nontheoretically oriented analyses were conducted."
+          ],
+          "collocations": ["applied nontheoretically", "analyzed nontheoretically"],
+          "synonyms": ["empirically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoreticals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people or ideas that are not theoretical; practical thinkers.",
+          "examples": [
+            "The group includes nontheoreticals who prefer data-driven methods.",
+            "Nontheoreticals emphasized hands-on experimentation."
+          ],
+          "collocations": ["nontheoreticals group", "nontheoreticals method"],
+          "synonyms": ["pragmatists", "empiricists"],
+          "antonyms": ["theorists"],
+          "register": "neutral",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoreticals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who are not theoretical; practical thinkers.",
+          "examples": [
+            "In the discussion, nontheoreticalists contributed practical insights.",
+            "Nontheoreticals favored applied research."
+          ],
+          "collocations": ["nontheoreticals group", "nontheoreticals perspective"],
+          "synonyms": ["pragmatists", "empiricists"],
+          "antonyms": ["theorists"],
+          "register": "neutral",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoretically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nontheoretical manner; practically.",
+          "examples": [
+            "Arguments were nontheoretically grounded.",
+            "They approached the issue nontheoretically."
+          ],
+          "collocations": ["nontheoretically grounded", "nontheoretically applied"],
+          "synonyms": ["practically", "empirically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoreticals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who emphasize practical rather than theoretical approaches.",
+          "examples": [
+            "The conference welcomed nontheoreticals from industry.",
+            "Nontheoreticals argued for cost-effective methods."
+          ],
+          "collocations": ["nontheoreticals group", "nontheoreticals stance"],
+          "synonyms": ["pragmatists", "empiricists"],
+          "antonyms": ["theorists"],
+          "register": "neutral",
+          "domain": ["science", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoretically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nontheoretical way; practically.",
+          "examples": [
+            "The solution was nontheoretically justified by data.",
+            "They argued nontheoretically for market-based solutions."
+          ],
+          "collocations": ["nontheoretically justified", "nontheoretically argued"],
+          "synonyms": ["practically", "empirically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoreticals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who prefer practical over theoretical approaches.",
+          "examples": [
+            "Nontheoreticals on the panel brought pragmatic viewpoints.",
+            "The audience included many nontheoreticals."
+          ],
+          "collocations": ["nontheoreticals group", "nontheoreticals view"],
+          "synonyms": ["pragmatists", "empiricists"],
+          "antonyms": ["theorists"],
+          "register": "neutral",
+          "domain": ["science", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoreticals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who focus on practical application rather than theory.",
+          "examples": [
+            "Nontheoreticals contributed practical case studies.",
+            "The project attracted several nontheoretical researchers."
+          ],
+          "collocations": ["nontheoreticals group", "nontheoreticals approach"],
+          "synonyms": ["pragmatists"],
+          "antonyms": ["theorists"],
+          "register": "neutral",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoretically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nontheoretical manner; practically.",
+          "examples": [
+            "The team moved forward nontheoretically.",
+            "Nontheoretically oriented methods were used."
+          ],
+          "collocations": ["nontheoretically oriented", "nontheoretically applied"],
+          "synonyms": ["practically", "empirically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoreticals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who adopt practical, non-theoretical approaches.",
+          "examples": [
+            "Nontheoreticals favored funded pilot projects.",
+            "A mix of theoreticals and nontheoreticals attended."
+          ],
+          "collocations": ["nontheoreticals group", "nontheoreticals perspective"],
+          "synonyms": ["pragmatists"],
+          "antonyms": ["theorists"],
+          "register": "neutral",
+          "domain": ["science", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoretically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nontheoretical manner; practically.",
+          "examples": [
+            "The method was approached nontheoretically.",
+            "Nontheoretically, the solution relied on data."
+          ],
+          "collocations": ["nontheoretically justified", "nontheoretically oriented"],
+          "synonyms": ["practically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoreticals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who emphasize practical over theoretical aspects.",
+          "examples": [
+            "Nontheoreticals contributed real-world case studies.",
+            "The conference highlighted nontheoreticals."
+          ],
+          "collocations": ["nontheoreticals group", "nontheoreticals stance"],
+          "synonyms": ["pragmatists", "empiricists"],
+          "antonyms": ["theorists"],
+          "register": "neutral",
+          "domain": ["science", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nontheoretically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nontheoretical way; practically.",
+          "examples": [
+            "They argued nontheoretically for evidence-based policies.",
+            "The approach was nontheoretically grounded."
+          ],
+          "collocations": ["nontheoretically justified", "nontheoretically grounded"],
+          "synonyms": ["practically", "empirically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["policy", "science"]
+        }
+      ]
+    }
+  ]
+}

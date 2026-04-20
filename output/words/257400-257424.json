@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "term": "nullus",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "num",
+      "kind": "abbreviation",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "numa",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "numac",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "numantine",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "numb",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having lost the ability to feel pain or to feel sensation; also feeling nothing or little emotionally.",
+          "examples": [
+            "Her fingers were numb from the cold.",
+            "He stood there with numb hands, unable to move."
+          ],
+          "collocations": [
+            "numb with",
+            "completely numb",
+            "feel numb",
+            "numb the pain"
+          ],
+          "synonyms": ["unfeeling", "insensitive", "senseless"],
+          "antonyms": ["sensitive", "feeling", "tactile"],
+          "register": "neutral",
+          "domain": ["general", "everyday", "medicine"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To cause to lose sensation or feeling, or to become insensitive.",
+          "examples": [
+            "Cold water can numb the fingers.",
+            "The anesthetic will numb the area before the procedure."
+          ],
+          "collocations": [
+            "numb the surface",
+            "numb the pain",
+            "numb with cold"
+          ],
+          "synonyms": ["benumb", "deadening"],
+          "antonyms": ["stimulate", "energize", "revive"],
+          "register": "neutral",
+          "domain": ["medical", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "numbat",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small Australian mammal with a striped back and long tongue, which eats termites.",
+          "examples": [
+            "The numbats was spotted foraging in the eucalyptus forest.",
+            "Numbats are active during the day in some regions."
+          ],
+          "collocations": [
+            "hill numbats",
+            "native numbats",
+            "termite-eating numbats"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "nature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "numbats",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "numbed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having lost feeling or sensation, often due to cold or anesthesia.",
+          "examples": [
+            "Her feet were numbed after standing in the snow for hours.",
+            "The mouth felt numbed after the dentist visit."
+          ],
+          "collocations": [
+            "numbed by the cold",
+            "numbed tongue",
+            "numbed with anesthesia"
+          ],
+          "synonyms": ["benumbed", "insensitive"],
+          "antonyms": ["sensitive", "feeling"],
+          "register": "neutral",
+          "domain": ["general", "medical"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Past tense of numb; to cause to lose feeling or sensation.",
+          "examples": [
+            "The cold air numbed his fingers.",
+            "The anesthetic numbed the area quickly."
+          ],
+          "collocations": [
+            "numbed the room",
+            "numbed his hands"
+          ],
+          "synonyms": ["benumbed"],
+          "antonyms": ["reawakened", "stimulated"],
+          "register": "neutral",
+          "domain": ["general", "medical"]
+        }
+      ]
+    },
+    {
+      "term": "numbness",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A partial or complete loss of feeling in a part of the body.",
+          "examples": [
+            "There was numbness in her toes after the cold swim.",
+            "Numbness can be a side effect of some medications."
+          ],
+          "collocations": [
+            "toes numbness",
+            "numbness in fingers",
+            "loss of numbness"
+          ],
+          "synonyms": ["benumbment", "insensitivity"],
+          "antonyms": ["sensation", "feeling"],
+          "register": "neutral",
+          "domain": ["medical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "number",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A mathematical value used to count or label things.",
+          "examples": [
+            "What number is your house?",
+            "Add the numbers to get the total."
+          ],
+          "collocations": [
+            "phone number",
+            "room number",
+            "high numbers"
+          ],
+          "synonyms": ["digit", "figure"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education", "technology"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To count or assign a number to something.",
+          "examples": [
+            "Please number the pages.",
+            "The seats are numbered for the concert."
+          ],
+          "collocations": [
+            "number the pages",
+            "number the events"
+          ],
+          "synonyms": ["quantify", "count"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "More than one; many.",
+          "examples": [
+            "She has a number of books.",
+            "There are a number of options to consider."
+          ],
+          "collocations": [
+            "a number of",
+            "numerous numbers"
+          ],
+          "synonyms": ["several", "many"],
+          "antonyms": ["few", "none"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "numberable",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "numbered",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a number assigned or shown on something.",
+          "examples": [
+            "The numbered seats were easy to find.",
+            "Each page is numbered at the bottom."
+          ],
+          "collocations": [
+            "numbered list",
+            "numbered seats"
+          ],
+          "synonyms": ["labelled", "tagged"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "numberer",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "numberers",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "numberful",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "numbering",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of assigning numbers to items in a list or sequence.",
+          "examples": [
+            "The numbering of sections helps readers navigate the document.",
+            "Numbering is clear and consistent."
+          ],
+          "collocations": [
+            "page numbering",
+            "section numbering",
+            "continuous numbering"
+          ],
+          "synonyms": ["labeling", "ordering"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Present participle of number; to assign numbers to items.",
+          "examples": [
+            "They are numbering the chapters before printing.",
+            "We are numbering the invoices for tracking."
+          ],
+          "collocations": [
+            "numbering pages",
+            "numbering items"
+          ],
+          "synonyms": ["labeling", "ordering"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "numberings",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "numberless",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Without a number or not requiring a number.",
+          "examples": [
+            "The document had a numberless list of items.",
+            "A numberless crowd gathered outside."
+          ],
+          "collocations": [
+            "numberless list",
+            "numberless crowd"
+          ],
+          "synonyms": ["unnumbered", "untagged"],
+          "antonyms": ["numbered"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "numberlessly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "numberlessness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "numberous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "numberplate",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A plate attached to a vehicle that shows its registration number.",
+          "examples": [
+            "The numberplate was partially obscured by mud.",
+            "He changed his numberplate for privacy."
+          ],
+          "collocations": [
+            "license plate",
+            "car numberplate",
+            "front numberplate"
+          ],
+          "synonyms": ["license plate", "registration plate"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transport", "law"]
+        }
+      ]
+    },
+    {
+      "term": "numberplates",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "numbers",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple digits used to count or label things; more than one number.",
+          "examples": [
+            "She can count to ten and knows many numbers.",
+            "We wrote the numbers in sequence."
+          ],
+          "collocations": [
+            "phone numbers",
+            "bank numbers",
+            "random numbers"
+          ],
+          "synonyms": ["digits", "figures"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "general"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+```json
+{
+  "items": [
+    {
+      "term": "basidorsal",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the base and dorsal (back) part in anatomy or biology",
+          "examples": ["The basidorsal region of the bone was examined.", "Basidorsal muscles play a role in movement."],
+          "collocations": ["basidorsal region", "basidorsal muscle", "basidorsal part", "basidorsal anatomy"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anatomy", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "basifacial",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the base of the face in anatomy",
+          "examples": ["Basifacial measurements help in facial reconstruction.", "The basifacial angle varies among individuals."],
+          "collocations": ["basifacial angle", "basifacial structure", "basifacial region"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "basification",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of making something more basic (with higher pH) in chemistry",
+          "examples": ["Basification is used to extract alkaloids.", "The basification step follows acidification."],
+          "collocations": ["basification process", "basification step", "chemical basification", "alkaline basification"],
+          "synonyms": ["alkalization"],
+          "antonyms": ["acidification"],
+          "register": null,
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "basifications",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basification; multiple instances of making something basic",
+          "examples": ["Various basifications were performed in the lab.", "The basifications yielded different results."],
+          "collocations": ["multiple basifications", "series of basifications"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "basified",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense or participle of basify; made basic",
+          "examples": ["The solution was basified with sodium hydroxide.", "The mixture had been basified before testing."],
+          "collocations": ["basified solution", "basified mixture", "basified extract"],
+          "synonyms": ["alkalized"],
+          "antonyms": ["acidified"],
+          "register": null,
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "basifier",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance used to basify or make something basic",
+          "examples": ["Sodium hydroxide acts as a strong basifier.", "Choose a mild basifier for delicate reactions."],
+          "collocations": ["strong basifier", "mild basifier", "chemical basifier"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "basifiers",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basifier; multiple substances for basifying",
+          "examples": ["Common basifiers include amines and hydroxides.", "Test different basifiers for best results."],
+          "collocations": ["common basifiers", "various basifiers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "basifies",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of basify; makes basic",
+          "examples": ["The reagent basifies the solution quickly.", "This process basifies acidic waste."],
+          "collocations": ["basifies solution", "basifies mixture"],
+          "synonyms": ["alkalizes"],
+          "antonyms": ["acidifies"],
+          "register": null,
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "basifixed",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "attached or fixed at the base, especially of plant parts",
+          "examples": ["The basifixed anthers do not dehisce easily.", "Basifixed leaves grow from the stem base."],
+          "collocations": ["basifixed anthers", "basifixed stamens", "basifixed leaves"],
+          "synonyms": [],
+          "antonyms": ["apically fixed"],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "basifugal",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "developing or growing from the base outward in biology",
+          "examples": ["Basifugal growth is seen in certain fungi.", "The basifugal pattern spreads from base to tip."],
+          "collocations": ["basifugal growth", "basifugal development", "basifugal pattern"],
+          "synonyms": [],
+          "antonyms": ["acropetal"],
+          "register": null,
+          "domain": ["biology", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "basify",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make a solution more basic by adding a base",
+          "examples": ["Basify the mixture with ammonia.", "Chemists basify extracts to precipitate compounds."],
+          "collocations": ["basify solution", "basify extract", "basify with alkali"],
+          "synonyms": ["alkalize"],
+          "antonyms": ["acidify"],
+          "register": null,
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "basifying",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of basify; process of making basic",
+          "examples": ["She is basifying the sample now.", "Basifying helps separate the layers."],
+          "collocations": ["basifying solution", "basifying process"],
+          "synonyms": ["alkalizing"],
+          "antonyms": ["acidifying"],
+          "register": null,
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "basigamous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a short base to the stalk in botanical terms",
+          "examples": ["Basigamous flowers have unique structures.", "This species is basigamous."],
+          "collocations": ["basigamous flowers", "basigamous stalks"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "basigamy",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "condition of having a short basal stalk in plants",
+          "examples": ["Basigamy characterizes this plant family.", "Study basigamy in floral morphology."],
+          "collocations": ["floral basigamy", "plant basigamy"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "basigenic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "produced by or originating from the base",
+          "examples": ["Basigenic tissues form new growth.", "Basigenic cells divide rapidly."],
+          "collocations": ["basigenic tissues", "basigenic cells", "basigenic growth"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "basigenous",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "growing or living near the ground or base",
+          "examples": ["Basigenous plants thrive in low areas.", "Mosses are often basigenous."],
+          "collocations": ["basigenous plants", "basigenous mosses", "basigenous vegetation"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "basiglandular",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having glands at the base in biological structures",
+          "examples": ["The basiglandular leaf has scent glands.", "Basiglandular petals attract pollinators."],
+          "collocations": ["basiglandular leaves", "basiglandular petals"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "basigynium",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a basal structure surrounding the ovary in some plants",
+          "examples": ["The basigynium protects the flower base.", "Examine the basigynium under microscope."],
+          "collocations": ["floral basigynium", "plant basigynium"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "basihyal",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the base of the hyoid bone or structure",
+          "examples": ["The basihyal plate supports the tongue.", "Basihyal elements vary in fish."],
+          "collocations": ["basihyal bone", "basihyal plate", "basihyal structure"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anatomy", "zoology"]
+        }
+      ]
+    },
+    {
+      "term": "basihyoid",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "pertaining to the basal part of the hyoid apparatus",
+          "examples": ["Basihyoid bones anchor muscles.", "The basihyoid region was fractured."],
+          "collocations": ["basihyoid bone", "basihyoid apparatus", "basihyoid muscle"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "basij",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Iranian paramilitary volunteer militia, Basij Resistance Force",
+          "examples": ["The Basij helps with disaster relief.", "Basij members support national security."],
+          "collocations": ["Basij forces", "Basij militia", "Basij volunteers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["politics", "military"]
+        }
+      ]
+    },
+    {
+      "term": "basil",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant with aromatic leaves used as a herb in cooking",
+          "examples": ["Add fresh basil to the pasta sauce.", "I grow basil in my kitchen garden.", "Basil pairs well with tomatoes."],
+          "collocations": ["fresh basil", "dried basil", "basil leaves", "sweet basil", "basil pesto"],
+          "synonyms": ["sweet basil"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["cooking", "botany", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "name of a male person, especially Saint Basil",
+          "examples": ["Basil is a popular name in some cultures.", "Saint Basil was an early church father."],
+          "collocations": ["Saint Basil"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["names"]
+        }
+      ]
+    },
+    {
+      "term": "basilar",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the base, especially of the skull or brain",
+          "examples": ["The basilar artery supplies blood to the brain.", "Basilar meningitis affects the skull base."],
+          "collocations": ["basilar artery", "basilar membrane", "basilar skull fracture"],
+          "synonyms": ["basal"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anatomy", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "basilarchia",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "historical term for imperial rule or Byzantine emperorship",
+          "examples": ["Basilarchia refers to the emperor's power.", "Study basilarchia in Byzantine history."],
+          "collocations": ["Byzantine basilarchia"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "basilard",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a medieval dagger with a cross-shaped hilt",
+          "examples": ["The knight carried a basilard.", "Basilards were popular in the 14th century."],
+          "collocations": ["medieval basilard", "dagger basilard"],
+          "synonyms": ["baselard"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "weapons"]
+        }
+      ]
+    }
+  ]
+}
+```

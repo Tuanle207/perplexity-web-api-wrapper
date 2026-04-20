@@ -1,0 +1,610 @@
+{
+  "items": [
+    {
+      "term": "nonpersistency",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality or state of not lasting or remaining in existence or memory",
+          "examples": [
+            "The nonpersistency of the data makes it hard to rely on the results.",
+            "Experts warned about the nonpersistency of the policy effects over time."
+          ],
+          "collocations": [
+            "data",
+            "memory",
+            "effects",
+            "system",
+            "behavior"
+          ],
+          "synonyms": ["transience", "ephemerality", "short-lived nature"],
+          "antonyms": ["persistence", "durability", "permanence"],
+          "register": "neutral",
+          "domain": ["general", "science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nonpersistent",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not lasting; not able to stay in existence or memory for long",
+          "examples": [
+            "The device is nonpersistent and loses data quickly when powered off.",
+            "Nonpersistent memory is cleared when the program ends."
+          ],
+          "collocations": [
+            "memory",
+            "data",
+            "storage",
+            "limit",
+            "altitude" 
+          ],
+          "synonyms": ["short-lived", "transient", "temporary"],
+          "antonyms": ["persistent", "durable", "long-lasting"],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonpersistently",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner that does not last or remain; briefly",
+          "examples": [
+            "The data is stored nonpersistently, so it will be erased after shutdown.",
+            "Nonpersistently saved results are not kept for future use."
+          ],
+          "collocations": [
+            "stored",
+            "saved",
+            "erased",
+            "after"
+          ],
+          "synonyms": ["transiently", "temporarily"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonpersisting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not able to persist or endure; not staying in memory or existence",
+          "examples": [
+            "Nonpersisting data may require frequent backups.",
+            "The nonpersisting effect faded after a few hours."
+          ],
+          "collocations": [
+            "data",
+            "effect",
+            "memory",
+            "policy"
+          ],
+          "synonyms": ["transitory", "ephemeral"],
+          "antonyms": ["persistent", "lasting"],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonperson",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is not considered or treated as a person; an object or nonhuman entity in a social sense",
+          "examples": [
+            "The policy treated the individual as a nonperson in the debate.",
+            "The image portrayed the robot as a nonperson rather than a person."
+          ],
+          "collocations": [
+            "policy",
+            "treatment",
+            "robot",
+            "debate"
+          ],
+          "synonyms": ["nonhuman", "object", "dehumanized person"],
+          "antonyms": ["person", "human being"],
+          "register": "neutral",
+          "domain": ["society", "ethics", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nonpersonal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not relating to a specific person; impersonal",
+          "examples": [
+            "The letter was nonpersonal and used a formal tone.",
+            "Nonpersonal data is aggregated and anonymous."
+          ],
+          "collocations": [
+            "data",
+            "tone",
+            "communication",
+            "use"
+          ],
+          "synonyms": ["impersonal", "generic", "anonymous"],
+          "antonyms": ["personal", "individual"],
+          "register": "neutral",
+          "domain": ["general", "business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nonpersonally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonpersonal way; without reference to a specific person",
+          "examples": [
+            "The data was collected nonpersonally to protect privacy.",
+            "Names were omitted nonpersonally in the report."
+          ],
+          "collocations": [
+            "collected",
+            "omitted",
+            "protected",
+            "privacy"
+          ],
+          "synonyms": ["impersonally", "generally"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["privacy", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonpersonification",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the absence of personification; failure to attribute human traits to something",
+          "examples": [
+            "The nonpersonification of the machine made it feel less relatable.",
+            "Scholars discussed the concept of nonpersonification in animation."
+          ],
+          "collocations": [
+            "machine",
+            "art",
+            "animation",
+            "concept"
+          ],
+          "synonyms": ["dehumanization", "absence of personification"],
+          "antonyms": ["personification", "anthropomorphism"],
+          "register": "neutral",
+          "domain": ["arts", "philosophy", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "nonpersons",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nonperson; people treated as nonpersons",
+          "examples": [
+            "The policy harmed nonpersons by denying them basic rights.",
+            "The film depicted a world where nonpersons lacked social status."
+          ],
+          "collocations": [
+            "policy",
+            "rights",
+            "society",
+            "film"
+          ],
+          "synonyms": ["dehumanized people", "nonhuman entities"],
+          "antonyms": ["persons", "people"],
+          "register": "neutral",
+          "domain": ["society", "ethics", "media"]
+        }
+      ]
+    },
+    {
+      "term": "nonperspective",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the absence of perspective; a lack of viewpoint or angle",
+          "examples": [
+            "The essay suffered from nonperspective, failing to consider alternative viewpoints.",
+            "Nonperspective analysis can limit understanding."
+          ],
+          "collocations": [
+            "perspective",
+            "viewpoint",
+            "analysis"
+          ],
+          "synonyms": ["ignorance of viewpoint", "one-sidedness"],
+          "antonyms": ["perspective", "viewpoint"],
+          "register": "neutral",
+          "domain": ["academia", "critique", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonpersuadable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not able to be persuaded or convinced",
+          "examples": [
+            "The audience was nonpersuadable despite the evidence.",
+            "Advertisers try to reach nonpersuadable segments with different approaches."
+          ],
+          "collocations": [
+            "audience",
+            "group",
+            "evidence",
+            "arguments"
+          ],
+          "synonyms": ["unpersuadable", "inflexible", "immune"],
+          "antonyms": ["persuadable", "amenable"],
+          "register": "neutral",
+          "domain": ["psychology", "marketing", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonpersuasible",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not able to be persuaded or convincing; alternative spelling variant of nonpersuadable",
+          "examples": [
+            "The argument was deemed nonpersuasible by some critics."
+          ],
+          "collocations": [
+            "argument",
+            "critic",
+            "debate"
+          ],
+          "synonyms": ["unpersuadable", "inflexible"],
+          "antonyms": ["persuadable"],
+          "register": "neutral",
+          "domain": ["logic", "communication", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonpersuasive",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not able to persuade; lacking persuasive power",
+          "examples": [
+            "The speech was nonpersuasive and failed to change minds.",
+            "Nonpersuasive arguments weakened the case."
+          ],
+          "collocations": [
+            "speech",
+            "argument",
+            "case",
+            "presentation"
+          ],
+          "synonyms": ["unconvincing", "weak", "ineffective"],
+          "antonyms": ["persuasive", "convincing"],
+          "register": "neutral",
+          "domain": ["communication", "business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonpersuasively",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonpersuasive way; without convincing power",
+          "examples": [
+            "The speaker argued nonpersuasively, leaving the audience unmoved."
+          ],
+          "collocations": [
+            "argue",
+            "speak",
+            "present"
+          ],
+          "synonyms": ["unconvincingly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["communication", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonpersuasiveness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being not persuasive or convincing",
+          "examples": [
+            "The report's nonpersuasiveness undermined its impact."
+          ],
+          "collocations": [
+            "quality",
+            "impact",
+            "report",
+            "argument"
+          ],
+          "synonyms": ["unpersuasiveness", "ineffectiveness"],
+          "antonyms": ["persuasiveness", "convincingness"],
+          "register": "neutral",
+          "domain": ["writing", "communication", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonpertinence",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being irrelevant or not pertaining to the matter",
+          "examples": [
+            "The remark showed nonpertinence to the topic at hand.",
+            "Nonpertinence weakened the coherence of the discussion."
+          ],
+          "collocations": [
+            "remark",
+            "topic",
+            "discussion"
+          ],
+          "synonyms": ["irrelevance", "impertinence"],
+          "antonyms": ["pertinence", "relevance"],
+          "register": "neutral",
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonpertinency",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of not being pertinent or relevant",
+          "examples": [
+            "Nonpertinency was noted in several side remarks."
+          ],
+          "collocations": [
+            "state",
+            "remarks",
+            "topic"
+          ],
+          "synonyms": ["irrelevance", "impertinence"],
+          "antonyms": ["pertinence", "relevance"],
+          "register": "neutral",
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonpertinent",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not pertinent; irrelevant to the matter",
+          "examples": [
+            "The side note was nonpertinent to the main argument.",
+            "Nonpertinent details cluttered the report."
+          ],
+          "collocations": [
+            "note",
+            "details",
+            "argument",
+            "report"
+          ],
+          "synonyms": ["irrelevant", "extraneous"],
+          "antonyms": ["pertinent", "relevant"],
+          "register": "neutral",
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonpertinently",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonpertinent or irrelevant way",
+          "examples": [
+            "The speaker spoke nonpertinently about unrelated topics."
+          ],
+          "collocations": [
+            "spoke",
+            "about",
+            "topics"
+          ],
+          "synonyms": ["irrelevantly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["academic", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonperturbable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not able to be perturbed or disrupted; stable",
+          "examples": [
+            "The system is designed to be nonperturbable under load.",
+            "Nonperturbable processes reduce risk of failure."
+          ],
+          "collocations": [
+            "system",
+            "process",
+            "load",
+            "risk"
+          ],
+          "synonyms": ["stable", "unshakable", "robust"],
+          "antonyms": ["perturbable", "unstable"],
+          "register": "neutral",
+          "domain": ["technology", "engineering", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonperturbing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not perturbing; causing little or no disturbance",
+          "examples": [
+            "Nonperturbing methods are preferred for delicate experiments."
+          ],
+          "collocations": [
+            "methods",
+            "experiments",
+            "disturbance"
+          ],
+          "synonyms": ["gentle", "noninvasive"],
+          "antonyms": ["perturbing", "disturbing"],
+          "register": "neutral",
+          "domain": ["science", "research", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonperverse",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not perverse; acting in a reasonable or morally acceptable way",
+          "examples": [
+            "The decision was presented as nonperverse and fair."
+          ],
+          "collocations": [
+            "decision",
+            "act",
+            "policy"
+          ],
+          "synonyms": ["reasonable", "fair", "appropriate"],
+          "antonyms": ["perverse", "unreasonable"],
+          "register": "neutral",
+          "domain": ["ethics", "law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonperversely",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nonperverse, reasonable way",
+          "examples": [
+            "The proposal was nonperversely argued and well justified."
+          ],
+          "collocations": [
+            "argued",
+            "proposed",
+            "justified"
+          ],
+          "synonyms": ["reasonably"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ethics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonperverseness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being nonperverse; reasonableness",
+          "examples": [
+            "Nonperverseness was cited as a virtue in the debate."
+          ],
+          "collocations": [
+            "quality",
+            "virtue",
+            "debate"
+          ],
+          "synonyms": ["reasonableness", "fairness"],
+          "antonyms": ["perverseness", "unreasonableness"],
+          "register": "neutral",
+          "domain": ["ethics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonperversion",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of not being perverse; absence of perverseness",
+          "examples": [
+            "Nonperversion characterized his approach to the issue."
+          ],
+          "collocations": [
+            "state",
+            "approach",
+            "issue"
+          ],
+          "synonyms": ["integrity", "moral soundness"],
+          "antonyms": ["perversion", "perverseness"],
+          "register": "neutral",
+          "domain": ["ethics", "general"]
+        }
+      ]
+    }
+  ]
+}

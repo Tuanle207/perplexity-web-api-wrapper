@@ -1,0 +1,354 @@
+```json
+{
+  "items": [
+    {
+      "term": "bavarois",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A cold dessert made from cream, eggs, and gelatin, set in a mold.",
+          "examples": ["She served a chocolate bavarois for dessert.", "The bavarois was topped with fresh berries.", "Making bavarois requires careful chilling."],
+          "collocations": ["chocolate bavarois", "vanilla bavarois", "lemon bavarois", "set bavarois", "molded bavarois"],
+          "synonyms": ["bavarian cream", "mousse"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culinary", "food"]
+        }
+      ]
+    },
+    {
+      "term": "bavaroise",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A variant spelling of bavarois, referring to the same cold cream dessert.",
+          "examples": ["The menu featured bavaroise au café.", "She prepared a fruity bavaroise.", "Bavaroise is lighter than pudding."],
+          "collocations": ["coffee bavaroise", "strawberry bavaroise", "creamy bavaroise"],
+          "synonyms": ["bavarois"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culinary", "food"]
+        }
+      ]
+    },
+    {
+      "term": "bavaroises",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bavarois; multiple servings of the cold cream dessert.",
+          "examples": ["The party had various bavaroises.", "They offered chocolate and vanilla bavaroises."],
+          "collocations": ["assorted bavaroises", "individual bavaroises"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culinary", "food"]
+        }
+      ]
+    },
+    {
+      "term": "bavaroy",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bavary",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bavenite",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A rare mineral from the baveno region in Italy.",
+          "examples": ["Bavenite was discovered in granite rocks.", "Geologists study bavenite samples."],
+          "collocations": ["bavenite crystals", "silicate bavenite"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geology", "mineralogy"]
+        }
+      ]
+    },
+    {
+      "term": "bavette",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A thin cut of beef similar to flank steak, often grilled.",
+          "examples": ["Grill the bavette with herbs.", "Bavette is perfect for steak frites.", "She ordered bavette at the bistro."],
+          "collocations": ["grilled bavette", "bavette steak", "marinated bavette", "bavette frites"],
+          "synonyms": ["flank steak", "skirt steak"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culinary", "food"]
+        }
+      ]
+    },
+    {
+      "term": "baviaantje",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bavian",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baviere",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bavin",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A bundle of brushwood or small sticks used as fuel.",
+          "examples": ["They gathered bavins for the fire.", "Bavins burned quickly in the hearth."],
+          "collocations": ["bundle of bavins", "light bavins"],
+          "synonyms": ["faggot"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["historical"]
+        }
+      ]
+    },
+    {
+      "term": "bavins",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bavin; multiple bundles of brushwood.",
+          "examples": ["The bavins were stacked by the cottage.", "They sold bavins at market."],
+          "collocations": ["stacked bavins"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["historical"]
+        }
+      ]
+    },
+    {
+      "term": "bavius",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A name used in classical literature, often mockingly for a bad poet.",
+          "examples": ["Bavius and Maevius were ridiculed by Virgil."],
+          "collocations": ["Bavius and Maevius"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "bavoso",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baw",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To cry loudly or wail, especially like an animal.",
+          "examples": ["The child bawled in the street."],
+          "collocations": ["baw like a baby"],
+          "synonyms": ["bawl"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bawarchi",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A professional cook or chef in South Asian cuisine.",
+          "examples": ["The bawarchi prepared biryani.", "Hire a bawarchi for the feast."],
+          "collocations": ["hotel bawarchi", "royal bawarchi"],
+          "synonyms": ["cook"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culinary"]
+        }
+      ]
+    },
+    {
+      "term": "bawbee",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A former Scottish halfpenny coin.",
+          "examples": ["He hadn't a bawbee to his name.", "Bawbees were common in old Scotland."],
+          "collocations": ["not a bawbee"],
+          "synonyms": ["halfpenny"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["historical", "currency"]
+        }
+      ]
+    },
+    {
+      "term": "bawbees",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bawbee; Scottish halfpenny coins.",
+          "examples": ["She jingled her bawbees.", "Bawbees bought little bread."],
+          "collocations": ["handful of bawbees"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["historical"]
+        }
+      ]
+    },
+    {
+      "term": "bawble",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant spelling of bauble; a showy but worthless trinket.",
+          "examples": ["The bawble hung on the tree."],
+          "collocations": ["shiny bawble"],
+          "synonyms": ["bauble", "trinket"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bawbles",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bawble; showy trinkets.",
+          "examples": ["Children played with bawbles."],
+          "collocations": ["colorful bawbles"],
+          "synonyms": ["baubles"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bawcock",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A fine fellow; used affectionately or ironically.",
+          "examples": ["You're a brave bawcock.", "My little bawcock!"],
+          "collocations": ["fine bawcock"],
+          "synonyms": ["fellow"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "bawcocks",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bawcock; fine fellows.",
+          "examples": ["Those bawcocks fought well."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "bawd",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A woman who keeps a brothel or procures prostitutes.",
+          "examples": ["The bawd ran a house of ill repute.", "Shakespeare's bawd was a comic figure."],
+          "collocations": ["old bawd"],
+          "synonyms": ["madam", "pimp"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["historical"]
+        }
+      ]
+    },
+    {
+      "term": "bawdier",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Comparative of bawdy; more indecent or obscene.",
+          "examples": ["His bawdier jokes shocked the crowd.", "The bawdier play was banned."],
+          "collocations": ["bawdier humor", "get bawdier"],
+          "synonyms": ["lewd", "rude"],
+          "antonyms": ["cleaner"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bawdies",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    }
+  ]
+}
+```

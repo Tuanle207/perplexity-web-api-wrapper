@@ -1,0 +1,353 @@
+```json
+{
+  "items": [
+    {
+      "term": "beaker",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large glass container with a handle and pouring lip, used in laboratories",
+          "examples": ["The chemist poured the liquid into a beaker.", "She measured the solution using a 500 ml beaker.", "Beakers are essential equipment in science class."],
+          "collocations": ["glass beaker", "plastic beaker", "measuring beaker", "laboratory beaker", "fill a beaker"],
+          "synonyms": ["container", "vessel", "flask"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "laboratory", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a large drinking cup with a wide mouth",
+          "examples": ["The knight drank from a silver beaker.", "Medieval feasts featured ornate beakers.", "He filled the beaker with wine."],
+          "collocations": ["silver beaker", "ceremonial beaker", "drinking beaker", "ornate beaker"],
+          "synonyms": ["cup", "goblet", "tumbler"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "beakerful",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the amount a beaker can hold",
+          "examples": ["Add one beakerful of water to the mixture.", "She drank a beakerful of the potion.", "The recipe calls for two beakerfuls of acid."],
+          "collocations": ["one beakerful", "full beakerful", "pour a beakerful"],
+          "synonyms": ["beaker-load"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "cooking"]
+        }
+      ]
+    },
+    {
+      "term": "beakerfuls",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beakerful; multiple amounts a beaker can hold",
+          "examples": ["Mix in three beakerfuls of solvent.", "The children spilled two beakerfuls on the floor.", "He needed several beakerfuls to complete the experiment."],
+          "collocations": ["several beakerfuls", "two beakerfuls", "add beakerfuls"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "beakerman",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "beakermen",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "beakers",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beaker; multiple glass containers or drinking cups",
+          "examples": ["The lab has many beakers of different sizes.", "Clean the beakers after the experiment.", "Medieval beakers were often made of metal."],
+          "collocations": ["glass beakers", "lab beakers", "clean beakers", "various beakers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "laboratory"]
+        }
+      ]
+    },
+    {
+      "term": "beakful",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the amount a bird's beak can hold",
+          "examples": ["The bird picked up a beakful of seeds.", "She watched the parrot take a beakful of nuts.", "The pelican swallowed a beakful of fish."],
+          "collocations": ["one beakful", "full beakful", "grab a beakful"],
+          "synonyms": ["mouthful"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["animals", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "beakhead",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "protruding part at the bow of old sailing ships",
+          "examples": ["The beakhead supported the ship's figurehead.", "Sailors gathered at the beakhead.", "The beakhead was carved with intricate designs."],
+          "collocations": ["ship's beakhead", "forward beakhead"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical", "history"]
+        }
+      ]
+    },
+    {
+      "term": "beakier",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative of beaky; having a more prominent beak or nose",
+          "examples": ["This bird has a beakier profile than the others.", "The new breed appears beakier."],
+          "collocations": ["beakier nose", "beakier bird"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["animals"]
+        }
+      ]
+    },
+    {
+      "term": "beakiest",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative of beaky; having the most prominent beak or nose",
+          "examples": ["Among the eagles, the golden eagle has the beakiest profile.", "That vulture has the beakiest beak here."],
+          "collocations": ["beakiest beak", "beakiest profile"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["animals"]
+        }
+      ]
+    },
+    {
+      "term": "beakiron",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "shaped blacksmith's tool used as an anvil for bending iron",
+          "examples": ["The blacksmith used the beakiron to shape the horseshoe.", "Place the hot iron on the beakiron.", "Beakirons are essential for curved metalwork."],
+          "collocations": ["blacksmith beakiron", "swage beakiron", "horn beakiron"],
+          "synonyms": ["swage block"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["tools", "blacksmithing"]
+        }
+      ]
+    },
+    {
+      "term": "beakless",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without a beak",
+          "examples": ["The beakless mutant bird could not feed properly.", "Some insects appear beakless to the naked eye."],
+          "collocations": ["beakless bird", "beakless insect"],
+          "synonyms": [],
+          "antonyms": ["beaked"],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "beaklike",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling a beak in shape",
+          "examples": ["The dinosaur had a beaklike mouth.", "Her nose was beaklike and prominent.", "The tool had beaklike jaws."],
+          "collocations": ["beaklike nose", "beaklike jaw", "beaklike mouth"],
+          "synonyms": ["beaked"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beaks",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beak; hard mouths of birds",
+          "examples": ["Birds use their beaks to eat.", "The eagle's beaks are sharp.", "Clean the parrots' beaks."],
+          "collocations": ["bird beaks", "sharp beaks", "curved beaks"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["animals"]
+        }
+      ]
+    },
+    {
+      "term": "beaky",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a large or prominent beak or nose",
+          "examples": ["The toucan is a beaky bird.", "He had a beaky face with a hooked nose.", "Vultures have beaky features."],
+          "collocations": ["beaky nose", "beaky bird", "beaky profile"],
+          "synonyms": ["hook-nosed"],
+          "antonyms": ["snub-nosed"],
+          "register": "informal",
+          "domain": ["animals", "appearance"]
+        }
+      ]
+    },
+    {
+      "term": "beal",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "beala",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bealach",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "mountain pass (Scottish Gaelic)",
+          "examples": ["The hikers crossed the bealach at dawn.", "This bealach offers stunning views."],
+          "collocations": ["high bealach", "steep bealach"],
+          "synonyms": ["pass"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "bealing",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bealings",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "beallach",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "mountain pass (Scottish Gaelic)",
+          "examples": ["They traversed the beallach carefully.", "The beallach was covered in mist."],
+          "collocations": ["narrow beallach"],
+          "synonyms": ["pass"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "beals",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bealtared",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bealtine",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative spelling of Beltane; ancient Celtic May Day festival",
+          "examples": ["They celebrated Bealtine with a bonfire.", "Bealtine marks the start of summer."],
+          "collocations": ["Bealtine festival", "Bealtine fire"],
+          "synonyms": ["Beltane"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["culture", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bealtuinn",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Gaelic term for Beltane; Celtic fire festival on May 1",
+          "examples": ["Bealtuinn celebrations include maypole dancing.", "The village held a Bealtuinn ritual."],
+          "collocations": ["Bealtuinn festival", "Bealtuinn fires"],
+          "synonyms": ["Beltane"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["culture"]
+        }
+      ]
+    }
+  ]
+}
+```

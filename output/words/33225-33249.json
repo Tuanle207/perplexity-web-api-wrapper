@@ -1,0 +1,461 @@
+```json
+{
+  "items": [
+    {
+      "term": "barkens",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of barken, an old word meaning to bark like a dog.",
+          "examples": ["The old dog barkens at strangers.", "Nightly, it barkens in the yard.", "The hound barkens loudly at night."],
+          "collocations": ["dog barkens", "hound barkens", "barkens loudly", "barkens at", "barkens in"],
+          "synonyms": ["barks"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barkentine",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a sailing ship with three masts, where the front mast has square sails and the other two have fore-and-aft sails.",
+          "examples": ["The barkentine sailed smoothly across the ocean.", "They spotted a barkentine on the horizon.", "The old barkentine was used for trade."],
+          "collocations": ["sailing barkentine", "three-masted barkentine", "merchant barkentine", "barkentine sails", "barkentine ship"],
+          "synonyms": ["barquentine"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical", "history"]
+        }
+      ]
+    },
+    {
+      "term": "barkentines",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barkentine, sailing ships with specific sail types.",
+          "examples": ["Several barkentines docked in the harbor.", "The barkentines carried cargo from afar.", "Old barkentines lined the coast."],
+          "collocations": ["fleet of barkentines", "merchant barkentines", "sailing barkentines", "barkentines docked"],
+          "synonyms": ["barquentines"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "barker",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who stands outside a show or store and loudly calls to attract customers.",
+          "examples": ["The barker shouted to draw in the crowd.", "A colorful barker promoted the circus.", "The carnival barker promised fun inside."],
+          "collocations": ["carnival barker", "sideshow barker", "street barker", "barker shouts", "barker calls"],
+          "synonyms": ["tout", "pitchman", "hawker"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "entertainment"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a dog that barks a lot.",
+          "examples": ["Our neighbor's barker wakes us every morning.", "The noisy barker annoyed the street.", "That barker never stops yapping."],
+          "collocations": ["noisy barker", "watchdog barker", "street barker", "barker dog"],
+          "synonyms": ["yapper"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barkers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barker, people who call out to attract customers or dogs that bark.",
+          "examples": ["The barkers lined the fairground entrance.", "Noisy barkers echoed through the night.", "Carnival barkers competed for attention."],
+          "collocations": ["carnival barkers", "street barkers", "noisy barkers", "fairground barkers"],
+          "synonyms": ["touts", "pitchmen"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barkery",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a bakery that specializes in dog treats or dog-friendly baked goods.",
+          "examples": ["She bought treats at the local barkery.", "The barkery offers pupcakes for dogs.", "Visit the barkery for Fido's favorites."],
+          "collocations": ["dog barkery", "pet barkery", "barkery treats", "local barkery", "barkery pupcakes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barkevikite",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare mineral in the amphibole group, found in igneous rocks.",
+          "examples": ["Geologists studied the barkevikite sample.", "Barkevikite appears in certain volcanic rocks.", "The rock contained barkevikite crystals."],
+          "collocations": ["barkevikite mineral", "barkevikite crystal", "igneous barkevikite", "amphibole barkevikite"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "barkevikitic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "containing or relating to the mineral barkevikite.",
+          "examples": ["The rock showed barkevikitic texture.", "Barkevikitic composition was confirmed.", "It has a barkevikitic structure."],
+          "collocations": ["barkevikitic rock", "barkevikitic texture", "barkevikitic mineral"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "barkey",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a lot of bark or bark-like texture.",
+          "examples": ["The barkey tree was hard to climb.", "It had a barkey outer layer.", "The barkey branches scratched his hands."],
+          "collocations": ["barkey tree", "barkey texture", "barkey surface", "rough barkey"],
+          "synonyms": ["bark-like"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barkhan",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "variant spelling of barchan, a crescent-shaped sand dune.",
+          "examples": ["The barkhan moved across the desert.", "Climbers crossed the tall barkhan.", "A barkhan formed near the oasis."],
+          "collocations": ["crescent barkhan", "desert barkhan", "moving barkhan", "sand barkhan"],
+          "synonyms": ["barchan"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "barkhans",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barkhan, crescent-shaped sand dunes.",
+          "examples": ["Barkhans dotted the vast desert.", "Winds shaped the barkhans overnight.", "Travelers navigated the barkhans."],
+          "collocations": ["desert barkhans", "crescent barkhans", "shifting barkhans"],
+          "synonyms": ["barchans"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "barkier",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative of barky, having more bark or rough like bark.",
+          "examples": ["This tree is barkier than that one.", "The barkier branches were tougher.", "He chose the barkier log."],
+          "collocations": ["barkier tree", "barkier branches", "rougher barkier"],
+          "synonyms": [],
+          "antonyms": ["smoother"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barkiest",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative of barky, having the most bark or roughest bark-like texture.",
+          "examples": ["That is the barkiest trunk here.", "Among logs, this was the barkiest.", "The barkiest piece scratched most."],
+          "collocations": ["barkiest trunk", "barkiest log", "roughest barkiest"],
+          "synonyms": [],
+          "antonyms": ["smoothest"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barking",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of bark, making the sharp sound dogs make.",
+          "examples": ["The dog is barking at the mailman.", "Stop barking like that!", "Dogs were barking all night."],
+          "collocations": ["dog barking", "barking loudly", "barking at", "keep barking", "stop barking"],
+          "synonyms": ["yelping"],
+          "antonyms": ["whining"],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "slang for mad or crazy.",
+          "examples": ["He's gone barking mad!", "That idea is barking stupid.", "Don't go barking on me."],
+          "collocations": ["barking mad", "barking crazy", "gone barking"],
+          "synonyms": ["mad", "crazy", "insane"],
+          "antonyms": ["sane"],
+          "register": "slang",
+          "domain": ["informal"]
+        }
+      ]
+    },
+    {
+      "term": "barkingly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner like barking.",
+          "examples": ["The dog barked barkingly at shadows.", "He spoke barkingly in anger.", "It replied barkingly."],
+          "collocations": ["barked barkingly", "spoke barkingly", "replied barkingly"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barkinji",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an Aboriginal Australian people from New South Wales.",
+          "examples": ["The Barkinji have rich cultural traditions.", "Barkinji land is along the Darling River.", "Stories of the Barkinji are told today."],
+          "collocations": ["Barkinji people", "Barkinji language", "Barkinji territory"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "barkle",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to peel or strip bark from a tree.",
+          "examples": ["They barkle the logs before milling.", "Do not barkle young trees.", "Workers barkle the wood carefully."],
+          "collocations": ["barkle trees", "barkle logs", "carefully barkle"],
+          "synonyms": ["debark"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["forestry"]
+        }
+      ]
+    },
+    {
+      "term": "barkless",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without bark or having no bark.",
+          "examples": ["The barkless tree looked smooth.", "He sold barkless poles.", "The barkless branches were ready."],
+          "collocations": ["barkless tree", "barkless wood", "smooth barkless"],
+          "synonyms": [],
+          "antonyms": ["barky"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barklyite",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare mineral found in volcanic rocks.",
+          "examples": ["Barklyite was identified in the sample.", "The deposit contained barklyite.", "Geologists noted barklyite crystals."],
+          "collocations": ["barklyite mineral", "barklyite crystal", "volcanic barklyite"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "barkometer",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device to measure tree bark thickness.",
+          "examples": ["Use the barkometer on this trunk.", "The barkometer showed thin bark.", "Foresters carry a barkometer."],
+          "collocations": ["tree barkometer", "digital barkometer", "measure with barkometer"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["forestry", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "barkpeel",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or result of peeling bark from a tree.",
+          "examples": ["The barkpeel left smooth wood.", "Avoid barkpeel on live trees.", "Barkpeel is used in tanning."],
+          "collocations": ["tree barkpeel", "barkpeel process", "fresh barkpeel"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["forestry"]
+        }
+      ]
+    },
+    {
+      "term": "barkpeeler",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a tool or machine for removing bark from trees or wood.",
+          "examples": ["The barkpeeler sped up the work.", "Use a barkpeeler for logs.", "He bought a new barkpeeler."],
+          "collocations": ["log barkpeeler", "mechanical barkpeeler", "handheld barkpeeler"],
+          "synonyms": ["debarker"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["forestry", "tools"]
+        }
+      ]
+    },
+    {
+      "term": "barkpeeling",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of removing bark from trees or logs.",
+          "examples": ["Barkpeeling prepares wood for use.", "The barkpeeling machine hummed.", "Barkpeeling damages young trees."],
+          "collocations": ["log barkpeeling", "mechanical barkpeeling", "barkpeeling process"],
+          "synonyms": ["debarking"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["forestry"]
+        }
+      ]
+    },
+    {
+      "term": "barks",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bark, the outer covering of trees or the sharp sound dogs make.",
+          "examples": ["The barks protect the trees.", "Dogs make loud barks.", "Collect the barks for crafts."],
+          "collocations": ["tree barks", "dog barks", "loud barks"],
+          "synonyms": ["woofs"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person singular of bark, to make a dog's sound or speak sharply.",
+          "examples": ["The dog barks every morning.", "She barks orders at work.", "It barks at passing cars."],
+          "collocations": ["dog barks", "barks orders", "barks loudly"],
+          "synonyms": ["yelps", "snaps"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barksome",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "tending to bark or full of bark.",
+          "examples": ["The barksome dog annoyed neighbors.", "It is a barksome breed.", "The barksome pup needs training."],
+          "collocations": ["barksome dog", "noisy barksome", "barksome pup"],
+          "synonyms": ["yappy"],
+          "antonyms": ["quiet"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    }
+  ]
+}
+```

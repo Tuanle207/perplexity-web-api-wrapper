@@ -1,0 +1,428 @@
+```json
+{
+  "items": [
+    {
+      "term": "bagwigged",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "wearing a bagwig, a type of wig with the hair tied back in a silk bag, common in the 18th century.",
+          "examples": ["The bagwigged gentleman stepped out of the carriage.", "In the historical play, all the actors were bagwigged."],
+          "collocations": ["bagwigged aristocrat", "bagwigged judge", "bagwigged portrait", "bagwigged courtier"],
+          "synonyms": ["bewigged", "periwigged"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "bagwigs",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bagwig, an 18th-century wig with hair enclosed in a silk bag.",
+          "examples": ["The museum displays bagwigs from the Georgian era.", "Actors wore bagwigs for the period drama."],
+          "collocations": ["old bagwigs", "authentic bagwigs", "collectible bagwigs", "historical bagwigs"],
+          "synonyms": ["periwigs", "tie-wigs"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bagwoman",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a woman who collects or holds illegal money for a political campaign.",
+          "examples": ["The scandal involved the candidate's bagwoman.", "Reporters questioned the bagwoman about the funds."],
+          "collocations": ["campaign bagwoman", "political bagwoman", "secret bagwoman"],
+          "synonyms": ["bagman"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "bagwomen",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bagwoman, women who handle illegal money for political campaigns.",
+          "examples": ["Investigators named two bagwomen in the report.", "The bagwomen were arrested for corruption."],
+          "collocations": ["corrupt bagwomen", "campaign bagwomen"],
+          "synonyms": ["bagmen"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "bagwork",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "punching practice using heavy bags in boxing training.",
+          "examples": ["He spent an hour on bagwork at the gym.", "Bagwork builds speed and power for boxers."],
+          "collocations": ["heavy bagwork", "boxing bagwork", "speed bagwork"],
+          "synonyms": ["padwork", "heavy bag training"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "boxing"]
+        }
+      ]
+    },
+    {
+      "term": "bagworm",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of moth larva that builds a protective case from silk and bits of plants.",
+          "examples": ["The bagworm damaged the trees in the garden.", "Gardeners use sprays to control bagworm."],
+          "collocations": ["bagworm moth", "bagworm case", "bagworm infestation"],
+          "synonyms": ["bagworm moth"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "gardening"]
+        }
+      ]
+    },
+    {
+      "term": "bagworms",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bagworm, larvae that make protective bags from silk and plants.",
+          "examples": ["Bagworms are common pests in evergreen trees.", "We removed bagworms from the shrubs."],
+          "collocations": ["remove bagworms", "bagworms damage", "control bagworms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "gardening"]
+        }
+      ]
+    },
+    {
+      "term": "bagwyn",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bah",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "interjection",
+          "definition": "used to express dismissal, scorn, or disbelief.",
+          "examples": ["Bah! I don't believe that story.", "Bah, humbug! said Scrooge."],
+          "collocations": ["bah humbug", "bah nonsense"],
+          "synonyms": ["pfft", "nonsense", "rubbish"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bahada",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a broad, shallow slope formed by the merging of alluvial fans; also called bajada.",
+          "examples": ["The desert road crossed a bahada.", "Bahadas are common in arid regions."],
+          "collocations": ["desert bahada", "alluvial bahada"],
+          "synonyms": ["bajada"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "bahadas",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bahada, broad slopes of merged alluvial fans.",
+          "examples": ["The region has many bahadas.", "Geologists study bahadas in the valley."],
+          "collocations": ["arid bahadas", "coastal bahadas"],
+          "synonyms": ["bajadas"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "bahadur",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a title of respect in India and Pakistan meaning hero or brave.",
+          "examples": ["The soldier was called bahadur for his courage.", "Bahadur Khan led the troops."],
+          "collocations": ["brave bahadur", "noble bahadur"],
+          "synonyms": ["hero"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bahadurs",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bahadur, respectful title for brave persons.",
+          "examples": ["Many bahadurs were honored in the ceremony.", "The bahadurs fought valiantly."],
+          "collocations": ["gallant bahadurs", "famous bahadurs"],
+          "synonyms": ["heroes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bahai",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a follower of the Baha'i Faith, a religion teaching unity of all religions.",
+          "examples": ["My neighbor is a Bahai.", "Bahais meet for prayer every week."],
+          "collocations": ["devout Bahai", "local Bahai"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["religion"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to the Baha'i Faith or its followers.",
+          "examples": ["They attended a Bahai event.", "Bahai teachings emphasize peace."],
+          "collocations": ["Bahai faith", "Bahai temple", "Bahai principles"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "bahaism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the Baha'i religion, founded in the 19th century, promoting world unity.",
+          "examples": ["Bahaism has temples worldwide.", "She converted to Bahaism last year."],
+          "collocations": ["practice Bahaism", "teachings of Bahaism"],
+          "synonyms": ["Baha'i Faith"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "bahaist",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who follows Bahaism or the Baha'i Faith.",
+          "examples": ["The Bahaist spoke at the conference.", "Many Bahaists volunteer for service."],
+          "collocations": ["devout Bahaist"],
+          "synonyms": ["Bahai"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["religion"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to Bahaism or its followers.",
+          "examples": ["Bahaist principles guide their lives.", "It was a Bahaist prayer meeting."],
+          "collocations": ["Bahaist beliefs", "Bahaist community"],
+          "synonyms": ["Baha'i"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "baham",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bahama",
+      "kind": "proper_noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "relating to the Bahamas, an island country in the Atlantic.",
+          "examples": ["Bahama vacations are popular.", "She loves Bahama beaches."],
+          "collocations": ["Bahama islands", "Bahama vacation"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "bahamas",
+      "kind": "proper_noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a country made up of many islands in the Atlantic Ocean near Florida.",
+          "examples": ["The Bahamas attract many tourists.", "Nassau is in the Bahamas."],
+          "collocations": ["visit the Bahamas", "Bahamas vacation", "Bahamas islands"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "bahamian",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person from the Bahamas.",
+          "examples": ["The Bahamian won the race.", "Bahamians are known for hospitality."],
+          "collocations": ["proud Bahamian", "native Bahamian"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nationality"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to the Bahamas or its people.",
+          "examples": ["Bahamian culture is vibrant.", "Try Bahamian food like conch salad."],
+          "collocations": ["Bahamian culture", "Bahamian food", "Bahamian music"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nationality"]
+        }
+      ]
+    },
+    {
+      "term": "bahamians",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of Bahamian, people from the Bahamas.",
+          "examples": ["Bahamians celebrate Junkanoo festival.", "Many Bahamians live abroad."],
+          "collocations": ["fellow Bahamians", "expelled Bahamians"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nationality"]
+        }
+      ]
+    },
+    {
+      "term": "bahan",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bahar",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a unit of weight used in parts of Asia, especially for spices and grains.",
+          "examples": ["Spices were sold by the bahar.", "One bahar equals about 200-500 kg."],
+          "collocations": ["spice bahar", "rice bahar"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["trade", "measurement"]
+        }
+      ]
+    },
+    {
+      "term": "bahaullah",
+      "kind": "proper_noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "the founder of the Baha'i Faith in the 19th century.",
+          "examples": ["Baha'u'llah wrote many sacred texts.", "Followers honor Baha'u'llah as a prophet."],
+          "collocations": ["teachings of Baha'u'llah", "writings of Baha'u'llah"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "bahawder",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic spelling of bahadur, a title meaning brave or hero in India.",
+          "examples": ["The bahawder received a medal.", "Bahawder is an old term for warrior."],
+          "collocations": ["noble bahawder"],
+          "synonyms": ["bahadur"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    }
+  ]
+}
+```

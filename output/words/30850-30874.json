@@ -1,0 +1,441 @@
+```json
+{
+  "items": [
+    {
+      "term": "baclava",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A rare or misspelled form of baklava, a sweet pastry made of layers of filo filled with nuts.",
+          "examples": ["She enjoyed a piece of baclava after dinner.", "The dessert tray had baclava and other treats."],
+          "collocations": ["layered baclava", "nutty baclava", "sweet baclava", "Turkish baclava"],
+          "synonyms": ["baklava"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food", "culinary"]
+        }
+      ]
+    },
+    {
+      "term": "baclavas",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baclava; multiple pieces of the sweet nutty pastry.",
+          "examples": ["They served baclavas at the party.", "I bought several baclavas from the bakery."],
+          "collocations": ["fresh baclavas", "homemade baclavas", "sticky baclavas"],
+          "synonyms": ["baklavas"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "baclin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A medication used to treat bacterial infections, especially in veterinary use.",
+          "examples": ["The vet prescribed baclin for the dog's infection.", "Baclin helped clear up the wound quickly."],
+          "collocations": ["oral baclin", "baclin tablets", "baclin treatment"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "veterinary"]
+        }
+      ]
+    },
+    {
+      "term": "baclofen",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A drug used to treat muscle spasms and spasticity, especially in conditions like multiple sclerosis.",
+          "examples": ["The doctor prescribed baclofen for her muscle stiffness.", "Baclofen can cause drowsiness as a side effect.", "He takes baclofen daily to manage spasms."],
+          "collocations": ["oral baclofen", "baclofen tablets", "intrathecal baclofen", "baclofen pump"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "pharmacology"]
+        }
+      ]
+    },
+    {
+      "term": "baclofens",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form referring to multiple units or doses of the drug baclofen.",
+          "examples": ["The pharmacy dispensed several baclofens.", "Patients sometimes collect baclofens in advance."],
+          "collocations": ["generic baclofens", "baclofens prescription"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacon",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Sliced meat from the back or sides of a pig, often cured and fried.",
+          "examples": ["She cooked bacon for breakfast.", "I like crispy bacon on my sandwich.", "Bacon sizzled in the pan."],
+          "collocations": ["crispy bacon", "streaky bacon", "smoked bacon", "fried bacon", "bacon sandwich", "bacon strips"],
+          "synonyms": ["pork", "rashers"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Money or financial gain (informal, British slang).",
+          "examples": ["He earns good bacon at his new job.", "Bring home the bacon means succeed financially."],
+          "collocations": ["bring home the bacon", "earn bacon", "good bacon"],
+          "synonyms": ["money", "cash"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["slang"]
+        }
+      ]
+    },
+    {
+      "term": "baconer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A pig raised and fattened for bacon production.",
+          "examples": ["The farm raised baconers for market.", "This baconer will yield a lot of meat."],
+          "collocations": ["fattened baconer", "prime baconer", "market baconer"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["agriculture", "farming"]
+        }
+      ]
+    },
+    {
+      "term": "baconers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baconer; multiple pigs for bacon.",
+          "examples": ["Farmers sold baconers at the auction.", "The field had several healthy baconers."],
+          "collocations": ["young baconers", "heavy baconers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "baconian",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to the philosopher Francis Bacon or his method of scientific induction.",
+          "examples": ["Baconian philosophy emphasizes observation.", "The Baconian method influenced modern science."],
+          "collocations": ["Baconian method", "Baconian theory", "Baconian induction"],
+          "synonyms": ["Bacon-like"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "baconianism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The philosophical system or theories of Francis Bacon, focusing on empirical science.",
+          "examples": ["Baconianism shaped scientific thought.", "He studied Baconianism in university."],
+          "collocations": ["pure Baconianism", "early Baconianism"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "baconic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or resembling bacon.",
+          "examples": ["The smell was distinctly baconic.", "Baconic aroma filled the kitchen."],
+          "collocations": ["baconic flavor", "baconic scent"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "baconism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The doctrines or philosophy associated with Francis Bacon.",
+          "examples": ["Baconism promotes inductive reasoning.", "Scholars debate aspects of baconism."],
+          "collocations": ["radical baconism"],
+          "synonyms": ["Baconianism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "baconist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A follower or advocate of Francis Bacon's philosophy.",
+          "examples": ["He is a devoted baconist.", "Baconists emphasize experimentation."],
+          "collocations": ["strict baconist"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "baconize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To treat or prepare something with bacon or in a bacon-like manner (humorous or rare).",
+          "examples": ["They decided to baconize the vegetables.", "Baconize your brunch for extra flavor."],
+          "collocations": ["baconize everything"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food", "slang"]
+        }
+      ]
+    },
+    {
+      "term": "bacons",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bacon; multiple portions or types of bacon.",
+          "examples": ["She bought different bacons from the store.", "The menu lists various bacons."],
+          "collocations": ["different bacons", "smoked bacons"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "baconweed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A plant, also known as stinking Roger, with a smell resembling bacon.",
+          "examples": ["Baconweed grows wild in fields.", "The baconweed emitted a curious odor."],
+          "collocations": ["wild baconweed"],
+          "synonyms": ["stinking Roger"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "bacony",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having the taste, smell, or appearance of bacon.",
+          "examples": ["The air was bacony from frying.", "These chips have a bacony flavor."],
+          "collocations": ["bacony smell", "bacony taste", "super bacony"],
+          "synonyms": ["bacon-like"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "bacopa",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A plant used in traditional medicine for memory and anxiety relief.",
+          "examples": ["Bacopa supplements aid concentration.", "She takes bacopa for stress."],
+          "collocations": ["bacopa monnieri", "bacopa extract", "bacopa supplement"],
+          "synonyms": ["Brahmi"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacquet",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Historical term for a pole or staff used in medicine or fencing.",
+          "examples": ["The old text mentioned the bacquet.", "Bacquets were used in early treatments."],
+          "collocations": ["medical bacquet"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacs",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Bankers' Automated Clearing Services; a UK system for electronic payments.",
+          "examples": ["Payments go through BACS.", "Set up a BACS direct debit."],
+          "collocations": ["BACS payment", "BACS transfer", "BACS system"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "bact",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Short for bacterial or bacterium (informal or technical abbreviation).",
+          "examples": ["The sample tested positive for bact.", "Bact growth was observed."],
+          "collocations": ["bact culture", "bact infection"],
+          "synonyms": ["bacteria"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["science", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacteraemia",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Presence of bacteria in the bloodstream (British spelling).",
+          "examples": ["The test confirmed bacteraemia.", "Bacteraemia can lead to sepsis."],
+          "collocations": ["gram-negative bacteraemia", "staphylococcal bacteraemia", "treat bacteraemia"],
+          "synonyms": ["bacteremia"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacteraemias",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bacteraemia; multiple instances of bacteria in blood.",
+          "examples": ["Several bacteraemias were reported.", "Hospital cases of bacteraemias rose."],
+          "collocations": ["recurrent bacteraemias"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacteremia",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Presence of bacteria in the bloodstream (American spelling).",
+          "examples": ["Bacteremia requires urgent antibiotics.", "The patient was treated for bacteremia."],
+          "collocations": ["bloodstream bacteremia", "severe bacteremia", "salmonella bacteremia"],
+          "synonyms": ["bacteraemia"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacteremias",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bacteremia; multiple cases of bacteria in blood.",
+          "examples": ["Multiple bacteremias occurred in the ward.", "Studies track bacteremias in ICUs."],
+          "collocations": ["nosocomial bacteremias"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    }
+  ]
+}
+```

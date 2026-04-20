@@ -1,0 +1,431 @@
+```json
+{
+  "items": [
+    {
+      "term": "barman",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a man who serves drinks in a bar",
+          "examples": ["The barman poured me a beer.", "She asked the barman for a cocktail.", "The friendly barman knew all the regulars."],
+          "collocations": ["behind the bar", "head barman", "barman serves", "order from the barman", "chat with the barman"],
+          "synonyms": ["bartender", "barkeep"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "food_and_drink"]
+        }
+      ]
+    },
+    {
+      "term": "barmaster",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an official who oversees a lead mining barmote court",
+          "examples": ["The barmaster chaired the barmote meeting.", "Miners elected a new barmaster.", "The barmaster enforced the mining rules."],
+          "collocations": ["barmote court", "lead barmaster", "mining barmaster"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["law", "mining"]
+        }
+      ]
+    },
+    {
+      "term": "barmbrack",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a sweet Irish bread with fruit and sometimes small objects",
+          "examples": ["We ate barmbrack at Halloween.", "Barmbrack contains raisins and sultanas.", "She baked traditional barmbrack."],
+          "collocations": ["Irish barmbrack", "fruit barmbrack", "Halloween barmbrack", "tea brack"],
+          "synonyms": ["brack"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food_and_drink"]
+        }
+      ]
+    },
+    {
+      "term": "barmbracks",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barmbrack",
+          "examples": ["They served barmbracks with tea.", "The bakery sells various barmbracks."],
+          "collocations": ["Irish barmbracks", "fruit barmbracks"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food_and_drink"]
+        }
+      ]
+    },
+    {
+      "term": "barmcloth",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a cloth used to cover fermenting liquor",
+          "examples": ["Cover the brew with a barmcloth.", "The barmcloth kept out dust."],
+          "collocations": ["fermenting barmcloth", "brewing barmcloth"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["brewing"]
+        }
+      ]
+    },
+    {
+      "term": "barmecidal",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "illutory or providing only the illusion of plenty",
+          "examples": ["It was a barmecidal feast with no real food.", "The promise proved barmecidal."],
+          "collocations": ["barmecidal feast", "barmecidal illusion"],
+          "synonyms": ["illusory", "phantom"],
+          "antonyms": ["real", "substantial"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barmecide",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "illusory or giving false appearance of abundance",
+          "examples": ["A barmecide banquet fooled the guests.", "His wealth was barmecide."],
+          "collocations": ["barmecide feast", "barmecide banquet"],
+          "synonyms": ["illusory", "deceptive"],
+          "antonyms": ["genuine", "tangible"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barmen",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barman",
+          "examples": ["The barmen were busy at closing time.", "Two barmen served the crowd."],
+          "collocations": ["head barmen", "hire barmen"],
+          "synonyms": ["bartenders"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "food_and_drink"]
+        }
+      ]
+    },
+    {
+      "term": "barmfel",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a meeting of a mining barmote court",
+          "examples": ["The barmfel settled the dispute.", "Miners attended the barmfel."],
+          "collocations": ["mining barmfel", "lead barmfel"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["mining"]
+        }
+      ]
+    },
+    {
+      "term": "barmie",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "mad or crazy, especially in Scottish use",
+          "examples": ["He's gone completely barmie.", "Don't act so barmie!"],
+          "collocations": ["go barmie", "acting barmie"],
+          "synonyms": ["crazy", "mad"],
+          "antonyms": ["sane"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barmier",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative of barmie: more crazy",
+          "examples": ["She's barmier than ever.", "His ideas get barmier daily."],
+          "collocations": ["get barmier", "barmier than"],
+          "synonyms": ["crazier"],
+          "antonyms": ["saner"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barmiest",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative of barmie: most crazy",
+          "examples": ["That's the barmiest plan yet.", "He's the barmiest of the lot."],
+          "collocations": ["barmiest idea", "the barmiest"],
+          "synonyms": ["craziest"],
+          "antonyms": ["sane"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barmily",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a crazy manner",
+          "examples": ["He laughed barmily.", "She behaved barmily at the party."],
+          "collocations": ["act barmily", "laugh barmily"],
+          "synonyms": ["crazily"],
+          "antonyms": ["sensibly"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barminess",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being crazy",
+          "examples": ["His barminess amused everyone.", "Pure barminess!"],
+          "collocations": ["total barminess", "sheer barminess"],
+          "synonyms": ["madness", "craziness"],
+          "antonyms": ["sanity"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barminesses",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barminess",
+          "examples": ["His barminesses are legendary.", "Tales of barminesses spread."],
+          "collocations": ["various barminesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barming",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "mad or crazy",
+          "examples": ["What a barming idea!", "He's absolutely barming."],
+          "collocations": ["go barming", "barming mad"],
+          "synonyms": ["crazy", "mad"],
+          "antonyms": ["sane"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barmitsvah",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative spelling of Bar Mitzvah: Jewish boy's coming-of-age ceremony",
+          "examples": ["He celebrated his barmitsvah.", "The barmitsvah was joyful."],
+          "collocations": ["barmitsvah boy", "celebrate barmitsvah"],
+          "synonyms": ["Bar Mitzvah"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "barmitsvahs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barmitsvah",
+          "examples": ["Many barmitsvahs occur in summer.", "They attended several barmitsvahs."],
+          "collocations": ["Jewish barmitsvahs"],
+          "synonyms": ["Bar Mitzvahs"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "barmitzvah",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Jewish boy's coming-of-age ceremony at age 13",
+          "examples": ["His barmitzvah is next month.", "She planned the barmitzvah party."],
+          "collocations": ["barmitzvah boy", "barmitzvah celebration", "have a barmitzvah"],
+          "synonyms": ["Bar Mitzvah"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "barmitzvahs",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barmitzvah",
+          "examples": ["The synagogue hosts many barmitzvahs.", "They attended three barmitzvahs."],
+          "collocations": ["celebrate barmitzvahs", "Jewish barmitzvahs"],
+          "synonyms": ["Bar Mitzvahs"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "barmkin",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a turreted outer wall or defensive enclosure around a castle",
+          "examples": ["The barmkin protected the inner keep.", "Climb the barmkin walls."],
+          "collocations": ["castle barmkin", "defensive barmkin"],
+          "synonyms": ["bailey", "barbican"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "barmkins",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barmkin",
+          "examples": ["The ruins include old barmkins.", "Explore the ancient barmkins."],
+          "collocations": ["medieval barmkins"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "barmote",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a court or meeting of lead miners in Derbyshire",
+          "examples": ["The barmote court convened.", "Miners gathered at barmote."],
+          "collocations": ["barmote court", "Derbyshire barmote", "lead barmote"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["law", "mining"]
+        }
+      ]
+    },
+    {
+      "term": "barmpot",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a foolish or crazy person (British slang)",
+          "examples": ["You barmpot, watch where you're going!", "Don't be such a barmpot."],
+          "collocations": ["silly barmpot", "total barmpot"],
+          "synonyms": ["idiot", "fool", "twit"],
+          "antonyms": ["genius"],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barmpots",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barmpot",
+          "examples": ["Those barmpots caused the mess.", "A crowd of barmpots cheered."],
+          "collocations": ["bunch of barmpots"],
+          "synonyms": ["idiots", "fools"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    }
+  ]
+}
+```

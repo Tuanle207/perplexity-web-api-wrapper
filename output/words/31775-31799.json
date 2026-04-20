@@ -1,0 +1,451 @@
+```json
+{
+  "items": [
+    {
+      "term": "balize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to mark or set up a course for a race with posts or flags.",
+          "examples": ["They balize the track before every marathon.", "Volunteers balize the ski slopes early in the morning.", "Race organizers balize the path to guide runners safely."],
+          "collocations": ["balize a track", "balize a course", "balize a path", "balize the route", "balize slopes"],
+          "synonyms": ["mark out", "delimit", "stake out"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports", "racing"]
+        }
+      ]
+    },
+    {
+      "term": "balk",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to hesitate or refuse to move forward because of fear or doubt.",
+          "examples": ["She balked at the high price of the house.", "The horse balked when it saw the jump.", "He balked at signing the contract without reading it first."],
+          "collocations": ["balk at", "balk on", "balk from", "suddenly balk", "refuse to balk"],
+          "synonyms": ["hesitate", "demur", "jib"],
+          "antonyms": ["accept", "agree"],
+          "register": "null",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a large piece of wood or stone left in the ground.",
+          "examples": ["The balk was too heavy to move by hand.", "Farmers use balks to divide fields.", "The ancient wall was built from rough balks of stone."],
+          "collocations": ["wooden balk", "stone balk", "rough balk", "field balk"],
+          "synonyms": ["beam", "timber", "baulk"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["construction", "agriculture"]
+        },
+        {
+          "pos": "noun",
+          "definition": "an illegal move by a pitcher in baseball that stops their motion.",
+          "examples": ["The umpire called a balk on the pitcher.", "That balk gave the runner time to steal second base.", "Pitchers must avoid committing a balk."],
+          "collocations": ["call a balk", "pitcher's balk", "illegal balk", "balk penalty"],
+          "synonyms": ["illegal pitch"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports", "baseball"]
+        }
+      ]
+    },
+    {
+      "term": "balkan",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the Balkan Peninsula in southeastern Europe.",
+          "examples": ["Balkan history is full of complex conflicts.", "She collects Balkan folk music.", "The Balkan region has diverse cultures."],
+          "collocations": ["Balkan states", "Balkan countries", "Balkan history", "Balkan music", "Balkan cuisine"],
+          "synonyms": ["Balkanic"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography", "history"]
+        }
+      ]
+    },
+    {
+      "term": "balkanic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "of or from the Balkan region in southeastern Europe.",
+          "examples": ["Balkanic traditions vary widely across countries.", "The conference focused on Balkanic politics.", "Balkanic dance is energetic and colorful."],
+          "collocations": ["Balkanic culture", "Balkanic politics", "Balkanic languages", "Balkanic food"],
+          "synonyms": ["Balkan"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "balkanisation",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of dividing a region or country into smaller, often hostile states.",
+          "examples": ["Balkanisation weakened the empire.", "The balkanisation of the region led to years of conflict.", "Experts warn of balkanisation in failing states."],
+          "collocations": ["political balkanisation", "regional balkanisation", "ethnic balkanisation", "avoid balkanisation"],
+          "synonyms": ["balkanization", "fragmentation", "division"],
+          "antonyms": ["unification", "integration"],
+          "register": "formal",
+          "domain": ["politics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "balkanisations",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of balkanisation; multiple instances of dividing regions into smaller states.",
+          "examples": ["History shows many balkanisations after wars.", "These balkanisations created unstable borders.", "The balkanisations continue to cause tension."],
+          "collocations": ["multiple balkanisations", "historical balkanisations", "post-war balkanisations"],
+          "synonyms": ["balkanizations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "balkanise",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to divide a region or country into smaller, often conflicting states.",
+          "examples": ["The war threatened to balkanise the nation.", "Old policies balkanise communities along ethnic lines.", "Do not let politics balkanise our society."],
+          "collocations": ["balkanise a country", "balkanise a region", "threaten to balkanise"],
+          "synonyms": ["balkanize", "fragment"],
+          "antonyms": ["unify"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "balkanised",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "divided into smaller, often hostile states or groups.",
+          "examples": ["The balkanised territory faces constant strife.", "Europe was once a balkanised continent.", "Their balkanised company lost market share."],
+          "collocations": ["highly balkanised", "ethnically balkanised", "politically balkanised"],
+          "synonyms": ["balkanized", "fragmented"],
+          "antonyms": ["unified"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "balkanises",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person form of balkanise; divides into smaller states.",
+          "examples": ["Civil war balkanises the once united land.", "This policy balkanises the workforce.", "Conflict balkanises societies quickly."],
+          "collocations": ["balkanises regions", "balkanises nations"],
+          "synonyms": ["balkanizes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "balkanising",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of balkanise; process of dividing into smaller states.",
+          "examples": ["Forces are balkanising the country now.", "They are balkanising power among factions.", "The movement is balkanising local government."],
+          "collocations": ["balkanising territory", "balkanising communities"],
+          "synonyms": ["balkanizing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "balkanization",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the division of a region into smaller, often hostile political units.",
+          "examples": ["Balkanization followed the empire's collapse.", "Corporate balkanization harms efficiency.", "Balkanization breeds endless conflict."],
+          "collocations": ["political balkanization", "economic balkanization", "ethnic balkanization"],
+          "synonyms": ["balkanisation", "fragmentation"],
+          "antonyms": ["unification"],
+          "register": "formal",
+          "domain": ["politics", "business"]
+        }
+      ]
+    },
+    {
+      "term": "balkanizations",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of balkanization; multiple divisions into smaller states.",
+          "examples": ["History records many balkanizations.", "These balkanizations reshaped maps.", "Repeated balkanizations weaken regions."],
+          "collocations": ["multiple balkanizations"],
+          "synonyms": ["balkanisations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "balkanize",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to break up a region into smaller, often conflicting states.",
+          "examples": ["The treaty could balkanize the alliance.", "Do not balkanize our united front.", "Rebels aim to balkanize the territory."],
+          "collocations": ["balkanize a nation", "balkanize markets"],
+          "synonyms": ["balkanise"],
+          "antonyms": ["unite"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "balkanized",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "divided into small, separate, and often hostile units.",
+          "examples": ["The balkanized states fight constantly.", "A balkanized industry struggles to compete.", "Post-war Europe was balkanized."],
+          "collocations": ["balkanized regions", "balkanized markets"],
+          "synonyms": ["balkanised"],
+          "antonyms": ["united"],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "balkanizes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person of balkanize; divides into smaller units.",
+          "examples": ["This divides and balkanizes communities.", "The plan balkanizes power structures.", "War balkanizes societies."],
+          "collocations": ["balkanizes countries"],
+          "synonyms": ["balkanises"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "balkanizing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of balkanize; ongoing division into smaller units.",
+          "examples": ["They are balkanizing the organization.", "Forces are balkanizing the land.", "Policies are balkanizing the group."],
+          "collocations": ["balkanizing regions"],
+          "synonyms": ["balkanising"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "balkans",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "the Balkan Mountains or Balkan Peninsula in southeastern Europe.",
+          "examples": ["The Balkans have a rich history.", "Traveling through the Balkans is exciting.", "Tensions rose in the Balkans."],
+          "collocations": ["the Balkans", "Balkans region", "Balkans history"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "balkar",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a member of the Balkar ethnic group from the Caucasus region.",
+          "examples": ["The Balkar have unique traditions.", "Many Balkar live in Russia.", "Balkar language is Turkic."],
+          "collocations": ["Balkar people", "Balkar culture"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["ethnicity"]
+        }
+      ]
+    },
+    {
+      "term": "balked",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of balk; hesitated or refused to proceed.",
+          "examples": ["She balked at the challenge.", "The team balked under pressure.", "He balked when asked to jump."],
+          "collocations": ["balked at", "suddenly balked"],
+          "synonyms": ["hesitated", "refused"],
+          "antonyms": ["agreed"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "balker",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or animal that hesitates or refuses to proceed.",
+          "examples": ["The balker held up the line.", "That horse is a known balker.", "Don't be a balker in tough times."],
+          "collocations": ["stubborn balker", "chronic balker"],
+          "synonyms": ["hesitator"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "balkers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of balker; people or animals that hesitate or refuse.",
+          "examples": ["The balkers slowed the group.", "Horse trainers deal with balkers often.", "Avoid being among the balkers."],
+          "collocations": ["many balkers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "balkier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative of balky; more likely to hesitate or refuse.",
+          "examples": ["This mule is balkier than the last.", "The balkier horse needs training.", "He's getting balkier with age."],
+          "collocations": ["balkier animal", "much balkier"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "balkiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative of balky; most likely to hesitate or refuse.",
+          "examples": ["That's the balkiest donkey on the farm.", "Among balkers, this is the balkiest.", "The balkiest player sat out."],
+          "collocations": ["balkiest horse"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "balkily",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows hesitation or refusal.",
+          "examples": ["The cart moved balkily forward.", "He responded balkily to the request.", "The engine started balkily."],
+          "collocations": ["move balkily"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "balkiness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the tendency to hesitate or refuse to proceed.",
+          "examples": ["The horse's balkiness frustrated the rider.", "His balkiness cost the team.", "Overcome your balkiness to succeed."],
+          "collocations": ["chronic balkiness"],
+          "synonyms": ["stubbornness", "hesitation"],
+          "antonyms": ["compliance"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,504 @@
+{
+  "items": [
+    {
+      "term": "beerhouses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beerhouse, a pub or tavern where beer is served",
+          "examples": [
+            "The town's beerhouses opened early on market day.",
+            "Many beerhouses disappeared during the temperance movement."
+          ],
+          "collocations": ["beerhouses in", "old beerhouses", "local beerhouses"],
+          "synonyms": ["pubs", "taverns"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beerier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative of beerily, tasting or smelling of beer; resembling beer",
+          "examples": [
+            "The brewery had a beerier aroma than the other room.",
+            "He wore a beerier scent after leaving the tavern."
+          ],
+          "collocations": ["beerier taste", "beerier smell", "beerier aroma"],
+          "synonyms": ["beer-like", "malty"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beeriest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative of beerily; having the strongest beer-like quality",
+          "examples": [
+            "The beeriest mug kicked up a foamy head.",
+            "She selected the beeriest brew on the menu."
+          ],
+          "collocations": ["beeriest brew", "beeriest aroma", "beeriest head"],
+          "synonyms": ["most beer-like", "maltiest"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beerily",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a beer-like or beer-scented manner; as if influenced by beer",
+          "examples": [
+            "He staggered beerily out of the pub.",
+            "The table beerily glowed in the candlelight."
+          ],
+          "collocations": ["beerily lit", "beerily walked", "beerily smell"],
+          "synonyms": ["beer-scentedly", "maltily"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beeriness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being beer-like or tasting of beer",
+          "examples": [
+            "The beeriness of the brew was unmistakable.",
+            "There was a strong beeriness to the aroma."
+          ],
+          "collocations": ["fruity beeriness", "beeriness of the lager"],
+          "synonyms": ["beer taste", "malty flavor"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "food and drink"]
+        }
+      ]
+    },
+    {
+      "term": "beerinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beeriness",
+          "examples": [
+            "The beerinesses varied between batches.",
+            "Chefs noted the beerinesses in different malts."
+          ],
+          "collocations": ["several beerinesses", "different beerinesses"],
+          "synonyms": ["beerinesses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beerish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "tasting or smelling of beer; reminiscent of beer",
+          "examples": [
+            "The bread had a beerish crust from the malt.",
+            "He wore a beerish hat after the festival."
+          ],
+          "collocations": ["beerish aroma", "beerish flavor"],
+          "synonyms": ["malty", "beer-like"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "food and drink"]
+        }
+      ]
+    },
+    {
+      "term": "beerishly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a beerish manner; with beer-like qualities",
+          "examples": [
+            "The loaf rose beerishly in the warm oven.",
+            "She laughed beerishly at the joke."
+          ],
+          "collocations": ["beerishly scent", "beerishly sweet"],
+          "synonyms": ["maltily", "beerily"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beermaker",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or company that makes beer; brewer",
+          "examples": [
+            "The beermaker released a new pale ale.",
+            "Many beermakers partner with local farms."
+          ],
+          "collocations": ["craft beermaker", "large beermaker"],
+          "synonyms": ["brewer", "brewery"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beermaking",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of making beer; brewing",
+          "examples": [
+            "Beermaking requires clean equipment and patience.",
+            "He studied beermaking at the local college."
+          ],
+          "collocations": ["home beermaking", "commercial beermaking"],
+          "synonyms": ["brewing", "brewery operation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beermonger",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a seller or dealer in beer; a tavern keeper",
+          "examples": [
+            "The beermonger advertised the freshest ales.",
+            "Once a beermonger, he moved to a quieter life."
+          ],
+          "collocations": ["local beermonger", "beermonger shop"],
+          "synonyms": ["brewer", "pub owner"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "beernut",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of peanut snack roasted with beer-flavored coating; also a snack term in some regions",
+          "examples": [
+            "We bought beernuts to snack on with our lager.",
+            "The beernut recipe includes malt and hops for flavor."
+          ],
+          "collocations": [" beer-flavored beernut", "salted beernut"],
+          "synonyms": ["beer nut", "beer-flavored peanut"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beernuts",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beernut; beer-flavored peanuts or snacks",
+          "examples": [
+            "We shared bowls of beernuts at the pub.",
+            "Beernuts pair well with pale ales."
+          ],
+          "collocations": ["beernuts on the bar", "salty beernuts"],
+          "synonyms": ["beer nuts"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beerocracy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a social system where beer or beer-related culture dominates governance or social life",
+          "examples": [
+            "Critics joked that the town ran on a beerocracy.",
+            "The festival showcased a beerocracy of craft brewers."
+          ],
+          "collocations": ["beerocracy culture", "local beerocracy"],
+          "synonyms": ["beer culture dominance", "brewing-elite system"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "society"]
+        }
+      ]
+    },
+    {
+      "term": "beerothite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person associated with beer; in some contexts a playful or rare term",
+          "examples": [
+            "The beero-thite attended every beer festival.",
+            "Historians note the term beerothite in old tavern records."
+          ],
+          "collocations": ["local beerothite", "famous beerothite"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beerpull",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a pull of beer from a tap; a portion of beer drawn from a keg",
+          "examples": [
+            "The waiter served a beertap with a clean beerpull.",
+            "He ordered a beerpull for the table."
+          ],
+          "collocations": ["beerpull tap", "long beerpull"],
+          "synonyms": ["draft", "pour"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beers",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beer; different kinds of beer",
+          "examples": [
+            "They sampled several beers from the local brewery.",
+            "Beers from around the world were on the menu."
+          ],
+          "collocations": ["different beers", "craft beers"],
+          "synonyms": ["ale", "lager", "stout"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "beery",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "tasting or smelling of beer; drunk",
+          "examples": [
+            "He looked beery after the game.",
+            "The beery smell clung to the room."
+          ],
+          "collocations": ["beery aroma", "beery breath"],
+          "synonyms": ["drunken", "beer-soaked"],
+          "antonyms": ["sober"],
+          "register": "informal",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bees",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "insects that produce honey; plural of bee",
+          "examples": [
+            "Bees pollinate many crops.",
+            "The beekeeper tended his hives of bees."
+          ],
+          "collocations": ["honeybees", "killer bees", "drone bees"],
+          "synonyms": ["apis mellifera (scientific)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "science"]
+        }
+      ]
+    },
+    {
+      "term": "beesome",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or playful term; no standard meaning in modern English",
+          "examples": [
+            "The term beesome appears in old glossaries.",
+            "In modern usage, beesome has no fixed meaning."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["language"]
+        }
+      ]
+    },
+    {
+      "term": "beest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or dialect form of 'beast' or a poetic term for an animal",
+          "examples": [
+            "The old manuscript uses beest in place of beast.",
+            "A mighty beest roared across the field."
+          ],
+          "collocations": ["great beest", "fierce beest"],
+          "synonyms": ["beast"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "beesting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of a bee stinging; a sting from a bee",
+          "examples": [
+            "The beesting caused swelling on his arm.",
+            "Beesting can be dangerous for allergic people."
+          ],
+          "collocations": ["bee sting", "beesting pain"],
+          "synonyms": ["sting", "stinger"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "health"]
+        }
+      ]
+    },
+    {
+      "term": "beestings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beesting; multiple bee stings",
+          "examples": [
+            "She suffered several beestings after the encounter.",
+            "Beestings can be serious for some people."
+          ],
+          "collocations": ["several beestings", "dangerous beestings"],
+          "synonyms": ["stings"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "beestride",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a poetic or archaic term for riding a beast",
+          "examples": [
+            "The knight's beestride was proud and bold.",
+            "In old tales, heroes moved with beestride across lands."
+          ],
+          "collocations": ["beestride voyage", "on beestride"],
+          "synonyms": ["mount", "ride"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "beestung",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of sting; to be stung by a bee",
+          "examples": [
+            "She beestung her arm on a thorn and a bee.",
+            "The child was beestung while picking flowers."
+          ],
+          "collocations": ["beestung by a bee", "beestung leg"],
+          "synonyms": ["stung"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "health"]
+        }
+      ]
+    }
+  ]
+}

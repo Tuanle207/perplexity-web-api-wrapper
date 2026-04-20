@@ -1,0 +1,564 @@
+{
+  "items": [
+    {
+      "term": "satellites",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "objects that orbit a planet or other celestial body, typically artificial Spacecraft or natural bodies that orbit another body.",
+          "examples": [
+            "Earth has one natural satellite: the Moon.",
+            "Many satellites are used for communication and navigation."
+          ],
+          "collocations": [
+            "communication satellites",
+            "geostationary satellite",
+            "satellite imagery",
+            "orbit a satellite",
+            "launch a satellite"
+          ],
+          "synonyms": ["moon (in case of natural satellite)","spacecraft (in some contexts)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general","science","technology"]
+        }
+      ]
+    },
+    {
+      "term": "satellitesimal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a very small satellite or satellite-like body; a scarcely detectable satellite in astronomical terms.",
+          "examples": [
+            "The astronomer noted satellitesimal debris orbiting at a negligible altitude."
+          ],
+          "collocations": [
+            "tiny satellitesimal",
+            "hypothetical satellitesimal",
+            "orbiting satellitesimal"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science","astronomy","academic"]
+        }
+      ]
+    },
+    {
+      "term": "satellitian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person associated with or dependent on a satellite system or community; a term with rare usage.",
+          "examples": [
+            "The satellitian network provided ground support for the space relay."
+          ],
+          "collocations": [
+            "satellitian network",
+            "satellitian ground station"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science","technology","general"]
+        }
+      ]
+    },
+    {
+      "term": "satellitic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to satellites or satellite systems; of or resembling a satellite.",
+          "examples": [
+            "The satellitic ring around the planet is visible in the telescope.",
+            "Satellitic connections extend our global communications."
+          ],
+          "collocations": [
+            "satellitic rings",
+            "satellitic network",
+            "satellitic communication"
+          ],
+          "synonyms": ["satellite-related","orbital"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science","technology","general"]
+        }
+      ]
+    },
+    {
+      "term": "satelliting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of creating or deploying satellites; positioning satellite assets in orbit.",
+          "examples": [
+            "The company is satelliting a fleet of small satellites.",
+            "They are satelliting more assets to improve coverage."
+          ],
+          "collocations": [
+            "satelliting a fleet",
+            "begin satelliting",
+            "satelliting program"
+          ],
+          "synonyms": ["orbiting", "deploying satellites"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology","business","general"]
+        }
+      ]
+    },
+    {
+      "term": "satellitious",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "pertaining to or resembling satellites; metaphorically describes something that clings to or follows elsewhere.",
+          "examples": [
+            "A satellitious network of allies surrounded the consortium."
+          ],
+          "collocations": [
+            "satellitious network",
+            "satellitious relationships"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business","general","academic"]
+        }
+      ]
+    },
+    {
+      "term": "satellitise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to convert into or equip with satellites; to place satellites into orbit or satellite-based systems.",
+          "examples": [
+            "They plan to satellitise the remote region with broadband."
+          ],
+          "collocations": [
+            "satellitise roads",
+            "satellitise communications"
+          ],
+          "synonyms": ["satelliteize","orbitize"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology","infrastructure","general"]
+        }
+      ]
+    },
+    {
+      "term": "satellitised",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "having been equipped with satellites or made dependent on satellite systems.",
+          "examples": [
+            "The region was satellitised to improve emergency response."
+          ],
+          "collocations": [
+            "satellitised region",
+            "satellitised communications"
+          ],
+          "synonyms": ["satellite-enabled","satellite-equipped"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology","infrastructure","general"]
+        }
+      ]
+    },
+    {
+      "term": "satellitises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of satellitise; equips with satellites or satellite systems.",
+          "examples": [
+            "The agency satellitises new sites annually."
+          ],
+          "collocations": [
+            "satellitises new sites",
+            "satellitises communications"
+          ],
+          "synonyms": ["satellitises","satellite-enables"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology","infrastructure","general"]
+        }
+      ]
+    },
+    {
+      "term": "satellitising",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of satellitise; in the process of equipping with satellites.",
+          "examples": [
+            "They are satellitising more regions to ensure coverage."
+          ],
+          "collocations": [
+            "satellitising new regions",
+            "satellitising networks"
+          ],
+          "synonyms": ["satellitising","satellite-enabling"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology","infrastructure","general"]
+        }
+      ]
+    },
+    {
+      "term": "satellitium",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fictional or hypothetical satellite or satellite-like entity; a coined term in some analyses.",
+          "examples": [
+            "Scientists discussed a new satellitium orbiting beyond Pluto."
+          ],
+          "collocations": [
+            "inner satellitium",
+            "satellitium hypothesis"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science","fiction","general"]
+        }
+      ]
+    },
+    {
+      "term": "satellitiums",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of satellitium; multiple satellite-like entities in fictional or theoretical contexts.",
+          "examples": [
+            "The model included several satellitiums circling the planet."
+          ],
+          "collocations": [
+            "several satellitiums",
+            "satellitiums class"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science","fiction","general"]
+        }
+      ]
+    },
+    {
+      "term": "satellitize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something into a satellite or to incorporate satellite-like features; to satellite-enable.",
+          "examples": [
+            "The plan is to satellitize rural broadband access."
+          ],
+          "collocations": [
+            "satellitize broadband",
+            "satellitize infrastructure"
+          ],
+          "synonyms": ["satellite-enrich","satellitise"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology","infrastructure","general"]
+        }
+      ]
+    },
+    {
+      "term": "satellitized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "having been satellitized; equipped with satellite capabilities.",
+          "examples": [
+            "The network was satellitized to improve remote monitoring."
+          ],
+          "collocations": [
+            "satellitized network",
+            "satellitized infrastructure"
+          ],
+          "synonyms": ["satellite-enabled"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology","infrastructure","general"]
+        }
+      ]
+    },
+    {
+      "term": "satellitizes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of satellitize; to make something satellite-enabled.",
+          "examples": [
+            "The company satellitizes every new product for global reach."
+          ],
+          "collocations": [
+            "satellitizes products",
+            "satellitizes services"
+          ],
+          "synonyms": ["satellite-enables"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology","business","general"]
+        }
+      ]
+    },
+    {
+      "term": "satellitizing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of satellitize; in the process of satellitizing.",
+          "examples": [
+            "They are satellitizing the entire network to ensure redundancy."
+          ],
+          "collocations": [
+            "satellitizing networks",
+            "satellitizing regions"
+          ],
+          "synonyms": ["satellitising"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology","infrastructure","general"]
+        }
+      ]
+    },
+    {
+      "term": "satellitoid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a body resembling a satellite; a small moon or satellite-like object in fiction or theory.",
+          "examples": [
+            "The model described a satellitoid orbiting a gas giant."
+          ],
+          "collocations": [
+            "satellitoid orbit",
+            "fictional satellitoid"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "fictional",
+          "domain": ["science","fiction","general"]
+        }
+      ]
+    },
+    {
+      "term": "satellitory",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to satellites or satellite systems; allied or supplementary.",
+          "examples": [
+            "A satellitory framework supports the main network."
+          ],
+          "collocations": [
+            "satellitory framework",
+            "satellitory data"
+          ],
+          "synonyms": ["satellite-related"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology","general"]
+        }
+      ]
+    },
+    {
+      "term": "satelloid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small, moon-like body or object resembling a satellite; a coined term in some contexts.",
+          "examples": [
+            "The researchers studied a satelloid passing by."
+          ],
+          "collocations": [
+            "satelloid body",
+            "satelloid object"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science","fiction","general"]
+        }
+      ]
+    },
+    {
+      "term": "satem",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a historical or linguistic term referring to a phonetic feature in some language varieties; not commonly used in everyday English.",
+          "examples": [
+            "Linguists discussed the satem–centum division."
+          ],
+          "collocations": [
+            "satem language",
+            "satem–centum"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics","academic"]
+        }
+      ]
+    },
+    {
+      "term": "sates",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present or plural form of sate; to satisfy fully.",
+          "examples": [
+            "The meal sates even the hungriest guests.",
+            "A long run sates the athlete's appetite."
+          ],
+          "collocations": [
+            "sates appetite",
+            "sates curiosity"
+          ],
+          "synonyms": ["satisfies","fulfills"],
+          "antonyms": ["hunts for more","leaves unsatisfied"],
+          "register": "neutral",
+          "domain": ["general","everyday","food"]
+        }
+      ]
+    },
+    {
+      "term": "sati",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is satisfied; or in some contexts a term from yoga or philosophy relating to fullness of mind or experience.",
+          "examples": [
+            "The yogi spoke of sati as a calm, content state."
+          ],
+          "collocations": [
+            "inner sati",
+            "state of sati"
+          ],
+          "synonyms": ["contentment","satisfaction"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy","spirituality","general"]
+        }
+      ]
+    },
+    {
+      "term": "satiabilities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of satiability; the degree to which something can be satisfied or fulfilled.",
+          "examples": [
+            "The satiabilities of the product vary by user needs."
+          ],
+          "collocations": [
+            "degrees of satiability",
+            "high satiabilities"
+          ],
+          "synonyms": ["satisfaction potential"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business","consumer","general"]
+        }
+      ]
+    },
+    {
+      "term": "satiability",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the capacity to be satisfied; the state of satisfaction or fullness.",
+          "examples": [
+            "The satiability of the meal was high."
+          ],
+          "collocations": [
+            "great satiability",
+            "lack of satiability"
+          ],
+          "synonyms": ["satisfaction","fulfillment"],
+          "antonyms": ["insatiability","unfulfillment"],
+          "register": "neutral",
+          "domain": ["general","food","psychology"]
+        }
+      ]
+    },
+    {
+      "term": "satiable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be satisfied; capable of being fulfilled.",
+          "examples": [
+            "The appetite is not satiable; it continues to grow."
+          ],
+          "collocations": [
+            "insatiable appetite",
+            "satiable needs"
+          ],
+          "synonyms": ["satisfied","fulfillable"],
+          "antonyms": ["insatiable"],
+          "register": "neutral",
+          "domain": ["general","psychology","food"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "items": [
+    {
+      "term": "numero",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a shortened form of a number; often used in titles or as a label denoting order or quantity in lists, especially in languages other than English or in stylized contexts",
+          "examples": ["The headline began with the numero of the issue in the table of contents."],
+          "collocations": ["numero uno", "numero sign", "numero is used in musical scores"],
+          "synonyms": ["number", "ordinal", "figure"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "language", "publishing"]
+        }
+      ]
+    },
+    {
+      "term": "numerological",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to numerology, the belief that numbers influence personality or events",
+          "examples": ["They discussed numerological patterns in the plan."],
+          "collocations": ["numerological readings", "numerological signs", "numerological theory"],
+          "synonyms": ["numerologic (alternative spelling)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "occult", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "numerologies",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study of numbers and their supposed influence on human life; the practice of assigning symbolic meanings to numbers",
+          "examples": ["Her interest lies in the numerologies that appear in ancient texts."],
+          "collocations": ["various numerologies", "popular numerologies", "numerologies explored"],
+          "synonyms": ["numerology systems", "number mysticism"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["occult", "religion", "esoterica"]
+        }
+      ]
+    },
+    {
+      "term": "numerologist",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who practices numerology, interpreting numbers to provide insights or predictions",
+          "examples": ["The numerologist predicted a year of change."],
+          "collocations": ["consulting numerologist", "famous numerologist", "numerologist claims"],
+          "synonyms": ["number mystic", "numerology practitioner"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["occult", "entertainment", "self-help"]
+        }
+      ]
+    },
+    {
+      "term": "numerologists",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of numerologist; people who practice numerology",
+          "examples": ["A group of numerologists gathered at the conference."],
+          "collocations": ["several numerologists", "numerologists agree", "famous numerologists"],
+          "synonyms": ["number mystics", "numerology practitioners"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["occult", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "numerology",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study of the supposed influence of numbers on people and events",
+          "examples": ["She is interested in numerology and astrology."],
+          "collocations": ["practice of numerology", "numerology chart", "numerology readings"],
+          "synonyms": ["number mysticism", "numberology"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["occult", "spirituality"]
+        }
+      ]
+    },
+    {
+      "term": "numeros",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of 'numero' in some languages; used as a label or count in catalogs or lists",
+          "examples": ["Capítulo 3, números anteriores."],
+          "collocations": ["los numeros", "números en la lista"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "cataloging"]
+        }
+      ]
+    },
+    {
+      "term": "numerose",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "archaic or rare form meaning abundant; numerous",
+          "examples": ["Were there numerose mistakes in the manuscript?"].concat([]),
+          "collocations": ["numerose errors", "numerose instances"],
+          "synonyms": ["many", "numerous", "countless"],
+          "antonyms": ["few", "scarce", "sparse"],
+          "register": "archaic",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "numerosities",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being numerous; the number of something",
+          "examples": ["The numerosities of stars in the sky are astounding."],
+          "collocations": ["great numerosities", "numerosities of data", "counting numerosities"],
+          "synonyms": ["numbers", "count", "quantity"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "science"]
+        }
+      ]
+    },
+    {
+      "term": "numerosity",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quantity or number of something; the state of being numerous",
+          "examples": ["Numerosity increases as more items are added."],
+          "collocations": ["perceived numerosity", "numerosity perception", "numerosity statistics"],
+          "synonyms": ["quantity", "number", "multiplicity"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "psychology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "numerous",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "many; a large number of",
+          "examples": ["There were numerous reasons to stay home.", "The project faced numerous challenges."],
+          "collocations": ["numerous examples", "numerous factors", "numerous times"],
+          "synonyms": ["many", "countless", "abundant"],
+          "antonyms": ["few", "scarce"],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "numerously",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a numerous or plentiful manner",
+          "examples": ["The streets were numerously decorated for the festival."],
+          "collocations": ["numerously distributed", "numerously populated"],
+          "synonyms": ["abundantly", "plentifully"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "numerousness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being numerous; multitude",
+          "examples": ["The numerousness of stars astonished him."],
+          "collocations": ["great numerousness", "degree of numerousness"],
+          "synonyms": ["multiplicity", "abundance"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "science"]
+        }
+      ]
+    },
+    {
+      "term": "numerousnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form referring to multiple instances of numerousness",
+          "examples": ["The numerousnesses observed varied by region."],
+          "collocations": ["different numerousnesses", "varying numerousnesses"],
+          "synonyms": ["multiplicities", "abundances"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "numida",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a historical African tribe or related to Numidia in ancient contexts",
+          "examples": ["Numida troops were described in ancient texts."],
+          "collocations": ["Numida tribe", "Numidian history"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "numidae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the biological family Numidae? Note: historically used to refer to Numididae, the scientifically accepted family of guinea fowls and related birds",
+          "examples": ["The Numidae include several species of game birds."],
+          "collocations": ["Numidae family", "Numididae classification"],
+          "synonyms": ["Numididae"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "zoology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "numidian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to Numidia or its people in ancient times",
+          "examples": ["Numidian soldiers were known for their cavalry."],
+          "collocations": ["Numidian language", "Numidian culture"],
+          "synonyms": ["Numidic"],
+          "antonyms": [],
+          "register": "historical",
+          "domain": ["history", "anthropology"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a native or inhabitant of Numidia; an ancient North African people",
+          "examples": ["The Numidians traded with Rome."],
+          "collocations": ["Numidian king", "Numidian horsemen"],
+          "synonyms": ["Numidian person"],
+          "antonyms": [],
+          "register": "historical",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "numididae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a family classification in zoology; historically used for Numididae, now often Numididae is the accepted family name",
+          "examples": ["Classification of the Numididae has changed over time."],
+          "collocations": ["Numididae family", "Numididae birds"],
+          "synonyms": ["Numididae (Numidinae)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "zoology"]
+        }
+      ]
+    },
+    {
+      "term": "numidinae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a subfamily within the family Numididae; often includes the guinea fowls",
+          "examples": ["Guinea fowls belong to Numidinae."],
+          "collocations": ["Numidinae subfamily", "Numidinae classification"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "numina",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "divine powers or spirits; plural of numen, a godly presence",
+          "examples": ["The temple housed the numina of several gods."],
+          "collocations": ["numina of the gods", "guardian numina"],
+          "synonyms": ["deities", "divine powers", "gods"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["religion", "mythology", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "numine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the divine will or power perceived as manifesting in events; related to numen",
+          "examples": ["They sensed the numine guiding their decisions."],
+          "collocations": ["numine influence", "under numine"],
+          "synonyms": ["divine will", "numen"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["religion", "philosophy", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "numinism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "belief in numina; reverence for divine powers or numinous forces",
+          "examples": ["Her interests include numinism and ancient rites."],
+          "collocations": ["study of numinism", "numinism belief"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "numinous",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a strong spiritual or mysterious quality that makes you feel awe",
+          "examples": ["The cathedral's architecture gave a numinous sense of awe."],
+          "collocations": ["numinous atmosphere", "numinous presence", "numinous experience"],
+          "synonyms": ["mystical", "sacred", "awe-inspiring"],
+          "antonyms": ["ordinary", "unimpressive"],
+          "register": "formal",
+          "domain": ["religion", "arts", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "numinouses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "plural form of numinous; instances or qualities that are numinous",
+          "examples": ["The numinouses moments stayed with him."],
+          "collocations": ["numinouses feelings", "numinouses moments"],
+          "synonyms": ["mystical", "sacred"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["religion", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "numinously",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a numinous or spiritually awe-creating way",
+          "examples": ["The cave glowed numinously in the dawn light."],
+          "collocations": ["numinously lit", "numinously felt"],
+          "synonyms": ["mysteriously", "sacredly"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["religion", "arts"]
+        }
+      ]
+    }
+  ]
+}

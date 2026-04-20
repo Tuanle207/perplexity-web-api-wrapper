@@ -1,0 +1,481 @@
+```json
+{
+  "items": [
+    {
+      "term": "barreled",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a specified type or number of barrels.",
+          "examples": ["a double-barreled shotgun", "single-barreled pistols are less common today."],
+          "collocations": ["double-barreled shotgun", "single-barreled gun", "triple-barreled", "barreled chest"],
+          "synonyms": ["cask-shaped", "tubular"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "weapons"]
+        },
+        {
+          "pos": "verb",
+          "definition": "past tense of barrel: to move very fast.",
+          "examples": ["The car barreled down the highway.", "He barreled through the door in a hurry."],
+          "collocations": ["barreled down", "barreled along", "barreled through", "barreled past"],
+          "synonyms": ["raced", "sped", "hurtled"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barreler",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or machine that puts things into barrels.",
+          "examples": ["The winery hired a barreler for the harvest season.", "An automatic barreler fills bottles quickly."],
+          "collocations": ["wine barreler", "beer barreler", "automatic barreler"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "barrelet",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small barrel.",
+          "examples": ["The shop sold miniature barrelets for decoration."],
+          "collocations": ["miniature barrelet", "decorative barrelet"],
+          "synonyms": ["small cask"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barreleye",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a deep-sea fish with barrel-shaped, transparent eyes that can rotate.",
+          "examples": ["The barreleye fish surprised scientists with its unique eyes.", "Divers rarely see a barreleye in the ocean depths."],
+          "collocations": ["barreleye fish", "transparent-barreled eyes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "marine"]
+        }
+      ]
+    },
+    {
+      "term": "barreleyes",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barreleye: deep-sea fish with barrel-shaped eyes.",
+          "examples": ["Barreleyes live in the Pacific Ocean.", "Scientists study barreleyes for their vision."],
+          "collocations": ["deep-sea barreleyes", "barreleyes eyes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "marine"]
+        }
+      ]
+    },
+    {
+      "term": "barrelfish",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a black fish living in deep Atlantic waters.",
+          "examples": ["The barrelfish is caught for food in some areas.", "Anglers seek the barrelfish offshore."],
+          "collocations": ["black barrelfish", "Atlantic barrelfish"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "fishing"]
+        }
+      ]
+    },
+    {
+      "term": "barrelfishes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barrelfish.",
+          "examples": ["Barrelfishes swim in schools at great depths."],
+          "collocations": ["deep-sea barrelfishes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "fishing"]
+        }
+      ]
+    },
+    {
+      "term": "barrelful",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the amount a barrel can hold.",
+          "examples": ["She poured a barrelful of water on the fire.", "A barrelful of apples filled the basket."],
+          "collocations": ["barrelful of water", "barrelful of grain", "one barrelful"],
+          "synonyms": ["barrel-load"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barrelfuls",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barrelful: multiple amounts a barrel holds.",
+          "examples": ["They harvested barrelfuls of grapes.", "Barrelfuls of rain filled the tanks."],
+          "collocations": ["several barrelfuls", "barrelfuls of fruit"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barrelhead",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the flat top of a barrel.",
+          "examples": ["He sat on the barrelhead to rest.", "Wine ages under the barrelhead."],
+          "collocations": ["on the barrelhead", "wooden barrelhead"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barrelheads",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barrelhead: flat tops of barrels.",
+          "examples": ["The barrelheads were sealed tightly."],
+          "collocations": ["sealed barrelheads"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barrelhouse",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a lively style of jazz music from the early 1900s.",
+          "examples": ["Fans love barrelhouse piano at the festival.", "She plays barrelhouse in small clubs."],
+          "collocations": ["barrelhouse piano", "barrelhouse jazz", "barrelhouse style"],
+          "synonyms": ["boogie-woogie"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a cheap bar or saloon serving alcohol from barrels.",
+          "examples": ["Old barrelhouse saloons dotted the town.", "They drank at the barrelhouse after work."],
+          "collocations": ["barrelhouse saloon", "barrelhouse bar"],
+          "synonyms": ["dive bar"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["historical"]
+        }
+      ]
+    },
+    {
+      "term": "barrelhouses",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barrelhouse: lively jazz style or cheap bars.",
+          "examples": ["Barrelhouses played music all night.", "Several barrelhouses lined the street."],
+          "collocations": ["old barrelhouses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "barreling",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "moving very fast in a straight line.",
+          "examples": ["The truck is barreling toward us.", "Waves are barreling onto the shore."],
+          "collocations": ["barreling down", "barreling along", "barreling through"],
+          "synonyms": ["racing", "speeding"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barrelled",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "British spelling of barreled: having barrels or barrel-shaped.",
+          "examples": ["A double-barrelled shotgun is powerful.", "He has a barrelled chest from exercise."],
+          "collocations": ["double-barrelled", "single-barrelled"],
+          "synonyms": ["cask-like"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "weapons"]
+        },
+        {
+          "pos": "verb",
+          "definition": "British past tense of barrel: moved fast.",
+          "examples": ["The bus barrelled past the stop."],
+          "collocations": ["barrelled down", "barrelled through"],
+          "synonyms": ["raced"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barrelling",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "British spelling of barreling: moving very fast.",
+          "examples": ["The train is barrelling through the tunnel.", "She is barrelling toward her goal."],
+          "collocations": ["barrelling along", "barrelling down"],
+          "synonyms": ["speeding", "rushing"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barrelmaker",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who makes barrels.",
+          "examples": ["The barrelmaker crafted oak casks.", "He learned from his father, a skilled barrelmaker."],
+          "collocations": ["cooper barrelmaker", "wine barrelmaker"],
+          "synonyms": ["cooper"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "barrelmaking",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the craft or industry of making barrels.",
+          "examples": ["Barrelmaking requires skilled woodworking.", "Modern barrelmaking uses new tools."],
+          "collocations": ["traditional barrelmaking", "oak barrelmaking"],
+          "synonyms": ["cooperage"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["craft", "business"]
+        }
+      ]
+    },
+    {
+      "term": "barrels",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barrel: large containers for liquids.",
+          "examples": ["The farm stored barrels of cider.", "Beer comes in wooden barrels."],
+          "collocations": ["wooden barrels", "oil barrels", "rain barrels"],
+          "synonyms": ["casks", "drums"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barrelsful",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barrelful: multiple barrel amounts.",
+          "examples": ["They collected barrelsful of rainwater."],
+          "collocations": ["barrelsful of water"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barrelwise",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in the direction of a barrel's axis.",
+          "examples": ["The wood is cut barrelwise for staves."],
+          "collocations": ["cut barrelwise"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technical"]
+        }
+      ]
+    },
+    {
+      "term": "barren",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "land with no plants or trees.",
+          "examples": ["The desert is barren and dry.", "Barren fields need water to grow crops."],
+          "collocations": ["barren land", "barren desert", "barren soil"],
+          "synonyms": ["sterile", "lifeless", "empty"],
+          "antonyms": ["fertile", "productive"],
+          "register": null,
+          "domain": ["general", "geography"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "unable to produce children or crops.",
+          "examples": ["The barren tree bore no fruit.", "She worried about her barren womb."],
+          "collocations": ["barren woman", "barren tree", "barren womb"],
+          "synonyms": ["infertile", "childless"],
+          "antonyms": ["fertile", "fruitful"],
+          "register": null,
+          "domain": ["general", "medicine"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "lacking interest or ideas.",
+          "examples": ["His speech was barren of new ideas.", "The room felt barren and cold."],
+          "collocations": ["barren of ideas", "barren landscape"],
+          "synonyms": ["empty", "dull"],
+          "antonyms": ["rich", "full"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barrener",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative of barren: more unable to produce.",
+          "examples": ["This land is barrener than the valley.", "The barrener soil needs more fertilizer."],
+          "collocations": ["barrener land", "barrener soil"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barrenest",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative of barren: most unable to produce.",
+          "examples": ["The mountain top is the barrenest place.", "It was the barrenest winter for crops."],
+          "collocations": ["barrenest land"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barrenly",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows no growth or interest.",
+          "examples": ["The wind blew barrenly over the plains."],
+          "collocations": ["blew barrenly"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    }
+  ]
+}
+```

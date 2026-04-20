@@ -1,0 +1,572 @@
+[
+  {
+    "term": "benzene",
+    "kind": "word",
+    "cefrLevel": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A colorless, highly flammable liquid hydrocarbon with the formula C6H6, used as a solvent and as a starting material for many chemicals.",
+        "examples": [
+          "Benzene is a common solvent in chemical laboratories.",
+          "Exposure to benzene can be harmful to health."
+        ],
+        "collocations": [
+          "benzene solvent",
+          "benzene ring",
+          "benzene exposure",
+          "benzene vapors",
+          "benzene concentration"
+        ],
+        "synonyms": ["aromatic hydrocarbon", "C6H6"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry", "general"]
+      }
+    ]
+  },
+  {
+    "term": "benzeneazobenzene",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A chemical compound consisting of a benzene ring linked to an azobenzene moiety, used in specialized chemistry contexts.",
+        "examples": [
+          "The synthesis involved a benzeneazobenzene intermediate.",
+          "Researchers studied the photoresponse of benzeneazobenzene derivatives."
+        ],
+        "collocations": [
+          "benzeneazobenzene intermediate",
+          "benzeneazobenzene derivative"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzenecarbonyl",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A chemical group or compound fragment related to a benzene ring attached to a carbonyl group (benzoyl-type structures).",
+        "examples": [
+          "The benzenecarbonyl moiety was key to the compound's reactivity."
+        ],
+        "collocations": [
+          "benzenecarbonyl group",
+          "benzenecarbonyl derivative"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzenediazonium",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A benzene ring attached to a diazonium group (−N2+), used in azo coupling and other aryl chemistry reactions.",
+        "examples": [
+          "Benzenediazonium salts are common intermediates in dye synthesis.",
+          "The diazonium salt of benzene participates in electrophilic aromatic substitution."
+        ],
+        "collocations": [
+          "benzenediazonium salt",
+          "benzenediazonium coupling",
+          "benzenediazonium reaction"
+        ],
+        "synonyms": ["aryl diazonium", "diazonium salt (benzene)"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry", "industry"]
+      }
+    ]
+  },
+  {
+    "term": "benzenes",
+    "kind": "word",
+    "cefrLevel": "A1",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "The plural of benzene; several benzene molecules.",
+        "examples": [
+          "The sample contained several benzenes.",
+          "Benzenes are aromatic hydrocarbons."
+        ],
+        "collocations": [
+          "benzenes concentration",
+          "benzenes molecules",
+          "benzenes ring"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "neutral",
+        "domain": ["science", "chemistry", "general"]
+      }
+    ]
+  },
+  {
+    "term": "benzenoid",
+    "kind": "word",
+    "cefrLevel": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A compound related to benzene structures, often used to describe benzene-like ring systems in chemistry.",
+        "examples": [
+          "Benzenoid compounds are common in aromatic chemistry.",
+          "The benzenoid framework was essential to the dye's properties."
+        ],
+        "collocations": [
+          "benzenoid compound",
+          "benzenoid structure",
+          "benzenoid system"
+        ],
+        "synonyms": ["arene-based compound"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzenoids",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Plural form of benzenoid; multiple benzenoid compounds or structures.",
+        "examples": [
+          "The catalog lists several benzenoids.",
+          "Benzenoids vary in their substituents."
+        ],
+        "collocations": [
+          "benzenoids family",
+          "benzenoids derivatives"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzenyl",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A substituent group derived from benzene, denoted as a phenyl group when attached to another moiety.",
+        "examples": [
+          "The benzenyl group acts as a reactive aryl substituent.",
+          "Benzenyl substitutions influence the compound's properties."
+        ],
+        "collocations": [
+          "benzenyl radical",
+          "benzenyl group",
+          "benzenyl substituent"
+        ],
+        "synonyms": ["phenyl group"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzhydrol",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A specific diaryl carbinol compound used in organic synthesis, also known as diphenylmethanol.",
+        "examples": [
+          "Benzyhydrol is a common intermediate in dye synthesis.",
+          "The synthesis started from benzhydrol."
+        ],
+        "collocations": [
+          "benzhydrol intermediate",
+          "benzhydrol synthesis"
+        ],
+        "synonyms": ["diphenylmethanol"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzhydroxamic",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "An adjective describing a benzhydroxamic acid or related compound; used in specialized chemistry contexts.",
+        "examples": [
+          "The benzhydroxamic derivative showed interesting coordination behavior."
+        ],
+        "collocations": [
+          "benzhydroxamic acid",
+          "benzhydroxamic derivative"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzidin",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A chemical compound used as a dye intermediate; often known as benzidine in English.",
+        "examples": [
+          "Benzidin is an older dye precursor.",
+          "The benzidin derivative was studied for polymer synthesis."
+        ],
+        "collocations": [
+          "benzidin dye",
+          "benzidin derivative"
+        ],
+        "synonyms": ["benzidine"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzidine",
+    "kind": "word",
+    "cefrLevel": "A2",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A chemical compound used historically as a dye intermediate; also a source of carcinogenic concerns.",
+        "examples": [
+          "Benzidine was widely used in dye production in the 20th century.",
+          "Handling benzidine requires strict safety measures."
+        ],
+        "collocations": [
+          "benzidine dye",
+          "benzidine synthesis",
+          "benzidine exposure"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "industry", "health"]
+      }
+    ]
+  },
+  {
+    "term": "benzidines",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Plural of benzidine; multiple benzidine compounds or derivatives.",
+        "examples": [
+          "The lab tested several benzidines.",
+          "Benzidines are considered hazardous in exposure."
+        ],
+        "collocations": [
+          "benzidines samples",
+          "benzidines derivatives"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry", "industry"]
+      }
+    ]
+  },
+  {
+    "term": "benzidino",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A chemical prefix or fragment related to benzidine-based structures; used in naming certain compounds.",
+        "examples": [
+          "The benzidino moiety was introduced in the synthetic route."
+        ],
+        "collocations": [
+          "benzidino moiety",
+          "benzidino derivative"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzidins",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Plural of benzidin; multiple benzidine-related compounds.",
+        "examples": [
+          "The researchers synthesized several benzidins."
+        ],
+        "collocations": [
+          "benzidins derivatives",
+          "benzidins samples"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzil",
+    "kind": "word",
+    "cefrLevel": "A2",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A diketone compound (1,2-diphenylethane-1,2-dione) used in organic synthesis.",
+        "examples": [
+          "Benzil is used as an electrophile in some reactions.",
+          "The benzil derivative showed interesting reactivity."
+        ],
+        "collocations": [
+          "benzil synthesis",
+          "benzil derivative",
+          "benzil oxidation"
+        ],
+        "synonyms": ["diphenylglyoxal"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzilic",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "adjective",
+        "definition": "Relating to or describing a benzilic acid or benzil-related reaction or compound.",
+        "examples": [
+          "Benzilic rearrangement is a well-known organic reaction."
+        ],
+        "collocations": [
+          "benzilic rearrangement",
+          "benzilic acid"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzils",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Plural of benzil; multiple diketone compounds used in synthesis.",
+        "examples": [
+          "The mixture contained several benzils."
+        ],
+        "collocations": [
+          "benzils synthesis",
+          "benzils derivatives"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzimidazole",
+    "kind": "word",
+    "cefrLevel": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A bicyclic heterocycle containing two imidazole rings fused to a benzene; widely used in medicinal chemistry.",
+        "examples": [
+          "Benzimidazole rings are common in many drugs.",
+          "The benzimidazole scaffold was optimized for activity."
+        ],
+        "collocations": [
+          "benzimidazole ring",
+          "benzimidazole derivative",
+          "benzimidazole core"
+        ],
+        "synonyms": ["benzimidazole compound"],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry", "medicine"]
+      }
+    ]
+  },
+  {
+    "term": "benzimidazoles",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Plural of benzimidazole; multiple compounds containing the benzimidazole core.",
+        "examples": [
+          "The library contains several benzimidazoles with varying substituents."
+        ],
+        "collocations": [
+          "benzimidazoles derivatives",
+          "benzimidazoles pharmacophore"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry", "medicine"]
+      }
+    ]
+  },
+  {
+    "term": "benziminazole",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A chemical term related to benzimidazole variants; used in naming compounds or scaffolds.",
+        "examples": [
+          "A benziminazole derivative was synthesized."
+        ],
+        "collocations": [
+          "benziminazole derivative"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzin",
+    "kind": "word",
+    "cefrLevel": "A1",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A spelling variant of benzene in some languages; in English, typically refers to petrol/guel in some contexts, but not standard.",
+        "examples": [
+          "In some older texts, benzin is used to refer to benzene.",
+          "The term benzin is not common in modern English."
+        ],
+        "collocations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "neutral",
+        "domain": ["linguistics", "history"]
+      }
+    ]
+  },
+  {
+    "term": "benzinduline",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A specific chemical name likely referring to a heterocyclic dye or intermediate; used in niche contexts.",
+        "examples": [
+          "The benzinduline compound was studied for dye properties."
+        ],
+        "collocations": [
+          "benzinduline dye",
+          "benzinduline intermediate"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "formal",
+        "domain": ["science", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzine",
+    "kind": "word",
+    "cefrLevel": "A1",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "An old or alternative spelling of benzene; in modern English, benzene is the standard form.",
+        "examples": [
+          "Some older texts spell it as ben-zine."
+        ],
+        "collocations": [
+          "benzine solvent",
+          "benzine grade"
+        ],
+        "synonyms": ["benzene"],
+        "antonyms": [],
+        "register": "neutral",
+        "domain": ["linguistics", "chemistry"]
+      }
+    ]
+  },
+  {
+    "term": "benzines",
+    "kind": "word",
+    "cefrLevel": "null",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Plural form of benzin or benzine; multiple instances or spellings in older texts.",
+        "examples": [
+          "The archive contains several references to benzines."
+        ],
+        "collocations": [
+          "benzines supply",
+          "benzines substitutes"
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "register": "neutral",
+        "domain": ["linguistics", "history", "chemistry"]
+      }
+    ]
+  }
+]

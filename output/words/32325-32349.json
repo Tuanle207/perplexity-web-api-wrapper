@@ -1,0 +1,451 @@
+```json
+{
+  "items": [
+    {
+      "term": "bande",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A strip or band of material, often used in heraldry or as a decorative element.",
+          "examples": ["The bande on the shield was red and gold.", "She tied a bande around her hair."],
+          "collocations": ["heraldic bande", "decorative bande", "silk bande", "colored bande"],
+          "synonyms": ["band", "strip", "ribbon"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["heraldry", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bandeau",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A narrow band of fabric worn around the head to hold hair in place.",
+          "examples": ["She wore a bandeau to keep her hair back during the beach day.", "The bandeau matched her swimsuit perfectly."],
+          "collocations": ["silk bandeau", "elastic bandeau", "head bandeau", "fashion bandeau"],
+          "synonyms": ["headband", "hairband"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fashion", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A strapless top or brassiere that covers the chest.",
+          "examples": ["She chose a bandeau bikini for the summer.", "The bandeau provided good support under her dress."],
+          "collocations": ["bandeau top", "bandeau bra", "strapless bandeau", "bikini bandeau"],
+          "synonyms": ["tube top", "strapless bra"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bandeaus",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bandeau; narrow bands worn on the head or strapless tops.",
+          "examples": ["The store sells bandeaus in many colors.", "She collects vintage bandeaus."],
+          "collocations": ["colored bandeaus", "silk bandeaus", "summer bandeaus"],
+          "synonyms": ["headbands", "tube tops"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bandeaux",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bandeau; narrow bands for the head or strapless garments.",
+          "examples": ["She displayed her collection of bandeaux.", "Bandeaux were popular in the 1920s."],
+          "collocations": ["vintage bandeaux", "elastic bandeaux", "fashion bandeaux"],
+          "synonyms": ["headbands"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fashion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "banded",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Marked with bands or stripes of color or material.",
+          "examples": ["The banded snake slithered away.", "She wore banded stockings."],
+          "collocations": ["banded snake", "banded pattern", "color-banded", "striped banded"],
+          "synonyms": ["striped", "streaked", "barred"],
+          "antonyms": ["plain", "uniform"],
+          "register": "null",
+          "domain": ["general", "nature"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Grouped or organized into bands or groups.",
+          "examples": ["The banded workers protested together.", "They formed banded teams for the project."],
+          "collocations": ["banded groups", "banded teams", "united banded"],
+          "synonyms": ["grouped", "united"],
+          "antonyms": ["scattered"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bandeira",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A Portuguese word for flag; also a surname or place name.",
+          "examples": ["The Bandeira family lives nearby.", "Bandeira is a common name in Brazil."],
+          "collocations": ["Portuguese bandeira", "family Bandeira"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["names", "Portuguese"]
+        }
+      ]
+    },
+    {
+      "term": "bandeirante",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A Portuguese or Brazilian explorer who traveled inland in colonial Brazil searching for gold, slaves, and precious stones.",
+          "examples": ["Bandeirantes expanded Brazil's territory.", "The bandeirante led expeditions into the interior."],
+          "collocations": ["colonial bandeirante", "Brazilian bandeirante", "gold-seeking bandeirante"],
+          "synonyms": ["explorer", "adventurer"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bandeirantes",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bandeirante; colonial Brazilian explorers.",
+          "examples": ["Statues honor the bandeirantes in São Paulo.", "Bandeirantes shaped Brazil's history."],
+          "collocations": ["famous bandeirantes", "colonial bandeirantes"],
+          "synonyms": ["explorers"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bandeiras",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Expeditions or bands of bandeirantes in colonial Brazil.",
+          "examples": ["The bandeiras traveled far inland.", "Bandeiras sought treasures in the wilderness."],
+          "collocations": ["famous bandeiras", "treasure bandeiras"],
+          "synonyms": ["expeditions"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bandel",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A surname or a type of architectural band/molding.",
+          "examples": ["Mr. Bandel owns the shop.", "The bandel decorates the column."],
+          "collocations": ["architectural bandel"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["names", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "bandelet",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small band or bandage; also a flat architectural molding.",
+          "examples": ["The bandelet wrapped the injury.", "The column featured a bandelet molding."],
+          "collocations": ["architectural bandelet", "small bandelet", "decorative bandelet"],
+          "synonyms": ["band", "fillet", "molding"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["architecture", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bandelets",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bandelet; small bands or moldings.",
+          "examples": ["The building has bandelets along the cornice.", "She used bandelets for the wounds."],
+          "collocations": ["decorative bandelets"],
+          "synonyms": ["bands", "fillets"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "bandelette",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A narrow band or strip, especially in architecture as a small molding.",
+          "examples": ["The bandelette added detail to the arch.", "Bandelette is used in classical designs."],
+          "collocations": ["architectural bandelette", "narrow bandelette"],
+          "synonyms": ["fillet", "listel"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "bandelier",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A broad belt worn over the shoulder with loops or pockets for carrying items, especially ammunition.",
+          "examples": ["The soldier wore a bandelier full of bullets.", "Cowboys often carry bandeliers."],
+          "collocations": ["ammunition bandelier", "leather bandelier", "shoulder bandelier"],
+          "synonyms": ["bandolier", "cartridge belt"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["military", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bandeliers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bandelier; belts for carrying ammunition.",
+          "examples": ["The troops equipped their bandeliers.", "Bandeliers hung on the wall."],
+          "collocations": ["loaded bandeliers", "leather bandeliers"],
+          "synonyms": ["bandoliers"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "bandeng",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A type of fish (Parapercis bando) found in Southeast Asian waters.",
+          "examples": ["Bandeng is popular in Indonesian cuisine.", "He caught a bandeng in the river."],
+          "collocations": ["fresh bandeng", "grilled bandeng"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food", "fish"]
+        }
+      ]
+    },
+    {
+      "term": "bander",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "One who bands together or a surname.",
+          "examples": ["The bander organized the group.", "Mr. Bander attended the meeting."],
+          "collocations": ["group bander"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "banderilla",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A barbed dart with colorful ribbons thrust into a bull's neck during a bullfight.",
+          "examples": ["The matador placed the banderilla accurately.", "Banderillas weaken the bull."],
+          "collocations": ["colored banderilla", "bullfight banderilla"],
+          "synonyms": ["dart"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["bullfighting"]
+        }
+      ]
+    },
+    {
+      "term": "banderillas",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banderilla; darts used in bullfights.",
+          "examples": ["The crowd cheered the banderillas.", "Several banderillas stuck in the bull."],
+          "collocations": ["sharp banderillas"],
+          "synonyms": ["darts"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["bullfighting"]
+        }
+      ]
+    },
+    {
+      "term": "banderillero",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A bullfighter who specializes in placing banderillas on the bull.",
+          "examples": ["The banderillero performed bravely.", "The banderillero stuck the banderillas perfectly."],
+          "collocations": ["skilled banderillero", "bullfight banderillero"],
+          "synonyms": ["bullfighter"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["bullfighting"]
+        }
+      ]
+    },
+    {
+      "term": "banderilleros",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banderillero; bullfighters who place banderillas.",
+          "examples": ["Two banderilleros entered the ring.", "Banderilleros prepared for the next bull."],
+          "collocations": ["professional banderilleros"],
+          "synonyms": ["bullfighters"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["bullfighting"]
+        }
+      ]
+    },
+    {
+      "term": "banderlog",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A term from Rudyard Kipling's Jungle Book for the monkeys; a disorderly crowd.",
+          "examples": ["The banderlog chattered noisily in the trees.", "The banderlog caused chaos in the story."],
+          "collocations": ["noisy banderlog", "monkey banderlog"],
+          "synonyms": ["mob", "horde"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "banderma",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A surname or rare term with no standard English sense.",
+          "examples": ["Banderma is her family name."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["names"]
+        }
+      ]
+    },
+    {
+      "term": "banderol",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small flag or streamer on a mast; also a label on goods.",
+          "examples": ["The ship flew a banderol.", "The banderol marked the product."],
+          "collocations": ["ship banderol", "flag banderol", "cigar banderol"],
+          "synonyms": ["banner", "streamer", "label"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["nautical", "trade"]
+        }
+      ]
+    },
+    {
+      "term": "banderole",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A long, narrow flag or banner; a scroll bearing an inscription in art.",
+          "examples": ["The banderole fluttered in the wind.", "The painting featured a banderole with text."],
+          "collocations": ["narrow banderole", "artistic banderole", "flag banderole"],
+          "synonyms": ["banner", "streamer", "ribbon"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["art", "nautical"]
+        }
+      ]
+    }
+  ]
+}
+```

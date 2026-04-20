@@ -1,0 +1,428 @@
+```json
+{
+  "items": [
+    {
+      "term": "balcone",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Italian word for balcony.",
+          "examples": ["Il balcone è spazioso.", "Apri il balcone per far entrare aria."],
+          "collocations": ["ampio balcone", "balcone fiorito"],
+          "synonyms": ["balcony"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["foreign_language"]
+        }
+      ]
+    },
+    {
+      "term": "balconet",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small balcony or false balcony with a railing.",
+          "examples": ["The balconet added charm to the facade.", "French windows opened to a balconet."],
+          "collocations": ["ornate balconet", "small balconet", "decorative balconet"],
+          "synonyms": ["balconette"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "balconets",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of balconet; small balconies or false balconies.",
+          "examples": ["The building featured several balconets.", "Balconets decorated the upper floors."],
+          "collocations": ["multiple balconets", "ornate balconets"],
+          "synonyms": ["balconettes"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "balconette",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small balcony, often ornamental without floor.",
+          "examples": ["The balconette overlooked the street.", "She leaned on the balconette railing."],
+          "collocations": ["French balconette", "wrought-iron balconette", "tiny balconette"],
+          "synonyms": ["balconet"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A woman's undergarment like half-bra with balcony cups.",
+          "examples": ["She chose a balconette bra for support.", "Balconette style suits low necklines."],
+          "collocations": ["lace balconette", "push-up balconette", "silk balconette"],
+          "synonyms": ["demi-cup bra"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["fashion"]
+        }
+      ]
+    },
+    {
+      "term": "balconettes",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of balconette; small balconies or undergarments.",
+          "examples": ["The facade had balconettes on each floor.", "Balconettes come in various sizes."],
+          "collocations": ["decorative balconettes", "lace balconettes"],
+          "synonyms": ["balconets"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "balconied",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having one or more balconies.",
+          "examples": ["They stayed in a balconied room.", "The balconied apartments were popular."],
+          "collocations": ["balconied hotel", "balconied building", "spacious balconied flat"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture", "real_estate"]
+        }
+      ]
+    },
+    {
+      "term": "balconies",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of balcony; platforms projecting from upper floors.",
+          "examples": ["Birds nested on the balconies.", "Balconies overlooked the sea."],
+          "collocations": ["large balconies", "private balconies", "flower-filled balconies"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "balcony",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A platform that sticks out from an upper floor of a building.",
+          "examples": ["We sat on the balcony.", "The balcony has a great view."],
+          "collocations": ["front balcony", "rear balcony", "balcony railing", "balcony garden"],
+          "synonyms": ["veranda", "terrace"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Upper level in a theater or hall above the ground floor.",
+          "examples": ["We had seats in the balcony.", "The balcony offered a good view of the stage."],
+          "collocations": ["front-row balcony", "balcony seats", "upper balcony"],
+          "synonyms": ["mezzanine", "gallery"],
+          "antonyms": ["stalls"],
+          "register": null,
+          "domain": ["theater"]
+        }
+      ]
+    },
+    {
+      "term": "bald",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having little or no hair on the head or body.",
+          "examples": ["He is bald on top.", "The eagle is bald but has white feathers."],
+          "collocations": ["completely bald", "going bald", "bald head", "bald patch"],
+          "synonyms": ["hairless", "balding"],
+          "antonyms": ["hairy"],
+          "register": null,
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Plain and clear without extra words or details.",
+          "examples": ["The bald truth hurt her feelings.", "It was a bald lie."],
+          "collocations": ["bald statement", "bald truth", "bald lie"],
+          "synonyms": ["blunt", "bare"],
+          "antonyms": ["embellished"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baldacchini",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baldacchino; ceremonial canopies.",
+          "examples": ["The altar had baldacchini above it.", "Renaissance baldacchini adorned the church."],
+          "collocations": ["ornate baldacchini"],
+          "synonyms": ["baldachins"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "baldacchino",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A ceremonial canopy of fabric or stone over an altar.",
+          "examples": ["St. Peter's baldacchino is famous.", "The baldacchino sheltered the relics."],
+          "collocations": ["bronze baldacchino", "marble baldacchino"],
+          "synonyms": ["baldachin", "ciborium"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "baldachin",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Rich cloth canopy used for ceremonies or over thrones.",
+          "examples": ["The baldachin covered the throne.", "A baldachin hung above the bed."],
+          "collocations": ["silk baldachin", "royal baldachin"],
+          "synonyms": ["canopy", "baldacchino"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "baldachined",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Covered or adorned with a baldachin.",
+          "examples": ["The baldachined altar looked majestic."],
+          "collocations": ["baldachined throne"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "baldachini",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baldachin; ceremonial canopies.",
+          "examples": ["Several baldachini decorated the cathedral."],
+          "collocations": ["church baldachini"],
+          "synonyms": ["baldachins"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "baldachino",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An Italian term for a ceremonial canopy.",
+          "examples": ["The baldachino in Florence is impressive."],
+          "collocations": ["Bernini baldachino"],
+          "synonyms": ["baldachin"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "baldachinos",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baldachino; ceremonial canopies.",
+          "examples": ["The church had multiple baldachinos."],
+          "collocations": ["ornate baldachinos"],
+          "synonyms": ["baldachins"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "baldachins",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baldachin; rich canopies for ceremonies.",
+          "examples": ["Golden baldachins hung in the hall."],
+          "collocations": ["ceremonial baldachins"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "baldakin",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Rare variant of baldachin; a ceremonial canopy.",
+          "examples": ["The baldakin draped the altar."],
+          "collocations": ["rich baldakin"],
+          "synonyms": ["baldachin"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "baldaquin",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant spelling of baldachin; ornamental canopy.",
+          "examples": ["The baldaquin was embroidered with gold."],
+          "collocations": ["French baldaquin"],
+          "synonyms": ["baldachin"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "baldaquins",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baldaquin; ornamental canopies.",
+          "examples": ["Several baldaquins adorned the space."],
+          "collocations": ["royal baldaquins"],
+          "synonyms": ["baldachins"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "baldberry",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baldcrown",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "balded",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having become bald.",
+          "examples": ["He was balded by age thirty."],
+          "collocations": ["suddenly balded"],
+          "synonyms": ["bald"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "balden",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "balder",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Comparative of bald; more bald.",
+          "examples": ["He looks balder than last year."],
+          "collocations": ["getting balder"],
+          "synonyms": [],
+          "antonyms": ["hairier"],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    }
+  ]
+}
+```

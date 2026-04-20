@@ -1,0 +1,492 @@
+```json
+{
+  "items": [
+    {
+      "term": "barcarole",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A slow song or piece of music with a rhythm like the rowing of a boat, traditionally sung by Venetian gondoliers.",
+          "examples": [
+            "The pianist played a beautiful barcarole by Chopin.",
+            "They listened to a barcarole while cruising on the canal.",
+            "The barcarole evoked images of gondolas on the water."
+          ],
+          "collocations": [
+            "Venetian barcarole",
+            "Chopin barcarole",
+            "sing a barcarole",
+            "play barcarole",
+            "traditional barcarole"
+          ],
+          "synonyms": ["boat song", "gondola song"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "barcaroles",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barcarole: slow songs or musical pieces with a rowing rhythm sung by gondoliers.",
+          "examples": [
+            "The concert featured several barcaroles.",
+            "She collected recordings of famous barcaroles."
+          ],
+          "collocations": [
+            "famous barcaroles",
+            "play barcaroles",
+            "Venetian barcaroles"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "barcarolle",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Alternative spelling of barcarole: a boating song with a gentle, rocking rhythm.",
+          "examples": [
+            "Fauré's barcarolle is one of his most loved works.",
+            "The barcarolle filled the room with a serene melody."
+          ],
+          "collocations": [
+            "Fauré barcarolle",
+            "Chopin barcarolle",
+            "play barcarolle"
+          ],
+          "synonyms": ["barcarole"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "barcarolles",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of barcarolle: multiple boating songs or musical compositions.",
+          "examples": [
+            "The album includes barcarolles by various composers."
+          ],
+          "collocations": ["French barcarolles"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "barcas",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barca: a small flat-bottomed fishing boat used in parts of Spain or Latin America.",
+          "examples": [
+            "The barcas bobbed in the harbor.",
+            "Fishermen repaired their barcas daily."
+          ],
+          "collocations": [
+            "fishing barcas",
+            "Spanish barcas"
+          ],
+          "synonyms": ["small boats"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical", "regional"]
+        }
+      ]
+    },
+    {
+      "term": "barcella",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "barcelona",
+      "kind": "proper_noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A major city in northeastern Spain, known for its architecture, culture, and football club.",
+          "examples": [
+            "Barcelona is a popular tourist destination.",
+            "She flew to Barcelona for the conference.",
+            "FC Barcelona won the match."
+          ],
+          "collocations": [
+            "visit Barcelona",
+            "Barcelona airport",
+            "FC Barcelona",
+            "Barcelona Gaudi"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "barcelonas",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "barchan",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A crescent-shaped sand dune formed by wind in deserts, with the horns pointing downwind.",
+          "examples": [
+            "The expedition crossed a field of barchan dunes.",
+            "Barchan dunes move slowly across the desert."
+          ],
+          "collocations": [
+            "barchan dune",
+            "crescent barchan",
+            "desert barchan",
+            "migrating barchan"
+          ],
+          "synonyms": ["crescent dune"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geology", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "barchane",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Alternative spelling of barchan: a crescent-shaped moving sand dune.",
+          "examples": [
+            "Barchane dunes are common in the Sahara."
+          ],
+          "collocations": ["Sahara barchane"],
+          "synonyms": ["barchan"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "barchanes",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barchane or barchan: multiple crescent-shaped sand dunes.",
+          "examples": [
+            "The photo showed barchanes stretching to the horizon."
+          ],
+          "collocations": ["moving barchanes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "barchans",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barchan: crescent-shaped dunes in desert areas.",
+          "examples": [
+            "Barchans form in areas with strong, steady winds.",
+            "Satellite images track barchans over time."
+          ],
+          "collocations": [
+            "barchan dunes",
+            "giant barchans",
+            "study barchans"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "barche",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "barcode",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A series of black and white lines or patterns printed on products that a computer can read to identify them.",
+          "examples": [
+            "Scan the barcode to check the price.",
+            "Every product has a unique barcode.",
+            "The barcode contains product information."
+          ],
+          "collocations": [
+            "scan barcode",
+            "barcode scanner",
+            "product barcode",
+            "read barcode",
+            "generate barcode"
+          ],
+          "synonyms": ["bar code"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "business", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barcoded",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a barcode printed or attached on it.",
+          "examples": [
+            "All barcoded items go through the scanner.",
+            "The package is barcoded for tracking."
+          ],
+          "collocations": [
+            "barcoded products",
+            "barcoded package",
+            "barcoded items"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "barcodes",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barcode: multiple patterns of lines used to identify products.",
+          "examples": [
+            "Cashiers scan barcodes quickly.",
+            "The system reads all barcodes accurately."
+          ],
+          "collocations": [
+            "scan barcodes",
+            "print barcodes",
+            "multiple barcodes"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "shopping"]
+        }
+      ]
+    },
+    {
+      "term": "barcolongo",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "barcone",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An Italian term for a large flat-bottomed barge or boat used for transport.",
+          "examples": [
+            "The barcone carried goods down the river."
+          ],
+          "collocations": ["Italian barcone"],
+          "synonyms": ["barge"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical", "regional"]
+        }
+      ]
+    },
+    {
+      "term": "barcoo",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A river in Queensland, Australia; also slang for extreme tiredness or remote Australian outback.",
+          "examples": [
+            "They camped along the Barcoo River.",
+            "He was struck by the Barcoo sickness."
+          ],
+          "collocations": [
+            "Barcoo River",
+            "Barcoo sickness"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["geography", "australian"]
+        }
+      ]
+    },
+    {
+      "term": "bard",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A poet, especially one who writes long epic poems and performs them by singing, common in ancient cultures.",
+          "examples": [
+            "Shakespeare is called the Bard of Avon.",
+            "The Celtic bard recited ancient tales."
+          ],
+          "collocations": [
+            "Scottish bard",
+            "Celtic bard",
+            "village bard",
+            "Bard of Avon"
+          ],
+          "synonyms": ["poet", "minstrel", "troubadour"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bardane",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "French term for burdock, a plant with large leaves and burrs.",
+          "examples": [
+            "Bardane grows wild in fields."
+          ],
+          "collocations": ["plante bardane"],
+          "synonyms": ["burdock"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "bardash",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bardashes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bardcraft",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The art or skill of a bard in composing and reciting poetry.",
+          "examples": [
+            "He studied bardcraft in ancient literature."
+          ],
+          "collocations": ["master bardcraft"],
+          "synonyms": ["poetic skill"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "barde",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A piece of bacon or fat used to cover meat before roasting to keep it moist.",
+          "examples": [
+            "Wrap the bird in barde before cooking."
+          ],
+          "collocations": [
+            "pork barde",
+            "barde fat",
+            "roast barde"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["cooking"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To cover meat with thin strips of bacon or fat before cooking.",
+          "examples": [
+            "Barde the chicken with bacon slices.",
+            "The chef will barde the roast."
+          ],
+          "collocations": [
+            "barde meat",
+            "barde poultry",
+            "thinly barde"
+          ],
+          "synonyms": ["lard"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["cooking"]
+        }
+      ]
+    }
+  ]
+}
+```

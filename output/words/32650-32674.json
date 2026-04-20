@@ -1,0 +1,441 @@
+```json
+{
+  "items": [
+    {
+      "term": "bannering",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of displaying or using banners.",
+          "examples": ["The bannering along the street was impressive for the festival.", "They planned the bannering for the protest carefully."],
+          "collocations": ["street bannering", "festival bannering", "political bannering", "advertising bannering"],
+          "synonyms": ["banner display", "banner placement"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general", "advertising"]
+        }
+      ]
+    },
+    {
+      "term": "bannerless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Without any banners.",
+          "examples": ["The bannerless march looked unusual.", "They chose a bannerless approach to the event."],
+          "collocations": ["bannerless event", "bannerless protest", "bannerless street"],
+          "synonyms": ["without banners"],
+          "antonyms": ["bannered"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bannerlike",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Similar to a banner in appearance or shape.",
+          "examples": ["The bannerlike flag waved in the wind.", "She designed a bannerlike poster for the wall."],
+          "collocations": ["bannerlike flag", "bannerlike design", "bannerlike poster"],
+          "synonyms": ["banner-shaped"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bannerline",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A prominent headline across the front page of a newspaper.",
+          "examples": ["The scandal got bannerline treatment in all papers.", "The victory story made the bannerline."],
+          "collocations": ["front-page bannerline", "huge bannerline", "sensational bannerline"],
+          "synonyms": ["banner headline", "streamline"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["journalism"]
+        }
+      ]
+    },
+    {
+      "term": "bannerman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who carries a banner, especially in historical or military contexts.",
+          "examples": ["The bannerman led the procession.", "In medieval times, the bannerman signaled the troops."],
+          "collocations": ["medieval bannerman", "procession bannerman", "military bannerman"],
+          "synonyms": ["standard-bearer", "ensign"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "military"]
+        }
+      ]
+    },
+    {
+      "term": "bannermen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bannerman; people who carry banners.",
+          "examples": ["The bannermen marched ahead of the army.", "Historical reenactments feature bannermen."],
+          "collocations": ["group of bannermen", "army bannermen"],
+          "synonyms": ["standard-bearers"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "military"]
+        }
+      ]
+    },
+    {
+      "term": "bannerol",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small banner or streamer, often with an inscription.",
+          "examples": ["The bannerol fluttered from the tower.", "Artists painted bannerols in Renaissance art."],
+          "collocations": ["decorative bannerol", "Renaissance bannerol"],
+          "synonyms": ["bannerette", "riband"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["art", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bannerole",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Alternative spelling of bannerol; a small decorative banner.",
+          "examples": ["The bannerole bore the family crest.", "Old manuscripts show banneroles with text."],
+          "collocations": ["heraldic bannerole", "manuscript bannerole"],
+          "synonyms": ["bannerol"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bannerols",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bannerol; small banners.",
+          "examples": ["The church displayed several bannerols.", "Many bannerols decorated the hall."],
+          "collocations": ["multiple bannerols", "festive bannerols"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["art"]
+        }
+      ]
+    },
+    {
+      "term": "banners",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banner; large signs or flags used for display or advertising.",
+          "examples": ["Protesters carried colorful banners.", "Banners hung from every building."],
+          "collocations": ["advertising banners", "protest banners", "welcome banners"],
+          "synonyms": ["flags", "signs"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general", "advertising"]
+        }
+      ]
+    },
+    {
+      "term": "bannerwise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In the manner or direction of a banner.",
+          "examples": ["The flags were arranged bannerwise across the street."],
+          "collocations": ["arranged bannerwise", "stretched bannerwise"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bannet",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small bonnet or cap, especially in historical contexts.",
+          "examples": ["She wore a delicate bannet.", "Historical dolls come with bannets."],
+          "collocations": ["lace bannet", "Victorian bannet"],
+          "synonyms": ["bonnet"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bannets",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bannet; small caps.",
+          "examples": ["The collection included several bannets.", "Antique bannets were on display."],
+          "collocations": ["antique bannets"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bannimus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A formal ecclesiastical curse or excommunication.",
+          "examples": ["The priest issued a bannimus against the heretic.", "Historical records mention the bannimus."],
+          "collocations": ["ecclesiastical bannimus"],
+          "synonyms": ["anathematization"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "banning",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of officially prohibiting something.",
+          "examples": ["The banning of plastic bags helped the environment.", "There was controversy over the banning of the book."],
+          "collocations": ["banning of drugs", "banning of weapons", "temporary banning"],
+          "synonyms": ["prohibition", "outlawing"],
+          "antonyms": ["allowing", "permitting"],
+          "register": "null",
+          "domain": ["general", "law"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Present participle of ban; prohibiting something.",
+          "examples": ["They are banning smoking in public places.", "The council is banning loud music at night."],
+          "collocations": ["banning smoking", "banning sales", "banning imports"],
+          "synonyms": ["prohibiting", "forbidding"],
+          "antonyms": ["allowing"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bannister",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A handrail along a staircase.",
+          "examples": ["She gripped the bannister tightly.", "The old bannister needed repair."],
+          "collocations": ["wooden bannister", "staircase bannister", "broken bannister"],
+          "synonyms": ["banister", "handrail", "rail"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "bannisters",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bannister; handrails on stairs.",
+          "examples": ["The children slid down the bannisters.", "Polish the bannisters weekly."],
+          "collocations": ["pair of bannisters", "ornate bannisters"],
+          "synonyms": ["banisters", "handrails"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bannition",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of prohibiting or banishing.",
+          "examples": ["The bannition of the practice was final.", "Historical bannition orders were strict."],
+          "collocations": ["formal bannition"],
+          "synonyms": ["prohibition", "banishment"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["law", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bannock",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A flat, often unleavened bread from Scotland.",
+          "examples": ["She baked a fresh bannock for tea.", "Bannock is popular in Scottish cuisine."],
+          "collocations": ["Scottish bannock", "oat bannock", "griddle bannock"],
+          "synonyms": ["flatbread"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bannockburn",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A village in Scotland, site of a famous 1314 battle.",
+          "examples": ["Bannockburn is known for the Scottish victory.", "Tourists visit Bannockburn battlefield."],
+          "collocations": ["Battle of Bannockburn"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "bannocks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bannock; Scottish flatbreads.",
+          "examples": ["They served bannocks with butter.", "Homemade bannocks are the best."],
+          "collocations": ["fresh bannocks", "hot bannocks"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "banns",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A public announcement in church of an intended marriage.",
+          "examples": ["They read the banns on Sunday.", "The banns were published for three weeks."],
+          "collocations": ["marriage banns", "church banns", "publish the banns"],
+          "synonyms": ["marriage notice"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "weddings"]
+        }
+      ]
+    },
+    {
+      "term": "bannut",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A type of tree or its wood, rare usage.",
+          "examples": ["The bannut wood was used for carving."],
+          "collocations": ["bannut tree"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "banoffee",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A dessert made with banana, toffee, and cream.",
+          "examples": ["Banoffee pie is a British favorite.", "She made banoffee for the party."],
+          "collocations": ["banoffee pie", "banoffee dessert", "sticky banoffee"],
+          "synonyms": ["banoffee pie"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "banoffees",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banoffee; banana toffee desserts.",
+          "examples": ["They served several banoffees.", "Mini banoffees were the hit."],
+          "collocations": ["mini banoffees"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food"]
+        }
+      ]
+    }
+  ]
+}
+```

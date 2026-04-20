@@ -1,0 +1,286 @@
+{
+  "items": [
+    {
+      "term": "authorized",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "officially approved or given permission",
+          "examples": ["Only authorized staff may enter this area.", "She is an authorized dealer of the brand."],
+          "collocations": ["authorized personnel", "authorized access", "authorized dealer", "authorized version", "authorized use"],
+          "synonyms": ["approved", "licensed", "permitted", "sanctioned"],
+          "antonyms": ["unauthorized", "forbidden"],
+          "register": null,
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "authorizer",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or system that gives official permission",
+          "examples": ["The authorizer approved the payment.", "Contact the authorizer before proceeding."],
+          "collocations": ["payment authorizer", "system authorizer", "authorization process", "request authorizer"],
+          "synonyms": ["approver", "grantor"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "authorizers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of authorizer; people or systems that give permission",
+          "examples": ["All authorizers must sign the form.", "The system notifies multiple authorizers."],
+          "collocations": ["multiple authorizers", "designated authorizers", "system authorizers"],
+          "synonyms": ["approvers"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "authorizes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "gives official permission",
+          "examples": ["The manager authorizes the expense.", "This code authorizes access."],
+          "collocations": ["authorizes access", "authorizes payment", "authorizes action"],
+          "synonyms": ["permits", "approves", "allows"],
+          "antonyms": ["denies", "rejects"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "authorizing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of giving permission",
+          "examples": ["She is authorizing the transaction.", "Authorizing requests takes time."],
+          "collocations": ["authorizing transactions", "authorizing access", "authorizing requests"],
+          "synonyms": ["approving", "permitting"],
+          "antonyms": ["denying"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "authorless",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having no known or identified author",
+          "examples": ["The text is authorless.", "An authorless manuscript was discovered."],
+          "collocations": ["authorless work", "authorless text", "authorless manuscript"],
+          "synonyms": ["anonymous"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "authorling",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a minor or inexperienced writer (often used critically)",
+          "examples": ["He dismissed them as mere authorlings.", "The review mocked the young authorling."],
+          "collocations": ["young authorling", "unknown authorling"],
+          "synonyms": ["novice writer", "amateur"],
+          "antonyms": ["master", "expert"],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "authorly",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "typical of an author or writing style",
+          "examples": ["His tone was distinctly authorly.", "She adopted an authorly voice."],
+          "collocations": ["authorly tone", "authorly style"],
+          "synonyms": ["writerly"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "authors",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who write books, articles, or texts",
+          "examples": ["Many authors attended the event.", "The authors signed copies of their books."],
+          "collocations": ["famous authors", "modern authors", "book authors"],
+          "synonyms": ["writers"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "authorship",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or role of being a writer of a work",
+          "examples": ["The authorship of the text is unclear.", "She claimed authorship of the report."],
+          "collocations": ["claim authorship", "shared authorship", "authorship credit"],
+          "synonyms": ["creation", "writing"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["academic", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "autism",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a developmental condition that affects communication and behavior",
+          "examples": ["He was diagnosed with autism.", "Awareness of autism has increased."],
+          "collocations": ["autism spectrum", "autism diagnosis", "autism support"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "autistic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or having autism",
+          "examples": ["She is an autistic child.", "Autistic traits vary widely."],
+          "collocations": ["autistic person", "autistic traits", "autistic spectrum"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "autistically",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way related to autism",
+          "examples": ["He responded autistically to stimuli.", "The behavior was described autistically."],
+          "collocations": ["behave autistically"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "auto",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a car",
+          "examples": ["He bought a new auto.", "The auto industry is growing."],
+          "collocations": ["auto industry", "auto repair", "auto insurance"],
+          "synonyms": ["car", "vehicle"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "prefix",
+          "definition": "relating to oneself or automatic action",
+          "examples": ["Autobiography means writing about one's own life.", "Auto-reply sends messages automatically."],
+          "collocations": ["auto-reply", "autobiography", "automatic"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "autoanalysis",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of analyzing one's own thoughts or behavior",
+          "examples": ["Freud practiced autoanalysis.", "Autoanalysis can reveal hidden motives."],
+          "collocations": ["self autoanalysis", "practice autoanalysis"],
+          "synonyms": ["self-analysis", "introspection"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["psychology"]
+        }
+      ]
+    },
+    {
+      "term": "autobahn",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a high-speed highway in Germany",
+          "examples": ["They drove fast on the autobahn.", "The autobahn has no speed limit in some areas."],
+          "collocations": ["German autobahn", "drive on the autobahn"],
+          "synonyms": ["highway", "motorway"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["transport"]
+        }
+      ]
+    }
+  ]
+}

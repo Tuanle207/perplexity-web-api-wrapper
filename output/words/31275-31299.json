@@ -1,0 +1,441 @@
+```json
+{
+  "items": [
+    {
+      "term": "bahay",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "house or home (Tagalog word used in Filipino English)",
+          "examples": ["Ang bahay ko ay malaki.", "The bahay is made of bamboo.", "They built a new bahay in the village."],
+          "collocations": ["rustic bahay", "native bahay", "bahay kubo", "build a bahay", "bahay roof"],
+          "synonyms": ["house", "home", "dwelling"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bahera",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "rare surname or place name",
+          "examples": ["Bahera family lives nearby.", "The village of Bahera is small."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["names"]
+        }
+      ]
+    },
+    {
+      "term": "bahiaite",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare mineral named after Bahia region",
+          "examples": ["Bahiaite crystals are very rare.", "Geologists found bahiaite in the mine."],
+          "collocations": ["bahiaite crystals", "rare bahiaite", "bahiaite specimen"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "bahima",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "Ugandan ethnic group or cattle breed",
+          "examples": ["The Bahima people are pastoralists.", "Bahima cattle are longhorn."],
+          "collocations": ["Bahima cattle", "Bahima tribe", "Bahima culture"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["culture", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "bahisti",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "member of Bahishti religious sect (rare)",
+          "examples": ["Bahisti followers attend the ceremony.", "He identifies as bahisti."],
+          "collocations": ["bahisti community", "bahisti beliefs"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "bahmani",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "relating to Bahmani Sultanate dynasty in India",
+          "examples": ["Bahmani architecture is stunning.", "The Bahmani kingdom ruled Deccan."],
+          "collocations": ["Bahmani Sultanate", "Bahmani dynasty", "Bahmani empire"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bahmanid",
+      "kind": "adjective",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "of or relating to Bahmani dynasty",
+          "examples": ["Bahmanid rulers built forts.", "This is bahmanid style architecture."],
+          "collocations": ["bahmanid kingdom", "bahmanid period", "bahmanid art"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bahnung",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "German term for track formation in geology (rare in English)",
+          "examples": ["The bahnung pattern shows movement.", "Geologists study bahnung."],
+          "collocations": ["bahnung track", "bahnung formation"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "baho",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "stench or bad smell (Visayan/Filipino)",
+          "examples": ["Ang baho sang isda kay lakas!", "The baho from the garbage is strong.", "Baho kaayo ni!"],
+          "collocations": ["malakas na baho", "amoy baho", "baho ng basura"],
+          "synonyms": ["stench", "odor", "reek"],
+          "antonyms": ["fragrance"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bahoe",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "historical term for loincloth or garment (rare)",
+          "examples": ["Warriors wore bahoe.", "The bahoe was traditional attire."],
+          "collocations": ["wear bahoe", "traditional bahoe"],
+          "synonyms": ["loincloth"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bahoo",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "variant spelling of 'bahoo' meaning nephew or family term (South Asian)",
+          "examples": ["My bahoo came to visit.", "Bahoo brought gifts."],
+          "collocations": ["dear bahoo", "favorite bahoo"],
+          "synonyms": ["nephew"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["family"]
+        }
+      ]
+    },
+    {
+      "term": "baht",
+      "kind": "noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "unit of Thai currency",
+          "examples": ["This costs 100 baht.", "I exchanged dollars for baht.", "Baht is Thai money."],
+          "collocations": ["Thai baht", "100 baht", "change baht", "baht note", "baht coin"],
+          "synonyms": ["THB"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "bahts",
+      "kind": "noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baht, Thai currency units",
+          "examples": ["I have 500 bahts.", "She spent ten bahts on snacks."],
+          "collocations": ["several bahts", "count bahts", "save bahts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bahu",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "daughter-in-law (Hindi/Urdu)",
+          "examples": ["My bahu is very kind.", "Bahu cooks delicious food."],
+          "collocations": ["dear bahu", "young bahu", "bahu's wedding"],
+          "synonyms": ["daughter-in-law"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["family"]
+        }
+      ]
+    },
+    {
+      "term": "bahuma",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "fishing ground or deep sea area (Spanish/Philippine)",
+          "examples": ["Fish come from the bahuma.", "They fish in bahuma waters."],
+          "collocations": ["deep bahuma", "bahuma fishing"],
+          "synonyms": ["deep sea"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fishing"]
+        }
+      ]
+    },
+    {
+      "term": "bahur",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "merchant or trader (historical Arabic/Persian term)",
+          "examples": ["The bahur sold spices.", "Bahur traveled the silk road."],
+          "collocations": ["rich bahur", "famous bahur"],
+          "synonyms": ["merchant", "trader"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "trade"]
+        }
+      ]
+    },
+    {
+      "term": "bahus",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bahu, daughters-in-law",
+          "examples": ["His bahus help at home.", "All bahus attended the event."],
+          "collocations": ["many bahus", "family bahus"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["family"]
+        }
+      ]
+    },
+    {
+      "term": "bahut",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "large wooden box or chest (Hindi)",
+          "examples": ["Put clothes in the bahut.", "Old bahut contains treasures."],
+          "collocations": ["wooden bahut", "lock the bahut", "big bahut"],
+          "synonyms": ["chest", "trunk"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "adverb",
+          "definition": "very much or a lot (Hindi colloquial)",
+          "examples": ["Bahut shukriya!", "I like it bahut.", "Bahut thanda hai."],
+          "collocations": ["bahut accha", "bahut zyada", "bahut khushi"],
+          "synonyms": ["very", "much"],
+          "antonyms": ["thoda"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bahuts",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bahut, large wooden boxes",
+          "examples": ["They packed bahuts for travel.", "Old bahuts are antiques."],
+          "collocations": ["several bahuts", "stack bahuts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bahutu",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "variant of Hutu, ethnic group in Africa",
+          "examples": ["Bahutu people farm bananas.", "Bahutu make up majority."],
+          "collocations": ["Bahutu farmers", "Bahutu culture"],
+          "synonyms": ["Hutu"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "bahuvrihi",
+      "kind": "noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "compound word where whole describes attribute of part (linguistics)",
+          "examples": ["Redhead is a bahuvrihi compound.", "'Fathead' is bahuvrihi.", "Bahuvrihi describes possessory compounds."],
+          "collocations": ["bahuvrihi compound", "typical bahuvrihi", "Sanskrit bahuvrihi"],
+          "synonyms": ["exocentric compound"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["linguistics", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "bahuvrihis",
+      "kind": "noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bahuvrihi, possessory compounds",
+          "examples": ["English has few bahuvrihis.", "Study these bahuvrihis."],
+          "collocations": ["many bahuvrihis", "list bahuvrihis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "bai",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "respectful term for woman or maid (Philippines)",
+          "examples": ["Bai, can you help?", "The bai cleaned the house."],
+          "collocations": ["house bai", "call bai", "good bai"],
+          "synonyms": ["maid", "helper"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "baianism",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "beliefs or style associated with Bai people (rare)",
+          "examples": ["Baianism influences local art.", "Study Bai customs and bainism."],
+          "collocations": ["Bai bainism", "cultural bainism"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "baidak",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "type of Russian flat-bottomed boat",
+          "examples": ["The baidak sailed the river.", "Fishermen use baidak boats."],
+          "collocations": ["river baidak", "wooden baidak"],
+          "synonyms": ["barge"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical"]
+        }
+      ]
+    }
+  ]
+}
+```

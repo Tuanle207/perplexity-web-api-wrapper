@@ -1,0 +1,428 @@
+{
+  "items": [
+    {
+      "term": "bacteritic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Caused by bacteria.",
+          "examples": ["The infection was bacteritic in nature.", "Bacteritic diseases spread quickly in poor conditions."],
+          "collocations": ["bacteritic infection", "bacteritic disease", "bacteritic origin"],
+          "synonyms": ["bacterial"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacterium",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A very small organism, often causing disease, that lives in air, water, soil, plants, or animals.",
+          "examples": ["This illness comes from a harmful bacterium.", "Scientists study different types of bacterium.", "A single bacterium can multiply quickly."],
+          "collocations": ["harmful bacterium", "pathogenic bacterium", "gram-positive bacterium", "bacterium culture", "bacterium growth"],
+          "synonyms": ["germ", "microbe"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriuria",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The presence of bacteria in urine.",
+          "examples": ["The test showed bacteriuria in the sample.", "Asymptomatic bacteriuria needs no treatment in most cases.", "Symptomatic bacteriuria indicates a urinary tract infection."],
+          "collocations": ["asymptomatic bacteriuria", "symptomatic bacteriuria", "significant bacteriuria", "bacteriuria test"],
+          "synonyms": ["bacteria in urine"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriurias",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bacteriuria; multiple cases of bacteria in urine.",
+          "examples": ["The study examined various bacteriurias.", "Records showed recurrent bacteriurias."],
+          "collocations": ["recurrent bacteriurias", "multiple bacteriurias"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacterization",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process of treating or exposing something to bacteria.",
+          "examples": ["Bacterization helps in soil treatment.", "The bacterization process was applied to seeds."],
+          "collocations": ["seed bacterization", "soil bacterization", "bacterization treatment"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "bacterizations",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bacterization; multiple processes of treating with bacteria.",
+          "examples": ["Various bacterizations were tested.", "The lab performed several bacterizations."],
+          "collocations": ["multiple bacterizations", "different bacterizations"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacterize",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To treat or expose something to bacteria.",
+          "examples": ["Farmers bacterize seeds to improve growth.", "The sample was bacterized for the experiment."],
+          "collocations": ["bacterize seeds", "bacterize soil", "bacterize sample"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "bacterized",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Treated or exposed to bacteria.",
+          "examples": ["The bacterized soil yielded better crops.", "Bacterized samples showed growth."],
+          "collocations": ["bacterized soil", "bacterized seeds", "bacterized material"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacterizes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person singular of bacterize.",
+          "examples": ["This method bacterizes the plants effectively.", "The machine bacterizes samples quickly."],
+          "collocations": ["bacterizes plants", "bacterizes samples"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacterizing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of bacterize; process of treating with bacteria.",
+          "examples": ["Bacterizing the soil improves fertility.", "They are bacterizing the test materials now."],
+          "collocations": ["bacterizing soil", "bacterizing seeds", "bacterizing process"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacteroid",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A type of bacterium with a rod-like shape, often symbiotic in plant roots.",
+          "examples": ["Bacteroid bacteria fix nitrogen in soil.", "The bacteroid form helps plants grow."],
+          "collocations": ["root bacteroid", "nitrogen-fixing bacteroid", "bacteroid bacteria"],
+          "synonyms": ["bacterioid"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Resembling a bacterium.",
+          "examples": ["The cell had a bacteroid structure.", "Bacteroid forms were observed."],
+          "collocations": ["bacteroid structure", "bacteroid form"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacteroidal",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or resembling bacteroids.",
+          "examples": ["Bacteroidal cells aid in nitrogen fixation.", "The bacteroidal form is common in roots."],
+          "collocations": ["bacteroidal cells", "bacteroidal form"],
+          "synonyms": ["bacteroid"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacteroideae",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A subfamily of bacteria in the Bacteroidetes phylum.",
+          "examples": ["Bacteroideae are anaerobic bacteria.", "Studies focus on Bacteroideae in the gut."],
+          "collocations": ["Bacteroideae subfamily", "gut Bacteroideae"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacteroides",
+      "kind": "proper_noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A genus of gram-negative, anaerobic bacteria found in the human gut.",
+          "examples": ["Bacteroides species dominate the gut microbiome.", "Bacteroides fragilis is a common pathogen."],
+          "collocations": ["Bacteroides fragilis", "gut Bacteroides", "anaerobic Bacteroides"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacteroids",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bacteroid; rod-like symbiotic bacteria.",
+          "examples": ["Bacteroids form in legume roots.", "Nitrogen-fixing bacteroids benefit crops."],
+          "collocations": ["root bacteroids", "symbiotic bacteroids", "nitrogen-fixing bacteroids"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacteruria",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant spelling of bacteriuria; bacteria in urine.",
+          "examples": ["Bacteruria was detected in the test.", "Asymptomatic bacteruria is common."],
+          "collocations": ["asymptomatic bacteruria", "significant bacteruria"],
+          "synonyms": ["bacteriuria"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacterurias",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bacteriuria.",
+          "examples": ["Multiple bacterurias were noted.", "The records listed various bacterurias."],
+          "collocations": ["recurrent bacterurias"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bactetiophage",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Misspelling of bacteriophage; a virus that infects bacteria.",
+          "examples": ["Bactetiophage therapy treats infections.", "Scientists use bactetiophage to kill bacteria."],
+          "collocations": ["bactetiophage therapy", "lytic bactetiophage"],
+          "synonyms": ["bacteriophage"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bactrian",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to a Bactrian camel, which has two humps.",
+          "examples": ["The bactrian camel lives in Central Asia.", "Bactrian camels are stronger than dromedaries."],
+          "collocations": ["bactrian camel", "bactrian hump"],
+          "synonyms": ["two-humped"],
+          "antonyms": ["dromedary"],
+          "register": "null",
+          "domain": ["zoology"]
+        }
+      ]
+    },
+    {
+      "term": "bactris",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A genus of spiny palms native to the Americas.",
+          "examples": ["Bactris gasipaes produces peach palms.", "Bactris species grow in rainforests."],
+          "collocations": ["peach palm Bactris", "Bactris gasipaes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "bactrites",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An extinct genus of cephalopods from the Paleozoic era.",
+          "examples": ["Fossils of Bactrites were found.", "Bactrites represents early nautiloids."],
+          "collocations": ["Bactrites fossils", "Paleozoic Bactrites"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "bactritone",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Relating to or resembling Bactrites, an extinct cephalopod.",
+          "examples": ["The bactritone shell was studied.", "Bactritone forms evolved early."],
+          "collocations": ["bactritone shell"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "bactritoid",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Similar to Bactrites cephalopods.",
+          "examples": ["The fossil had a bactritoid shape.", "Bactritoid nautiloids appeared first."],
+          "collocations": ["bactritoid shape", "bactritoid fossil"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "bacubert",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bacula",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baculum; bone in the penis of some mammals.",
+          "examples": ["Bacula vary in size among species.", "Rodents have prominent bacula."],
+          "collocations": ["os penis bacula", "mammalian bacula"],
+          "synonyms": ["penis bones"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["zoology", "anatomy"]
+        }
+      ]
+    }
+  ]
+}

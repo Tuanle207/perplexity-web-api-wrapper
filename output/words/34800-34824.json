@@ -1,0 +1,451 @@
+```json
+{
+  "items": [
+    {
+      "term": "baya",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A type of small weaver bird found in Asia and Africa.",
+          "examples": ["The baya builds an elaborate hanging nest.", "A male baya weaves grass into nests to attract females.", "Bayas are known for their skilled nest-building."],
+          "collocations": ["baya bird", "baya nest", "baya weaver", "Asian baya", "baya colony"],
+          "synonyms": ["weaverbird"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nature", "biology", "ornithology"]
+        }
+      ]
+    },
+    {
+      "term": "bayadeer",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A dancing girl or professional female dancer, especially in India.",
+          "examples": ["The bayadeer performed graceful moves at the festival.", "Colonial accounts describe the bayadeer in traditional attire.", "Bayadeers entertained at royal courts."],
+          "collocations": ["Hindu bayadeer", "temple bayadeer", "dancing bayadeer", "bayadeer costume", "bayadeer performance"],
+          "synonyms": ["bayadere", "devadasi"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["culture", "dance", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bayadeers",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bayadeer; dancing girls or professional female dancers.",
+          "examples": ["The bayadeers danced in perfect harmony.", "Bayadeers wore colorful silk saris.", "Groups of bayadeers performed at ceremonies."],
+          "collocations": ["temple bayadeers", "Hindu bayadeers", "dancing bayadeers", "bayadeers' troupe"],
+          "synonyms": ["bayaderes"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["culture", "dance"]
+        }
+      ]
+    },
+    {
+      "term": "bayadere",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A professional female dancer, particularly from India.",
+          "examples": ["The bayadere captivated the audience with her spins.", "Bayadere is a term from colonial literature.", "She trained to become a bayadere."],
+          "collocations": ["bayadere dance", "Indian bayadere", "temple bayadere", "bayadere silk"],
+          "synonyms": ["bayadeer"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["dance", "culture"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Describing a striped pattern like those on bayadere fabrics.",
+          "examples": ["The bayadere scarf had vibrant horizontal stripes.", "Bayadere fabric is used in high fashion.", "She chose a bayadere dress for the event."],
+          "collocations": ["bayadere stripe", "bayadere fabric", "bayadere pattern", "bayadere silk"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["fashion", "textiles"]
+        }
+      ]
+    },
+    {
+      "term": "bayaderes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bayadere; professional female dancers.",
+          "examples": ["Bayaderes performed ancient rituals through dance.", "The bayaderes' troupe traveled across India.", "Bayaderes adorned themselves with jewelry."],
+          "collocations": ["dancing bayaderes", "temple bayaderes", "Indian bayaderes"],
+          "synonyms": ["bayadeers"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["culture", "dance"]
+        }
+      ]
+    },
+    {
+      "term": "bayal",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A violent gust of wind in certain regions.",
+          "examples": ["The bayal swept through the valley suddenly.", "Locals warned about the bayal during storm season."],
+          "collocations": ["strong bayal", "bayal winds", "bayal gust"],
+          "synonyms": ["gust"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["weather"]
+        }
+      ]
+    },
+    {
+      "term": "bayamo",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A violent windstorm on the southern coasts of Cuba and nearby areas.",
+          "examples": ["The bayamo hit the coast with fierce winds.", "Bayamos are common during hurricane season.", "Residents boarded up homes before the bayamo."],
+          "collocations": ["Cuban bayamo", "bayamo winds", "bayamo storm", "southern bayamo"],
+          "synonyms": ["squall"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["weather", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "bayamos",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bayamo; violent windstorms.",
+          "examples": ["Several bayamos battered the island last month.", "Bayamos often bring heavy rain."],
+          "collocations": ["fierce bayamos", "bayamos season", "Caribbean bayamos"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["weather"]
+        }
+      ]
+    },
+    {
+      "term": "bayano",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "An indigenous people or their language in Panama.",
+          "examples": ["The Bayano maintain traditional practices.", "Bayano territory lies along the river."],
+          "collocations": ["Bayano people", "Bayano river", "Bayano language"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anthropology", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "bayard",
+      "kind": "proper_noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A magical bay horse from medieval legends, symbolizing bravery.",
+          "examples": ["Bayard carried the four sons of Aymon across rivers.", "The tale of Bayard appears in old chansons."],
+          "collocations": ["knight Bayard", "magical Bayard", "Bayard horse"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["mythology", "literature"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A blind horse; from a fable.",
+          "examples": ["He rides a bayard, unaware of the path."],
+          "collocations": ["blind bayard"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "bayardly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Like Bayard; blindly venturing forward.",
+          "examples": ["They proceeded in a bayardly manner into danger."],
+          "collocations": ["bayardly advance"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "bayards",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bayard; legendary horses.",
+          "examples": ["Stories mention several bayards in folklore."],
+          "collocations": ["legendary bayards"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["mythology"]
+        }
+      ]
+    },
+    {
+      "term": "bayberries",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bayberry; shrubs or their waxy berries.",
+          "examples": ["Bayberries grow along coastal areas.", "People use bayberries for candles."],
+          "collocations": ["coastal bayberries", "bayberries wax", "bayberries shrub"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "bayberry",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A coastal shrub with waxy berries used in candles.",
+          "examples": ["The bayberry bush produces aromatic wax.", "Bayberry candles scent the room naturally.", "Bayberry thrives in sandy soil."],
+          "collocations": ["bayberry candle", "bayberry wax", "bayberry shrub", "bayberry fruit"],
+          "synonyms": ["wax myrtle"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "baybolt",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A bolt or arrow shot from a crossbow.",
+          "examples": ["The archer loaded a baybolt into the crossbow."],
+          "collocations": ["crossbow baybolt", "heavy baybolt"],
+          "synonyms": ["quarrel"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["weapons", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baybush",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A type of shrub related to bay laurel.",
+          "examples": ["Baybush grows wild in Mediterranean regions."],
+          "collocations": ["wild baybush"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "baycuru",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A South American tree used for timber.",
+          "examples": ["Baycuru wood is strong for construction."],
+          "collocations": ["baycuru tree", "baycuru timber"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "baye",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To beat metal into shape.",
+          "examples": ["The smith will baye the gold sheet thinner."],
+          "collocations": ["baye metal", "baye gold"],
+          "synonyms": ["beat"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["craft"]
+        }
+      ]
+    },
+    {
+      "term": "bayed",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Formed into a bay shape; curved inward.",
+          "examples": ["The bayed window overlooked the sea.", "Bayed cliffs sheltered the boats."],
+          "collocations": ["bayed window", "bayed coast"],
+          "synonyms": ["indented"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "bayer",
+      "kind": "proper_noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A German chemical and pharmaceutical company.",
+          "examples": ["Bayer produces aspirin.", "Bayer invests in crop science.", "She bought Bayer products at the store."],
+          "collocations": ["Bayer aspirin", "Bayer company", "Bayer pharmaceuticals"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bayes",
+      "kind": "proper_noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "Thomas Bayes, an English statistician known for Bayes' theorem.",
+          "examples": ["Bayes developed key probability ideas.", "Bayes' work influences machine learning."],
+          "collocations": ["Thomas Bayes", "Bayes theorem"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["mathematics", "statistics"]
+        }
+      ]
+    },
+    {
+      "term": "bayesian",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to statistical methods using Bayes' theorem.",
+          "examples": ["Bayesian analysis updates beliefs with new data.", "She uses Bayesian models in research.", "Bayesian networks predict outcomes."],
+          "collocations": ["Bayesian statistics", "Bayesian inference", "Bayesian model", "Bayesian approach"],
+          "synonyms": ["probabilistic"],
+          "antonyms": ["frequentist"],
+          "register": null,
+          "domain": ["mathematics", "statistics", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bayest",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Superlative of bay; most bay-colored.",
+          "examples": ["The bayest horse stood out in the herd."],
+          "collocations": ["bayest shade"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["animals"]
+        }
+      ]
+    },
+    {
+      "term": "bayeta",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A coarse woolen cloth used historically in trade.",
+          "examples": ["Traders exchanged bayeta for silver.", "Bayeta blankets warmed the travelers."],
+          "collocations": ["coarse bayeta", "bayeta cloth", "bayeta trade"],
+          "synonyms": ["baize"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["textiles", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bayete",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "interjection",
+          "definition": "A Zulu salute meaning 'hail' to a king.",
+          "examples": ["The crowd shouted 'Bayete!' to the king.", "Bayete honors Zulu royalty."],
+          "collocations": ["Bayete king", "shout Bayete"],
+          "synonyms": ["hail"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culture"]
+        }
+      ]
+    }
+  ]
+}
+```

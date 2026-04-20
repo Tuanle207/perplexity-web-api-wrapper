@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "term": "semianalytic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or combining both semi-analytic and analytic approaches, often in mathematics or logic, where some parts are solved using analytic methods and others are treated more heuristically or computationally",
+          "examples": [
+            "The researchers used a semianalytic model to approximate the system where exact analysis was intractable.",
+            "A semianalytic approach can speed up computations while preserving essential features of the solution."
+          ],
+          "collocations": [
+            "semianalytic model",
+            "semianalytic method",
+            "semianalytic approach",
+            "semianalytic solution",
+            "semianalytic framework"
+          ],
+          "synonyms": [
+            "hybrid",
+            "partially analytic",
+            "semi-analytic"
+          ],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "mathematics", "engineering", "research"]
+        }
+      ]
+    }
+  ]
+}

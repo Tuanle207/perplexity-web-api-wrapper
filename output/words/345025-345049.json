@@ -1,0 +1,515 @@
+{
+  "items": [
+    {
+      "term": "scena",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a stage or panel in a play or opera representing a scene, or an architectural or decorative element that resembles a stage setting",
+          "examples": [
+            "The painting shows a dramatic scena in the corner of the theater.",
+            "The ancient theater used painted sceneries to depict different locales."
+          ],
+          "collocations": ["dramatic scena", "stage scena", "the scena of the operatic scene"],
+          "synonyms": ["scene", "setting"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["theater", "arts", "general"]
+        }
+      ]
+    },
+    {
+      "term": "scenaries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural of scenario)",
+          "definition": "plural form of scenario; multiple possible sequences of events or settings in a story or planned event",
+          "examples": [
+            "The writer drafted several scenaries for the film.",
+            "The committee compared different scenaries before choosing one."
+          ],
+          "collocations": ["different scenaries", "possible scenaries", "alternative scenaries"],
+          "synonyms": ["scenarios", "plots", "settings"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literature", "film", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "scenario",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a description of what could happen in the future; a possible situation or sequence of events",
+          "examples": [
+            "The worst-case scenario is still manageable.",
+            "We prepared several scenarios for the presentation."
+          ],
+          "collocations": ["possible scenario", "worst-case scenario", "business scenario", "scenario planning"],
+          "synonyms": ["situation", "case", "possibility"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business", "planning"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a sequence of events in a play, movie, or real life that is depicted as a scene",
+          "examples": [
+            "The battle scene forms a dramatic scenario in the film.",
+            "The director created a tense scenario for the final act."
+          ],
+          "collocations": ["dramatic scenario", "plot scenario", "action scenario"],
+          "synonyms": ["scene", "plot"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["theater", "film", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "scenarioist",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who creates scenarios, especially for plays, films, or games",
+          "examples": [
+            "The scenarioist drafted the outline for the new thriller.",
+            "As a scenarioist, she designs multiple future histories for the project."
+          ],
+          "collocations": ["professional scenarioist", "scenarioist for film", "scenarioist designer"],
+          "synonyms": ["scriptwriter", "writer", "plotter"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["arts", "media", "creative writing"]
+        }
+      ]
+    },
+    {
+      "term": "scenarioization",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of creating or elaborating scenarios, especially in planning or storytelling",
+          "examples": [
+            "Scenarioization of the project helped stakeholders visualize outcomes.",
+            "The software supports scenarioization for risk assessment."
+          ],
+          "collocations": ["risk scenarioization", "scenarioization process", "scenarioization techniques"],
+          "synonyms": ["scenario planning", "plotting", "storyboarding"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "planning", "creative industries"]
+        }
+      ]
+    },
+    {
+      "term": "scenarioize",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to create or develop scenarios for a plan, story, or simulation",
+          "examples": [
+            "They scenarioize the project to test different futures.",
+            "The team scenarioized several risk scenarios."
+          ],
+          "collocations": ["scenarioize a plan", "scenarioize scenarios", "scenarioize futures"],
+          "synonyms": ["plot", "craft scenarios", "simulate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "planning", "creative processes"]
+        }
+      ]
+    },
+    {
+      "term": "scenarios",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scenario; multiple possible situations or sequences of events",
+          "examples": [
+            "We prepared several scenarios for the mission.",
+            "The software can simulate various scenarios."
+          ],
+          "collocations": ["different scenarios", "possible scenarios", "realistic scenarios"],
+          "synonyms": ["situations", "plots", "outlooks"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "planning", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "scenarisation",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the British English spelling of scenarioization; the act of creating scenarios",
+          "examples": [
+            "Scenarisation of the curriculum helped students engage with the material.",
+            "The film underwent extensive scenarisation before filming began."
+          ],
+          "collocations": ["scenarisation process", "creative scenarisation"],
+          "synonyms": ["scenarioization", "scenario planning"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "film", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "scenarisations",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of scenarisation; multiple processes of creating scenarios",
+          "examples": [
+            "The book includes several scenarisations of possible futures.",
+            "They compared scenarisations to choose the best narrative path."
+          ],
+          "collocations": ["different scenarisations", "alternative scenarisations"],
+          "synonyms": ["scenarioisations", "scenario planning efforts"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature", "planning", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scenarise",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to create or present a scenario or scenarios",
+          "examples": [
+            "The director scenarises a tense chase sequence.",
+            "They scenarise several outcomes to discuss with investors."
+          ],
+          "collocations": ["scenarise a scenario", "scenarise futures"],
+          "synonyms": ["imagine", "draft scenarios", "plot"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["theater", "film", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "scenarised",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "described or presented as a scenario; imagined as a possible sequence of events",
+          "examples": [
+            "The scenarised version shows an alternative ending.",
+            "Audience members viewed the scenarised scenes before the actual filming."
+          ],
+          "collocations": ["scenarised version", "scenarised sequence"],
+          "synonyms": ["scenario-based", "imagined", "plotted"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["theater", "film", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "scenarises",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular of scenarioize; to create or present scenarios",
+          "examples": [
+            "The writer scenarises several possible endings.",
+            "It scenarises different futures for the project."
+          ],
+          "collocations": ["scenarises outcomes", "scenarises possibilities"],
+          "synonyms": ["scenarioizes", "plots scenarios", "draws up scenarios"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["writing", "planning", "creative arts"]
+        }
+      ]
+    },
+    {
+      "term": "scenarising",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of scenarioise; the act of creating or developing scenarios",
+          "examples": [
+            "They are scenarising the next act of the play.",
+            "Scenarising multiple futures helps with strategy planning."
+          ],
+          "collocations": ["scenarising plans", "scenarising futures"],
+          "synonyms": ["plotting scenarios", "drafting scenarios"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["theater", "film", "business planning"]
+        }
+      ]
+    },
+    {
+      "term": "scenarioist",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who designs or writes scenarios, especially for performances or simulations",
+          "examples": [
+            "A skilled scenarioist crafted the opening sequence.",
+            "The scenarioists collaborated with the director to map the story."
+          ],
+          "collocations": ["professional scenarioist", "scenarioist writer"],
+          "synonyms": ["scriptwriter", "scenario writer", "plotter"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["arts", "theater", "film"]
+        }
+      ]
+    },
+    {
+      "term": "scenarioists",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scenarioist; multiple people who design scenarios",
+          "examples": [
+            "The scenarioists proposed several fresh directions for the project.",
+            "Interviewers spoke with several scenarioists about the narrative structure."
+          ],
+          "collocations": ["different scenarioists", "team of scenarioists"],
+          "synonyms": ["scriptwriters", "plot designers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["arts", "theater", "film"]
+        }
+      ]
+    },
+    {
+      "term": "scenarization",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of creating or organizing scenarios; scenario development",
+          "examples": [
+            "The scenarization of the campaign helped align goals.",
+            "Scenarization is a key step in strategic planning."
+          ],
+          "collocations": ["scenarization process", "scenarization methods"],
+          "synonyms": ["scenario development", "scenario planning"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "planning", "strategy"]
+        }
+      ]
+    },
+    {
+      "term": "scenarizations",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scenarization; multiple processes or results of scenario development",
+          "examples": [
+            "The report compares several scenarizations.",
+            "Different scenarizations were evaluated for risk."
+          ],
+          "collocations": ["alternative scenarizations", "scenarizations results"],
+          "synonyms": ["scenario developments", "planning scenarios"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "risk analysis", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "scenarize",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to create or present a scenario or series of scenarios",
+          "examples": [
+            "We scenarize the next phase of the project.",
+            "They scenarize potential outcomes for investors."
+          ],
+          "collocations": ["scenarize outcomes", "scenarize a plan"],
+          "synonyms": ["draft scenarios", "plot", "simulate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "planning", "creative fields"]
+        }
+      ]
+    },
+    {
+      "term": "scenarized",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "described or depicted as a scenario; outlined as a possible sequence of events",
+          "examples": [
+            "The scenarized version highlighted alternative endings.",
+            "Audiences watched the scenarized scenes before filming."
+          ],
+          "collocations": ["scenarized outline", "scenarized sequence"],
+          "synonyms": ["scenario-based", "outlined", "plotted"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["theater", "film", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "scenarizes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular of scenarioize; to create or present scenarios",
+          "examples": [
+            "The team scenarizes several possible futures.",
+            "He scenarizes different outcomes for the policy proposal."
+          ],
+          "collocations": ["scenarizes outcomes", "scenarizes futures"],
+          "synonyms": ["scenarioizes", "plots scenarios"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["planning", "policy", "creative fields"]
+        }
+      ]
+    },
+    {
+      "term": "scenarizing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of scenarioize; the act of creating or developing scenarios",
+          "examples": [
+            "They are scenarizing multiple endings.",
+            "Scenarizing scenarios helps with decision making."
+          ],
+          "collocations": ["scenarizing steps", "scenarizing futures"],
+          "synonyms": ["plotting scenarios", "drafting scenarios"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "planning", "creative fields"]
+        }
+      ]
+    },
+    {
+      "term": "scenary",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a variant spelling of scenery; the natural features of a landscape or the appearance of a place in a film or theatre",
+          "examples": [
+            "The mountain lake provided a beautiful scenary.",
+            "The film uses a dramatic scenary to set the mood."
+          ],
+          "collocations": ["scenary description", "scenary changes"],
+          "synonyms": ["scenery", "landscape"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "nature", "film"]
+        }
+      ]
+    },
+    {
+      "term": "scenas",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scena; a small dramatic scene or panel (less common variant)",
+          "examples": [
+            "The actor performed several sceni as part of the show."
+          ],
+          "collocations": ["dramatic sceni"],
+          "synonyms": ["scene", "panel"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["theater", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "scend",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to ascend or rise; an archaic or literary form of ascend",
+          "examples": [
+            "The sun scend over the horizon.",
+            "They watched the smoke scend into the sky."
+          ],
+          "collocations": ["scend higher", "as the sun scends"],
+          "synonyms": ["rise", "ascend", "climb"],
+          "antonyms": ["descend"],
+          "register": "literary",
+          "domain": ["literature", "poetry", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "scended",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of scend; rose or ascended (archaic or poetic usage)",
+          "examples": [
+            "The tide scended slowly after dawn."
+          ],
+          "collocations": ["scended gently"],
+          "synonyms": ["rose", "ascended"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature", "poetry"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+```json
+{
+  "items": [
+    {
+      "term": "beatific",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "showing or giving great happiness and peace, like a holy joy",
+          "examples": ["She had a beatific smile after her meditation.", "The saint's beatific vision filled the painting with light.", "His beatific expression made everyone feel calm."],
+          "collocations": ["beatific smile", "beatific vision", "beatific expression", "beatific face", "beatific joy"],
+          "synonyms": ["blissful", "serene", "radiant", "ecstatic"],
+          "antonyms": ["miserable", "sorrowful"],
+          "register": "literary",
+          "domain": ["general", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "beatifical",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "rare form of beatific; showing holy bliss",
+          "examples": ["The beatifical glow surrounded the figure.", "Poets described her beatifical aura."],
+          "collocations": ["beatifical vision", "beatifical light"],
+          "synonyms": ["beatific"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["religion", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "beatifically",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows great holy happiness",
+          "examples": ["She smiled beatifically at the children.", "The monk gazed beatifically into the distance.", "Light shone beatifically on the altar."],
+          "collocations": ["smile beatifically", "gaze beatifically", "look beatifically"],
+          "synonyms": ["blissfully", "serenely"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "beatificate",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "rare; to make blessed or like beatification",
+          "examples": ["The ancient text describes how God would beatificate the pure.", "The rite was meant to beatificate the martyr."],
+          "collocations": ["beatificate the soul"],
+          "synonyms": ["beatify"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "beatification",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "in the Catholic Church, official recognition that a dead person lived a very holy life",
+          "examples": ["The beatification of Mother Teresa drew huge crowds.", "His beatification is the first step to sainthood.", "The ceremony marked her beatification."],
+          "collocations": ["process of beatification", "declare beatification", "beatification ceremony", "beatification mass"],
+          "synonyms": ["blessedness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "beatifications",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beatification; multiple acts of declaring holy lives",
+          "examples": ["Recent beatifications have honored many modern heroes.", "The list includes several beatifications this year."],
+          "collocations": ["recent beatifications", "multiple beatifications"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "beatified",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "officially declared holy by the Catholic Church",
+          "examples": ["The beatified priest is venerated widely.", "Thousands visited the tomb of the beatified nun."],
+          "collocations": ["beatified priest", "beatified saint", "beatified martyr"],
+          "synonyms": ["blessed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        },
+        {
+          "pos": "verb",
+          "definition": "past tense: declared someone beatified",
+          "examples": ["Pope John Paul II beatified many during his reign.", "She was beatified in 2020."],
+          "collocations": ["was beatified", "officially beatified"],
+          "synonyms": ["blessed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "beatifies",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person of beatify; declares holy",
+          "examples": ["The Church beatifies those who lived heroic virtue.", "The Pope beatifies candidates after review."],
+          "collocations": ["Church beatifies", "Pope beatifies"],
+          "synonyms": ["blesses"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "beatify",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "in the Catholic Church, to name a dead person as blessed, first step to being a saint",
+          "examples": ["The Vatican will beatify the missionary next year.", "They hope to beatify her for her charity work.", "The process can take years to beatify someone."],
+          "collocations": ["beatify someone", "Vatican beatify", "process to beatify"],
+          "synonyms": ["canonize", "bless"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "beatifying",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of beatify; ongoing process of declaring holy",
+          "examples": ["The Church is beatifying more modern figures.", "Her cause for beatifying is progressing."],
+          "collocations": ["beatifying process", "now beatifying"],
+          "synonyms": ["blessing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "beatille",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "beatinest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "nonstandard superlative of beat (good or surprising); the most beat",
+          "examples": ["That's the beatinest trick I've seen!"],
+          "collocations": ["beatinest trick", "beatinest thing"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["informal"]
+        }
+      ]
+    },
+    {
+      "term": "beating",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "act of hitting someone or something many times, often to hurt",
+          "examples": ["The child got a beating from his father.", "Police investigated reports of a severe beating.", "He took a beating in the fight."],
+          "collocations": ["severe beating", "good beating", "take a beating", "give a beating"],
+          "synonyms": ["thrashing", "whipping", "pummeling"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "crime"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a defeat, especially in a game or competition",
+          "examples": ["Our team took a bad beating in the final match.", "The market took a beating today.", "They gave the opponents a beating."],
+          "collocations": ["take a beating", "sound beating", "heavy beating"],
+          "synonyms": ["defeat", "loss", "drubbing"],
+          "antonyms": ["victory", "win"],
+          "register": "informal",
+          "domain": ["sports", "business"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle of beat; hitting repeatedly",
+          "examples": ["Rain was beating against the window.", "My heart was beating fast."],
+          "collocations": ["beating heart", "beating drum"],
+          "synonyms": ["pulsing", "throbbing"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beatings",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beating; multiple acts of hitting or defeats",
+          "examples": ["Reports of beatings in prison shocked the nation.", "The team suffered several beatings this season."],
+          "collocations": ["police beatings", "regular beatings", "series of beatings"],
+          "synonyms": ["thrashing", "whippings"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["crime", "sports"]
+        }
+      ]
+    },
+    {
+      "term": "beatitude",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "perfect blessedness or happiness, especially in heaven",
+          "examples": ["The sermon spoke of eternal beatitude.", "She sought spiritual beatitude through prayer."],
+          "collocations": ["eternal beatitude", "spiritual beatitude", "blessed beatitude"],
+          "synonyms": ["bliss", "felicity", "blessedness"],
+          "antonyms": ["misery"],
+          "register": "literary",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "beatitudes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the eight blessings Jesus gave in the Sermon on the Mount",
+          "examples": ["The Beatitudes teach humility and mercy.", "Christians recite the Beatitudes in worship."],
+          "collocations": ["the Beatitudes", "Sermon on the Mount Beatitudes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "beatles",
+      "kind": "proper_noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "famous English rock band from the 1960s: John Lennon, Paul McCartney, George Harrison, Ringo Starr",
+          "examples": ["The Beatles changed music forever.", "I love The Beatles' song 'Hey Jude.'", "The Beatles were from Liverpool."],
+          "collocations": ["The Beatles", "Beatles songs", "Beatles album"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "beatless",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without rhythm or beat; pulseless",
+          "examples": ["The music felt beatless and flat.", "He checked for a beatless pulse."],
+          "collocations": ["beatless music", "beatless heart"],
+          "synonyms": ["rhythm-less"],
+          "antonyms": ["rhythmic"],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "beatnik",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "member of the Beat Generation in the 1950s; rejected normal society, loved jazz and poetry",
+          "examples": ["Beatniks wore berets and read poetry in cafes.", "Jack Kerouac inspired many beatniks.", "The beatnik lifestyle influenced hippies."],
+          "collocations": ["young beatnik", "beatnik poet", "beatnik style"],
+          "synonyms": ["bohemian"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["culture", "history"]
+        }
+      ]
+    },
+    {
+      "term": "beatnikism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the style, ideas, or way of life of beatniks",
+          "examples": ["Beatnikism celebrated freedom and rebellion.", "His book explores beatnikism in San Francisco."],
+          "collocations": ["culture of beatnikism"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "beatniks",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beatnik; multiple members of the Beat movement",
+          "examples": ["Beatniks gathered in Greenwich Village.", "Tourists visit spots where beatniks hung out."],
+          "collocations": ["group of beatniks", "famous beatniks"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "beatrice",
+      "kind": "proper_noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "female given name; also Dante's idealized love in the Divine Comedy",
+          "examples": ["Beatrice is a classic Italian name.", "In Dante's poem, Beatrice guides him to paradise."],
+          "collocations": ["Beatrice Potter", "Dante's Beatrice"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["names", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "beatrix",
+      "kind": "proper_noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "female given name; e.g. Beatrix Potter, author of Peter Rabbit",
+          "examples": ["Beatrix Potter wrote charming children's books.", "Queen Beatrix ruled the Netherlands."],
+          "collocations": ["Beatrix Potter", "Queen Beatrix"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["names", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "beats",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beat; regular rhythms in music or heart",
+          "examples": ["The song has strong beats.", "I feel the beats in my chest."],
+          "collocations": ["strong beats", "dance beats", "heart beats"],
+          "synonyms": ["rhythms", "pulses"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        },
+        {
+          "pos": "noun",
+          "definition": "police officer's or journalist's regular area to cover",
+          "examples": ["The cop walks his beat every night.", "She's the reporter for the foreign beats."],
+          "collocations": ["police beats", "news beats", "walk the beats"],
+          "synonyms": ["routes", "patches"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["police", "journalism"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person of beat; defeats or hits",
+          "examples": ["Our team beats them every time.", "The rain beats the roof hard."],
+          "collocations": ["beats everyone", "beats the record"],
+          "synonyms": ["defeats", "whips"],
+          "antonyms": ["loses"],
+          "register": null,
+          "domain": ["general", "sports"]
+        }
+      ]
+    },
+    {
+      "term": "beatster",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "slang for someone who loves electronic dance music beats",
+          "examples": ["The beatster danced all night at the rave."],
+          "collocations": ["rave beatster"],
+          "synonyms": ["raver"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["music"]
+        }
+      ]
+    }
+  ]
+}
+```

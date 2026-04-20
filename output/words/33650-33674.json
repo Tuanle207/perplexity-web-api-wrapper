@@ -1,0 +1,459 @@
+```json
+{
+  "items": [
+    {
+      "term": "barrulety",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "barruly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "barry",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A type of short curved sword used in ancient Ireland.",
+          "examples": ["The warrior carried a barry into battle.", "Museum displays include ancient Irish barrys."],
+          "collocations": ["Irish barry", "ancient barry", "curved barry"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bars",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bar; long, straight pieces of metal or wood used to block or protect.",
+          "examples": ["The window has iron bars.", "Prison cells have thick bars.", "He gripped the parallel bars."],
+          "collocations": ["iron bars", "steel bars", "prison bars", "parallel bars", "gold bars"],
+          "synonyms": ["rods", "rails"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday", "sports"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Places where alcoholic drinks are served.",
+          "examples": ["The city has many bars.", "We met at one of the local bars."],
+          "collocations": ["local bars", "sports bars", "dive bars"],
+          "synonyms": ["pubs", "taverns"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Vertical lines on a music staff that divide measures.",
+          "examples": ["Count the bars in the song.", "The sheet music has 16 bars."],
+          "collocations": ["music bars", "measure bars"],
+          "synonyms": ["measures"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "barsac",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A sweet white wine from Barsac, a region in Bordeaux, France.",
+          "examples": ["Barsac is a famous dessert wine.", "We enjoyed a bottle of Barsac with dinner."],
+          "collocations": ["Barsac wine", "sweet Barsac", "Bordeaux Barsac"],
+          "synonyms": ["Sauternes"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "wine"]
+        }
+      ]
+    },
+    {
+      "term": "barse",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The space between the fingers or toes.",
+          "examples": ["The barse between his toes was sore."],
+          "collocations": ["finger barse", "toe barse"],
+          "synonyms": ["interspace"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "barsom",
+      "kind": "proper_noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Sacred twigs used in Zoroastrian religious ceremonies.",
+          "examples": ["The priest held the barsom during the ritual.", "Barsom is essential in Yasna ceremonies."],
+          "collocations": ["sacred barsom", "Zoroastrian barsom"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "barspoon",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A long spoon used by bartenders to mix drinks.",
+          "examples": ["The bartender used a barspoon to stir the cocktail.", "You'll need a barspoon for this recipe."],
+          "collocations": ["stainless steel barspoon", "cocktail barspoon", "mixing barspoon"],
+          "synonyms": ["mixing spoon"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "drinks"]
+        }
+      ]
+    },
+    {
+      "term": "barstool",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A tall stool used in bars for sitting at the counter.",
+          "examples": ["He sat on the barstool watching the game.", "The bar has comfortable barstools."],
+          "collocations": ["padded barstool", "swivel barstool", "bar counter barstool"],
+          "synonyms": ["pub stool"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["furniture", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barstools",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barstool; tall stools used in bars.",
+          "examples": ["The bar replaced all its old barstools.", "Several barstools were empty."],
+          "collocations": ["wooden barstools", "leather barstools", "high barstools"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["furniture"]
+        }
+      ]
+    },
+    {
+      "term": "bart",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Bay Area Rapid Transit, a rail system in San Francisco.",
+          "examples": ["I take BART to work every day.", "BART trains run until midnight."],
+          "collocations": ["BART train", "BART station", "San Francisco BART"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["transportation"]
+        },
+        {
+          "pos": "proper_noun",
+          "definition": "A common nickname for the name Bartholomew.",
+          "examples": ["Bart Simpson is a famous cartoon character.", "My friend's name is Bart."],
+          "collocations": ["Uncle Bart", "Bart Simpson"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["names"]
+        }
+      ]
+    },
+    {
+      "term": "bartend",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To serve drinks at a bar, especially alcohol.",
+          "examples": ["She bartends at a busy nightclub.", "He learned to bartend in college."],
+          "collocations": ["bartend part-time", "bartend at weddings", "experienced bartend"],
+          "synonyms": ["serve drinks"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["jobs", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bartended",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of bartend; served drinks at a bar.",
+          "examples": ["She bartended all weekend.", "He bartended at the resort last summer."],
+          "collocations": ["bartended nights", "bartended events", "successfully bartended"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["jobs"]
+        }
+      ]
+    },
+    {
+      "term": "bartender",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who serves drinks, especially alcohol, at a bar.",
+          "examples": ["The bartender made a great martini.", "Ask the bartender for a menu."],
+          "collocations": ["friendly bartender", "head bartender", "experienced bartender", "busy bartender"],
+          "synonyms": ["barman", "barkeep"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["jobs", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bartenders",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bartender; people who serve drinks at bars.",
+          "examples": ["All the bartenders were busy.", "The bartenders work late nights."],
+          "collocations": ["local bartenders", "skilled bartenders", "nightclub bartenders"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["jobs"]
+        }
+      ]
+    },
+    {
+      "term": "bartending",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The job or activity of serving drinks at a bar.",
+          "examples": ["Bartending can be a fun job.", "She teaches bartending classes."],
+          "collocations": ["professional bartending", "bartending school", "bartending skills"],
+          "synonyms": ["mixology"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["jobs"]
+        }
+      ]
+    },
+    {
+      "term": "bartends",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person singular of bartend; serves drinks at a bar.",
+          "examples": ["She bartends every Friday night.", "He bartends at three different bars."],
+          "collocations": ["bartends weddings", "bartends weekends", "expertly bartends"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["jobs"]
+        }
+      ]
+    },
+    {
+      "term": "barter",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To exchange goods or services without using money.",
+          "examples": ["They bartered food for tools.", "She bartered her skills for a place to stay."],
+          "collocations": ["barter goods", "barter services", "barter fairly", "willing to barter"],
+          "synonyms": ["trade", "swap"],
+          "antonyms": ["buy", "sell"],
+          "register": null,
+          "domain": ["everyday", "business"]
+        },
+        {
+          "pos": "noun",
+          "definition": "The act of exchanging goods or services without money.",
+          "examples": ["They use barter instead of cash.", "Barter works well in some communities."],
+          "collocations": ["cashless barter", "direct barter", "barter system"],
+          "synonyms": ["trade", "exchange"],
+          "antonyms": ["currency"],
+          "register": null,
+          "domain": ["business", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "bartered",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of barter; exchanged goods without money.",
+          "examples": ["They bartered horses for grain.", "She bartered her old phone for clothes."],
+          "collocations": ["bartered goods", "successfully bartered", "bartered services"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "barterer",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who frequently barters or trades goods.",
+          "examples": ["The barterer got a good deal.", "Local barterers meet weekly."],
+          "collocations": ["skilled barterer", "professional barterer"],
+          "synonyms": ["trader"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "barterers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barterer; people who trade goods.",
+          "examples": ["Barterers exchanged items at the market.", "The barterers formed a network."],
+          "collocations": ["local barterers", "active barterers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bartering",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The activity of exchanging goods without money.",
+          "examples": ["Bartering is common in some villages.", "Online bartering is growing."],
+          "collocations": ["goods bartering", "service bartering", "bartering system"],
+          "synonyms": ["trading"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "economics"]
+        }
+      ]
+    },
+    {
+      "term": "barters",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person singular of barter; exchanges goods.",
+          "examples": ["He barters tools for food.", "She barters online often."],
+          "collocations": ["barters goods", "fairly barters"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Plural of barter; exchanges without money.",
+          "examples": ["They made several barters.", "Barters saved them money."],
+          "collocations": ["multiple barters", "successful barters"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "barth",
+      "kind": "proper_noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A surname, or reference to Karl Barth (1886-1968), Swiss theologian.",
+          "examples": ["Karl Barth wrote influential theology books.", "The Barth family lives nearby."],
+          "collocations": ["Karl Barth", "theologian Barth"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["religion", "names"]
+        }
+      ]
+    },
+    {
+      "term": "barthian",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to the theology of Karl Barth.",
+          "examples": ["Barthian theology emphasizes God's grace.", "She studies Barthian thought."],
+          "collocations": ["Barthian theology", "neo-Barthian", "Barthian perspective"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["religion", "academic"]
+        }
+      ]
+    }
+  ]
+}
+```

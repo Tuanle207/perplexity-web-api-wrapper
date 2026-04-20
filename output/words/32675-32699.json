@@ -1,0 +1,460 @@
+```json
+{
+  "items": [
+    {
+      "term": "banoffi",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A dessert made with bananas, toffee, and cream on a biscuit base.",
+          "examples": ["Banoffi pie is a popular British treat.", "She made banoffi for the party.", "I love the caramel flavor in banoffi."],
+          "collocations": ["banoffi pie", "banoffi dessert", "make banoffi", "banoffi recipe", "serve banoffi"],
+          "synonyms": ["banoffee"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food", "cooking"]
+        }
+      ]
+    },
+    {
+      "term": "banoffis",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banoffi; multiple portions of the banana-toffee-cream dessert.",
+          "examples": ["They ordered several banoffis.", "The cafe sells fresh banoffis daily.", "We shared the banoffis after dinner."],
+          "collocations": ["fresh banoffis", "order banoffis", "serve banoffis", "homemade banoffis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "banovina",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A historical region in the Balkans, formerly part of Yugoslavia.",
+          "examples": ["Banovina was established in 1929.", "The Banovina region had its own governor.", "Tourists visit sites in old Banovina."],
+          "collocations": ["Banovina region", "Banovina Oblast", "historical Banovina"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "banque",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The bench or fund in certain card games where players place stakes.",
+          "examples": ["The banque holds the game's stakes.", "He covered the banque in faro.", "The player challenged the banque."],
+          "collocations": ["cover the banque", "play banque", "banque fund", "challenge banque"],
+          "synonyms": ["bank"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["games", "cards"]
+        }
+      ]
+    },
+    {
+      "term": "banquet",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A large formal meal for many people, often for a celebration.",
+          "examples": ["The wedding had a grand banquet.", "They attended the awards banquet.", "The hotel hosts banquets."],
+          "collocations": ["grand banquet", "wedding banquet", "formal banquet", "host a banquet", "banquet hall"],
+          "synonyms": ["feast", "dinner"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "events"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To hold or attend a large formal meal.",
+          "examples": ["Guests banquetted late into the night.", "They banquetted to celebrate victory.", "The king banquetted his allies."],
+          "collocations": ["banquet with guests", "royally banquet", "banquet together"],
+          "synonyms": ["feast"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["events"]
+        }
+      ]
+    },
+    {
+      "term": "banqueted",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of banquet; held or attended a large formal meal.",
+          "examples": ["They banqueted after the game.", "The team banqueted in the hall.", "VIPs banqueted at the castle."],
+          "collocations": ["banqueted late", "guests banqueted", "royally banqueted"],
+          "synonyms": ["feasted"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["events"]
+        }
+      ]
+    },
+    {
+      "term": "banqueteer",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who attends banquets frequently.",
+          "examples": ["He is a famous banqueteer.", "The banqueteer enjoyed the feast.", "Politicians are often banqueteers."],
+          "collocations": ["frequent banqueteer", "professional banqueteer"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["events"]
+        }
+      ]
+    },
+    {
+      "term": "banqueteering",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of frequently attending lavish banquets.",
+          "examples": ["His banqueteering became notorious.", "Banqueteering filled his schedule.", "She criticized their banqueteering."],
+          "collocations": ["excessive banqueteering", "political banqueteering"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["events"]
+        }
+      ]
+    },
+    {
+      "term": "banqueteers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banqueteer; people who frequently attend banquets.",
+          "examples": ["The banqueteers arrived early.", "Banqueteers filled the tables.", "Local banqueteers were invited."],
+          "collocations": ["frequent banqueteers", "social banqueteers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["events"]
+        }
+      ]
+    },
+    {
+      "term": "banqueter",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who attends or participates in a banquet.",
+          "examples": ["The banqueter enjoyed the meal.", "Banqueters toasted the host.", "She was a happy banqueter."],
+          "collocations": ["fellow banqueter", "eager banqueter"],
+          "synonyms": ["feaster", "diner"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["events"]
+        }
+      ]
+    },
+    {
+      "term": "banqueters",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "People attending a banquet.",
+          "examples": ["Banqueters filled the room.", "The banqueters applauded.", "Waiters served the banqueters."],
+          "collocations": ["happy banqueters", "fellow banqueters", "serve banqueters"],
+          "synonyms": ["guests", "diners"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["events"]
+        }
+      ]
+    },
+    {
+      "term": "banqueting",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The activity of holding or attending formal banquets.",
+          "examples": ["The hotel offers banqueting facilities.", "Banqueting is popular for weddings.", "They specialize in banqueting."],
+          "collocations": ["banqueting hall", "banqueting suite", "corporate banqueting"],
+          "synonyms": ["feasting"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["events", "business"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Present participle of banquet; holding a formal meal.",
+          "examples": ["They are banqueting tonight.", "Guests were banqueting downstairs."],
+          "collocations": ["banqueting guests", "banqueting now"],
+          "synonyms": ["feasting"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["events"]
+        }
+      ]
+    },
+    {
+      "term": "banquetings",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple instances of banqueting.",
+          "examples": ["The banquetings lasted all week.", "Royal banquetings were lavish."],
+          "collocations": ["lavish banquetings", "series of banquetings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["events"]
+        }
+      ]
+    },
+    {
+      "term": "banquets",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banquet; large formal meals.",
+          "examples": ["The banquets were delicious.", "They hosted several banquets.", "Banquets followed each event."],
+          "collocations": ["grand banquets", "wedding banquets", "host banquets"],
+          "synonyms": ["feasts"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["events"]
+        }
+      ]
+    },
+    {
+      "term": "banquette",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A long bench with a back, along a wall.",
+          "examples": ["They sat on the banquette.", "The restaurant has banquette seating.", "A cozy banquette lined the room."],
+          "collocations": ["banquette seating", "restaurant banquette", "upholstered banquette"],
+          "synonyms": ["bench", "settee"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["furniture", "interiors"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A raised way behind a parapet for gunners.",
+          "examples": ["Soldiers stood on the banquette.", "The banquette protected the cannons."],
+          "collocations": ["gunner's banquette", "fortress banquette"],
+          "synonyms": ["platform"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "banquettes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banquette; long benches or military platforms.",
+          "examples": ["The banquettes were comfortable.", "Restaurants use banquettes for space.", "Troops manned the banquettes."],
+          "collocations": ["cozy banquettes", "multiple banquettes", "military banquettes"],
+          "synonyms": ["benches"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["furniture", "military"]
+        }
+      ]
+    },
+    {
+      "term": "banquo",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A character in Shakespeare's Macbeth, a nobleman and father of Fleance.",
+          "examples": ["Banquo appears as Macbeth's friend.", "The ghost of Banquo haunts the play.", "Banquo's descendants are kings."],
+          "collocations": ["Banquo's ghost", "nobleman Banquo", "Banquo's murder"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "bans",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of ban; official prohibitions.",
+          "examples": ["New bans protect the environment.", "The bans upset local businesses.", "They lifted the bans."],
+          "collocations": ["strict bans", "new bans", "impose bans"],
+          "synonyms": ["prohibitions"],
+          "antonyms": ["permissions"],
+          "register": "null",
+          "domain": ["general", "law"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Third person of ban; officially prohibits something.",
+          "examples": ["The council bans smoking here.", "Law bans loud music at night.", "They bans plastic bags."],
+          "collocations": ["bans smoking", "government bans", "officially bans"],
+          "synonyms": ["prohibits"],
+          "antonyms": ["allows"],
+          "register": "null",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bansalague",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bansela",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A ceremonial gift or tribute in Zulu culture.",
+          "examples": ["He gave a bansela to the chief.", "Bansela honors the host."],
+          "collocations": ["give bansela", "traditional bansela"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "banselas",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bansela; multiple ceremonial gifts.",
+          "examples": ["They exchanged banselas.", "Guests brought banselas."],
+          "collocations": ["exchange banselas", "offer banselas"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "banshee",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "In Irish folklore, a female spirit who wails to warn of death.",
+          "examples": ["The banshee's cry echoed.", "Legend says banshees foretell doom.", "She howled like a banshee."],
+          "collocations": ["wailing banshee", "Irish banshee", "banshee cry"],
+          "synonyms": ["bean sidhe"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["folklore", "mythology"]
+        }
+      ]
+    },
+    {
+      "term": "banshees",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of banshee; female spirits that wail before death.",
+          "examples": ["Banshees haunted the old house.", "Folktales mention banshees.", "The banshees wailed together."],
+          "collocations": ["haunting banshees", "multiple banshees"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["folklore"]
+        }
+      ]
+    },
+    {
+      "term": "banshie",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Archaic spelling of banshee; a wailing female spirit foretelling death.",
+          "examples": ["The banshie keened at midnight.", "Old tales speak of the banshie."],
+          "collocations": ["wailing banshie", "ancient banshie"],
+          "synonyms": ["banshee"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["folklore"]
+        }
+      ]
+    },
+    {
+      "term": "banshies",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural archaic form of banshee.",
+          "examples": ["Banshies cried through the night.", "Legends tell of banshies."],
+          "collocations": ["ghostly banshies"],
+          "synonyms": ["banshees"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["folklore"]
+        }
+      ]
+    }
+  ]
+}
+```

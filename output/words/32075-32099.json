@@ -1,0 +1,451 @@
+```json
+{
+  "items": [
+    {
+      "term": "balnea",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of balneum; public baths or bathhouses in ancient Rome.",
+          "examples": ["The balnea were central to Roman social life.", "Tourists visited the ancient balnea in Pompeii.", "Balnea offered relaxation and hygiene."],
+          "collocations": ["ancient balnea", "Roman balnea", "public balnea", "imperial balnea", "thermal balnea"],
+          "synonyms": ["baths", "bathhouses"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "balneae",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative plural form of balneum; Roman bathhouses.",
+          "examples": ["The balneae featured heated pools.", "Excavations uncovered the balneae.", "Balneae were places for socializing."],
+          "collocations": ["Roman balneae", "ancient balneae", "public balneae"],
+          "synonyms": ["balnea", "baths"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "balneal",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to baths or bathing.",
+          "examples": ["Balneal treatments soothe muscles.", "The spa offers balneal therapies.", "Balneal facilities were luxurious."],
+          "collocations": ["balneal therapy", "balneal treatment", "balneal facilities", "balneal resort"],
+          "synonyms": ["bathing", "therapeutic"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "spa"]
+        }
+      ]
+    },
+    {
+      "term": "balnearies",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of balneary; a bathing place or bathhouse.",
+          "examples": ["The balnearies attracted visitors daily.", "Ancient balnearies had hot springs.", "Balnearies served as community hubs."],
+          "collocations": ["ancient balnearies", "thermal balnearies", "public balnearies"],
+          "synonyms": ["bathhouses", "spas"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "balneary",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place for bathing, especially a medicinal bathhouse.",
+          "examples": ["The balneary used mineral waters.", "Patients visited the balneary for therapy.", "The old balneary was restored."],
+          "collocations": ["thermal balneary", "medicinal balneary", "ancient balneary"],
+          "synonyms": ["bathhouse", "spa"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "history"]
+        }
+      ]
+    },
+    {
+      "term": "balneation",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of bathing, especially for health purposes.",
+          "examples": ["Balneation aids in muscle recovery.", "Daily balneation was prescribed.", "Balneation involves warm mineral water."],
+          "collocations": ["therapeutic balneation", "daily balneation", "mineral balneation"],
+          "synonyms": ["bathing", "bath therapy"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "spa"]
+        }
+      ]
+    },
+    {
+      "term": "balneations",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of balneation; acts of therapeutic bathing.",
+          "examples": ["Balneations improved her condition.", "Multiple balneations were scheduled.", "Balneations used hot springs."],
+          "collocations": ["therapeutic balneations", "daily balneations"],
+          "synonyms": ["bathings", "hydrotherapies"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "balneatory",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "pertaining to bathing or bath therapy.",
+          "examples": ["Balneatory methods treat arthritis.", "The balneatory center is modern.", "Balneatory procedures relax patients."],
+          "collocations": ["balneatory treatment", "balneatory method", "balneatory center"],
+          "synonyms": ["bathing", "hydrotherapeutic"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "spa"]
+        }
+      ]
+    },
+    {
+      "term": "balneographer",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who studies or writes about baths and bathing.",
+          "examples": ["The balneographer documented spa history.", "Balneographers research ancient baths.", "She is a leading balneographer."],
+          "collocations": ["famous balneographer", "modern balneographer"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["academic", "history"]
+        }
+      ]
+    },
+    {
+      "term": "balneography",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study or description of baths and bathing practices.",
+          "examples": ["Balneography explores Roman baths.", "Her thesis covers balneography.", "Balneography is a niche field."],
+          "collocations": ["ancient balneography", "historical balneography"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["academic", "history"]
+        }
+      ]
+    },
+    {
+      "term": "balneologic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the scientific study of bathing and its effects.",
+          "examples": ["Balneologic research supports spa therapy.", "Balneologic principles guide treatments."],
+          "collocations": ["balneologic research", "balneologic principle"],
+          "synonyms": ["balneological"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "balneological",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "pertaining to balneology, the study of medicinal bathing.",
+          "examples": ["Balneological studies prove benefits.", "Balneological treatments use minerals.", "The balneological approach is holistic."],
+          "collocations": ["balneological study", "balneological treatment", "balneological research"],
+          "synonyms": ["therapeutic", "hydrotherapeutic"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "balneologies",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of balneology; fields studying bath therapy.",
+          "examples": ["Balneologies vary by culture.", "Modern balneologies incorporate science."],
+          "collocations": ["comparative balneologies"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "balneologist",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an expert in balneology, the science of bath therapy.",
+          "examples": ["The balneologist recommended hot springs.", "Balneologists work in spas.", "She trained as a balneologist."],
+          "collocations": ["trained balneologist", "medical balneologist"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "balneologists",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of balneologist; experts in bath therapy science.",
+          "examples": ["Balneologists gathered at the conference.", "Balneologists prescribe mineral baths."],
+          "collocations": ["leading balneologists"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "balneology",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the scientific study of the therapeutic use of bathing.",
+          "examples": ["Balneology is popular in Europe.", "Balneology treats skin conditions.", "He studies balneology."],
+          "collocations": ["medical balneology", "therapeutic balneology", "clinical balneology"],
+          "synonyms": ["hydrotherapy", "spa therapy"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "balneophysiology",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study of physiological effects of bathing.",
+          "examples": ["Balneophysiology examines circulation benefits.", "Balneophysiology informs spa design."],
+          "collocations": ["clinical balneophysiology"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "physiology"]
+        }
+      ]
+    },
+    {
+      "term": "balneotechnics",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the technology and techniques of bath therapy.",
+          "examples": ["Balneotechnics advances spa equipment.", "Balneotechnics optimizes water temperature."],
+          "collocations": ["modern balneotechnics"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "balneotherapeutics",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "therapeutic methods using baths for treatment.",
+          "examples": ["Balneotherapeutics relieve chronic pain.", "Balneotherapeutics is evidence-based."],
+          "collocations": ["clinical balneotherapeutics"],
+          "synonyms": ["balneotherapy"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "balneotherapia",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative term for balneotherapy; bath-based healing.",
+          "examples": ["Balneotherapia uses mineral springs.", "Balneotherapia treats rheumatism."],
+          "collocations": ["therapeutic balneotherapia"],
+          "synonyms": ["balneotherapy"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "balneotherapies",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of balneotherapy; therapeutic bathing treatments.",
+          "examples": ["Balneotherapies improve joint mobility.", "Various balneotherapies are available."],
+          "collocations": ["thermal balneotherapies", "medicinal balneotherapies"],
+          "synonyms": ["hydrotherapies"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "spa"]
+        }
+      ]
+    },
+    {
+      "term": "balneotherapy",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "medical treatment using baths, especially mineral or thermal waters.",
+          "examples": ["Balneotherapy helps with arthritis.", "Doctors recommend balneotherapy.", "Balneotherapy sessions last 20 minutes."],
+          "collocations": ["thermal balneotherapy", "medicinal balneotherapy", "clinical balneotherapy", "mineral balneotherapy"],
+          "synonyms": ["hydrotherapy", "spa therapy"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "spa", "therapy"]
+        }
+      ]
+    },
+    {
+      "term": "balneum",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a bath or bathing room, especially in ancient Rome.",
+          "examples": ["The balneum had a hot pool.", "Balneum was part of the villa.", "Romans frequented the balneum."],
+          "collocations": ["Roman balneum", "private balneum", "public balneum", "ancient balneum"],
+          "synonyms": ["bath", "bathhouse"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "balnibarbi",
+      "kind": "proper_noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fictional land in Jonathan Swift's Gulliver's Travels, inhabited by absurdly intellectual horses.",
+          "examples": ["Gulliver visited Balnibarbi.", "Balnibarbi featured the flying island Laputa.", "The horses of Balnibarbi ignored practical work."],
+          "collocations": ["island of Balnibarbi", "Laputa Balnibarbi"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "baloch",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a member of the Baloch ethnic group living in Pakistan, Iran, and Afghanistan.",
+          "examples": ["The Baloch have a rich culture.", "Baloch nomads herd sheep.", "Baloch music features traditional instruments."],
+          "collocations": ["Baloch people", "Baloch tribe", "Baloch culture", "Baloch language"],
+          "synonyms": ["Baluchi"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["ethnicity", "culture"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the Iranian language spoken by the Baloch people.",
+          "examples": ["Baloch is spoken in Balochistan.", "She studies the Baloch language."],
+          "collocations": ["Baloch language", "Iranian Baloch"],
+          "synonyms": ["Baluchi"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["linguistics"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to the Baloch people, their language, or culture.",
+          "examples": ["Baloch traditions are ancient.", "Baloch rugs are handwoven."],
+          "collocations": ["Baloch customs", "Baloch attire"],
+          "synonyms": ["Baluchi"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["culture"]
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,584 @@
+{
+  "items": [
+    {
+      "term": "semiactively",
+      "kind": "adverb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "to an extent that is partly active or in an active manner, but not fully active",
+          "examples": [
+            "The machine was semiactively used in the experiment, performing some tasks but not all.",
+            "She semiactively participated in the discussion, contributing a few points."
+          ],
+          "collocations": [
+            "semiactively participate",
+            "semiactively engaged",
+            "semiactively operate",
+            "semiactively move"
+          ],
+          "synonyms": ["partially active", "partly active", "somewhat active"],
+          "antonyms": ["fully active", "completely active"],
+          "register": "formal",
+          "domain": ["general", "science"]
+        }
+      ]
+    },
+    {
+      "term": "semiactiveness",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality or state of being partly active rather than fully active",
+          "examples": [
+            "The semiactiveness of the instrument reduces error in the readings.",
+            "Her semiactiveness in the project slowed progress."
+          ],
+          "collocations": [
+            "degree of semiactiveness",
+            "semiactiveness level",
+            "reduce semiactiveness"
+          ],
+          "synonyms": ["partial activity", "partial engagement"],
+          "antonyms": ["full activity", "full engagement"],
+          "register": "formal",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "semiadherent",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partially adhering or sticking; somewhat loyal or attached",
+          "examples": [
+            "The semiadherent plaster held the tile in place for a moment.",
+            "He remained semiadherent to the organization despite disagreements."
+          ],
+          "collocations": [
+            "semiadherent surface",
+            "semiadherent material",
+            "semiadherent behavior"
+          ],
+          "synonyms": ["partially adherent", "slightly sticky", "loosely attached"],
+          "antonyms": ["fully adherent", "fully compliant"],
+          "register": "neutral",
+          "domain": ["general", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "semiadhesive",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having some adhesive properties but not fully sticky",
+          "examples": [
+            "The semiadhesive tape does not stick well on wet surfaces.",
+            "They used a semiadhesive compound for temporary immobilization."
+          ],
+          "collocations": [
+            "semiadhesive tape",
+            "semiadhesive coating",
+            "semiadhesive property"
+          ],
+          "synonyms": ["partially sticky", "somewhat adhesive"],
+          "antonyms": ["fully adhesive", "non-stick"],
+          "register": "neutral",
+          "domain": ["general", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "semiadhesively",
+      "kind": "adverb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner that is partly adhesive or sticky",
+          "examples": [
+            "The film adhered semiadhesively to the skin.",
+            "The coating semiadhesively attached the label."
+          ],
+          "collocations": [
+            "semiadhesively attach",
+            "semiadhesively bind"
+          ],
+          "synonyms": ["partially adhesively", "somewhat sticky"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "semiadhesiveness",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being partly adhesive",
+          "examples": [
+            "The semiadhesiveness of the tape makes it easy to remove without residue.",
+            "Researchers tested the semiadhesiveness of the gel."
+          ],
+          "collocations": [
+            "level of semiadhesiveness",
+            "semiadhesiveness property"
+          ],
+          "synonyms": ["partial adhesiveness", "Partial stickiness"],
+          "antonyms": ["full adhesiveness"],
+          "register": "neutral",
+          "domain": ["general", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "semiadjectively",
+      "kind": "adverb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner that is partly adjectival or described by an adjective",
+          "examples": [
+            "The term was semiadjectively applied to describe the feature.",
+            "They used a semiadjectively phrased label."
+          ],
+          "collocations": [
+            "semiadjectively describe",
+            "semiadjectively apply"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "semiadnate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly adnate; partially connected or grown together",
+          "examples": [
+            "The plant has a semiadnate root structure.",
+            "A semiadnate feature links the two parts of the organism."
+          ],
+          "collocations": [
+            "semiadnate root",
+            "semiadnate fusion"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "semiaerial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly in the air or airborne; not fully aerial",
+          "examples": [
+            "The drone provides semiaerial surveillance over the area.",
+            "Semiaerial methods reduce ground disturbance."
+          ],
+          "collocations": [
+            "semiaerial image",
+            "semiaerial survey"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "semiaffectionate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "showing some but not strong affection",
+          "examples": [
+            "The dog was semiaffectionate, wagging its tail but staying a bit distant.",
+            "He gave a semiaffectionate hug."
+          ],
+          "collocations": [
+            "semiaffectionate behavior",
+            "semiaffectionate gesture"
+          ],
+          "synonyms": ["slightly affectionate", "partially affectionate"],
+          "antonyms": ["fully affectionate"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "semiagricultural",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly related to agriculture or farming",
+          "examples": [
+            "The semiagricultural area uses both farming and compensation schemes.",
+            "Semiagricultural practices are common in rural regions."
+          ],
+          "collocations": [
+            "semiagricultural sector",
+            "semiagricultural land"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "semiahmoo",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "referring to a place name (Semiahmoo), often used in historical or local context",
+          "examples": [
+            "Semiahmoo Bay is a geographic site named after the local Indigenous people.",
+            "They visited Semiahmoo to study the coast."
+          ],
+          "collocations": [
+            "Semiahmoo Bay",
+            "Semiahmoo people"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "semialbinism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a partial or incomplete form of albinism, featuring partial loss of pigment",
+          "examples": [
+            "Semialbinism can affect hair and skin coloration without full albinism.",
+            "Researchers study semialbinism in certain populations."
+          ],
+          "collocations": [
+            "semialbinism trait",
+            "semialbinism in organisms"
+          ],
+          "synonyms": ["partial albinism"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "semialcoholic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "drinking alcohol only in a limited or partial way; not a heavy drinker",
+          "examples": [
+            "He is semialcoholic and rarely drinks more than a glass.",
+            "The policy targets semialcoholic behavior in workers."
+          ],
+          "collocations": [
+            "semialcoholic beverage",
+            "semialcoholic adult"
+          ],
+          "synonyms": ["light drinker", "moderate drinker"],
+          "antonyms": ["abstinent", "heavy drinker"],
+          "register": "neutral",
+          "domain": ["general", "health"]
+        }
+      ]
+    },
+    {
+      "term": "semialien",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that is partly alien or foreign; partially unfamiliar",
+          "examples": [
+            "The term semialien is used to describe a culture that is partly foreign.",
+            "Her work explored semialien influences in the community."
+          ],
+          "collocations": [
+            "semialien culture",
+            "semialien influences"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["cultural", "general"]
+        }
+      ]
+    },
+    {
+      "term": "semiallegiance",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "partial loyalty or commitment to a group, cause, or country",
+          "examples": [
+            "The citizen showed semiallegiance during the period of change.",
+            "Semiallegiance can create tension within teams."
+          ],
+          "collocations": [
+            "semiallegiance to the state",
+            "semiallegiance test"
+          ],
+          "synonyms": ["partial loyalty", "ambivalent loyalty"],
+          "antonyms": ["full allegiance", "complete loyalty"],
+          "register": "neutral",
+          "domain": ["political", "social"]
+        }
+      ]
+    },
+    {
+      "term": "semiallegoric",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly allegorical; not wholly symbolic",
+          "examples": [
+            "The story uses semiallegoric elements to convey a moral.",
+            "A semiallegoric depiction can be interpreted in several ways."
+          ],
+          "collocations": [
+            "semiallegoric tale",
+            "semiallegoric imagery"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "semiallegorical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly allegorical; representing a deeper moral or political meaning",
+          "examples": [
+            "The novel is semiallegorical, using animals to critique society.",
+            "A semiallegorical painting invites multiple readings."
+          ],
+          "collocations": [
+            "semiallegorical story",
+            "semiallegorical artwork"
+          ],
+          "synonyms": ["partly symbolic", "allegorically partial"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literary", "art"]
+        }
+      ]
+    },
+    {
+      "term": "semiallegorically",
+      "kind": "adverb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a semiallegorical manner; in a way that is partly allegorical",
+          "examples": [
+            "The piece is semiallegorically themed, inviting multiple moral readings.",
+            "She spoke semiallegorically about the dangers of power."
+          ],
+          "collocations": [
+            "semiallegorically themed",
+            "semiallegorically depicted"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["literary", "art"]
+        }
+      ]
+    },
+    {
+      "term": "semialpine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly located in the alpine region; partially alpine in characteristics",
+          "examples": [
+            "The semialpine zone experiences both valley warmth and high-altitude cold.",
+            "Semialpine flora includes species adapted to mixed conditions."
+          ],
+          "collocations": [
+            "semialpine zone",
+            "semialpine climate"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "semialuminous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly luminous or bright; partially full of light",
+          "examples": [
+            "The cave walls glowed with semialuminous mineral deposits.",
+            "A semialuminous glow came from the bioluminescent organisms."
+          ],
+          "collocations": [
+            "semialuminous glow",
+            "semialuminous material"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "semiamplexicaul",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly having a sheath or covering around a stem, especially in botany",
+          "examples": [
+            "Some leaves are semiamplexicaul, clasping the stem halfway.",
+            "The plant shows semiamplexicaul bases."
+          ],
+          "collocations": [
+            "semiamplexicaul leaves",
+            "semiamplexicaul stem"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["botany", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "semiamplitude",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a partial amplitude; the extent of a wave or oscillation that is not full",
+          "examples": [
+            "The signal showed semiamplitude in the measured waveform.",
+            "Researchers noted semiamplitude in the test setup."
+          ],
+          "collocations": [
+            "semiamplitude signal",
+            "semiamplitude measurement"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "semian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a prefix unrelated to common independent meaning, possibly a truncation or name component; used in compounds",
+          "examples": [
+            "In biology, semian can appear as a prefix in specialized terms.",
+            "The term semian was used in historical texts as part of a longer word."
+          ],
+          "collocations": [
+            "semian prefix",
+            "semian term"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "semianaesthetic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "partly aesthetically oriented; partially focused on beauty or perception",
+          "examples": [
+            "The exhibit has a semianaesthetic quality, emphasizing form over function.",
+            "The film uses semianaesthetic imagery to evoke emotion."
+          ],
+          "collocations": [
+            "semianaesthetic design",
+            "semianaesthetic experience"
+          ],
+          "synonyms": ["partially aesthetic"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["art", "culture"]
+        }
+      ]
+    }
+  ]
+}

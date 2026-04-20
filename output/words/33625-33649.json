@@ -1,0 +1,451 @@
+```json
+{
+  "items": [
+    {
+      "term": "barrington",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A surname or place name, often linked to locations like Barrington in England or the US.",
+          "examples": ["The Barrington family has lived here for generations.", "She grew up in Barrington, Rhode Island."],
+          "collocations": ["Barrington Hills", "Lord Barrington", "Barrington College"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barringtonia",
+      "kind": "proper_noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A genus of tropical trees with large, showy flowers, also called mangrove apple.",
+          "examples": ["Barringtonia asiatica grows along coastlines.", "The barringtonia tree produces round fruits that float."],
+          "collocations": ["barringtonia tree", "barringtonia asiatica", "barringtonia flower"],
+          "synonyms": ["mangrove apple"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "barrio",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A Spanish-speaking district or neighborhood, especially in a US city.",
+          "examples": ["He grew up in the barrio in East Los Angeles.", "The barrio celebrates with music and food during festivals."],
+          "collocations": ["inner-city barrio", "Spanish barrio", "barrio life", "barrio culture"],
+          "synonyms": ["neighborhood", "district", "ghetto"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "sociology"]
+        }
+      ]
+    },
+    {
+      "term": "barrios",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barrio; Spanish-speaking neighborhoods.",
+          "examples": ["Many barrios in Chicago have vibrant communities.", "The barrios offer authentic Latin food."],
+          "collocations": ["urban barrios", "poor barrios", "barrios festival"],
+          "synonyms": ["neighborhoods", "districts"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barrique",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A traditional French barrel used for aging wine, typically 225 liters.",
+          "examples": ["The wine was aged in a French barrique.", "They imported oak barriques for the vintage."],
+          "collocations": ["French barrique", "oak barrique", "barrique-aged", "barrique wine"],
+          "synonyms": ["wine barrel", "cask"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["wine", "food"]
+        }
+      ]
+    },
+    {
+      "term": "barriques",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barrique; wine barrels.",
+          "examples": ["The winery stores hundreds of barriques.", "New barriques add vanilla notes to the wine."],
+          "collocations": ["American oak barriques", "used barriques", "barriques cellar"],
+          "synonyms": ["barrels", "casks"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["wine"]
+        }
+      ]
+    },
+    {
+      "term": "barrister",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A lawyer in the UK who speaks in higher courts and gives legal opinions.",
+          "examples": ["She hired a barrister for her court case.", "The barrister argued strongly for his client."],
+          "collocations": ["top barrister", "senior barrister", "barrister chambers", "barrister wig"],
+          "synonyms": ["lawyer", "advocate", "counsel"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "barristerial",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to the work or style of a barrister.",
+          "examples": ["His barristerial speech won the case.", "She has a barristerial manner in debates."],
+          "collocations": ["barristerial duties", "barristerial eloquence", "barristerial argument"],
+          "synonyms": ["legal", "advocatory"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "barristers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barrister; UK lawyers who argue in court.",
+          "examples": ["Many barristers work in London.", "The barristers wore traditional robes."],
+          "collocations": ["leading barristers", "junior barristers", "barristers' chambers"],
+          "synonyms": ["lawyers", "advocates"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "barristership",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The position, profession, or status of a barrister.",
+          "examples": ["He achieved barristership after years of study.", "Barristership demands strong public speaking skills."],
+          "collocations": ["road to barristership", "proud barristership"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "barristerships",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barristership; barrister positions.",
+          "examples": ["Several barristerships opened this year.", "Competition for barristerships is fierce."],
+          "collocations": ["new barristerships", "prestigious barristerships"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "barristress",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An old or rare term for a female barrister.",
+          "examples": ["Few barristresses practiced in the 19th century.", "She was one of the first barristresses."],
+          "collocations": ["pioneering barristress"],
+          "synonyms": ["barrister"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "barro",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Clay or mud in Spanish, used in art or pottery contexts.",
+          "examples": ["The artist worked with barro to shape pots.", "Barro is common in Mexican ceramics."],
+          "collocations": ["crudo barro", "barro sculpture", "barro clay"],
+          "synonyms": ["clay", "mud"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["art", "pottery"]
+        }
+      ]
+    },
+    {
+      "term": "barroom",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A room or place where alcoholic drinks are served, like a saloon.",
+          "examples": ["They met in the barroom after work.", "The barroom was full of laughter."],
+          "collocations": ["noisy barroom", "western barroom", "barroom brawl", "smoky barroom"],
+          "synonyms": ["bar", "saloon", "pub"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barrooms",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barroom; drinking rooms.",
+          "examples": ["Old barrooms tell stories of the past.", "Barrooms close late on weekends."],
+          "collocations": ["rowdy barrooms", "local barrooms"],
+          "synonyms": ["bars", "saloons"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barrow",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A wheelbarrow; small cart with one wheel for carrying loads.",
+          "examples": ["Use the barrow to move the soil.", "He pushed a barrow full of bricks."],
+          "collocations": ["wheel barrow", "garden barrow", "load the barrow"],
+          "synonyms": ["wheelbarrow", "cart", "trolley"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A mound of earth over an ancient burial site.",
+          "examples": ["The barrow dates back to the Bronze Age.", "Archaeologists dug into the barrow."],
+          "collocations": ["ancient barrow", "tumulus barrow", "burial barrow"],
+          "synonyms": ["mound", "tumulus"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["archaeology"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A castrated male pig.",
+          "examples": ["The farmer raised barrows for meat.", "This barrow weighs over 200 pounds."],
+          "collocations": ["young barrow", "market barrow"],
+          "synonyms": ["castrated pig"],
+          "antonyms": ["sow"],
+          "register": null,
+          "domain": ["agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "barrowcoat",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An old term for a workman's smock or coat worn by handcart sellers.",
+          "examples": ["The barrowcoat protected him from dirt.", "He wore a traditional barrowcoat."],
+          "collocations": ["dirty barrowcoat"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["historical"]
+        }
+      ]
+    },
+    {
+      "term": "barrowful",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The amount a barrow (wheelbarrow) can hold.",
+          "examples": ["He carried a barrowful of gravel.", "Dump the barrowful over there."],
+          "collocations": ["barrowful of dirt", "barrowful of sand"],
+          "synonyms": ["load", "wheelbarrow-load"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barrowfuls",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barrowful; multiple loads from a wheelbarrow.",
+          "examples": ["She moved barrowfuls of compost.", "It took several barrowfuls to fill the hole."],
+          "collocations": ["several barrowfuls", "heaped barrowfuls"],
+          "synonyms": ["loads"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barrowist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who pushes a barrow or works with one.",
+          "examples": ["The barrowist sold fruits on the street."],
+          "collocations": ["street barrowist"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["historical"]
+        }
+      ]
+    },
+    {
+      "term": "barrowman",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A man who pushes a barrow or works as a handcart seller.",
+          "examples": ["The barrowman shouted his wares.", "He worked as a barrowman in the market."],
+          "collocations": ["costermonger barrowman", "street barrowman"],
+          "synonyms": ["hawker", "peddler"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["historical", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barrows",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barrow; wheelbarrows, burial mounds, or castrated pigs.",
+          "examples": ["Fill the barrows with soil.", "The barrows dot the ancient landscape."],
+          "collocations": ["garden barrows", "ancient barrows", "fat barrows"],
+          "synonyms": ["wheelbarrows", "mounds"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "barrulee",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A rare term for a heraldry bar with a curved or wavy edge.",
+          "examples": ["The shield featured a barrulee design."],
+          "collocations": ["heraldic barrulee"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["heraldry"]
+        }
+      ]
+    },
+    {
+      "term": "barrulet",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "In heraldry, a thin bar across a shield, one-eighth the width of a full bar.",
+          "examples": ["The coat of arms has three barrulets.", "A silver barrulet divides the field."],
+          "collocations": ["plain barrulet", "charged barrulet", "barrulet sinister"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["heraldry"]
+        }
+      ]
+    },
+    {
+      "term": "barrulets",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barrulet; thin heraldic bars.",
+          "examples": ["The escutcheon displays five barrulets.", "Red barrulets enhance the crest."],
+          "collocations": ["parallel barrulets", "wavy barrulets"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["heraldry"]
+        }
+      ]
+    }
+  ]
+}
+```

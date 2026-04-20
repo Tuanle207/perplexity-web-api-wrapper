@@ -1,0 +1,412 @@
+{
+  "items": [
+    {
+      "term": "benzins",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A plural form of a German noun meaning petrol or gasoline.",
+          "examples": ["In German, Benzin is used for petrol.", "The car ran out of Benzin after the long trip."],
+          "collocations": ["Autobahn Benzin", " Benzin tank", "benzin price"],
+          "synonyms": ["gasoline", "petrol" ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transport"]
+        }
+      ]
+    },
+    {
+      "term": "benzo",
+      "kind": "abbreviation",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Common shorthand for benzodiazepines, a class of sedative medications; in chemistry, a prefix related to benzene rings.",
+          "examples": ["He was prescribed benzo for anxiety.", "Benzo derivatives are common in organic chemistry."],
+          "collocations": ["benzo drugs", "benzo ring", "benzoic ester"],
+          "synonyms": ["benzodiazepine (abbr.)", "BDZ (abbr.)"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["medical", "pharmacology"]
+        }
+      ]
+    },
+    {
+      "term": "benzoapyrene",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An especially carcinogenic member of the benzo[a]pyrene family, a polycyclic aromatic hydrocarbon formed during combustion.",
+          "examples": ["Benzo[a]pyrene is a known carcinogen found in smoke.", "Safety protocols limit exposure to benzoapyrene."],
+          "collocations": ["benzo[a]pyrene exposure", "BP carcinogen", "PAH benzoapyrene"],
+          "synonyms": ["BaP (abbrev.)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "health"]
+        }
+      ]
+    },
+    {
+      "term": "benzoapyrenes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of benzoapyrene, a group of highly carcinogenic PAH compounds.",
+          "examples": ["Researchers measured levels of benzoapyrenes in the sample.", "Benzoapyrenes are used as indicators of combustion byproducts."],
+          "collocations": ["benzoapyrenes in tobacco smoke", "benzoapyrene derivatives"],
+          "synonyms": ["BaP compounds"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "environmental health"]
+        }
+      ]
+    },
+    {
+      "term": "benzoate",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A salt or ester formed from benzoic acid; widely used as a food preservative.",
+          "examples": ["Benzoates help extend shelf life in acidic foods.", "Some soft drinks contain benzoates as preservatives."],
+          "collocations": ["sodium benzoate", "benzoic acid, benzoate salt"],
+          "synonyms": ["benzoic ester", "benzoate salt"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "benzoated",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having benzoate attached; chemically treated with benzoate.",
+          "examples": ["Benzoated fruit juice preserves freshness.", "Benzoated compounds were analyzed in the study."],
+          "collocations": ["benzoated solution", "benzoated extract"],
+          "synonyms": ["benzoate-treated"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["chemistry", "laboratory"]
+        }
+      ]
+    },
+    {
+      "term": "benzoates",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of benzoate; salts or esters of benzoic acid used as preservatives.",
+          "examples": ["Different benzoates are used in foods.", "Benzoates can prevent mold growth."],
+          "collocations": ["calcium benzoates", "potassium benzoates"],
+          "synonyms": ["benzoate salts", "esters of benzoic acid"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "benzoazurine",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A specific chemical compound with a benzene ring fused to an azo dye structure; used in dye chemistry.",
+          "examples": ["Benzoazurine derivatives are studied in dye chemistry.", "The lab synthesized a benzoazurine dye."],
+          "collocations": ["benzoazurine dye", "benzoazurine compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "benzobis",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "prefix",
+          "definition": "A prefix indicating a fused benzene-containing structure with two rings (often part of systematic chemical names).",
+          "examples": ["Benzobisphosphine is a compound with two benzobis rings.", "Benzobis- prefixed names indicate dual benzene units."],
+          "collocations": ["benzobis- compounds", "benzobis ring system"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "nomenclature"]
+        }
+      ]
+    },
+    {
+      "term": "benzocaine",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A local anesthetic chemical used to numb tissues.",
+          "examples": ["Benzoaine is a form of benzocaine used in throat lozenges.", "Apply benzocaine to relieve minor pain."],
+          "collocations": ["benzocaine gel", "benzocaine cream"],
+          "synonyms": ["anesthetic agent"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "pharmacy"]
+        }
+      ]
+    },
+    {
+      "term": "benzocaines",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of benzocaine; multiple benzocaine preparations or forms.",
+          "examples": ["The shelf includes several benzocaines for dental use.", "Different benzocaine products may vary in concentration."],
+          "collocations": ["benzocaine gels", "benzocaine sprays"],
+          "synonyms": ["benzocaine products"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "pharmacy"]
+        }
+      ]
+    },
+    {
+      "term": "benzocoumaran",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A chemical compound with a benzene ring fused to a coumaran moiety; used in organic synthesis.",
+          "examples": ["Researchers synthesized a novel benzocoumaran derivative.", "Benzocoumarans are studied for pharmacological potential."],
+          "collocations": ["benzocoumaran derivative", "benzocoumaran synthesis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "pharmacology"]
+        }
+      ]
+    },
+    {
+      "term": "benzodiazepine",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A class of drugs that act as sedatives or anti-anxiety medicine; includes many prescription medications.",
+          "examples": ["Benzodiazepines are used for anxiety and sleep problems.", "Some people misuse benzodiazepines."],
+          "collocations": ["benzodiazepine anxiety meds", "short-acting benzodiazepine"],
+          "synonyms": ["BDZ", "BZDs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "pharmacology"]
+        }
+      ]
+    },
+    {
+      "term": "benzodiazepines",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of benzodiazepine; a class of sedative drugs used to treat anxiety, insomnia, and seizures.",
+          "examples": ["Benzodiazepines can be addictive.", "Doctors prescribe benzodiazepines for short-term relief."],
+          "collocations": ["prescribed benzodiazepines", "benzodiazepines side effects"],
+          "synonyms": ["BDZs"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "pharmacology"]
+        }
+      ]
+    },
+    {
+      "term": "benzodiazine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A less common or misspelled variant related to benzodiazepines; standard term is benzodiazepine.",
+          "examples": ["Some texts misspell benzodiazepine as benzodiazine."],
+          "collocations": ["benzodiazine usage"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "benzodiazole",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A heterocyclic compound containing a benzene ring fused to a diazole ring; used in chemical research.",
+          "examples": ["Researchers synthesized a benzodiazole scaffold for drug design."],
+          "collocations": ["benzodiazole scaffold", "benzodiazole derivative"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "drug discovery"]
+        }
+      ]
+    },
+    {
+      "term": "benzoflavine",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A polycyclic aromatic compound with fused benzene rings and a flavine-like structure; used in organic chemistry.",
+          "examples": ["Benzoflavine derivatives were investigated for optical properties."],
+          "collocations": ["benzoflavine derivative", "benzoflavine synthesis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "benzofluorene",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A polycyclic aromatic hydrocarbon consisting of benzene rings fused with fluorene; used in organic synthesis.",
+          "examples": ["Benzofluorene is a building block in some polymers."],
+          "collocations": ["benzofluorene synthesis", "benzofluorene derivative"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "benzofuran",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A chemical compound with a benzene ring fused to a furan ring; used in fragrance and dye chemistry.",
+          "examples": ["Benzofuran derivatives appear in some aroma compounds."],
+          "collocations": ["benzofuran derivative", "benzofuran synthesis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "fragrance"]
+        }
+      ]
+    },
+    {
+      "term": "benzofurans",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of benzofuran; multiple benzofuran compounds.",
+          "examples": ["The study tested several benzofurans for activity."],
+          "collocations": ["benzofuran derivatives", "benzofuran compounds"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "research"]
+        }
+      ]
+    },
+    {
+      "term": "benzofuroquinoxaline",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A complex heterocyclic compound combining benzofuran and quinoxaline rings; used in advanced chemical synthesis.",
+          "examples": ["A benzofuroquinoxaline scaffold was explored for photophysical properties."],
+          "collocations": ["benzofuroquinoxaline scaffold"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "benzofuryl",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A substituent or radical derived from benzofuran, used in organic synthesis.",
+          "examples": ["The benzofuryl group was introduced to the molecule."],
+          "collocations": ["benzofuryl substituent", "benzofuryl derivative"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "benzoglycolic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Describing a chemical compound that contains both benzene and glycoxy groups in its structure.",
+          "examples": ["A benzoglycolic acid derivative was synthesized."],
+          "collocations": ["benzoglycolic acid", "benzoglycolic ester"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "benzoglyoxaline",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A heterocyclic compound containing a benzene ring fused to an oxaline ring; used in advanced organic chemistry.",
+          "examples": ["Researchers studied benzoglyoxaline derivatives."],
+          "collocations": ["benzoglyoxaline derivatives"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "research"]
+        }
+      ]
+    }
+  ]
+}

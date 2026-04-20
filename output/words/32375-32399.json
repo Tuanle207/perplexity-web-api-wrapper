@@ -1,0 +1,431 @@
+```json
+{
+  "items": [
+    {
+      "term": "bandido",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a bandit or highway robber, especially in Spanish-speaking regions",
+          "examples": ["The bandido robbed the stagecoach at gunpoint.", "Legends tell of a famous bandido who stole from the rich.", "Tourists beware of tales about bandidos in the mountains."],
+          "collocations": ["armed bandido", "notorious bandido", "fugitive bandido", "masked bandido", "desperate bandido"],
+          "synonyms": ["bandit", "outlaw", "robber"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bandidos",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bandido; bandits or highway robbers",
+          "examples": ["The bandidos hid in the hills after the raid.", "Old movies often show bandidos riding horses.", "The village feared attacks by bandidos."],
+          "collocations": ["gang of bandidos", "fleeing bandidos", "notorious bandidos", "armed bandidos"],
+          "synonyms": ["bandits", "outlaws"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bandie",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal term for a band member or musician in a band",
+          "examples": ["My brother is a bandie in a local rock group.", "The bandies played all night at the festival."],
+          "collocations": ["local bandie", "pro bandie", "session bandie"],
+          "synonyms": ["musician", "band member"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["music", "slang"]
+        }
+      ]
+    },
+    {
+      "term": "bandied",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense and past participle of bandy; passed or discussed something casually back and forth",
+          "examples": ["The rumor was bandied about the office.", "Names were bandied during the meeting.", "Ideas were bandied between the team members."],
+          "collocations": ["bandied about", "names bandied", "rumors bandied", "words bandied"],
+          "synonyms": ["tossed around", "discussed"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bandier",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative of bandy; having legs more bowed or curved outward",
+          "examples": ["The bandier horse struggled on the uneven ground.", "He walked with bandier steps after the injury."],
+          "collocations": ["bandier legs", "bandier stance"],
+          "synonyms": [],
+          "antonyms": ["straighter"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bandies",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of bandy; passes or discusses something casually back and forth",
+          "examples": ["She bandies insults with her rival.", "He bandies theories around the group."],
+          "collocations": ["bandies about", "bandies words", "bandies names"],
+          "synonyms": ["tosses around"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bandiest",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative of bandy; having legs most bowed or curved outward",
+          "examples": ["The bandiest dog in the show won a prize.", "Among the group, he had the bandiest gait."],
+          "collocations": ["bandiest legs"],
+          "synonyms": [],
+          "antonyms": ["straightest"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bandikai",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of traditional Fijian woven basket or container",
+          "examples": ["She carried fruits in a bandikai.", "The market sold beautiful bandikai crafts."],
+          "collocations": ["woven bandikai", "traditional bandikai"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "bandiness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality or state of being bandy, such as bowed legs",
+          "examples": ["The bandiness of his legs was noticeable.", "Veterinarians treat bandiness in foals."],
+          "collocations": ["leg bandiness", "slight bandiness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bandinesses",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bandiness; multiple instances of bowed legs or curvature",
+          "examples": ["Various bandinesses affected the livestock.", "The vet noted several bandinesses in the herd."],
+          "collocations": ["multiple bandinesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "banding",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or result of forming or marking with bands or stripes",
+          "examples": ["The banding on the snake was colorful.", "Workers applied banding to the pipes."],
+          "collocations": ["color banding", "rubber banding", "striping banding"],
+          "synonyms": ["striping", "marking"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bandings",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of banding; multiple bands or striped patterns",
+          "examples": ["The bird's bandings helped identify it.", "Different bandings appeared on the fabric."],
+          "collocations": ["various bandings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bandit",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who robs people using violence, especially on roads or in isolated areas",
+          "examples": ["The bandit stole the traveler's money.", "Bandits attacked the caravan at night.", "Police caught the famous bandit after years."],
+          "collocations": ["armed bandit", "highway bandit", "notorious bandit", "lone bandit", "gang bandit"],
+          "synonyms": ["robber", "outlaw", "brigand"],
+          "antonyms": ["police", "lawman"],
+          "register": null,
+          "domain": ["general", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "banditism",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the practice or activities of bandits; organized robbery",
+          "examples": ["Banditism plagued the border regions.", "Historians study banditism in medieval times."],
+          "collocations": ["rampant banditism", "organized banditism"],
+          "synonyms": ["brigandage"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "bandito",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Italian or Spanish term for a bandit; an armed robber",
+          "examples": ["The bandito fled into the desert.", "Movies romanticize the bandito lifestyle."],
+          "collocations": ["masked bandito", "fugitive bandito"],
+          "synonyms": ["bandit"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "banditos",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bandito; armed robbers",
+          "examples": ["Banditos ambushed the gold shipment.", "The banditos rode off with the loot."],
+          "collocations": ["gang of banditos"],
+          "synonyms": ["bandits"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "banditries",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of banditry; instances of bandit activities",
+          "examples": ["Many banditries occurred during the war.", "The region suffered from repeated banditries."],
+          "collocations": ["various banditries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "banditry",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the practice of being a bandit; organized robbery and violence",
+          "examples": ["Banditry is common in unstable areas.", "The government cracked down on banditry."],
+          "collocations": ["widespread banditry", "armed banditry", "rural banditry"],
+          "synonyms": ["brigandage", "robbery"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["crime", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bandits",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bandit; robbers who use violence",
+          "examples": ["Bandits robbed the bank.", "The bandits escaped on horseback.", "Soldiers fought against the bandits."],
+          "collocations": ["armed bandits", "highway bandits", "gang of bandits"],
+          "synonyms": ["robbers", "outlaws"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "banditti",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "archaic or literary plural of bandit; a group of robbers",
+          "examples": ["The banditti terrorized the countryside.", "Legends speak of brave banditti."],
+          "collocations": ["fierce banditti", "notorious banditti"],
+          "synonyms": ["bandits"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bandittis",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare plural form referring to groups of banditti or bandits",
+          "examples": ["Tales mention bandittis in old Italy.", "The bandittis were hunted by authorities."],
+          "collocations": ["various bandittis"],
+          "synonyms": ["bandits"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "bandle",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an old Irish unit of length, about 28 inches, used for land measurement",
+          "examples": ["The field measured ten bandles wide.", "Farmers used the bandle in the past."],
+          "collocations": ["Irish bandle"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bandleader",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the person who leads and directs a musical band",
+          "examples": ["The bandleader started the song.", "She is a famous jazz bandleader.", "The bandleader conducted with energy."],
+          "collocations": ["jazz bandleader", "big band bandleader", "orchestra bandleader"],
+          "synonyms": ["conductor", "musical director"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "bandleaders",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bandleader; people who lead musical bands",
+          "examples": ["Many bandleaders performed at the festival.", "Bandleaders shaped swing music."],
+          "collocations": ["famous bandleaders"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "bandless",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "lacking bands or stripes; without a band",
+          "examples": ["The bandless hat looked plain.", "They chose bandless fabric for the dress."],
+          "collocations": ["bandless design", "smooth bandless"],
+          "synonyms": ["unbanded"],
+          "antonyms": ["banded"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}
+```

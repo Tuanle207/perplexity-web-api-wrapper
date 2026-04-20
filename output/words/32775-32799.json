@@ -1,0 +1,481 @@
+```json
+{
+  "items": [
+    {
+      "term": "baptistries",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baptistry; places for baptizing.",
+          "examples": ["The church has two baptistries for baptisms.", "Tourists visited the ancient baptistries in Italy.", "The baptistries were filled with holy water."],
+          "collocations": ["church baptistries", "ancient baptistries", "font baptistries", "separate baptistries", "ornate baptistries"],
+          "synonyms": ["baptismal fonts", "font areas"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "baptistry",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "part of a church where people are baptized.",
+          "examples": ["The baptistry is at the front of the cathedral.", "She was baptized in the baptistry last Sunday.", "The baptistry has beautiful mosaics on the walls."],
+          "collocations": ["church baptistry", "octagonal baptistry", "Roman baptistry", "baptismal baptistry", "historic baptistry"],
+          "synonyms": ["baptismal font", "font"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "baptists",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of Baptist; members of a Protestant Christian group that baptizes adults.",
+          "examples": ["Baptists believe in full immersion baptism.", "Many Baptists attend services every Sunday.", "The Baptists built a new church nearby."],
+          "collocations": ["Southern Baptists", "Baptist church", "Baptist minister", "Baptist congregation", "independent Baptists", "Baptist beliefs"],
+          "synonyms": ["Baptist members"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "baptizable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be baptized.",
+          "examples": ["The child is baptizable according to church rules.", "All believers are baptizable in this faith."],
+          "collocations": ["baptizable infant", "baptizable believer", "fully baptizable"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "baptize",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to give someone a Christian baptism by pouring water on them or putting them in water.",
+          "examples": ["They will baptize the baby next week.", "The priest baptized many people that day.", "She was baptized in the river."],
+          "collocations": ["baptize a baby", "baptize someone", "publicly baptize", "christen and baptize", "baptize by immersion"],
+          "synonyms": ["christen", "immerse"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to name something in a new or informal way.",
+          "examples": ["They baptized the new drink 'Sunset Cooler'.", "He baptized his guitar 'Old Blue'."],
+          "collocations": ["baptize something new", "informally baptize"],
+          "synonyms": ["name", "dub", "christen"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baptized",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having received the Christian ceremony of baptism.",
+          "examples": ["She is a baptized member of the church.", "Only baptized children can join the class.", "He became baptized at age 16."],
+          "collocations": ["fully baptized", "baptized Christian", "recently baptized", "baptized believer"],
+          "synonyms": ["christened"],
+          "antonyms": ["unbaptized"],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "baptizee",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "person who receives baptism.",
+          "examples": ["The baptizee stood in the water.", "The baptizee was an adult convert."],
+          "collocations": ["adult baptizee", "infant baptizee"],
+          "synonyms": ["baptism recipient"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "baptizement",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "act of baptizing (rare).",
+          "examples": ["The baptizement occurred at dawn."],
+          "collocations": ["rite of baptizement"],
+          "synonyms": ["baptism"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "baptizer",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "person who baptizes others.",
+          "examples": ["The baptizer dipped the child in water.", "John the Baptist was the first baptizer."],
+          "collocations": ["church baptizer", "ordained baptizer"],
+          "synonyms": ["baptism officiant"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "baptizers",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baptizer.",
+          "examples": ["The baptizers prepared for the ceremony."],
+          "collocations": ["trained baptizers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "baptizes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of baptize.",
+          "examples": ["The priest baptizes every Sunday.", "She baptizes converts in the sea."],
+          "collocations": ["priest baptizes", "minister baptizes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "baptizing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "act of performing baptism.",
+          "examples": ["The baptizing took place outdoors.", "Baptizing is central to their faith."],
+          "collocations": ["public baptizing", "mass baptizing"],
+          "synonyms": ["baptism"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle of baptize.",
+          "examples": ["They are baptizing new members today."],
+          "collocations": ["now baptizing"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "baptornis",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "extinct bird genus from the Late Cretaceous.",
+          "examples": ["Fossils of Baptornis were found in Kansas."],
+          "collocations": ["Baptornis fossils", "Baptornis species"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["paleontology", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "bapu",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "respectful term for father in Hindi, used for Mahatma Gandhi.",
+          "examples": ["Gandhi is called Bapu by Indians.", "Children called him Bapu."],
+          "collocations": ["Gandhi Bapu", "dear Bapu"],
+          "synonyms": ["father", "Gandhiji"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["culture", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bapus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bapu.",
+          "examples": ["The bapus were respected leaders."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "bar",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "place where alcoholic drinks are served.",
+          "examples": ["Let's meet at the bar tonight.", "The bar is crowded on weekends.", "She works in a sports bar."],
+          "collocations": ["local bar", "sports bar", "dive bar", "grab a drink at the bar", "behind the bar"],
+          "synonyms": ["pub", "tavern"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "long piece of metal or wood used as a barrier or weapon.",
+          "examples": ["He lifted the iron bar.", "Close the gate with the bar."],
+          "collocations": ["metal bar", "crowbar", "gold bar", "window bar", "reinforcing bar"],
+          "synonyms": ["rod", "pole"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "system that controls entry to a profession like law.",
+          "examples": ["She passed the bar exam.", "He's studying for the bar."],
+          "collocations": ["bar exam", "bar association", "called to the bar"],
+          "synonyms": ["law qualification"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to block or prevent entry.",
+          "examples": ["They barred the door.", "Smoking is barred here."],
+          "collocations": ["bar the door", "bar entry", "bar access"],
+          "synonyms": ["block", "prevent"],
+          "antonyms": ["allow", "permit"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bara",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Shinto shrine in Japan.",
+          "examples": ["Pilgrims visit the Bara shrine."],
+          "collocations": ["Bara shrine"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "barabara",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "traditional Aleut or Alaskan semi-underground dwelling.",
+          "examples": ["The barabara was built into the hillside.", "Tourists explored the old barabara."],
+          "collocations": ["Aleut barabara", "traditional barabara"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["architecture", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "barabbas",
+      "kind": "proper_noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "prisoner released instead of Jesus in the Bible.",
+          "examples": ["The crowd chose Barabbas over Jesus.", "Barabbas was a robber."],
+          "collocations": ["release Barabbas", "Barabbas the robber"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion", "bible"]
+        }
+      ]
+    },
+    {
+      "term": "barabora",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare; possible variant or misspelling related to names.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "barabra",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare term; possible name variant.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "baraca",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare; possible place or name in Spanish/Portuguese contexts.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "baracan",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "type of coarse fabric, often camel's hair (archaic).",
+          "examples": ["The trader sold baracan cloth."],
+          "collocations": ["baracan fabric", "woolen baracan"],
+          "synonyms": ["coarse cloth"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["textiles"]
+        }
+      ]
+    },
+    {
+      "term": "baracans",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baracan.",
+          "examples": ["Merchants displayed baracans at the market."],
+          "collocations": ["fine baracans"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["textiles"]
+        }
+      ]
+    },
+    {
+      "term": "barachois",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "coastal lagoon or bay separated by a bar (Canadian English).",
+          "examples": ["The barachois is popular for fishing.", "They swam in the barachois."],
+          "collocations": ["coastal barachois", "Newfoundland barachois"],
+          "synonyms": ["lagoon"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    }
+  ]
+}
+```

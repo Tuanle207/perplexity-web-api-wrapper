@@ -1,0 +1,523 @@
+{
+  "items": [
+    {
+      "term": "sedate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to administer a drug to make someone quiet or sleepy; to calm or tranquilize",
+          "examples": [
+            "The doctor will sedate the patient before the procedure.",
+            "The pills sedate him enough to sleep through the night."
+          ],
+          "collocations": ["sedate the patient", "sedate a child", "gentle sedation"],
+          "synonyms": ["calm", "tranquilize", "drug"],
+          "antonyms": ["agitate", "excite"],
+          "register": "formal",
+          "domain": ["medical", "general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "quiet, calm, or composed; lacking excitement",
+          "examples": [
+            "They had a sedate dinner and left early.",
+            "The town offers a sedate pace of life."
+          ],
+          "collocations": ["sedate atmosphere", "sedate pace", "sedate lifestyle"],
+          "synonyms": ["calm", "tranquil", "peaceful"],
+          "antonyms": ["excited", "lively"],
+          "register": "formal",
+          "domain": ["general", "lifestyle"]
+        }
+      ]
+    },
+    {
+      "term": "sedated",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "under the effect of sedatives; calmed by drug-induced sleep or relaxation",
+          "examples": [
+            "The patient was sedated for the procedure.",
+            "She appeared sedated after the doctor’s visit."
+          ],
+          "collocations": ["sedated patient", "deeply sedated", "mildly sedated"],
+          "synonyms": ["calmed", "drugged", "narcotized"],
+          "antonyms": ["alert", "awake"],
+          "register": "formal",
+          "domain": ["medical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sedately",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a calm, quiet, and unhurried way",
+          "examples": [
+            "He spoke sedately, without raising his voice.",
+            "The town moved sedately along the main street."
+          ],
+          "collocations": ["speak sedately", "walk sedately", "sit sedately"],
+          "synonyms": ["calmly", "quietly", "unhurriedly"],
+          "antonyms": ["loudly", "rapidly"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sedateness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being calm, quiet, and unexcited",
+          "examples": [
+            "The sedateness of the village surprised the visitors.",
+            "Her sedateness helped keep the meeting orderly."
+          ],
+          "collocations": ["air of sedateness", "with sedateness"],
+          "synonyms": ["calmness", "quietness", "tranquility"],
+          "antonyms": ["excitement", "vibrancy"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "sedatenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of sedateness; conceptual count of calm qualities",
+          "examples": [
+            "The sedatenesses of the environment contributed to the study's focus.",
+            "Not common in everyday use; mostly literary."
+          ],
+          "collocations": ["levels of sedateness"],
+          "synonyms": ["calmnesses"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "sedater",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who sedates others (less common); a drug that sedates",
+          "examples": [
+            "The sedater was used to ease anxiety before surgery.",
+            "In historical contexts, a sedater might refer to a calming agent."
+          ],
+          "collocations": ["physician as sedater", "use of sedater"],
+          "synonyms": ["calmer", "tranquilizer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sedates",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of sedate; makes someone calm or sleepy",
+          "examples": [
+            "The nurse sedates patients before the procedure.",
+            "It sedates him enough to sleep through the night."
+          ],
+          "collocations": ["sedates the patient", "sedate someone"],
+          "synonyms": ["calms", "tranquilizes"],
+          "antonyms": ["aggravates", "agitates"],
+          "register": "formal",
+          "domain": ["medical"]
+        }
+      ]
+    },
+    {
+      "term": "sedatest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative form of sedate; most calm or quiet",
+          "examples": [
+            "This is the saddest, most sedatest scene of the play." 
+          ],
+          "collocations": ["the sedatest moment"],
+          "synonyms": ["calmest", "calmest"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "sedating",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "gerund/participle",
+          "definition": "gerund of sedate; the act of giving a sedative or the process of calming",
+          "examples": [
+            "Sedating the patient is an important step before surgery.",
+            "The sedating effect lasts for several hours."
+          ],
+          "collocations": ["sedating the patient", "sedating effect"],
+          "synonyms": ["calming", "tranquilizing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical"]
+        }
+      ]
+    },
+    {
+      "term": "sedation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being calmed or sleeping because a drug was given",
+          "examples": [
+            "The patient recovered after sedation.",
+            "Sedation helps patients tolerate painful procedures."
+          ],
+          "collocations": ["general sedation", "level of sedation"],
+          "synonyms": ["calming", "narcotization"],
+          "antonyms": ["arousal", "wakefulness"],
+          "register": "formal",
+          "domain": ["medical"]
+        }
+      ]
+    },
+    {
+      "term": "sedations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sedation; multiple instances or types of sedation",
+          "examples": [
+            "Different sedations may be used depending on the patient.",
+            "The study compared the sedations across groups."
+          ],
+          "collocations": ["types of sedations", "levels of sedations"],
+          "synonyms": ["calmings", "narcotizations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical", "research"]
+        }
+      ]
+    },
+    {
+      "term": "sedative",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a drug that calms or makes you sleepy",
+          "examples": [
+            "He took a sedative before the flight.",
+            "The doctor prescribed a mild sedative for anxiety."
+          ],
+          "collocations": ["prescribe a sedative", "over-the-counter sedative"],
+          "synonyms": ["calming drug", "tranquilizer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "having a calming or sleep-inducing effect",
+          "examples": [
+            "A sedative effect helps people relax.",
+            "The sedative properties of the medication.",
+            "They used a sedative approach to reduce stress."
+          ],
+          "collocations": ["sedative effect", "sedative properties"],
+          "synonyms": ["calming", "soothing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sedatives",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sedative; drugs that calm or sleep",
+          "examples": [
+            "Hospitals use several sedatives for procedures.",
+            "Some people react badly to certain sedatives."
+          ],
+          "collocations": ["prescribed sedatives", "various sedatives"],
+          "synonyms": ["calming drugs", "tranquilizers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical"]
+        }
+      ]
+    },
+    {
+      "term": "sedent",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is sedentary; one who avoids physical activity",
+          "examples": [
+            "The sedent often spends long hours at a desk.",
+            "Encouraging the sedent to exercise more can improve health."
+          ],
+          "collocations": ["habitual sedent", "sedent lifestyle"],
+          "synonyms": ["couch potato", "lazy person"],
+          "antonyms": ["active person"],
+          "register": "neutral",
+          "domain": ["health", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sedentaria",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female sedentary person (rare/archival usage)",
+          "examples": [
+            "Historians mention the sedentaria in some old texts."
+          ],
+          "collocations": ["sedentaria class"],
+          "synonyms": ["female sedentary person"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "sedentarily",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a sedentary or inactive manner",
+          "examples": [
+            "They lived sedentarily, preferring indoors."
+          ],
+          "collocations": ["live sedentarily"],
+          "synonyms": ["inactive", "stationarily"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "sedentariness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being sedentary; laziness or inactivity",
+          "examples": [
+            "Sedentariness can lead to health problems.",
+            "Efforts to reduce sedentariness are common in schools."
+          ],
+          "collocations": ["level of sedentariness", "increase sedentariness"],
+          "synonyms": ["inactivity", "idleness"],
+          "antonyms": ["activity", "exertion"],
+          "register": "neutral",
+          "domain": ["health", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sedentarinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sedentariness; multiple forms or instances of inactivity",
+          "examples": [
+            "The report analyzes different sedentarinesses across regions."
+          ],
+          "collocations": ["levels of sedentariness"],
+          "synonyms": ["inactivities"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sedentary",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not moving much; spending a lot of time sitting",
+          "examples": [
+            "Many office workers have sedentary jobs.",
+            "Being sedentary can affect health."
+          ],
+          "collocations": ["sedentary lifestyle", "sedentary job", "sedentary behavior"],
+          "synonyms": ["inactive", "inactive-minded"],
+          "antonyms": ["active", "active-minded"],
+          "register": "neutral",
+          "domain": ["health", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sedentation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process or result of becoming sedated or slowed",
+          "examples": [
+            "Sedentation occurs when a drug is given to calm a patient."
+          ],
+          "collocations": ["level of sedation", "sedentation process"],
+          "synonyms": ["calming", "narcotization"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medical"]
+        }
+      ]
+    },
+    {
+      "term": "seder",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Jewish ceremonial dinner that includes prayers and the eating of symbolic foods",
+          "examples": [
+            "We attended the Passover seder with our neighbors.",
+            "The seder plate has symbolic foods."
+          ],
+          "collocations": ["Passover seder", "seder dinner", "seder plate"],
+          "synonyms": ["Passover meal"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "cultural"]
+        }
+      ]
+    },
+    {
+      "term": "seders",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seder; multiple Jewish ceremonial dinners",
+          "examples": [
+            "The synagogue hosts several seders during the holiday."
+          ],
+          "collocations": ["Passover seders", "community seders"],
+          "synonyms": ["Passover meals"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sederunt",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "they sat down; Latin legal phrase used in historical texts",
+          "examples": [
+            "The judges sederunt to hear the case."
+          ],
+          "collocations": ["sederunt in court"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["law", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sederunts",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "they sat down; plural form of sederunt in legal/historical usage",
+          "examples": [
+            "The sederunts began promptly."
+          ],
+          "collocations": ["sederunts in court"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["law", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sedes",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a seat or throne; in some contexts, a seat of authority",
+          "examples": [
+            "He claimed the sedes of the church were vacant.",
+            "The ancient temple had sacred sedes."
+          ],
+          "collocations": ["throne sedes", "holy sedes"],
+          "synonyms": ["seat", "throne"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "religion"]
+        }
+      ]
+    }
+  ]
+}

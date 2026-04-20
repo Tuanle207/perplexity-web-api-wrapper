@@ -1,0 +1,451 @@
+```json
+{
+  "items": [
+    {
+      "term": "bakeapples",
+      "kind": "noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bakeapple, a yellow berry from a low shrub in northern regions",
+          "examples": ["Bakeapples grow in wet areas of Canada.", "She picked bakeapples for dessert.", "Bakeapples taste sweet and tart."],
+          "collocations": ["wild bakeapples", "ripe bakeapples", "bakeapple jam", "fresh bakeapples", "northern bakeapples"],
+          "synonyms": ["cloudberries"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany", "food"]
+        }
+      ]
+    },
+    {
+      "term": "bakeboard",
+      "kind": "noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a board used for kneading or rolling dough when baking",
+          "examples": ["Flour the bakeboard before rolling.", "Her bakeboard was wooden and smooth.", "Clean the bakeboard after use."],
+          "collocations": ["wooden bakeboard", "floured bakeboard", "kneading bakeboard", "pastry bakeboard"],
+          "synonyms": ["pastry board"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["cooking"]
+        }
+      ]
+    },
+    {
+      "term": "bakeboards",
+      "kind": "noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bakeboard, boards for kneading or rolling dough",
+          "examples": ["She bought new bakeboards.", "Bakeboards cover the kitchen counter.", "Old bakeboards have nice patina."],
+          "collocations": ["wooden bakeboards", "several bakeboards", "clean bakeboards"],
+          "synonyms": ["pastry boards"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["cooking"]
+        }
+      ]
+    },
+    {
+      "term": "baked",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "cooked by dry heat in an oven",
+          "examples": ["I ate baked potatoes.", "She made baked chicken.", "Baked goods smell great."],
+          "collocations": ["baked bread", "baked potatoes", "baked chicken", "baked apples", "baked goods", "fully baked"],
+          "synonyms": ["roasted", "cooked"],
+          "antonyms": ["raw", "fried"],
+          "register": "null",
+          "domain": ["cooking", "everyday"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "completely tired or exhausted (informal)",
+          "examples": ["I'm baked after work.", "He felt baked from the heat.", "We were all baked."],
+          "collocations": ["totally baked", "feel baked", "completely baked"],
+          "synonyms": ["exhausted", "worn out"],
+          "antonyms": ["refreshed"],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "under the influence of marijuana (slang)",
+          "examples": ["They got baked at the party.", "He was baked and laughing.", "Feeling baked tonight."],
+          "collocations": ["get baked", "totally baked", "feeling baked"],
+          "synonyms": ["stoned", "high"],
+          "antonyms": ["sober"],
+          "register": "slang",
+          "domain": ["informal"]
+        }
+      ]
+    },
+    {
+      "term": "bakehead",
+      "kind": "noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the head or master baker in a bakery",
+          "examples": ["The bakehead started at dawn.", "Our bakehead makes great bread.", "He trained as bakehead."],
+          "collocations": ["chief bakehead", "experienced bakehead", "head bakehead"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["cooking", "business"]
+        }
+      ]
+    },
+    {
+      "term": "bakehouse",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a building or room where bread and cakes are baked; bakery",
+          "examples": ["The village bakehouse smelled of bread.", "Work starts early at the bakehouse.", "Old bakehouses used wood ovens."],
+          "collocations": ["village bakehouse", "commercial bakehouse", "traditional bakehouse", "local bakehouse", "old bakehouse"],
+          "synonyms": ["bakery"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["cooking", "business"]
+        }
+      ]
+    },
+    {
+      "term": "bakehouses",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bakehouse, buildings for baking bread",
+          "examples": ["Several bakehouses line the street.", "Bakehouses open early.", "Modern bakehouses use big ovens."],
+          "collocations": ["local bakehouses", "several bakehouses", "traditional bakehouses"],
+          "synonyms": ["bakeries"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["cooking"]
+        }
+      ]
+    },
+    {
+      "term": "bakelite",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a hard, early plastic material used for electrical items and jewelry",
+          "examples": ["Bakelite phones are collectible.", "She has a Bakelite bracelet.", "Bakelite was invented in 1907."],
+          "collocations": ["bakelite phone", "bakelite radio", "bakelite jewelry", "vintage bakelite", "black bakelite"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bakelites",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "objects made of bakelite plastic",
+          "examples": ["Collectors seek bakelites.", "These bakelites are from the 1930s.", "Polished bakelites shine nicely."],
+          "collocations": ["vintage bakelites", "colored bakelites", "old bakelites"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "bakelize",
+      "kind": "verb",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to coat or treat with bakelite",
+          "examples": ["They bakelize the handles.", "Bakelize parts for durability.", "The process bakelizes metal."],
+          "collocations": ["bakelize handles", "bakelize surfaces", "fully bakelize"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "bakemeat",
+      "kind": "noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "meat or fish baked in a pie or pastry (archaic)",
+          "examples": ["They served bakemeat at the feast.", "Bakemeat was common long ago.", "Recipe for bakemeat pie."],
+          "collocations": ["baked bakemeat", "fish bakemeat", "savory bakemeat"],
+          "synonyms": ["meat pie"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["cooking", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "bakemeats",
+      "kind": "noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bakemeat, baked meat pies",
+          "examples": ["Bakemeats filled the table.", "Old recipes list bakemeats.", "Try these bakemeats."],
+          "collocations": ["various bakemeats", "traditional bakemeats"],
+          "synonyms": ["meat pies"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["cooking"]
+        }
+      ]
+    },
+    {
+      "term": "baken",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "baked; cooked in oven (archaic)",
+          "examples": ["Baken bread cooled on rack.", "She ate baken goods.", "Baken apples for dessert."],
+          "collocations": ["freshly baken", "well baken", "hot baken"],
+          "synonyms": ["baked"],
+          "antonyms": ["raw"],
+          "register": "archaic",
+          "domain": ["cooking"]
+        }
+      ]
+    },
+    {
+      "term": "bakeoff",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a baking competition between cooks or bakers",
+          "examples": ["She won the bakeoff.", "Enter the community bakeoff.", "The bakeoff was fun."],
+          "collocations": ["local bakeoff", "charity bakeoff", "win bakeoff", "television bakeoff"],
+          "synonyms": ["baking contest"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "cooking"]
+        }
+      ]
+    },
+    {
+      "term": "bakeoffs",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bakeoff, baking competitions",
+          "examples": ["Bakeoffs draw big crowds.", "Several bakeoffs this month.", "Bakeoffs test skills."],
+          "collocations": ["many bakeoffs", "annual bakeoffs", "local bakeoffs"],
+          "synonyms": ["baking contests"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["cooking"]
+        }
+      ]
+    },
+    {
+      "term": "bakeout",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a heating process to remove impurities from equipment, especially in technology",
+          "examples": ["Run a bakeout on the chamber.", "Bakeout takes several hours.", "Complete bakeout before use."],
+          "collocations": ["vacuum bakeout", "high-temperature bakeout", "system bakeout"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bakeoven",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an oven designed specially for baking",
+          "examples": ["The bakeoven heated quickly.", "Use the bakeoven for bread.", "Old bakeovens used wood."],
+          "collocations": ["wood-fired bakeoven", "commercial bakeoven", "Dutch bakeoven"],
+          "synonyms": ["baking oven"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["cooking"]
+        }
+      ]
+    },
+    {
+      "term": "bakepan",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a metal pan used for baking food",
+          "examples": ["Grease the bakepan first.", "Her bakepan is non-stick.", "Take cake from bakepan."],
+          "collocations": ["sheet bakepan", "square bakepan", "non-stick bakepan"],
+          "synonyms": ["baking pan", "baking tray"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["cooking"]
+        }
+      ]
+    },
+    {
+      "term": "baker",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person whose job is making bread and cakes",
+          "examples": ["The baker kneads dough.", "Visit the baker daily.", "She trained as baker."],
+          "collocations": ["local baker", "master baker", "village baker", "professional baker", "good baker", "bread baker"],
+          "synonyms": ["pastry chef"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["cooking", "business", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bakerdom",
+      "kind": "noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the world or profession of bakers",
+          "examples": ["Bakerdom has old traditions.", "He wrote on bakerdom.", "Welcome to bakerdom."],
+          "collocations": ["world of bakerdom", "traditions of bakerdom"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["cooking"]
+        }
+      ]
+    },
+    {
+      "term": "bakeress",
+      "kind": "noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female baker (rare)",
+          "examples": ["The bakeress baked pies.", "She is a skilled bakeress.", "Village bakeress known widely."],
+          "collocations": ["female bakeress", "professional bakeress"],
+          "synonyms": ["baker"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["cooking"]
+        }
+      ]
+    },
+    {
+      "term": "bakeries",
+      "kind": "noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bakery, shops where bread and cakes are made or sold",
+          "examples": ["Bakeries smell wonderful.", "Many bakeries open early.", "Local bakeries sell fresh bread."],
+          "collocations": ["local bakeries", "fresh bakeries", "village bakeries", "chain bakeries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bakerite",
+      "kind": "noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who resembles or acts like a baker",
+          "examples": ["He is a true bakerite.", "Bakerites gather at fairs.", "Amateur bakerite at heart."],
+          "collocations": ["amateur bakerite", "fellow bakerite"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["cooking"]
+        }
+      ]
+    },
+    {
+      "term": "bakerless",
+      "kind": "adjective",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without a baker",
+          "examples": ["The village is bakerless now.", "Bakerless for a week.", "Bakerless household bakes at home."],
+          "collocations": ["suddenly bakerless", "remain bakerless"],
+          "synonyms": [],
+          "antonyms": ["with baker"],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bakerlike",
+      "kind": "adjective",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling a baker or baking",
+          "examples": ["His hands are bakerlike.", "Bakerlike apron on.", "She moves in bakerlike way."],
+          "collocations": ["flour-covered bakerlike", "skilled bakerlike"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    }
+  ]
+}
+```

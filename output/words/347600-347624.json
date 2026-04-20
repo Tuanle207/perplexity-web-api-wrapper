@@ -1,0 +1,449 @@
+{
+  "items": [
+    {
+      "term": "scroggier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative form of scroggy, meaning more scrogy or full of scroggs (a term for a rough, knotty, stringy mass, often in reference to vegetation or fibrous material).",
+          "examples": ["The branches looked scroggier after the storm.", "This fabric has become scroggier with use."],
+          "collocations": ["scroggier than", "quite scroggier", "scroggier texture"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "scroggiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative form of scroggy; most scrogggy, i.e., most knotty or fibrous.",
+          "examples": ["The old rope is the scroggiest thing here."],
+          "collocations": ["scroggiest of all", "most scroggiest texture"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "scroggin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rough, fibrous mass; a term used in some dialects to describe tangled vegetation or plant matter.",
+          "examples": ["The trail was blocked by scroggin along the path."],
+          "collocations": ["dense scroggin", "pulling through scroggin"],
+          "synonyms": ["tangle", "mess"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "scroggins",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scroggin; tangled vegetation or scrub.",
+          "examples": ["We had to push through scroggins to reach the ridge.", "The field was thick with scroggins."],
+          "collocations": ["through scroggins", "dense scroggins"],
+          "synonyms": ["scrub", "brush", "tangle"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "scroggy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a rough, knotty, or fibrous texture; difficult to move through.",
+          "examples": ["The path was scroggy and overgrown.", "Her hair was scroggy after humidity."],
+          "collocations": ["scroggy texture", "scroggy terrain"],
+          "synonyms": ["knotty", "fibrous", "rough"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "scrogie",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "variant spelling of scroggy; lumpy or knotty in texture.",
+          "examples": ["The yarn looked scrogie under close inspection."],
+          "collocations": ["scrogie texture", "scrogie yarn"],
+          "synonyms": ["scroggy"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "scrogs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "short for scroggins; tangled vegetation or scrub.",
+          "examples": ["We battled through the scrogs to find the path."],
+          "collocations": ["through scrogs", "dense scrogs"],
+          "synonyms": ["brush", "scrub", "tangle"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "scroinoch",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a dialect or nonce word meaning a tangled mass of plant matter; no widespread standard usage.",
+          "examples": ["He hacked his way through the scroinoch."],
+          "collocations": ["through scroinoch"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "scroinogh",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a variant spelling of scroinogh; an area of tangled vegetation.",
+          "examples": ["The scroinogh blocked the meadow."],
+          "collocations": ["in scroinogh"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "scrolar",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fabricated or rare term; may refer to a scrolling-related device in some dialects.",
+          "examples": ["The old device had a mystery called a scrolar."],
+          "collocations": ["ancient scrolar"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "scroll",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a long, rolled piece of paper or parchment; or a computer page’s vertical movement.",
+          "examples": ["She read an ancient scroll.", "Scroll down to see more information."],
+          "collocations": ["ancient scroll", "scroll wheel", "scroll bar", "scroll up", "scroll down"],
+          "synonyms": ["parchment", "manuscript", "document"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to move content on a screen or page up or down; to turn or roll a scroll.",
+          "examples": ["Scroll the page to the bottom.", "She scrolled through the photos."],
+          "collocations": ["scroll through", "scroll down", "scroll up", "scrolling"],
+          "synonyms": ["fling through", "move down/up"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "scrollable",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be scrolled or moved through on a screen or page.",
+          "examples": ["The list is scrollable on mobile devices."],
+          "collocations": ["scrollable list", "scrollable content"],
+          "synonyms": ["scrolling", "navigable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "scrolled",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of scroll; moved content on a screen.",
+          "examples": ["She scrolled to the bottom of the page."],
+          "collocations": ["scrolled down", "scrolled through", "scrolled up"],
+          "synonyms": ["moved", "slid"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "scroller",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or device that scrolls; in computing, a control that moves content on a screen.",
+          "examples": ["Use the scroller to see more lines."],
+          "collocations": ["touch scroller", "scrollbar scroller"],
+          "synonyms": ["scroll bar", "slider"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "scrollers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scroller; multiple scrolling controls or people who scroll.",
+          "examples": ["The new UI has multiple scrollers for lists."],
+          "collocations": ["multiple scrollers"],
+          "synonyms": ["scrollbars"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "scrollery",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place or shop where scrolls or similar items are kept or sold; figuratively a place associated with scrolling content.",
+          "examples": ["They visited the scrollery to buy ancient manuscripts."],
+          "collocations": ["book scrollery", "scrollery shop"],
+          "synonyms": ["library", "archive"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "scrollhead",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an informal or niche term possibly referring to the top portion of a scroll or a device controlling scrolling; not widely used.",
+          "examples": ["The scrollhead mechanism failed."],
+          "collocations": ["scrollhead device"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "scrolling",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of moving text or content on a screen up or down; continuous scrolling.",
+          "examples": ["Scrolling through the article took a while."],
+          "collocations": ["infinite scrolling", "continuous scrolling"],
+          "synonyms": ["flipping", "sliding"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle of scroll; moving content on a screen.",
+          "examples": ["She is scrolling the feed now."],
+          "collocations": ["scrolling through", "scrolling down"],
+          "synonyms": ["moving", "sliding"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "scrollings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scrolling; instances or varieties of scrolling actions or scrollable content.",
+          "examples": ["The scrollings on this page are endless."],
+          "collocations": ["various scrollings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "scrolls",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scroll; multiple scroll documents or ancient documents wound on a cylinder.",
+          "examples": ["Ancient scrolls were preserved in a museum."],
+          "collocations": ["ancient scrolls", "scrolls in a cabinet"],
+          "synonyms": ["parchments", "manuscripts"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "scrollwise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in relation to scrolling; with respect to the act of scrolling.",
+          "examples": ["Scrollwise, this page is straightforward."],
+          "collocations": ["scrollwise navigation"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "scrollwork",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "decorative scrolling pattern used in architecture or typography.",
+          "examples": ["The border features intricate scrollwork."],
+          "collocations": ["ornate scrollwork", "scrollwork pattern"],
+          "synonyms": ["arabesque", "foliate design"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["art", "design"]
+        }
+      ]
+    },
+    {
+      "term": "scrollworks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of scrollwork; decorative scrolling patterns used in multiple pieces or on a surface.",
+          "examples": ["The frames feature elaborate scrollworks."],
+          "collocations": ["delicate scrollworks"],
+          "synonyms": ["scrolling ornaments"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["art", "design"]
+        }
+      ]
+    },
+    {
+      "term": "scrolly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having or resembling scrolling decoration; playful or informal spelling.",
+          "examples": ["A scrolly border on the invitation."],
+          "collocations": ["scrolly border", "scrolly design"],
+          "synonyms": ["scrolling", "scrolllike"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["art", "design"]
+        }
+      ]
+    },
+    {
+      "term": "scrome",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or obscure term; could refer to a misspelling or a specific dialect word without wide usage.",
+          "examples": ["Historical manuscripts mention a word like scrome."],
+          "collocations": ["scrome term"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

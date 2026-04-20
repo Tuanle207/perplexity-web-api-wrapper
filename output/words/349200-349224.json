@@ -1,0 +1,598 @@
+{
+  "items": [
+    {
+      "term": "seedbox",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a high-bandwidth remote server used to upload and download files, typically for peer-to-peer sharing",
+          "examples": [
+            "The seedbox lets me seed torrents without exposing my home IP.",
+            "Many users rent a seedbox for fast, private file transfers."
+          ],
+          "collocations": [
+            "seedbox provider",
+            "seedbox hosting",
+            "seedbox account",
+            "seedbox server",
+            "seedbox service"
+          ],
+          "synonyms": ["torrent server", "private server"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["technology", "internet", "general"]
+        }
+      ]
+    },
+    {
+      "term": "seedboxes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seedbox; multiple seedbox servers or instances used for file sharing",
+          "examples": [
+            "The shop offers seedboxes at discounted rates.",
+            "Several seedboxes are used to distribute large datasets."
+          ],
+          "collocations": [
+            "seedboxes rental",
+            "seedboxes collection",
+            "seedboxes providers"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["technology", "internet"]
+        }
+      ]
+    },
+    {
+      "term": "seedcake",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a cake or cookie containing aromatic seeds (such as sesame or caraway); or the oil-extracted residue of seeds",
+          "examples": [
+            "She baked seedcake with sesame for the tea.",
+            "Seedcake is sometimes made from pressed oil seeds."
+          ],
+          "collocations": [
+            "seedcake recipe",
+            "seedcake loaf",
+            "seedcake with sesame"
+          ],
+          "synonyms": ["seed cake", "nutty cake", "sesame cake"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "seedcakes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form referring to cakes or cookies containing seeds or the seed-cake residue from seeds",
+          "examples": [
+            "Seedcakes are popular in certain regional bakeries.",
+            "They serve seedcakes alongside other cornmeal pastries."
+          ],
+          "collocations": [
+            "seedcakes batch",
+            "seedcakes recipe collection"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "seedcase",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the vessel or husk that surrounds or contains seeds",
+          "examples": [
+            "Each seedcase protects the seed inside.",
+            " gardeners may open the seedcase to plant the seed."
+          ],
+          "collocations": [
+            "seedcase opening",
+            "seedcase wall",
+            "seedcase shell"
+          ],
+          "synonyms": ["seed vessel", "pod", "husk"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "seedcases",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seedcase; multiple seed-containing vessels",
+          "examples": [
+            "The seedcases are attached to the plant.",
+            "You may collect several seedcases for planting."
+          ],
+          "collocations": [
+            "seedcases on plants",
+            "seedcases collection"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "seedeater",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a bird (such as a finch) whose diet consists mainly of seeds; by extension any animal that eats seeds",
+          "examples": [
+            "The finch is a common seedeater in this region.",
+            "Researchers study the seedeaters' beaks to understand feeding habits."
+          ],
+          "collocations": [
+            "seed-eating seedeater",
+            "wild seedeater",
+            "seedeater species"
+          ],
+          "synonyms": ["seed-eater", "granivore"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "ecology"]
+        }
+      ]
+    },
+    {
+      "term": "seedeaters",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seedeater; multiple seed-eating birds or animals",
+          "examples": [
+            "The seedeaters gathered near the grasses.",
+            "Ornithologists catalog seedeaters by beak shape."
+          ],
+          "collocations": [
+            "seedeaters flock",
+            "native seedeaters",
+            "seedeaters population"
+          ],
+          "synonyms": ["seed-eaters", "granivores"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "seeded",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of seed; to plant or spread seeds",
+          "examples": [
+            "The farmer seeded the field with corn.",
+            "Decorators seeded the lawn with wildflowers."
+          ],
+          "collocations": [
+            "seeded with",
+            "seeded the garden",
+            "well-seeded land"
+          ],
+          "synonyms": ["sowed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "seeder",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or person that seeds; something that plants seeds",
+          "examples": [
+            "The field was drilled by a seeder.",
+            "A seeder distributes seeds evenly."
+          ],
+          "collocations": [
+            "cultivator seeder",
+            "seed seeder",
+            "automatic seeder"
+          ],
+          "synonyms": ["sower", "planter"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "seeders",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seeder; multiple devices or people that seed",
+          "examples": [
+            "Several seeders were used in the field trial.",
+            "Seeders help prepare large plots quickly."
+          ],
+          "collocations": [
+            "seeders operator",
+            "seeders spread seeds"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "seedful",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "full of seeds; containing many seeds",
+          "examples": [
+            "The fruit is seedful and juicy.",
+            "A seedful plant will spread quickly."
+          ],
+          "collocations": [
+            "seedful fruit",
+            "seedful berries",
+            "seedful seeds"
+          ],
+          "synonyms": ["seed-laden", "seedy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "food"]
+        }
+      ]
+    },
+    {
+      "term": "seedgall",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a botanical term referring to a seed-filled swelling or gall in seeds",
+          "examples": [
+            "Researchers noted a seedgall on the fruit.",
+            "Seedgalls can affect seed viability."
+          ],
+          "collocations": [
+            "seedgall formation",
+            "seedgall analysis"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "seedier",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative of seedy; more dirty, run-down, or disreputable",
+          "examples": [
+            "The alley looked seedier after dark.",
+            "That area has seedier bars than before."
+          ],
+          "collocations": [
+            "seedier neighborhood",
+            "seedier appearance",
+            "seedier conditions"
+          ],
+          "synonyms": ["dirtier", "shabbier"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["society", "urban"]
+        }
+      ]
+    },
+    {
+      "term": "seediest",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative of seedier; the most dirty or disreputable",
+          "examples": [
+            "The seediest motel in town closed down.",
+            "They avoided the seediest parts of the city."
+          ],
+          "collocations": [
+            "seediest district",
+            "seediest bar",
+            "seediest street"
+          ],
+          "synonyms": ["dirtiest", "worst"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["urban", "society"]
+        }
+      ]
+    },
+    {
+      "term": "seedily",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a dirty, disreputable, or suspicious way",
+          "examples": [
+            "The lobby looked seedily lit at night.",
+            "He seedily accepted the questionable deal."
+          ],
+          "collocations": [
+            "seedily dressed",
+            "seedily lit",
+            "seedily attractive"
+          ],
+          "synonyms": ["shabbily", "disreputably"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["society", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "seediness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being dirty, disreputable, or suspicious",
+          "examples": [
+            "The seediness of the district worried residents.",
+            "They criticized the seediness of the entertainment venue."
+          ],
+          "collocations": [
+            "level of seediness",
+            "urban seediness",
+            "perceived seediness"
+          ],
+          "synonyms": ["dirtiness", "uncleanliness"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["society", "urban"]
+        }
+      ]
+    },
+    {
+      "term": "seedinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seediness; instances or degrees of seediness",
+          "examples": [
+            "The seedinesses of various neighborhoods were mapped.",
+            "Two seedinesses were reported in the report."
+          ],
+          "collocations": [
+            "seedinesses index",
+            "neighborhood seedinesses"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["research", "urban"]
+        }
+      ]
+    },
+    {
+      "term": "seeding",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of planting seeds or the process of seeds being planted",
+          "examples": [
+            "Seeding of the field began in early spring.",
+            "The seeding helped the crops germinate."
+          ],
+          "collocations": [
+            "field seeding",
+            "rice seeding",
+            "seedling seeding"
+          ],
+          "synonyms": ["sowing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "seedings",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seeding; multiple plantings of seeds",
+          "examples": [
+            "The seedings for this season were successful.",
+            "Farmers performed several seedings across the field."
+          ],
+          "collocations": [
+            "season seedings",
+            "early seedings",
+            "seedings schedule"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "seedkin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or creative term possibly referring to kin related by seeds (seed lineage) or a genus/term in fiction; not a standard common word",
+          "examples": [
+            "In the story, seedkin are a clan linked to the seed forest.",
+            "The guide explains seedkin relationships in the botanic myth."
+          ],
+          "collocations": [
+            "seedkin clan",
+            "seedkin lineage"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fiction", "myth", "naming"]
+        }
+      ]
+    },
+    {
+      "term": "seedleaf",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the leaf associated with the seed or seed-structure in botany",
+          "examples": [
+            "The seedleaf is the first leaf that appears after germination.",
+            "Seedleaf development is crucial for seedling growth."
+          ],
+          "collocations": [
+            "seedleaf stage",
+            "seedleaf morphology"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "seedless",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without seeds; not containing seeds",
+          "examples": [
+            "Seedless grapes are easy to eat.",
+            "This variety is seedless and sweet."
+          ],
+          "collocations": [
+            "seedless fruit",
+            "seedless varieties",
+            "seedless grapes"
+          ],
+          "synonyms": ["seed-free"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "seedlessness",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality or state of having no seeds",
+          "examples": [
+            "Seedlessness makes the fruit easier to eat.",
+            "Seedlessness is a desirable trait in many crops."
+          ],
+          "collocations": [
+            "level of seedlessness",
+            "breeding for seedlessness"
+          ],
+          "synonyms": ["seed-free quality"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "food"]
+        }
+      ]
+    },
+    {
+      "term": "seedlet",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small seed or a tiny seedling; a small element that can grow into a plant",
+          "examples": [
+            "A seedlet sprouted after a warm rain.",
+            "Gardeners separated seedlets to transplant later."
+          ],
+          "collocations": [
+            "tiny seedlet",
+            "seedlet germination",
+            "seedlet collection"
+          ],
+          "synonyms": ["sprout", "mini-seed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "gardening"]
+        }
+      ]
+    }
+  ]
+}

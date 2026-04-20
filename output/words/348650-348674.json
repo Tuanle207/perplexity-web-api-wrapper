@@ -1,0 +1,582 @@
+{
+  "items": [
+    {
+      "term": "seawater",
+      "kind": "noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "salt water from the sea.",
+          "examples": [
+            "The seawater was cold and salty.",
+            "They collected samples of seawater for analysis."
+          ],
+          "collocations": [
+            "sea water",
+            "deep seawater",
+            "briny seawater",
+            "sea water temperature",
+            "contaminated seawater"
+          ],
+          "synonyms": ["marine water", "ocean water"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "environment", "science"]
+        }
+      ]
+    },
+    {
+      "term": "seawaters",
+      "kind": "noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seawater; multiple bodies of salt water from the sea.",
+          "examples": [
+            "The coastal samples showed different minerals in the seawaters near the estuary.",
+            "Researchers compared the seawaters of several bays."
+          ],
+          "collocations": [
+            "different seawaters",
+            "local seawaters",
+            "temperatures of seawaters"
+          ],
+          "synonyms": ["marine waters"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["environment", "science"]
+        }
+      ]
+    },
+    {
+      "term": "seaway",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a navigable route or channel for ships; a sea route.",
+          "examples": [
+            "The St. Lawrence Seaway opens a direct seaway to the Atlantic.",
+            "We followed the seaway past the coast."
+          ],
+          "collocations": [
+            "shipping seaway",
+            "major seaway",
+            "seaway system",
+            "navigable seaway"
+          ],
+          "synonyms": ["sea route", "shipping lane"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["transportation", "geography", "general"]
+        }
+      ]
+    },
+    {
+      "term": "seaways",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seaway; multiple navigable routes for ships.",
+          "examples": [
+            "The region benefits from several seaways that connect to major ports.",
+            "Seaways in the area are busy with international traffic."
+          ],
+          "collocations": [
+            "local seaways",
+            "major seaways",
+            "seaways network"
+          ],
+          "synonyms": ["sea routes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["transportation", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "seaweed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "thin, leafy plants that grow in the sea and on the coast.",
+          "examples": [
+            "The rock pool was covered with seaweed.",
+            "Seaweed is harvested for food and fertilizer."
+          ],
+          "collocations": [
+            "edible seaweed",
+            "dried seaweed",
+            "seaweed bed",
+            "seaweed snacks"
+          ],
+          "synonyms": ["algae", "kelp (specific types)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "environment", "food"]
+        }
+      ]
+    },
+    {
+      "term": "seaweeds",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seaweed; multiple kinds of marine algae.",
+          "examples": [
+            "The tank contains several seaweeds to mimic a natural habitat.",
+            "Seaweeds are often used in sushi."
+          ],
+          "collocations": [
+            "various seaweeds",
+            "edible seaweeds",
+            "seaweeds collection"
+          ],
+          "synonyms": ["algae"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "food"]
+        }
+      ]
+    },
+    {
+      "term": "seaweedy",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "like seaweed in appearance or texture; slimy or covered with seaweed.",
+          "examples": [
+            "The rock was seaweedy and slippery.",
+            "We cleared the dock of seaweedy patches.",
+            "A seaweedy film covered the shoreline."
+          ],
+          "collocations": [
+            "seaweedy texture",
+            "seaweedy smell",
+            "seaweedy surface"
+          ],
+          "synonyms": ["algal", "kelpy (informal)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["environment", "descriptive language"]
+        }
+      ]
+    },
+    {
+      "term": "seawife",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an obsolete or dialect term; historically, a wife associated with seafaring life; not common in modern usage.",
+          "examples": [
+            "In old tales, the seawife tended the ship’s fires.",
+            "The term seawife appears in some nautical songs."
+          ],
+          "collocations": [
+            "seawife tale",
+            "nautical seawife"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature", "history"]
+        }
+      ]
+    },
+    {
+      "term": "seawives",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of seawife; archaic dialect referring to wives of sailors.",
+          "examples": [
+            "Seawives were often mentioned in maritime legends."
+          ],
+          "collocations": [
+            "seawives at sea"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature", "history"]
+        }
+      ]
+    },
+    {
+      "term": "seawoman",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a woman who works on a ship; a female sailor.",
+          "examples": [
+            "She became a seawoman after years at sea.",
+            "The seawoman shared stories of storms and sunsets."
+          ],
+          "collocations": [
+            "female seawoman",
+            "experienced seawoman",
+            "seawoman crew"
+          ],
+          "synonyms": ["female sailor", "shipboard woman"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["labor", "employment", "general"]
+        }
+      ]
+    },
+    {
+      "term": "seawomen",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seawoman; multiple female sailors.",
+          "examples": [
+            "The fleet includes several seawomen from different countries."
+          ],
+          "collocations": [
+            "group of seawomen",
+            "seawomen researchers"
+          ],
+          "synonyms": ["female sailors"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["labor", "employment"]
+        }
+      ]
+    },
+    {
+      "term": "seaworm",
+        "kind": "word",
+        "cefrLevel": "null",
+        "senses": [
+          {
+            "pos": "noun",
+            "definition": "a sea worm; a marine worm sometimes used as bait or for research.",
+            "examples": [
+              "Sea worms are collected for fishing bait.",
+              "The lab studied a species of seaworms."
+            ],
+            "collocations": [
+              "sea worm",
+              "marine worm",
+              "segmented seaworm"
+            ],
+            "synonyms": ["marine worm"],
+            "antonyms": [],
+            "register": "neutral",
+            "domain": ["biology", "fishing"]
+          }
+        ]
+    },
+    {
+      "term": "seaworms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seaworm; multiple marine worms.",
+          "examples": [
+            "The aquarium houses several seaworms for feeding bigger creatures."
+          ],
+          "collocations": [
+            "different seaworms",
+            "seaworm colonies"
+          ],
+          "synonyms": ["marine worms"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "aquaculture"]
+        }
+      ]
+    },
+    {
+      "term": "seaworn",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "poetic or archaic past participle meaning marked by the sea; worn by sea weather.",
+          "examples": [
+            "The seaworn deck creaked underfoot.",
+            "They walked along the seaworn rocks."
+          ],
+          "collocations": [
+            "seaworn surface",
+            "seaworn wood"
+          ],
+          "synonyms": ["weathered", "worn by the sea"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature", "descriptive language"]
+        }
+      ]
+    },
+    {
+      "term": "seaworthier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative form of seaworthy; more fit to be at sea.",
+          "examples": [
+            "The hull looks seaworthier after repairs."
+          ],
+          "collocations": [
+            "seaworthier vessel",
+            "seaworthier than before"
+          ],
+          "synonyms": ["more seaworthy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["maritime", "general"]
+        }
+      ]
+    },
+    {
+      "term": "seaworthiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative form of seaworthy; most fit to be at sea.",
+          "examples": [
+            "The seaworthiest vessel won the race."
+          ],
+          "collocations": [
+            "seaworthiest ship",
+            "seaworthiest options"
+          ],
+          "synonyms": ["most seaworthy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["maritime", "general"]
+        }
+      ]
+    },
+    {
+      "term": "seaworthiness",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the condition or quality of being seaworthy; fit to sail safely.",
+          "examples": [
+            "The seaworthiness of the boat was checked before departure.",
+            "Regulators test vessel seaworthiness."
+          ],
+          "collocations": [
+            "air-seaworthiness",
+            "safety seaworthiness",
+            "certified seaworthiness"
+          ],
+          "synonyms": ["suitability for sailing", "salvageability (contextual)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["maritime", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "seaworthinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of seaworthiness; multiple evaluations or states of being seaworthy.",
+          "examples": [
+            "Different ships showed varying seaworthinesses after the inspection."
+          ],
+          "collocations": [
+            "seaworthinesses assessment",
+            "varying seaworthinesses"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["maritime", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "seaworthy",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "fit to be sailed or flown; safe and seaworthy.",
+          "examples": [
+            "The lifeboat is seaworthy and ready for launch.",
+            "Before leaving port, they inspected the vessel to ensure it was seaworthy."
+          ],
+          "collocations": [
+            "seaworthy vessel",
+            "seaworthy vessel condition",
+            "appear seaworthy"
+          ],
+          "synonyms": ["sound", "fit", "stable"],
+          "antonyms": ["unseaworthy"],
+          "register": "neutral",
+          "domain": ["maritime", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "seax",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an ancient type of knife or short sword used in early medieval Britain; also a heraldic or historical term.",
+          "examples": [
+            "The seax was commonly carried by Anglo-Saxon warriors.",
+            "A relic of the seax was found at the dig site."
+          ],
+          "collocations": [
+            "seax blade",
+            "seax weapon",
+            "Anglo-Saxon seax"
+          ],
+          "synonyms": ["sax", "short sword (historical)"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "seaze",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "dialectal or archaic form meaning to seize or grasp suddenly.",
+          "examples": [
+            "To seaze the opportunity when it appeared would be wise."
+          ],
+          "collocations": [
+            "seaze the moment",
+            "seazeth the chance (archaic)"
+          ],
+          "synonyms": ["seize", "grasp"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature", "archaic usage"]
+        }
+      ]
+    },
+    {
+      "term": "seazed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of seaze; seized.",
+          "examples": [
+            "He seazed the rope and pulled it taut."
+          ],
+          "collocations": [
+            "seazed the opportunity"
+          ],
+          "synonyms": ["seized"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature", "archaic usage"]
+        }
+      ]
+    },
+    {
+      "term": "seazes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of seaze; seizes.",
+          "examples": [
+            "He seazes the moment when it comes."
+          ],
+          "collocations": [
+            "seazes the chance"
+          ],
+          "synonyms": ["seizes"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "seazing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "gerund or present participle of seaze; seizing.",
+          "examples": [
+            "Seazing the opportunity required quick action."
+          ],
+          "collocations": [
+            "seazing the chance"
+          ],
+          "synonyms": ["seizing"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "seba",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a proper noun or acronym; may refer to a place or organization named SEBA; without context, treated as a proper noun.",
+          "examples": [
+            "SEBA announced new funding.",
+            "The document was issued by SEBA."
+          ],
+          "collocations": [
+            "SEBA organization",
+            "SEBA guidelines"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["organization", "education", "technology"]
+        }
+      ]
+    }
+  ]
+}

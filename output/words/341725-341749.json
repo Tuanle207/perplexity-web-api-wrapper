@@ -1,0 +1,514 @@
+{
+  "items": [
+    {
+      "term": "saltpans",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of saltpan; shallow ponds or beds where seawater or brine is evaporated to harvest salt",
+          "examples": [
+            "The workers lit the flares to speed up evaporation in the saltpans.",
+            "Saltpans stretch along the coast where the sun dries the brine."
+          ],
+          "collocations": ["saltpans farm", "evaporation ponds", "coastal saltpans", "saltpans industry"],
+          "synonyms": ["salt ponds", "evaporation ponds"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "saltpeter",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a white, crystalline compound used in gunpowder and historically in medicines; potassium nitrate",
+          "examples": [
+            "Saltpeter is an ingredient in some older fireworks and gunpowder formulas.",
+            "He collected saltpeter from the cave deposits for a chemistry experiment."
+          ],
+          "collocations": ["saltpeter crystals", "potassium nitrate", "gunpowder mix", "natural saltpeter"],
+          "synonyms": ["potassium nitrate"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "saltpeters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of saltpeter; potassium nitrate",
+          "examples": [
+            "The old recipe called for several salts including saltpeters.",
+            "Historically, saltpeters were stored with other minerals."
+          ],
+          "collocations": ["saltpeters deposits", "chemical supply of saltpeters"],
+          "synonyms": ["potassium nitrates"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "saltpetre",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternate spelling of saltpeter; potassium nitrate",
+          "examples": [
+            "Saltpetre is used in some gunpowder formulations.",
+            "The miners described the cave as rich in saltpetre."
+          ],
+          "collocations": ["saltpetre crystals", "potassium nitrate", "gunpowder"],
+          "synonyms": ["potassium nitrate"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "history", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "saltpetreman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who manufactures or handles saltpetre (historical term)",
+          "examples": [
+            "The saltpetreman supervised the mine's nitrate processing.",
+            "In old texts, the saltpetreman was essential for gunpowder production."
+          ],
+          "collocations": ["saltpetreman role", "saltpetre production"],
+          "synonyms": ["nitrate merchant", "saltpeter worker"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "industrial"]
+        }
+      ]
+    },
+    {
+      "term": "saltpetremen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of saltpetreman",
+          "examples": [
+            "Records mention several saltpetremen employed at the site."
+          ],
+          "collocations": ["saltpetremen workforce"],
+          "synonyms": ["saltpetreman(s)"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "industrial"]
+        }
+      ]
+    },
+    {
+      "term": "saltpetres",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of saltpetre or saltpeter; potassium nitrates",
+          "examples": [
+            "The ancient stores contained several saltpetres.",
+            "They analyzed samples of saltpetres for purity."
+          ],
+          "collocations": ["saltpetres samples", "potassium nitrates"],
+          "synonyms": ["potassium nitrates"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "saltpetrous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "containing or resembling saltpetre; relating to saltpeter",
+          "examples": [
+            "The cave walls showed saltpetrous crystals.",
+            "They referred to the mineral's saltpetrous crust."
+          ],
+          "collocations": ["saltpetrous deposits", "saltpetrous crystals"],
+          "synonyms": ["nitrate-containing", "pennate? (not standard)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "saltpond",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a shallow pond or pool where seawater is evaporated to produce salt",
+          "examples": [
+            "Workers harvested salt from the saltpond near the coast.",
+            "The saltponds shimmered as the sun dried the brine."
+          ],
+          "collocations": ["saltpond farms", "evaporation ponds"],
+          "synonyms": ["salt pan", "salt flat (regional)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "salts",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of salt; common white mineral used for seasoning and preservation",
+          "examples": [
+            "She forgot to add salts to the recipe.",
+            "The salts in the brine kept the meat tender."
+          ],
+          "collocations": ["table salts", "mineral salts", "sea salts", "salt substitutes"],
+          "synonyms": ["seasoning", "sodium chloride"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "saltshaker",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a container with holes on top used to sprinkle salt",
+          "examples": [
+            "He shook the saltshaker over his soup.",
+            "The saltshaker sat beside the pepper grinder."
+          ],
+          "collocations": ["saltshaker", "crystal saltshaker", "shaking salt"],
+          "synonyms": ["salt shaker"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "saltshakers",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of saltshaker",
+          "examples": [
+            "The kitchen drawers held several saltshakers.",
+            "They purchased new glass saltshakers."
+          ],
+          "collocations": ["saltshakers set", "mini saltshakers"],
+          "synonyms": ["salt shakers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "saltspoon",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small spoon used for salt, typically a pinch or measure",
+          "examples": [
+            "He added a saltspoon of salt to the mix.",
+            "The recipe calls for a saltspoon of the mineral."
+          ],
+          "collocations": ["saltspoon measure", "tiny saltspoon"],
+          "synonyms": ["pinch spoon", "salt measure"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "saltspoonful",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the amount that fills a saltspoon; a small measure of salt",
+          "examples": [
+            "He added a saltspoonful of salt to the soup.",
+            "Only a saltspoonful was needed for flavor."
+          ],
+          "collocations": ["saltspoonful of salt", "tiny saltspoonful"],
+          "synonyms": ["saltspoon measure"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "saltsprinkler",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device that sprinkles salt; a shaker or sprinkler for salt",
+          "examples": [
+            "The saltsprinkler dusted the pretzels with salt.",
+            "They fitted a saltsprinkler to the table for seasoning."
+          ],
+          "collocations": ["saltsprinkler device", "seasoning saltsprinkler"],
+          "synonyms": ["salt shaker", "saltsprinkler"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "saltus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a leap or sudden gash, or a musical term meaning a leap; also a genus name in biology (rare)",
+          "examples": [
+            "The knight performed a great saltus in the performance.",
+            "In anatomy, a saltus refers to a leap-like motion."
+          ],
+          "collocations": ["saltus gesture", "melodic saltus"],
+          "synonyms": ["leap", "jump"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "saltuses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of saltus; leaps or jumps",
+          "examples": [
+            "The dancers executed graceful saltuses across the stage."
+          ],
+          "collocations": ["graceful saltuses"],
+          "synonyms": ["leaps", "jumps"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "saltwater",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "sea water; water from the ocean",
+          "examples": [
+            "Saltwater fish live in the ocean.",
+            "They swam in saltwater near the shore."
+          ],
+          "collocations": ["saltwater pool", "saltwater fish", "saltwater tH"],
+          "synonyms": ["sea water"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "environment"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to or containing salt water",
+          "examples": [
+            "Saltwater taffy is a candy made for coastal tastes.",
+            "Saltwater intrusion affects some coastline towns."
+          ],
+          "collocations": ["saltwater taffy", "saltwater fish", "saltwater pool"],
+          "synonyms": ["marine", "oceanic"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "saltweed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant or weed that grows in salty soils or near coastlines",
+          "examples": [
+            "Saltweed can be found along the shore in salty marshes.",
+            "The farmers noticed saltweed among the salt-tolerant crops."
+          ],
+          "collocations": ["saltweed margins", "coastal saltweed"],
+          "synonyms": ["sarcocornia? (regional)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["botany", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "saltwife",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female worker in salt production or a term for a woman in salt-related trades (historical)",
+          "examples": [
+            "The saltwife tended the brine and cooled pans.",
+            "Old logs mention a saltwife caring for the saltworks."
+          ],
+          "collocations": ["saltwife labor", "saltworks community"],
+          "synonyms": ["saltwoman", "saltworker's partner"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "saltwork",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place where salt is produced or processed; a salt plant or saltworks",
+          "examples": [
+            "The saltwork employed dozens of workers.",
+            "Ancient saltworks held ponds and kilns for evaporation."
+          ],
+          "collocations": ["saltwork site", "coastal saltwork"],
+          "synonyms": ["salt factory", "saltplant"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "history"]
+        }
+      ]
+    },
+    {
+      "term": "saltworker",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a worker who collects or processes salt; a salt industry laborer",
+          "examples": [
+            "The saltworker loaded bags of salt onto carts.",
+            "Saltworkers organized a shift change at dawn."
+          ],
+          "collocations": ["saltworker crew", "saltworker union"],
+          "synonyms": ["salt miner"? (not exact)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "labor"]
+        }
+      ]
+    },
+    {
+      "term": "saltworks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the collective facilities for extracting and processing salt; the site of salt production",
+          "examples": [
+            "The saltworks stretched along the coastline.",
+            "Modern saltworks use controlled evaporation basins."
+          ],
+          "collocations": ["saltworks facility", "coastal saltworks"],
+          "synonyms": ["salt production site"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["industry", "history"]
+        }
+      ]
+    },
+    {
+      "term": "saltwort",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant that thrives in salty soils; a common name for certain halophyte species",
+          "examples": [
+            "Saltwort grows where other plants cannot survive due to salinity.",
+            "Ecologists study saltwort to understand coastal ecosystems."
+          ],
+          "collocations": ["saltwort species", "halophyte saltwort"],
+          "synonyms": ["halophyte", "saronia? (regional)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["botany", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "saltworts",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of saltwort",
+          "examples": [
+            "The dunes were covered with saltworts."
+          ],
+          "collocations": ["saltworts species"],
+          "synonyms": ["halophytes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["botany", "environment"]
+        }
+      ]
+    }
+  ]
+}

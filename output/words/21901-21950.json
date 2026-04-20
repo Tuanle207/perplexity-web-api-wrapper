@@ -1,0 +1,208 @@
+{
+  "items": [
+    {
+      "term": "archaeal",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to archaea, a group of single-celled microorganisms",
+          "examples": ["Archaeal cells can survive in extreme environments.", "Scientists study archaeal DNA to understand early life."],
+          "collocations": ["archaeal cells", "archaeal species", "archaeal DNA", "archaeal metabolism"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "archaean",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an organism belonging to the archaea group",
+          "examples": ["The archaean thrives in hot springs."],
+          "collocations": ["primitive archaean", "single archaean organism"],
+          "synonyms": ["archaeon"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "archaeans",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of archaean; microorganisms of the archaea group",
+          "examples": ["Archaeans are found in extreme habitats."],
+          "collocations": ["extremophile archaeans", "ancient archaeans"],
+          "synonyms": ["archaea"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "archaebacteria",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an old term for archaea, microorganisms different from bacteria",
+          "examples": ["Archaebacteria were once classified with bacteria."],
+          "collocations": ["archaebacteria classification", "ancient archaebacteria"],
+          "synonyms": ["archaea"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "archaebacterium",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a single organism of archaebacteria",
+          "examples": ["Each archaebacterium has unique genetic traits."],
+          "collocations": ["single archaebacterium", "archaebacterium cell"],
+          "synonyms": ["archaeon"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "archaeological",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the study of ancient human history through objects and remains",
+          "examples": ["They made an archaeological discovery.", "The site has great archaeological value."],
+          "collocations": ["archaeological site", "archaeological evidence", "archaeological dig", "archaeological research"],
+          "synonyms": ["historical"],
+          "antonyms": ["modern"],
+          "register": null,
+          "domain": ["academic", "history"]
+        }
+      ]
+    },
+    {
+      "term": "archaeologically",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way related to archaeology",
+          "examples": ["The site was archaeologically important."],
+          "collocations": ["archaeologically significant", "archaeologically rich"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "archaeologist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who studies ancient cultures through remains and artifacts",
+          "examples": ["The archaeologist uncovered ancient tools.", "She works as an archaeologist in Egypt."],
+          "collocations": ["professional archaeologist", "field archaeologist", "archaeologist team"],
+          "synonyms": ["researcher"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "archaeology",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study of past human life through objects, buildings, and remains",
+          "examples": ["He studies archaeology at university.", "Archaeology helps us understand ancient societies."],
+          "collocations": ["study archaeology", "field of archaeology", "archaeology department"],
+          "synonyms": ["study of ancient history"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["academic", "history"]
+        }
+      ]
+    },
+    {
+      "term": "archaeologist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a specialist who studies ancient remains",
+          "examples": ["An archaeologist discovered a tomb."],
+          "collocations": ["leading archaeologist", "trained archaeologist"],
+          "synonyms": ["historian"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "archaeon",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a single-celled microorganism from the archaea group",
+          "examples": ["An archaeon can survive extreme heat."],
+          "collocations": ["thermophilic archaeon", "marine archaeon"],
+          "synonyms": ["archaean"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "archaeopteryx",
+      "kind": "proper_noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an extinct early bird-like dinosaur showing features of both birds and reptiles",
+          "examples": ["Archaeopteryx is a key fossil in evolution studies."],
+          "collocations": ["archaeopteryx fossil", "archaeopteryx specimen"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "paleontology"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+```json
+{
+  "items": [
+    {
+      "term": "beadblasts",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person singular of beadblast: cleans or shapes a surface using high-pressure abrasive beads.",
+          "examples": ["The mechanic beadblasts the rusty engine parts.", "This machine beadblasts metal to remove old paint.", "She beadblasts small components for a smooth finish."],
+          "collocations": ["beadblasts metal", "beadblasts surfaces", "beadblasts parts", "beadblasts rust", "beadblasts components"],
+          "synonyms": ["sandblasts", "abrades"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "beaded",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Decorated with beads or small round objects.",
+          "examples": ["She wore a beaded necklace to the party.", "The beaded curtain sparkled in the light.", "His beaded moccasins were handmade."],
+          "collocations": ["beaded necklace", "beaded curtain", "beaded dress", "beaded jewelry", "beaded edge"],
+          "synonyms": ["jeweled", "sequined"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "fashion"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Covered with beads of liquid, like sweat or water.",
+          "examples": ["Her forehead was beaded with sweat after the run.", "The glass was beaded with condensation.", "Leaves beaded with morning dew looked beautiful."],
+          "collocations": ["beaded with sweat", "beaded with water", "beaded forehead", "beaded glass", "beaded brow"],
+          "synonyms": ["dewy", "sweaty"],
+          "antonyms": ["dry"],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beader",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A tool or machine that creates beads or bead-like edges on metal or wood.",
+          "examples": ["The craftsman used a beader to edge the silver frame.", "This beader shapes decorative beads on pipes.", "Buy a beader for your woodworking projects."],
+          "collocations": ["metal beader", "pipe beader", "wood beader", "automatic beader"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "crafts"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A person who makes or attaches beads.",
+          "examples": ["The beader created stunning jewelry for the show.", "She works as a beader in a factory.", "Local beadmakers sell handmade pieces."],
+          "collocations": ["professional beader", "jewelry beader", "bead maker"],
+          "synonyms": ["beadmaker"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["crafts", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "beaders",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beader: tools or people that bead.",
+          "examples": ["The workshop has several beaders for different materials.", "These beaders specialize in intricate designs.", "Artisan beaders gathered at the market."],
+          "collocations": ["metal beaders", "jewelry beaders", "automatic beaders"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "crafts"]
+        }
+      ]
+    },
+    {
+      "term": "beadeye",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The sight on a gun formed by a small bead-like front sight.",
+          "examples": ["He aligned the beadeye with the target.", "The rifle's beadeye helps with quick aiming.", "Check the beadeye before shooting."],
+          "collocations": ["gun beadeye", "front beadeye", "rifle beadeye"],
+          "synonyms": ["front sight"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["military", "hunting"]
+        }
+      ]
+    },
+    {
+      "term": "beadeyes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beadeye: front sights on guns.",
+          "examples": ["Inspect all beadeyes on the firearms.", "These rifles have precise beadeyes.", "Clean the beadeyes regularly."],
+          "collocations": ["rifle beadeyes", "gun beadeyes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "beadflush",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Describing a surface finish where beads are level and smooth with the surface.",
+          "examples": ["The beadflush panel looks seamless.", "Achieve a beadflush effect with proper tools.", "This technique creates beadflush edges."],
+          "collocations": ["beadflush finish", "beadflush surface", "beadflush panel"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["manufacturing", "construction"]
+        }
+      ]
+    },
+    {
+      "term": "beadhouse",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An old word for an almshouse where poor people lived and prayed using beads.",
+          "examples": ["The beadhouse provided shelter for the elderly.", "Historical beadhouses were common in medieval times.", "Records mention a local beadhouse from the 1500s."],
+          "collocations": ["medieval beadhouse", "old beadhouse", "almshouse beadhouse"],
+          "synonyms": ["almshouse"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "beadhouses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beadhouse: old almshouses.",
+          "examples": ["Several beadhouses operated in the 16th century.", "Tourists visit ancient beadhouses today."],
+          "collocations": ["historical beadhouses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "beadier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Comparative of beady: having smaller or more shiny bead-like eyes or drops.",
+          "examples": ["The beadier eyes of the bird stared intensely.", "Her beadier gaze showed suspicion.", "Beadier sweat drops formed on his skin."],
+          "collocations": ["beadier eyes", "beadier gaze", "beadier drops"],
+          "synonyms": [],
+          "antonyms": ["less beady"],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beadiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Superlative of beady: having the smallest or most shiny bead-like eyes or drops.",
+          "examples": ["The rat had the beadiest eyes imaginable.", "Among the suspects, he had the beadiest stare.", "The beadiest sweat appeared under stress."],
+          "collocations": ["beadiest eyes", "beadiest stare"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beadily",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a way that looks like small shiny beads, often describing eyes staring sharply.",
+          "examples": ["The cat watched beadily from the corner.", "He glanced beadily at the intruder.", "She peered beadily over her glasses."],
+          "collocations": ["looked beadily", "watched beadily", "stared beadily"],
+          "synonyms": ["piercingly"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beadiness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality of being like small shiny beads, especially in eyes.",
+          "examples": ["The beadiness of his eyes made him look suspicious.", "Notice the beadiness in the animal's gaze."],
+          "collocations": ["eye beadiness", "suspicious beadiness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beadinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beadiness.",
+          "examples": ["Various beadinesses appeared in their stares."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beading",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Decoration made with beads sewn or attached to fabric or other material.",
+          "examples": ["The dress had beautiful silver beading.", "She added beading to the wedding gown.", "Beading adorned the edges of the curtain."],
+          "collocations": ["silver beading", "dress beading", "decorative beading", "fine beading"],
+          "synonyms": ["embellishment", "trim"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fashion", "crafts"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A bead-like strip or molding used in construction or woodworking.",
+          "examples": ["The beading around the window was painted white.", "Install beading to cover the joint.", "Wooden beading gives a finished look."],
+          "collocations": ["wooden beading", "window beading", "decorative beading"],
+          "synonyms": ["molding", "trim"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["construction"]
+        },
+        {
+          "pos": "noun",
+          "definition": "The action of forming beads on a surface, as in metalworking.",
+          "examples": ["Beading strengthens the metal edge.", "The beading process shapes the pipe."],
+          "collocations": ["metal beading", "pipe beading"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "beadings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beading: decorative bead work or moldings.",
+          "examples": ["The gown featured multiple beadings.", "Various beadings decorated the room."],
+          "collocations": ["decorative beadings", "gold beadings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fashion"]
+        }
+      ]
+    },
+    {
+      "term": "beadle",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An official in a church or synagogue who keeps order during services.",
+          "examples": ["The beadle called the congregation to order.", "He served as beadle for many years.", "The beadle carried the ceremonial mace."],
+          "collocations": ["church beadle", "synagogue beadle", "head beadle"],
+          "synonyms": ["sextons", "verger"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Formerly, a minor parish officer dealing with minor crimes or the poor.",
+          "examples": ["The beadle patrolled the streets at night.", "Historical novels feature beadles as petty officials."],
+          "collocations": ["parish beadle", "night beadle"],
+          "synonyms": ["constable"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "beadledom",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Petty bureaucracy or over-strict rule enforcement by minor officials.",
+          "examples": ["The village suffered from beadledom.", "He criticized the beadledom of local rules."],
+          "collocations": ["petty beadledom", "local beadledom"],
+          "synonyms": ["bureaucracy", "officialism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beadledoms",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beadledom: instances of petty bureaucracy.",
+          "examples": ["Various beadledoms plagued the town."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beadlehood",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The position or term of service as a beadle.",
+          "examples": ["He enjoyed his beadlehood immensely.", "Records show his long beadlehood."],
+          "collocations": ["church beadlehood"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "beadlehoods",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beadlehood.",
+          "examples": ["Several beadlehoods are documented in the archives."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "beadleism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Behavior or attitudes typical of a petty beadle official.",
+          "examples": ["His beadleism annoyed the villagers.", "The story satirizes beadleism."],
+          "collocations": ["petty beadleism"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "beadlery",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The collective role or behavior of beadles; petty officialdom.",
+          "examples": ["The beadlery enforced minor rules strictly.", "Critics mocked the beadlery's power."],
+          "collocations": ["parish beadlery"],
+          "synonyms": ["officialdom"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "beadles",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beadle: church officials or minor officers.",
+          "examples": ["The beadles led the procession.", "Several beadles kept order in the hall."],
+          "collocations": ["church beadles", "parish beadles"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "beadleship",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The office or position of a beadle.",
+          "examples": ["He was appointed to beadleship.", "The beadleship came with few duties."],
+          "collocations": ["church beadleship"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    }
+  ]
+}
+```

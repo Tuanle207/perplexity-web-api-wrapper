@@ -1,0 +1,395 @@
+```json
+{
+  "items": [
+    {
+      "term": "baldpated",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a bald head",
+          "examples": ["The baldpated man wore a hat to shield his head from the sun.", "In old portraits, the baldpated king looked wise."],
+          "collocations": ["baldpated gentleman", "baldpated monk", "baldpated elder"],
+          "synonyms": ["bald", "hairless"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baldpatedness",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being bald-headed",
+          "examples": ["His baldpatedness made him choose hats carefully."],
+          "collocations": ["state of baldpatedness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baldpates",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people with bald heads",
+          "examples": ["The baldpates gathered for the club meeting."],
+          "collocations": ["group of baldpates"],
+          "synonyms": ["baldheads"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baldrib",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baldric",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a belt worn over the shoulder to hold a sword or bugle",
+          "examples": ["The knight adjusted his baldric before battle.", "The soldier's baldric carried his ceremonial sword."],
+          "collocations": ["ornate baldric", "leather baldric", "sword baldric"],
+          "synonyms": ["baldrick", "sword belt"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history", "military"]
+        }
+      ]
+    },
+    {
+      "term": "baldrick",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative spelling of baldric; a belt for carrying a sword",
+          "examples": ["The warrior fastened his baldrick tightly."],
+          "collocations": ["gold baldrick", "ceremonial baldrick"],
+          "synonyms": ["baldric"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baldricked",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "wearing a baldric",
+          "examples": ["The baldricked guard stood at attention."],
+          "collocations": ["baldricked soldier"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baldricks",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baldrick or baldric",
+          "examples": ["The museum displayed ancient baldricks."],
+          "collocations": ["collection of baldricks"],
+          "synonyms": ["baldrics"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baldrics",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baldric",
+          "examples": ["Medieval baldrics were often richly decorated."],
+          "collocations": ["decorated baldrics", "military baldrics"],
+          "synonyms": ["baldricks"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baldricwise",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "balds",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bald; areas without hair or covering",
+          "examples": ["He tried treatments for his balds."],
+          "collocations": ["growing balds"],
+          "synonyms": ["bald spots"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "balducta",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "balductum",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baldwin",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a variety of red winter apple",
+          "examples": ["She baked a pie with Baldwin apples.", "Baldwin is popular for cider making."],
+          "collocations": ["Baldwin apple", "red Baldwin"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "baldy",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal term for a bald man",
+          "examples": ["Hey baldy, nice hat!", "The kids called him baldy."],
+          "collocations": ["poor baldy", "old baldy"],
+          "synonyms": ["baldhead"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "having little or no hair",
+          "examples": ["My baldy uncle shaves his head."],
+          "collocations": ["baldy head", "nearly baldy"],
+          "synonyms": ["bald"],
+          "antonyms": ["hairy"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bale",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large bundle of raw material tied tightly",
+          "examples": ["The farmer loaded bales of hay.", "Cotton comes in bales."],
+          "collocations": ["bale of hay", "bale of cotton", "tight bale"],
+          "synonyms": ["bundle", "pack"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["agriculture", "business"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to make into bales",
+          "examples": ["They baled the straw after harvest."],
+          "collocations": ["bale hay", "bale cotton"],
+          "synonyms": ["bundle"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["agriculture"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a great amount, especially of misfortune",
+          "examples": ["She endured a bale of troubles.", "A bale of bad luck hit them."],
+          "collocations": ["bale of woes"],
+          "synonyms": ["load", "heap"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baleare",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "balearian",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the Balearic Islands",
+          "examples": ["Balearian culture mixes Spanish and local traditions."],
+          "collocations": ["Balearian dialect", "Balearian wines"],
+          "synonyms": ["Balearic"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "balearic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "of or relating to the Balearic Islands in Spain",
+          "examples": ["Balearic beaches attract many tourists.", "Ibiza is a Balearic island."],
+          "collocations": ["Balearic Islands", "Balearic Sea", "Balearic culture"],
+          "synonyms": ["Balearian"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "balearica",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "balebos",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Yiddish term for the head or boss of a household",
+          "examples": ["He acts like the balebos at home."],
+          "collocations": ["big balebos"],
+          "synonyms": ["master", "head"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "balection",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative spelling of bolection; a moulding projecting over a panel",
+          "examples": ["The fireplace had balection moulding."],
+          "collocations": ["balection moulding"],
+          "synonyms": ["bolection"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "balections",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of balection",
+          "examples": ["The room featured ornate balections."],
+          "collocations": ["decorative balections"],
+          "synonyms": ["bolections"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "baled",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bale; made into bales",
+          "examples": ["The hay was baled yesterday.", "Cotton bales were loaded."],
+          "collocations": ["freshly baled hay"],
+          "synonyms": ["bundled"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "baleen",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "horny plates in the mouths of certain whales used to filter food",
+          "examples": ["Baleen whales include blue whales.", "The baleen strained tiny sea creatures."],
+          "collocations": ["baleen whale", "baleen plates"],
+          "synonyms": ["whalebone"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "marine"]
+        }
+      ]
+    }
+  ]
+}
+```

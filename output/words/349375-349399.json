@@ -1,0 +1,638 @@
+{
+  "items": [
+    {
+      "term": "segmentize",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to divide something into smaller parts called segments",
+          "examples": [
+            "We need to segmentize the market to target different customer groups.",
+            "The data was segmentized into categories for analysis."
+          ],
+          "collocations": [
+            "segmentize the data",
+            "segmentize the market",
+            "segmentize the population"
+          ],
+          "synonyms": ["partition", "divide", "segregate"],
+          "antonyms": ["unify", "combine"],
+          "register": "formal",
+          "domain": ["general", "business", "data"]
+        }
+      ]
+    },
+    {
+      "term": "segments",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "parts into which something is divided",
+          "examples": [
+            "The road has several segments with different speed limits.",
+            "We studied the segments of the story to understand the plot."
+          ],
+          "collocations": [
+            "road segments",
+            "flight segments",
+            "story segments"
+          ],
+          "synonyms": ["parts", "sections", "divisions"],
+          "antonyms": ["wholes", "unities"],
+          "register": "neutral",
+          "domain": ["general", "technology", "literature"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person singular of segment, to divide into segments",
+          "examples": [
+            "The algorithm segments the image into regions.",
+            "The video is segmented into chapters."
+          ],
+          "collocations": [
+            "segments the data",
+            "segments the audience"
+          ],
+          "synonyms": ["divides", "parts"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "segni",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Italian plural of segno; often used in music or astrology to indicate a sign or mark",
+          "examples": [
+            "In music, segni indicate repeats or endings.",
+            "The book uses segni to mark important passages."
+          ],
+          "collocations": [
+            "musical segni",
+            "segni in notation"
+          ],
+          "synonyms": ["signs", "marks"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "literature", "education"]
+        }
+      ]
+    },
+    {
+      "term": "segno",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a musical symbol used to indicate a return to a sign or a particular place in a musical score",
+          "examples": [
+            "Play from the segno when you reach the D.S. instruction.",
+            "The segno marks the point to go back to."
+          ],
+          "collocations": [
+            "segno symbol",
+            "D.S. al segno"
+          ],
+          "synonyms": ["sign", "mark"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music", "education"]
+        }
+      ]
+    },
+    {
+      "term": "segnos",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of segno; musical signs or marks in scores",
+          "examples": [
+            "The segnos indicate repeats in various sections.",
+            "Different segnos appear throughout the composition."
+          ],
+          "collocations": [
+            "musical segnos",
+            "repeat segnos"
+          ],
+          "synonyms": ["signs", "marks"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "sego",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant (popular in some regions) known as sego lily; also used as a root or symbol in some cultures",
+          "examples": [
+            "The sego lily is a symbol in some Western myths.",
+            "In biology class, we studied the sego plant."
+          ],
+          "collocations": [
+            "sego lily",
+            "sego plant"
+          ],
+          "synonyms": ["lily", "flower"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "segol",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a diacritical mark in some alphabet systems; resembles a small horizontal line under a letter",
+          "examples": [
+            "In phonetic notation, segol marks a specific vowel quality.",
+            "The font includes segols for accuracy."
+          ],
+          "collocations": [
+            "segol diacritic",
+            "use segol in notation"
+          ],
+          "synonyms": ["diacritic", "undermark"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "typography"]
+        }
+      ]
+    },
+    {
+      "term": "segolate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to form or combine as a segolate; in linguistics, to group sounds into segments",
+          "examples": [
+            "The algorithm segolate the phonemes for analysis.",
+            "Researchers segolate the speech stream into units."
+          ],
+          "collocations": [
+            "segolate the phonemes",
+            "segolate the data"
+          ],
+          "synonyms": ["segment", "separate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "computer science"]
+        }
+      ]
+    },
+    {
+      "term": "segolates",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular or plural present tense of segolates; forms into segolates",
+          "examples": [
+            "The program segolates the input into units.",
+            "These rules segolate the words for parsing."
+          ],
+          "collocations": [
+            "segolates the input",
+            "segolates the strings"
+          ],
+          "synonyms": ["segments", "divides"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "computer science"]
+        }
+      ]
+    },
+    {
+      "term": "segols",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of segol; a diacritic mark used in some orthographies",
+          "examples": [
+            "The segols change the pronunciation of the vowel.",
+            "We compare segols across languages."
+          ],
+          "collocations": [
+            "segol diacritics",
+            "use segols in writing"
+          ],
+          "synonyms": ["diacritics", "marks"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "typography"]
+        }
+      ]
+    },
+    {
+      "term": "segos",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sego; can refer to a plant or cultural symbol depending on context",
+          "examples": [
+            "The segos are native to certain regions.",
+            "In some languages, segos indicate tone."
+          ],
+          "collocations": [
+            "segos plant",
+            "segos symbols"
+          ],
+          "synonyms": ["plants", "symbols"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["botany", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "segou",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a city in Mali; administrative region name",
+          "examples": [
+            "We flew to Segou for the festival.",
+            "Segou hosts cultural events along the Niger River."
+          ],
+          "collocations": [
+            "Segou region",
+            "Segou city"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "segreant",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "dozing or sleeping; archaic or rare usage; sometimes seen in heraldry or historical texts",
+          "examples": [
+            "The segreant knight rested after battle.",
+            "In old manuscripts, segreant figures appear on coats of arms."
+          ],
+          "collocations": [
+            "segreant knight",
+            "segreant creature"
+          ],
+          "synonyms": ["slumbering", "sleeping"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "history"]
+        }
+      ]
+    },
+    {
+      "term": "segregable",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being separated or divided from a larger whole",
+          "examples": [
+            "The data set is segregable into distinct categories.",
+            "Segregable components can be tested individually."
+          ],
+          "collocations": [
+            "segregable units",
+            "segregable data"
+          ],
+          "synonyms": ["divisible", "separable"],
+          "antonyms": ["indivisible", "inseparable"],
+          "register": "formal",
+          "domain": ["science", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "segregant",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an organism or cell that results from segregation; a person who is segregated",
+          "examples": [
+            "The plant produced a segregant with a new trait.",
+            "In genetics, segregants can be studied to understand inheritance."
+          ],
+          "collocations": [
+            "genetic segregant",
+            "segregant line"
+          ],
+          "synonyms": ["offspring", "variant"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "genetics"]
+        }
+      ]
+    },
+    {
+      "term": "segregants",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of segregant; multiple organisms or cells produced by segregation",
+          "examples": [
+            "Several segregants showed the trait.",
+            "Researchers selected the best segregants for further study."
+          ],
+          "collocations": [
+            "segregants in study",
+            "select segregants"
+          ],
+          "synonyms": ["offspring", "variants"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "genetics"]
+        }
+      ]
+    },
+    {
+      "term": "segregate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to separate or set apart from a group; to split people or things into different groups, often based on category",
+          "examples": [
+            "Laws were passed to segregate schools by race.",
+            "We segregate recyclable materials from the trash."
+          ],
+          "collocations": [
+            "segregate at source",
+            "segregate by type",
+            "segregate data"
+          ],
+          "synonyms": ["separate", "isolate", "divide"],
+          "antonyms": ["integrate", "unite"],
+          "register": "formal",
+          "domain": ["law", "sociology", "environment"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to separate a mixture into components for analysis",
+          "examples": [
+            " laboratories segregate samples before testing.",
+            "We segregate the spectrum into bands."
+          ],
+          "collocations": [
+            "segregate samples",
+            "segregate data"
+          ],
+          "synonyms": ["separate", "classify"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "segregated",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "set apart or separated, especially by law or social practice",
+          "examples": [
+            "Segregated schools were legal in the past in some countries.",
+            "The city has a history of segregated neighborhoods."
+          ],
+          "collocations": [
+            "segregated facilities",
+            "segregated schools"
+          ],
+          "synonyms": ["separated", "apportioned"],
+          "antonyms": ["integrated", "united"],
+          "register": "formal",
+          "domain": ["history", "society"]
+        }
+      ]
+    },
+    {
+      "term": "segregatedly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a segregated or separated manner",
+          "examples": [
+            "They lived segregatedly by age group.",
+            "The facilities were used segregatedly by gender."
+          ],
+          "collocations": [
+            "live segregatedly",
+            "operate segregatedly"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["sociology", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "segregatedness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being segregated; degree of separation",
+          "examples": [
+            "Segregatedness varied across regions.",
+            "The report discusses the social segregatedness of the era."
+          ],
+          "collocations": [
+            "degree of segregatedness",
+            "levels of segregatedness"
+          ],
+          "synonyms": ["separation", "divisions"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["sociology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "segregateness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being segregated or separate; separation by class or group",
+          "examples": [
+            "The segregation and segregateness of the district were evident.",
+            "Policy debates focused on reducing segregateness."
+          ],
+          "collocations": [
+            "spirit of segregateness",
+            "levels of segregateness"
+          ],
+          "synonyms": ["separateness", "division"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "sociology"]
+        }
+      ]
+    },
+    {
+      "term": "segregates",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular or present tense of segregate; separates into groups or categories",
+          "examples": [
+            "The school segregates students by grade level.",
+            "The dataset segregates images by object type."
+          ],
+          "collocations": [
+            "segregates students",
+            "segregates data"
+          ],
+          "synonyms": ["separates", "divides"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "segregating",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of segregate; action of separating",
+          "examples": [
+            "The policy is segregating the community.",
+            "We are segregating recyclable materials from trash."
+          ],
+          "collocations": [
+            "segregating waste",
+            "segregating data"
+          ],
+          "synonyms": ["separating", "dividing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["law", "environment", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "segregation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or practice of separating people or things into groups, often by race or category; legal or social separation",
+          "examples": [
+            "Segregation in schools is a historical issue in many countries.",
+            "The report examines segregation in housing and education."
+          ],
+          "collocations": [
+            "racial segregation",
+            "school segregation",
+            "segregation policies"
+          ],
+          "synonyms": ["separation", "discrimination"],
+          "antonyms": ["integration", "unification"],
+          "register": "formal",
+          "domain": ["history", "sociology", "law"]
+        }
+      ]
+    },
+    {
+      "term": "segregational",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to segregation or the act of separating people or things into groups",
+          "examples": [
+            "Segregational policies have shaped many societies.",
+            "The report discusses segregational practices."
+          ],
+          "collocations": [
+            "segregational policies",
+            "segregational practices"
+          ],
+          "synonyms": ["segregationist", "separating"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "sociology"]
+        }
+      ]
+    },
+    {
+      "term": "segregational",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "related to segregation or the act of separating people or things into groups",
+          "examples": [
+            "Segregational laws were implemented in the past.",
+            "They studied the segregational impact on communities."
+          ],
+          "collocations": [
+            "segregational impact",
+            "segregational laws"
+          ],
+          "synonyms": ["separating", "segregatory"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "sociology"]
+        }
+      ]
+    }
+  ]
+}

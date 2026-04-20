@@ -1,0 +1,461 @@
+```json
+{
+  "items": [
+    {
+      "term": "bareland",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "land without buildings, trees, or vegetation.",
+          "examples": ["The bareland was sold for development.", "Farmers avoid buying bareland.", "The project starts on bareland next year."],
+          "collocations": ["empty bareland", "vacant bareland", "undeveloped bareland", "sterile bareland", "raw bareland"],
+          "synonyms": ["wasteland", "vacant land", "clear land"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["real_estate", "construction"]
+        }
+      ]
+    },
+    {
+      "term": "barelegged",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "wearing no stockings, socks, or coverings on the legs.",
+          "examples": ["She ran barelegged through the grass.", "Children played barelegged in the summer heat.", "He felt barelegged in the cold wind."],
+          "collocations": ["run barelegged", "go barelegged", "children barelegged", "barelegged hikers"],
+          "synonyms": ["bare-legged"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barely",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "only just; almost not.",
+          "examples": ["He barely finished the race.", "She barely spoke to me.", "We barely had time to eat."],
+          "collocations": ["barely enough", "barely able", "barely visible", "barely hear", "barely escape"],
+          "synonyms": ["hardly", "scarcely", "just"],
+          "antonyms": ["easily", "fully"],
+          "register": "null",
+          "domain": ["general"]
+        },
+        {
+          "pos": "adverb",
+          "definition": "in a plain or basic way, without decoration.",
+          "examples": ["The room was barely furnished.", "He was barely dressed for the party."],
+          "collocations": ["barely furnished", "barely dressed"],
+          "synonyms": ["simply"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barenecked",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having the neck uncovered or bare.",
+          "examples": ["The barenecked statue gleamed in the sun.", "Workers were barenecked in the heat."],
+          "collocations": ["barenecked men", "barenecked birds"],
+          "synonyms": ["bare-necked"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bareness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being bare, empty, or without covering.",
+          "examples": ["The bareness of the room felt cold.", "The desert's bareness surprised us.", "She disliked the bareness of winter trees."],
+          "collocations": ["stark bareness", "utter bareness", "cold bareness", "bare bareness"],
+          "synonyms": ["nakedness", "emptiness", "plainness"],
+          "antonyms": ["fullness", "ornamentation"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bareness; multiple instances of emptiness or lack of covering.",
+          "examples": ["The barenesses of the landscape were striking.", "Various barenesses marked the old house."],
+          "collocations": ["multiple barenesses", "seasonal barenesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative of bare; more naked or uncovered.",
+          "examples": ["This tree is barer than last year.", "The barer room felt emptier."],
+          "collocations": ["barer than", "even barer", "grow barer"],
+          "synonyms": [],
+          "antonyms": ["fuller"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bares",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of bare; uncovers or reveals.",
+          "examples": ["She bares her soul in the book.", "The storm bares the roots of trees."],
+          "collocations": ["bares teeth", "bares soul", "bares facts"],
+          "synonyms": ["exposes", "reveals"],
+          "antonyms": ["covers", "hides"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baresark",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a berserker; Norse warrior who fought in a frenzy without armor.",
+          "examples": ["The baresark charged into battle.", "Legends tell of the baresark's rage."],
+          "collocations": ["furious baresark", "wild baresark"],
+          "synonyms": ["berserker"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history", "mythology"]
+        }
+      ]
+    },
+    {
+      "term": "baresarks",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baresark; multiple frenzied warriors.",
+          "examples": ["Baresarks terrified their enemies.", "The baresarks howled in battle."],
+          "collocations": ["raging baresarks"],
+          "synonyms": ["berserkers"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history", "mythology"]
+        }
+      ]
+    },
+    {
+      "term": "baresma",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a sacred bundle of twigs used in Zoroastrian rituals.",
+          "examples": ["The priest held the baresma high.", "Baresma is essential in the ceremony."],
+          "collocations": ["sacred baresma", "ritual baresma"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "barest",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative of bare; most naked or minimal.",
+          "examples": ["This is the barest room in the house.", "He gave the barest hint of a smile."],
+          "collocations": ["barest hint", "barest minimum", "barest essentials"],
+          "synonyms": [],
+          "antonyms": ["fullest"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "baresthesia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "sensitivity to weight or pressure; a sense of heaviness.",
+          "examples": ["Baresthesia testing checks nerve function.", "Loss of baresthesia can indicate injury."],
+          "collocations": ["impaired baresthesia", "test baresthesia"],
+          "synonyms": ["baragnosis"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "baresthesias",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baresthesia; multiple instances of weight sensitivity.",
+          "examples": ["Various baresthesias were assessed in the study."],
+          "collocations": ["multiple baresthesias"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "baret",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of flat cap or beret worn in certain cultures.",
+          "examples": ["He wore a traditional baret."],
+          "collocations": ["Basque baret"],
+          "synonyms": ["beret"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fashion"]
+        }
+      ]
+    },
+    {
+      "term": "baretta",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "variant spelling of Beretta; a brand of handgun.",
+          "examples": ["The baretta was his sidearm."],
+          "collocations": ["9mm baretta"],
+          "synonyms": ["Beretta"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["weapons"]
+        }
+      ]
+    },
+    {
+      "term": "barf",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to vomit.",
+          "examples": ["The bad food made him barf.", "Don't barf on the floor!"],
+          "collocations": ["barf up", "almost barf", "barf everywhere"],
+          "synonyms": ["vomit", "puke", "throw up"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "vomit.",
+          "examples": ["Clean up the barf.", "There's barf on the carpet."],
+          "collocations": ["pile of barf", "smell of barf"],
+          "synonyms": ["vomit", "puke"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barfed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of barf; vomited.",
+          "examples": ["He barfed after the ride.", "The dog barfed on the rug."],
+          "collocations": ["barfed violently", "barfed all night"],
+          "synonyms": ["vomited", "puked"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barff",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of frit or glaze used in ceramics.",
+          "examples": ["The potter applied barff to the vase."],
+          "collocations": ["ceramic barff"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["art"]
+        }
+      ]
+    },
+    {
+      "term": "barfi",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an Indian sweet made from condensed milk and sugar.",
+          "examples": ["She bought barfi at the market.", "Barfi is my favorite dessert."],
+          "collocations": ["milk barfi", "pista barfi", "plain barfi"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "barfing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of barf; vomiting.",
+          "examples": ["The kid is barfing in the bathroom.", "Stop barfing!"],
+          "collocations": ["keep barfing", "loud barfing"],
+          "synonyms": ["vomiting", "puking"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the act of vomiting.",
+          "examples": ["The barfing lasted all night."],
+          "collocations": ["constant barfing"],
+          "synonyms": ["vomiting"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barfis",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barfi; multiple pieces of Indian sweet.",
+          "examples": ["We ate several barfis.", "Buy some barfis for the party."],
+          "collocations": ["assorted barfis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "barfish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small or inferior fish, often served in bars.",
+          "examples": ["The barfish was cheap and fried."],
+          "collocations": ["fried barfish"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "barflies",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barfly; people who spend much time drinking in bars.",
+          "examples": ["The barflies gathered at the counter.", "Barflies know all the regulars."],
+          "collocations": ["local barflies", "regular barflies"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barfly",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who frequents bars, especially a habitual drinker.",
+          "examples": ["He's a real barfly.", "The barfly told stories all night."],
+          "collocations": ["local barfly", "regular barfly", "sad barfly"],
+          "synonyms": ["drunkard", "regular"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    }
+  ]
+}
+```

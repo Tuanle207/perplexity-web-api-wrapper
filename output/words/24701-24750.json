@@ -1,0 +1,854 @@
+{
+  "items": [
+    {
+      "term": "aseptic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "free from bacteria or other harmful microorganisms",
+          "examples": ["The surgeon used aseptic techniques.", "The equipment must remain aseptic during use."],
+          "collocations": ["aseptic conditions", "aseptic technique", "aseptic packaging", "aseptic environment"],
+          "synonyms": ["sterile", "clean", "sanitary"],
+          "antonyms": ["contaminated", "infected"],
+          "register": null,
+          "domain": ["medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "aseptically",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that prevents contamination by microorganisms",
+          "examples": ["The sample was handled aseptically.", "Food is packaged aseptically."],
+          "collocations": ["handled aseptically", "prepared aseptically", "processed aseptically"],
+          "synonyms": ["sterilely"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "asepticise",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something free from harmful microorganisms",
+          "examples": ["They asepticise the tools before surgery."],
+          "collocations": ["asepticise equipment", "asepticise instruments"],
+          "synonyms": ["sterilize", "sanitize"],
+          "antonyms": ["contaminate"],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "asepticised",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "made free from harmful microorganisms",
+          "examples": ["The tools were asepticised before use."],
+          "collocations": ["asepticised instruments", "asepticised equipment"],
+          "synonyms": ["sterilized"],
+          "antonyms": ["contaminated"],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "asepticises",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "makes something free from harmful microorganisms",
+          "examples": ["She asepticises all tools carefully."],
+          "collocations": ["asepticises equipment"],
+          "synonyms": ["sterilizes"],
+          "antonyms": ["contaminates"],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "asepticising",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "making something free from microorganisms",
+          "examples": ["They are asepticising the lab tools."],
+          "collocations": ["asepticising process"],
+          "synonyms": ["sterilizing"],
+          "antonyms": ["contaminating"],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "asepticism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the practice of preventing infection by keeping things sterile",
+          "examples": ["Asepticism is essential in surgery."],
+          "collocations": ["principles of asepticism"],
+          "synonyms": ["sterility"],
+          "antonyms": ["contamination"],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "asepticisms",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "instances or practices of maintaining sterility",
+          "examples": ["The procedures follow strict asepticisms."],
+          "collocations": ["strict asepticisms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "asepticize",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something sterile",
+          "examples": ["They asepticize the equipment."],
+          "collocations": ["asepticize tools"],
+          "synonyms": ["sterilize", "sanitize"],
+          "antonyms": ["contaminate"],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "asepticized",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "made sterile",
+          "examples": ["The instruments were asepticized."],
+          "collocations": ["asepticized equipment"],
+          "synonyms": ["sterilized"],
+          "antonyms": ["contaminated"],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "asepticizes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "makes sterile",
+          "examples": ["He asepticizes tools regularly."],
+          "collocations": ["asepticizes instruments"],
+          "synonyms": ["sterilizes"],
+          "antonyms": ["contaminates"],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "asepticizing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "making something sterile",
+          "examples": ["They are asepticizing surfaces."],
+          "collocations": ["asepticizing process"],
+          "synonyms": ["sterilizing"],
+          "antonyms": ["contaminating"],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "aseptics",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "substances or methods used to keep things free from microorganisms",
+          "examples": ["Aseptics are used in medical procedures."],
+          "collocations": ["medical aseptics"],
+          "synonyms": ["sterilizers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "aseptify",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something aseptic",
+          "examples": ["They aseptify the lab environment."],
+          "collocations": ["aseptify equipment"],
+          "synonyms": ["sterilize"],
+          "antonyms": ["contaminate"],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "aseptol",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical substance used as an antiseptic",
+          "examples": ["Aseptol was applied to the wound."],
+          "collocations": ["aseptol solution"],
+          "synonyms": ["antiseptic"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "aseptolin",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a disinfectant substance used to prevent infection",
+          "examples": ["The doctor used aseptolin on the skin."],
+          "collocations": ["aseptolin treatment"],
+          "synonyms": ["antiseptic"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "asexual",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not involving sexual activity or feelings",
+          "examples": ["Some organisms reproduce in an asexual way.", "He identifies as asexual."],
+          "collocations": ["asexual reproduction", "asexual identity"],
+          "synonyms": ["nonsexual"],
+          "antonyms": ["sexual"],
+          "register": null,
+          "domain": ["biology", "social"]
+        }
+      ]
+    },
+    {
+      "term": "asexualisation",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of removing sexual characteristics or activity",
+          "examples": ["The asexualisation of characters was criticized."],
+          "collocations": ["asexualisation process"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "asexualise",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something nonsexual",
+          "examples": ["They tried to asexualise the content."],
+          "collocations": ["asexualise characters"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "asexualised",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "made nonsexual",
+          "examples": ["The character was asexualised in the adaptation."],
+          "collocations": ["asexualised version"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "asexualising",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "making something nonsexual",
+          "examples": ["They are asexualising the storyline."],
+          "collocations": ["asexualising process"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "asexualities",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "different forms or identities of asexual orientation",
+          "examples": ["The discussion covered various asexualities."],
+          "collocations": ["different asexualities"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "asexuality",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of not experiencing sexual attraction",
+          "examples": ["Asexuality is a recognized orientation."],
+          "collocations": ["identify with asexuality"],
+          "synonyms": [],
+          "antonyms": ["sexuality"],
+          "register": null,
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "asexualization",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of making something nonsexual",
+          "examples": ["The asexualization of media is debated."],
+          "collocations": ["asexualization process"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "asexualize",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to remove sexual aspects from something",
+          "examples": ["They decided to asexualize the character."],
+          "collocations": ["asexualize content"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "asexualized",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "made nonsexual",
+          "examples": ["The film was asexualized."],
+          "collocations": ["asexualized version"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "asexualizing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "making something nonsexual",
+          "examples": ["They are asexualizing the narrative."],
+          "collocations": ["asexualizing approach"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "asexually",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that does not involve sexual reproduction or attraction",
+          "examples": ["Some plants reproduce asexually."],
+          "collocations": ["reproduce asexually"],
+          "synonyms": [],
+          "antonyms": ["sexually"],
+          "register": null,
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "asexuals",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who do not experience sexual attraction",
+          "examples": ["Asexuals form a growing community."],
+          "collocations": ["community of asexuals"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["social"]
+        }
+      ]
+    },
+    {
+      "term": "asfast",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "an archaic form meaning firmly fixed or secure",
+          "examples": ["The door was held asfast."],
+          "collocations": ["hold asfast"],
+          "synonyms": ["firmly"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "asfetida",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a strong-smelling resin used in cooking and medicine",
+          "examples": ["Asfetida is common in some cuisines."],
+          "collocations": ["asafoetida spice"],
+          "synonyms": ["asafoetida"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "asg",
+      "kind": "abbreviation",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a short form used for different phrases depending on context",
+          "examples": ["ASG can mean assistant secretary general."],
+          "collocations": ["ASG role"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "asgard",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the home of the gods in Norse mythology",
+          "examples": ["Odin rules in Asgard."],
+          "collocations": ["gods of Asgard"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["mythology"]
+        }
+      ]
+    },
+    {
+      "term": "asgd",
+      "kind": "abbreviation",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an abbreviation used for specific organizations or terms depending on context",
+          "examples": ["ASGD appears in organizational names."],
+          "collocations": ["ASGD program"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "asgmt",
+      "kind": "abbreviation",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a short form of assignment",
+          "examples": ["Submit your asgmt by Monday."],
+          "collocations": ["school asgmt"],
+          "synonyms": ["assignment"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["education"]
+        }
+      ]
+    },
+    {
+      "term": "ash",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the grey powder left after something burns",
+          "examples": ["The fire turned everything to ash."],
+          "collocations": ["volcanic ash", "ash cloud", "ashes of fire"],
+          "synonyms": ["cinders", "residue"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "asha",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a name or concept meaning truth or order in some cultures",
+          "examples": ["Asha represents truth in ancient belief."],
+          "collocations": ["concept of Asha"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "ashake",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "shaking or trembling (archaic form)",
+          "examples": ["He stood ashake with fear."],
+          "collocations": ["ashake with fear"],
+          "synonyms": ["trembling"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "ashame",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "feeling shame (archaic form of ashamed)",
+          "examples": ["He felt ashame of his actions."],
+          "collocations": ["feel ashame"],
+          "synonyms": ["ashamed"],
+          "antonyms": ["proud"],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "ashamed",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "feeling guilty or embarrassed about something wrong",
+          "examples": ["She felt ashamed of her mistake."],
+          "collocations": ["feel ashamed", "deeply ashamed"],
+          "synonyms": ["embarrassed", "guilty"],
+          "antonyms": ["proud"],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "ashamedly",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows shame or embarrassment",
+          "examples": ["He looked away ashamedly."],
+          "collocations": ["smile ashamedly"],
+          "synonyms": ["embarrassedly"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "ashamedness",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of feeling ashamed",
+          "examples": ["Her ashamedness was clear."],
+          "collocations": ["feeling of ashamedness"],
+          "synonyms": ["shame"],
+          "antonyms": ["pride"],
+          "register": "rare",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "ashamednesses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of ashamedness",
+          "examples": ["Different ashamednesses were expressed."],
+          "collocations": ["various ashamednesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "ashames",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "causes someone to feel ashamed",
+          "examples": ["His actions ashames the family."],
+          "collocations": ["ashames someone"],
+          "synonyms": ["embarrasses"],
+          "antonyms": ["honors"],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "ashaming",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "causing shame",
+          "examples": ["He is ashameing his family."],
+          "collocations": ["ashaming behavior"],
+          "synonyms": ["embarrassing"],
+          "antonyms": ["honoring"],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "ashamnu",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Jewish prayer of confession",
+          "examples": ["They recited the Ashamnu during the service."],
+          "collocations": ["Ashamnu prayer"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "religious",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "ashangos",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plural form referring to a group or people (rare usage)",
+          "examples": ["The ashangos gathered together."],
+          "collocations": ["group of ashangos"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "rare",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "ashantee",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an older spelling of Ashanti, a people of Ghana",
+          "examples": ["The Ashantee have a rich culture."],
+          "collocations": ["Ashantee people"],
+          "synonyms": ["Ashanti"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "ashanti",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a West African ethnic group and kingdom in Ghana",
+          "examples": ["The Ashanti are known for their history."],
+          "collocations": ["Ashanti culture", "Ashanti kingdom"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culture", "history"]
+        }
+      ]
+    },
+    {
+      "term": "asharasi",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare or unclear term with limited modern usage",
+          "examples": ["The word asharasi appears in historical texts."],
+          "collocations": ["term asharasi"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

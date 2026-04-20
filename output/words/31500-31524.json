@@ -1,0 +1,451 @@
+```json
+{
+  "items": [
+    {
+      "term": "baklavas",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baklava; sweet, layered pastries made with nuts and honey",
+          "examples": ["She bought baklavas from the bakery.", "The dessert tray had baklavas and other treats.", "We shared baklavas at the party."],
+          "collocations": ["layered baklavas", "nutty baklavas", "honey baklavas", "Greek baklavas", "Turkish baklavas", "sweet baklavas"],
+          "synonyms": ["pastries"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "baklawa",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative spelling of baklava; sweet pastry with phyllo, nuts, and syrup",
+          "examples": ["He loves baklawa after dinner.", "Baklawa is popular in the Middle East.", "She made fresh baklawa for guests."],
+          "collocations": ["phyllo baklawa", "syrupy baklawa", "pistachio baklawa", "walnut baklawa"],
+          "synonyms": ["baklava"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "baklawas",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of baklawa; sweet layered pastries",
+          "examples": ["The shop sells baklawas daily.", "Baklawas were served at the feast.", "Kids grabbed the baklawas first."],
+          "collocations": ["fresh baklawas", "sticky baklawas", "nut-filled baklawas"],
+          "synonyms": ["baklavas"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "bakli",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "pulses or legumes in Hindi, used in Indian cooking",
+          "examples": ["Cook bakli with spices.", "Bakli is a key ingredient in dal.", "She buys bakli from the market."],
+          "collocations": ["dry bakli", "soaked bakli", "spiced bakli"],
+          "synonyms": ["pulses", "legumes"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "cooking"]
+        }
+      ]
+    },
+    {
+      "term": "bakongo",
+      "kind": "proper_noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Bantu ethnic group living in Central Africa",
+          "examples": ["The Bakongo have rich traditions.", "Bakongo art is famous worldwide.", "Many Bakongo live in Congo."],
+          "collocations": ["Bakongo people", "Bakongo culture", "Bakongo language"],
+          "synonyms": ["Kongo"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "bakra",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Caribbean slang for a white person, often derogatory",
+          "examples": ["He called the boss a bakra.", "Old stories mention bakra overseers.", "Avoid using bakra in polite talk."],
+          "collocations": ["big bakra", "white bakra"],
+          "synonyms": ["whitey"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bakras",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bakra; white people in Caribbean slang",
+          "examples": ["The bakras owned the land.", "Stories tell of bakras and locals.", "Bakras arrived by ship."],
+          "collocations": ["rich bakras", "plantation bakras"],
+          "synonyms": ["whiteys"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bakshaish",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "variant spelling of baksheesh; tip or bribe in Middle East",
+          "examples": ["He gave bakshaish to the guide.", "Bakshaish speeds up service.", "No bakshaish, no help."],
+          "collocations": ["generous bakshaish", "small bakshaish"],
+          "synonyms": ["baksheesh", "tip"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "baksheesh",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "money given as a tip or bribe, especially in Middle East and South Asia",
+          "examples": ["Give baksheesh to the waiter.", "Baksheesh is expected here.", "He demanded baksheesh first."],
+          "collocations": ["small baksheesh", "generous baksheesh", "daily baksheesh"],
+          "synonyms": ["tip", "gratuity", "bribe"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["travel", "business"]
+        }
+      ]
+    },
+    {
+      "term": "baksheeshed",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of baksheesh; gave a tip or bribe",
+          "examples": ["He baksheeshed the porter.", "She baksheeshed for quick service.", "They baksheeshed the officials."],
+          "collocations": ["generously baksheeshed", "quickly baksheeshed"],
+          "synonyms": ["tipped"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "baksheeshes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baksheesh; multiple tips or bribes",
+          "examples": ["He collects baksheeshes daily.", "Baksheeshes are common in markets.", "Staff share baksheeshes."],
+          "collocations": ["daily baksheeshes", "extra baksheeshes"],
+          "synonyms": ["tips"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "baksheeshing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of baksheesh; giving tips or bribes",
+          "examples": ["He is baksheeshing the driver.", "Baksheeshing helps in busy places.", "Stop baksheeshing everyone!"],
+          "collocations": ["always baksheeshing", "constantly baksheeshing"],
+          "synonyms": ["tipping"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "bakshi",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Indian surname or historical title for paymaster",
+          "examples": ["Mr. Bakshi works in finance.", "The bakshi managed army pay.", "Bakshi family lives nearby."],
+          "collocations": ["Captain Bakshi"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bakshis",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "short form of baksheesh; a tip or small bribe",
+          "examples": ["Give him some bakshis.", "Bakshis is customary.", "No bakshis, no entry."],
+          "collocations": ["quick bakshis"],
+          "synonyms": ["baksheesh", "tip"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "bakshish",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative spelling of baksheesh; gratuity or bribe in Asia",
+          "examples": ["Bakshish opened the door.", "Offer bakshish politely.", "Tourists give bakshish often."],
+          "collocations": ["generous bakshish", "expected bakshish"],
+          "synonyms": ["baksheesh", "tip"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "bakshished",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bakshish; gave a tip or bribe",
+          "examples": ["She bakshished the helper.", "They bakshished for favors.", "He bakshished generously."],
+          "collocations": ["well bakshished"],
+          "synonyms": ["tipped"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "bakshishes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bakshish; multiple tips",
+          "examples": ["Collect your bakshishes.", "Bakshishes add up fast.", "Share the bakshishes."],
+          "collocations": ["daily bakshishes"],
+          "synonyms": ["tips"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["travel"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person of bakshish; gives a tip",
+          "examples": ["He bakshishes everyone.", "She bakshishes well.", "The guide bakshishes ahead."],
+          "collocations": ["always bakshishes"],
+          "synonyms": ["tips"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "bakshishing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "giving bakshish; process of tipping or bribing",
+          "examples": ["He is bakshishing now.", "Bakshishing is normal here.", "Keep bakshishing for help."],
+          "collocations": ["non-stop bakshishing"],
+          "synonyms": ["tipping"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "baktun",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "unit of time in Maya calendar, about 394 years",
+          "examples": ["The 13th baktun ended in 2012.", "One baktun equals many cycles.", "Maya tracked baktuns carefully."],
+          "collocations": ["Maya baktun", "13th baktun", "long count baktun"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "baku",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "capital city of Azerbaijan",
+          "examples": ["Baku is on the Caspian Sea.", "Visit Baku for oil history.", "Baku hosts big events."],
+          "collocations": ["Baku city", "old Baku", "Baku skyline"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "bakuba",
+      "kind": "proper_noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Bantu ethnic group in Democratic Republic of Congo, known for art",
+          "examples": ["Bakuba textiles are beautiful.", "The Bakuba kingdom was powerful.", "Bakuba patterns inspire designers."],
+          "collocations": ["Bakuba art", "Bakuba people", "Bakuba raffia"],
+          "synonyms": ["Kuba"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "art"]
+        }
+      ]
+    },
+    {
+      "term": "bakula",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Indian surname or name of Mimusops elengi tree",
+          "examples": ["Bakula flowers smell sweet.", "Mr. Bakula is the teacher.", "Plant a bakula in the garden."],
+          "collocations": ["bakula tree", "bakula flowers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "bakunda",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare term, possibly African place name or personal name",
+          "examples": ["Bakunda village is remote.", "Chief Bakunda led well."],
+          "collocations": ["Mount Bakunda"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "bakuninism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "political philosophy of Mikhail Bakunin, advocating collectivist anarchism",
+          "examples": ["Bakuninism rejects state power.", "He studies Bakuninism in class.", "Bakuninism influenced revolutionaries."],
+          "collocations": ["collectivist Bakuninism", "revolutionary Bakuninism"],
+          "synonyms": ["anarchism"],
+          "antonyms": ["Marxism"],
+          "register": null,
+          "domain": ["politics", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "bakuninist",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "person who follows Bakunin's anarchist ideas",
+          "examples": ["The Bakuninist spoke at the rally.", "Bakuninists oppose central authority.", "She is a committed Bakuninist."],
+          "collocations": ["radical Bakuninist"],
+          "synonyms": ["anarchist"],
+          "antonyms": ["statist"],
+          "register": null,
+          "domain": ["politics"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to Bakunin's philosophy",
+          "examples": ["Bakuninist views shaped the group.", "This is pure Bakuninist thought."],
+          "collocations": ["Bakuninist theory", "Bakuninist movement"],
+          "synonyms": ["anarchist"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["politics"]
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,442 @@
+{
+  "items": [
+    {
+      "term": "sacralizations",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sacralization; the act or process of making something sacred or religiously revered.",
+          "examples": [
+            "The sacralizations of these artifacts were performed by the temple priests.",
+            "Cultural sacralizations often accompany rites of passage."
+          ],
+          "collocations": ["process of sacralization", "sacralizations of artifacts", "religious sacralizations"],
+          "synonyms": ["consecrations", "sanctifications"],
+          "antonyms": ["desecrations", "profanings"],
+          "register": "formal",
+          "domain": ["general", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "sacralize",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something sacred or treat it as holy.",
+          "examples": [
+            "The ceremony sacralizes the river as a sacred site.",
+            "Many communities sacralize their ancestral lands."
+          ],
+          "collocations": ["sacralize a site", "sacralize a ritual", "sacralize memories"],
+          "synonyms": ["consecrate", "sanctify"],
+          "antonyms": ["desecrate", "profane"],
+          "register": "formal",
+          "domain": ["religion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sacralized",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "made sacred or holy; treated as sacred.",
+          "examples": [
+            "The relics were sacralized by the priest.",
+            "This hill is sacralized in local tradition."
+          ],
+          "collocations": ["sacralized relics", "sacralized by ceremony"],
+          "synonyms": ["consecrated", "sanctified"],
+          "antonyms": ["desecrated", "profane"],
+          "register": "formal",
+          "domain": ["religion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sacralizes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "he/she/it makes something sacred or treats it as holy; sacralizes (present tense).",
+          "examples": [
+            "The ceremony sacralizes the river for the community.",
+            "Rituals sacralize everyday objects in some cultures."
+          ],
+          "collocations": ["sacralizes a site", "sacralizes rituals"],
+          "synonyms": ["consecrates", "sanctifies"],
+          "antonyms": ["desecrates", "profanes"],
+          "register": "formal",
+          "domain": ["religion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sacralizing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of making something sacred or sanctifying it (present participle).",
+          "examples": [
+            "Sacralizing objects during the ritual helps the community connect with the divine.",
+            "Sacralizing memories can give a place special meaning."
+          ],
+          "collocations": ["sacralizing objects", "sacralizing rituals"],
+          "synonyms": ["consecrating", "sanctifying"],
+          "antonyms": ["desecrating", "profaning"],
+          "register": "formal",
+          "domain": ["religion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sacrals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sacral; a diminutive or informal term possibly referring to bones in the sacrum region, or a mispelling/rare usage; not common in standard modern English.",
+          "examples": [
+            "In anatomy texts, the sacra are sometimes listed alongside the sacrum and coccyx."
+          ],
+          "collocations": ["sacral bones", "sacral region"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "sacrament",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a religious ceremony or act that is considered a visible sign of a divine grace, in Christian traditions often a ritual like baptism or communion.",
+          "examples": [
+            "Baptism is a sacrament in many Christian churches.",
+            "The church celebrates seven sacraments."
+          ],
+          "collocations": ["a sacrament", "receive a sacrament", "sacrament of baptism"],
+          "synonyms": ["holy rite", "ritual"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sacramental",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to sacraments or having sacred significance; also a noun meaning a religious object or sign used in sacraments.",
+          "examples": [
+            "Sacramental oils are used in various rites.",
+            "The church uses sacramental symbols to convey grace."
+          ],
+          "collocations": ["sacramental rites", "sacramental oil", "sacramental sign"],
+          "synonyms": ["ritual", "holy"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "culture"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a religious object or sign used in sacraments.",
+          "examples": [
+            "Candles and holy water are common sacramentals."
+          ],
+          "collocations": ["sacramental objects", "use sacramentals"],
+          "synonyms": ["holy sign", "liturgical item"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "sacramentalis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is committed to or concerned with sacraments; a priestly or theological term, often used in historical or ecclesiastical contexts.",
+          "examples": [
+            "The sacramentalist argued for a return to traditional sacraments."
+          ],
+          "collocations": ["sacramentalist preacher", "clerical sacramentalist"],
+          "synonyms": ["cleric", "theologian"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "sacramentalists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sacramentalist; people who emphasize or advocate for sacraments in practice or doctrine.",
+          "examples": [
+            "The sacramentalists at the conference argued for more frequent ceremonies."
+          ],
+          "collocations": ["sacramentalists theory", "band of sacramentalists"],
+          "synonyms": ["sacramentalist group", "clerics"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "theology"]
+        }
+      ]
+    },
+    {
+      "term": "sacramentality",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being sacred or the capacity to communicate grace through tangible signs; the theological idea that ordinary things can embody the sacred.",
+          "examples": [
+            "Sacramentality looks for the sacred in everyday life.",
+            "The theologian explored the sacramentality of creation."
+          ],
+          "collocations": ["theology of sacramentality", "sacramentality of life"],
+          "synonyms": ["sacredness", "holiness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "theology"]
+        }
+      ]
+    },
+    {
+      "term": "sacramentally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that relates to sacraments or sacred signs; in a manner of sacred significance.",
+          "examples": [
+            "The rite was performed sacramentally, with great solemnity."
+          ],
+          "collocations": ["sacramentally present", "sacramentally oriented"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "sacramentalness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being sacramental; the presence of signs of grace in tangible forms.",
+          "examples": [
+            "The sacramentalness of the ceremony helped believers feel connected to the mystery."
+          ],
+          "collocations": ["degree of sacramentalness", "sacramentalness in ritual"],
+          "synonyms": ["sacral quality", "sacredness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "theology"]
+        }
+      ]
+    },
+    {
+      "term": "sacramentals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "objects or actions considered to be signs of grace but not themselves sacraments, such as holy water, rosaries, or blessed medals.",
+          "examples": [
+            "Many Catholics carry sacramentals like rosaries and blessed medals."
+          ],
+          "collocations": ["holy water and other sacramentals", "use sacramentals"],
+          "synonyms": ["holy signs", "devotional items"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sacramentarian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who emphasizes or advocates for the importance of sacraments in doctrine and practice.",
+          "examples": [
+            "The sacramentarian stressed the central role of the Eucharist."
+          ],
+          "collocations": ["sacramentarian belief", "sacramentarian theologian"],
+          "synonyms": ["cleric", "theologian"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "theology"]
+        }
+      ]
+    },
+    {
+      "term": "sacramentarianism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the doctrine or practice of emphasizing sacraments; a theological stance.",
+          "examples": [
+            "Historically, sacramentarianism influenced debates about church practice."
+          ],
+          "collocations": ["historical sacramentarianism", "doctrine of sacramentarianism"],
+          "synonyms": ["sacramentalism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "theology"]
+        }
+      ]
+    },
+    {
+      "term": "sacramentarians",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sacramentarian; people who advocate sacramentarian views.",
+          "examples": [
+            "The debate included several sacramentarians from nearby parishes."
+          ],
+          "collocations": ["group of sacramentarians", "sacramentarian theologians"],
+          "synonyms": ["sacramentarian"], 
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "theology"]
+        }
+      ]
+    },
+    {
+      "term": "sacramentaries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sacramentary; books or lists of sacramental prayers or rites; or records of liturgical ceremonies.",
+          "examples": [
+            "The monastery keeper restored several old sacramentaries from the shelf."
+          ],
+          "collocations": ["ancient sacramentaries", "liturgical sacramentaries"],
+          "synonyms": ["missals", "liturgies"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "liturgy"]
+        }
+      ]
+    },
+    {
+      "term": "sacramentarist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who writes or studies sacramentaries; an expert in liturgical texts.",
+          "examples": [
+            "The sacramentarist provided notes on the medieval rites."
+          ],
+          "collocations": ["sacramentarist scholar", "sacramentarist manuscript"],
+          "synonyms": ["liturgist", "liturgy expert"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "sacramentary",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a book containing prayers or rites used in the celebration of sacraments; a missal.",
+          "examples": [
+            "The monk opened the sacramentary to the prayers for communion."
+          ],
+          "collocations": ["medieval sacramentary", "use the sacramentary"],
+          "synonyms": ["missal", "liturgical book"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "liturgy"]
+        }
+      ]
+    },
+    {
+      "term": "sacramented",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "made a sacrament; consecrated or endowed with sacramental grace.",
+          "examples": [
+            "The water was sacramented during the rite."
+          ],
+          "collocations": ["sacramented water", "sacramented elements"],
+          "synonyms": ["consecrated", "blessed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "sacramenter",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "one who sacramentals or administers sacraments; a religious officiant.",
+          "examples": [
+            "The sacramenter led the ceremony with reverence."
+          ],
+          "collocations": ["the sacramenter leads", "sacraments handled by sacramenter"],
+          "synonyms": ["officiant", "priest"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "ceremony"]
+        }
+      ]
+    }
+  ]
+}

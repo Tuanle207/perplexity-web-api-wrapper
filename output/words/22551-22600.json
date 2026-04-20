@@ -1,0 +1,864 @@
+{
+"items": [
+{
+"term": "arctia",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a genus of moths found in cold or northern regions",
+"examples": ["Arctia moths are known for their bright patterns.", "The scientist studied species of Arctia in the Arctic."],
+"collocations": ["Arctia species", "Arctia moth", "Arctia genus"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "arctian",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "adjective",
+"definition": "related to the Arctic region",
+"examples": ["Arctian climates are extremely cold.", "The expedition explored Arctian landscapes."],
+"collocations": ["Arctian climate", "Arctian region", "Arctian conditions"],
+"synonyms": ["Arctic"],
+"antonyms": ["tropical"],
+"register": null,
+"domain": ["geography"]
+}
+]
+},
+{
+"term": "arctic",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "relating to the region around the North Pole",
+"examples": ["Arctic ice is melting rapidly.", "They studied Arctic animals."],
+"collocations": ["Arctic Circle", "Arctic Ocean", "Arctic climate"],
+"synonyms": ["polar", "northern"],
+"antonyms": ["tropical"],
+"register": null,
+"domain": ["geography"]
+},
+{
+"pos": "adjective",
+"definition": "extremely cold",
+"examples": ["The room felt arctic.", "He gave me an arctic stare."],
+"collocations": ["arctic conditions", "arctic weather", "arctic temperature"],
+"synonyms": ["freezing", "icy", "frigid"],
+"antonyms": ["warm", "hot"],
+"register": null,
+"domain": ["everyday"]
+}
+]
+},
+{
+"term": "arctically",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "adverb",
+"definition": "in a very cold or Arctic-like way",
+"examples": ["The wind blew arctically across the plains.", "She spoke arctically, with no warmth."],
+"collocations": ["arctically cold", "arctically distant"],
+"synonyms": ["coldly", "frigidly"],
+"antonyms": ["warmly"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arctician",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a person who studies or lives in the Arctic",
+"examples": ["The arctician documented polar wildlife."],
+"collocations": ["Arctician researcher"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["geography"]
+}
+]
+},
+{
+"term": "arcticize",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "verb",
+"definition": "to make something resemble Arctic conditions",
+"examples": ["The system arcticized the environment."],
+"collocations": ["arcticize conditions", "arcticize region"],
+"synonyms": ["freeze", "chill"],
+"antonyms": ["warm"],
+"register": "formal",
+"domain": ["science"]
+}
+]
+},
+{
+"term": "arcticized",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "adjective",
+"definition": "made to resemble Arctic conditions",
+"examples": ["The lab was arcticized for testing."],
+"collocations": ["arcticized environment"],
+"synonyms": ["frozen"],
+"antonyms": ["heated"],
+"register": "formal",
+"domain": ["science"]
+}
+]
+},
+{
+"term": "arcticizing",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "verb",
+"definition": "the process of making something Arctic-like",
+"examples": ["They are arcticizing the chamber."],
+"collocations": ["arcticizing process"],
+"synonyms": ["freezing"],
+"antonyms": ["warming"],
+"register": "formal",
+"domain": ["science"]
+}
+]
+},
+{
+"term": "arcticologist",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a scientist who studies the Arctic",
+"examples": ["The arcticologist conducted ice research."],
+"collocations": ["Arcticologist research"],
+"synonyms": ["polar scientist"],
+"antonyms": [],
+"register": "formal",
+"domain": ["science"]
+}
+]
+},
+{
+"term": "arcticology",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "the scientific study of the Arctic",
+"examples": ["Arcticology includes climate and wildlife studies."],
+"collocations": ["study of arcticology"],
+"synonyms": ["polar science"],
+"antonyms": [],
+"register": "formal",
+"domain": ["science"]
+}
+]
+},
+{
+"term": "arctics",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "warm waterproof boots for cold weather",
+"examples": ["She wore arctics in the snow."],
+"collocations": ["wear arctics", "pair of arctics"],
+"synonyms": ["snow boots"],
+"antonyms": [],
+"register": null,
+"domain": ["everyday"]
+}
+]
+},
+{
+"term": "arcticward",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "adverb",
+"definition": "toward the Arctic region",
+"examples": ["They traveled arcticward."],
+"collocations": ["move arcticward"],
+"synonyms": ["northward"],
+"antonyms": ["southward"],
+"register": null,
+"domain": ["geography"]
+}
+]
+},
+{
+"term": "arcticwards",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "adverb",
+"definition": "toward the Arctic region",
+"examples": ["Birds migrated arcticwards."],
+"collocations": ["fly arcticwards"],
+"synonyms": ["northwards"],
+"antonyms": ["southwards"],
+"register": null,
+"domain": ["geography"]
+}
+]
+},
+{
+"term": "arctiid",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a moth belonging to the Arctiidae family",
+"examples": ["Arctiid moths have colorful wings."],
+"collocations": ["arctiid moth"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "arctiidae",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a family of moths known as tiger moths",
+"examples": ["Arctiidae includes many bright species."],
+"collocations": ["Arctiidae family"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "arctiids",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of arctiid moths",
+"examples": ["Arctiids are often brightly colored."],
+"collocations": ["group of arctiids"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "arctisca",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a rare or historical term related to Arctic regions",
+"examples": ["The text referred to Arctisca."],
+"collocations": ["Arctisca region"],
+"synonyms": [],
+"antonyms": [],
+"register": "archaic",
+"domain": ["geography"]
+}
+]
+},
+{
+"term": "arctitude",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "extreme coldness or a cold manner",
+"examples": ["Her arctitude made others uncomfortable."],
+"collocations": ["emotional arctitude"],
+"synonyms": ["coldness", "frigidity"],
+"antonyms": ["warmth"],
+"register": "literary",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arctium",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a genus of plants including burdock",
+"examples": ["Arctium plants grow in temperate regions."],
+"collocations": ["Arctium species"],
+"synonyms": ["burdock"],
+"antonyms": [],
+"register": "formal",
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "arctocephalus",
+"kind": "proper_noun",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a genus of fur seals",
+"examples": ["Arctocephalus seals live in southern oceans."],
+"collocations": ["Arctocephalus species"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "arctogaea",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a biogeographical region including northern continents",
+"examples": ["Arctogaea includes Eurasia and North America."],
+"collocations": ["Arctogaea region"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["geography"]
+}
+]
+},
+{
+"term": "arctogaeal",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "adjective",
+"definition": "relating to Arctogaea",
+"examples": ["Arctogaeal species share common traits."],
+"collocations": ["Arctogaeal fauna"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["science"]
+}
+]
+},
+{
+"term": "arctogaean",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "adjective",
+"definition": "related to northern continental regions",
+"examples": ["Arctogaean ecosystems are diverse."],
+"collocations": ["Arctogaean region"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["science"]
+}
+]
+},
+{
+"term": "arctoid",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "adjective",
+"definition": "resembling a bear or bear-like animals",
+"examples": ["Arctoid species include bears."],
+"collocations": ["arctoid animals"],
+"synonyms": ["bear-like"],
+"antonyms": [],
+"register": "formal",
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "arctoidea",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a group of carnivorous mammals including bears and seals",
+"examples": ["Arctoidea includes several families."],
+"collocations": ["Arctoidea group"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "arctoidean",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "adjective",
+"definition": "relating to the Arctoidea group",
+"examples": ["Arctoidean mammals share traits."],
+"collocations": ["arctoidean species"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "arctomys",
+"kind": "proper_noun",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a genus of rodents including marmots",
+"examples": ["Arctomys animals live in mountains."],
+"collocations": ["Arctomys species"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "arctophil",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a person who loves cold or Arctic conditions",
+"examples": ["As an arctophil, he enjoys winter."],
+"collocations": ["true arctophil"],
+"synonyms": ["cold-lover"],
+"antonyms": ["heat-lover"],
+"register": "formal",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arctophile",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "someone who enjoys cold climates",
+"examples": ["She is an arctophile who prefers snow."],
+"collocations": ["winter arctophile"],
+"synonyms": ["cold enthusiast"],
+"antonyms": ["sun lover"],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arctophiles",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "people who enjoy cold climates",
+"examples": ["Arctophiles gather in northern regions."],
+"collocations": ["group of arctophiles"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arctophilia",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a love of cold or Arctic environments",
+"examples": ["His arctophilia led him north."],
+"collocations": ["strong arctophilia"],
+"synonyms": ["love of cold"],
+"antonyms": [],
+"register": "formal",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arctophilias",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of arctophilia",
+"examples": ["Different arctophilias exist."],
+"collocations": ["types of arctophilias"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arctophilies",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "plural form of arctophily",
+"examples": ["Their arctophilies vary."],
+"collocations": ["forms of arctophilies"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arctophilist",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a person who loves cold climates",
+"examples": ["The arctophilist enjoys icy weather."],
+"collocations": ["dedicated arctophilist"],
+"synonyms": ["arctophile"],
+"antonyms": [],
+"register": "formal",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arctophilists",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of arctophilist",
+"examples": ["Arctophilists thrive in winter."],
+"collocations": ["group of arctophilists"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arctophils",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of arctophil",
+"examples": ["Arctophils prefer cold habitats."],
+"collocations": ["many arctophils"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arctophily",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "the liking for cold climates",
+"examples": ["Arctophily is uncommon in warm countries."],
+"collocations": ["strong arctophily"],
+"synonyms": ["love of cold"],
+"antonyms": [],
+"register": "formal",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arctos",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a Greek root meaning bear or north",
+"examples": ["The word 'Arctic' comes from arctos."],
+"collocations": ["Greek arctos"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["linguistics"]
+}
+]
+},
+{
+"term": "arctosis",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a medical condition involving stiffness or rigidity",
+"examples": ["The patient showed signs of arctosis."],
+"collocations": ["symptoms of arctosis"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["medicine"]
+}
+]
+},
+{
+"term": "arctostaphylos",
+"kind": "proper_noun",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a genus of plants including manzanita",
+"examples": ["Arctostaphylos grows in dry areas."],
+"collocations": ["Arctostaphylos plant"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["biology"]
+}
+]
+},
+{
+"term": "arcturia",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "a medical term related to urinary conditions",
+"examples": ["Arcturia is rarely discussed."],
+"collocations": ["case of arcturia"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["medicine"]
+}
+]
+},
+{
+"term": "arcturus",
+"kind": "proper_noun",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "a bright star in the northern sky",
+"examples": ["Arcturus is visible in spring.", "They located Arcturus easily."],
+"collocations": ["star Arcturus", "bright Arcturus"],
+"synonyms": [],
+"antonyms": [],
+"register": null,
+"domain": ["astronomy"]
+}
+]
+},
+{
+"term": "arcual",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "adjective",
+"definition": "relating to an arch or curve",
+"examples": ["Arcual structures support the body."],
+"collocations": ["arcual structure"],
+"synonyms": ["arched"],
+"antonyms": ["straight"],
+"register": "formal",
+"domain": ["anatomy"]
+}
+]
+},
+{
+"term": "arcuale",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "an anatomical arch-like structure",
+"examples": ["The arcuale protects organs."],
+"collocations": ["vertebral arcuale"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["anatomy"]
+}
+]
+},
+{
+"term": "arcualia",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of arcuale structures",
+"examples": ["Arcualia are found in vertebrates."],
+"collocations": ["neural arcualia"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["anatomy"]
+}
+]
+},
+{
+"term": "arcuate",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "curved like a bow or arch",
+"examples": ["The leaf has an arcuate shape.", "Arcuate lines decorate the design."],
+"collocations": ["arcuate shape", "arcuate line", "arcuate structure"],
+"synonyms": ["curved", "arched"],
+"antonyms": ["straight"],
+"register": "formal",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arcuated",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "adjective",
+"definition": "having a curved form",
+"examples": ["The bridge is arcuated."],
+"collocations": ["arcuated design"],
+"synonyms": ["curved"],
+"antonyms": ["flat"],
+"register": "formal",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arcuately",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "adverb",
+"definition": "in a curved manner",
+"examples": ["The road bends arcuately."],
+"collocations": ["curve arcuately"],
+"synonyms": ["curvingly"],
+"antonyms": [],
+"register": "formal",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arcuation",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "the act of forming a curve",
+"examples": ["Arcuation occurs in design."],
+"collocations": ["process of arcuation"],
+"synonyms": ["curving"],
+"antonyms": ["straightening"],
+"register": "formal",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "arcuations",
+"kind": "word",
+"cefrLevel": null,
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of arcuation",
+"examples": ["The patterns show multiple arcuations."],
+"collocations": ["series of arcuations"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["general"]
+}
+]
+}
+]
+}

@@ -1,0 +1,461 @@
+```json
+{
+  "items": [
+    {
+      "term": "baromacrometer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An instrument that measures both atmospheric pressure and temperature.",
+          "examples": ["The baromacrometer provided accurate readings during the expedition."],
+          "collocations": ["precision baromacrometer", "scientific baromacrometer", "portable baromacrometer"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "meteorology"]
+        }
+      ]
+    },
+    {
+      "term": "barometer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An instrument that measures air pressure to predict weather.",
+          "examples": ["The barometer shows falling pressure, so rain is coming.", "He checked the barometer every morning.", "A mercury barometer is more accurate than digital ones."],
+          "collocations": ["mercury barometer", "aneroid barometer", "barometer reading", "falling barometer", "rising barometer", "digital barometer"],
+          "synonyms": ["pressure gauge"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["meteorology", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Something that indicates future trends or changes.",
+          "examples": ["Stock prices are a barometer of the economy.", "Consumer confidence is a barometer of economic health."],
+          "collocations": ["economic barometer", "political barometer", "social barometer"],
+          "synonyms": ["indicator", "gauge"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "barometers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barometer; instruments that measure air pressure.",
+          "examples": ["The lab has several barometers for comparison.", "Old barometers decorate the walls."],
+          "collocations": ["digital barometers", "mercury barometers", "anemoid barometers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["meteorology"]
+        }
+      ]
+    },
+    {
+      "term": "barometric",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or measured by atmospheric pressure.",
+          "examples": ["Barometric pressure is dropping rapidly.", "We monitor barometric changes daily."],
+          "collocations": ["barometric pressure", "barometric readings", "barometric changes", "barometric high", "barometric low"],
+          "synonyms": ["pressure-related"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["meteorology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "barometrical",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to measurement of atmospheric pressure; less common form of barometric.",
+          "examples": ["Barometrical instruments were used in early weather studies."],
+          "collocations": ["barometrical observations", "barometrical data"],
+          "synonyms": ["barometric"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["meteorology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "barometrically",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In terms of atmospheric pressure.",
+          "examples": ["Pressure varies barometrically with altitude."],
+          "collocations": ["measured barometrically"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "meteorology"]
+        }
+      ]
+    },
+    {
+      "term": "barometries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barometry; the science of measuring atmospheric pressure.",
+          "examples": ["Modern barometries use digital sensors."],
+          "collocations": ["advances in barometries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "barometrograph",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An instrument that automatically records atmospheric pressure changes.",
+          "examples": ["The barometrograph traced pressure over 24 hours."],
+          "collocations": ["automatic barometrograph", "digital barometrograph"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["meteorology", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "barometrography",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process or technique of recording atmospheric pressure.",
+          "examples": ["Barometrography has improved weather forecasting."],
+          "collocations": ["continuous barometrography"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["meteorology"]
+        }
+      ]
+    },
+    {
+      "term": "barometry",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The science or practice of measuring atmospheric pressure.",
+          "examples": ["Barometry is essential for aviation safety."],
+          "collocations": ["precise barometry", "digital barometry"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["meteorology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "barometz",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A mythical plant from Asian folklore said to grow wool-bearing lambs; also a type of fern.",
+          "examples": ["The barometz is a fascinating legend from medieval times."],
+          "collocations": ["legendary barometz", "vegetable barometz"],
+          "synonyms": ["scythian lamb"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["folklore", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "barometzes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of barometz; mythical plants with lamb-like growths.",
+          "examples": ["Stories of barometzes captivated explorers."],
+          "collocations": ["fabled barometzes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["folklore"]
+        }
+      ]
+    },
+    {
+      "term": "baromotor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A device or force that produces pressure, especially in machinery.",
+          "examples": ["The baromotor drives the hydraulic system."],
+          "collocations": ["pneumatic baromotor"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "baron",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A man who holds the lowest rank of British nobility.",
+          "examples": ["Lord Byron was made a baron.", "The baron hosted a grand ball."],
+          "collocations": ["Baron Rothschild", "red baron", "baron of the press", "Baron Munchausen"],
+          "synonyms": ["lord", "nobleman"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A powerful businessman or leader in a specific industry.",
+          "examples": ["He's a media baron with global influence.", "Oil barons control vast fortunes."],
+          "collocations": ["robber baron", "press baron", "oil baron", "steel baron", "beef baron"],
+          "synonyms": ["magnate", "tycoon"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "baronage",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The group of all barons; the nobility.",
+          "examples": ["The baronage advised the king on matters of state."],
+          "collocations": ["English baronage", "medieval baronage"],
+          "synonyms": ["nobility", "peerage"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        },
+        {
+          "pos": "noun",
+          "definition": "The rank or title of a baron.",
+          "examples": ["He inherited the baronage from his father."],
+          "collocations": ["ancient baronage"],
+          "synonyms": ["barony"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baronages",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baronage; groups of barons or their ranks.",
+          "examples": ["Historical records list various baronages."],
+          "collocations": ["feudal baronages"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baronduki",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baronduk; a type of ground squirrel.",
+          "examples": ["Baronduki inhabit the steppes of Central Asia."],
+          "collocations": ["Siberian baronduki"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "baroness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A woman who holds the title of baron, or the wife of a baron.",
+          "examples": ["The baroness attended the royal gala.", "She was elevated to baroness in her own right."],
+          "collocations": ["Baroness Thatcher", "Dowager Baroness"],
+          "synonyms": ["lady", "noblewoman"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "baronesses",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baroness; women holding the title of baron.",
+          "examples": ["Several baronesses sat in the House of Lords."],
+          "collocations": ["hereditary baronesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baronet",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A man who holds a hereditary title below baron but above knight.",
+          "examples": ["Sir Paul McCartney is not a baronet.", "The baronet owned a vast estate."],
+          "collocations": ["hereditary baronet", "Scottish baronet", "English baronet"],
+          "synonyms": ["Bt"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baronetage",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The rank or entire group of baronets.",
+          "examples": ["He was listed in the baronetage directory."],
+          "collocations": ["full baronetage", "Irish baronetage"],
+          "synonyms": ["baronets collectively"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baronetages",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baronetage; lists or groups of baronets.",
+          "examples": ["Various baronetages were published in the 19th century."],
+          "collocations": ["extinct baronetages"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baronetcies",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baronetcy; the title or rank of baronet.",
+          "examples": ["There are over a thousand baronetcies in the UK."],
+          "collocations": ["ancient baronetcies", "dormant baronetcies"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baronetcy",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The rank, title, or tenure of a baronet.",
+          "examples": ["He inherited the family baronetcy at age 21."],
+          "collocations": ["hereditary baronetcy", "Nova Scotia baronetcy"],
+          "synonyms": ["baronet's rank"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baroneted",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having been given the title of baronet.",
+          "examples": ["The newly baroneted gentleman was celebrated widely."],
+          "collocations": ["recently baroneted"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    }
+  ]
+}
+```

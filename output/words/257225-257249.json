@@ -1,0 +1,496 @@
+{
+  "items": [
+    {
+      "term": "nucleosides",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "sugar-containing molecules consisting of a nitrogenous base linked to a sugar (ribose or deoxyribose) that form the building blocks of nucleosides in DNA and RNA.",
+          "examples": [
+            "Nucleosides such as adenosine are components of RNA and energy-transfer molecules.",
+            "The pharmacist explained that nucleosides are precursors to nucleotides."
+          ],
+          "collocations": ["ribosyl nucleoside", "purine nucleoside", "pyrimidine nucleoside", "deoxyribonucleoside", "salvage pathway nucleosides"],
+          "synonyms": ["nucleoside molecule", "nucleoside base-ribose adduct"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "biochemistry", "medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucleosomal",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or composed of nucleosomes, the basic units of DNA packaging in chromosomes.",
+          "examples": [
+            "Nucleosomal DNA is wrapped around histone proteins.",
+            "Researchers study nucleosomal patterns to understand gene regulation."
+          ],
+          "collocations": ["nucleosomal DNA", "nucleosomal structure", "nucleosomal array"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "genetics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucleosome",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a unit of DNA wrapped around a core of histone proteins; the fundamental packing unit of chromatin.",
+          "examples": [
+            "A nucleosome consists of about 147 base pairs of DNA wrapped around histone proteins.",
+            "Nucleosomes help compact DNA inside the cell nucleus."
+          ],
+          "collocations": ["nucleosome core", "histone octamer", "DNA wrapped around nucleosome"],
+          "synonyms": ["core particle of chromatin"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "genetics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucleosomes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "multiple nucleosome units; the repeating structural units of chromatin.",
+          "examples": [
+            "During cell division, nucleosomes must be reorganized.",
+            "The spacing of nucleosomes affects gene accessibility."
+          ],
+          "collocations": ["nucleosome array", "nucleosome spacing", "beads-on-a-string"],
+          "synonyms": ["chromatin beads"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "genetics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucleosyntheses",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "processes by which nucleotides or nucleosides are synthesized in living organisms.",
+          "examples": [
+            "Nucleosyntheses are essential for DNA replication.",
+            "Disruptions in nucleosyntheses can lead to mutations."
+          ],
+          "collocations": ["nucleosynthetic pathway", "nucleosynthesis processes"],
+          "synonyms": ["biosynthetic nucleosynthesis processes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "biochemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucleosynthesis",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the production of new atomic nuclei in stars or the early universe; creation of elements from protons and neutrons.",
+          "examples": [
+            "Stellar nucleosynthesis creates elements like carbon and oxygen.",
+            "Primordial nucleosynthesis occurred shortly after the Big Bang."
+          ],
+          "collocations": ["stellar nucleosynthesis", "primordial nucleosynthesis", "nucleosynthesis theory"],
+          "synonyms": ["nuclear synthesis"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["astronomy", "physics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucleosynthetic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to nucleosynthesis or the production of new atomic nuclei.",
+          "examples": [
+            "Nucleosynthetic pathways determine which elements form in stars.",
+            "Researchers study nucleosynthetic yields in supernova remnants."
+          ],
+          "collocations": ["nucleosynthetic yields", "nucleosynthetic pathways"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["astronomy", "physics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucleotidase",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an enzyme that catalyzes the hydrolysis of nucleotides to nucleosides and phosphates.",
+          "examples": [
+            "Nucleotidase activity helps recycle nucleotides in the cell.",
+            "Inhibitors of nucleotidase can affect nucleotide metabolism."
+          ],
+          "collocations": ["nucleotidase enzyme", "cytosolic nucleotidase"],
+          "synonyms": ["5'-nucleotidase" ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "biochemistry", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "nucleotidases",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "enzymes that break down nucleotides by removing phosphate groups.",
+          "examples": [
+            "Nucleotidases regulate nucleotide pools in cells.",
+            "Altered nucleotidase activity can impact energy transfer."
+          ],
+          "collocations": ["cytosolic nucleotidases", "membrane nucleotidases"],
+          "synonyms": ["5'-nucleotidases"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "biochemistry", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "nucleotide",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a molecule that serves as a building block of DNA and RNA, consisting of a sugar, a phosphate group, and a nitrogenous base.",
+          "examples": [
+            "DNA is made from repeating nucleotides.",
+            "Energy molecules like ATP are nucleotides."
+          ],
+          "collocations": ["adenine nucleotide", "nucleotide sequence", "deoxyribonucleotide"],
+          "synonyms": ["nucleoside triphosphate (contextual)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "genetics", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "nucleotides",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "the basic units of nucleic acids, consisting of a sugar, a phosphate, and a base; link together to form DNA or RNA strands.",
+          "examples": [
+            "DNA strands are made of lots of nucleotides.",
+            "Mutations can change a single nucleotide."
+          ],
+          "collocations": ["DNA nucleotides", "RNA nucleotides", "nucleotide sequence"],
+          "synonyms": ["nucleotides (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "genetics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucleus",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the central part of a cell that contains the genetic material; also a central or most important part of something.",
+          "examples": [
+            "The nucleus contains most of the cell's DNA.",
+            "The project is the nucleus of the company’s new strategy."
+          ],
+          "collocations": ["cell nucleus", "nucleus of the atom (physics)", "hidden nucleus (figurative)"],
+          "synonyms": ["core", "center"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "science", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "nucleuses",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "plural of nucleus; multiple central parts or centers within objects or organisms.",
+          "examples": [
+            "The cells had several nucleuses observed under the microscope.",
+            "Different cores act as nucleuses for the project."
+          ],
+          "collocations": ["cell nuclei (plural prior usage)", "nuclear nuclei (rare)"],
+          "synonyms": ["cores", "centers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nuclide",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a species of a chemical element that has a distinct number of protons and neutrons, i.e., a particular atomic nucleus.",
+          "examples": [
+            "Molybdenum-99 is a nuclide used in medical imaging.",
+            "Different nuclides of the same element have different masses."
+          ],
+          "collocations": ["radioactive nuclide", "stable nuclide", "isotopic nuclide"],
+          "synonyms": ["nuclide species"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["chemistry", "physics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nuclides",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "different species of atomic nuclei defined by number of protons and neutrons.",
+          "examples": [
+            "Various nuclides of uranium have different half-lives.",
+            "Nuclear chemistry studies nuclides and their reactions."
+          ],
+          "collocations": ["isotopic nuclides", "radioactive nuclides"],
+          "synonyms": ["nuclide variants"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["chemistry", "physics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nuclidic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to nuclides or nuclei; having to do with atomic nuclei and their properties.",
+          "examples": [
+            "Nuclidic stability affects isotope abundance.",
+            "Nuclidic data are used in nuclear physics."
+          ],
+          "collocations": ["nuclidic composition", "nuclidic mass"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["physics", "chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucula",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small genus of brachiopods or a taxonomic term; also a botanical Latin name; appears in some contexts as a rare or archaic term.",
+          "examples": [
+            "The fossil bore a nucula shell.",
+            "Nucula is occasionally used in historical texts for certain shells."
+          ],
+          "collocations": ["Nucula shell", "genus Nucula"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["biology", "paleontology", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "nuculacea",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a taxonomic grouping (family Nuculacea) referring to certain bivalve molluscs; in some classifications used in paleontology.",
+          "examples": [
+            "Fossils from nuculacean families reveal ancient marine life."
+          ],
+          "collocations": ["Nuculacea family"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "paleontology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nuculane",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a historical or rare term; could refer to a plant or biochemical compound in older literature; not common in modern standard usage.",
+          "examples": [
+            "The text mentions nuculane in ancient recipes."
+          ],
+          "collocations": ["nuculane compound"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "history", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nuculania",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rarely used or historical term; may appear as a proper name or obscure taxonomic reference.",
+          "examples": [
+            "References to nuculania are found in old fossil records."
+          ],
+          "collocations": ["nuculania reference"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["biology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "nuculanium",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an obscure or historical term; may denote a mineral or botanical name in older texts.",
+          "examples": [
+            "Nuculanium appears in limited historical literature."
+          ],
+          "collocations": ["nuculanium species"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucule",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a minor or obsolete term; may refer to small structures in plant anatomy or a small nucleus-like unit in some contexts.",
+          "examples": [
+            "The nucule was described in the old botany text."
+          ],
+          "collocations": ["nucule structure"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["botany", "biology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "nucules",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun (plural)",
+          "definition": "rare or historical term; may refer to small structures or units; not common in modern usage.",
+          "examples": [
+            "The manuscript mentions nucules as tiny components."
+          ],
+          "collocations": ["nucule-like nucules"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "biology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "nuculid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or resembling a nucule or nucleus; used in specialized contexts.",
+          "examples": [
+            "The nuculid feature was described in the crustacean anatomy text."
+          ],
+          "collocations": ["nuculid feature"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["biology", "anatomy", "history"]
+        }
+      ]
+    },
+    {
+      "term": "nuculidae",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a family name (Nuculidae) in biology, often referring to a group of small marine bivalves.",
+          "examples": [
+            "Researchers studied the fossils of Nuculidae."
+          ],
+          "collocations": ["Nuculidae family"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "paleontology", "science"]
+        }
+      ]
+    }
+  ]
+}

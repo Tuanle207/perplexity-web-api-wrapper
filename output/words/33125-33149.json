@@ -1,0 +1,394 @@
+```json
+{
+  "items": [
+    {
+      "term": "barfs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "vomits or throws up.",
+          "examples": ["The dog barfs on the carpet every time it eats grass.", "He drank too much and barfs in the bathroom."],
+          "collocations": ["barfs up", "stomach barfs", "barfs all over", "makes someone barf"],
+          "synonyms": ["vomits", "pukes", "throws up"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "barfy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "feeling like vomiting; nauseous.",
+          "examples": ["That smell makes me feel barfy.", "She woke up feeling barfy after the bad food."],
+          "collocations": ["feel barfy", "look barfy", "get barfy", "make barfy"],
+          "synonyms": ["nauseous", "queasy", "sick"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bargain",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "something bought or offered for a low price; a good deal.",
+          "examples": ["I got this shirt for a bargain at the market.", "It's a real bargain at half price."],
+          "collocations": ["good bargain", "real bargain", "great bargain", "bargain price", "snapped up a bargain"],
+          "synonyms": ["deal", "steal", "buy"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "business"]
+        },
+        {
+          "pos": "noun",
+          "definition": "an agreement between people.",
+          "examples": ["They made a bargain to share the work.", "It's a bargain between the two countries."],
+          "collocations": ["make a bargain", "keep a bargain", "strike a bargain", "fair bargain"],
+          "synonyms": ["agreement", "deal", "pact"],
+          "antonyms": ["disagreement"],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to negotiate the price of something.",
+          "examples": ["Can we bargain over the price?", "She bargains hard at the flea market."],
+          "collocations": ["bargain for", "bargain over", "bargain with", "hard bargain"],
+          "synonyms": ["negotiate", "haggle"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "business"]
+        }
+      ]
+    },
+    {
+      "term": "bargainable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be bargained over, especially price.",
+          "examples": ["These prices are bargainable if you ask.", "The terms are not bargainable."],
+          "collocations": ["prices bargainable", "terms bargainable", "not bargainable"],
+          "synonyms": ["negotiable"],
+          "antonyms": ["fixed"],
+          "register": "null",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bargained",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bargain: negotiated a price or deal.",
+          "examples": ["She bargained the price down to $10.", "We bargained for hours before agreeing."],
+          "collocations": ["bargained down", "bargained hard", "bargained with", "bargained over"],
+          "synonyms": ["negotiated", "haggled"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "business"]
+        }
+      ]
+    },
+    {
+      "term": "bargainee",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is promised something in a bargain (legal term).",
+          "examples": ["The bargainee receives the goods upon payment.", "The contract names the bargainee clearly."],
+          "collocations": ["named bargainee", "rights of bargainee"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bargainer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who bargains or negotiates.",
+          "examples": ["She's a tough bargainer in the market.", "The union bargainer got a good deal."],
+          "collocations": ["tough bargainer", "good bargainer", "hard bargainer", "chief bargainer"],
+          "synonyms": ["negotiator", "haggler"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bargainers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bargainer: people who negotiate.",
+          "examples": ["The bargainers met to discuss terms.", "Local bargainers haggled over prices."],
+          "collocations": ["team of bargainers", "main bargainers"],
+          "synonyms": ["negotiators"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bargaining",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of negotiating an agreement.",
+          "examples": ["Collective bargaining is key in unions.", "Bargaining starts at noon."],
+          "collocations": ["collective bargaining", "bargaining power", "bargaining table", "hard bargaining", "plea bargaining"],
+          "synonyms": ["negotiation", "haggling"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business", "law"]
+        },
+        {
+          "pos": "noun",
+          "definition": "discussion to reach a deal on price.",
+          "examples": ["Bargaining is common in markets.", "No bargaining allowed in this store."],
+          "collocations": ["market bargaining", "price bargaining"],
+          "synonyms": ["haggling"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bargainings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bargainor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who makes a bargain or promise (legal term).",
+          "examples": ["The bargainor must deliver the item.", "Contract signed by the bargainor."],
+          "collocations": ["duties of bargainor"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bargains",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bargain: good deals or agreements.",
+          "examples": ["The store has many bargains today.", "They struck several bargains."],
+          "collocations": ["great bargains", "special bargains", "hunt bargains"],
+          "synonyms": ["deals"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "business"]
+        }
+      ]
+    },
+    {
+      "term": "bargainwise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bargander",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "barganders",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "barge",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a long flat boat used on rivers and canals for carrying goods.",
+          "examples": ["The barge carried coal down the river.", "We saw a barge full of cargo."],
+          "collocations": ["river barge", "cargo barge", "barge pole", "canal barge"],
+          "synonyms": ["flatboat"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["transport"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to move forcefully or rudely into a place.",
+          "examples": ["He barged into the room without knocking.", "Don't barge in on our meeting."],
+          "collocations": ["barge in", "barge past", "barge through", "barge into"],
+          "synonyms": ["push", "butt in"],
+          "antonyms": ["slip in"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bargeboard",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a board along the edge of a gabled roof.",
+          "examples": ["The bargeboard was carved with patterns.", "Paint the bargeboard to match the house."],
+          "collocations": ["decorative bargeboard", "roof bargeboard"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "bargeboards",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bargeboard: boards on roof edges.",
+          "examples": ["The bargeboards need repair.", "Old bargeboards often have designs."],
+          "collocations": ["pair of bargeboards"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "barged",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of barge: moved in forcefully.",
+          "examples": ["She barged through the door angrily.", "He barged past the crowd."],
+          "collocations": ["barged in", "barged through"],
+          "synonyms": ["pushed", "shoved"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bargee",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who works on a barge (mainly British).",
+          "examples": ["The bargee steered the boat down the canal.", "Old bargees tell great stories."],
+          "collocations": ["canal bargee"],
+          "synonyms": ["barge worker"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["transport"]
+        }
+      ]
+    },
+    {
+      "term": "bargeer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bargees",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bargee: barge workers.",
+          "examples": ["The bargees loaded the cargo quickly.", "Local bargees know the river well."],
+          "collocations": ["group of bargees"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["transport"]
+        }
+      ]
+    },
+    {
+      "term": "bargeese",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bargehouse",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a house or warehouse near a river for barge loading.",
+          "examples": ["The bargehouse stored goods by the dock.", "Old bargehouses line the canal."],
+          "collocations": ["riverside bargehouse"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["architecture", "transport"]
+        }
+      ]
+    }
+  ]
+}
+```

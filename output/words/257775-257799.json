@@ -1,0 +1,585 @@
+{
+  "items": [
+    {
+      "term": "nutrients",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "substances that provide nourishment essential for growth, health, and maintenance",
+          "examples": [
+            "Vitamins and minerals are important nutrients.",
+            "Protein is a key nutrient for muscle repair."
+          ],
+          "collocations": [
+            "essential nutrients",
+            "nutrients in food",
+            "daily nutrient intake",
+            "vitamins and nutrients"
+          ],
+          "synonyms": [" nourishment factors", "nutritive substances"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general", "health", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "nutrify",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to enrich or supply with nutrients",
+          "examples": [
+            "The soil was nutrified with compost.",
+            "Aimed to nutrify the soil before planting."
+          ],
+          "collocations": [
+            "nutrify the soil",
+            "nutrify water",
+            "nutrify the soil base"
+          ],
+          "synonyms": ["enrich", "nourish", "fertilize"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["agriculture", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "nutrigenetics",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study of how genetic variation affects nutrient metabolism and dietary responses",
+          "examples": [
+            "Nutrigenetics explores why some people respond differently to the same diet.",
+            "Advances in nutrigenetics may tailor personalized nutrition plans."
+          ],
+          "collocations": [
+            "nutrigenetics research",
+            "personalized nutrition",
+            "diet and nutrigenetics"
+          ],
+          "synonyms": ["genetic nutrition science"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "biomedical", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "nutrilite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a brand name commonly associated with dietary supplements",
+          "examples": [
+            "She buys Nutrilite vitamins from the catalog.",
+            "Nutrilite products are marketed as nutritional supplements."
+          ],
+          "collocations": [
+            "Nutrilite vitamins",
+            "Nutrilite supplements",
+            "Nutrilite brand"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["commerce", "health", "branding"]
+        }
+      ]
+    },
+    {
+      "term": "nutriment",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance that provides nourishment or sustenance",
+          "examples": [
+            "Milk is a nutriment rich in calcium.",
+            "Her meals contained several nutriments essential for growth."
+          ],
+          "collocations": [
+            "nutriment source",
+            "basic nutriment",
+            "nutriment and energy"
+          ],
+          "synonyms": ["nutrient", "nourishment"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "nutrimental",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or providing nutrients; nourishing",
+          "examples": [
+            "The nutrimental value of the food is high.",
+            "A nutrimental analysis was performed on the sample."
+          ],
+          "collocations": [
+            "nutrimental value",
+            "nutrimental content",
+            "nutrimental analysis"
+          ],
+          "synonyms": ["nutritive", "nutrimental"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["nutrition", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nutriments",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "substances that provide nourishment; nutrients",
+          "examples": [
+            "The plant collected nutriments from the soil.",
+            "They discussed the nutriments needed for healthy growth."
+          ],
+          "collocations": [
+            "essential nutriments",
+            "nutriments in soil",
+            "dietary nutriments"
+          ],
+          "synonyms": ["nutrients", "nourishment"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "biology", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "nutritial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "likely a misspelling of nutritious or nutritional; should be treated as a nonstandard form",
+          "examples": [
+            "Note: nutritial is usually considered a misspelling of nutritious."
+          ],
+          "collocations": [
+            "nutritial value",
+            "nutritial content"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "nutrition",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of providing or obtaining the food necessary for health and growth",
+          "examples": [
+            "Good nutrition is important for children.",
+            "Nutrition scientists study how diet affects health."
+          ],
+          "collocations": [
+            "good nutrition",
+            "nutritional needs",
+            "nutrition facts",
+            "diet and nutrition"
+          ],
+          "synonyms": ["diet science", "nutrition science"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nutritional",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to nutrition or the nutrients in food",
+          "examples": [
+            "They discussed the nutritional value of the meal.",
+            "A nutritional label shows calories per serving."
+          ],
+          "collocations": [
+            "nutritional value",
+            "nutritional label",
+            "nutritional needs",
+            "nutritional information"
+          ],
+          "synonyms": ["nutritive"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "food", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nutritionally",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that relates to nutrition or to a healthy diet",
+          "examples": [
+            "The product is nutritionally balanced.",
+            "They eat meals that are nutritionally complete."
+          ],
+          "collocations": [
+            "nutritionally balanced",
+            "nutritionally complete",
+            "nutritionally rich"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "nutritionary",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to nutrition; rarely used; more common term is nutritional",
+          "examples": [
+            "A nutritionary assessment was performed."
+          ],
+          "collocations": [
+            "nutritionary data",
+            "nutritionary study"
+          ],
+          "synonyms": ["nutritional"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["health", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nutritionist",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person trained to give advice about diet and nutrition",
+          "examples": [
+            "The nutritionist helped plan a balanced meals plan.",
+            "She consulted a nutritionist for her dietary needs."
+          ],
+          "collocations": [
+            "registered nutritionist",
+            "nutritionist appointment",
+            "nutritionist advice"
+          ],
+          "synonyms": ["dietitian", "food expert"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "careers"]
+        }
+      ]
+    },
+    {
+      "term": "nutritionists",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nutritionist; multiple professionals who advise on diet",
+          "examples": [
+            "Many nutritionists work in hospitals.",
+            "Two nutritionists presented at the conference."
+          ],
+          "collocations": [
+            "nutritionists and dietitians",
+            "meeting of nutritionists",
+            "consulting nutritionists"
+          ],
+          "synonyms": ["dietitians", "nutrition experts"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "careers"]
+        }
+      ]
+    },
+    {
+      "term": "nutritions",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "uncommon plural; more standard term is nutrients or nutrition",
+          "examples": [
+            "Textbooks rarely use nutritions; they usually say nutrients."
+          ],
+          "collocations": [
+            "daily nutritions"
+          ],
+          "synonyms": ["nutrients", "nutrition"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["language"]
+        }
+      ]
+    },
+    {
+      "term": "nutritious",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "providing nourishment; healthy to eat",
+          "examples": [
+            "An apple is nutritious.",
+            "They prepared nutritious meals for the week."
+          ],
+          "collocations": [
+            "nutritious meal",
+            "nutritious food",
+            "nutritious diet"
+          ],
+          "synonyms": ["healthy", "nourishing", "wholesome"],
+          "antonyms": ["unhealthy", "unnutritious"],
+          "register": "neutral",
+          "domain": ["food", "health"]
+        }
+      ]
+    },
+    {
+      "term": "nutritiously",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that provides good nutrition or is healthy to eat",
+          "examples": [
+            "They ate nutritiously to feel more energetic.",
+            "The diet was designed to be nutritionally balanced."
+          ],
+          "collocations": [
+            "eat nutritiously",
+            "live nutritiously",
+            "nutritionally balanced"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "diet"]
+        }
+      ]
+    },
+    {
+      "term": "nutritiousness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being nutritious; the degree to which something provides nourishment",
+          "examples": [
+            "The nutritiousness of the stew impressed the doctor."
+          ],
+          "collocations": [
+            "levels of nutritiousness",
+            "nutritiousness rating"
+          ],
+          "synonyms": ["nutritivity"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["nutrition", "food"]
+        }
+      ]
+    },
+    {
+      "term": "nutritiousnesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nutritiousness; rarely used",
+          "examples": [
+            "Discussing nutritiousnesses in various foods can be complex."
+          ],
+          "collocations": [
+            "nutritiousnesses of foods"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["nutrition", "food"]
+        }
+      ]
+    },
+    {
+      "term": "nutritive",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "providing nourishment; nourishing",
+          "examples": [
+            "These seeds are nutritive for the plant.",
+            "They added nutritive ingredients to the soup."
+          ],
+          "collocations": [
+            "nutritive value",
+            "nutritive content",
+            "nutritive substances"
+          ],
+          "synonyms": ["nutrimental", "nutrient-rich"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nutrition", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "nutritively",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that provides nourishment",
+          "examples": [
+            "Fruit is nutritively rich compared to some snacks."
+          ],
+          "collocations": [
+            "nutritively valuable",
+            "nutritively beneficial"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nutrition", "food"]
+        }
+      ]
+    },
+    {
+      "term": "nutritiveness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of providing nourishment; usefulness for health",
+          "examples": [
+            "The nutritiveness of leafy greens is high."
+          ],
+          "collocations": [
+            "level of nutritiveness",
+            "nutritiveness of the diet"
+          ],
+          "synonyms": ["nutritional value"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["nutrition", "health"]
+        }
+      ]
+    },
+    {
+      "term": "nutritives",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "substances that provide nourishment; nutrients",
+          "examples": [
+            "The table listed the nutritives in the food."
+          ],
+          "collocations": [
+            "essential nutritives",
+            "nutritives in diet"
+          ],
+          "synonyms": ["nutrients"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nutrition", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "nutritory",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "pertaining to nourishment; nourishing",
+          "examples": [
+            "A nutritory diet supports growth."
+          ],
+          "collocations": [
+            "nutritory diet",
+            "nutritory foods"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "nutriture",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of nourishing; nutrition",
+          "examples": [
+            "The nutriture of the body depends on a balanced diet."
+          ],
+          "collocations": [
+            "state of nutriture",
+            "adequate nutriture"
+          ],
+          "synonyms": ["nutrition", "nourishment"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["health", "biology"]
+        }
+      ]
+    }
+  ]
+}

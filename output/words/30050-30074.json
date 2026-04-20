@@ -1,0 +1,471 @@
+```json
+{
+  "items": [
+    {
+      "term": "babasco",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A type of pepper plant from Central America with small, hot fruits.",
+          "examples": ["Farmers grow babasco in Mexico for its spicy peppers.", "The babasco adds heat to traditional dishes."],
+          "collocations": ["babasco pepper", "babasco plant", "babasco fruit", "grow babasco", "babasco chili"],
+          "synonyms": ["chili pepper", "hot pepper"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany", "food", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "babassu",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A tall palm tree in Brazil that produces nuts used for oil.",
+          "examples": ["The babassu palm grows in the Amazon rainforest.", "Babassu oil is used in soaps and cosmetics."],
+          "collocations": ["babassu palm", "babassu nut", "babassu oil", "babassu tree", "babassu kernel"],
+          "synonyms": ["babassu palm", "orbignya"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany", "agriculture", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "babassus",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of babassu; multiple babassu palm trees or nuts.",
+          "examples": ["Villages collect babassus from the forest.", "The market sells babassus by the sack."],
+          "collocations": ["harvest babassus", "babassus nuts", "babassus palms", "process babassus"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "babasu",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant spelling of babassu; a Brazilian palm tree with oil-rich nuts.",
+          "examples": ["Babasu nuts are cracked for their oil.", "The babasu provides food and fuel locally."],
+          "collocations": ["babasu oil", "babasu nut", "babasu palm", "babasu kernel"],
+          "synonyms": ["babassu"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "babaylan",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A spiritual leader or shaman in pre-colonial Philippines, often female.",
+          "examples": ["The babaylan led rituals in ancient villages.", "Stories tell of the wise babaylan healing the sick."],
+          "collocations": ["female babaylan", "babaylan shaman", "babaylan ritual", "ancient babaylan"],
+          "synonyms": ["shaman", "healer", "priestess"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "anthropology", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "babaylanes",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of babaylan; multiple spiritual leaders in Filipino tradition.",
+          "examples": ["Babaylanes gathered for the ceremony.", "Legends mention babaylanes with special powers."],
+          "collocations": ["ancient babaylanes", "babaylanes healers", "village babaylanes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "babbage",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Charles Babbage, English mathematician and inventor of the early computer.",
+          "examples": ["Charles Babbage designed the Difference Engine.", "Babbage is called the father of the computer."],
+          "collocations": ["Charles Babbage", "Babbage engine", "Babbage computer", "Babbage analytical"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "technology", "biography"]
+        }
+      ]
+    },
+    {
+      "term": "babbelas",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "South African slang for hangover after drinking alcohol.",
+          "examples": ["He woke up with a bad babbelas.", "Too much wine left her with babbelas."],
+          "collocations": ["bad babbelas", "massive babbelas", "cure babbelas", "suffer babbelas"],
+          "synonyms": ["hangover", "hangover"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday", "informal"]
+        }
+      ]
+    },
+    {
+      "term": "babbie",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Scottish dialect for baby or small child.",
+          "examples": ["Look at the wee babbie sleeping.", "She carried her babbie in her arms."],
+          "collocations": ["wee babbie", "bonnie babbie", "poor babbie", "new babbie"],
+          "synonyms": ["baby", "infant"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "regional"]
+        }
+      ]
+    },
+    {
+      "term": "babbishly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a manner like a Babbitt; focused on business and material success.",
+          "examples": ["He spoke babbishly about profits.", "They lived babbishly, ignoring art."],
+          "collocations": ["talk babbishly", "act babbishly", "live babbishly"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "babbit",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant of Babbitt; a materialistic, conformist businessman.",
+          "examples": ["The babbit chased sales above all.", "Don't be a babbit, think creatively."],
+          "collocations": ["typical babbit", "true babbit", "modern babbit"],
+          "synonyms": ["Babbitt"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "babbitries",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of Babbitry; behaviors of materialistic conformists.",
+          "examples": ["His speeches were full of babbitries.", "The novel mocks suburban babbitries."],
+          "collocations": ["petty babbitries", "common babbitries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "babbitry",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Materialistic and conformist attitudes like those of a Babbitt.",
+          "examples": ["Babbitry defines suburban life here.", "The critic attacked corporate babbitry."],
+          "collocations": ["pure babbitry", "middle-class babbitry", "booster babbitry"],
+          "synonyms": ["conformism", "materialism"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["literary", "sociology"]
+        }
+      ]
+    },
+    {
+      "term": "babbitt",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A smug, materialistic businessman who conforms to middle-class values.",
+          "examples": ["He was a true Babbitt, loving cars and clubs.", "The story satirizes the Babbitt mentality."],
+          "collocations": ["true Babbitt", "typical Babbitt", "solid Babbitt"],
+          "synonyms": ["conformist", "philistine", "bourgeois"],
+          "antonyms": ["bohemian", "nonconformist"],
+          "register": null,
+          "domain": ["literary", "sociology"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A soft metal alloy used to reduce friction in machines.",
+          "examples": ["The engine uses babbitt bearings.", "Apply babbitt to the shaft."],
+          "collocations": ["babbitt metal", "babbitt bearing", "cast babbitt", "babbitt alloy"],
+          "synonyms": ["babbitt metal"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "babbitted",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Coated or lined with babbitt metal.",
+          "examples": ["The babbitted journal runs smoothly.", "Replace the babbitted sleeve."],
+          "collocations": ["babbitted bearing", "babbitted journal", "newly babbitted"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["engineering"]
+        }
+      ]
+    },
+    {
+      "term": "babbitter",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Person who applies babbitt metal to machine parts.",
+          "examples": ["Call the babbittter for the repair.", "The babbittter fixed the engine."],
+          "collocations": ["skilled babbittter", "experienced babbittter"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["engineering", "trade"]
+        }
+      ]
+    },
+    {
+      "term": "babbittess",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Female version of a Babbitt; conformist businesswoman.",
+          "examples": ["She was a babbittess in pearls.", "The club welcomed babbittesses too."],
+          "collocations": ["suburban babbittess", "social babbittess"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "babbittian",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to or like a Babbitt in attitudes.",
+          "examples": ["His babbittian views annoyed artists.", "Babbittian success stories fill magazines."],
+          "collocations": ["babbittian values", "babbittian lifestyle", "purely babbittian"],
+          "synonyms": ["conformist"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "babbitting",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Process of applying babbitt metal to bearings.",
+          "examples": ["Babbitting requires skill and heat.", "The shop specializes in babbitting."],
+          "collocations": ["bearing babbitting", "precision babbitting", "metal babbitting"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["engineering"]
+        }
+      ]
+    },
+    {
+      "term": "babbittism",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The attitudes or philosophy of a Babbitt; materialism and conformity.",
+          "examples": ["Babbittism rules the neighborhood.", "Critics decry modern babbittism."],
+          "collocations": ["pure babbittism", "rampant babbittism"],
+          "synonyms": ["conformism"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["literary", "sociology"]
+        }
+      ]
+    },
+    {
+      "term": "babbittries",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of Babbitry; instances of conformist behavior.",
+          "examples": ["The book exposes babbittries of the elite.", "Avoid such babbittries in life."],
+          "collocations": ["social babbittries", "petty babbittries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "babbittry",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant of Babbitry; smug materialism.",
+          "examples": ["Babbittry bores the intellectuals.", "He embraced babbittry fully."],
+          "collocations": ["crude babbittry", "classic babbittry"],
+          "synonyms": ["Babbitry"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "babbitts",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of Babbitt; materialistic conformists.",
+          "examples": ["Babbitts dominate the chamber of commerce.", "The party was full of babbitts."],
+          "collocations": ["club babbitts", "local babbitts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["literary"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Plural of babbitt; pieces of the anti-friction metal.",
+          "examples": ["Order new babbitts for the motor.", "The babbitts wore down quickly."],
+          "collocations": ["worn babbitts", "replacement babbitts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["engineering"]
+        }
+      ]
+    },
+    {
+      "term": "babblative",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Tending to babble or talk excessively.",
+          "examples": ["The babblative guest never stopped.", "Avoid babblative debates online."],
+          "collocations": ["babblative talker", "babblative chatter"],
+          "synonyms": ["talkative", "garrulous"],
+          "antonyms": ["taciturn"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "babble",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To talk rapidly and unclearly, often nonsense.",
+          "examples": ["Stop babbling and explain clearly.", "The baby babbles happily all day."],
+          "collocations": ["babble on", "babble excitedly", "babble nonsense", "babble incoherently"],
+          "synonyms": ["chatter", "prattle", "jabber"],
+          "antonyms": ["be quiet"],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Unclear or foolish talk.",
+          "examples": ["His speech was pure babble.", "Ignore the babble on social media."],
+          "collocations": ["mindless babble", "constant babble", "sheer babble"],
+          "synonyms": ["gibberish", "nonsense"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To make a continuous murmuring sound, like a stream.",
+          "examples": ["The brook babbles over stones.", "Water babbles in the fountain."],
+          "collocations": ["babble gently", "stream babbles", "brook babbles"],
+          "synonyms": ["gurgle", "murmur"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["nature"]
+        }
+      ]
+    }
+  ]
+}
+```

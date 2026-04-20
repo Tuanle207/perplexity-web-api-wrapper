@@ -1,0 +1,471 @@
+```json
+{
+  "items": [
+    {
+      "term": "barbarizations",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barbarization; acts of making something more barbaric or uncivilized.",
+          "examples": ["The barbarizations of the ancient texts shocked historians.", "Cultural barbarizations occurred during the invasion."],
+          "collocations": ["cultural barbarizations", "linguistic barbarizations", "historical barbarizations"],
+          "synonyms": ["degradations", "corruptions"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "barbarize",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something or someone barbaric or uncivilized.",
+          "examples": ["Invaders barbarized the once-great city.", "They barbarize language with slang."],
+          "collocations": ["barbarize language", "barbarize culture", "barbarize texts"],
+          "synonyms": ["degrade", "corrupt", "brutalize"],
+          "antonyms": ["civilize", "refine"],
+          "register": "formal",
+          "domain": ["academic", "history"]
+        }
+      ]
+    },
+    {
+      "term": "barbarized",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of barbarize; made barbaric.",
+          "examples": ["The library was barbarized by vandals.", "Their manners barbarized over time."],
+          "collocations": ["barbarized culture", "barbarized language", "barbarized ruins"],
+          "synonyms": ["degraded", "corrupted"],
+          "antonyms": ["civilized", "refined"],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "barbarizes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person of barbarize; makes barbaric.",
+          "examples": ["War barbarizes societies.", "He barbarizes every debate."],
+          "collocations": ["barbarizes language", "barbarizes customs"],
+          "synonyms": ["degrades", "brutalizes"],
+          "antonyms": ["civilizes"],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "barbarizing",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of barbarize; process of making barbaric.",
+          "examples": ["The barbarizing of art shocked critics.", "They are barbarizing old traditions."],
+          "collocations": ["barbarizing influence", "barbarizing process", "barbarizing effects"],
+          "synonyms": ["degrading", "corrupting"],
+          "antonyms": ["civilizing"],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "barbarous",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "cruel, brutal, or very uncivilized.",
+          "examples": ["The barbarous king executed prisoners.", "Barbarous customs still exist in some tribes.", "It was a barbarous act of violence."],
+          "collocations": ["barbarous act", "barbarous customs", "barbarous treatment", "barbarous behavior", "barbarous invasion"],
+          "synonyms": ["cruel", "brutal", "savage", "inhuman"],
+          "antonyms": ["civilized", "humane", "refined"],
+          "register": "formal",
+          "domain": ["general", "history"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "very bad or uncouth in manner or taste.",
+          "examples": ["His barbarous table manners embarrassed everyone.", "The barbarous painting offended viewers."],
+          "collocations": ["barbarous manners", "barbarous taste", "barbarous style"],
+          "synonyms": ["crude", "vulgar", "coarse"],
+          "antonyms": ["polished", "elegant"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarously",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a cruel, brutal, or uncivilized way.",
+          "examples": ["They treated captives barbarously.", "He spoke barbarously of his enemies."],
+          "collocations": ["treated barbarously", "act barbarously", "behave barbarously"],
+          "synonyms": ["brutally", "savagely", "cruelly"],
+          "antonyms": ["humanely", "civilizedly"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbarousness",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "quality of being cruel or uncivilized.",
+          "examples": ["The barbarousness of the regime was shocking.", "Historians debated the barbarousness of ancient wars."],
+          "collocations": ["sheer barbarousness", "cultural barbarousness"],
+          "synonyms": ["brutality", "savagery"],
+          "antonyms": ["civilization", "humanity"],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "barbarousnesses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barbarousness; instances of cruelty or uncivilization.",
+          "examples": ["The barbarousnesses of colonial rule are well-documented."],
+          "collocations": ["various barbarousnesses", "historical barbarousnesses"],
+          "synonyms": ["brutalities"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic"]
+        }
+      ]
+    },
+    {
+      "term": "barbary",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "historical region in North Africa associated with Barbary pirates.",
+          "examples": ["Ships feared Barbary corsairs.", "Barbary was a center of piracy."],
+          "collocations": ["Barbary Coast", "Barbary pirates", "Barbary States"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "barbas",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barba; beards (rare or dialectal).",
+          "examples": ["The barbas were long and unkempt."],
+          "collocations": ["flowing barbas"],
+          "synonyms": ["beards"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbasco",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "tropical plant used to stun or kill fish.",
+          "examples": ["Fishermen use barbasco roots.", "Barbasco is effective in shallow waters."],
+          "collocations": ["barbasco root", "barbasco poison", "barbasco fishing"],
+          "synonyms": ["fish poison"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany", "fishing"]
+        }
+      ]
+    },
+    {
+      "term": "barbascoes",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barbasco; plants used for fish poisoning.",
+          "examples": ["They gathered barbascoes from the riverbank."],
+          "collocations": ["various barbascoes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "barbascos",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barbasco; fish-stunning plants.",
+          "examples": ["Barbascos were thrown into the water."],
+          "collocations": ["wild barbascos"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "barbastel",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative spelling of barbastelle; a small European bat.",
+          "examples": ["The barbastel hung from the cave ceiling."],
+          "collocations": ["common barbastel"],
+          "synonyms": ["barbastelle"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["zoology"]
+        }
+      ]
+    },
+    {
+      "term": "barbastelle",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "small bat with frosted fur found in Europe and Asia.",
+          "examples": ["The barbastelle is a rare species.", "We spotted a barbastelle at dusk."],
+          "collocations": ["Western barbastelle", "barbastelle bat", "endangered barbastelle"],
+          "synonyms": ["barbastel"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["zoology"]
+        }
+      ]
+    },
+    {
+      "term": "barbastelles",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barbastelle; small bats.",
+          "examples": ["Barbastelles roost in trees."],
+          "collocations": ["colonies of barbastelles"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["zoology"]
+        }
+      ]
+    },
+    {
+      "term": "barbastels",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barbastel; bats.",
+          "examples": ["Barbastels flew overhead."],
+          "collocations": ["rare barbastels"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["zoology"]
+        }
+      ]
+    },
+    {
+      "term": "barbate",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a beard or tufts like a beard (technical).",
+          "examples": ["The barbate flower had tufted stamens."],
+          "collocations": ["barbate seeds", "barbate plants"],
+          "synonyms": ["bearded"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["botany", "zoology"]
+        }
+      ]
+    },
+    {
+      "term": "barbated",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "bearded or having beard-like tufts.",
+          "examples": ["The barbated insect had tufts on its legs."],
+          "collocations": ["barbated leaves"],
+          "synonyms": ["barbate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "barbatimao",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Brazilian tree used in traditional medicine.",
+          "examples": ["Barbatimao bark treats wounds."],
+          "collocations": ["barbatimao bark", "barbatimao extract"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "barbe",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "trimmed beard or part of armor covering the chin.",
+          "examples": ["He wore a neat barbe."],
+          "collocations": ["trimmed barbe"],
+          "synonyms": ["goatee"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "barbeau",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "French surname or type of fish.",
+          "examples": ["Barbeau is a common name in France."],
+          "collocations": ["Monsieur Barbeau"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "barbecue",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "outdoor meal where food is cooked over an open fire.",
+          "examples": ["We had a barbecue in the park.", "The family loves summer barbecues."],
+          "collocations": ["backyard barbecue", "family barbecue", "barbecue grill", "barbecue sauce", "summer barbecue"],
+          "synonyms": ["BBQ", "grill party"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "food"]
+        },
+        {
+          "pos": "noun",
+          "definition": "grill used for cooking food over fire.",
+          "examples": ["He cleaned the barbecue after dinner."],
+          "collocations": ["gas barbecue", "charcoal barbecue"],
+          "synonyms": ["grill"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to cook food on a barbecue grill.",
+          "examples": ["She barbecued chicken for the party.", "Let's barbecue some steaks tonight."],
+          "collocations": ["barbecue meat", "barbecue ribs", "barbecue outdoors"],
+          "synonyms": ["grill"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "barbecued",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of barbecue; cooked on a grill.",
+          "examples": ["We barbecued burgers last night.", "The barbecued ribs were delicious."],
+          "collocations": ["barbecued chicken", "barbecued meat", "freshly barbecued"],
+          "synonyms": ["grilled"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "cooked using a barbecue method.",
+          "examples": ["Serve hot barbecued pork."],
+          "collocations": ["barbecued ribs", "barbecued vegetables"],
+          "synonyms": ["grilled"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food"]
+        }
+      ]
+    }
+  ]
+}
+```

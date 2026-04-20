@@ -1,0 +1,451 @@
+```json
+{
+  "items": [
+    {
+      "term": "beatus",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Latin term meaning 'blessed' or 'happy', used in religious texts.",
+          "examples": ["The beatus is a title for saints in the Catholic Church.", "In the liturgy, 'beatus' refers to the blessed one."],
+          "collocations": ["beatus vir", "beatus martyr", "declaratio beatus"],
+          "synonyms": ["blessed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "beatuti",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of Latin 'beatus', meaning 'the blessed ones' in religious contexts.",
+          "examples": ["The beatuti are celebrated in heaven.", "Prayers invoke the beatuti."],
+          "collocations": ["beatuti Dei", "inter beatuti"],
+          "synonyms": ["blessed ones"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "beaty",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Resembling a beatnik or having qualities associated with beat culture.",
+          "examples": ["Her beaty style included berets and poetry.", "The café had a beaty vibe."],
+          "collocations": ["beaty poet", "beaty style", "beaty vibe"],
+          "synonyms": ["bohemian"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "beau",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A woman's boyfriend or male romantic partner.",
+          "examples": ["She went to the dance with her beau.", "He was her beau for two years."],
+          "collocations": ["handsome beau", "steady beau", "bring beau"],
+          "synonyms": ["boyfriend", "sweetheart", "suitor"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A dandy or fashionable man who pays much attention to his appearance.",
+          "examples": ["He dressed like a beau from the 18th century.", "The beau of the ball was elegantly attired."],
+          "collocations": ["young beau", "beau monde", "beau ideal"],
+          "synonyms": ["dandy", "fop"],
+          "antonyms": ["slob"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beauclerc",
+      "kind": "proper_noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "Surname or historical reference, notably Henry Beauclerc, King of England.",
+          "examples": ["Henry Beauclerc was known for his learning.", "The Beauclerc family has a long history."],
+          "collocations": ["Henry Beauclerc", "Beauclerc Tower"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "beauclerk",
+      "kind": "proper_noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "Variant spelling of Beauclerc, used as a surname.",
+          "examples": ["The Beauclerk title is associated with nobility.", "Lord Beauclerk attended the event."],
+          "collocations": ["Lord Beauclerk"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "beaucoup",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "Much or a lot; borrowed from French, used informally.",
+          "examples": ["Thanks beaucoup!", "She has beaucoup money.", "Beaucoup love to you."],
+          "collocations": ["beaucoup thanks", "beaucoup money", "beaucoup love"],
+          "synonyms": ["lots", "plenty", "much"],
+          "antonyms": ["little"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beaucoups",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural or informal variant of beaucoup, meaning lots.",
+          "examples": ["Send beaucoups of hugs.", "Beaucoups of fun ahead."],
+          "collocations": ["beaucoups of", "lots beaucoups"],
+          "synonyms": ["lots"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beaued",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of beau, meaning to court or escort as a beau.",
+          "examples": ["He beaued her to the party.", "She was beaued by the gentleman."],
+          "collocations": ["properly beaued", "sweetly beaued"],
+          "synonyms": ["escorted", "courted"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beauetry",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The practices or qualities of a beau; dandyism.",
+          "examples": ["His beauetry was evident in his attire.", "Beauetry defined the era's fashion."],
+          "collocations": ["pure beauetry", "practice beauetry"],
+          "synonyms": ["dandyism"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beaufet",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Archaic variant of buffet, a sideboard for serving food.",
+          "examples": ["The beaufet held fine china.", "They displayed silver on the beaufet."],
+          "collocations": ["mahogany beaufet", "dining beaufet"],
+          "synonyms": ["buffet", "sideboard"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["furniture"]
+        }
+      ]
+    },
+    {
+      "term": "beaufets",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beaufet, archaic sideboards.",
+          "examples": ["The hall had antique beaufets.", "Beaufets lined the walls."],
+          "collocations": ["antique beaufets"],
+          "synonyms": ["buffets"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["furniture"]
+        }
+      ]
+    },
+    {
+      "term": "beauffet",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant spelling of buffet or beaufet, meaning a sideboard.",
+          "examples": ["The beauffet was laden with dishes.", "Polished beauffet gleamed."],
+          "collocations": ["laden beauffet"],
+          "synonyms": ["sideboard"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["furniture"]
+        }
+      ]
+    },
+    {
+      "term": "beauffets",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of beauffet, sideboards.",
+          "examples": ["Several beauffets stood ready.", "Beauffets displayed finery."],
+          "collocations": ["ornate beauffets"],
+          "synonyms": ["sideboards"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["furniture"]
+        }
+      ]
+    },
+    {
+      "term": "beaufin",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Obsolete term for a fine fellow or beau.",
+          "examples": ["He was considered a beaufin in society.", "The beaufin charmed all."],
+          "collocations": ["proper beaufin"],
+          "synonyms": ["beau"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beaufins",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beaufin, fine fellows.",
+          "examples": ["The party had many beaufins.", "Beaufins gathered round."],
+          "collocations": ["jolly beaufins"],
+          "synonyms": ["beaus"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beaufort",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "Beaufort scale, a system measuring wind speed.",
+          "examples": ["The wind was Beaufort force 8.", "Check the Beaufort scale."],
+          "collocations": ["Beaufort scale", "Beaufort force"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["meteorology"]
+        },
+        {
+          "pos": "proper_noun",
+          "definition": "Surname or place name, like Beaufort Sea.",
+          "examples": ["The Beaufort family estate.", "Beaufort, South Carolina."],
+          "collocations": ["Beaufort Sea"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "beaugregories",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of beaugregory, a tropical marine fish.",
+          "examples": ["Beaugregories swam in the reef.", "Colorful beaugregories abound."],
+          "collocations": ["tropical beaugregories"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "fish"]
+        }
+      ]
+    },
+    {
+      "term": "beaugregory",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small, colorful tropical fish found in the Western Atlantic.",
+          "examples": ["The beaugregory darted among corals.", "Divers spotted a beaugregory."],
+          "collocations": ["blue beaugregory", "Caribbean beaugregory"],
+          "synonyms": ["damselfish"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "marine"]
+        }
+      ]
+    },
+    {
+      "term": "beauing",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of acting as a beau or courting.",
+          "examples": ["Beauing was his favorite pastime.", "She enjoyed his beauing."],
+          "collocations": ["proper beauing"],
+          "synonyms": ["courting"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beauish",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Characteristic of a beau; dandified.",
+          "examples": ["His beauish manners impressed.", "Beauish attire was the norm."],
+          "collocations": ["beauish elegance", "beauish charm"],
+          "synonyms": ["dandified"],
+          "antonyms": ["unkempt"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beauism",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The traits or practices of a beau.",
+          "examples": ["Beauism defined his lifestyle.", "Critics mocked the beauism."],
+          "collocations": ["excessive beauism"],
+          "synonyms": ["dandyism"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beaujolais",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A light red wine from the Beaujolais region of France.",
+          "examples": ["We ordered Beaujolais with dinner.", "Beaujolais is best served chilled."],
+          "collocations": ["Beaujolais nouveau", "glass of Beaujolais"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food", "wine"]
+        }
+      ]
+    },
+    {
+      "term": "beaujolaises",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of Beaujolaise, women from Beaujolais or related to its style.",
+          "examples": ["The Beaujolaises hosted the tasting.", "Beaujolaises wore traditional dress."],
+          "collocations": ["Beaujolaises winemakers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "beaume",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Beaumé scale, used to measure density of liquids like syrups.",
+          "examples": ["The syrup read 35° Beaumé.", "Check Beaumé for sugar content."],
+          "collocations": ["Beaumé scale", "degrees Beaumé"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "industry"]
+        }
+      ]
+    }
+  ]
+}
+```

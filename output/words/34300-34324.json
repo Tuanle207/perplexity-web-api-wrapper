@@ -1,0 +1,481 @@
+```json
+{
+  "items": [
+    {
+      "term": "bathcube",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A solid block of substance that dissolves in bath water to release fragrance, color, or bubbles.",
+          "examples": ["She dropped a bathcube into the tub for a relaxing soak.", "The bathcube fizzed and turned the water pink.", "Kids love the colorful bathcubes at the store."],
+          "collocations": ["lavender bathcube", "fizzy bathcube", "scented bathcube", "bath bomb bathcube", "homemade bathcube"],
+          "synonyms": ["bath bomb", "bath tablet"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "personal care"]
+        }
+      ]
+    },
+    {
+      "term": "bathcubes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bathcube; solid blocks that dissolve in bath water to add fragrance or bubbles.",
+          "examples": ["She bought several bathcubes for the weekend.", "The shelf was stocked with different bathcubes.", "The bathcubes came in various scents."],
+          "collocations": ["scented bathcubes", "fizzy bathcubes", "colorful bathcubes"],
+          "synonyms": ["bath bombs"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "personal care"]
+        }
+      ]
+    },
+    {
+      "term": "bathe",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To wash your body with soap and water, usually in a bath or shower.",
+          "examples": ["I bathe every morning before work.", "The baby loves to bathe in the tub.", "She bathes her dog once a month."],
+          "collocations": ["bathe daily", "warm bath", "bathe the baby", "bathe in the sea", "bathe regularly"],
+          "synonyms": ["wash", "shower"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To go swimming or spend time in water, especially the sea, lake, or river.",
+          "examples": ["We bathed in the ocean all afternoon.", "People bathe in the lake during summer.", "The children bathed in the pool."],
+          "collocations": ["bathe in the sea", "bathe in sunlight", "bathe in the river", "bathe naked"],
+          "synonyms": ["swim", "wade"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "leisure"]
+        }
+      ]
+    },
+    {
+      "term": "batheable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Able to be bathed or suitable for bathing.",
+          "examples": ["The new swimsuit is batheable and quick-drying.", "This fabric is batheable without damage.", "The pool is clean and batheable."],
+          "collocations": ["batheable water", "batheable material", "safe batheable area"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bathed",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of bathe; washed the body or swam.",
+          "examples": ["She bathed the children before bed.", "We bathed in the lake yesterday.", "He bathed in warm water after the game."],
+          "collocations": ["bathed daily", "bathed the baby", "bathed in sunlight"],
+          "synonyms": ["washed", "swam"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Covered or surrounded by something like light, color, or liquid.",
+          "examples": ["The room was bathed in soft light.", "The valley was bathed in golden sunlight.", "Her face was bathed in tears."],
+          "collocations": ["bathed in light", "bathed in sweat", "bathed in moonlight", "bathed in glory"],
+          "synonyms": ["covered", "immersed"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "bather",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who washes their body in a bath or shower.",
+          "examples": ["The bather slipped on the wet floor.", "Early bathers finish quickly.", "She is a careful bather."],
+          "collocations": ["early bather", "frequent bather", "careful bather"],
+          "synonyms": ["washer"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A person who swims or goes into water for pleasure.",
+          "examples": ["The beach was full of bathers.", "Nude bathers were allowed on that part of the shore.", "The bathers enjoyed the waves."],
+          "collocations": ["beach bather", "nude bather", "sunbathing bather"],
+          "synonyms": ["swimmer"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["leisure"]
+        }
+      ]
+    },
+    {
+      "term": "bath ers",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bather; people who wash or swim.",
+          "examples": ["The bathers crowded the pool.", "Many bathers visited the spa.", "The bathers dried off after swimming."],
+          "collocations": ["beach bathers", "pool bathers", "morning bathers"],
+          "synonyms": ["swimmers"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "leisure"]
+        }
+      ]
+    },
+    {
+      "term": "bathes",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bath; acts of washing the body.",
+          "examples": ["She takes two bathes a day.", "Hot bathes help me relax.", "The hotel offers free bathes."],
+          "collocations": ["daily bathes", "hot bathes", "morning bathes"],
+          "synonyms": ["washes"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Third person singular of bathe; he/she/it washes or swims.",
+          "examples": ["She bathes every evening.", "He bathes the dog weekly.", "The cat bathes itself."],
+          "collocations": ["bathes daily", "bathes in the sea", "bathes the children"],
+          "synonyms": ["washes"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bathetic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Containing bathos; a sudden change from something important or exciting to something ordinary or unimportant.",
+          "examples": ["The speech ended on a bathetic note.", "His bathetic attempt at romance failed.", "The story's bathetic twist disappointed readers."],
+          "collocations": ["bathetic fall", "bathetic anticlimax", "bathetic ending", "bathetic sentiment"],
+          "synonyms": ["anticlimactic", "trite"],
+          "antonyms": ["sublime", "exalted"],
+          "register": "formal",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "bathetically",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a way that shows bathos; abruptly shifting from noble to trivial.",
+          "examples": ["The hero spoke bathetically of glory and then pizza.", "She concluded bathetically with talk of groceries.", "The poem ends bathetically."],
+          "collocations": ["ended bathetically", "concluded bathetically", "shifted bathetically"],
+          "synonyms": ["anticlimactically"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "bathflower",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A plant or flower associated with bathing or used in bath products.",
+          "examples": ["The bathflower scented the water naturally.", "She added bathflower petals to her tub.", "Bathflower essences are popular in spas."],
+          "collocations": ["dried bathflower", "bathflower petals", "bathflower oil"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["personal care"]
+        }
+      ]
+    },
+    {
+      "term": "bathhouse",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A building with baths for communal washing or swimming.",
+          "examples": ["The old bathhouse was restored for tourists.", "We visited the public bathhouse in the town.", "The bathhouse was crowded on weekends."],
+          "collocations": ["public bathhouse", "Turkish bathhouse", "Roman bathhouse", "communal bathhouse"],
+          "synonyms": ["baths", "sauna"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["leisure", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bathhouses",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bathhouse; buildings for communal bathing.",
+          "examples": ["Several bathhouses lined the river.", "Ancient bathhouses attracted visitors.", "The bathhouses offered hot springs."],
+          "collocations": ["public bathhouses", "historic bathhouses", "local bathhouses"],
+          "synonyms": ["baths"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["leisure"]
+        }
+      ]
+    },
+    {
+      "term": "bathic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to depth, especially in oceanography.",
+          "examples": ["Bathic zones vary in pressure.", "The bathic layer supports unique life.", "Bathic exploration requires special equipment."],
+          "collocations": ["bathic zone", "bathic depth", "bathic environment"],
+          "synonyms": ["abyssal"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "oceanography"]
+        }
+      ]
+    },
+    {
+      "term": "bathinette",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A portable folding bathtub for babies.",
+          "examples": ["She bought a bathinette for travel.", "The bathinette folds flat for storage.", "Babies love the bathinette."],
+          "collocations": ["portable bathinette", "folding bathinette", "baby bathinette"],
+          "synonyms": ["baby bath"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["parenting", "personal care"]
+        }
+      ]
+    },
+    {
+      "term": "bathing",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of washing the body with water.",
+          "examples": ["Bathing is important for hygiene.", "Evening bathing helps me relax.", "The spa offers bathing facilities."],
+          "collocations": ["daily bathing", "morning bathing", "ritual bathing"],
+          "synonyms": ["washing"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Used for washing the body.",
+          "examples": ["Bathing suits are on sale.", "We need bathing caps for the pool.", "Bathing area is closed today."],
+          "collocations": ["bathing suit", "bathing cap", "bathing area"],
+          "synonyms": ["swimming"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["leisure"]
+        }
+      ]
+    },
+    {
+      "term": "bathings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Multiple acts of bathing.",
+          "examples": ["The temple rituals include several bathings.", "Daily bathings keep skin clean.", "Ceremonial bathings are traditional."],
+          "collocations": ["ritual bathings", "daily bathings", "ceremonial bathings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bathkol",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "In Jewish tradition, a heavenly or divine voice that delivers a divine message.",
+          "examples": ["The bathkol announced the decision.", "Rabbis awaited the bathkol.", "Legends mention the bathkol speaking."],
+          "collocations": ["heavenly bathkol", "divine bathkol", "prophetic bathkol"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "judaism"]
+        }
+      ]
+    },
+    {
+      "term": "bathless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Without a bath or not involving bathing.",
+          "examples": ["The bathless apartment had only a shower.", "A bathless routine means quick showers.", "They live in a bathless home."],
+          "collocations": ["bathless bathroom", "bathless home", "bathless travel"],
+          "synonyms": ["shower-only"],
+          "antonyms": ["bathed"],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bathman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A man whose job is to attend to bathers or manage baths.",
+          "examples": ["The bathman prepared the hot water.", "Call the bathman for towels.", "The bathman worked at the spa."],
+          "collocations": ["hotel bathman", "spa bathman", "public bathman"],
+          "synonyms": ["bath attendant"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["leisure"]
+        }
+      ]
+    },
+    {
+      "term": "bathmat",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A mat placed on the floor near a bathtub or shower to prevent slipping.",
+          "examples": ["Step on the bathmat after showering.", "The bathmat absorbs water well.", "I need a new bathmat."],
+          "collocations": ["non-slip bathmat", "rubber bathmat", "bathroom bathmat"],
+          "synonyms": ["bath rug"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "home"]
+        }
+      ]
+    },
+    {
+      "term": "bathmats",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bathmat; mats used beside baths.",
+          "examples": ["We bought two bathmats for the bathrooms.", "The store sells colorful bathmats.", "Replace old bathmats regularly."],
+          "collocations": ["non-slip bathmats", "cotton bathmats", "large bathmats"],
+          "synonyms": ["bath rugs"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bathmic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to the measurement of depth or steps.",
+          "examples": ["Bathmic scales measure ocean depths.", "The bathmic method is precise.", "Bathmic data informs navigation."],
+          "collocations": ["bathmic measurement", "bathmic scale", "bathmic depth"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "bathmism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The theory or study of the development of steps or stages in evolution.",
+          "examples": ["Bathmism explains gradual changes.", "Scientists debate bathmism.", "Bathmism influenced early biology."],
+          "collocations": ["theory of bathmism", "evolutionary bathmism"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "bathmisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bathmism; theories of stepwise evolution.",
+          "examples": ["Various bathmisms were proposed.", "The bathmisms differ in detail.", "Modern bathmisms refine old ideas."],
+          "collocations": ["evolutionary bathmisms", "competing bathmisms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    }
+  ]
+}
+```

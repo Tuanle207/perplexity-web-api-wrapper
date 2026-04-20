@@ -1,0 +1,418 @@
+{
+  "items": [
+    {
+      "term": "bacterioses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bacteriosis; diseases caused by bacteria.",
+          "examples": ["Rare bacterioses affect plants in tropical areas.", "The study examined various bacterioses in livestock."],
+          "collocations": ["plant bacterioses", "animal bacterioses", "bacterial bacterioses", "infectious bacterioses"],
+          "synonyms": ["bacterial infections"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriosis",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a disease caused by bacteria, especially in plants or animals.",
+          "examples": ["Citrus bacteriosis can destroy orchards.", "Vets treat bacteriosis in fish farms."],
+          "collocations": ["plant bacteriosis", "citrus bacteriosis", "fish bacteriosis", "bacterial bacteriosis", "acute bacteriosis"],
+          "synonyms": ["bacterial disease"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriosolvent",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to dissolve or destroy bacteria.",
+          "examples": ["The bacteriosolvent compound cleaned the surfaces effectively."],
+          "collocations": ["bacteriosolvent agent", "bacteriosolvent solution", "bacteriosolvent property"],
+          "synonyms": ["bactericidal"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriostases",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bacteriostasis; the stopping of bacterial growth.",
+          "examples": ["Bacteriostases occur under certain antibiotic treatments."],
+          "collocations": ["induce bacteriostases", "bacterial bacteriostases"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriostasis",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the inhibition or stopping of growth in bacteria.",
+          "examples": ["Antibiotics achieve bacteriostasis without killing bacteria.", "The drug induced bacteriostasis in the culture."],
+          "collocations": ["achieve bacteriostasis", "induce bacteriostasis", "bacterial bacteriostasis", "temporary bacteriostasis"],
+          "synonyms": ["bacterial inhibition"],
+          "antonyms": ["bacteriolysis"],
+          "register": "formal",
+          "domain": ["medicine", "biology", "microbiology"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriostat",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance that stops bacteria from growing or multiplying.",
+          "examples": ["The bacteriostat preserved the medicine.", "Cosmetics often contain a bacteriostat."],
+          "collocations": ["chemical bacteriostat", "preservative bacteriostat", "add bacteriostat"],
+          "synonyms": ["static agent"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "chemistry", "microbiology"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriostatic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "stopping the growth of bacteria without killing them.",
+          "examples": ["Bacteriostatic antibiotics treat infections.", "The cream has bacteriostatic properties."],
+          "collocations": ["bacteriostatic agent", "bacteriostatic effect", "bacteriostatic antibiotic", "bacteriostatic action"],
+          "synonyms": ["inhibitory"],
+          "antonyms": ["bactericidal"],
+          "register": "formal",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriostatically",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that stops bacterial growth.",
+          "examples": ["The drug acts bacteriostatically on pathogens."],
+          "collocations": ["acts bacteriostatically", "works bacteriostatically"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriostats",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bacteriostat; substances that prevent bacterial growth.",
+          "examples": ["Multiple bacteriostats are used in labs."],
+          "collocations": ["chemical bacteriostats", "preservative bacteriostats"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriotherapeutic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the use of bacteria to treat disease.",
+          "examples": ["Bacteriotherapeutic methods show promise in cancer research."],
+          "collocations": ["bacteriotherapeutic approach", "bacteriotherapeutic treatment"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriotherapy",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "treatment of disease using bacteria or bacterial products.",
+          "examples": ["Bacteriotherapy is an alternative to antibiotics.", "Phage bacteriotherapy targets resistant infections."],
+          "collocations": ["phage bacteriotherapy", "cancer bacteriotherapy"],
+          "synonyms": ["bacterial therapy"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriotoxic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "toxic or poisonous to bacteria.",
+          "examples": ["The bacteriotoxic substance killed the colony."],
+          "collocations": ["bacteriotoxic agent", "bacteriotoxic effect"],
+          "synonyms": ["bactericidal"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriotoxin",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a toxin that affects or targets bacteria.",
+          "examples": ["Researchers developed a new bacteriotoxin."],
+          "collocations": ["synthetic bacteriotoxin"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriotoxins",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bacteriotoxin; toxins harmful to bacteria.",
+          "examples": ["The lab tested various bacteriotoxins."],
+          "collocations": ["novel bacteriotoxins"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriotropic",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having an affinity for or attracted to bacteria.",
+          "examples": ["Bacteriotropic antibodies target infections."],
+          "collocations": ["bacteriotropic substance"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriotropin",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance with tropism toward bacteria.",
+          "examples": ["The bacteriotropin enhanced immune response."],
+          "collocations": ["immune bacteriotropin"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriotrypsin",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an enzyme that breaks down bacterial proteins.",
+          "examples": ["Bacteriotrypsin is used in experimental treatments."],
+          "collocations": ["purified bacteriotrypsin"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "biochemistry"]
+        }
+      ]
+    },
+    {
+      "term": "bacterious",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "full of or caused by bacteria.",
+          "examples": ["The wound became bacterious quickly."],
+          "collocations": ["bacterious infection", "bacterious culture"],
+          "synonyms": ["bacterial"],
+          "antonyms": ["sterile"],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacteririum",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bacterisation",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of treating or infecting with bacteria.",
+          "examples": ["Bacterisation tests contamination levels."],
+          "collocations": ["soil bacterisation"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacterisations",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bacterisation; instances of bacterial treatment.",
+          "examples": ["Multiple bacterisations were performed in the experiment."],
+          "collocations": ["experimental bacterisations"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacterise",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to treat or infect something with bacteria.",
+          "examples": ["Scientists bacterise samples for study."],
+          "collocations": ["bacterise culture", "bacterise soil"],
+          "synonyms": ["inoculate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacterised",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "treated or infected with bacteria.",
+          "examples": ["The bacterised medium grew rapidly."],
+          "collocations": ["bacterised sample", "bacterised wound"],
+          "synonyms": ["infected"],
+          "antonyms": ["sterilized"],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacterises",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person form of bacterise; treats with bacteria.",
+          "examples": ["The process bacterises the material."],
+          "collocations": ["method bacterises"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacterising",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the continuous act of treating with bacteria.",
+          "examples": ["They are bacterising the test samples now."],
+          "collocations": ["bacterising process"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology"]
+        }
+      ]
+    }
+  ]
+}

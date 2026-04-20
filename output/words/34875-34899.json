@@ -1,0 +1,451 @@
+```json
+{
+  "items": [
+    {
+      "term": "bazillion",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An extremely large number; a very informal way to say a huge amount.",
+          "examples": ["There are a bazillion stars in the sky.", "I've got a bazillion things to do today.", "They sell a bazillion different flavors."],
+          "collocations": ["a bazillion times", "bazillion dollars", "bazillion people", "bazillion options", "bazillion reasons"],
+          "synonyms": ["zillion", "million", "tons", "loads"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bazillions",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bazillion; extremely large numbers or huge amounts.",
+          "examples": ["She has bazillions of followers online.", "There are bazillions of apps to choose from.", "He's spent bazillions on gadgets."],
+          "collocations": ["bazillions of people", "bazillions of dollars", "bazillions of choices"],
+          "synonyms": ["zillions", "millions", "loads"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bazoo",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Slang for the mouth or loud talk.",
+          "examples": ["Shut your bazoo!", "He never stops wagging his bazoo.", "Listen to that bazoo on him."],
+          "collocations": ["shut your bazoo", "big bazoo", "wag one's bazoo"],
+          "synonyms": ["mouth", "trap", "gob"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bazooka",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A portable military weapon that fires rockets.",
+          "examples": ["The soldier carried a bazooka.", "The bazooka destroyed the tank.", "They fired the bazooka at the target."],
+          "collocations": ["anti-tank bazooka", "shoulder bazooka", "bazooka team"],
+          "synonyms": ["rocket launcher"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "bazookaman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who uses or operates a bazooka.",
+          "examples": ["The bazookaman took aim.", "Bazookamen were key in the battle."],
+          "collocations": ["bazookaman squad"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "bazookamen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bazookaman; people who operate bazookas.",
+          "examples": ["The bazookamen advanced carefully."],
+          "collocations": ["bazookamen unit"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "bazookas",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bazooka; portable rocket-firing weapons.",
+          "examples": ["Soldiers loaded the bazookas.", "The bazookas were stored in the bunker."],
+          "collocations": ["load bazookas", "bazookas ready"],
+          "synonyms": ["rocket launchers"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["military"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Slang for large women's breasts.",
+          "examples": ["Check out her bazookas."],
+          "collocations": ["big bazookas"],
+          "synonyms": ["boobs", "knockers"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bazooms",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Slang for women's breasts.",
+          "examples": ["Nice bazooms!", "He stared at her bazooms."],
+          "collocations": ["big bazooms", "pair of bazooms"],
+          "synonyms": ["boobs", "tits", "knockers"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bazoos",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bazoo; slang for mouths.",
+          "examples": ["Shut your bazoos, everyone!"],
+          "collocations": ["shut bazoos"],
+          "synonyms": ["mouths"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bazouki",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant spelling of bouzouki; a Greek stringed musical instrument.",
+          "examples": ["He played the bazouki beautifully.", "The band featured a bazouki."],
+          "collocations": ["play bazouki", "Greek bazouki"],
+          "synonyms": ["bouzouki"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "bazoukis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bazouki; Greek stringed instruments.",
+          "examples": ["The musicians strummed bazoukis."],
+          "collocations": ["strumming bazoukis"],
+          "synonyms": ["bouzoukis"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "bazz",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "British slang for a flashy or enjoyable time; short for bazzazz.",
+          "examples": ["That was a right bazz last night."],
+          "collocations": ["good bazz"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bazzazz",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "British slang for a great, exciting time or event.",
+          "examples": ["The party was pure bazzazz."],
+          "collocations": ["pure bazzazz"],
+          "synonyms": ["blast", "riot"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bazzazzes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bazzazz; great exciting events.",
+          "examples": ["The festivals were bazzazzes."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bazzed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of bazz; British slang for had a great time.",
+          "examples": ["We bazzed all night."],
+          "collocations": ["totally bazzed"],
+          "synonyms": ["partied"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bazzes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person of bazz; has a great time.",
+          "examples": ["He bazzes every weekend."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bazzing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of bazz; having a great time.",
+          "examples": ["We're bazzing hard tonight."],
+          "collocations": ["bazzing out"],
+          "synonyms": ["partying"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bazzite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who enjoys bazzazz; a party enthusiast.",
+          "examples": ["She's a total bazzite."],
+          "collocations": [],
+          "synonyms": ["partygoer"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bb",
+      "kind": "abbreviation",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Baby; informal term of endearment.",
+          "examples": ["Hey bb, how are you?", "Love you bb."],
+          "collocations": ["hey bb", "miss you bb"],
+          "synonyms": ["babe", "baby"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "abbreviation",
+          "definition": "Bulletin board; an online forum.",
+          "examples": ["Check the bb for updates."],
+          "collocations": ["online bb"],
+          "synonyms": ["forum"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "bbl",
+      "kind": "abbreviation",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Be back later; informal chat shorthand.",
+          "examples": ["Gotta go, bbl!", "Bbl in 10 mins."],
+          "collocations": ["brb bbl", "gtg bbl"],
+          "synonyms": ["brb"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "bbls",
+      "kind": "abbreviation",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Plural of bbl; barrels, unit in oil industry.",
+          "examples": ["Oil priced at 80 dollars per bbls."],
+          "collocations": ["thousands of bbls"],
+          "synonyms": ["barrels"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bbs",
+      "kind": "abbreviation",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Plural of bb; bulletin boards or babies.",
+          "examples": ["Old bbs were popular.", "Sending love to my bbs."],
+          "collocations": ["online bbs"],
+          "synonyms": ["forums"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["technology", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bcd",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Binary coded decimal; a way to represent decimal numbers in binary.",
+          "examples": ["The system uses BCD format."],
+          "collocations": ["BCD code", "packed BCD"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "bcf",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Billion cubic feet; unit for measuring natural gas.",
+          "examples": ["Reserves total 10 bcf."],
+          "collocations": ["10 bcf gas"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bch",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "abbreviation",
+          "definition": "Bitcoin Cash; a cryptocurrency forked from Bitcoin.",
+          "examples": ["I hold some BCH.", "BCH price rose today."],
+          "collocations": ["buy BCH"],
+          "synonyms": ["Bitcoin Cash"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "business"]
+        }
+      ]
+    }
+  ]
+}
+```

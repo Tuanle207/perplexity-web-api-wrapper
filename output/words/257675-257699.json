@@ -1,0 +1,630 @@
+{
+  "items": [
+    {
+      "term": "nursery",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a room or building where plants are grown and cared for, especially young plants in pots or cutting beds",
+          "examples": [
+            "The greenhouse is filled with tropical nursery stock.",
+            "She bought tomato seedlings from the nursery."
+          ],
+          "collocations": [
+            "plant nursery",
+            "garden nursery",
+            "children's nursery",
+            "nursery stock",
+            "nursery beds"
+          ],
+          "synonyms": ["garden center", "plant shop", "grower"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a place where young children are looked after and cared for during the day; a daycare or preschool",
+          "examples": [
+            "Her daughter goes to the nursery before school.",
+            "The nursery has a bright play area and nap time routines."
+          ],
+          "collocations": [
+            "nursery school",
+            "nursery rhyme (figurative)",
+            "nursery staff",
+            "nursery room",
+            "early years nursery"
+          ],
+          "synonyms": ["daycare", "preschool", "kindergarten"],
+          "antonyms": ["school-age care"],
+          "register": "neutral",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nurserydom",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the condition or collective domain of belonging to or characteristic of a nursery or nurseries; the world of nurseries",
+          "examples": [
+            "In his youth he lived within the sheltered nurserydom of his aunt.",
+            "The term is rarely used in everyday modern English."
+          ],
+          "collocations": [
+            "in nurserydom",
+            "world of nurseries"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "nurseryful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the amount that a nursery can hold; a full supply of plants or young animals in a nursery",
+          "examples": [
+            "The shelf was a nurseryful of seedling pots.",
+            "We bought a nurseryful of herbs."
+          ],
+          "collocations": [
+            "nurseryful of",
+            "nurseryful of plants"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "nurserymaid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a girl or young woman employed in a nursery or by a family to help with young children",
+          "examples": [
+            "The nurserymaid played with the children after lunch.",
+            "In Victorian times, a nurserymaid assisted the nurse."
+          ],
+          "collocations": [
+            "nurserymaid role",
+            "household nurserymaid"
+          ],
+          "synonyms": ["nursemaid"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nurserymaids",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nurserymaid; multiple female helpers in a nursery",
+          "examples": [
+            "The nurserymaids took care of the toddlers during the afternoon."
+          ],
+          "collocations": [
+            "nurserymaids roster",
+            "nurserymaids duties"
+          ],
+          "synonyms": ["nursemaids"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nurseryman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a man who owns or works at a plant nursery; a person who cultivates and sells plants",
+          "examples": [
+            "The nurseryman specializes in roses and herbs.",
+            "We spoke with the nurseryman about suitable shrubs."
+          ],
+          "collocations": [
+            "nurseryman and",
+            "local nurseryman",
+            "nurseryman's shop"
+          ],
+          "synonyms": ["plant grower", "nursery owner"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nurserymen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nurseryman; multiple people who own or work at plant nurseries",
+          "examples": [
+            "The nurserymen met to discuss seasonal stock."
+          ],
+          "collocations": [
+            "nurserymen collective",
+            "local nurserymen"
+          ],
+          "synonyms": ["plant growers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nurses",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to care for someone, especially someone sick, by giving them food, medicine, and comfort",
+          "examples": [
+            "She nurses her patient back to health.",
+            "He nurses the plant with careful attention."
+          ],
+          "collocations": [
+            "nurses a patient",
+            "nurses a drink",
+            "nurses a grudge (figurative)"
+          ],
+          "synonyms": ["tends", "cares for", "look after"],
+          "antonyms": ["abandons", "neglects"],
+          "register": "neutral",
+          "domain": ["healthcare", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a person, especially a woman, trained to care for the sick or infirm in a hospital or at home",
+          "examples": [
+            "The nurse checked his vitals.",
+            "She trained to be a nurse after college."
+          ],
+          "collocations": [
+            "registered nurse",
+            "nurse practitioner",
+            "nurse on duty"
+          ],
+          "synonyms": ["caregiver", "carer", "health professional"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nursetender",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "someone who tends to a nursery or to those who care for young children",
+          "examples": [
+            "The nursetender organized activities for the children."
+          ],
+          "collocations": [
+            "nursetender duties",
+            "nursetender schedule"
+          ],
+          "synonyms": ["nursery caretaker"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nursing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the work of a nurse; the profession or practice of caring for the sick or injured",
+          "examples": [
+            "She studied nursing at university.",
+            "Nursing requires compassion and stamina."
+          ],
+          "collocations": [
+            "nursing care",
+            "nursing staff",
+            "nursing home",
+            "nursing degree"
+          ],
+          "synonyms": ["healing", "caregiving"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "education"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the act of feeding a baby or young child with milk from the breast or a bottle",
+          "examples": [
+            "Night nursing can be exhausting.",
+            "She practiced comfortable nursing positions."
+          ],
+          "collocations": [
+            "night nursing",
+            "breastfeeding/nursing",
+            "nursing session"
+          ],
+          "synonyms": ["breastfeeding", "feeding"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "family"]
+        }
+      ]
+    },
+    {
+      "term": "nursingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that nurses or cares for someone or something; with nursing care",
+          "examples": [
+            "The aunt spoke nursingly to the child, offering comfort."
+          ],
+          "collocations": [
+            "nursingly tender",
+            "nursingly careful"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["family", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "nursings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form referring to instances of nursing or acts of nursing",
+          "examples": [
+            "Her nursings during the night kept him comfortable."
+          ],
+          "collocations": [
+            "late-night nursings",
+            "nursings schedule"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "family"]
+        }
+      ]
+    },
+    {
+      "term": "nursle",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or dialect word for a nursery or a nurse; not commonly used in modern English",
+          "examples": [
+            "The old texts mention a nursle in the hall."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "nursled",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "nurtured or sheltered; fed and cared for in infancy",
+          "examples": [
+            "A nursled child grew up gentle and polite."
+          ],
+          "collocations": [
+            "nursled heir",
+            "nursled offspring"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nursles",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nursle; rare in modern usage",
+          "examples": [
+            "He found several nursles in the old manuscript."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "nursling",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a baby or small child who is being cared for or nursed",
+          "examples": [
+            "The mother held her nursling close.",
+            "Nurslings require constant attention."
+          ],
+          "collocations": [
+            "nursling child",
+            "nursling care"
+          ],
+          "synonyms": ["baby", "infant", "child"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["family", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nurslings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nursling; young children or babies cared for",
+          "examples": [
+            "The garden is filled with nurslings and their caregivers."
+          ],
+          "collocations": [
+            "nurslings group",
+            "care for nurslings"
+          ],
+          "synonyms": ["babies", "infants"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["family", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nursy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "an archaic or dialect term meaning 'nursing' or 'pertaining to a nursery'; rarely used today",
+          "examples": [
+            "A nursy tradition in the village is told by the elders."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "nurturable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be nurtured or fostered; capable of growth or development",
+          "examples": [
+            "The soil is fertile and nurturable for new saplings."
+          ],
+          "collocations": [
+            "nurturable potential",
+            "nurturable crops"
+          ],
+          "synonyms": ["trainable", "developable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nurtural",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "related to nurturing or the process of nurturing; used in some contexts as a rare or creative form",
+          "examples": [
+            "The garden's design emphasizes nurtural elements."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "nurturance",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of nurturing and supporting growth",
+          "examples": [
+            "Nurturance is essential for healthy child development."
+          ],
+          "collocations": [
+            "emotional nurturance",
+            "parental nurturance"
+          ],
+          "synonyms": ["care", "support", "cultivation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["psychology", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nurturances",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nurturance; acts or instances of nurturing",
+          "examples": [
+            "The nurturances they provided helped the child recover."
+          ],
+          "collocations": [
+            "family nurturances",
+            "nurturances offered"
+          ],
+          "synonyms": ["care", "support"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["psychology", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nurturant",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that nurtures; a caregiver or sponsor",
+          "examples": [
+            "The old mentor acted as a nurturant to many young writers."
+          ],
+          "collocations": [
+            "nurturant role",
+            "nurturant influence"
+          ],
+          "synonyms": ["caretaker", "benefactor"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "nurture",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "care and attention given to help someone or something grow or develop",
+          "examples": [
+            "Parents provide nurture and support.",
+            "The project needs nurturing to succeed."
+          ],
+          "collocations": [
+            "nurture and care",
+            "emotional nurture",
+            "intellectual nurture"
+          ],
+          "synonyms": ["care", "development", "cultivation"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["family", "education"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to care for and help someone or something grow or develop",
+          "examples": [
+            "They nurtured the seedlings until they were strong enough.",
+            "Parents nurture creativity in their children."
+          ],
+          "collocations": [
+            "nurture growth",
+            "nurture talent",
+            "nurture relationships"
+          ],
+          "synonyms": ["cultivate", "foster", "care for"],
+          "antonyms": ["neglect", "ignore"],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "nurtured",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "carefully developed or encouraged; cared for and nurtured",
+          "examples": [
+            "The nurtured garden looked vibrant in spring.",
+            "Her talents were nurtured from a young age."
+          ],
+          "collocations": [
+            "nurtured talent",
+            "well-nurtured plants"
+          ],
+          "synonyms": ["cultivated", "developed", "fostered"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

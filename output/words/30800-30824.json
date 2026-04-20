@@ -1,0 +1,500 @@
+```json
+{
+  "items": [
+    {
+      "term": "backups",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "copies of computer data kept in case the original is lost or damaged",
+          "examples": ["I always make backups of my important files.", "The server crashed, but we have backups.", "Check the backups before deleting anything."],
+          "collocations": ["make backups", "data backups", "regular backups", "cloud backups", "restore backups", "backup files"],
+          "synonyms": ["copies", "duplicates", "archives"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "computing", "business"]
+        },
+        {
+          "pos": "noun",
+          "definition": "people or things that replace others if needed",
+          "examples": ["We have backups if the main players get injured.", "She's our backup driver.", "Keep backups ready for the event."],
+          "collocations": ["backup plan", "backup singer", "backup team", "backup driver", "backup players"],
+          "synonyms": ["reserves", "substitutes", "replacements"],
+          "antonyms": ["main", "primary"],
+          "register": "null",
+          "domain": ["general", "sports", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "backus",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "John Backus (1924–2007), American computer scientist who created Fortran and BNF",
+          "examples": ["Backus revolutionized programming languages.", "The Backus-Naur Form is used in syntax.", "John Backus received the Turing Award."],
+          "collocations": ["John Backus", "Backus-Naur Form", "Backus award"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "computing"]
+        }
+      ]
+    },
+    {
+      "term": "backveld",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "remote rural areas in South Africa, away from cities",
+          "examples": ["He grew up in the backveld.", "Backveld life is simple and traditional.", "Stories from the backveld are fascinating."],
+          "collocations": ["backveld farmer", "backveld town", "backveld traditions"],
+          "synonyms": ["bush", "outback", "countryside"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography", "South Africa"]
+        }
+      ]
+    },
+    {
+      "term": "backvelder",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "person from the remote rural areas of South Africa",
+          "examples": ["The backvelder spoke with a strong accent.", "Backvelders know the land well.", "She married a backvelder."],
+          "collocations": ["true backvelder", "backvelder farmer"],
+          "synonyms": ["rural dweller", "country person"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["South Africa", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "backvelders",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of backvelder; people from remote rural South Africa",
+          "examples": ["The backvelders gathered for the festival.", "Backvelders shared their stories."],
+          "collocations": ["backvelders' traditions", "group of backvelders"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["South Africa", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "backvelds",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of backveld; remote rural areas in South Africa",
+          "examples": ["Different backvelds have unique customs.", "He traveled through the backvelds."],
+          "collocations": ["various backvelds", "South African backvelds"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["South Africa", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "backwall",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rear or back wall of something like a building or sports area",
+          "examples": ["Paint the backwall blue.", "The ball hit the backwall.", "Shelves line the backwall."],
+          "collocations": ["backwall of the room", "backwall storage", "hit the backwall"],
+          "synonyms": ["rear wall", "back side"],
+          "antonyms": ["front wall"],
+          "register": "null",
+          "domain": ["general", "sports", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "backward",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "directed towards the back or rear",
+          "examples": ["He took a backward step.", "The backward motion surprised her.", "A backward glance revealed the truth."],
+          "collocations": ["backward step", "backward glance", "backward movement", "walk backward"],
+          "synonyms": ["rearward", "retrograde"],
+          "antonyms": ["forward"],
+          "register": "null",
+          "domain": ["general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "not developed or modern; slow in progress",
+          "examples": ["A backward region lacks good roads.", "He's backward in math.", "The village has backward ideas."],
+          "collocations": ["backward area", "backward country", "economically backward", "educationally backward"],
+          "synonyms": ["undeveloped", "primitive", "behind"],
+          "antonyms": ["advanced", "progressive"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backwardation",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "situation in futures trading where the future price is lower than the spot price",
+          "examples": ["Backwardation signals tight supply.", "Oil entered backwardation last month.", "Traders profit from backwardation."],
+          "collocations": ["contango backwardation", "in backwardation", "extreme backwardation"],
+          "synonyms": [],
+          "antonyms": ["contango"],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "backwardations",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of backwardation; instances of future price below spot price",
+          "examples": ["Markets saw several backwardations.", "These backwardations affected prices."],
+          "collocations": ["multiple backwardations", "recent backwardations"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "backwardly",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a backward direction or manner",
+          "examples": ["He moved backwardly away.", "The policy looks backwardly."],
+          "collocations": ["move backwardly", "look backwardly"],
+          "synonyms": ["rearwardly"],
+          "antonyms": ["forwardly"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backwardness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "state of being not developed or slow in progress",
+          "examples": ["Backwardness hinders growth.", "The region's backwardness surprised visitors.", "Overcome educational backwardness."],
+          "collocations": ["economic backwardness", "intellectual backwardness", "cultural backwardness"],
+          "synonyms": ["underdevelopment", "primitiveness"],
+          "antonyms": ["advancement", "progress"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backwardnesses",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of backwardness; multiple instances of underdevelopment",
+          "examples": ["Various backwardnesses plague the area.", "Address regional backwardnesses."],
+          "collocations": ["multiple backwardnesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backwards",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "towards the back or rear; in the opposite direction",
+          "examples": ["He fell backwards.", "Count backwards from ten.", "The car rolled backwards."],
+          "collocations": ["fall backwards", "move backwards", "look backwards", "bend backwards"],
+          "synonyms": ["rearward"],
+          "antonyms": ["forwards", "forward"],
+          "register": "null",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "adverb",
+          "definition": "in a wrong or reversed way (informal)",
+          "examples": ["You've got it all backwards.", "The story is backwards."],
+          "collocations": ["get it backwards", "all backwards"],
+          "synonyms": ["wrong", "reversed"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "backwash",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "movement of water backwards after a wave or boat passes",
+          "examples": ["The backwash pulled her under.", "Feel the backwash from the ferry."],
+          "collocations": ["boat backwash", "wave backwash", "tidal backwash"],
+          "synonyms": ["wake", "swash"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical"]
+        },
+        {
+          "pos": "noun",
+          "definition": "unwanted effect or consequence of an event",
+          "examples": ["The backwash of the scandal affected everyone.", "Economic backwash hit small businesses."],
+          "collocations": ["political backwash", "economic backwash"],
+          "synonyms": ["aftermath", "repercussion"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backwashed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense; washed backwards by water",
+          "examples": ["The boat backwashed the shore.", "Debris backwashed onto the beach."],
+          "collocations": ["backwashed by waves", "backwashed the sand"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "backwasher",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "backwashes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of backwash; backward water movements or consequences",
+          "examples": ["Strong backwashes eroded the coast.", "The policy's backwashes were severe."],
+          "collocations": ["multiple backwashes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person singular; washes backwards",
+          "examples": ["The wave backwashes the pebbles.", "It backwashes everything nearby."],
+          "collocations": ["wave backwashes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "backwashing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "process of water moving backwards",
+          "examples": ["Backwashing cleaned the filter.", "Watch the backwashing after the boat."],
+          "collocations": ["pool backwashing", "wave backwashing"],
+          "synonyms": ["reversal"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical", "maintenance"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle; washing backwards",
+          "examples": ["Water is backwashing the shore.", "The tide backwashing strongly."],
+          "collocations": ["backwashing the beach"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "backwater",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "area of water connected to but separated from a river or lake; stagnant water",
+          "examples": ["Fish hide in the backwater.", "The canoe floated in the backwater."],
+          "collocations": ["river backwater", "stagnant backwater", "explore backwaters"],
+          "synonyms": ["oxbow", "lagoon"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        },
+        {
+          "pos": "noun",
+          "definition": "place or situation with little progress or importance (figurative)",
+          "examples": ["The town is a cultural backwater.", "Don't get stuck in a professional backwater."],
+          "collocations": ["intellectual backwater", "technological backwater"],
+          "synonyms": ["backwoods", "provincial area"],
+          "antonyms": ["center", "hub"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backwatered",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense; formed or stayed in a backwater",
+          "examples": ["The area backwatered after the flood.", "It backwatered for years."],
+          "collocations": ["region backwatered"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "backwaters",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural; areas of stagnant water off main rivers or unimportant places",
+          "examples": ["Explore the backwaters by kayak.", "These villages are peaceful backwaters."],
+          "collocations": ["Kerala backwaters", "hidden backwaters", "urban backwaters"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "backway",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "less-used path or road at the back or side",
+          "examples": ["Take the backway to avoid traffic.", "He knows a backway home."],
+          "collocations": ["secret backway", "backway entrance", "alley backway"],
+          "synonyms": ["side road", "back path"],
+          "antonyms": ["main road"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "backwind",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "wind blowing against the front of a sail from the wrong direction",
+          "examples": ["The backwind spoiled their speed.", "Adjust for the backwind."],
+          "collocations": ["sail backwind", "strong backwind"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical", "sailing"]
+        }
+      ]
+    },
+    {
+      "term": "backwinded",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "caught by wind against the sail, causing loss of speed",
+          "examples": ["The boat was backwinded suddenly.", "They got backwinded near the mark."],
+          "collocations": ["sail backwinded", "boat backwinded"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sailing"]
+        },
+        {
+          "pos": "verb",
+          "definition": "past tense; hit by backwind",
+          "examples": ["The jib backwinded the mainsail.", "We backwinded during the tack."],
+          "collocations": ["sail backwinded"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sailing"]
+        }
+      ]
+    }
+  ]
+}
+```

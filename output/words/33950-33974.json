@@ -1,0 +1,397 @@
+```json
+{
+  "items": [
+    {
+      "term": "basilary",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or situated at the base.",
+          "examples": ["The basilary artery supplies blood to the brain.", "Basilary structures support the building's foundation."],
+          "collocations": ["basilary artery", "basilary membrane", "basilary layer"],
+          "synonyms": ["basal"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anatomy", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "basilateral",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having the same side as the base.",
+          "examples": ["The basilateral view shows the structure clearly."],
+          "collocations": ["basilateral position", "basilateral alignment"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anatomy", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "basilect",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a variety of a language spoken by the least educated or most rural speakers.",
+          "examples": ["Jamaican Creole has a basilect form.", "Linguists study the basilect in creole languages."],
+          "collocations": ["basilect form", "creole basilect", "basilect speakers"],
+          "synonyms": ["low variety"],
+          "antonyms": ["acrolect"],
+          "register": null,
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "basilects",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basilect; varieties of a language spoken by the least educated.",
+          "examples": ["These basilects vary by region.", "Researchers compare basilects across islands."],
+          "collocations": ["regional basilects", "creole basilects"],
+          "synonyms": ["low varieties"],
+          "antonyms": ["acrolects"],
+          "register": null,
+          "domain": ["linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "basileis",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basileus; kings or emperors in Byzantine times.",
+          "examples": ["The basileis ruled from Constantinople."],
+          "collocations": ["Byzantine basileis"],
+          "synonyms": ["emperors"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "basilemma",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the outer membrane around a muscle fiber.",
+          "examples": ["The basilemma protects the muscle cell."],
+          "collocations": ["muscle basilemma"],
+          "synonyms": ["sarcolemma"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "basileus",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a king or emperor, especially in Byzantine Empire.",
+          "examples": ["Basileus was the title of Byzantine rulers.", "The basileus led the empire's armies."],
+          "collocations": ["Byzantine basileus", "emperor basileus"],
+          "synonyms": ["emperor", "king"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "basilian",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to Saint Basil or his monastic order.",
+          "examples": ["Basilian monks follow strict rules.", "The Basilian order has many schools."],
+          "collocations": ["Basilian monk", "Basilian order"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "basilic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "royal or kingly.",
+          "examples": ["The basilic throne was grand."],
+          "collocations": ["basilic vein", "basilic artery"],
+          "synonyms": ["royal"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anatomy", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "basilica",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large church with special privileges granted by the Pope.",
+          "examples": ["St. Peter's Basilica is in Vatican City.", "Tourists visit the basilica daily."],
+          "collocations": ["Roman basilica", "major basilica", "basilica church"],
+          "synonyms": ["cathedral"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture", "religion"]
+        },
+        {
+          "pos": "noun",
+          "definition": "an ancient Roman public building used as a court.",
+          "examples": ["The basilica was the center of Roman law.", "Excavations uncovered a basilica."],
+          "collocations": ["Roman basilica", "ancient basilica"],
+          "synonyms": ["hall"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "basilicae",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basilica; large churches or ancient Roman halls.",
+          "examples": ["The basilicae attract pilgrims.", "Roman basilicae had apses."],
+          "collocations": ["ancient basilicae", "Christian basilicae"],
+          "synonyms": ["cathedrals"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "basilical",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a basilica.",
+          "examples": ["The basilical plan influenced church design."],
+          "collocations": ["basilical architecture", "basilical plan"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "basilicalike",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "basilican",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "pertaining to or like a basilica.",
+          "examples": ["Basilican churches have long naves."],
+          "collocations": ["basilican church", "basilican style"],
+          "synonyms": ["basilical"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "basilicas",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basilica; large churches or ancient Roman buildings.",
+          "examples": ["Many basilicas stand in Rome.", "The basilicas host masses."],
+          "collocations": ["Roman basilicas", "famous basilicas"],
+          "synonyms": ["cathedrals"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "basilicate",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "basilicock",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "basilicon",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an ointment made from many ingredients, used in ancient medicine.",
+          "examples": ["Basilicon was applied to wounds."],
+          "collocations": ["medical basilicon"],
+          "synonyms": ["salve"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "basilicons",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basilicon; ancient ointments.",
+          "examples": ["Healers used various basilicons."],
+          "collocations": ["ancient basilicons"],
+          "synonyms": ["salves"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["medicine", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "basilics",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basilica in certain contexts.",
+          "examples": ["The basilics were impressive structures."],
+          "collocations": ["ancient basilics"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "basilidan",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to Basilides or his teachings.",
+          "examples": ["Basilidan Gnosticism influenced early Christianity."],
+          "collocations": ["Basilidan sect"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["religion", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "basilidian",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "of or relating to Basilides, a Gnostic teacher.",
+          "examples": ["Basilidian beliefs were controversial."],
+          "collocations": ["Basilidian Gnosticism", "Basilidian doctrine"],
+          "synonyms": ["gnostic"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "basilidianism",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the doctrines taught by Basilides.",
+          "examples": ["Basilidianism spread in Egypt."],
+          "collocations": ["early Basilidianism"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "basilinna",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the queen consort or empress in Byzantine Empire.",
+          "examples": ["The basilinna accompanied the basileus."],
+          "collocations": ["Byzantine basilinna"],
+          "synonyms": ["empress"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "basiliscan",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    }
+  ]
+}
+```

@@ -1,0 +1,398 @@
+```json
+{
+  "items": [
+    {
+      "term": "baleens",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baleen, the flexible plates in the mouths of certain whales used for filtering food",
+          "examples": ["The baleens of the blue whale are very long.", "Researchers studied baleens from dead whales.", "Baleens help whales catch tiny sea creatures."],
+          "collocations": ["blue whale baleens", "filtering baleens", "whale baleens", "baleens plates", "long baleens"],
+          "synonyms": ["whalebone"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["biology", "marine"]
+        }
+      ]
+    },
+    {
+      "term": "balefire",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large outdoor fire, especially one used in ancient times for signaling or ceremonies",
+          "examples": ["They lit a balefire on the hilltop.", "The balefire guided ships at night.", "Villagers gathered around the balefire."],
+          "collocations": ["signal balefire", "ceremonial balefire", "ancient balefire", "hilltop balefire", "beacon balefire"],
+          "synonyms": ["beacon fire", "bonfire"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "balefires",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of balefire, large outdoor fires used for signaling or ceremonies",
+          "examples": ["Multiple balefires lit up the hills.", "The balefires were part of the ritual.", "Soldiers saw the balefires from afar."],
+          "collocations": ["signal balefires", "ancient balefires", "ceremonial balefires"],
+          "synonyms": ["beacon fires"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["history", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "baleful",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "threatening, hostile, or menacing in appearance or manner",
+          "examples": ["He gave her a baleful look.", "The baleful sky promised a storm.", "Her baleful glare scared the children."],
+          "collocations": ["baleful look", "baleful glare", "baleful eye", "baleful stare", "baleful expression"],
+          "synonyms": ["menacing", "threatening", "sinister"],
+          "antonyms": ["friendly", "kind"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "balefully",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a threatening, hostile, or menacing way",
+          "examples": ["She stared balefully at the intruder.", "The dog growled balefully.", "He muttered balefully under his breath."],
+          "collocations": ["stared balefully", "glared balefully", "growled balefully", "looked balefully"],
+          "synonyms": ["menacingly", "threateningly"],
+          "antonyms": ["kindly"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "balefulness",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being threatening or hostile",
+          "examples": ["The balefulness in his voice was clear.", "She sensed the balefulness of his intent.", "The balefulness of the curse lingered."],
+          "collocations": ["pure balefulness", "utter balefulness", "sense balefulness"],
+          "synonyms": ["menace", "hostility"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "balefulnesses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of balefulness, instances of threatening quality",
+          "examples": ["The balefulnesses of ancient myths fascinate scholars.", "Multiple balefulnesses marked the tale."],
+          "collocations": ["various balefulnesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "balei",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bale, a large bundle of raw material like hay or cotton",
+          "examples": ["The balei were stacked in the barn.", "Farmers loaded balei onto the truck."],
+          "collocations": ["hay balei", "cotton balei"],
+          "synonyms": ["bundles"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "baleise",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baleless",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "lacking baleen, used for whales without filtering plates",
+          "examples": ["Toothed whales are baleless.", "The baleless species hunt differently."],
+          "collocations": ["baleless whales"],
+          "synonyms": [],
+          "antonyms": ["baleen"],
+          "register": null,
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "baler",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a machine that presses material into bales",
+          "examples": ["The farmer used a baler for hay.", "A new baler increased efficiency.", "The baler compressed the straw tightly."],
+          "collocations": ["hay baler", "straw baler", "cotton baler"],
+          "synonyms": ["baling machine"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["agriculture", "farming"]
+        }
+      ]
+    },
+    {
+      "term": "balers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baler, machines for making bales",
+          "examples": ["They bought two balers.", "The balers ran all day."],
+          "collocations": ["hay balers", "farm balers"],
+          "synonyms": ["baling machines"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "bales",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bale, large bundles of material tied together",
+          "examples": ["Hay bales filled the field.", "Workers stacked cotton bales.", "The bales weighed a ton each."],
+          "collocations": ["hay bales", "cotton bales", "straw bales", "stack bales"],
+          "synonyms": ["bundles"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["agriculture", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "balestra",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a preparatory movement in fencing with a lunge and spring",
+          "examples": ["He executed a perfect balestra.", "The balestra surprised his opponent.", "Practice the balestra daily."],
+          "collocations": ["fencing balestra", "execute balestra"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports", "fencing"]
+        }
+      ]
+    },
+    {
+      "term": "balete",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large tree species native to the Philippines, also called the Philippine banyan",
+          "examples": ["The balete tree shaded the village.", "Balete trees have huge roots.", "Legends surround the balete."],
+          "collocations": ["giant balete", "sacred balete"],
+          "synonyms": ["Philippine banyan"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany", "Philippines"]
+        }
+      ]
+    },
+    {
+      "term": "balewort",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an old name for plants believed to cure evil or used in witchcraft",
+          "examples": ["Balewort was used in old remedies.", "The balewort grew in the hedge."],
+          "collocations": ["old balewort"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["botany", "folklore"]
+        }
+      ]
+    },
+    {
+      "term": "baleys",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bali",
+      "kind": "proper_noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an island in Indonesia known for tourism and culture",
+          "examples": ["We vacationed in Bali.", "Bali has beautiful beaches.", "Bali's temples are famous."],
+          "collocations": ["Bali island", "visit Bali"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "balian",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a traditional Balinese healer or shaman",
+          "examples": ["The balian treated her illness.", "Consult a balian for spiritual advice.", "The village respected the balian."],
+          "collocations": ["Balinese balian", "traditional balian"],
+          "synonyms": ["shaman", "healer"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culture", "Indonesia"]
+        }
+      ]
+    },
+    {
+      "term": "balibago",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a tree species in the Philippines with red flowers, used for fiber",
+          "examples": ["Balibago trees line the road.", "The balibago provides strong fiber."],
+          "collocations": ["red balibago"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["botany", "Philippines"]
+        }
+      ]
+    },
+    {
+      "term": "balibuntal",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "fine straw from a Philippine palm used for hats",
+          "examples": ["Balibuntal hats are lightweight.", "She wove a balibuntal hat."],
+          "collocations": ["balibuntal hat", "fine balibuntal"],
+          "synonyms": ["toquilla straw"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["crafts", "Philippines"]
+        }
+      ]
+    },
+    {
+      "term": "balibuntals",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of balibuntal, straw material for hats",
+          "examples": ["They exported balibuntals.", "Balibuntals were used for weaving."],
+          "collocations": ["fine balibuntals"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["crafts"]
+        }
+      ]
+    },
+    {
+      "term": "balibuntl",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "balija",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a historical merchant community in the Balkans",
+          "examples": ["Balija traders were prosperous.", "The Balija had their own customs."],
+          "collocations": ["Balija merchant"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "balilla",
+      "kind": "proper_noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a youth organization in Fascist Italy, or a member of it",
+          "examples": ["Balilla wore black shirts.", "The Balilla marched in parades."],
+          "collocations": ["young Balilla"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history"]
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,560 @@
+{
+  "items": [
+    {
+      "term": "nosogenetic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the origin or development of disease (nosogeny), or to the cause of disease in a population.",
+          "examples": [
+            "The researcher studied nosogenetic factors that contribute to illness in the community."
+          ],
+          "collocations": [
+            "nosogenetic factors",
+            "nosogenetic disease",
+            "nosogenetic mechanisms"
+          ],
+          "synonyms": ["pathogenic-origin related", "disease-originating"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "epidemiology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nosogenic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "originating a disease; capable of causing disease.",
+          "examples": [
+            "Certain environmental exposures are nosogenic, leading to higher rates of infection."
+          ],
+          "collocations": [
+            "nosogenic exposure",
+            "nosogenic factors",
+            "nosogenic infection"
+          ],
+          "synonyms": ["disease-causing", "pathogenic"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "public_health"]
+        }
+      ]
+    },
+    {
+      "term": "nosogeny",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the origin or cause of disease in a population or organism.",
+          "examples": [
+            "Researchers investigate nosogeny to understand how outbreaks start."
+          ],
+          "collocations": [
+            "nosogeny of a disease",
+            "study of nosogeny",
+            "factors of nosogeny"
+          ],
+          "synonyms": ["pathogenesis", "disease origin"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "epidemiology"]
+        }
+      ]
+    },
+    {
+      "term": "nosogeographic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the geographic distribution of disease or its causes.",
+          "examples": [
+            "Nosogeographic data helped map the spread of the illness."
+          ],
+          "collocations": [
+            "nosogeographic data",
+            "nosogeographic distribution",
+            "nosogeographic study"
+          ],
+          "synonyms": ["geographic-disease distribution", "disease-map related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["epidemiology", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "nosogeographical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "pertaining to nosogeography; related to the geographic patterns of disease.",
+          "examples": [
+            "Nosogeographical patterns revealed clusters of illness."
+          ],
+          "collocations": [
+            "nosogeographical patterns",
+            "nosogeographical analysis"
+          ],
+          "synonyms": ["geographic-disease related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["epidemiology"]
+        }
+      ]
+    },
+    {
+      "term": "nosogeography",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the study of the geographic distribution and patterns of disease.",
+          "examples": [
+            "Nosogeography combines geography with epidemiology to track outbreaks."
+          ],
+          "collocations": [
+            "nosogeography data",
+            "nosogeography methods",
+            "nosogeography study"
+          ],
+          "synonyms": ["spatial epidemiology", "geographical epidemiology"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["epidemiology", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "nosographer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who describes or writes about diseases; an author of nosographies.",
+          "examples": [
+            "The nosographer compiled detailed accounts of various illnesses."
+          ],
+          "collocations": [
+            "famous nosographer",
+            "medical nosographer",
+            "nosographer's work"
+          ],
+          "synonyms": ["disease describer", "nosology writer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "nosographers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nosographer; multiple writers who describe diseases.",
+          "examples": [
+            "The nosographers provided comprehensive histories of the epidemic."
+          ],
+          "collocations": [
+            "two nosographers",
+            "nosographers' records"
+          ],
+          "synonyms": ["disease describers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "l iterature"]
+        }
+      ]
+    },
+    {
+      "term": "nosographic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to nosography, the descriptive study of diseases.",
+          "examples": [
+            "Nosographic methods categorize diseases systematically."
+          ],
+          "collocations": [
+            "nosographic classification",
+            "nosographic description"
+          ],
+          "synonyms": ["disease-descriptive", "nosology-related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "nosographical",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "pertaining to nosography or to a nosographic approach.",
+          "examples": [
+            "The nosographical approach aids in systematic disease classification."
+          ],
+          "collocations": [
+            "nosographical study",
+            "nosographical records"
+          ],
+          "synonyms": ["nosographic"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "nosographically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nosographic manner; in a way that describes or classifies diseases.",
+          "examples": [
+            "The disease was described nosographically in the report."
+          ],
+          "collocations": [
+            "nosographically analyze",
+            "nosographically documented"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "nosographies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nosography; systematic descriptions of diseases.",
+          "examples": [
+            "The nosographies in the library covered many ancient illnesses."
+          ],
+          "collocations": [
+            "medieval nosographies",
+            "nosographies collection"
+          ],
+          "synonyms": ["disease descriptions", "nosology records"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "library"]
+        }
+      ]
+    },
+    {
+      "term": "nosography",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the practice or science of describing and classifying diseases; the writing of disease descriptions.",
+          "examples": [
+            "Nosography is an early form of medical classification."
+          ],
+          "collocations": [
+            "classical nosography",
+            "nosography system"
+          ],
+          "synonyms": ["disease description", "nosology"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "history_of_m medicine"]
+        }
+      ]
+    },
+    {
+      "term": "nosohaemia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a medical term for low or absent levels of blood oxygen (commonly written as nosohemia).",
+          "examples": [
+            "Nosohaemia can occur in severe respiratory conditions."
+          ],
+          "collocations": [
+            "nosohaemia detected",
+            "nosohaemia treatment"
+          ],
+          "synonyms": ["hypoxemia", "low blood oxygen"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "clinical"]
+        }
+      ]
+    },
+    {
+      "term": "nosohemia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the presence of a lower-than-normal amount of oxygen in the blood; hypoxemia.",
+          "examples": [
+            "Immediate oxygen therapy is required to treat nosohemia."
+          ],
+          "collocations": [
+            "severe nosohemia",
+            "nosohemia levels"
+          ],
+          "synonyms": ["hypoxemia"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine", "clinical"]
+        }
+      ]
+    },
+    {
+      "term": "nosologic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to nosology, the branch of medical science dealing with the classification of diseases.",
+          "examples": [
+            "Nosologic criteria help doctors diagnose illnesses."
+          ],
+          "collocations": [
+            "nosologic criteria",
+            "nosologic system"
+          ],
+          "synonyms": ["nosology-related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "nosological",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "pertaining to nosology; used in discussing disease classification.",
+          "examples": [
+            "Nosological categories group similar diseases together."
+          ],
+          "collocations": [
+            "nosological categories",
+            "nosological framework"
+          ],
+          "synonyms": ["nosology-related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "nosologically",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nosological manner; with respect to disease classification.",
+          "examples": [
+            "The condition was evaluated nosologically to determine its place in the taxonomy."
+          ],
+          "collocations": [
+            "analyzed nosologically",
+            "nosologically categorized"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "nosologies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nosology; systems or classifications of diseases; lists of diseases and their descriptions.",
+          "examples": [
+            "The early nosologies laid the groundwork for modern medical taxonomy."
+          ],
+          "collocations": [
+            "ancient nosologies",
+            "nosologies and classifications"
+          ],
+          "synonyms": ["disease classifications"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "history"]
+        }
+      ]
+    },
+    {
+      "term": "nosologist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who studies or writes about diseases; a compiler of nosologies.",
+          "examples": [
+            "The nosologist mapped conditions across centuries."
+          ],
+          "collocations": [
+            "famous nosologist",
+            "nosologist's work"
+          ],
+          "synonyms": ["disease classifier", "nosology writer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "history"]
+        }
+      ]
+    },
+    {
+      "term": "nosologists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nosologist; multiple writers who classify diseases.",
+          "examples": [
+            "Nosologists contributed to the evolving taxonomy of illnesses."
+          ],
+          "collocations": [
+            "several nosologists",
+            "nosologists' classifications"
+          ],
+          "synonyms": ["disease classifiers"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "history"]
+        }
+      ]
+    },
+    {
+      "term": "nosology",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the branch of medical science that deals with the classification of diseases; the study of how diseases are categorized.",
+          "examples": [
+            "Nosology helps doctors communicate about illnesses clearly."
+          ],
+          "collocations": [
+            "medical nosology",
+            "nosology system"
+          ],
+          "synonyms": ["disease classification", "taxonomy of diseases"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "nosomania",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an excessive preoccupation with or interest in diseases; a pathological fascination with illness.",
+          "examples": [
+            "Some collectors of medical texts show nosomania."
+          ],
+          "collocations": [
+            "nosomania group",
+            "nosomania tendency"
+          ],
+          "synonyms": ["illness fixation", "disease obsession"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "nosomycosis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fungal infection caused by fungi in the genus Nosomyces or related organisms; a specific medical condition.",
+          "examples": [
+            "Nosomycosis is rare but can affect the skin and lungs."
+          ],
+          "collocations": [
+            "nosomycosis infection",
+            "treatment for nosomycosis"
+          ],
+          "synonyms": ["nosomycosis disease"],
+          "antonyms": [],
+          "register": "medical",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "nosonomy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the law or science of determining the distribution and rights of the nose? (historical/rare term; commonly used in esoteric or coined contexts).",
+          "examples": [
+            "Nosonomy appears in some historical texts discussing medical autonomy."
+          ],
+          "collocations": [
+            "nosonomy concept",
+            "nosonomy debate"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "linguistics"]
+        }
+      ]
+    }
+  ]
+}

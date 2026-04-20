@@ -1,0 +1,424 @@
+{
+  "items": [
+    {
+      "term": "bankmen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "workers on a riverbank or in a bank who manage operations.",
+          "examples": ["The bankmen secured the boats during the flood.", "Bankmen loaded cargo onto the barges.", "Local bankmen knew the river's dangers well."],
+          "collocations": ["river bankmen", "dock bankmen", "experienced bankmen", "hire bankmen", "team of bankmen"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general", "work"]
+        }
+      ]
+    },
+    {
+      "term": "banknote",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a piece of paper money issued by a bank.",
+          "examples": ["She paid with a twenty-dollar banknote.", "The old banknote was no longer valid.", "He collected rare banknotes from around the world."],
+          "collocations": ["paper banknote", "issue banknotes", "counterfeit banknote", "exchange banknotes", "valid banknote"],
+          "synonyms": ["bill", "note"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "banknotes",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of banknote; pieces of paper money.",
+          "examples": ["He counted the banknotes carefully.", "The wallet was full of foreign banknotes.", "They exchanged banknotes at the airport."],
+          "collocations": ["count banknotes", "bundle of banknotes", "foreign banknotes", "crumpled banknotes", "stack banknotes"],
+          "synonyms": ["bills", "notes"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "bankrider",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a cowboy who rides along the edge of a cattle herd.",
+          "examples": ["The bankrider kept the herd from straying.", "As a bankrider, he watched the riverbank side."],
+          "collocations": ["cattle bankrider", "experienced bankrider", "hired bankrider"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bankroll",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a roll of paper money.",
+          "examples": ["He pulled out a thick bankroll to pay.", "The gambler flashed his bankroll at the table."],
+          "collocations": ["fat bankroll", "thick bankroll", "flash bankroll", "roll bankroll"],
+          "synonyms": ["wad", "roll"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to provide money to fund something.",
+          "examples": ["Investors bankroll the new startup.", "She bankrolls her brother's music career."],
+          "collocations": ["bankroll project", "bankroll film", "bankroll campaign", "bankroll business", "bankroll artist"],
+          "synonyms": ["fund", "finance", "back"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bankrolled",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bankroll; provided money for.",
+          "examples": ["The movie was bankrolled by a big studio.", "They bankrolled the event last year."],
+          "collocations": ["heavily bankrolled", "secretly bankrolled", "fully bankrolled"],
+          "synonyms": ["funded", "financed"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bankroller",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who provides money to fund something.",
+          "examples": ["The bankroller invested millions in the venture.", "He acted as the secret bankroller."],
+          "collocations": ["major bankroller", "silent bankroller", "chief bankroller"],
+          "synonyms": ["funder", "backer"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bankrollers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bankroller; people who fund projects.",
+          "examples": ["The bankrollers met to discuss investments.", "Several bankrollers supported the cause."],
+          "collocations": ["group of bankrollers", "key bankrollers"],
+          "synonyms": ["funders", "backers"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bankrolling",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of bankroll; providing funding.",
+          "examples": ["They are bankrolling the political campaign.", "Who is bankrolling this research?"],
+          "collocations": ["currently bankrolling", "actively bankrolling", "heavily bankrolling"],
+          "synonyms": ["funding", "financing"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bankrolls",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bankroll; rolls of money.",
+          "examples": ["Gamblers carried thick bankrolls.", "He split the bankrolls among the team."],
+          "collocations": ["fat bankrolls", "thick bankrolls"],
+          "synonyms": ["wads"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person of bankroll; funds something.",
+          "examples": ["The investor bankrolls startups.", "She bankrolls charity events."],
+          "collocations": ["bankrolls projects", "bankrolls films"],
+          "synonyms": ["funds", "finances"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bankrupcy",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "misspelling of bankruptcy; state of being unable to pay debts.",
+          "examples": ["The company faced bankrupcy due to debts.", "Avoid bankrupcy by managing finances."],
+          "collocations": ["file bankrupcy", "declare bankrupcy"],
+          "synonyms": ["bankruptcy"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["finance"]
+        }
+      ]
+    },
+    {
+      "term": "bankrupt",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "unable to pay debts; financially ruined.",
+          "examples": ["The business went bankrupt after losses.", "He felt bankrupt after the failed investment."],
+          "collocations": ["go bankrupt", "declare bankrupt", "financially bankrupt", "nearly bankrupt"],
+          "synonyms": ["insolvent", "broke", "ruined"],
+          "antonyms": ["solvent", "wealthy"],
+          "register": "null",
+          "domain": ["finance", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to make someone unable to pay debts.",
+          "examples": ["Bad investments bankrupt the company.", "The lawsuit could bankrupt them."],
+          "collocations": ["bankrupt business", "bankrupt someone", "nearly bankrupt"],
+          "synonyms": ["ruin", "impoverish"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["finance"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a person unable to pay debts.",
+          "examples": ["The bankrupt owed millions.", "He became a bankrupt after the crash."],
+          "collocations": ["declared bankrupt", "personal bankrupt"],
+          "synonyms": ["insolvent"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "bankruptcies",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bankruptcy; instances of financial failure.",
+          "examples": ["Several bankruptcies hit the industry.", "Corporate bankruptcies rose last year."],
+          "collocations": ["file bankruptcies", "series of bankruptcies", "corporate bankruptcies"],
+          "synonyms": ["insolvencies"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["finance"]
+        }
+      ]
+    },
+    {
+      "term": "bankruptcy",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "legal process when a person or company cannot pay debts.",
+          "examples": ["The firm filed for bankruptcy.", "Personal bankruptcy ruined his credit."],
+          "collocations": ["file bankruptcy", "declare bankruptcy", "corporate bankruptcy", "avoid bankruptcy", "Chapter 11 bankruptcy"],
+          "synonyms": ["insolvency"],
+          "antonyms": ["prosperity", "solvency"],
+          "register": "null",
+          "domain": ["finance", "law"]
+        }
+      ]
+    },
+    {
+      "term": "bankrupted",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bankrupt; made financially ruined.",
+          "examples": ["The crisis bankrupted many firms.", "Poor decisions bankrupted the family."],
+          "collocations": ["completely bankrupted", "nearly bankrupted"],
+          "synonyms": ["ruined", "impoverished"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["finance"]
+        }
+      ]
+    },
+    {
+      "term": "bankrupting",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of bankrupt; causing financial ruin.",
+          "examples": ["The lawsuit is bankrupting the company.", "Rising costs are bankrupting farmers."],
+          "collocations": ["bankrupting business", "slowly bankrupting"],
+          "synonyms": ["ruining"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["finance"]
+        }
+      ]
+    },
+    {
+      "term": "bankruptism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bankruptlike",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bankruptly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bankrupts",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bankrupt; people unable to pay debts.",
+          "examples": ["The court handled many bankrupts.", "Bankrupts sought new starts."],
+          "collocations": ["declared bankrupts"],
+          "synonyms": ["insolvents"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person of bankrupt; makes financially ruined.",
+          "examples": ["The scam bankrupts victims.", "It bankrupts small shops."],
+          "collocations": ["bankrupts companies"],
+          "synonyms": ["ruins"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["finance"]
+        }
+      ]
+    },
+    {
+      "term": "bankruptship",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bankrupture",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "banks",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bank; financial institutions or land edges.",
+          "examples": ["She visited several banks today.", "The banks of the river flooded."],
+          "collocations": ["river banks", "commercial banks", "investment banks"],
+          "synonyms": ["financial institutions", "slopes"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "finance", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "bankshall",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large hall in a bank building.",
+          "examples": ["Customers entered the bankshall.", "The bankshall was modern and spacious."],
+          "collocations": ["main bankshall", "grand bankshall"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "banksia",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of Australian shrub or tree with bottlebrush-like flowers.",
+          "examples": ["The banksia bloomed in the garden.", "She planted a banksia bush."],
+          "collocations": ["coastal banksia", "golden banksia", "native banksia"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    }
+  ]
+}

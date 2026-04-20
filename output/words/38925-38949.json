@@ -1,0 +1,587 @@
+{
+  "items": [
+    {
+      "term": "besweeten",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something sweeter or more sweet.",
+          "examples": [
+            "They tried to besweeten the tea with a touch of honey.",
+            "Her memory was besweetened by the gentle music."
+          ],
+          "collocations": [
+            "besweeten the tea",
+            "besweeten the mood",
+            "besweeten a flavor"
+          ],
+          "synonyms": ["sweeten", "enliven with sweetness", "make sweeter"],
+          "antonyms": ["blunt", "dull", "sap the sweetness"],
+          "register": "formal",
+          "domain": ["general", "food & drink"]
+        }
+      ]
+    },
+    {
+      "term": "beswelter",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to overwhelm someone with strong emotions or feelings; to engulf or cover with intense heat or steam.",
+          "examples": [
+            "The crowd was besweltered by the heat of the afternoon sun.",
+            "He was besweltered by emotion as he spoke."
+          ],
+          "collocations": [
+            "beswelter by heat",
+            "beswelter with emotion",
+            "beswelter the senses"
+          ],
+          "synonyms": ["overwhelm", "engulf", "immerse"],
+          "antonyms": ["calm", "cool", "temper"],
+          "register": "formal",
+          "domain": ["general", "emotion"]
+        }
+      ]
+    },
+    {
+      "term": "beswim",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to swim in a particular place or manner; to be in a state of swimming.",
+          "examples": [
+            "The fish beswim the clear waters.",
+            "They beswim in the pool every morning."
+          ],
+          "collocations": [
+            "beswim in the sea",
+            "beswim freely",
+            "beswim around"
+          ],
+          "synonyms": ["swim", "glide", "dive"],
+          "antonyms": ["stand", "sit", "dwell (not swimming)"],
+          "register": "neutral",
+          "domain": ["general", "activity"]
+        }
+      ]
+    },
+    {
+      "term": "beswinge",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to strike or affect with a swinging motion; to swing violently.",
+          "examples": [
+            "The pendulum beswinged with a broad arc.",
+            "Wind beswinged the branches above us."
+          ],
+          "collocations": [
+            "beswinge a sword",
+            "beswinge the door",
+            "beswinge wildly"
+          ],
+          "synonyms": ["swing", "fling", "whip"],
+          "antonyms": ["hold", "steady", "still"],
+          "register": "literary",
+          "domain": ["general", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "beswink",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to wink at someone or to nod or close the eyes momentarily; informal variant of blink or wink.",
+          "examples": [
+            "He beswinked at her from across the table.",
+            "She beswinked in a conspiratorial way."
+          ],
+          "collocations": [
+            "beswink at",
+            "beswink mischievously",
+            "give a beswink"
+          ],
+          "synonyms": ["wink", "blink", "signal with a wink"],
+          "antonyms": ["frown", "mean mug"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beswitch",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to switch something again; to replace or swap once more.",
+          "examples": [
+            "They decided to beswitch the plan after new information emerged.",
+            "The keys beswitched hands during the game."
+          ],
+          "collocations": [
+            "beswitch the plan",
+            "beswitch positions",
+            "beswitch the items"
+          ],
+          "synonyms": ["swap again", "rechange", "change back"],
+          "antonyms": ["maintain", "keep", "preserve"],
+          "register": "formal",
+          "domain": ["general", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "bet",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a formal or informal agreement that you will win or lose money or something else if a particular thing happens.",
+          "examples": [
+            "He made a bet with his friend about the game.",
+            "The bet is on; whoever loses buys coffee."
+          ],
+          "collocations": [
+            "make a bet",
+            "place a bet",
+            "bet amount",
+            "bet on"
+          ],
+          "synonyms": ["wager", "gamble"],
+          "antonyms": ["certainty", "assurance"],
+          "register": "informal",
+          "domain": ["general", "gambling"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to risk something by guessing or asserting something that may or may not be true, hoping to gain something if you are right.",
+          "examples": [
+            "I bet he will come late again.",
+            "She bet the team would win the match."
+          ],
+          "collocations": [
+            "bet on",
+            "bet that",
+            "bet against"
+          ],
+          "synonyms": ["risk", "gamble", "venture"],
+          "antonyms": ["play safe", "avoid risk"],
+          "register": "informal",
+          "domain": ["general", "sports"]
+        }
+      ]
+    },
+    {
+      "term": "beta",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a version of a product released for testing before the final version.",
+          "examples": [
+            "The software is in beta and still has bugs.",
+            "They released a beta version for testers."
+          ],
+          "collocations": [
+            "beta version",
+            "beta test",
+            "beta release"
+          ],
+          "synonyms": ["preview", "pre-release", "pilot"],
+          "antonyms": ["stable release", "final version"],
+          "register": "neutral",
+          "domain": ["technology", "software"]
+        }
+      ]
+    },
+    {
+      "term": "betacaine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fictional or rare term; not a standard English word; treat as undefined placeholder.",
+          "examples": [
+            "No common usage found for betacaine."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "betacarotene",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a pigment found in plants that the body converts into vitamin A; it gives orange color to carrots and other foods.",
+          "examples": [
+            "Carrots are high in beta-carotene.",
+            "Beta-carotene is a source of vitamin A."
+          ],
+          "collocations": [
+            "beta-carotene content",
+            "beta-carotene supplements",
+            "rich in beta-carotene"
+          ],
+          "synonyms": ["provitamin A", "carotene"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "betacarotenes",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beta-carotene; multiple molecules of beta-carotene.",
+          "examples": [
+            "Foods rich in betacarotenes include carrots and spinach.",
+            "Supplements provide betacarotenes as antioxidants."
+          ],
+          "collocations": [
+            "betacarotenes content",
+            "increase betacarotenes",
+            "betacarotenes source"
+          ],
+          "synonyms": ["beta-carotene (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "betacism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an error or deviation in pronunciation involving the letter 'c' or a phonetic issue; not common in modern usage.",
+          "examples": [
+            "The scholar discussed betacism in classical Greek."
+          ],
+          "collocations": [
+            "betacism in language",
+            "phonetic betacism"
+          ],
+          "synonyms": ["pronunciation error", "metathesis"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["linguistics", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "betacisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of betacism; multiple instances of such linguistic deviations.",
+          "examples": [
+            "The text contains several betacisms."
+          ],
+          "collocations": [
+            "betacisms in text",
+            "avoid betacisms"
+          ],
+          "synonyms": ["pronunciation errors"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["linguistics", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "betacismus",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an alternative term for betacism; a linguistic phenomenon concerning pronunciation.",
+          "examples": [
+            "Betacismus is rarely discussed outside linguistics."
+          ],
+          "collocations": [
+            "linguistic betacismus"
+          ],
+          "synonyms": ["betacism"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["linguistics", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "betacyanin",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a red pigment found in plants, part of the betalain family, responsible for red-violet colors.",
+          "examples": [
+            "Betacyanin gives beets their red color."
+          ],
+          "collocations": [
+            "betacyanin pigment",
+            "betacyanin content",
+            "oxidized betacyanin"
+          ],
+          "synonyms": ["betanin (a specific betacyanin)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "betacyanins",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of betacyanin; a group of red pigments in plants.",
+          "examples": [
+            "Betacyanins contribute to the color of certain fruits."
+          ],
+          "collocations": [
+            "betacyanins pigments",
+            "high betacyanins content"
+          ],
+          "synonyms": ["betacyanin compounds"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "betafite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mineral mineral family; not a common everyday term; may be obscure.",
+          "examples": [
+            "The rock contained rare betafite minerals."
+          ],
+          "collocations": [
+            "betafite mineral",
+            "betafite composition"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science", "geology"]
+        }
+      ]
+    },
+    {
+      "term": "betag",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an informal or rare symbol/letter designation; not standard English; treat as undefined.",
+          "examples": [
+            "Betag appears in a niche technical text."
+          ],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "betail",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to provide with tail or tail-like extension; not common usage.",
+          "examples": [
+            "The device betailed a new feature."
+          ],
+          "collocations": [
+            "betail feature",
+            "betail device"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "betailor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to tailor or customize with a prefix 'be-'? Note: likely a nonstandard coinage; treat as undefined.",
+          "examples": [
+            "Company betailor its services for professionals."
+          ],
+          "collocations": [
+            "betailor services"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "betain",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical term; not standard in common dictionaries; experimental.",
+          "examples": [
+            "The solution contained betain in trace amounts."
+          ],
+          "collocations": [
+            "betain concentration"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "betaine",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a water-soluble compound used in foods and supplements; acts as an osmolyte.",
+          "examples": [
+            "Betaine is often added to cereals as a supplement.",
+            "Some athletes use betaine to support performance."
+          ],
+          "collocations": [
+            "betaine hydrochloride",
+            "betaine supplement",
+            "betaine content"
+          ],
+          "synonyms": ["trimethylglycine"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "nutrition", "health"]
+        }
+      ]
+    },
+    {
+      "term": "betaines",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of betaine; multiple betaine molecules.",
+          "examples": [
+            "Purified betaines were added to the product."
+          ],
+          "collocations": [
+            "betaines content",
+            "extract betaines"
+          ],
+          "synonyms": ["betaine compounds"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "nutrition"]
+        }
+      ]
+    },
+    {
+      "term": "betainogen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a precursor to betaine; not common in everyday language; technical term.",
+          "examples": [
+            "Betainogen transforms into betaine during processing."
+          ],
+          "collocations": [
+            "betainogen to betaine"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "betake",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to go to or adopt a course of action; to take to a place or activity.",
+          "examples": [
+            "Betake yourself to your duties.",
+            "They betook themselves to the forest for solitude."
+          ],
+          "collocations": [
+            "betake oneself to",
+            "betake to the city",
+            "betake action"
+          ],
+          "synonyms": ["betake oneself", "apply", "turn to"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literary", "general"]
+        }
+      ]
+    }
+  ]
+}

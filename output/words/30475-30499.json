@@ -1,0 +1,501 @@
+```json
+{
+  "items": [
+    {
+      "term": "backen",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Archaic form of 'bake'; to cook with dry heat, especially in an oven.",
+          "examples": ["In old recipes, they would backen bread over the fire.", "The villagers backened cakes for the festival."],
+          "collocations": ["backen bread", "backen cakes", "backen pies"],
+          "synonyms": ["bake"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backened",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of archaic 'backen'; baked something.",
+          "examples": ["She backened the loaf until golden.", "The dough was backened in the clay oven."],
+          "collocations": ["backened bread", "backened goods"],
+          "synonyms": ["baked"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backening",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of archaic 'backen'; the process of baking.",
+          "examples": ["The backening bread filled the house with aroma.", "They watched the backening pies."],
+          "collocations": ["backening process", "backening bread"],
+          "synonyms": ["baking"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who gives financial or other support to a project, person, or idea.",
+          "examples": ["The startup found a wealthy backer.", "She was the main backer of the theater production."],
+          "collocations": ["financial backer", "major backer", "principal backer", "silent backer", "campaign backer"],
+          "synonyms": ["supporter", "sponsor", "investor", "patron"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "backers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of backer; people who give support or money to projects.",
+          "examples": ["The film attracted many backers.", "Political backers funded the rally."],
+          "collocations": ["major backers", "key backers", "wealthy backers"],
+          "synonyms": ["supporters", "sponsors"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "backet",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A wooden vessel or bucket used in Scotland for carrying items.",
+          "examples": ["She carried water in the backet.", "The backet held fresh milk."],
+          "collocations": ["wooden backet", "milk backet"],
+          "synonyms": ["bucket"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backets",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of backet; wooden buckets or vessels.",
+          "examples": ["Farmers used backets for water.", "Several backets stood by the well."],
+          "collocations": ["wooden backets"],
+          "synonyms": ["buckets"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backfall",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A fall or tumble backwards.",
+          "examples": ["He took a backfall during the hike.", "The wrestler avoided the backfall."],
+          "collocations": ["sudden backfall", "heavy backfall"],
+          "synonyms": ["tumble", "fall"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A recession or decline after growth, especially in economics.",
+          "examples": ["The economy suffered a backfall.", "After boom came backfall."],
+          "collocations": ["economic backfall"],
+          "synonyms": ["recession", "decline"],
+          "antonyms": ["growth"],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "backfalls",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of backfall; backward falls or economic declines.",
+          "examples": ["The climber recovered from several backfalls.", "Markets saw multiple backfalls."],
+          "collocations": ["several backfalls"],
+          "synonyms": ["tumbles", "recessions"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "backfat",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Layer of fat on the back of an animal, especially pigs, used in meat processing.",
+          "examples": ["The butcher trimmed the backfat.", "Backfat gives bacon its flavor."],
+          "collocations": ["pork backfat", "trim backfat", "render backfat"],
+          "synonyms": ["back fat"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "backfats",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of backfat; layers of fat from animal backs.",
+          "examples": ["They rendered backfats into lard.", "Backfats were sold separately."],
+          "collocations": ["pork backfats"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "backfatter",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An animal with more backfat; comparative term in livestock breeding.",
+          "examples": ["This pig is backfatter than the others.", "Breeders select backfatter hogs."],
+          "collocations": ["backfatter pigs"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "backfield",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "In American football, the group of players behind the line of scrimmage, including running backs and quarterbacks.",
+          "examples": ["The backfield gained many yards.", "Their backfield is very strong."],
+          "collocations": ["strong backfield", "backfield players", "rushing backfield"],
+          "synonyms": ["secondary"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "backfields",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of backfield; football offensive units.",
+          "examples": ["Teams rotated their backfields.", "Both backfields scored touchdowns."],
+          "collocations": ["offensive backfields"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "backfile",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A collection of old or archived files, documents, or records.",
+          "examples": ["They digitized the backfile of newspapers.", "Access the backfile for old articles."],
+          "collocations": ["digital backfile", "complete backfile", "newspaper backfile"],
+          "synonyms": ["archive", "historical file"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "backfiles",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of backfile; collections of archived materials.",
+          "examples": ["The library has backfiles of journals.", "Scan all backfiles now."],
+          "collocations": ["archived backfiles"],
+          "synonyms": ["archives"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "backfill",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Material used to refill an excavated area, like a trench or hole.",
+          "examples": ["They used gravel as backfill.", "The backfill settled overnight."],
+          "collocations": ["soil backfill", "trench backfill", "gravel backfill"],
+          "synonyms": ["fill", "filling material"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To refill an excavated hole with soil or other material.",
+          "examples": ["Workers backfill the ditch after laying pipes.", "Backfill around the new tree."],
+          "collocations": ["backfill trench", "backfill hole", "backfill foundation"],
+          "synonyms": ["refill", "fill in"],
+          "antonyms": ["excavate"],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "backfilled",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of backfill; refilled an excavated area.",
+          "examples": ["The trench was backfilled yesterday.", "They backfilled the pool site."],
+          "collocations": ["backfilled trench", "backfilled area"],
+          "synonyms": ["refilled", "filled in"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "backfiller",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A machine or tool used for backfilling trenches or holes.",
+          "examples": ["The backfiller compacted the soil.", "Rent a backfiller for the job."],
+          "collocations": ["trench backfiller"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "backfilling",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process or material of refilling excavated areas.",
+          "examples": ["Backfilling is the final step.", "Use sand for backfilling."],
+          "collocations": ["trench backfilling", "site backfilling"],
+          "synonyms": ["filling", "refilling"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Present participle of backfill; refilling a hole or trench.",
+          "examples": ["They are backfilling the foundation now.", "Avoid backfilling wet soil."],
+          "collocations": ["backfilling trenches", "backfilling holes"],
+          "synonyms": ["filling in"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "backfillings",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of backfilling; instances or types of backfill processes.",
+          "examples": ["Multiple backfillings were needed.", "Different backfillings for each site."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "backfills",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of backfill; materials or acts of refilling excavations.",
+          "examples": ["Prepare the backfills for tomorrow.", "Various backfills were tested."],
+          "collocations": ["soil backfills", "multiple backfills"],
+          "synonyms": ["fills"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Third person of backfill; refills a hole.",
+          "examples": ["The crew backfills daily.", "It backfills automatically."],
+          "collocations": ["backfills trenches"],
+          "synonyms": ["refills"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "backfire",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "When a plan or action has the opposite result to what was intended.",
+          "examples": ["His lie backfired badly.", "The protest backfired and hurt their cause."],
+          "collocations": ["plan backfired", "strategy backfired", "attempt backfired"],
+          "synonyms": ["rebound", "go wrong", "misfire"],
+          "antonyms": ["succeed"],
+          "register": null,
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Of an engine, to produce a loud bang due to improper fuel ignition.",
+          "examples": ["The car engine backfired loudly.", "The motorcycle backfired on startup."],
+          "collocations": ["engine backfired", "loud backfire"],
+          "synonyms": ["misfire"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        },
+        {
+          "pos": "noun",
+          "definition": "An explosion in an engine or a plan that fails oppositely.",
+          "examples": ["Heard a backfire from the truck.", "The policy was a backfire."],
+          "collocations": ["engine backfire", "complete backfire"],
+          "synonyms": ["misfire", "setback"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "backfired",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of backfire; a plan failed oppositely or engine exploded.",
+          "examples": ["Her scheme backfired completely.", "The old truck backfired."],
+          "collocations": ["plan backfired", "joke backfired"],
+          "synonyms": ["misfired", "rebounded"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "backfires",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third person of backfire; plan fails or engine bangs.",
+          "examples": ["The trick backfires every time.", "It backfires under load."],
+          "collocations": ["strategy backfires"],
+          "synonyms": ["misfires"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Plural of backfire; engine bangs or failed plans.",
+          "examples": ["Heard several backfires.", "Many backfires in negotiations."],
+          "collocations": ["engine backfires"],
+          "synonyms": ["misfires"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    }
+  ]
+}
+```

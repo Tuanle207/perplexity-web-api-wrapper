@@ -1,0 +1,354 @@
+```json
+{
+  "items": [
+    {
+      "term": "bacteremic",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having bacteria in the blood",
+          "examples": ["The patient was bacteremic and needed urgent treatment.", "Bacteremic shock can be life-threatening.", "Doctors tested for bacteremic infection."],
+          "collocations": ["bacteremic infection", "bacteremic patient", "bacteremic shock", "bacteremic sepsis", "bacteremic episode"],
+          "synonyms": ["septic"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacteria",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "very small living things, some good and some causing disease",
+          "examples": ["Bacteria can cause infections if they enter the body.", "Yogurt contains helpful bacteria for digestion.", "Scientists study bacteria under a microscope."],
+          "collocations": ["harmful bacteria", "good bacteria", "gut bacteria", "bacteria infection", "spread bacteria"],
+          "synonyms": ["germs", "microbes"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "medicine", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriaceae",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "family of rod-shaped bacteria including E. coli",
+          "examples": ["Bacteriaceae includes common gut bacteria.", "The Bacteriaceae family thrives in intestines."],
+          "collocations": ["Bacteriaceae family", "gram-negative Bacteriaceae"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriaceous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bacteriaemia",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "presence of bacteria in the blood (British spelling)",
+          "examples": ["Bacteriaemia requires immediate antibiotics.", "The test confirmed bacteriaemia in the sample."],
+          "collocations": ["bacteriaemia infection", "blood bacteriaemia", "treat bacteriaemia"],
+          "synonyms": ["bacteremia"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacterial",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "caused by or relating to bacteria",
+          "examples": ["She has a bacterial infection in her throat.", "Antibiotics treat bacterial diseases.", "Bacterial growth was seen in the culture."],
+          "collocations": ["bacterial infection", "bacterial disease", "bacterial pneumonia", "bacterial toxin", "bacterial culture"],
+          "synonyms": ["microbial"],
+          "antonyms": ["viral"],
+          "register": "null",
+          "domain": ["medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bacterially",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way caused by bacteria",
+          "examples": ["The wound became infected bacterially.", "Food spoils bacterially if not refrigerated."],
+          "collocations": ["infected bacterially", "contaminated bacterially"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bacterials",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bacterian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bacterias",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bacteric",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bactericholia",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bactericidal",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to kill bacteria",
+          "examples": ["This soap is bactericidal and cleans well.", "Bactericidal antibiotics stop infections fast."],
+          "collocations": ["bactericidal agent", "bactericidal effect", "bactericidal drug", "bactericidal activity"],
+          "synonyms": ["antibacterial"],
+          "antonyms": ["bacteriostatic"],
+          "register": "null",
+          "domain": ["medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bactericidally",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that kills bacteria",
+          "examples": ["The chemical works bactericidally on surfaces."],
+          "collocations": ["acts bactericidally"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bactericide",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "substance that kills bacteria",
+          "examples": ["Use this bactericide to clean the tools.", "The bactericide destroyed all germs."],
+          "collocations": ["liquid bactericide", "chemical bactericide", "apply bactericide"],
+          "synonyms": ["antiseptic", "disinfectant"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bactericides",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bactericide; substances that kill bacteria",
+          "examples": ["These bactericides are safe for skin.", "Various bactericides treat infections."],
+          "collocations": ["use bactericides", "test bactericides"],
+          "synonyms": ["antibacterials"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "bactericidin",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "substance in blood that destroys bacteria",
+          "examples": ["Bactericidin helps fight infections naturally."],
+          "collocations": ["blood bactericidin"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacterid",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "skin eruption linked to bacterial infection",
+          "examples": ["The rash was diagnosed as a bacterid."],
+          "collocations": ["gonococcal bacterid"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriemia",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "bacteria present in the blood",
+          "examples": ["Bacteriemia can lead to sepsis.", "Tests showed bacteriemia in the patient."],
+          "collocations": ["transient bacteriemia", "blood bacteriemia"],
+          "synonyms": ["bacteremia"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacteriform",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having the shape of bacteria (rod-like)",
+          "examples": ["The cells appeared bacteriform under the lens."],
+          "collocations": ["bacteriform organisms"],
+          "synonyms": ["bacilliform"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacterin",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "vaccine made from killed bacteria",
+          "examples": ["The bacterin protected animals from disease.", "Veterinarians use bacterin for livestock."],
+          "collocations": ["bacterial bacterin", "animal bacterin"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "veterinary"]
+        }
+      ]
+    },
+    {
+      "term": "bacterins",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bacterin; vaccines from killed bacteria",
+          "examples": ["These bacterins prevent common infections."],
+          "collocations": ["various bacterins"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bacterioagglutinin",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "antibody that clumps bacteria together",
+          "examples": ["Bacterioagglutinin is used in lab tests."],
+          "collocations": ["serum bacterioagglutinin"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "bacterioblast",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "bacteriochlorophyll",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "green pigment in photosynthetic bacteria",
+          "examples": ["Bacteriochlorophyll helps bacteria use sunlight.", "Scientists study bacteriochlorophyll in purple bacteria."],
+          "collocations": ["bacterial bacteriochlorophyll", "photosynthetic bacteriochlorophyll"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    }
+  ]
+}
+```

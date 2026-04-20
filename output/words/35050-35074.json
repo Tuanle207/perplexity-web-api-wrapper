@@ -1,0 +1,501 @@
+```json
+{
+  "items": [
+    {
+      "term": "beam",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a long, thick piece of wood, metal, or concrete used to support weight in a building",
+          "examples": ["The wooden beams held up the roof.", "Steel beams were used in the bridge construction.", "Cracks appeared in the old beams."],
+          "collocations": ["structural beam", "wooden beam", "steel beam", "load-bearing beam", "roof beam"],
+          "synonyms": ["joist", "girder", "rafter"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["construction", "architecture", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a line of light that shines from something like a lamp or laser",
+          "examples": ["The beam from the lighthouse guided the ship.", "A beam of sunlight entered the room.", "The laser beam cut through the metal."],
+          "collocations": ["beam of light", "narrow beam", "bright beam", "searchlight beam", "laser beam"],
+          "synonyms": ["ray", "shaft", "gleam"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general", "science", "technology"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a wide, happy smile",
+          "examples": ["She gave him a beam of happiness.", "His face lit up with a beam.", "The child's beam showed her joy."],
+          "collocations": ["wide beam", "happy beam", "broad beam", "cheerful beam"],
+          "synonyms": ["smile", "grin", "smile"],
+          "antonyms": ["frown"],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to shine brightly or send out rays of light",
+          "examples": ["The sun beamed down on the beach.", "The flashlight beamed into the darkness.", "Stars beamed in the night sky."],
+          "collocations": ["beam down", "beam out", "beam brightly", "beam light"],
+          "synonyms": ["shine", "radiate", "gleam"],
+          "antonyms": ["dim"],
+          "register": "null",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to smile very widely because you are happy",
+          "examples": ["She beamed with pride at her son's success.", "He beamed at the audience.", "The winner beamed as she accepted the award."],
+          "collocations": ["beam with pride", "beam happily", "beam at someone", "beam broadly"],
+          "synonyms": ["smile", "grin", "radiate"],
+          "antonyms": ["frown"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beamage",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a structure projecting from a building wall to support weight, like a balcony",
+          "examples": ["The beamage held flower pots.", "Workers repaired the old beamage.", "The beamage offered a great view."],
+          "collocations": ["stone beamage", "wooden beamage", "projecting beamage"],
+          "synonyms": ["beam", "cantilever"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "beambird",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "another name for the spotted flycatcher bird, a small European bird",
+          "examples": ["The beambird nested in the tree.", "We spotted a beambird in the garden.", "Beambirds feed on insects."],
+          "collocations": ["spotted beambird", "nesting beambird"],
+          "synonyms": ["spotted flycatcher"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nature", "ornithology"]
+        }
+      ]
+    },
+    {
+      "term": "beamed",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of beam; sent out light or smiled widely",
+          "examples": ["The sun beamed warmly yesterday.", "She beamed at her new baby.", "The lighthouse beamed steadily all night."],
+          "collocations": ["beamed with pride", "beamed down", "beamed brightly"],
+          "synonyms": ["shone", "smiled", "grinned"],
+          "antonyms": ["frowned"],
+          "register": "null",
+          "domain": ["general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "having wooden beams visible, especially on ceiling or walls",
+          "examples": ["The beamed ceiling gave a cozy feel.", "They stayed in a beamed cottage.", "The restaurant had a beamed interior."],
+          "collocations": ["beamed ceiling", "exposed beamed", "oak-beamed"],
+          "synonyms": ["raftered"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["architecture", "interior design"]
+        }
+      ]
+    },
+    {
+      "term": "beamer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a projector machine that shows images or videos on a screen or wall",
+          "examples": ["The teacher used the beamer for the presentation.", "Connect your laptop to the beamer.", "The beamer displayed the slides clearly."],
+          "collocations": ["video beamer", "LCD beamer", "presentation beamer"],
+          "synonyms": ["projector"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "business", "education"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a type of fast cricket delivery that passes over the batsman's head",
+          "examples": ["The bowler bowled a beamer.", "Beamers are dangerous in cricket.", "The umpire no-balled the beamer."],
+          "collocations": ["full-toss beamer", "head-high beamer"],
+          "synonyms": ["bouncer"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "beamers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beamer; projector machines",
+          "examples": ["The school bought new beamers.", "Several beamers were set up for the event.", "Check if the beamers are working."],
+          "collocations": ["video beamers", "portable beamers"],
+          "synonyms": ["projectors"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "beamfilling",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "material used to fill spaces between beams in building construction",
+          "examples": ["They added beamfilling for insulation.", "Brick beamfilling strengthened the wall.", "Traditional beamfilling used plaster."],
+          "collocations": ["brick beamfilling", "plaster beamfilling"],
+          "synonyms": ["nogging"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["construction", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "beamful",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "radiating or full of bright light like a beam",
+          "examples": ["The beamful sunrise lit the valley.", "Her beamful eyes sparkled with joy."],
+          "collocations": ["beamful light", "beamful smile"],
+          "synonyms": ["radiant", "luminous"],
+          "antonyms": ["dim"],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "beamhouse",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a building or room where wooden beams are stored or prepared",
+          "examples": ["The beams were cut in the beamhouse.", "Workers loaded timber into the beamhouse."],
+          "collocations": ["timber beamhouse", "storage beamhouse"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "beamier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative of beamy; having broader beams or a wider smile",
+          "examples": ["This ship is beamier than the last.", "Her beamier smile showed more joy."],
+          "collocations": ["beamier ship", "beamier smile"],
+          "synonyms": [],
+          "antonyms": ["narrower"],
+          "register": "null",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "beamiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative of beamy; having the broadest beams or widest smile",
+          "examples": ["The beamiest ship in the fleet was stable.", "She had the beamiest grin at the party."],
+          "collocations": ["beamiest smile", "beamiest vessel"],
+          "synonyms": [],
+          "antonyms": ["narrowest"],
+          "register": "null",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "beamily",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a beaming manner, with a wide smile",
+          "examples": ["She smiled beamily at the compliment.", "He grinned beamily throughout the show."],
+          "collocations": ["smile beamily", "grin beamily"],
+          "synonyms": ["radiantly", "brightly"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "beaminess",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of having wide beams or a broad smile",
+          "examples": ["The beaminess of her smile was infectious.", "The ship's beaminess improved stability."],
+          "collocations": ["smile beaminess", "ship beaminess"],
+          "synonyms": ["breadth"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "beaminesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beaminess; multiple instances of broad beam quality",
+          "examples": ["Various beaminesses affected ship design."],
+          "collocations": ["different beaminesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "beaming",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "smiling very widely because of happiness",
+          "examples": ["She had a beaming smile on her face.", "The beaming child ran to her mother.", "He gave a beaming welcome to the guests."],
+          "collocations": ["beaming smile", "beaming face", "beaming with pride"],
+          "synonyms": ["smiling", "radiant", "grinning"],
+          "antonyms": ["frowning"],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "shining brightly",
+          "examples": ["The beaming sun warmed the garden.", "Beaming headlights lit the road."],
+          "collocations": ["beaming sun", "beaming light"],
+          "synonyms": ["shining", "radiant"],
+          "antonyms": ["dim"],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beamingly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that shows a wide, happy smile",
+          "examples": ["She nodded beamingly.", "He agreed beamingly to the plan."],
+          "collocations": ["smile beamingly", "look beamingly"],
+          "synonyms": ["radiantly"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "beamings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beaming; instances of wide smiles or shining lights",
+          "examples": ["Her beamings lit up the room.", "Frequent beamings showed her joy."],
+          "collocations": ["joyful beamings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "beamish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "beaming or radiant with happiness",
+          "examples": ["She wore a beamish expression.", "The beamish bride glowed with joy."],
+          "collocations": ["beamish smile", "beamish face"],
+          "synonyms": ["beaming", "radiant", "cheerful"],
+          "antonyms": ["sad"],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "beamishly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a beaming or happy manner",
+          "examples": ["She smiled beamishly.", "He nodded beamishly."],
+          "collocations": ["grin beamishly"],
+          "synonyms": ["radiantly"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "beamless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "lacking a beam or ray of light; dark",
+          "examples": ["The beamless night was scary.", "A beamless room felt gloomy."],
+          "collocations": ["beamless darkness", "beamless sky"],
+          "synonyms": ["dark", "unlit"],
+          "antonyms": ["beaming"],
+          "register": "literary",
+          "domain": ["literary"]
+        }
+      ]
+    },
+    {
+      "term": "beamlet",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small or thin beam of light or radiation",
+          "examples": ["The beamlet targeted the cell precisely.", "Tiny beamlets scanned the surface."],
+          "collocations": ["laser beamlet", "narrow beamlet"],
+          "synonyms": ["ray"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "beamlets",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beamlet; small beams of light",
+          "examples": ["Multiple beamlets illuminated the area.", "The device emitted beamlets."],
+          "collocations": ["tiny beamlets", "parallel beamlets"],
+          "synonyms": ["rays"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "beamlike",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling a beam in shape or form",
+          "examples": ["The beamlike structure supported the roof.", "A beamlike ray pierced the clouds."],
+          "collocations": ["beamlike ray", "beamlike support"],
+          "synonyms": ["linear"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beamman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a worker who handles or installs beams in construction",
+          "examples": ["The beamman positioned the steel beam.", "Hire a skilled beamman for the job."],
+          "collocations": ["steel beamman", "construction beamman"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["construction"]
+        }
+      ]
+    },
+    {
+      "term": "beamroom",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a room or space with exposed beams, often for aesthetic effect",
+          "examples": ["The beamroom felt rustic and warm.", "They dined in the cozy beamroom."],
+          "collocations": ["oak beamroom", "exposed beamroom"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["architecture", "interior design"]
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,497 @@
+{
+  "items": [
+    {
+      "term": "biconditional",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a logical statement that expresses two conditions which are both true for the statement to hold, typically written as 'If A then B, and if B then A' in formal logic or mathematics",
+          "examples": [
+            "In mathematics, the biconditional A if and only if B is true when both directions hold.",
+            "The sentence 'P if and only if Q' is a biconditional in logic."
+          ],
+          "collocations": ["biconditional statement", "biconditional proof", "biconditional connective"],
+          "synonyms": ["iff condition", "if and only if statement"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "science", "logic", "mathematics"]
+        }
+      ]
+    },
+    {
+      "term": "biconditionals",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of biconditional; multiple biconditional statements used in logic or mathematics",
+          "examples": [
+            "The exercise lists several biconditionals to prove equivalence.",
+            "We compare two biconditionals to check consistency."
+          ],
+          "collocations": ["set of biconditionals", "group of biconditionals"],
+          "synonyms": ["iff statements"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "science", "logic", "mathematics"]
+        }
+      ]
+    },
+    {
+      "term": "bicondylar",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having two condyles; relating to two rounded projections at the end of a bone",
+          "examples": [
+            "The femur has bicondylar surfaces where the knee joints.",
+            "A bicondylar articulation connects two condyles."
+          ],
+          "collocations": ["bicondylar joint", "bicondylar surface"],
+          "synonyms": ["two-condyle", "double-condylar"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "anatomy", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bicone",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a geometric shape consisting of two cones joined at their bases",
+          "examples": [
+            "The sculpture is shaped like a bicone.",
+            "A bicone can have a symmetrical pointed figure."
+          ],
+          "collocations": ["golden bicone", "bicone shape", "bicone prism"],
+          "synonyms": ["double cone"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geometry", "mathematics", "art"]
+        }
+      ]
+    },
+    {
+      "term": "biconic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having two cones or cone-shaped ends",
+          "examples": [
+            "The biconic object tapers to two sharp points.",
+            "Biconic lenses focus light from two directions."
+          ],
+          "collocations": ["biconic shape", "biconic lens"],
+          "synonyms": ["double-conic"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geometry", "optics", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "biconically",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner that has two cones or is shaped like two joined cones",
+          "examples": [
+            "The object was formed biconically, tapering at both ends.",
+            "The lens is designed to focus light biconically."
+          ],
+          "collocations": ["biconically shaped", "biconically configured"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geometry", "optics", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "biconjugate",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "joined or coupled in two positions; in chemistry or mathematics, connected in two conjugate ways",
+          "examples": [
+            "A biconjugate molecule links two reactive sites.",
+            "The concept of biconjugate roots appears in advanced algebra."
+          ],
+          "collocations": ["biconjugate pair", "biconjugate relationship"],
+          "synonyms": ["dual-conjugate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "mathematics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "biconnected",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "in graph theory, a connected graph that remains connected after removing any single vertex",
+          "examples": [
+            "A biconnected graph has no articulation points.",
+            "We analyze a biconnected network to ensure fault tolerance."
+          ],
+          "collocations": ["biconnected component", "biconnected graph"],
+          "synonyms": ["2-vertex-connected"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["computer science", "mathematics", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "biconsonantal",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "containing or characterized by two consonants; in linguistics, two consonants in a cluster",
+          "examples": [
+            "A biconsonantal word has two consonant sounds together.",
+            "Languages may feature biconsonantal syllable structures."
+          ],
+          "collocations": ["biconsonantal cluster", "biconsonantal language"],
+          "synonyms": ["two-consonant"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "language", "phonology"]
+        }
+      ]
+    },
+    {
+      "term": "biconvex",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having two convex surfaces or faces",
+          "examples": [
+            "A biconvex lens bulges outward on both sides.",
+            "The biconvex shape helps to focus light."
+          ],
+          "collocations": ["biconvex lens", "biconvex surface"],
+          "synonyms": ["double convex"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["optics", "physics", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "biconvexities",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of biconvexity; multiple instances of double-convex shapes or surfaces",
+          "examples": [
+            "The optical components show several biconvexities.",
+            "We compare the biconvexities of different lenses."
+          ],
+          "collocations": ["biconvexities in lenses"],
+          "synonyms": ["double convexities"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["optics", "engineering", "physics"]
+        }
+      ]
+    },
+    {
+      "term": "biconvexity",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of having two convex surfaces; a double-convex shape",
+          "examples": [
+            "The biconvexity of the lens determines its focal length.",
+            "Two surfaces contribute to the lens’s biconvexity."
+          ],
+          "collocations": ["level of biconvexity", "degree of biconvexity"],
+          "synonyms": ["double convexity"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["optics", "physics", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "bicorn",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a two-horned horned creature or symbol; a military cap with two points",
+          "examples": [
+            "The heraldic symbol featured a white bicorn.",
+            "In some costumes, the bicorn hat is iconic."
+          ],
+          "collocations": ["bicorn hat", "bicorn symbol"],
+          "synonyms": ["two-horned animal", "two-horned symbol"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "mythology", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bicornate",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having two horns or hornlike projections; in biology, possessing two horns",
+          "examples": [
+            "A bicornate skull has two horn-like projections.",
+            "The plant features a bicornate seed shape."
+          ],
+          "collocations": ["bicornate skull", "bicornate seed"],
+          "synonyms": ["two-horned"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "anatomy", "zoology"]
+        }
+      ]
+    },
+    {
+      "term": "bicornute",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having two horns; rare or archaic form referring to two-horned",
+          "examples": [
+            "A bicornute figure appears in old engravings."
+          ],
+          "collocations": ["bicornute feature"],
+          "synonyms": ["two-horned"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "mythology", "art"]
+        }
+      ]
+    },
+    {
+      "term": "bicornute",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "variant spelling of bicornute; having two horns",
+          "examples": [
+            "The heraldic charge displays a bicornute head."
+          ],
+          "collocations": ["bicornute head"],
+          "synonyms": ["two-horned"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "mythology", "art"]
+        }
+      ]
+    },
+    {
+      "term": "bicornute",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a two-horned object or creature; spelling variant",
+          "examples": [
+            "The creature is known as a bicornute."
+          ],
+          "collocations": ["bicornute symbol"],
+          "synonyms": ["two-horned object", "two-horned creature"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["mythology", "folklore", "art"]
+        }
+      ]
+    },
+    {
+      "term": "bicornes",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bicorne; two-horned hats or heraldic devices",
+          "examples": [
+            "The knights wore bicornes in the reenactment.",
+            "Heraldry sometimes features bicornes."
+          ],
+          "collocations": ["gold bicornes", "ceremonial bicornes"],
+          "synonyms": ["two-horned hats"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "military", "fashion", "heraldry"]
+        }
+      ]
+    },
+    {
+      "term": "bicornous",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having two horns or hornlike projections; horned",
+          "examples": [
+            "The sculpture features a bicornous silhouette.",
+            "A bicornous profile suggests a mythical creature."
+          ],
+          "collocations": ["bicornous figure", "bicornous silhouette"],
+          "synonyms": ["two-horned", "dual-horned"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["arts", "folklore", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "bicorns",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bicorn; two-horned hats or mythical creatures",
+          "examples": [
+            "The exhibit showed ancient bicorns used in festivals.",
+            "In legends, bicorns are sometimes depicted as fierce creatures."
+          ],
+          "collocations": ["mythical bicorns", "ceremonial bicorns"],
+          "synonyms": ["two-horned animals"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["mythology", "history", "art"]
+        }
+      ]
+    },
+    {
+      "term": "bicornuate",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having two horns or two horns-like surfaces; in anatomy, a uterus with two horns",
+          "examples": [
+            "A bicornuate uterus has two uterine horns.",
+            "The term is used in anatomy and zoology."
+          ],
+          "collocations": ["bicornuate uterus", "bicornuate structure"],
+          "synonyms": ["dual-horned"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "biology", "anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "bicornuous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having two horns; variant or rare form of bicornuous",
+          "examples": [
+            "The plate bore a bicornuous symbol."
+          ],
+          "collocations": ["bicornuous symbol"],
+          "synonyms": ["two-horned"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "art", "heraldry"]
+        }
+      ]
+    },
+    {
+      "term": "bicornute",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternate form for bicorne; a two-horned hat or creature",
+          "examples": [
+            "The explorer wore a bicornute hat."
+          ],
+          "collocations": ["bicornute hat"],
+          "synonyms": ["bicorn"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "military", "fashion"]
+        }
+      ]
+    },
+    {
+      "term": "bicorporal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to two bodies or two corporeal parts; dual-bodied",
+          "examples": [
+            "The concept is bicorporal in some speculative theories."
+          ],
+          "collocations": ["bicorporal concept"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["theory", "philosophy", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "bicorporate",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "involving two corporations or corporate entities",
+          "examples": [
+            "The agreement was a bicorporate partnership."
+          ],
+          "collocations": ["bicorporate merger", "bicorporate partnership"],
+          "synonyms": ["dual-corporate"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "law", "economics"]
+        }
+      ]
+    }
+  ]
+}

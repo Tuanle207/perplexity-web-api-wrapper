@@ -1,0 +1,578 @@
+{
+  "items": [
+    {
+      "term": "northing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a measurement of distance toward the north on a map or grid; the coordinate or distance from a starting point in a northward direction",
+          "examples": [
+            "The map shows the northing coordinate to locate the position precisely.",
+            "They measured the northing to chart the route through the field."
+          ],
+          "collocations": ["northing coordinate", "northing value", "increase northing", "subtract northing"],
+          "synonyms": ["latitude-like measure", "northward measure"],
+          "antonyms": ["easting", "southing"],
+          "register": "neutral",
+          "domain": ["general", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "northings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of northing; multiple measurements or values indicating distance toward the north on a map or grid",
+          "examples": [
+            "The survey recorded several northings along the boundary.",
+            "These northings help determine the northernmost point."
+          ],
+          "collocations": ["northings values", "northings measurements", "record northings"],
+          "synonyms": ["northing values"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "surveying"]
+        }
+      ]
+    },
+    {
+      "term": "northland",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a region or area to the north of a country or a given location; a northern land or territory",
+          "examples": [
+            "They explored the wild northland beyond the river.",
+            "The expedition ventured into the northland in winter."
+          ],
+          "collocations": ["the northland", "remote northland", "northern region"],
+          "synonyms": ["northern land", "northern region"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "northlander",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who lives in or comes from a northern region",
+          "examples": [
+            "The Northlander spoke warmly about the land's resilience.",
+            "Northern travelers are welcome as Northlanders."
+          ],
+          "collocations": ["local Northlander", "Northlander people"],
+          "synonyms": ["northern resident", "northern inhabitant"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "northlands",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the lands or regions to the north; northern territories",
+          "examples": [
+            "The explorers crossed the vast northlands.",
+            "Stories of the northlands filled the camp with awe."
+          ],
+          "collocations": ["the northlands", "remote northlands"],
+          "synonyms": ["northern lands"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "northlight",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a light or glow coming from the north; an atmospheric or poetic term for northern light, such as aurora borealis",
+          "examples": [
+            "The northlight shimmered across the fjord.",
+            "They chased the elusive northlight during the cold night."
+          ],
+          "collocations": ["northlight glow", "dancing northlight"],
+          "synonyms": ["aurora borealis glow", "northern light"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["nature", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "northman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an old or archaic term for a man from the north; a northern warrior or inhabitant",
+          "examples": [
+            "The sagas mention fierce Norse Northmen.",
+            "A Northman stood at the edge of the shore."
+          ],
+          "collocations": ["Norse Northmen", "northman warrior"],
+          "synonyms": ["northern man", "Norse warrior"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "history"]
+        }
+      ]
+    },
+    {
+      "term": "northmost",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "farthest to the north; the most northern",
+          "examples": [
+            "The captain reached the northmost point of the map.",
+            "They camped at the northmost edge of the valley."
+          ],
+          "collocations": ["northmost point", "northmost region"],
+          "synonyms": ["northernmost"],
+          "antonyms": ["southmost"],
+          "register": "neutral",
+          "domain": ["geography", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "northness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality or state of being toward the north; the degree of northward direction",
+          "examples": [
+            "The northness of the compass indicated the map was oriented.",
+            "They adjusted the route to account for northness."
+          ],
+          "collocations": ["degree of northness", "northness direction"],
+          "synonyms": ["northward tendency"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "navigation"]
+        }
+      ]
+    },
+    {
+      "term": "norths",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of north; the northern directions or references",
+          "examples": [
+            "The map shows several norths on the compass rose.",
+            "They traveled through the norths to reach the settlement."
+          ],
+          "collocations": ["cardinal norths", "toward the norths"],
+          "synonyms": ["northernside directions"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["navigation", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "northumber",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a historical or obsolete form referring to a northern region or borderland; may appear in place names",
+          "examples": [
+            "The manuscript mentions Northumberland in old chronicles."
+          ],
+          "collocations": ["Northumber land/shire (historic)", "northumber term in archaic texts"],
+          "synonyms": ["northumbria term"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "northumbrian",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person from Northumbria; relating to the historic region of Northumbria",
+          "examples": [
+            "The Northumbrian dialect has unique features.",
+            "A Northumbrian bagpipe melody filled the hall."
+          ],
+          "collocations": ["Northumbrian dialect", "Northumbrian people"],
+          "synonyms": ["Northumbrian person"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "cultural studies"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to Northumbria or its people",
+          "examples": [
+            "Northumbrian landscapes inspired many artists.",
+            "She plays Northumbrian music on traditional instruments."
+          ],
+          "collocations": ["Northumbrian culture", "Northumbrian music"],
+          "synonyms": ["Northumbrian"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "northupite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mineral or chemical compound; technical term not common in everyday usage",
+          "examples": [
+            "The specimen was identified as northupite by the chemist."
+          ],
+          "collocations": ["northupite sample", "northupite mineral"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "northward",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "toward the north",
+          "examples": [
+            "They moved northward to escape the heat.",
+            "The winds pushed the boat northward."
+          ],
+          "collocations": ["move northward", "head northward"],
+          "synonyms": ["north", "to the north"],
+          "antonyms": ["southward"],
+          "register": "neutral",
+          "domain": ["geography", "travel"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "facing or directed toward the north; situated toward the north",
+          "examples": [
+            "The northward slope caught more sun.",
+            "They charted a northward route."
+          ],
+          "collocations": ["northward direction", "northward route"],
+          "synonyms": ["northernward"],
+          "antonyms": ["southward"],
+          "register": "neutral",
+          "domain": ["geography", "navigation"]
+        }
+      ]
+    },
+    {
+      "term": "northwardly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a northward direction; toward the north",
+          "examples": [
+            "The ship drifted northwardly along the coast.",
+            "They pointed northwardly to indicate the village."
+          ],
+          "collocations": ["move northwardly", "direction northwardly"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["navigation", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "northwards",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "toward the north; in the northern direction",
+          "examples": [
+            "The river flows northwards.",
+            " pilgrims traveled northwards to the cathedral."
+          ],
+          "collocations": ["go northwards", "face northwards"],
+          "synonyms": ["northward"],
+          "antonyms": ["southwards"],
+          "register": "neutral",
+          "domain": ["geography", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "northwest",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the direction halfway between north and west; a compass point",
+          "examples": [
+            "They sailed toward the northwest.",
+            "The house is in the northwest corner."
+          ],
+          "collocations": ["northwest wind", "northwest region"],
+          "synonyms": ["NW direction"],
+          "antonyms": ["northeast", "southwest"],
+          "register": "neutral",
+          "domain": ["geography", "navigation"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "located toward the northwest; relating to the northwest direction",
+          "examples": [
+            "Northwest villages are known for their crafts.",
+            "The northwest coast experiences strong winds."
+          ],
+          "collocations": ["northwest coast", "northwest region"],
+          "synonyms": ["northwestern"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography"]
+        },
+        {
+          "pos": "adverb",
+          "definition": "toward the northwest direction",
+          "examples": [
+            "They headed northwest across the plain."
+          ],
+          "collocations": ["move northwest"],
+          "synonyms": ["northwestward"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "northwester",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing from the northwest; an adjective form for northwest",
+          "examples": [
+            "A true northwester arrives with a chilly breeze.",
+            "The northwester storm caused alarms to ring."
+          ],
+          "collocations": ["northwester wind", "northwester storm"],
+          "synonyms": ["northwestern person", "northwesterly"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["weather", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "northwesterlies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the prevailing winds from the northwest, especially at sea or high latitudes",
+          "examples": [
+            "The ship benefited from strong northwesterlies.",
+            "Climatologists study how northwesterlies affect weather."
+          ],
+          "collocations": ["strong northwesterlies", "persistent northwesterlies"],
+          "synonyms": ["northwester wind"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["meteorology", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "northwesterly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "coming from the northwest; of or relating to the northwest",
+          "examples": [
+            "A northwesterly gale blew across the coast.",
+            "They followed the northwesterly route along the coast."
+          ],
+          "collocations": ["northwesterly wind", "northwesterly breeze"],
+          "synonyms": ["northwestern"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["meteorology", "geography"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a northwesterly wind or direction",
+          "examples": [
+            "The northwesterly brought rain."
+          ],
+          "collocations": ["northwesterly wind"],
+          "synonyms": ["northwest wind"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["meteorology"]
+        }
+      ]
+    },
+    {
+      "term": "northwestern",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the people or language of the northwestern region; a person from the northwest",
+          "examples": [
+            "The Northwestern spoke with a distinct accent.",
+            "Northwesterners enjoy the rugged landscape."
+          ],
+          "collocations": ["Northwesterners", "Northwestern dialect"],
+          "synonyms": ["northwestern person"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "culture"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "situated in the northwest or relating to the northwest",
+          "examples": [
+            "The Northwestern states have varied climates.",
+            "A Northwestern wind pushed the ships westward."
+          ],
+          "collocations": ["Northwestern region", "Northwestern wind"],
+          "synonyms": ["northwest", "northwestern"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "climate"]
+        }
+      ]
+    },
+    {
+      "term": "northwesterner",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person from the northwestern region",
+          "examples": [
+            "A proud Northwesterner shared stories of the mountains.",
+            "Northwesterners are known for their coffee culture."
+          ],
+          "collocations": ["Northwesterner residents"],
+          "synonyms": ["northwestern person"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "northwesternmost",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "the most northwestern; farthest to the northwest",
+          "examples": [
+            "They reached the northwesternmost point of the archipelago.",
+            "The northwesternmost towns were isolated during winter."
+          ],
+          "collocations": ["northwesternmost point", "northwesternmost town"],
+          "synonyms": ["most northwestern"],
+          "antonyms": ["southeasternmost", "northeasternmost"],
+          "register": "neutral",
+          "domain": ["geography", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "northwesters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people from the northwest or winds from the northwest; plural form",
+          "examples": [
+            "The northwesters faced harsh weather.",
+            "Northwesters often rely on maritime industries."
+          ],
+          "collocations": ["northwesters community", "winds of northwesters"],
+          "synonyms": ["northwesterners"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "northwests",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of northwest; the northwest regions or directions",
+          "examples": [
+            "The map shows several northwests around the coast.",
+            "They mapped the northwests for navigation."
+          ],
+          "collocations": ["the northwests"],
+          "synonyms": ["northwest regions"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography"]
+        }
+      ]
+    }
+  ]
+}

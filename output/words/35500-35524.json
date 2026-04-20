@@ -1,0 +1,436 @@
+```json
+{
+  "items": [
+    {
+      "term": "becivet",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "beck",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a gesture made with the head or hand to call someone.",
+          "examples": ["He gave a beck to his servant to approach.", "With a subtle beck, she signaled him to follow."],
+          "collocations": ["at someone's beck", "beck and call", "give a beck", "nod and beck"],
+          "synonyms": ["gesture", "signal", "nod"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a small mountain stream, especially in northern England.",
+          "examples": ["The beck flowed gently through the valley.", "Children played by the beck on a sunny day."],
+          "collocations": ["babbling beck", "mountain beck", "brook and beck"],
+          "synonyms": ["brook", "stream", "rivulet"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "becke",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "becked",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of beck, meaning made a gesture to summon.",
+          "examples": ["She becked him over with a wave.", "The lord becked his attendant to come nearer."],
+          "collocations": ["becked forward", "becked silently", "becked to approach"],
+          "synonyms": ["gestured", "signaled", "summoned"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beckelite",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "becker",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who lives in a place called Beck.",
+          "examples": ["The becker knew all the local paths.", "Old beckers still speak the dialect."],
+          "collocations": ["local becker", "old becker"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beckes",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "becket",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a loop of rope or metal used to secure or hold something, especially on a ship.",
+          "examples": ["The sailor tied the sail with a becket.", "Fasten the oar using this becket."],
+          "collocations": ["rope becket", "metal becket", "sail becket"],
+          "synonyms": ["loop", "strap", "cleat"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        },
+        {
+          "pos": "proper_noun",
+          "definition": "short for Thomas Becket, a 12th-century English saint and martyr.",
+          "examples": ["Becket was murdered in Canterbury Cathedral.", "Pilgrims visited Becket's shrine."],
+          "collocations": ["Saint Becket", "Thomas Becket", "Archbishop Becket"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "beckets",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of becket; loops for securing items.",
+          "examples": ["The becket secured the rigging during the storm.", "Check all becket before sailing."],
+          "collocations": ["rope becket", "ship's becket"],
+          "synonyms": ["loops", "straps"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "beckett",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "Samuel Beckett, famous Irish playwright and author.",
+          "examples": ["Beckett wrote Waiting for Godot.", "Beckett won the Nobel Prize in 1969."],
+          "collocations": ["Samuel Beckett", "Beckett play", "Beckett novel"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "beckie",
+      "kind": "proper_noun",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a common female given name.",
+          "examples": ["Beckie is my best friend.", "Happy birthday, Beckie!"],
+          "collocations": ["little Beckie", "friend Beckie"],
+          "synonyms": ["Becky"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "becking",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of making a beck gesture.",
+          "examples": ["His becken was barely noticeable.", "The becken summoned the waiter."],
+          "collocations": ["silent becken", "subtle becken"],
+          "synonyms": ["gesturing"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beckiron",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a bickern; an anvil with two horns used in blacksmithing.",
+          "examples": ["The blacksmith shaped the iron on the beckiron.", "Use the beckiron for bending metal."],
+          "collocations": ["double beckiron", "blacksmith beckiron"],
+          "synonyms": ["bickern", "anvil"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["tools", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "beckon",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to signal to someone by waving the hand or nodding to come nearer.",
+          "examples": ["She beckoned me to join her.", "He beckoned the waiter over."],
+          "collocations": ["beckon someone over", "beckon to enter", "hand beckon"],
+          "synonyms": ["gesture", "signal", "summon", "wave"],
+          "antonyms": ["wave away", "repel"],
+          "register": null,
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to seem attractive or tempting to someone.",
+          "examples": ["Adventure beckoned her to travel.", "Fame beckoned the young actor."],
+          "collocations": ["opportunity beckons", "success beckons", "danger beckons"],
+          "synonyms": ["attract", "tempt", "lure", "entice"],
+          "antonyms": ["repel", "deter"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beckoned",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of beckon; signaled to come.",
+          "examples": ["She beckoned him closer.", "The light beckoned from afar."],
+          "collocations": ["beckoned silently", "beckoned forward"],
+          "synonyms": ["gestured", "signaled"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beckoner",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that beckons.",
+          "examples": ["The bright lights were beckoners to the city.", "He acted as the beckoner for the group."],
+          "collocations": ["silent beckoner", "mysterious beckoner"],
+          "synonyms": ["signaler", "summoner"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beckoners",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beckoner; things that beckon.",
+          "examples": ["The beckoners drew crowds to the event.", "Fame and fortune were powerful beckoners."],
+          "collocations": ["main beckoners"],
+          "synonyms": ["attractors"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beckoning",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "making a gesture to call someone nearer.",
+          "examples": ["Her beckoning hand invited him in.", "He ignored the beckoning figure."],
+          "collocations": ["beckoning finger", "beckoning gesture"],
+          "synonyms": ["inviting", "signaling"],
+          "antonyms": ["repelling"],
+          "register": null,
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the act of beckoning.",
+          "examples": ["The beckoning caught his attention.", "With a quick beckoning, she called him."],
+          "collocations": ["subtle beckoning"],
+          "synonyms": ["gesture", "signal"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beckoningly",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner that beckons.",
+          "examples": ["She waved beckoningly from the window.", "He pointed beckoningly to the path."],
+          "collocations": ["waved beckoningly", "nodded beckoningly"],
+          "synonyms": ["invitingly", "gesturingly"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beckonings",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beckoning; acts of signaling to come.",
+          "examples": ["The beckonings went unnoticed.", "Multiple beckonings urged him forward."],
+          "collocations": ["repeated beckonings"],
+          "synonyms": ["signals", "gestures"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beckons",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of beckon; signals to come.",
+          "examples": ["She beckons quietly.", "The future beckons brightly."],
+          "collocations": ["beckons closer", "opportunity beckons"],
+          "synonyms": ["signals", "calls"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "plural of beckon; gestures to summon.",
+          "examples": ["He responded to her beckons.", "The beckons drew him near."],
+          "collocations": ["subtle beckons"],
+          "synonyms": ["gestures"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "becks",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beck; small streams.",
+          "examples": ["The becks fed into the river.", "Walk along the becks in the dales."],
+          "collocations": ["clear becks", "mountain becks"],
+          "synonyms": ["brooks", "streams"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        },
+        {
+          "pos": "noun",
+          "definition": "slang for Beck's beer.",
+          "examples": ["He ordered two becks at the pub.", "Becks is popular in Germany."],
+          "collocations": ["cold becks", "Beck's becks"],
+          "synonyms": ["beers"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["slang", "food"]
+        }
+      ]
+    },
+    {
+      "term": "becky",
+      "kind": "proper_noun",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a common female given name.",
+          "examples": ["Becky is coming to the party.", "I called Becky on the phone."],
+          "collocations": ["little Becky", "friend Becky"],
+          "synonyms": ["Rebecca"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beclad",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to clothe or cover.",
+          "examples": ["The knight was beclad in armor.", "Flowers beclad the meadow."],
+          "collocations": ["beclad in armor", "beclad with finery"],
+          "synonyms": ["clothe", "dress", "array"],
+          "antonyms": ["strip"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beclamor",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    }
+  ]
+}
+```

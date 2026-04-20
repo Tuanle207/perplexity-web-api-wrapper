@@ -1,0 +1,627 @@
+{
+  "items": [
+    {
+      "term": "nondetractory",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not deterring or preventing something from happening; not causing detriment",
+          "examples": [
+            "The measure proved nondetractory to the project’s success.",
+            "Its effects were nondetractory to overall health."
+          ],
+          "collocations": [
+            "nondetractory effect",
+            "nondetractory to",
+            "nondetractory factor"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "health", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "nondetrimental",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not causing harm or damage; harmless",
+          "examples": [
+            "The pesticide is nondetrimental to beneficial insects.",
+            "This policy is largely nondetrimental to small businesses."
+          ],
+          "collocations": [
+            "nondetrimental to",
+            "nondetrimental effect",
+            "nondetrimental impact"
+          ],
+          "synonyms": ["harmless", "innocuous", "benign"],
+          "antonyms": ["detrimental", "harmful"],
+          "register": "formal",
+          "domain": ["general", "environment", "policy", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nondetrimentally",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that does not cause harm or damage",
+          "examples": [
+            "The product perform nondetrimentally under stress tests.",
+            "Nondetrimentally, the experiment proceeded without adverse effects."
+          ],
+          "collocations": [
+            "operate nondetrimentally",
+            "affect nondetrimentally",
+            "impact nondetrimentally"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nondevelopable",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "unable to be developed or expanded (e.g., land or potential)",
+          "examples": [
+            "The rocky peninsula is nondevelopable due to environmental protections.",
+            "Some areas are nondevelopable because of zoning regulations."
+          ],
+          "collocations": [
+            "nondevelopable land",
+            "nondevelopable area",
+            "nondevelopable site"
+          ],
+          "synonyms": ["undevelopable", "intangible"],
+          "antonyms": ["developable", "redevelopable"],
+          "register": "formal",
+          "domain": ["geography", "urban planning", "law"]
+        }
+      ]
+    },
+    {
+      "term": "nondeveloping",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not currently undergoing development or progress",
+          "examples": [
+            "The region is nondeveloping, with little new construction.",
+            "Nondeveloping neighborhoods may lack modern infrastructure."
+          ],
+          "collocations": [
+            "nondeveloping country",
+            "nondeveloping area",
+            "nondeveloping phase"
+          ],
+          "synonyms": ["stagnant", "undeveloped"],
+          "antonyms": ["developing", "expanding"],
+          "register": "neutral",
+          "domain": ["economy", "geography", "urban planning"]
+        }
+      ]
+    },
+    {
+      "term": "nondevelopment",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the absence or delay of development or progress",
+          "examples": [
+            "Nondevelopment of the project led to funding concerns.",
+            "There was nondevelopment in infrastructure over the decade."
+          ],
+          "collocations": [
+            "economic nondevelopment",
+            "nondevelopment phase",
+            "policy nondevelopment"
+          ],
+          "synonyms": ["stagnation", "stall", "halt"],
+          "antonyms": ["development", "growth"],
+          "register": "formal",
+          "domain": ["economy", "policy", "development"]
+        }
+      ]
+    },
+    {
+      "term": "nondevelopmental",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not related to development; not intended for development",
+          "examples": [
+            "Nondevelopmental features were ignored in the planning.",
+            "The nondevelopmental aspects of the project were deprioritized."
+          ],
+          "collocations": [
+            "nondevelopmental delay",
+            "nondevelopmental asset",
+            "nondevelopmental needs"
+          ],
+          "synonyms": ["non-growing", "static"],
+          "antonyms": ["developmental", "growth-related"],
+          "register": "formal",
+          "domain": ["education", "psychology", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "nondevelopmentally",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is not related to development",
+          "examples": [
+            "The project progresses nondevelopmentally in this phase.",
+            "Nondevelopmentally, the system remains unchanged."
+          ],
+          "collocations": [
+            "operate nondevelopmentally",
+            "appear nondevelopmentally"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "planning"]
+        }
+      ]
+    },
+    {
+      "term": "nondevelopments",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "things that are not developing or progressing; stagnations",
+          "examples": [
+            "The region faced several nondevelopments during the year.",
+            "Nondevelopments in the market surprised analysts."
+          ],
+          "collocations": [
+            "several nondevelopments",
+            "economic nondevelopments",
+            "nondevelopmental nondevelopments"
+          ],
+          "synonyms": ["stagnations", "stall-outs"],
+          "antonyms": ["developments", "advancements"],
+          "register": "neutral",
+          "domain": ["economy", "business", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "nondeviant",
+      "kind": "word",
+        "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not deviating from a norm or standard; conforming",
+          "examples": [
+            "The behavior was judged nondeviant by the committee.",
+            "They advocated for nondeviant social norms."
+          ],
+          "collocations": [
+            "nondeviant behavior",
+            "nondeviant conduct",
+            "nondeviant baseline"
+          ],
+          "synonyms": ["conforming", "normal", "regular"],
+          "antonyms": ["deviant", "aberrant"],
+          "register": "formal",
+          "domain": ["sociology", "norms", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "nondeviants",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who do not deviate from norms; conformists",
+          "examples": [
+            "Most nondeviants followed the established rules.",
+            "Nondeviants were contrasted with rule-breakers."
+          ],
+          "collocations": [
+            "group of nondeviants",
+            "nondeviants and deviants"
+          ],
+          "synonyms": ["conformists", "normals"],
+          "antonyms": ["deviants", "nonconformists"],
+          "register": "formal",
+          "domain": ["sociology", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "nondeviating",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not deviating; staying on a straight or expected path",
+          "examples": [
+            "The car followed a nondeviating route.",
+            "He remained nondeviating from his plan."
+          ],
+          "collocations": [
+            "nondeviating path",
+            "nondeviating behavior"
+          ],
+          "synonyms": ["consistent", "steady", "straight"],
+          "antonyms": ["deviating", "varying"],
+          "register": "neutral",
+          "domain": ["transport", "behavioral science"]
+        }
+      ]
+    },
+    {
+      "term": "nondeviation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of not deviating; staying on course",
+          "examples": [
+            "There was no nondeviation from the protocol.",
+            "The committee noted the nondeviation of results."
+          ],
+          "collocations": [
+            "minimal nondeviation",
+            "nondeviation in outcomes"
+          ],
+          "synonyms": ["consistency", "steadiness"],
+          "antonyms": ["deviation", "divergence"],
+          "register": "formal",
+          "domain": ["statistics", "quality control"]
+        }
+      ]
+    },
+    {
+      "term": "nondevious",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not devious; straightforward and honest",
+          "examples": [
+            "Her nondevious answers earned trust.",
+            "A nondevious approach avoids hidden motives."
+          ],
+          "collocations": [
+            "nondevious plan",
+            "nondevious manner"
+          ],
+          "synonyms": ["honest", "open", "straightforward"],
+          "antonyms": ["devious", "sly"],
+          "register": "formal",
+          "domain": ["ethics", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nondeviously",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nondevious, honest way",
+          "examples": [
+            "She spoke nondeviously about the plan.",
+            "He approached the issue nondeviously."
+          ],
+          "collocations": [
+            "act nondeviously",
+            "nondeviously disclose"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["ethics", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nondeviousness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being nondevious; straightforwardness",
+          "examples": [
+            "Her nondeviousness helped build credibility.",
+            "The manager valued nondeviousness in communication."
+          ],
+          "collocations": [
+            "demonstrate nondeviousness",
+            "perceived nondeviousness"
+          ],
+          "synonyms": ["honesty", "candor", "transparency"],
+          "antonyms": ["deviousness", "craftiness"],
+          "register": "formal",
+          "domain": ["ethics", "business"]
+        }
+      ]
+    },
+    {
+      "term": "nondevotional",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not related to or expressed through devotion or religious practice",
+          "examples": [
+            "The text contains nondevotional themes about daily life.",
+            "Nondevotional music focuses on secular topics."
+          ],
+          "collocations": [
+            "nondevotional literature",
+            "nondevotional music"
+          ],
+          "synonyms": ["secular", "nonreligious"],
+          "antonyms": ["devotional", "religious"],
+          "register": "formal",
+          "domain": ["literature", "music", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "nondevotionally",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nondevotional manner; not expressing religious devotion",
+          "examples": [
+            "The critic spoke nondevotionally about the rites.",
+            "She approached the topic nondevotionally."
+          ],
+          "collocations": [
+            "nondevotionally discuss",
+            "nondevotionally engage"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "nondevout",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not devout; lacking deep religious commitment",
+          "examples": [
+            "He was nondevout but respectful of the tradition.",
+            "Nondevout individuals may still participate in cultural rituals."
+          ],
+          "collocations": [
+            "nondevout believer",
+            "nondevout person"
+          ],
+          "synonyms": ["unreligious", "secular", "lukewarm"],
+          "antonyms": ["devout", "pious", "devoted"],
+          "register": "neutral",
+          "domain": ["religion", "society"]
+        }
+      ]
+    },
+    {
+      "term": "nondevoutly",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "without deep religious commitment; not devoutly",
+          "examples": [
+            "They celebrated the holiday nondevoutly.",
+            "He spoke nondevoutly about the ceremony."
+          ],
+          "collocations": [
+            "live nondevoutly",
+            "nondevoutly observe"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["religion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "nondevoutness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of not being devout; lack of religious commitment",
+          "examples": [
+            "Nondevoutness can affect community support for traditions.",
+            "The survey measured levels of nondevoutness."
+          ],
+          "collocations": [
+            "expression of nondevoutness",
+            "increase in nondevoutness"
+          ],
+          "synonyms": ["lukewarmness", "secularism", "unreligiousness"],
+          "antonyms": ["devoutness", "piety"],
+          "register": "formal",
+          "domain": ["religion", "sociology"]
+        }
+      ]
+    },
+    {
+      "term": "nondexterity",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a lack of physical or mental skill or agility; clumsiness",
+          "examples": [
+            "His nondexterity with small tools slowed the project.",
+            "Nondexterity can hinder tasks requiring fine motor control."
+          ],
+          "collocations": [
+            "show nondexterity",
+            "nondexterity in handling"
+          ],
+          "synonyms": ["clumsiness", "awkwardness", "incompetence"],
+          "antonyms": ["dexterity", "skill", "agility"],
+          "register": "neutral",
+          "domain": ["biology", "psychomotor skill", "occupational"]
+        }
+      ]
+    },
+    {
+      "term": "nondexterous",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not dexterous; lacking skill with hands or movements",
+          "examples": [
+            "The nondexterous worker struggled with fine assembly.",
+            "Nondexterous hands slowed the delicate task."
+          ],
+          "collocations": [
+            "nondexterous hands",
+            "nondexterous motion"
+          ],
+          "synonyms": ["clumsy", "awkward", "inept"],
+          "antonyms": ["dexterous", "skillful"],
+          "register": "neutral",
+          "domain": ["workplace", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "nondexterously",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a nondexterous manner; awkwardly",
+          "examples": [
+            "He moved nondexterously to avoid the camera.",
+            "The instrument was handled nondexterously."
+          ],
+          "collocations": [
+            "operate nondexterously",
+            "move nondexterously"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["workplace", "biomechanics"]
+        }
+      ]
+    },
+    {
+      "term": "nondexterousness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of lacking dexterity or skill with the hands",
+          "examples": [
+            "Nondexterousness can slow assembly lines.",
+            "They measured nondexterousness in users of the device."
+          ],
+          "collocations": [
+            "level of nondexterousness",
+            "reduce nondexterousness"
+          ],
+          "synonyms": ["clumsiness", "awkwardness"],
+          "antonyms": ["dexterity", "skill"],
+          "register": "formal",
+          "domain": ["manufacturing", "ergonomics"]
+        }
+      ]
+    },
+    {
+      "term": "nondeftness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of not being deft; lack of skill or cleverness",
+          "examples": [
+            "The architect criticized the nond deftness of the design.",
+            "Nondeftness led to faulty execution."
+          ],
+          "collocations": [
+            "display nondeftness",
+            "overcome nondeftness"
+          ],
+          "synonyms": ["incompetence", "bungling"],
+          "antonyms": ["deftness", "skillfulness"],
+          "register": "formal",
+          "domain": ["engineering", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "nondevotional",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "duplicate",
+          "definition": "see entry above labeled nondevotional",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": []
+        }
+      ]
+    }
+  ]
+}

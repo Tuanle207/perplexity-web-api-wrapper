@@ -1,0 +1,491 @@
+```json
+{
+  "items": [
+    {
+      "term": "beachiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative of beachy; most like a beach or most beach-like.",
+          "examples": ["This is the beachiest spot on the coast.", "She wore the beachiest outfit to the party."],
+          "collocations": ["beachiest spot", "beachiest vibe", "beachiest place"],
+          "synonyms": ["most beach-like"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beaching",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "act of driving a boat or whale onto a beach.",
+          "examples": ["Beaching the whale helped researchers study it.", "The beaching damaged the boat's hull."],
+          "collocations": ["whale beaching", "boat beaching", "accidental beaching"],
+          "synonyms": ["stranding", "grounding"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical", "nature"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle of beach; driving onto shore.",
+          "examples": ["The sailors are beaching the boat for repairs.", "The whale is beaching itself."],
+          "collocations": ["beaching boat", "beaching whale", "beaching safely"],
+          "synonyms": ["stranding", "grounding"],
+          "antonyms": ["launching"],
+          "register": "null",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "beachlamar",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "likely a proper name, possibly a person, place, or brand associated with beaches.",
+          "examples": ["Beachlamar Designs won the award.", "Visit Beachlamar for vacation rentals."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beachless",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without a beach or beaches nearby.",
+          "examples": ["The beachless resort felt incomplete.", "They moved to a beachless area inland."],
+          "collocations": ["beachless coast", "beachless resort", "beachless region"],
+          "synonyms": ["without beaches"],
+          "antonyms": ["beachfront"],
+          "register": "null",
+          "domain": ["geography", "travel"]
+        }
+      ]
+    },
+    {
+      "term": "beachman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a man who works on or manages a beach, such as a lifeguard or beach attendant.",
+          "examples": ["The beachman rescued the swimmer.", "Hire a beachman for the event."],
+          "collocations": ["local beachman", "experienced beachman"],
+          "synonyms": ["beach worker", "lifeguard"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beachmaster",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "dominant male seal that controls a beach breeding area.",
+          "examples": ["The beachmaster defended his harem.", "Researchers observed the beachmaster seal."],
+          "collocations": ["beachmaster seal", "dominant beachmaster"],
+          "synonyms": ["alpha male seal"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "zoology"]
+        }
+      ]
+    },
+    {
+      "term": "beachmen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beachman; men who work on beaches.",
+          "examples": ["The beachmen cleaned the shore.", "Local beachmen know the tides."],
+          "collocations": ["team of beachmen", "hired beachmen"],
+          "synonyms": ["beach workers"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beachside",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "located on or next to a beach.",
+          "examples": ["They stayed in a beachside hotel.", "The beachside café was crowded."],
+          "collocations": ["beachside hotel", "beachside café", "beachside property"],
+          "synonyms": ["seaside", "beachfront"],
+          "antonyms": ["inland"],
+          "register": "null",
+          "domain": ["travel", "real_estate"]
+        },
+        {
+          "pos": "noun",
+          "definition": "area or property beside a beach.",
+          "examples": ["The beachside was full of tourists.", "We walked along the beachside."],
+          "collocations": ["busy beachside", "quiet beachside"],
+          "synonyms": ["beachfront"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "beachward",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in the direction of the beach.",
+          "examples": ["They strolled beachward at sunset.", "The path leads beachward."],
+          "collocations": ["head beachward", "walk beachward"],
+          "synonyms": ["towards the beach"],
+          "antonyms": ["inland"],
+          "register": "literary",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beachwear",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "clothing worn on the beach, like swimsuits.",
+          "examples": ["She packed beachwear for the trip.", "The store sells summer beachwear."],
+          "collocations": ["summer beachwear", "casual beachwear", "new beachwear"],
+          "synonyms": ["swimwear", "bathing suit"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fashion", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beachwears",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural or types of beachwear.",
+          "examples": ["The beachwears were on sale.", "Different beachwears for men and women."],
+          "collocations": ["various beachwears", "colorful beachwears"],
+          "synonyms": ["swimwear varieties"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["fashion"]
+        }
+      ]
+    },
+    {
+      "term": "beachy",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "like a beach; having a beach atmosphere or features.",
+          "examples": ["The room had a beachy feel.", "She loves beachy music."],
+          "collocations": ["beachy vibe", "beachy style", "beachy colors"],
+          "synonyms": ["beach-like", "coastal"],
+          "antonyms": ["urban"],
+          "register": "informal",
+          "domain": ["everyday", "lifestyle"]
+        }
+      ]
+    },
+    {
+      "term": "beacon",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "light or signal that warns or guides ships or aircraft.",
+          "examples": ["The lighthouse beacon guided the ship.", "The airport beacon was visible at night."],
+          "collocations": ["lighthouse beacon", "warning beacon", "flashing beacon"],
+          "synonyms": ["signal light", "lighthouse"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical", "aviation"]
+        },
+        {
+          "pos": "noun",
+          "definition": "person or thing that warns or inspires.",
+          "examples": ["She is a beacon of hope.", "The leader was a beacon for change."],
+          "collocations": ["beacon of hope", "beacon of light", "guiding beacon"],
+          "synonyms": ["guide", "inspiration"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beaconage",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "fee paid for maintaining beacons.",
+          "examples": ["Ships pay beaconage at the port.", "Beaconage funds the lighthouse."],
+          "collocations": ["port beaconage", "annual beaconage"],
+          "synonyms": ["light dues"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["nautical", "law"]
+        }
+      ]
+    },
+    {
+      "term": "beaconed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "provided with or marked by beacons.",
+          "examples": ["The beaconed coastline was safe for ships.", "The beaconed runway guided the plane."],
+          "collocations": ["beaconed shore", "beaconed path"],
+          "synonyms": ["marked", "signaled"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "beaconing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "act of emitting a beacon signal.",
+          "examples": ["The beaconing helped navigation.", "Stop the beaconing to save power."],
+          "collocations": ["continuous beaconing", "radio beaconing"],
+          "synonyms": ["signaling"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "nautical"]
+        },
+        {
+          "pos": "verb",
+          "definition": "present participle of beacon; emitting a guiding signal.",
+          "examples": ["The tower is beaconing in the fog.", "The device was beaconing its location."],
+          "collocations": ["beaconing signal", "beaconing light"],
+          "synonyms": ["signaling", "flashing"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "beaconless",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without a beacon or guiding light.",
+          "examples": ["The beaconless shore was dangerous.", "Flying in beaconless conditions is risky."],
+          "collocations": ["beaconless coast", "beaconless night"],
+          "synonyms": ["unguided"],
+          "antonyms": ["beaconed"],
+          "register": "null",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "beacons",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beacon; guiding lights or signals.",
+          "examples": ["Ships follow the beacons at night.", "The beacons marked the channel."],
+          "collocations": ["navigation beacons", "flashing beacons", "radio beacons"],
+          "synonyms": ["signals", "lights"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["nautical", "aviation"]
+        }
+      ]
+    },
+    {
+      "term": "beaconwise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in the direction or manner of a beacon.",
+          "examples": ["The ship sailed beaconwise.", "Follow beaconwise to safety."],
+          "collocations": ["navigate beaconwise"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "bead",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "small ball of glass, wood, etc., with a hole for stringing.",
+          "examples": ["She made a necklace with colorful beads.", "The bead fell off the string."],
+          "collocations": ["wooden bead", "plastic bead", "string beads"],
+          "synonyms": ["pearl", "pellet"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "crafts"]
+        },
+        {
+          "pos": "noun",
+          "definition": "drop of liquid, like sweat or water.",
+          "examples": ["Beads of sweat ran down his face.", "Beads of rain covered the window."],
+          "collocations": ["beads of sweat", "beads of water", "beads of dew"],
+          "synonyms": ["droplet"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "cover with beads or drops.",
+          "examples": ["Her forehead beaded with sweat.", "The glass beaded with condensation."],
+          "collocations": ["bead with sweat", "bead with moisture"],
+          "synonyms": ["drip"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beadblast",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "clean or finish a surface by blasting with glass beads.",
+          "examples": ["They beadblast the metal parts.", "Beadblast the surface before painting."],
+          "collocations": ["beadblast metal", "beadblast surface"],
+          "synonyms": ["sandblast"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["industry", "manufacturing"]
+        }
+      ]
+    },
+    {
+      "term": "beadblasted",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "treated by beadblasting.",
+          "examples": ["The beadblasted finish was smooth.", "Use beadblasted steel for the project."],
+          "collocations": ["beadblasted surface", "beadblasted metal"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["industry"]
+        }
+      ]
+    },
+    {
+      "term": "beadblaster",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "machine or tool that performs beadblasting.",
+          "examples": ["The beadblaster cleaned the parts quickly.", "Rent a beadblaster for the job."],
+          "collocations": ["industrial beadblaster", "portable beadblaster"],
+          "synonyms": ["sandblaster"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["industry", "tools"]
+        }
+      ]
+    },
+    {
+      "term": "beadblasters",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beadblaster.",
+          "examples": ["The workshop has several beadblasters.", "Maintain the beadblasters regularly."],
+          "collocations": ["multiple beadblasters"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["industry"]
+        }
+      ]
+    },
+    {
+      "term": "beadblasting",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "process of cleaning or finishing with glass beads.",
+          "examples": ["Beadblasting removes rust effectively.", "The beadblasting service is affordable."],
+          "collocations": ["glass beadblasting", "metal beadblasting"],
+          "synonyms": ["sandblasting"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["industry", "manufacturing"]
+        }
+      ]
+    }
+  ]
+}
+```

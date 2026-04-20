@@ -1,0 +1,431 @@
+```json
+{
+  "items": [
+    {
+      "term": "baronetess",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the wife or widow of a baronet",
+          "examples": ["Lady Eleanor was a distinguished baronetess in her community.", "The baronetess hosted a grand ball at the estate.", "As a baronetess, she held a unique title in British nobility."],
+          "collocations": ["Baroness", "Dowager Baronetess", "Baroness Dowager", "Baroness Widow", "Baroness Title"],
+          "synonyms": ["baroness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baronetesses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baronetess; wives or widows of baronets",
+          "examples": ["The baronetesses gathered for afternoon tea.", "Several baronetesses attended the charity event.", "Among the guests were three baronetesses from the county."],
+          "collocations": ["several baronetesses", "group of baronetesses", "baronetesses attended"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baronethood",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the rank or condition of being a baronet",
+          "examples": ["His baronethood brought prestige to the family.", "She inherited the baronethood after her father's passing.", "The ceremony marked his entry into baronethood."],
+          "collocations": ["achieve baronethood", "inherit baronethood", "hold baronethood"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baronetical",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or characteristic of a baronet",
+          "examples": ["The baronetical estate was vast and impressive.", "He spoke with a baronetical air of authority.", "Baronetical privileges were few but notable."],
+          "collocations": ["baronetical title", "baronetical rank", "baronetical family"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baroneting",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of conferring a baronetcy",
+          "examples": ["The baroneting ceremony took place at the palace.", "His baroneting was a great honor.", "Baroneting was rare in those times."],
+          "collocations": ["royal baroneting", "formal baroneting", "baroneting ceremony"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baronetise",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make someone a baronet (British spelling)",
+          "examples": ["The king decided to baronetise the loyal subject.", "He was baronetised for his services.", "They hoped to baronetise the war hero."],
+          "collocations": ["baronetise someone", "formally baronetise"],
+          "synonyms": ["baronetize"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baronetised",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense or participle of baronetise",
+          "examples": ["He was baronetised in 1920.", "The philanthropist had been baronetised earlier.", "She married a man who was baronetised for bravery."],
+          "collocations": ["was baronetised", "had baronetised"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baronetising",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of baronetise",
+          "examples": ["The court was baronetising distinguished citizens.", "They were baronetising heroes of the realm.", "The process of baronetising continued."],
+          "collocations": ["baronetising citizens", "baronetising heroes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baronetize",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make someone a baronet (American spelling)",
+          "examples": ["The monarch chose to baronetize the inventor.", "He hoped to be baronetized someday.", "They baronetized several key figures."],
+          "collocations": ["baronetize someone", "officially baronetize"],
+          "synonyms": ["baronetise"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baronetized",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense or participle of baronetize",
+          "examples": ["Sir John was baronetized last year.", "The family was proud to have been baronetized.", "He had baronetized his closest ally."],
+          "collocations": ["was baronetized", "newly baronetized"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baronetizing",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of baronetize",
+          "examples": ["The government was baronetizing contributors.", "They continued baronetizing loyal supporters.", "Baronets were being created by baronetizing."],
+          "collocations": ["baronetizing supporters", "baronetizing process"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baronets",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baronet; men who hold the title of baronet, a British hereditary rank below baron",
+          "examples": ["The baronets met at the club.", "Several baronets owned land nearby.", "Among the guests were five baronets."],
+          "collocations": ["several baronets", "group of baronets", "landed baronets"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baronetship",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the rank, title, or office of a baronet",
+          "examples": ["He succeeded to the baronetship.", "The baronetship passed to his son.", "Baronetship came with certain duties."],
+          "collocations": ["succeed to baronetship", "inherit baronetship", "hold baronetship"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "barong",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large, broad-bladed knife used in the Philippines",
+          "examples": ["The farmer carried a barong for work.", "He displayed his antique barong.", "The barong is a traditional weapon."],
+          "collocations": ["Filipino barong", "sharp barong", "traditional barong"],
+          "synonyms": ["barong knife"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "baronga",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an Australian Aboriginal tribal group or their language",
+          "examples": ["The Baronga people have rich traditions.", "He studied the Baronga language.", "Baronga culture is preserved today."],
+          "collocations": ["Baronga people", "Baronga tribe", "Baronga language"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culture", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "barongs",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barong; Philippine knives",
+          "examples": ["The collection included several barongs.", "Warriors carried barongs into battle.", "He sharpened the barongs carefully."],
+          "collocations": ["several barongs", "collection of barongs", "sharp barongs"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "baroni",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barone; Italian barons (rare)",
+          "examples": ["The baroni owned vast estates.", "Italian baroni gathered for the council.", "History records famous baroni."],
+          "collocations": ["Italian baroni", "noble baroni"],
+          "synonyms": ["barons"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baronial",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a baron or large and impressive like a baron's possessions",
+          "examples": ["The baronial hall was magnificent.", "They lived in baronial splendor.", "It was a baronial mansion with towers."],
+          "collocations": ["baronial hall", "baronial mansion", "baronial style", "baronial estate"],
+          "synonyms": ["noble", "lordly", "grand"],
+          "antonyms": ["humble", "modest"],
+          "register": "literary",
+          "domain": ["general", "history"]
+        }
+      ]
+    },
+    {
+      "term": "baronies",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barony; large estates or domains ruled by a baron",
+          "examples": ["The baronies covered much of the land.", "Several baronies bordered the river.", "Feudal baronies were powerful."],
+          "collocations": ["medieval baronies", "feudal baronies", "several baronies"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baronize",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make someone a baron",
+          "examples": ["The king chose to baronize his advisor.", "He was baronized for his loyalty.", "They planned to baronize the general."],
+          "collocations": ["baronize someone", "royally baronize"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baronized",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense or participle of baronize",
+          "examples": ["Lord Henry was baronized in 1750.", "She married a man who had been baronized.", "The family was baronized generations ago."],
+          "collocations": ["was baronized", "newly baronized"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baronizing",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of baronize",
+          "examples": ["The court was baronizing key allies.", "They continued baronizing supporters.", "Baronizing became a royal tradition."],
+          "collocations": ["baronizing allies", "process of baronizing"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "baronne",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "French word for baroness; wife of a baron",
+          "examples": ["La baronne hosted the salon.", "The baronne was elegant and wise.", "Madame la baronne arrived late."],
+          "collocations": ["Madame la baronne", "French baronne"],
+          "synonyms": ["baroness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "baronnes",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baronne; French baronesses",
+          "examples": ["Les baronnes attended the ball.", "The baronnes discussed politics.", "Several baronnes owned chateaus."],
+          "collocations": ["les baronnes", "French baronnes"],
+          "synonyms": ["baronesses"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "baronries",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of barony; domains or territories of barons",
+          "examples": ["The baronries were scattered across the kingdom.", "Old baronries still stand today.", "He controlled three baronries."],
+          "collocations": ["medieval baronries", "feudal baronries", "several baronries"],
+          "synonyms": ["baronies"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    }
+  ]
+}
+```

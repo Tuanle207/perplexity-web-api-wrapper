@@ -1,0 +1,451 @@
+```json
+{
+  "items": [
+    {
+      "term": "bailees",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailee: people who receive goods to hold for others.",
+          "examples": ["The bailees were responsible for the stored furniture.", "All bailees signed contracts.", "Bailees must return items undamaged."],
+          "collocations": ["warehouse bailees", "contract bailees", "liable bailees", "goods bailees"],
+          "synonyms": ["custodians", "trustees"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "tool or person that removes water from a boat.",
+          "examples": ["Use the bailer to empty the boat.", "The bailer scooped out water fast.", "He acted as bailer during the leak."],
+          "collocations": ["plastic bailer", "hand bailer", "boat bailer", "emergency bailer"],
+          "synonyms": ["scoop", "pump"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bailers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailer: tools or people that remove water.",
+          "examples": ["Keep extra bailers on board.", "The bailers saved the sinking dinghy.", "Sailors need good bailers."],
+          "collocations": ["handheld bailers", "automatic bailers", "spare bailers"],
+          "synonyms": ["scoops", "bilge pumps"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "bailey",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "outer wall or courtyard of a castle.",
+          "examples": ["Tourists walked the bailey.", "The bailey protected the inner keep.", "Archaeologists dug in the bailey."],
+          "collocations": ["inner bailey", "outer bailey", "castle bailey"],
+          "synonyms": ["courtyard", "ward"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "baileys",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailey: castle courtyards.",
+          "examples": ["The baileys held markets.", "Defenders guarded the baileys.", "Ruins of baileys remain."],
+          "collocations": ["multiple baileys", "fortified baileys"],
+          "synonyms": ["castle yards"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bailiaries",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailiary: districts under a bailiff.",
+          "examples": ["Old bailiaries covered counties.", "Records list ancient bailiaries."],
+          "collocations": ["medieval bailiaries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bailiary",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "jurisdiction or district of a bailiff.",
+          "examples": ["The bailiary included three villages.", "He governed the bailiary well."],
+          "collocations": ["local bailiary", "bailiff's bailiary"],
+          "synonyms": ["bailiwick"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bailie",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Scottish town magistrate or official.",
+          "examples": ["The bailie judged the dispute.", "Vote for the new bailie."],
+          "collocations": ["town bailie", "former bailie"],
+          "synonyms": ["magistrate", "alderman"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "Scotland"]
+        }
+      ]
+    },
+    {
+      "term": "bailieries",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailiery: areas of bailie authority.",
+          "examples": ["Bailieries bordered each other."],
+          "collocations": ["Scottish bailieries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "history"]
+        }
+      ]
+    },
+    {
+      "term": "bailiery",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "office or district of a bailie.",
+          "examples": ["He held the bailiery for years.", "The bailiery covered the burgh."],
+          "collocations": ["bailie's bailiery"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "Scotland"]
+        }
+      ]
+    },
+    {
+      "term": "bailies",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailie: Scottish magistrates.",
+          "examples": ["Bailies met in council.", "The bailies enforced laws."],
+          "collocations": ["town bailies", "local bailies"],
+          "synonyms": ["magistrates"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "Scotland"]
+        }
+      ]
+    },
+    {
+      "term": "bailieship",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "position or office of a bailie.",
+          "examples": ["His bailieship lasted a decade."],
+          "collocations": ["former bailieship"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailieships",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailieship: positions of bailies.",
+          "examples": ["Records show past bailieships."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailiff",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "court officer who enforces orders and arrests people.",
+          "examples": ["The bailiff seized the car.", "Bailiff entered the courtroom.", "Call a bailiff for eviction."],
+          "collocations": ["court bailiff", "county bailiff", "high bailiff"],
+          "synonyms": ["sheriff", "constable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        },
+        {
+          "pos": "noun",
+          "definition": "overseer of an estate or farm.",
+          "examples": ["The bailiff managed the harvest.", "Farm bailiff checked the fields."],
+          "collocations": ["estate bailiff", "head bailiff"],
+          "synonyms": ["steward", "foreman"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "bailiffry",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "office or authority of a bailiff.",
+          "examples": ["He held bailiffry over the land."],
+          "collocations": ["chief bailiffry"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailiffs",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailiff: court officers.",
+          "examples": ["Bailiffs guarded the door.", "Two bailiffs served the warrant."],
+          "collocations": ["armed bailiffs", "senior bailiffs"],
+          "synonyms": ["sheriffs"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailiffship",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "position or term of a bailiff.",
+          "examples": ["His bailiffship ended in 1700."],
+          "collocations": ["former bailiffship"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailiffships",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailiffship: bailiff positions.",
+          "examples": ["Chronicles list bailiffships."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailiffwick",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "jurisdiction of a bailiff.",
+          "examples": ["The bailiffwick spanned miles."],
+          "collocations": ["chief bailiffwick"],
+          "synonyms": ["bailiwick"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailing",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "act of removing water from a boat.",
+          "examples": ["Bailing kept the boat afloat.", "Hard bailing saved the crew."],
+          "collocations": ["constant bailing", "frantic bailing"],
+          "synonyms": ["scooping", "pumping"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        },
+        {
+          "pos": "noun",
+          "definition": "paying money to release someone from jail.",
+          "examples": ["Bailing cost thousands.", "She helped with bailing him out."],
+          "collocations": ["quick bailing", "court bailing"],
+          "synonyms": ["bail"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "bailiwick",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "person's area of skill, knowledge, or authority.",
+          "examples": ["Cooking is her bailiwick.", "Taxes fall in his bailiwick.", "Marketing is my bailiwick now."],
+          "collocations": ["personal bailiwick", "expert bailiwick"],
+          "synonyms": ["specialty", "domain", "province", "field"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bailiwicks",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailiwick: areas of authority.",
+          "examples": ["Departments have their bailiwicks.", "Avoid other bailiwicks."],
+          "collocations": ["separate bailiwicks"],
+          "synonyms": ["specialties", "domains"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bailli",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "French term for bailiff or magistrate.",
+          "examples": ["The bailli ruled the province.", "Historical bailli records survive."],
+          "collocations": ["royal bailli"],
+          "synonyms": ["bailiff"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "law"]
+        }
+      ]
+    },
+    {
+      "term": "bailliage",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "district or office of a French bailli.",
+          "examples": ["The bailliage governed locally.", "Old bailliage courts met here."],
+          "collocations": ["chief bailliage"],
+          "synonyms": ["bailiwick"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "law"]
+        }
+      ]
+    },
+    {
+      "term": "bailliages",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bailliage: French administrative districts.",
+          "examples": ["Maps show bailliages clearly.", "Bailliages divided the kingdom."],
+          "collocations": ["provincial bailliages"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history"]
+        }
+      ]
+    }
+  ]
+}
+```

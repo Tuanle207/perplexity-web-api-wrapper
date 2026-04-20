@@ -1,0 +1,461 @@
+```json
+{
+  "items": [
+    {
+      "term": "bayong",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A traditional woven basket from the Philippines used for carrying goods.",
+          "examples": ["She carried vegetables in a bayong to the market.", "The vendor packed my fruits in a sturdy bayong.", "Children use bayong for school supplies."],
+          "collocations": ["woven bayong", "traditional bayong", "sturdy bayong", "colorful bayong", "market bayong", "reusable bayong"],
+          "synonyms": ["basket", "woven bag"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "bayou",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A slow-moving stream or marshy area in the southern US, especially Louisiana.",
+          "examples": ["They paddled their canoe through the bayou.", "Alligators live in the dark bayou waters.", "The bayou floods every spring."],
+          "collocations": ["Louisiana bayou", "marshy bayou", "dark bayou", "bayou water", "bayou swamp", "navigate bayou"],
+          "synonyms": ["marsh", "swamp", "creek"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "bayous",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bayou; slow-moving streams or marshy areas.",
+          "examples": ["The bayous are full of wildlife.", "Tourists explore the Louisiana bayous.", "Bayous connect to the Mississippi River."],
+          "collocations": ["Louisiana bayous", "swampy bayous", "bayous flood", "explore bayous", "bayous wildlife"],
+          "synonyms": ["marshes", "swamps"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "bays",
+      "kind": "noun",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bay; areas of water partly enclosed by land.",
+          "examples": ["The ship sailed into safe bays.", "Many bays dot the coastline.", "Whales gather in these bays."],
+          "collocations": ["coastal bays", "harbor bays", "sheltered bays", "rocky bays", "bay waters"],
+          "synonyms": ["inlets", "coves"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Plural of bay; sections in buildings like garages or parking areas.",
+          "examples": ["Park your car in one of the bays.", "The mechanic works in bay 5.", "Loading bays are at the back."],
+          "collocations": ["parking bays", "loading bays", "garage bays", "service bays"],
+          "synonyms": ["compartments", "spaces"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Plural of bay; barks of hounds during a hunt.",
+          "examples": ["The hounds gave loud bays.", "Hunters heard the bays in the distance."],
+          "collocations": ["hound bays", "loud bays", "distant bays"],
+          "synonyms": ["howls"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["animals"]
+        }
+      ]
+    },
+    {
+      "term": "bayside",
+      "kind": "adjective",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Located on or near the side of a bay.",
+          "examples": ["They live in a bayside cottage.", "The bayside restaurant has great views.", "Bayside properties are expensive."],
+          "collocations": ["bayside location", "bayside home", "bayside restaurant", "bayside path", "bayside view"],
+          "synonyms": ["waterfront", "coastal"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography", "real_estate"]
+        }
+      ]
+    },
+    {
+      "term": "baysides",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Areas or regions along the side of a bay.",
+          "examples": ["Tourists flock to the baysides.", "Baysides offer beautiful scenery."],
+          "collocations": ["beautiful baysides", "popular baysides"],
+          "synonyms": ["bay areas", "shores"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "baysmelt",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small silvery fish found in bays and coastal waters.",
+          "examples": ["Baysmelt are popular with anglers.", "Locals fry fresh baysmelt for dinner."],
+          "collocations": ["fresh baysmelt", "fried baysmelt", "bay smelt"],
+          "synonyms": ["smelt"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["fishing", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "baysmelts",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baysmelt; small fish in bays.",
+          "examples": ["Fishermen caught buckets of baysmelts.", "Baysmelts swim in schools near shore."],
+          "collocations": ["fresh baysmelts", "catch baysmelts"],
+          "synonyms": ["smelts"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["fishing", "nature"]
+        }
+      ]
+    },
+    {
+      "term": "bayt",
+      "kind": "noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A metrical unit or line in classical Arabic or Hebrew poetry.",
+          "examples": ["The poet crafted each bayt carefully.", "This poem has 20 bayts."],
+          "collocations": ["poetic bayt", "classical bayt"],
+          "synonyms": ["verse", "hemistich"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["poetry", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "bayted",
+      "kind": "verb",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of bayt; kept in a bayt or used bait (rare).",
+          "examples": ["The fish bayted on the hook."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "bayting",
+      "kind": "noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Act of using bait or keeping in a bayt (obsolete/rare).",
+          "examples": ["Bayting was common in old fishing."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "bayts",
+      "kind": "noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bayt; metrical units in poetry.",
+          "examples": ["The ode consists of several bayts."],
+          "collocations": ["Arabic bayts"],
+          "synonyms": ["verses"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["poetry"]
+        }
+      ]
+    },
+    {
+      "term": "baywood",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Type of mahogany wood from the bay tree, used in furniture.",
+          "examples": ["The table is made of baywood.", "Baywood has a fine grain."],
+          "collocations": ["fine baywood", "baywood furniture", "Caribbean baywood"],
+          "synonyms": ["mahogany"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["woodworking", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "baywoods",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of baywood; types of mahogany wood.",
+          "examples": ["Craftsmen prefer baywoods for carving."],
+          "collocations": ["quality baywoods"],
+          "synonyms": ["mahoganies"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["woodworking"]
+        }
+      ]
+    },
+    {
+      "term": "bayyan",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "A personal name, often Arabic.",
+          "examples": ["Bayyan is a common name in some cultures."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["names"]
+        }
+      ]
+    },
+    {
+      "term": "bayyans",
+      "kind": "noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form referring to multiple people named Bayyan.",
+          "examples": ["The Bayyans attended the event."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["names"]
+        }
+      ]
+    },
+    {
+      "term": "bayz",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bay; recessed areas or compartments.",
+          "examples": ["The bays hold the equipment."],
+          "collocations": ["storage bays", "engine bays"],
+          "synonyms": ["compartments"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bazaar",
+      "kind": "noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A market in Eastern countries with stalls selling goods.",
+          "examples": ["She bought spices at the bazaar.", "The bazaar is crowded on weekends.", "Street food at the bazaar is delicious."],
+          "collocations": ["busy bazaar", "local bazaar", "open-air bazaar", "spicy bazaar", "bazaar stalls", "bazaar shopping"],
+          "synonyms": ["market", "souk"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday", "culture"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A sale of goods to raise money for charity.",
+          "examples": ["The church bazaar raised funds.", "Come to our summer bazaar!"],
+          "collocations": ["charity bazaar", "school bazaar", "fundraising bazaar"],
+          "synonyms": ["fair", "sale"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["events"]
+        }
+      ]
+    },
+    {
+      "term": "bazaars",
+      "kind": "noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bazaar; markets or sales.",
+          "examples": ["Tourists visit bazaars worldwide.", "Village bazaars sell handmade items."],
+          "collocations": ["Eastern bazaars", "local bazaars", "charity bazaars"],
+          "synonyms": ["markets"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bazar",
+      "kind": "noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Alternative spelling of bazaar; an Eastern market.",
+          "examples": ["The bazar was full of colors.", "Shop at the old bazar downtown."],
+          "collocations": ["grand bazar", "Istanbul bazar"],
+          "synonyms": ["bazaar", "market"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "bazars",
+      "kind": "noun",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bazar; markets.",
+          "examples": ["Many bazars line the streets."],
+          "collocations": ["street bazars"],
+          "synonyms": ["bazaars"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "bazazz",
+      "kind": "noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Variant spelling of pizzazz; style and energy.",
+          "examples": ["Her performance had real bazazz."],
+          "collocations": ["full of bazazz"],
+          "synonyms": ["pizzazz", "flair"],
+          "antonyms": ["dullness"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bazazzes",
+      "kind": "noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of bazazz; instances of style.",
+          "examples": ["The show was full of bazazzes."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "baze",
+      "kind": "verb",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Perplex or confuse (rare/archaic).",
+          "examples": ["The riddle will baze you."],
+          "collocations": [],
+          "synonyms": ["baffle"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "bazigar",
+      "kind": "noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A street performer or juggler in India and Pakistan.",
+          "examples": ["The bazigar entertained the crowd.", "Village bazigar performs magic tricks."],
+          "collocations": ["street bazigar", "traveling bazigar", "Indian bazigar"],
+          "synonyms": ["juggler", "acrobat"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culture", "performing_arts"]
+        }
+      ]
+    }
+  ]
+}
+```

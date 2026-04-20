@@ -1,0 +1,394 @@
+```json
+{
+  "items": [
+    {
+      "term": "bagatelle",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a game played on a board with marbles and pins",
+          "examples": ["We played bagatelle at the party.", "The old bagatelle table is in the attic.", "She won the bagatelle game easily."],
+          "collocations": ["bagatelle board", "play bagatelle", "bagatelle table", "bagatelle game", "bagatelle marbles"],
+          "synonyms": ["pinball"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["games"]
+        },
+        {
+          "pos": "noun",
+          "definition": "something of little importance or value",
+          "examples": ["The mistake was a bagatelle compared to the success.", "Don't worry; it's just a bagatelle.", "Money is a bagatelle to him."],
+          "collocations": ["mere bagatelle", "cost a bagatelle", "bagatelle compared to", "trivial bagatelle", "just a bagatelle"],
+          "synonyms": ["trifle", "nothing", "bauble"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bagatelles",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bagatelle: things of little value",
+          "examples": ["Such bagatelles do not concern us.", "He collects musical bagatelles.", "The shelves were full of bagatelles."],
+          "collocations": ["musical bagatelles", "collect bagatelles", "little bagatelles", "such bagatelles"],
+          "synonyms": ["trifles"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bagatine",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bagattini",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bagattino",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bagaudae",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bagaudae: ancient rebel peasant groups in Roman Gaul",
+          "examples": ["The bagaudae resisted Roman authority.", "Historians study the bagaudae revolts."],
+          "collocations": ["bagaudae revolts", "roman bagaudae"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "bagdad",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative spelling of Baghdad, capital city of Iraq",
+          "examples": ["Bagdad is a major city in the Middle East.", "Flights to Bagdad were canceled."],
+          "collocations": ["Bagdad city", "visit Bagdad"],
+          "synonyms": ["Baghdad"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "bagdi",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bagel",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a ring-shaped bread roll made from boiled dough",
+          "examples": ["I had a bagel for breakfast.", "She toasted a sesame bagel.", "Bagels are popular in New York."],
+          "collocations": ["plain bagel", "sesame bagel", "bagel with cream cheese", "fresh bagel", "toasted bagel"],
+          "synonyms": ["beigel"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bagels",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bagel: ring-shaped bread rolls",
+          "examples": ["We bought a dozen bagels.", "The store sells fresh bagels daily.", "Bagels go well with lox."],
+          "collocations": ["dozen bagels", "fresh bagels", "bagels and cream cheese"],
+          "synonyms": ["beigels"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "bagful",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the amount a bag can hold",
+          "examples": ["She carried a bagful of groceries.", "A bagful of candy was enough.", "He ate a bagful of chips."],
+          "collocations": ["bagful of", "whole bagful", "carry a bagful"],
+          "synonyms": ["bagload"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bagfuls",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bagful: multiple bag amounts",
+          "examples": ["She bought bagfuls of apples.", "Bagfuls of mail arrived daily."],
+          "collocations": ["bagfuls of", "several bagfuls"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "baggage",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "bags and suitcases carried by travelers",
+          "examples": ["Put your baggage on the conveyor belt.", "Lost baggage is a common problem.", "Help with the baggage, please."],
+          "collocations": ["excess baggage", "checked baggage", "carry-on baggage", "baggage claim", "lost baggage"],
+          "synonyms": ["luggage"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["travel"]
+        },
+        {
+          "pos": "noun",
+          "definition": "feelings or beliefs from the past that influence present behavior",
+          "examples": ["She has emotional baggage from her childhood.", "Don't bring old baggage into the relationship.", "He carries a lot of baggage."],
+          "collocations": ["emotional baggage", "psychological baggage", "bring baggage"],
+          "synonyms": ["hang-ups"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["psychology"]
+        }
+      ]
+    },
+    {
+      "term": "baggageman",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who handles baggage at a station or airport",
+          "examples": ["The baggageman loaded the train.", "Call the baggageman for help."],
+          "collocations": ["station baggageman", "airport baggageman"],
+          "synonyms": ["baggage handler"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "baggagemaster",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "person in charge of baggage handling",
+          "examples": ["Speak to the baggagemaster about lost items.", "The baggagemaster checked the tags."],
+          "collocations": ["train baggagemaster"],
+          "synonyms": ["baggage master"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "baggager",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baggages",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of baggage: suitcases or emotional burdens",
+          "examples": ["Customs checked our baggages.", "People have different baggages."],
+          "collocations": ["multiple baggages"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["travel"]
+        }
+      ]
+    },
+    {
+      "term": "baggala",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of traditional Arab sailing ship",
+          "examples": ["The baggala sailed across the Indian Ocean.", "Old baggalas are museum pieces now."],
+          "collocations": ["Arab baggala", "traditional baggala"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "bagganet",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baggara",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a nomadic Arab tribe in Sudan known for cattle herding",
+          "examples": ["The Baggara live along the Nile.", "Baggara traditions are preserved."],
+          "collocations": ["Baggara tribe", "Baggara cattle"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "bagge",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "bagged",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bag: put in a bag",
+          "examples": ["She bagged the groceries.", "The apples were bagged neatly."],
+          "collocations": ["bagged groceries", "bagged leaves"],
+          "synonyms": ["sacked"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "caught or killed game",
+          "examples": ["Hunters bagged three deer.", "He bagged a big fish."],
+          "collocations": ["bagged a deer", "bagged game"],
+          "synonyms": ["nabbed"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["hunting"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "having sagging skin under the eyes",
+          "examples": ["He has bagged eyes from lack of sleep.", "Her bagged face showed tiredness."],
+          "collocations": ["bagged eyes"],
+          "synonyms": ["baggy-eyed"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bagger",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "person who packs items into bags",
+          "examples": ["The bagger at the store is fast.", "Teenagers often work as baggers."],
+          "collocations": ["grocery bagger", "checkout bagger"],
+          "synonyms": ["packer"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "baggers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bagger: people who pack bags",
+          "examples": ["The baggers finished quickly.", "Hire more baggers during rush hour."],
+          "collocations": ["grocery baggers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "baggie",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "small plastic bag used for storage",
+          "examples": ["Put the sandwiches in baggies.", "She packed snacks in baggies."],
+          "collocations": ["ziplock baggie", "sandwich baggie", "small baggie"],
+          "synonyms": ["ziploc bag"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    }
+  ]
+}
+```

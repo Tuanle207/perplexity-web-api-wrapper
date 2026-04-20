@@ -1,0 +1,527 @@
+{
+"items": [
+{
+"term": "automatist",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a person who performs actions automatically, especially without conscious thought",
+"examples": ["He worked like an automatist, repeating the same task all day."],
+"collocations": ["trained automatist", "habitual automatist", "act as an automatist"],
+"synonyms": ["robot", "machine-like person"],
+"antonyms": ["thinker", "deliberate actor"],
+"register": "formal",
+"domain": ["psychology"]
+}
+]
+},
+{
+"term": "automatists",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of automatist",
+"examples": ["The workers seemed like automatists on the assembly line."],
+"collocations": ["group of automatists"],
+"synonyms": ["robots"],
+"antonyms": ["individual thinkers"],
+"register": "formal",
+"domain": ["psychology"]
+}
+]
+},
+{
+"term": "automative",
+"kind": "word",
+"cefrLevel": null,
+"senses": []
+},
+{
+"term": "automatization",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "the process of making something operate automatically",
+"examples": ["The automatization of factories increased productivity."],
+"collocations": ["industrial automatization", "process automatization"],
+"synonyms": ["automation"],
+"antonyms": ["manual operation"],
+"register": "formal",
+"domain": ["technology","business"]
+}
+]
+},
+{
+"term": "automatizations",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of automatization",
+"examples": ["New automatizations improved efficiency."],
+"collocations": ["multiple automatizations"],
+"synonyms": ["automations"],
+"antonyms": ["manual systems"],
+"register": "formal",
+"domain": ["technology"]
+}
+]
+},
+{
+"term": "automatize",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "verb",
+"definition": "to make a process operate automatically",
+"examples": ["They automatized the payment system."],
+"collocations": ["automatize processes", "automatize tasks"],
+"synonyms": ["automate"],
+"antonyms": ["manualize"],
+"register": "formal",
+"domain": ["technology"]
+}
+]
+},
+{
+"term": "automatized",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "adjective",
+"definition": "made to operate automatically",
+"examples": ["The factory is fully automatized."],
+"collocations": ["automatized system", "automatized process"],
+"synonyms": ["automated"],
+"antonyms": ["manual"],
+"register": "formal",
+"domain": ["technology"]
+}
+]
+},
+{
+"term": "automatizes",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "verb",
+"definition": "third person singular of automatize",
+"examples": ["The software automatizes reporting."],
+"collocations": ["automatizes tasks"],
+"synonyms": ["automates"],
+"antonyms": ["manualizes"],
+"register": "formal",
+"domain": ["technology"]
+}
+]
+},
+{
+"term": "automatizing",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "verb",
+"definition": "present participle of automatize",
+"examples": ["They are automatizing customer service."],
+"collocations": ["automatizing systems"],
+"synonyms": ["automating"],
+"antonyms": ["manualizing"],
+"register": "formal",
+"domain": ["technology"]
+}
+]
+},
+{
+"term": "automatograph",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a device that records movements automatically",
+"examples": ["The automatograph tracked vibrations."],
+"collocations": ["mechanical automatograph"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["technology"]
+}
+]
+},
+{
+"term": "automaton",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "a machine that operates by itself; or a person who behaves without thinking",
+"examples": ["The robot is a modern automaton.","He moved like an automaton."],
+"collocations": ["mechanical automaton", "human automaton"],
+"synonyms": ["robot","machine"],
+"antonyms": ["human thinker"],
+"register": null,
+"domain": ["technology","general"]
+}
+]
+},
+{
+"term": "automatonlike",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "behaving like a machine without emotion or thought",
+"examples": ["She gave an automatonlike response."],
+"collocations": ["automatonlike behavior"],
+"synonyms": ["mechanical","robotic"],
+"antonyms": ["emotional"],
+"register": "formal",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "automatons",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of automaton",
+"examples": ["The exhibit showed several automatons."],
+"collocations": ["ancient automatons"],
+"synonyms": ["robots"],
+"antonyms": ["humans"],
+"register": null,
+"domain": ["technology"]
+}
+]
+},
+{
+"term": "automatonta",
+"kind": "word",
+"cefrLevel": null,
+"senses": []
+},
+{
+"term": "automatontons",
+"kind": "word",
+"cefrLevel": null,
+"senses": []
+},
+{
+"term": "automatous",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "self-acting or spontaneous",
+"examples": ["The movement was automatous."],
+"collocations": ["automatous action"],
+"synonyms": ["automatic","spontaneous"],
+"antonyms": ["controlled"],
+"register": "formal",
+"domain": ["general"]
+}
+]
+},
+{
+"term": "automats",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "self-service restaurants where food is served by machines",
+"examples": ["Automats were popular in the early 20th century."],
+"collocations": ["coin-operated automats"],
+"synonyms": ["self-service restaurant"],
+"antonyms": [],
+"register": null,
+"domain": ["food","history"]
+}
+]
+},
+{
+"term": "automechanical",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "relating to machines that operate automatically",
+"examples": ["Automechanical systems reduce labor."],
+"collocations": ["automechanical device"],
+"synonyms": ["automated"],
+"antonyms": ["manual"],
+"register": "formal",
+"domain": ["technology"]
+}
+]
+},
+{
+"term": "automechanism",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a mechanism that operates by itself",
+"examples": ["The automechanism regulates temperature."],
+"collocations": ["self-regulating automechanism"],
+"synonyms": ["automatic mechanism"],
+"antonyms": [],
+"register": "formal",
+"domain": ["technology"]
+}
+]
+},
+{
+"term": "automelon",
+"kind": "word",
+"cefrLevel": null,
+"senses": []
+},
+{
+"term": "automen",
+"kind": "word",
+"cefrLevel": null,
+"senses": []
+},
+{
+"term": "autometamorphosis",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a process of self-transformation",
+"examples": ["The story explores autometamorphosis."],
+"collocations": ["personal autometamorphosis"],
+"synonyms": ["self-transformation"],
+"antonyms": [],
+"register": "literary",
+"domain": ["literature"]
+}
+]
+},
+{
+"term": "autometer",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a device that measures automatically",
+"examples": ["The autometer recorded changes."],
+"collocations": ["digital autometer"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["technology"]
+}
+]
+},
+{
+"term": "autometers",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of autometer",
+"examples": ["Several autometers were installed."],
+"collocations": ["advanced autometers"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["technology"]
+}
+]
+},
+{
+"term": "autometric",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "adjective",
+"definition": "relating to automatic measurement",
+"examples": ["Autometric analysis improves accuracy."],
+"collocations": ["autometric data"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["science"]
+}
+]
+},
+{
+"term": "autometry",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "automatic measurement or self-measurement",
+"examples": ["Autometry is used in modern systems."],
+"collocations": ["digital autometry"],
+"synonyms": [],
+"antonyms": [],
+"register": "formal",
+"domain": ["science"]
+}
+]
+},
+{
+"term": "automobile",
+"kind": "word",
+"cefrLevel": "A2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a road vehicle with an engine, used for transporting people",
+"examples": ["He bought a new automobile."],
+"collocations": ["drive an automobile", "automobile industry"],
+"synonyms": ["car","vehicle"],
+"antonyms": [],
+"register": "formal",
+"domain": ["transport"]
+}
+]
+},
+{
+"term": "automobiles",
+"kind": "word",
+"cefrLevel": "A2",
+"senses": [
+{
+"pos": "noun",
+"definition": "plural of automobile",
+"examples": ["Automobiles fill the streets."],
+"collocations": ["modern automobiles"],
+"synonyms": ["cars"],
+"antonyms": [],
+"register": null,
+"domain": ["transport"]
+}
+]
+},
+{
+"term": "automobilia",
+"kind": "word",
+"cefrLevel": "C1",
+"senses": [
+{
+"pos": "noun",
+"definition": "collectible items related to cars",
+"examples": ["He collects automobilia like old signs."],
+"collocations": ["vintage automobilia"],
+"synonyms": ["car memorabilia"],
+"antonyms": [],
+"register": null,
+"domain": ["hobby"]
+}
+]
+},
+{
+"term": "automobiling",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "the activity of traveling by car",
+"examples": ["They enjoy automobiling on weekends."],
+"collocations": ["pleasure automobiling"],
+"synonyms": ["driving"],
+"antonyms": [],
+"register": null,
+"domain": ["transport"]
+}
+]
+},
+{
+"term": "automobilist",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a person who drives a car",
+"examples": ["The automobilist stopped at the station."],
+"collocations": ["experienced automobilist"],
+"synonyms": ["driver"],
+"antonyms": [],
+"register": "formal",
+"domain": ["transport"]
+}
+]
+},
+{
+"term": "automotive",
+"kind": "word",
+"cefrLevel": "B1",
+"senses": [
+{
+"pos": "adjective",
+"definition": "relating to motor vehicles",
+"examples": ["He works in the automotive industry."],
+"collocations": ["automotive industry","automotive parts"],
+"synonyms": ["vehicle-related"],
+"antonyms": [],
+"register": null,
+"domain": ["transport","business"]
+}
+]
+},
+{
+"term": "automower",
+"kind": "word",
+"cefrLevel": "B2",
+"senses": [
+{
+"pos": "noun",
+"definition": "a robotic machine that cuts grass automatically",
+"examples": ["The automower works without supervision."],
+"collocations": ["robotic automower"],
+"synonyms": ["robot mower"],
+"antonyms": [],
+"register": null,
+"domain": ["technology","home"]
+}
+]
+},
+{
+"term": "automysophobia",
+"kind": "word",
+"cefrLevel": "C2",
+"senses": [
+{
+"pos": "noun",
+"definition": "an extreme fear of being dirty or contaminated by oneself",
+"examples": ["Automysophobia can affect daily life."],
+"collocations": ["severe automysophobia"],
+"synonyms": ["germophobia"],
+"antonyms": [],
+"register": "formal",
+"domain": ["psychology","medicine"]
+}
+]
+}
+]
+}

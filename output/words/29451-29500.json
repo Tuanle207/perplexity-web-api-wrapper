@@ -1,0 +1,622 @@
+{
+  "items": [
+    {
+      "term": "aweing",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "causing a feeling of great respect or wonder",
+          "examples": ["The aweing silence filled the room."],
+          "collocations": ["aweing presence", "aweing beauty", "aweing moment"],
+          "synonyms": ["awe-inspiring", "impressive"],
+          "antonyms": ["ordinary"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aweless",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "without feelings of awe or respect",
+          "examples": ["He spoke in an aweless tone."],
+          "collocations": ["aweless attitude", "aweless response"],
+          "synonyms": ["unimpressed"],
+          "antonyms": ["awed"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "awelessness",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "lack of awe or respect",
+          "examples": ["Her awelessness surprised everyone."],
+          "collocations": ["sense of awelessness"],
+          "synonyms": [],
+          "antonyms": ["awe"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "awelessnesses",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of awelessness",
+          "examples": ["Different awelessnesses appeared in their reactions."],
+          "collocations": ["various awelessnesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "awellimiden",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of awe; feelings of great respect or wonder",
+          "examples": ["The mountains filled them with awes."],
+          "collocations": ["sense of awes"],
+          "synonyms": ["wonders"],
+          "antonyms": ["indifference"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "awesome",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "very good or impressive",
+          "examples": ["That movie was awesome.", "You did an awesome job."],
+          "collocations": ["awesome experience", "awesome job", "awesome place"],
+          "synonyms": ["great", "amazing", "fantastic"],
+          "antonyms": ["terrible", "awful"],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "causing great wonder or fear",
+          "examples": ["The storm was awesome in its power."],
+          "collocations": ["awesome power", "awesome sight"],
+          "synonyms": ["awe-inspiring"],
+          "antonyms": ["ordinary"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "awesomely",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a very impressive or excellent way",
+          "examples": ["She performed awesomely."],
+          "collocations": ["awesomely done"],
+          "synonyms": ["amazingly"],
+          "antonyms": ["poorly"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "awesomeness",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being very good or impressive",
+          "examples": ["The awesomeness of the view amazed us."],
+          "collocations": ["pure awesomeness"],
+          "synonyms": ["greatness"],
+          "antonyms": ["badness"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "awesomenesses",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of awesomeness",
+          "examples": ["Different awesomenesses of the place impressed visitors."],
+          "collocations": ["various awesomenesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "awest",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awestricken",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "feeling great wonder or amazement",
+          "examples": ["They stood awestricken before the waterfall."],
+          "collocations": ["awestricken crowd"],
+          "synonyms": ["awed"],
+          "antonyms": ["unimpressed"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "awestrike",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to fill someone with awe",
+          "examples": ["The scene awestruck them."],
+          "collocations": ["awestrike viewers"],
+          "synonyms": ["amaze"],
+          "antonyms": ["bore"],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "awestruck",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "feeling great awe or amazement",
+          "examples": ["She was awestruck by the performance."],
+          "collocations": ["awestruck audience"],
+          "synonyms": ["amazed", "astonished"],
+          "antonyms": ["unimpressed"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "aweto",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awetos",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awfu",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awful",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "very bad or unpleasant",
+          "examples": ["The weather is awful today.", "He felt awful after the news."],
+          "collocations": ["awful day", "awful smell", "awful experience"],
+          "synonyms": ["terrible", "bad", "horrible"],
+          "antonyms": ["great", "pleasant"],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "awfuller",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative form of awful; more bad or unpleasant",
+          "examples": ["This is even awfuller than before."],
+          "collocations": ["even awfuller"],
+          "synonyms": ["worse"],
+          "antonyms": ["better"],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "awfullest",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative form of awful; the most bad",
+          "examples": ["That was the awfullest meal ever."],
+          "collocations": ["awfullest day"],
+          "synonyms": ["worst"],
+          "antonyms": ["best"],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "awfully",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "very; extremely",
+          "examples": ["I'm awfully tired."],
+          "collocations": ["awfully sorry", "awfully nice"],
+          "synonyms": ["very", "extremely"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "awfulness",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being very bad",
+          "examples": ["The awfulness of the situation shocked everyone."],
+          "collocations": ["sheer awfulness"],
+          "synonyms": ["badness"],
+          "antonyms": ["goodness"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "awfulnesses",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of awfulness",
+          "examples": ["The awfulnesses of war are many."],
+          "collocations": ["many awfulnesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "awfy",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "very or extremely (Scottish informal)",
+          "examples": ["It's awfy cold today."],
+          "collocations": ["awfy nice", "awfy cold"],
+          "synonyms": ["very"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "awhape",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awhaped",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awhapes",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awhaping",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awhato",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awhatos",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awheel",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in motion on wheels",
+          "examples": ["The carts were set awheel."],
+          "collocations": ["set awheel"],
+          "synonyms": ["rolling"],
+          "antonyms": ["still"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "awheels",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "moving on wheels",
+          "examples": ["The wagon went awheels down the road."],
+          "collocations": ["go awheels"],
+          "synonyms": ["rolling"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "awheft",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awhet",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awheto",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awhetos",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awhile",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "for a short time",
+          "examples": ["Sit here awhile."],
+          "collocations": ["wait awhile", "stay awhile"],
+          "synonyms": ["briefly"],
+          "antonyms": ["forever"],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "awhir",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awhirl",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "spinning or turning quickly",
+          "examples": ["Leaves flew awhirl in the wind."],
+          "collocations": ["spin awhirl"],
+          "synonyms": ["whirling"],
+          "antonyms": ["still"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "awide",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "fully open",
+          "examples": ["His eyes were awide with surprise."],
+          "collocations": ["awide open"],
+          "synonyms": ["wide"],
+          "antonyms": ["closed"],
+          "register": "literary",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "awiggle",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awikiwiki",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "very quickly (Hawaiian origin)",
+          "examples": ["Come here awikiwiki!"],
+          "collocations": ["go awikiwiki"],
+          "synonyms": ["quickly"],
+          "antonyms": ["slowly"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "awin",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awing",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awingly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awink",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "with a wink or brief closing of the eye",
+          "examples": ["He spoke awink to signal a joke."],
+          "collocations": ["say awink"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "awiwi",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awk",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "interjection",
+          "definition": "used to express mild embarrassment or awkwardness",
+          "examples": ["Awk, that was awkward."],
+          "collocations": ["awk moment"],
+          "synonyms": ["uh"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "awkly",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "awks",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "interjection",
+          "definition": "used to show awkwardness or embarrassment",
+          "examples": ["Awks, I didn't mean that."],
+          "collocations": ["awks moment"],
+          "synonyms": ["awk"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    }
+  ]
+}

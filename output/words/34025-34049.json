@@ -1,0 +1,439 @@
+```json
+{
+  "items": [
+    {
+      "term": "basisphenoid",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a bone at the base of the skull in vertebrates.",
+          "examples": ["The basisphenoid fuses with other bones in adult skulls.", "In reptiles, the basisphenoid is clearly visible."],
+          "collocations": ["basisphenoid bone", "fused basisphenoid", "reptilian basisphenoid"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["anatomy", "zoology"]
+        }
+      ]
+    },
+    {
+      "term": "basisphenoidal",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the basisphenoid bone.",
+          "examples": ["The basisphenoidal region shows developmental changes.", "Basisphenoidal sutures are common in young animals."],
+          "collocations": ["basisphenoidal bone", "basisphenoidal region", "basisphenoidal suture"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["anatomy", "zoology"]
+        }
+      ]
+    },
+    {
+      "term": "basitemporal",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the base and temporal region of the skull.",
+          "examples": ["Basitemporal measurements help identify bird species.", "The basitemporal angle varies among fossils."],
+          "collocations": ["basitemporal region", "basitemporal angle", "basitemporal measurements"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["anatomy", "ornithology"]
+        }
+      ]
+    },
+    {
+      "term": "basitting",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "basiventral",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "located at the base and ventral side in anatomy.",
+          "examples": ["Basiventral processes are seen in fish vertebrae.", "The basiventral element connects to the spine."],
+          "collocations": ["basiventral process", "basiventral element", "basiventral position"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["anatomy", "ichthyology"]
+        }
+      ]
+    },
+    {
+      "term": "basivertebral",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to veins in the base of vertebrae.",
+          "examples": ["Basivertebral veins drain blood from the spine.", "Blockage of basivertebral veins causes pain."],
+          "collocations": ["basivertebral veins", "basivertebral foramen", "basivertebral canal"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["anatomy", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "bask",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to lie or sit in a pleasant warm place.",
+          "examples": ["Cats love to bask in the sunshine.", "We basked on the beach all afternoon.", "Lizards bask on hot rocks."],
+          "collocations": ["bask in the sun", "bask in sunlight", "bask in warmth", "bask in the heat"],
+          "synonyms": ["sunbathe", "lounge", "relax"],
+          "antonyms": ["shiver", "freeze"],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to take great pleasure in something.",
+          "examples": ["She basked in her team's victory.", "He basked in all the praise.", "They basked in their success."],
+          "collocations": ["bask in glory", "bask in praise", "bask in success", "bask in admiration"],
+          "synonyms": ["revel", "delight", "luxuriate"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "baske",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "basked",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bask.",
+          "examples": ["She basked in the warm sun all day.", "They basked in their achievement.", "The seals basked on the rocks."],
+          "collocations": ["basked in the sun", "basked in glory", "basked in warmth"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "basker",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or animal that basks in warmth or pleasure.",
+          "examples": ["The lizard is a frequent sun basker.", "He was a basker in reflected glory."],
+          "collocations": ["sun basker", "frequent basker"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "baskerville",
+      "kind": "proper_noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a classic typeface designed by John Baskerville.",
+          "examples": ["The book was printed in Baskerville font.", "Baskerville is elegant for formal documents."],
+          "collocations": ["Baskerville font", "Baskerville typeface"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["typography"]
+        }
+      ]
+    },
+    {
+      "term": "basket",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a container made of interwoven materials for carrying things.",
+          "examples": ["She put the apples in a basket.", "The laundry basket was full.", "Easter baskets hold chocolate eggs."],
+          "collocations": ["fruit basket", "laundry basket", "bread basket", "waste basket", "shopping basket"],
+          "synonyms": ["bin", "hampers"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a net on a basketball court that holds the ball.",
+          "examples": ["He scored by putting the ball in the basket.", "The basket was high above the court."],
+          "collocations": ["basketball basket", "shoot the basket", "slam dunk basket"],
+          "synonyms": ["hoop", "rim"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sport"]
+        }
+      ]
+    },
+    {
+      "term": "basketball",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a team sport where players throw a ball into a high net.",
+          "examples": ["Basketball is popular in the US.", "We play basketball after school.", "The basketball game starts at 7 PM."],
+          "collocations": ["play basketball", "basketball game", "basketball court", "basketball team", "basketball player"],
+          "synonyms": ["hoops"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sport"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the large round ball used in this sport.",
+          "examples": ["She bounced the basketball.", "The basketball rolled under the table."],
+          "collocations": ["bounce basketball", "dribble basketball", "orange basketball"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sport"]
+        }
+      ]
+    },
+    {
+      "term": "basketballer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who plays basketball.",
+          "examples": ["The basketballer made a great shot.", "Professional basketballers earn high salaries."],
+          "collocations": ["professional basketballer", "amateur basketballer", "talented basketballer"],
+          "synonyms": ["basketball player"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sport"]
+        }
+      ]
+    },
+    {
+      "term": "basketballers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basketballer; people who play basketball.",
+          "examples": ["The basketballers trained hard.", "Basketballers from both teams shook hands."],
+          "collocations": ["pro basketballers", "club basketballers"],
+          "synonyms": ["basketball players"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sport"]
+        }
+      ]
+    },
+    {
+      "term": "basketballs",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basketball; the balls used in the sport.",
+          "examples": ["The gym had many basketballs.", "Children kicked the basketballs around."],
+          "collocations": ["inflated basketballs", "leather basketballs", "deflated basketballs"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sport"]
+        }
+      ]
+    },
+    {
+      "term": "basketful",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the amount a basket can hold.",
+          "examples": ["She picked a basketful of strawberries.", "A basketful of laundry needs washing."],
+          "collocations": ["basketful of fruit", "basketful of flowers", "basketful of laundry"],
+          "synonyms": ["basket-load"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "basketfuls",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basketful; multiple basket amounts.",
+          "examples": ["She gathered basketfuls of mushrooms.", "Basketfuls of gifts filled the room."],
+          "collocations": ["basketfuls of apples", "basketfuls of clothes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "basketing",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the activity of putting items into baskets.",
+          "examples": ["Basketing eggs is a farm task.", "The basketing process was efficient."],
+          "collocations": ["egg basketing", "fruit basketing"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "basketlike",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling a basket in shape or structure.",
+          "examples": ["The nest was basketlike and sturdy.", "She wove a basketlike container."],
+          "collocations": ["basketlike weave", "basketlike structure"],
+          "synonyms": ["basket-shaped"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "basketmaker",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who makes baskets.",
+          "examples": ["The basketmaker sold her work at the market.", "Traditional basketmakers use natural reeds."],
+          "collocations": ["traditional basketmaker", "professional basketmaker"],
+          "synonyms": ["basket weaver"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["craft"]
+        }
+      ]
+    },
+    {
+      "term": "basketmaking",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the craft of making baskets.",
+          "examples": ["Basketmaking is an ancient art.", "She teaches basketmaking classes."],
+          "collocations": ["traditional basketmaking", "wicker basketmaking"],
+          "synonyms": ["basket weaving"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["craft"]
+        }
+      ]
+    },
+    {
+      "term": "basketries",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basketry; various forms of basket work.",
+          "examples": ["The museum displayed African basketries.", "Basketries from Asia were colorful."],
+          "collocations": ["traditional basketries", "native basketries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["craft", "art"]
+        }
+      ]
+    },
+    {
+      "term": "basketry",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the art or craft of making baskets.",
+          "examples": ["Basketry uses natural materials.", "She specializes in traditional basketry."],
+          "collocations": ["traditional basketry", "wicker basketry", "modern basketry"],
+          "synonyms": ["basket weaving", "basket making"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["craft", "art"]
+        }
+      ]
+    },
+    {
+      "term": "baskets",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basket; containers for carrying things.",
+          "examples": ["The market sold many baskets.", "Fill the baskets with vegetables.", "Picnic baskets contain food."],
+          "collocations": ["wicker baskets", "fruit baskets", "laundry baskets", "shopping baskets"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    }
+  ]
+}
+```

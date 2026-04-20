@@ -1,0 +1,501 @@
+```json
+{
+  "items": [
+    {
+      "term": "beasted",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of beast, meaning to treat someone harshly or like an animal.",
+          "examples": ["The coach beasted the team during training.", "She felt beasted by her boss's demands."],
+          "collocations": ["beasted the team", "beasted into shape", "absolutely beasted"],
+          "synonyms": ["worked", "pushed", "abused"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["slang", "sports", "everyday"]
+        },
+        {
+          "pos": "verb",
+          "definition": "past tense of beast, slang for performing an impressive feat.",
+          "examples": ["He beasted that exam score.", "They beasted the competition last night."],
+          "collocations": ["beasted it", "properly beasted", "beasted the game"],
+          "synonyms": ["smashed", "nailed", "crushed"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["informal", "gaming", "sports"]
+        }
+      ]
+    },
+    {
+      "term": "beasthood",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or nature of being a beast.",
+          "examples": ["He descended into beasthood with rage.", "The novel explores man's beasthood."],
+          "collocations": ["embrace beasthood", "state of beasthood", "pure beasthood"],
+          "synonyms": ["animality", "brutishness"],
+          "antonyms": ["humanity"],
+          "register": "literary",
+          "domain": ["literature", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "beasthoods",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beasthood, various states of being beasts.",
+          "examples": ["The poem lists humanity's beasthoods.", "Different beasthoods emerge in chaos."],
+          "collocations": ["various beasthoods", "animal beasthoods"],
+          "synonyms": ["animal states"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "beastie",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small animal or creature, often used affectionately or playfully.",
+          "examples": ["Look at that cute beastie in the garden.", "The kids chased the little beasties around."],
+          "collocations": ["little beastie", "cute beastie", "furry beastie"],
+          "synonyms": ["creature", "animal", "critter"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday", "children"]
+        }
+      ]
+    },
+    {
+      "term": "beasties",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beastie, small animals or creatures.",
+          "examples": ["The forest is full of beasties.", "Watch out for the beasties at night."],
+          "collocations": ["little beasties", "wild beasties", "playful beasties"],
+          "synonyms": ["creatures", "critters"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beastily",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a manner like a beast, savagely or brutally.",
+          "examples": ["He ate beastily, devouring everything.", "The dog growled beastily at strangers."],
+          "collocations": ["act beastily", "fight beastily"],
+          "synonyms": ["brutishly", "savagely"],
+          "antonyms": ["gently"],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "beasting",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "intense physical training or harsh treatment, slang.",
+          "examples": ["Today's beasting left us exhausted.", "The beasting in boot camp was tough."],
+          "collocations": ["proper beasting", "absolute beasting", "gym beasting"],
+          "synonyms": ["workout", "drilling", "pummeling"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports", "military", "slang"]
+        }
+      ]
+    },
+    {
+      "term": "beastings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beasting, multiple intense sessions.",
+          "examples": ["The beastings continued all week.", "Survived the beastings at training."],
+          "collocations": ["daily beastings", "harsh beastings"],
+          "synonyms": ["trainings"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "beastish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling a beast, rough or uncivilized.",
+          "examples": ["His beastish manners shocked everyone.", "A beastish roar came from the woods."],
+          "collocations": ["beastish behavior", "beastish features"],
+          "synonyms": ["brutish", "animalistic"],
+          "antonyms": ["civilized"],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "beastishness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "quality of being beastish or beast-like.",
+          "examples": ["The beastishness of the villain was clear.", "Pure beastishness drove the attack."],
+          "collocations": ["utter beastishness"],
+          "synonyms": ["brutality"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "beastlier",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative of beastly, more like a beast or more unpleasant.",
+          "examples": ["This weather is beastlier than yesterday.", "He grew beastlier with anger."],
+          "collocations": ["beastlier than", "getting beastlier"],
+          "synonyms": ["worse", "harsher"],
+          "antonyms": ["nicer"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beastliest",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "superlative of beastly, most like a beast or most unpleasant.",
+          "examples": ["That was the beastliest cold ever.", "The beastliest boss in town."],
+          "collocations": ["the beastliest", "among the beastliest"],
+          "synonyms": ["worst", "most horrible"],
+          "antonyms": ["best"],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beastlike",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "resembling a beast in appearance or behavior.",
+          "examples": ["The creature had a beastlike growl.", "His beastlike strength amazed us."],
+          "collocations": ["beastlike fury", "beastlike movements", "beastlike eyes"],
+          "synonyms": ["animalistic", "bestial"],
+          "antonyms": ["humanlike"],
+          "register": "null",
+          "domain": ["general", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "beastlily",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a beastly manner.",
+          "examples": ["He behaved beastlily at the party.", "The wind howled beastlily."],
+          "collocations": ["act beastlily"],
+          "synonyms": ["brutishly"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "beastliness",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being beastly, extreme unpleasantness or savagery.",
+          "examples": ["The beastliness of war shocked him.", "What beastliness to treat her so!"],
+          "collocations": ["pure beastliness", "utter beastliness", "sheer beastliness"],
+          "synonyms": ["cruelty", "nastiness", "brutality"],
+          "antonyms": ["kindness"],
+          "register": "formal",
+          "domain": ["literature", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beastlinesses",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beastliness, multiple acts or qualities of being beastly.",
+          "examples": ["The book details history's beastlinesses.", "Tired of such beastlinesses."],
+          "collocations": ["various beastlinesses"],
+          "synonyms": ["atrocities"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature"]
+        }
+      ]
+    },
+    {
+      "term": "beastling",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a young or small beast, often in fantasy contexts.",
+          "examples": ["The beastling followed its mother.", "A pack of beastlings roamed the woods."],
+          "collocations": ["young beastling", "fierce beastling"],
+          "synonyms": ["cub", "whelp"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fantasy", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "beastlings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beastling, young or small beasts.",
+          "examples": ["The beastlings played in the den.", "Hunters avoided the beastlings."],
+          "collocations": ["pack of beastlings"],
+          "synonyms": ["cubs"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fantasy"]
+        }
+      ]
+    },
+    {
+      "term": "beastly",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "unpleasant, nasty, or horrible, especially in British English.",
+          "examples": ["What a beastly cold day!", "That's a beastly thing to say."],
+          "collocations": ["beastly weather", "beastly cold", "beastly behavior"],
+          "synonyms": ["awful", "nasty", "horrible"],
+          "antonyms": ["nice", "pleasant"],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "like a beast, savage or cruel.",
+          "examples": ["The beastly tyrant ruled harshly.", "Beastly instincts took over."],
+          "collocations": ["beastly nature", "beastly cruelty"],
+          "synonyms": ["savage", "brutal"],
+          "antonyms": ["humane"],
+          "register": "literary",
+          "domain": ["literature"]
+        },
+        {
+          "pos": "adverb",
+          "definition": "extremely, used for emphasis (informal).",
+          "examples": ["It's beastly cold outside.", "He was beastly rude."],
+          "collocations": ["beastly cold", "beastly good"],
+          "synonyms": ["awfully", "terribly"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beastman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mythical creature that is half man, half beast.",
+          "examples": ["The beastman guarded the forest.", "Legends tell of the ancient beastman."],
+          "collocations": ["fierce beastman", "half beastman"],
+          "synonyms": ["minotaur", "centaur"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fantasy", "mythology"]
+        }
+      ]
+    },
+    {
+      "term": "beasts",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beast, large wild animals.",
+          "examples": ["The zoo has many beasts.", "Beasts roamed the jungle."],
+          "collocations": ["wild beasts", "savage beasts", "sea beasts"],
+          "synonyms": ["animals"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beastship",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the nature or rank of a beast (rare).",
+          "examples": ["He claimed beastship over the pack.", "The beastship was unchallenged."],
+          "collocations": ["claim beastship"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["fantasy"]
+        }
+      ]
+    },
+    {
+      "term": "beat",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to hit someone or something many times, especially with the hands.",
+          "examples": ["He beat the drum loudly.", "Don't beat the dog!"],
+          "collocations": ["beat the drum", "beat someone up", "beat eggs"],
+          "synonyms": ["hit", "strike", "punch"],
+          "antonyms": ["caress"],
+          "register": "null",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to defeat someone in a game, competition, or fight.",
+          "examples": ["We beat our rivals 3-1.", "She beat the record."],
+          "collocations": ["beat the team", "beat the odds", "beat the clock"],
+          "synonyms": ["defeat", "win against", "overcome"],
+          "antonyms": ["lose to"],
+          "register": "null",
+          "domain": ["sports", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to be better or more enjoyable than something.",
+          "examples": ["This cake beats all others.", "Nothing beats a home-cooked meal."],
+          "collocations": ["can't beat", "beats everything", "beats that"],
+          "synonyms": ["surpass", "outdo"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a regular rhythm in music or poetry.",
+          "examples": ["The song has a strong beat.", "Follow the beat of the music."],
+          "collocations": ["strong beat", "off beat", "dance beat"],
+          "synonyms": ["rhythm", "pulse"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the area a police officer patrols regularly.",
+          "examples": ["The cop walks his beat.", "That's my beat downtown."],
+          "collocations": ["police beat", "patrol beat", "news beat"],
+          "synonyms": ["route", "round"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["law", "journalism"]
+        }
+      ]
+    },
+    {
+      "term": "beata",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a female personal name or title for a blessed woman in religious contexts.",
+          "examples": ["Beata joined the choir.", "Saint Beata is venerated here."],
+          "collocations": ["Saint Beata"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["religion", "names"]
+        }
+      ]
+    },
+    {
+      "term": "beatable",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be defeated or beaten.",
+          "examples": ["The opponent looks beatable today.", "This puzzle is beatable with practice."],
+          "collocations": ["easily beatable", "highly beatable", "beatable opponent"],
+          "synonyms": ["defeatable", "winnable"],
+          "antonyms": ["unbeatable"],
+          "register": "null",
+          "domain": ["sports", "games"]
+        }
+      ]
+    }
+  ]
+}
+```

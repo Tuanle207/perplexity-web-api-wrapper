@@ -1,0 +1,376 @@
+```json
+{
+  "items": [
+    {
+      "term": "banishes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of banish: forces someone to leave a place",
+          "examples": ["The king banishes the traitor from the kingdom.", "The school banishes students who break rules.", "She banishes bad thoughts from her mind."],
+          "collocations": ["banishes fears", "banishes evil", "banishes doubts", "banishes spirits", "banishes sorrow"],
+          "synonyms": ["expels", "exiles", "ousts", "ejects"],
+          "antonyms": ["welcomes", "admits"],
+          "register": null,
+          "domain": ["general", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "banishing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of banish: forcing someone to leave a place",
+          "examples": ["She is banishing negative thoughts.", "The priest was banishing demons from the house.", "They are banishing worries with music."],
+          "collocations": ["banishing fears", "banishing shadows", "banishing gloom", "banishing spirits"],
+          "synonyms": ["expelling", "exiling", "driving out"],
+          "antonyms": ["welcoming", "embracing"],
+          "register": null,
+          "domain": ["general", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "banishment",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of forcing someone to leave a place as punishment",
+          "examples": ["He faced banishment from the village.", "The story tells of her banishment to a distant land.", "Banishment was the king's punishment."],
+          "collocations": ["eternal banishment", "royal banishment", "banishment decree", "face banishment"],
+          "synonyms": ["exile", "expulsion", "ostracism"],
+          "antonyms": ["admission", "return"],
+          "register": "formal",
+          "domain": ["law", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "banishments",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of banishment: acts of forcing people to leave",
+          "examples": ["The banishments caused unrest in the kingdom.", "Multiple banishments followed the rebellion."],
+          "collocations": ["multiple banishments", "royal banishments", "harsh banishments"],
+          "synonyms": ["exiles", "expulsions"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "banister",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the rail and supporting posts on a staircase",
+          "examples": ["She slid down the banister.", "Hold the banister when going downstairs.", "The banister was made of polished wood."],
+          "collocations": ["wooden banister", "ornate banister", "hold the banister", "slide down banister"],
+          "synonyms": ["handrail", "balustrade"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "banistered",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having a banister",
+          "examples": ["The banistered staircase looked elegant.", "They climbed the old banistered steps."],
+          "collocations": ["banistered staircase", "grand banistered stairway"],
+          "synonyms": ["railed"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "banisterine",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "banisters",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of banister: rails on staircases",
+          "examples": ["The children gripped the banisters tightly.", "Polish the banisters every week."],
+          "collocations": ["gripped banisters", "wooden banisters", "ornate banisters"],
+          "synonyms": ["handrails"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "baniva",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "baniwa",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a Native American people and language in Amazonia",
+          "examples": ["The Baniwa live along the rivers.", "Baniwa mythology is rich in stories."],
+          "collocations": ["Baniwa people", "Baniwa language"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "baniya",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Hindu merchant or trader caste in India",
+          "examples": ["The baniya runs the local shop.", "He belongs to the baniya community."],
+          "collocations": ["baniya merchant", "baniya caste", "baniya trader"],
+          "synonyms": ["banian"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "banjara",
+      "kind": "proper_noun",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a nomadic trading community in India",
+          "examples": ["The Banjara are known for their colorful attire.", "Banjaras travel with their lambadi carts."],
+          "collocations": ["banjara tribe", "banjara community", "banjara nomads"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "banjax",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to ruin or destroy something (British slang)",
+          "examples": ["The storm banjaxed the garden.", "Don't banjax the computer!"],
+          "collocations": ["banjax the plan", "completely banjaxed"],
+          "synonyms": ["ruin", "wreck"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["informal"]
+        }
+      ]
+    },
+    {
+      "term": "banjaxed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "ruined or broken (British slang)",
+          "examples": ["The car is banjaxed after the crash.", "My plans are banjaxed."],
+          "collocations": ["totally banjaxed", "banjaxed engine"],
+          "synonyms": ["broken", "wrecked", "ruined"],
+          "antonyms": ["fixed", "working"],
+          "register": "slang",
+          "domain": ["informal"]
+        }
+      ]
+    },
+    {
+      "term": "banjaxes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of banjax: ruins something",
+          "examples": ["The mistake banjaxes everything."],
+          "collocations": ["banjaxes the system"],
+          "synonyms": ["ruins", "wrecks"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["informal"]
+        }
+      ]
+    },
+    {
+      "term": "banjaxing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of banjax: ruining something",
+          "examples": ["He is banjaxing the project."],
+          "collocations": ["banjaxing plans"],
+          "synonyms": ["ruining"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["informal"]
+        }
+      ]
+    },
+    {
+      "term": "banjo",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a musical instrument with strings and a round body",
+          "examples": ["He plays the banjo in a band.", "The banjo has a bright sound.", "She bought a new banjo."],
+          "collocations": ["play banjo", "five-string banjo", "bluegrass banjo"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "banjoes",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of banjo",
+          "examples": ["The band has three banjoes."],
+          "collocations": ["several banjoes"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "banjoist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who plays the banjo",
+          "examples": ["The banjoist led the folk band.", "She is a skilled banjoist."],
+          "collocations": ["lead banjoist", "bluegrass banjoist"],
+          "synonyms": ["banjo player"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "banjoists",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of banjoist",
+          "examples": ["The festival featured banjoists."],
+          "collocations": ["many banjoists"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "banjore",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "banjorine",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "banjos",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of banjo",
+          "examples": ["They collect old banjos.", "Banjos are popular in country music."],
+          "collocations": ["acoustic banjos", "vintage banjos"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "banjuke",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": []
+    },
+    {
+      "term": "banjulele",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small banjo-ukulele hybrid instrument",
+          "examples": ["He plays the banjulele at parties."],
+          "collocations": ["play banjulele"],
+          "synonyms": ["banjolele"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["music"]
+        }
+      ]
+    }
+  ]
+}
+```

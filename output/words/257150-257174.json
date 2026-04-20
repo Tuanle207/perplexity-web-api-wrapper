@@ -1,0 +1,485 @@
+{
+  "items": [
+    {
+      "term": "nuclearize",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to bring under control or influence by nuclear power, often by including nuclear weapons in a policy or strategy",
+          "examples": [
+            "The alliance plans to nuclearize its defense policy.",
+            "The country decided to nuclearize its regional security strategy."
+          ],
+          "collocations": ["nuclearize policy", "nuclearize defense", "nuclearize capabilities"],
+          "synonyms": ["weaponize", "arm", "nucleate (in a metaphorical sense)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "politics", "military"]
+        }
+      ]
+    },
+    {
+      "term": "nuclearized",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having or caused to possess nuclear weapons or nuclear capabilities",
+          "examples": [
+            "A nuclearized state",
+            "The region remains a nuclearized zone."
+          ],
+          "collocations": ["nuclearized state", "nuclearized region", "nuclearized policy"],
+          "synonyms": ["nuclear-equipped", "nuked (informal)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "politics", "military"]
+        }
+      ]
+    },
+    {
+      "term": "nuclearizes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular of nuclearize; to bring under nuclear control or capabilities",
+          "examples": [
+            "The government nuclearizes its deterrence posture.",
+            "The alliance nuclearizes its regional strategy."
+          ],
+          "collocations": ["nuclearizes policy", "nuclearizes deterrence"],
+          "synonyms": ["weaponizes", "arm", "nucleates (metaphorically)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "politics", "military"]
+        }
+      ]
+    },
+    {
+      "term": "nuclearizing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of nuclearize; actively bringing under nuclear control or capabilities",
+          "examples": [
+            "The country is nuclearizing its defense strategy.",
+            "Experts warn about accelerating nuclearizing programs."
+          ],
+          "collocations": ["nuclearizing policy", "nuclearizing program", "nuclearizing posture"],
+          "synonyms": ["weaponizing", "arming"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "politics", "military"]
+        }
+      ]
+    },
+    {
+      "term": "nucleary",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a nucleus or to the center; rarely used in everyday English outside specialized contexts",
+          "examples": [
+            "Nucleary functions are critical in cell biology." 
+          ],
+          "collocations": ["nucleary function", "nucleary structure"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nuclease",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an enzyme that cleaves nucleic acids (DNA or RNA) by hydrolyzing phosphodiester bonds",
+          "examples": [
+            "Nucleases are used in molecular biology to digest DNA."
+          ],
+          "collocations": ["restriction nuclease", "nuclease activity", "DNase and RNase enzymes"],
+          "synonyms": ["DNase", "RNase" ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucleases",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nuclease; multiple enzymes that cleave nucleic acids",
+          "examples": [
+            "Various nucleases were tested for their ability to digest DNA."
+          ],
+          "collocations": ["nucleases assay", "nucleases activity", "panc nuclease mix"],
+          "synonyms": ["DNases", "RNases" ],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucleate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to form into a nucleus or to begin to form into a nucleus; to cause to come together to start something",
+          "examples": [
+            "The crystal began to nucleate as the solution cooled.",
+            "Small droplets nucleate around impurities."
+          ],
+          "collocations": ["nucleate crystal", "nucleate droplets", "nucleate growth"],
+          "synonyms": ["cluster", "coalesce"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nucleated",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having formed a nucleus or begun to cluster; organized around a central point",
+          "examples": [
+            "A nucleated crystal was observed under the microscope."
+          ],
+          "collocations": ["nucleated colony", "nucleated structure"],
+          "synonyms": ["clustered", "centralized"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nucleates",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular of nucleate; forms a nucleus or begins to cluster",
+          "examples": [
+            "The process nucleates crystals from supersaturated solution."
+          ],
+          "collocations": ["nucleates crystals", "nucleates droplets"],
+          "synonyms": ["clusters", "coalesces"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nucleating",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of nucleate; forming a nucleus or starting to cluster",
+          "examples": [
+            "The reaction is nucleating crystals early in the process."
+          ],
+          "collocations": ["nucleating crystals", "nucleating centers"],
+          "synonyms": ["coalescing", "forming clusters"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nucleation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of forming a nucleus or initiating the formation of crystals or droplets",
+          "examples": [
+            "Nucleation is key to understanding ice formation."
+          ],
+          "collocations": ["nucleation process", "ice nucleation"],
+          "synonyms": ["initiation", "starting point"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "physics", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "nucleations",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nucleation; multiple initiation events of nucleus formation",
+          "examples": [
+            "Different nucleations were observed in the sample."
+          ],
+          "collocations": ["different nucleations", "nucleations events"],
+          "synonyms": ["initiations"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "physics", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "nucleator",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an agent or object that initiates nucleation; a thing that acts as a nucleus",
+          "examples": [
+            "Dust particles can act as nucleators in cloud formation."
+          ],
+          "collocations": ["dust nucleator", "nucleator particle"],
+          "synonyms": ["initiator", "seed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "nucleators",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nucleator; multiple initiating agents or objects",
+          "examples": [
+            "Various nucleators were identified in the experiment."
+          ],
+          "collocations": ["nucleator particles", "nucleators in solution"],
+          "synonyms": ["initiators", "seeds"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "nucleclei",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "likely a misspelling or rare plural form for 'nuclei'; refers to more than one nucleus",
+          "examples": [
+            "The sample contained several nucleclei (nuclei) observed under the microscope."
+          ],
+          "collocations": ["cell nucleclei (nuclei)"],
+          "synonyms": ["nuclei"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nuclei",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the central parts of cells or atoms around which other parts are organized",
+          "examples": [
+            "Cells have tiny nuclei that store genetic information.",
+            "The nucleus is a dense region inside an atom."
+          ],
+          "collocations": ["cell nuclei", "cell nucleus", "nuclear membrane"],
+          "synonyms": ["core", "center", "nucleus"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nucleic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or constituting the nucleus or nucleic acids",
+          "examples": [
+            "Nucleic acids like DNA and RNA carry genetic information."
+          ],
+          "collocations": ["nucleic acid", "nucleic sequence"],
+          "synonyms": ["genetic", "nuclear (in some contexts)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "genetics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucleide",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a constituent of a nucleic acid or nucleus; a general term for a nucleic unit",
+          "examples": [
+            "A nucleide is a basic unit within a nucleic chain."
+          ],
+          "collocations": ["nucleide unit", "nucleide structure"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["biology", "chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucleides",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nucleide; multiple nucleic units",
+          "examples": [
+            "The sample contained several nucleides."
+          ],
+          "collocations": ["nucleide composition"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["biology", "chemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucleiferous",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "bearing or producing a nucleus or nuclei; rich in nucleic content",
+          "examples": [
+            "Nucleiferous tissues contain many nucleic material sites."
+          ],
+          "collocations": ["nucleiferous tissue"],
+          "synonyms": ["nucleated", "nuclein-rich"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["biology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucleiform",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "shaped like a nucleus; bearing a nucleus-like form",
+          "examples": [
+            "The crystal has nucleiform features."
+          ],
+          "collocations": ["nucleiform shape"],
+          "synonyms": ["nucleus-shaped"],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science", "geometry"]
+        }
+      ]
+    },
+    {
+      "term": "nuclein",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a protein or material that constitutes the nucleus; historically used for certain proteins",
+          "examples": [
+            "Nuclein was historically used to describe nuclear material in early biology."
+          ],
+          "collocations": ["nuclein protein"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["biology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "nucleinase",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an enzyme that breaks nuclein or nucleic acid proteins; a theoretical or rare term",
+          "examples": [
+            "Nucleinase activity was measured in the assay."
+          ],
+          "collocations": ["nucleinase activity"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["biology", "biochemistry", "science"]
+        }
+      ]
+    },
+    {
+      "term": "nucleinic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to nuclein or nucleic acids; pertaining to the nucleus",
+          "examples": [
+            "Nucleinic acids include DNA and RNA."
+          ],
+          "collocations": ["nucleinic acid", "nucleinic content"],
+          "synonyms": ["nucleic"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "genetics"]
+        }
+      ]
+    }
+  ]
+}

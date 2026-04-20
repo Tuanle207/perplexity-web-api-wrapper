@@ -1,0 +1,383 @@
+```json
+{
+  "items": [
+    {
+      "term": "batterie",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A set of drums played together in music.",
+          "examples": ["The drummer set up his batterie before the show.", "She practices batterie every evening.", "The batterie sounded powerful during the concert."],
+          "collocations": ["jazz batterie", "rock batterie", "drum batterie", "full batterie", "acoustic batterie"],
+          "synonyms": ["drum kit", "drum set"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music"]
+        }
+      ]
+    },
+    {
+      "term": "batteried",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Equipped with or having batteries.",
+          "examples": ["The batteried device lasted all day.", "He bought a batteried flashlight for camping.", "Modern toys are usually batteried."],
+          "collocations": ["batteried device", "batteried toy", "rechargeable batteried", "wireless batteried"],
+          "synonyms": ["battery-powered"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "batteries",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of battery: devices that produce electricity.",
+          "examples": ["I need new batteries for the remote.", "The batteries in my watch died.", "Buy batteries at the store."],
+          "collocations": ["AA batteries", "rechargeable batteries", "car batteries", "replace batteries", "battery pack"],
+          "synonyms": ["cells"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "battering",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act of hitting something hard many times.",
+          "examples": ["The battering of the door woke everyone.", "The storm caused battering of the windows.", "He endured years of battering in fights."],
+          "collocations": ["battering ram", "severe battering", "take a battering", "wind battering", "wave battering"],
+          "synonyms": ["beating", "pounding"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "batterings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of battering: repeated hard hits.",
+          "examples": ["The ship survived multiple batterings.", "He recovered from the batterings.", "The team took several batterings this season."],
+          "collocations": ["repeated batterings", "survive batterings", "economic batterings"],
+          "synonyms": ["beatings"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "batterman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who operates a battery of guns, especially in military contexts.",
+          "examples": ["The batterman aimed the guns carefully.", "Each batterman controlled several cannons."],
+          "collocations": ["naval batterman", "gun batterman"],
+          "synonyms": ["gunnery operator"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["military"]
+        }
+      ]
+    },
+    {
+      "term": "battero",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "batteros",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "batters",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of batter: the person who hits the ball in baseball or cricket.",
+          "examples": ["The batters hit home runs.", "Good batters practice daily.", "The batters scored many runs."],
+          "collocations": ["lead-off batters", "star batters", "top batters"],
+          "synonyms": ["hitters"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports"]
+        },
+        {
+          "pos": "verb",
+          "definition": "Third person of batter: hits something repeatedly.",
+          "examples": ["Waves batters the rocks all day.", "The wind batters the house.", "Rain batters the roof hard."],
+          "collocations": ["waves batters", "wind batters", "rain batters"],
+          "synonyms": ["pounds", "strikes"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "battery",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A device that stores and produces electricity.",
+          "examples": ["The phone needs a new battery.", "Put batteries in the toy.", "Car battery died in the cold."],
+          "collocations": ["battery life", "rechargeable battery", "low battery", "car battery", "AA battery"],
+          "synonyms": ["cell"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "technology"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A group of similar things used together, like cannons or tests.",
+          "examples": ["The army fired a battery of guns.", "She took a battery of tests.", "A battery of lights lit the stage."],
+          "collocations": ["battery of tests", "artillery battery", "battery of questions"],
+          "synonyms": ["array", "series"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["military", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Illegal act of hitting someone repeatedly.",
+          "examples": ["He was charged with battery.", "Assault and battery are crimes.", "The victim reported battery."],
+          "collocations": ["assault and battery", "aggravated battery"],
+          "synonyms": ["assault"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law"]
+        }
+      ]
+    },
+    {
+      "term": "batteryman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who makes or sells batter for cooking, or operates a battery.",
+          "examples": ["The batteryman prepared pancake mix.", "He works as a batteryman in the factory."],
+          "collocations": ["pancake batteryman"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["food", "military"]
+        }
+      ]
+    },
+    {
+      "term": "batteuse",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A female batter in baseball or cricket.",
+          "examples": ["The batteuse hit a home run.", "She is the team's best batteuse."],
+          "collocations": ["star batteuse"],
+          "synonyms": ["female batter"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "battier",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Comparative of batty: more crazy or strange.",
+          "examples": ["His ideas are even battier than before.", "She has battier theories now."],
+          "collocations": ["get battier", "sound battier"],
+          "synonyms": ["crazier", "madder"],
+          "antonyms": ["saner"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "batties",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Informal plural for batteries.",
+          "examples": ["Got any batties for this?"],
+          "collocations": ["spare batties"],
+          "synonyms": ["batteries"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "battiest",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Superlative of batty: most crazy or eccentric.",
+          "examples": ["That's the battiest idea I've heard.", "He has the battiest hair style."],
+          "collocations": ["battiest ideas", "sound battiest"],
+          "synonyms": ["craziest", "nuttiest"],
+          "antonyms": ["sane", "rational"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "battik",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "battiks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "battill",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "battilled",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "battilling",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "battills",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": []
+    },
+    {
+      "term": "battily",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a crazy or eccentric manner.",
+          "examples": ["He smiled battily at the camera.", "She talked battily about aliens."],
+          "collocations": ["grin battily", "act battily"],
+          "synonyms": ["crazily"],
+          "antonyms": ["sensibly"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "battiness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The state of being crazy or eccentric.",
+          "examples": ["His battiness amused everyone.", "Pure battiness drove her ideas."],
+          "collocations": ["sheer battiness", "touch of battiness"],
+          "synonyms": ["madness", "craziness"],
+          "antonyms": ["sanity"],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "battinesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of battiness: instances of craziness.",
+          "examples": ["His various battinesses were legendary."],
+          "collocations": ["many battinesses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "batting",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The action of hitting a ball in baseball or cricket.",
+          "examples": ["His batting was excellent.", "Batting practice starts now.", "She improved her batting."],
+          "collocations": ["good batting", "batting average", "batting practice"],
+          "synonyms": ["hitting"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["sports"]
+        },
+        {
+          "pos": "noun",
+          "definition": "Soft padded material used in quilts.",
+          "examples": ["The quilt has cotton batting.", "Buy batting for the blanket."],
+          "collocations": ["cotton batting", "quilt batting"],
+          "synonyms": ["padding", "wadding"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["crafts"]
+        }
+      ]
+    }
+  ]
+}
+```

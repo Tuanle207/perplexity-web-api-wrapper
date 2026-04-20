@@ -1,0 +1,481 @@
+```json
+{
+  "items": [
+    {
+      "term": "banjuleles",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of banjulele, a musical instrument like a small banjo with a ukulele body.",
+          "examples": ["The band played banjuleles during the folk festival.", "She collects vintage banjuleles."],
+          "collocations": ["play banjuleles", "vintage banjuleles", "folk banjuleles"],
+          "synonyms": ["banjos", "ukuleles"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["music", "instruments"]
+        }
+      ]
+    },
+    {
+      "term": "bank",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place where you keep your money.",
+          "examples": ["I went to the bank to withdraw cash.", "Which bank do you use?"],
+          "collocations": ["go to the bank", "bank account", "bank statement", "bank loan", "bank manager"],
+          "synonyms": ["financial institution"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "business"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the land along the side of a river or lake.",
+          "examples": ["We sat on the river bank.", "The boat hit the bank."],
+          "collocations": ["river bank", "lake bank", "steep bank"],
+          "synonyms": ["riverside", "shore"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography", "nature"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a slope or pile of earth, snow, or sand.",
+          "examples": ["The car slid down the snow bank.", "Clouds banked in the sky."],
+          "collocations": ["snow bank", "sand bank", "earth bank"],
+          "synonyms": ["mound", "pile"],
+          "antonyms": ["ditch"],
+          "register": "null",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to tilt an aircraft or car when turning.",
+          "examples": ["The plane banked sharply to the left.", "He banked the curve smoothly."],
+          "collocations": ["bank left", "bank right", "plane banked"],
+          "synonyms": ["tilt", "lean"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["aviation", "driving"]
+        }
+      ]
+    },
+    {
+      "term": "bankabilities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bankability, the quality of being able to get financial support.",
+          "examples": ["The bankabilities of the projects varied greatly."],
+          "collocations": ["assess bankabilities", "compare bankabilities"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "bankability",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the likelihood that something will attract investment or be financially successful.",
+          "examples": ["The film's bankability depends on the star.", "Investors assessed the project's bankability."],
+          "collocations": ["high bankability", "project bankability", "commercial bankability"],
+          "synonyms": ["investability", "viability"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "bankable",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "likely to make a profit or attract investment.",
+          "examples": ["She is a bankable star in Hollywood.", "The script is highly bankable."],
+          "collocations": ["bankable star", "bankable project", "highly bankable"],
+          "synonyms": ["profitable", "reliable"],
+          "antonyms": ["unviable"],
+          "register": "formal",
+          "domain": ["business", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "bankalachi",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "proper_noun",
+          "definition": "a Native American people or their language from California.",
+          "examples": ["The Bankalachi lived in the southern San Joaquin Valley."],
+          "collocations": ["Bankalachi language", "Bankalachi tribe"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "bankbook",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a passbook from a bank showing your account details.",
+          "examples": ["I need to update my bankbook.", "She checked her bankbook balance."],
+          "collocations": ["update bankbook", "bankbook balance", "savings bankbook"],
+          "synonyms": ["passbook"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["finance", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bankbooks",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bankbook, passbooks from a bank.",
+          "examples": ["The teller stamped the customers' bankbooks."],
+          "collocations": ["customers' bankbooks", "old bankbooks"],
+          "synonyms": ["passbooks"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["finance"]
+        }
+      ]
+    },
+    {
+      "term": "bankcard",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a card from a bank used to pay for things or get money.",
+          "examples": ["I lost my bankcard.", "Use your bankcard at the ATM."],
+          "collocations": ["bankcard payment", "lost bankcard", "debit bankcard"],
+          "synonyms": ["debit card", "bank card"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["finance", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "bankcards",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bankcard, cards from a bank for payments.",
+          "examples": ["She carries two bankcards."],
+          "collocations": ["multiple bankcards", "replace bankcards"],
+          "synonyms": ["debit cards"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["finance"]
+        }
+      ]
+    },
+    {
+      "term": "banked",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of bank; tilted when turning or piled up.",
+          "examples": ["The plane banked to avoid turbulence.", "Snow banked against the wall."],
+          "collocations": ["plane banked", "snow banked", "road banked"],
+          "synonyms": ["tilted", "piled"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["aviation", "general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "sloped or having a bank.",
+          "examples": ["The banked track helped the racers."],
+          "collocations": ["banked curve", "banked track"],
+          "synonyms": ["sloped", "angled"],
+          "antonyms": ["flat"],
+          "register": "null",
+          "domain": ["sports", "racing"]
+        }
+      ]
+    },
+    {
+      "term": "banker",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who owns or manages a bank or financial work.",
+          "examples": ["She works as a banker in the city.", "The banker approved the loan."],
+          "collocations": ["investment banker", "commercial banker", "banker bonus"],
+          "synonyms": ["financier"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "bankera",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of fungus, a cup-shaped mushroom.",
+          "examples": ["Bankera fuliginea grows in forests."],
+          "collocations": ["Bankera species", "cup fungus"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology", "mycology"]
+        }
+      ]
+    },
+    {
+      "term": "bankerdom",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the world or people involved in banking.",
+          "examples": ["Bankerdom faced heavy regulation after the crisis."],
+          "collocations": ["world of bankerdom"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "bankeress",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "old-fashioned term for a female banker.",
+          "examples": ["The bankeress managed the branch efficiently."],
+          "collocations": ["female bankeress"],
+          "synonyms": ["banker"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bankerly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or like a banker.",
+          "examples": ["His bankerly caution saved the deal."],
+          "collocations": ["bankerly advice", "bankerly demeanor"],
+          "synonyms": ["financial"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "bankers",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of banker, people who work in banking.",
+          "examples": ["The bankers met to discuss rates.", "City bankers earn high salaries."],
+          "collocations": ["investment bankers", "city bankers", "merchant bankers"],
+          "synonyms": ["financiers"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "banket",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of gold-bearing rock in South Africa.",
+          "examples": ["Miners extracted banket from the reef."],
+          "collocations": ["banket reef", "Witwatersrand banket"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geology", "mining"]
+        }
+      ]
+    },
+    {
+      "term": "bankets",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of banket, gold-bearing rock formations.",
+          "examples": ["The bankets yielded rich ore."],
+          "collocations": ["rich bankets"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geology", "mining"]
+        }
+      ]
+    },
+    {
+      "term": "bankfull",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "of a river, filled to the top of its banks.",
+          "examples": ["The river was bankfull after the rain."],
+          "collocations": ["bankfull flow", "river bankfull", "bankfull stage"],
+          "synonyms": ["full to brim"],
+          "antonyms": ["low flow"],
+          "register": "null",
+          "domain": ["geography", "hydrology"]
+        }
+      ]
+    },
+    {
+      "term": "banking",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the business of operating banks and financial services.",
+          "examples": ["She works in banking.", "Online banking is very popular."],
+          "collocations": ["investment banking", "retail banking", "online banking", "central banking"],
+          "synonyms": ["finance"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["business", "finance"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the activity of piling up or sloping.",
+          "examples": ["The banking of the road improved safety."],
+          "collocations": ["road banking", "snow banking"],
+          "synonyms": ["tilting"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bankings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of banking, instances of banking activities or slopes.",
+          "examples": ["The bankings along the track were steep."],
+          "collocations": ["steep bankings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "bankit",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small South African antelope, also called klipspringer.",
+          "examples": ["The bankit leaped onto the rocks."],
+          "collocations": ["rock bankit", "mountain bankit"],
+          "synonyms": ["klipspringer"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["zoology"]
+        }
+      ]
+    },
+    {
+      "term": "bankits",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of bankit, small antelopes.",
+          "examples": ["Hunters spotted a herd of bankits."],
+          "collocations": ["herd of bankits"],
+          "synonyms": ["klipspringers"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["zoology"]
+        }
+      ]
+    },
+    {
+      "term": "bankman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who works at a bank, especially a bank teller or clerk.",
+          "examples": ["The bankman helped with the deposit."],
+          "collocations": ["local bankman"],
+          "synonyms": ["teller", "bank clerk"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    }
+  ]
+}
+```

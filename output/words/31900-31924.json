@@ -1,0 +1,441 @@
+```json
+{
+  "items": [
+    {
+      "term": "ballet",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a type of dance that tells a story with music and special movements",
+          "examples": ["She studies ballet at school.", "We watched a ballet performance last night.", "Ballet requires years of practice."],
+          "collocations": ["ballet dancer", "ballet class", "ballet shoes", "ballet performance", "ballet company", "classical ballet"],
+          "synonyms": ["dance"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["arts", "performing arts"]
+        }
+      ]
+    },
+    {
+      "term": "balleted",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "performed or arranged in the style of ballet dance",
+          "examples": ["The balleted version of the opera was stunning.", "Her movements were perfectly balleted."],
+          "collocations": ["balleted performance", "balleted choreography", "balleted scene"],
+          "synonyms": ["balletic"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "balletic",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or resembling ballet dance",
+          "examples": ["She moved with balletic grace.", "The play featured balletic sequences.", "His balletic skills impressed everyone."],
+          "collocations": ["balletic grace", "balletic movement", "balletic style", "balletic dancer", "balletic leap"],
+          "synonyms": ["graceful", "elegant"],
+          "antonyms": ["clumsy"],
+          "register": null,
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "balletically",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that resembles or relates to ballet",
+          "examples": ["The dancers moved balleticly across the stage.", "She leaped balleticly into the air."],
+          "collocations": ["move balleticly", "dance balleticly", "perform balleticly"],
+          "synonyms": ["gracefully"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "balleting",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the activity or practice of performing ballet",
+          "examples": ["Balleting is her daily routine.", "She enjoys balleting with friends."],
+          "collocations": ["balleting practice", "balleting lessons", "balleting technique"],
+          "synonyms": ["ballet dancing"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "balletomane",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who greatly loves and follows ballet",
+          "examples": ["She is a devoted balletomane.", "Balletomanes filled the theater."],
+          "collocations": ["devoted balletomane", "avid balletomane", "lifelong balletomane"],
+          "synonyms": ["ballet fan"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "balletomanes",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of balletomane; people who love ballet",
+          "examples": ["The balletomanes cheered loudly.", "Balletomanes traveled from afar."],
+          "collocations": ["group of balletomanes", "dedicated balletomanes"],
+          "synonyms": ["ballet fans"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "balletomania",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "extreme enthusiasm or passion for ballet",
+          "examples": ["Her balletomania led her to see every show.", "Balletomania swept the city."],
+          "collocations": ["severe balletomania", "mild balletomania", "balletomania fever"],
+          "synonyms": ["ballet passion"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "balletomanias",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of balletomania; instances of extreme love for ballet",
+          "examples": ["Various balletomanias were evident in the audience."],
+          "collocations": ["multiple balletomanias"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "ballets",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of ballet; multiple ballet performances or dances",
+          "examples": ["They performed three ballets.", "I love watching ballets."],
+          "collocations": ["famous ballets", "classical ballets", "modern ballets"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["arts"]
+        }
+      ]
+    },
+    {
+      "term": "ballett",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a surname or rare variant spelling related to ballet",
+          "examples": ["Mr. Ballett attended the show."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["names"]
+        }
+      ]
+    },
+    {
+      "term": "ballfield",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a field where ball games like baseball are played",
+          "examples": ["The ballfield was muddy after rain.", "Kids played on the ballfield."],
+          "collocations": ["local ballfield", "school ballfield", "public ballfield"],
+          "synonyms": ["ballpark", "playing field"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "ballflower",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an architectural decoration shaped like a ball inside a flower",
+          "examples": ["The cathedral featured ballflowers.", "Ballflowers adorned the arch."],
+          "collocations": ["Gothic ballflower", "stone ballflower", "carved ballflower"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "ballflowers",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of ballflower; multiple architectural ball decorations",
+          "examples": ["Many ballflowers decorated the building."],
+          "collocations": ["intricate ballflowers", "medieval ballflowers"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["architecture"]
+        }
+      ]
+    },
+    {
+      "term": "ballgame",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a game played with a ball, such as baseball or football",
+          "examples": ["The ballgame starts at 7 PM.", "We won the ballgame."],
+          "collocations": ["exciting ballgame", "close ballgame", "final ballgame"],
+          "synonyms": ["game", "match"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a completely different situation (figurative)",
+          "examples": ["That's a whole new ballgame now.", "With the new rules, it's a different ballgame."],
+          "collocations": ["new ballgame", "different ballgame", "whole new ballgame"],
+          "synonyms": ["situation"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "ballgames",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of ballgame; multiple ball sports games",
+          "examples": ["They played several ballgames.", "Ballgames are popular here."],
+          "collocations": ["various ballgames", "professional ballgames"],
+          "synonyms": ["games", "matches"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "ballgirl",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female who retrieves balls during sports like tennis",
+          "examples": ["The ballgirl handed him a new ball.", "She works as a ballgirl."],
+          "collocations": ["professional ballgirl", "tennis ballgirl", "court ballgirl"],
+          "synonyms": ["ball boy"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "ballgirls",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of ballgirl; multiple female ball retrievers",
+          "examples": ["The ballgirls were very quick."],
+          "collocations": ["team of ballgirls"],
+          "synonyms": ["ball boys"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "ballgown",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a long elegant dress worn to formal dances or balls",
+          "examples": ["She wore a beautiful ballgown.", "The ballgown sparkled under lights."],
+          "collocations": ["elegant ballgown", "designer ballgown", "silk ballgown"],
+          "synonyms": ["gown", "evening dress"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["fashion", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "ballgowns",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of ballgown; multiple formal dresses",
+          "examples": ["The shop sells ballgowns."],
+          "collocations": ["collection of ballgowns", "custom ballgowns"],
+          "synonyms": ["gowns"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["fashion"]
+        }
+      ]
+    },
+    {
+      "term": "ballhandling",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "skill in controlling and moving a ball in sports",
+          "examples": ["His ballhandling is excellent.", "Good ballhandling wins games."],
+          "collocations": ["superior ballhandling", "poor ballhandling", "ballhandling skills", "practice ballhandling"],
+          "synonyms": ["dribbling", "ball control"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "ballhandlings",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of ballhandling; multiple instances or skills of ball control",
+          "examples": ["The players showed great ballhandlings."],
+          "collocations": ["various ballhandlings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "ballhausplatz",
+      "kind": "proper_noun",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a square in Vienna, Austria, near government buildings",
+          "examples": ["Ballhausplatz is in the heart of Vienna.", "Protests occurred at Ballhausplatz."],
+          "collocations": ["Vienna Ballhausplatz", "historic Ballhausplatz"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "ballhawk",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a sports player skilled at intercepting or catching the ball",
+          "examples": ["He is a true ballhawk on defense.", "The ballhawk stole the pass."],
+          "collocations": ["defensive ballhawk", "elite ballhawk", "versatile ballhawk"],
+          "synonyms": ["interceptor"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "ballhawks",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of ballhawk; multiple skilled ball-intercepting players",
+          "examples": ["The ballhawks dominated the game."],
+          "collocations": ["team ballhawks"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports"]
+        }
+      ]
+    }
+  ]
+}
+```

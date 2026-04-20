@@ -1,0 +1,456 @@
+{
+  "items": [
+    {
+      "term": "sanitizers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "devices or substances that kill germs and contaminants on surfaces or hands",
+          "examples": ["Alcohol-based hand sanitizers reduce the spread of germs.", "Place sanitizers near entryways for quick disinfection."],
+          "collocations": ["hand sanitizers", "disinfectant sanitizers", "alcohol-based sanitizers", "portable sanitizers"],
+          "synonyms": ["disinfectants", "germ killers"],
+          "antonyms": ["contaminants", "germs"],
+          "register": "formal",
+          "domain": ["healthcare", "everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sanitizes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something clean and free from dirt or germs, or to improve safety by removing undesirable elements",
+          "examples": ["They sanitize the kitchen after cooking.", "The software sanitizes user data to protect privacy."],
+          "collocations": ["sanitizes surfaces", "sanitizes data", "sanitizes the frame"],
+          "synonyms": ["cleans", "disinfects", "purifies"],
+          "antonyms": ["pollutes", "dirties"],
+          "register": "neutral",
+          "domain": ["household", "healthcare", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "sanitizing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of cleaning or disinfecting to remove dirt or germs",
+          "examples": ["Sanitizing the counter is part of the routine.", "Sanitizing data helps prevent leaks."],
+          "collocations": ["sanitizing surfaces", "sanitizing equipment", "sanitizing procedures"],
+          "synonyms": ["cleaning", "disinfecting", "purifying"],
+          "antonyms": ["contaminating", "neglecting cleanliness"],
+          "register": "neutral",
+          "domain": ["household", "healthcare", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "sanitoria",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sanitorium; historical term for a health facility for long-term illness, especially tuberculosis",
+          "examples": ["During the 19th century, sanitoria were common for TB patients.", "Several sanitoria were repurposed as clinics."],
+          "collocations": ["ancient sanitoria", "opened sanitoria", "abandoned sanitoria"],
+          "synonyms": ["sanatoriums", "hospitals (historical)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sanitorium",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a hospital for long-term illness, especially tuberculosis; a place for convalescence",
+          "examples": ["He spent years at a sanitorium recovering from tuberculosis.", "The old sanitorium sits abandoned on the hill."],
+          "collocations": ["mountain sanitorium", "boarding sanitorium", "historic sanitorium"],
+          "synonyms": ["sanatorium", "asylum (historical)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sanitoriums",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of sanitorium; multiple long-term illness hospitals",
+          "examples": ["Several sanitoriums were built in the early 1900s.", "Renovated sanitoriums now serve as museums."],
+          "collocations": ["historic sanitoriums", "abandoned sanitoriums"],
+          "synonyms": ["sanatoriums"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "sanity",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of being mentally healthy and able to think clearly",
+          "examples": ["He lost his sanity after the accident.", "The tests are designed to measure memory and sanity."],
+          "collocations": ["loss of sanity", "mental sanity", "sound sanity"],
+          "synonyms": ["soundness", "saneness", "mental health"],
+          "antonyms": ["insanity", "madness"],
+          "register": "neutral",
+          "domain": ["psychology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "sanjak",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a historical term for an administrative district or division on the Ottoman Empire map; a local military unit in some contexts",
+          "examples": ["The province was divided into several sanjaks.", "Sanjaks were governed by sanjakbey(s)."],
+          "collocations": ["sanjak region", "sanjak system"],
+          "synonyms": ["sanjak (unit)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "sanjakate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a religious or ceremonial term referring to a group or office associated with a sanjak context; may be less common or historical",
+          "examples": ["Scholars discussed the role of sanjakate in medieval governance."],
+          "collocations": ["sanjakate affairs"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "sanjakbeg",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a title meaning governor of a sanjak in the Ottoman administrative system",
+          "examples": ["The sanjakbeg issued orders to the troops."],
+          "collocations": ["sanjakbeg command", "as sanjakbeg"],
+          "synonyms": ["beg", "sanjak governor"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "sanjaks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of sanjak, districts or divisions in the Ottoman Empire",
+          "examples": ["The empire was organized into many sanaks across the Balkans."],
+          "collocations": ["sanjaks of the empire"],
+          "synonyms": ["sanaks"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "sanjakship",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the office or jurisdiction of a sanjak; the role of a sanjak governor",
+          "examples": ["He served in the sanjakship for many years."],
+          "collocations": ["sanjakship duties"],
+          "synonyms": ["governorship"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "sanjay",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a male given name common in South Asia",
+          "examples": ["Sanjay spoke at the conference."],
+          "collocations": ["Sanjay Sharma", "Dr. Sanjay"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["person_names", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sanjeev",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a male given name common in South Asia",
+          "examples": ["Sanjeev is a software engineer."],
+          "collocations": ["Sanjeev Kapoor (chef)"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["person_names", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sanjib",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a male given name in South Asia",
+          "examples": ["Sanjib joined the team yesterday."],
+          "collocations": ["Sanjib Das"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["person_names", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sank",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to go down or fall below the surface; to cause to sink",
+          "examples": ["The boat sank after hitting the rock.", "Prices sank dramatically."],
+          "collocations": ["sank to the bottom", "sank prices", "sank ship"],
+          "synonyms": ["sink", "submerge"],
+          "antonyms": ["rise", "float"],
+          "register": "neutral",
+          "domain": ["marine", "economy"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to pass or go past a certain point, especially in sport or competition",
+          "examples": ["The team sank the ball into the net.", "The record sank after the new performance."],
+          "collocations": ["sank the shot", "sank the record"],
+          "synonyms": ["achieved", "made"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "sanka",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term from various languages or historical contexts; may refer to a name or symbolic item",
+          "examples": ["The term sanka appeared in ancient texts."],
+          "collocations": ["sanka term"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sankha",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a horn or horn-shaped ornament in certain cultures; also a surname in some regions",
+          "examples": ["He wore a necklace with a sankha symbol."],
+          "collocations": ["sankha horn", "sankha symbol"],
+          "synonyms": ["conch", "horn"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sankha",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a sacred conch shell used in Hindu rituals",
+          "examples": ["The priest blew the sankha during the ceremony."],
+          "collocations": ["sankha shell", "blow the sankha"],
+          "synonyms": ["conch shell"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sankhya",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Hindu philosophical school; also a term for number or enumeration in some contexts",
+          "examples": ["Sankhya philosophy describes reality as purusha and prakriti."],
+          "collocations": ["Sankhya philosophy", "Sankhya system"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy", "religion"]
+        }
+      ]
+    },
+    {
+      "term": "sanko",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a term found in some languages; may refer to a cultural or personal name",
+          "examples": ["Sankos is a common surname in the region; a form of 'sanko'."],
+          "collocations": ["sanko name"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture", "anthropology"]
+        }
+      ]
+    },
+    {
+      "term": "sankos",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of sanko; may refer to family names or cultural terms",
+          "examples": ["The sankos in the village shared stories."],
+          "collocations": ["village sankos"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["culture"]
+        }
+      ]
+    },
+    {
+      "term": "sannaite",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a follower or adherent of Sanna or a related religious group; may be historical",
+          "examples": ["The sannaite scholars debated interpretation."],
+          "collocations": ["sannaite scholars"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "sannhemp",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a compound herb or fictional term; not widely used in modern English",
+          "examples": ["The plant called sannhemp has been described in myths."],
+          "collocations": ["sannhemp plant"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["ecology", "mythology"]
+        }
+      ]
+    },
+    {
+      "term": "sannie",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal nickname for a person named Susan or Samantha; also a pet name",
+          "examples": ["Sannie loved to bake cookies."],
+          "collocations": ["Aunt Sannie", "Sannie the cat"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["family", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "sannies",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of Sannie; informal nicknames or terms of endearment",
+          "examples": ["The group of sannies gathered for tea."],
+          "collocations": ["sannies gathering"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["family", "culture"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "items": [
+    {
+      "term": "noop",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a soundless or meaningless reaction or reply; a non-committal or silent response, often used in programming to indicate no operation",
+          "examples": ["He pressed the button and got a noop from the system."],
+          "collocations": ["no-op", "no operation", "dummy noop", "noop action"],
+          "synonyms": ["non-action", "no action", "null operation"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "noops",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of noop; multiple instances of a no-operation action or non-action",
+          "examples": ["The code contains several noops.", "Two noops were left in the script by accident."],
+          "collocations": ["noops in code", "unnecessary noops"],
+          "synonyms": ["non-actions", "null operations"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nooscopic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to noosphere or to a mode of perception about the noosphere; esoteric term in philosophy or speculative science",
+          "examples": ["The lecture explored nooscopic concepts in cognitive science."],
+          "collocations": ["nooscopic theory", "nooscopic vision"],
+          "synonyms": ["noospheric", "conceptual"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "noose",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a loop of rope used to trap or hang someone or something by tightening as the rope is pulled",
+          "examples": ["The criminal put a noose around the tree branch."],
+          "collocations": ["hang a noose", "tighten the noose", "rope noose"],
+          "synonyms": ["hangman's knot", "loop"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "noosed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "having been tied with a noose; hanged or captured in a noose",
+          "examples": ["The culprit was noosed at dawn."],
+          "collocations": ["noosed by the rope", "noosed animal"],
+          "synonyms": ["hanged", "ensnared"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "crime"]
+        }
+      ]
+    },
+    {
+      "term": "nooser",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who ties, uses, or applies a noose; occasionally used figuratively for someone who traps others",
+          "examples": ["The nooser prepared the rope for the display."],
+          "collocations": ["professional nooser", "nooser of traps"],
+          "synonyms": ["hangman", "snarer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "noosers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nooser; people who tie or use nooses, or figuratively those who trap others",
+          "examples": ["The noosers surrounded the stake as planned."],
+          "collocations": ["noosers of traps"],
+          "synonyms": ["snarers", "hangmen"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "nooses",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "more than one noose; loops of rope used to trap or hang",
+          "examples": ["The nooses hung from the branches."],
+          "collocations": ["hangs with nooses", "coiled nooses"],
+          "synonyms": ["loops", "hangings"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "noosing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of tying a noose or capturing with a noose; present participle",
+          "examples": ["The hunter is noosing the deer carefully."],
+          "collocations": ["noosing animals", "noosing criminals"],
+          "synonyms": ["snaring", "trapping"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "noosphere",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "theoretical sphere of human thought; the collective consciousness of humanity",
+          "examples": ["Some philosophers describe the noosphere as the thinking layer of Earth."],
+          "collocations": ["global noosphere", "noosphere concept"],
+          "synonyms": ["collective mind", "thinking sphere"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "noospheres",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of noosphere; multiple spheres of thought or collective consciousness",
+          "examples": ["Various noospheres influence different cultures."],
+          "collocations": ["noospheres across cultures"],
+          "synonyms": ["collective minds"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "nootka",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Nootka is a place name; may refer to Nootka Island or the Nootka people (culturally associated with the region).",
+          "examples": ["Nootka Island is part of the Vancouver Island region."],
+          "collocations": ["Nootka Island", "Nootka language"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "nootropic",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance that may improve cognitive function, such as memory, creativity, or motivation",
+          "examples": ["Some people take nootropics to boost concentration."],
+          "collocations": ["cognitive nootropics", "daily nootropic"],
+          "synonyms": ["cognitive enhancer", "smart drug"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "technology", "general"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to or used as a nootropic; designed to improve mental performance",
+          "examples": ["Nootropic supplements are popular among students."],
+          "collocations": ["nootropic effects", "nootropic supplement"],
+          "synonyms": ["cognitive-enhancing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "nootropics",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "substances that improve cognitive function, especially in healthy individuals",
+          "examples": ["Nootropics are popular among students and professionals."],
+          "collocations": ["nootropics market", "nootropics stack"],
+          "synonyms": ["cognitive enhancers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nopal",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the fleshy pad of a prickly pear cactus, eaten as a vegetable in many cuisines",
+          "examples": ["We cooked nopal with tomatoes and onions."],
+          "collocations": ["grilled nopal", "nopal salad"],
+          "synonyms": ["cactus pad"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nopalea",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "brand name of a product (often a smoothie or health drink) made from prickly pear cactus compounds",
+          "examples": ["Nopalea is marketed as an antioxidant juice."],
+          "collocations": ["Nopalea juice", "Nopalea product"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "health"]
+        }
+      ]
+    },
+    {
+      "term": "nopales",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nopal; the edible cactus pads used in cooking",
+          "examples": ["We prepared nopales with peppers."],
+          "collocations": ["cooked nopales", "nopales salad"],
+          "synonyms": ["cactus pads"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nopalito",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small nopal/cactus pad or a term of endearment in some dialects; used in Mexican cuisine for small nopales pieces",
+          "examples": ["We added nopalitos to the tacos."],
+          "collocations": ["nopalito pieces", "nopalitos taco"],
+          "synonyms": ["nopal pieces", "cactus pad pieces"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "nopalitos",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "small, bite-sized pieces of nopales cactus pads used in cooking",
+          "examples": ["We served grilled nopalitos as a side dish."],
+          "collocations": ["grilled nopalitos", "nopalito salad"],
+          "synonyms": ["diced nopales"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "nopalry",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or place where nopales are cultivated or collected; rarity in usage",
+          "examples": ["The nopalry thrives in arid zones."],
+          "collocations": ["nopalry farm"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["agriculture", "food"]
+        }
+      ]
+    },
+    {
+      "term": "nopals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nopal; edible cactus pads",
+          "examples": ["We bought fresh nopals at the market."],
+          "collocations": ["fresh nopals", "nopals for cooking"],
+          "synonyms": ["cactus pads"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "nope",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "interjection",
+          "definition": "informal way to say no or to reject something",
+          "examples": ["Nope, I don’t want to go."],
+          "collocations": ["say nope", "say nope to", "say nope to that idea"],
+          "synonyms": ["no", "nah"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "nopinene",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chemical compound related to pinene family; not common in everyday use",
+          "examples": [" nopinene is studied in chemistry contexts."],
+          "collocations": [" nopinene molecules"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "noplace",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "phrase",
+          "definition": "a placeholder term meaning 'no place' or 'not a place'; used in some jokes or code comments",
+          "examples": ["The variable was set to noplace in the example."],
+          "collocations": ["noplace example", "noplace joke"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["technology", "humor"]
+        }
+      ]
+    },
+    {
+      "term": "nor",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "conjunction",
+          "definition": "used to introduce a second negative after another negative (neither this nor that)",
+          "examples": ["He couldn't swim, nor could he ride a bike."],
+          "collocations": ["neither... nor...", "nor ever"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}

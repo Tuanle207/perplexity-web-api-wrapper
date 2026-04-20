@@ -1,0 +1,471 @@
+```json
+{
+  "items": [
+    {
+      "term": "beams",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beam: long thick pieces of wood, metal, or concrete used to support weight.",
+          "examples": ["The beams in the roof are very strong.", "Wooden beams support the ceiling.", "Steel beams were used in the bridge."],
+          "collocations": ["wooden beams", "steel beams", "support beams", "roof beams", "load-bearing beams"],
+          "synonyms": ["joists", "rafters", "girders"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction", "architecture", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "plural of beam: narrow lines of light.",
+          "examples": ["The beams from the lighthouse guided the ships.", "Sun beams shone through the window.", "Laser beams cut the metal."],
+          "collocations": ["light beams", "sun beams", "laser beams", "headlight beams"],
+          "synonyms": ["rays", "shafts"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general", "science"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third person singular of beam: shines brightly.",
+          "examples": ["The sun beams down on the beach.", "Her face beams with happiness.", "The spotlight beams on the stage."],
+          "collocations": ["beams down", "beams with pride", "beams brightly"],
+          "synonyms": ["shines", "radiates", "glows"],
+          "antonyms": ["dims"],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beamsman",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who operates a beam in glass-making.",
+          "examples": ["The beamsman shaped the hot glass carefully.", "In old factories, the beamsman was essential."],
+          "collocations": ["glass beamsman", "factory beamsman"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["industry", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "beamsmen",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beamsman: workers who operate beams in glass-making.",
+          "examples": ["The beamsmen worked in teams.", "Few beamsmen remain today."],
+          "collocations": ["glass beamsmen"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["industry", "historical"]
+        }
+      ]
+    },
+    {
+      "term": "beamster",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "obsolete term for a person who operates a beam in weaving or glass-making.",
+          "examples": ["The beamster managed the loom."],
+          "collocations": ["weaving beamster"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["historical", "textiles"]
+        }
+      ]
+    },
+    {
+      "term": "beamwork",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "structural work made with beams.",
+          "examples": ["The beamwork of the barn was solid."],
+          "collocations": ["steel beamwork", "roof beamwork"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["construction", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "beamy",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having broad beams, used for ships.",
+          "examples": ["The beamy ship was very stable.", "Old sailing ships were often beamy."],
+          "collocations": ["beamy ship", "beamy vessel"],
+          "synonyms": ["broad-beamed"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["nautical"]
+        }
+      ]
+    },
+    {
+      "term": "bean",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small hard seed that grows in a pod from a plant.",
+          "examples": ["I ate green beans for dinner.", "Coffee beans are roasted before use.", "She planted bean seeds in the garden."],
+          "collocations": ["green beans", "baked beans", "coffee beans", "jelly bean", "bean soup"],
+          "synonyms": ["pulse"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["food", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "informal: someone's head.",
+          "examples": ["He got hit on the bean.", "Use your bean to solve this!"],
+          "collocations": ["use your bean", "hit on the bean"],
+          "synonyms": ["head", "noggin"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "slang: a small amount of money.",
+          "examples": ["It doesn't cost a bean.", "I don't have a bean to my name."],
+          "collocations": ["not worth a bean", "cost a bean"],
+          "synonyms": ["cent", "penny"],
+          "antonyms": [],
+          "register": "slang",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beanbag",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large cloth bag filled with beans or small balls, used as a soft seat.",
+          "examples": ["She sat on the beanbag chair.", "Kids love playing on beanbags."],
+          "collocations": ["beanbag chair", "beanbag toss"],
+          "synonyms": ["puff", "beanbag chair"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["furniture", "games"]
+        }
+      ]
+    },
+    {
+      "term": "beanbags",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beanbag: soft bags filled with beans, used for seats or games.",
+          "examples": ["The room had several beanbags.", "We played beanbags at the party."],
+          "collocations": ["beanbag chairs", "beanbag game"],
+          "synonyms": ["puffs"],
+          "antonyms": [],
+          "register": null,
+          "domain": ["furniture", "games"]
+        }
+      ]
+    },
+    {
+      "term": "beanball",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "in baseball, a pitch aimed at the batter's head.",
+          "examples": ["The pitcher threw a beanball.", "Beanballs are dangerous in baseball."],
+          "collocations": ["high beanball", "inside beanball"],
+          "synonyms": ["headhunter"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "beanballs",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beanball: pitches aimed at the batter's head in baseball.",
+          "examples": ["The game had several beanballs.", "Umpires watch for beanballs."],
+          "collocations": ["dangerous beanballs"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "beancod",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "dialect: a kind of fish similar to cod.",
+          "examples": ["They caught a beancod in the sea."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["fishing", "dialect"]
+        }
+      ]
+    },
+    {
+      "term": "beaned",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense: hit on the head with a pitched ball in baseball.",
+          "examples": ["The batter was beaned by the pitch.", "He got beaned in the game."],
+          "collocations": ["got beaned", "beaned by pitch"],
+          "synonyms": ["hit on head"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "beaner",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "slang: offensive term for a Mexican or Mexican American.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "slang",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "beaneries",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beanery: informal cheap restaurant.",
+          "examples": ["Old beaneries served simple meals."],
+          "collocations": ["city beaneries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "beaners",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beaner: offensive slang for Mexicans.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "slang",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "beanery",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal: a cheap, plain restaurant.",
+          "examples": ["He ate at the local beanery.", "Beaneries were common in old cities."],
+          "collocations": ["greasy beanery", "downtown beanery"],
+          "synonyms": ["diner", "greasy spoon"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food"]
+        }
+      ]
+    },
+    {
+      "term": "beanfeast",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "British informal: a party with plenty of food and drink.",
+          "examples": ["The office beanfeast was fun.", "They had a beanfeast after work."],
+          "collocations": ["annual beanfeast", "company beanfeast"],
+          "synonyms": ["feast", "banquet"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beanfeaster",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "person attending a beanfeast.",
+          "examples": ["Beanfeasters enjoyed the party."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beanfeasts",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beanfeast: parties with lots of food.",
+          "examples": ["The beanfeasts were lively events."],
+          "collocations": ["annual beanfeasts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beanfest",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal: an event or gathering involving beans or a feast.",
+          "examples": ["The beanfest raised money for charity."],
+          "collocations": ["charity beanfest"],
+          "synonyms": ["feast"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["food", "events"]
+        }
+      ]
+    },
+    {
+      "term": "beanfield",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a field where beans are grown.",
+          "examples": ["The beanfield was ready for harvest."],
+          "collocations": ["large beanfield"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["agriculture"]
+        }
+      ]
+    },
+    {
+      "term": "beanie",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small round knitted hat.",
+          "examples": ["She wore a beanie in the cold.", "Kids love colorful beanies."],
+          "collocations": ["knitted beanie", "ski beanie", "beanie hat"],
+          "synonyms": ["skullcap", "watch cap"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["clothing", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "beanier",
+      "kind": "word",
+      "cefrLevel": null,
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "comparative of beany: more like a bean in shape or form.",
+          "examples": ["This pod is beanier than that one."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "beanies",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of beanie: small knitted hats.",
+          "examples": ["The store sells beanies.", "Everyone wore beanies at the game."],
+          "collocations": ["winter beanies", "colored beanies"],
+          "synonyms": ["beanies hats"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["clothing"]
+        }
+      ]
+    }
+  ]
+}
+```

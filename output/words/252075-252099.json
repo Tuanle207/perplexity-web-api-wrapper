@@ -1,0 +1,431 @@
+```json
+{
+  "items": [
+    {
+      "term": "nonintent",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "lack of intention or purpose",
+          "examples": ["The court ruled it was nonintent on his part.", "Nonintent led to the accidental damage."],
+          "collocations": ["pure nonintent", "prove nonintent", "act of nonintent"],
+          "synonyms": ["unintentionality"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "nonintention",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "absence of intention or deliberate purpose",
+          "examples": ["The mistake happened due to nonintention.", "Nonintention does not excuse negligence."],
+          "collocations": ["clear nonintention", "nonintention clause", "pure nonintention"],
+          "synonyms": ["unintentionality"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "noninteracting",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not interacting or affecting each other",
+          "examples": ["The particles are noninteracting in this model.", "Noninteracting components simplify the design."],
+          "collocations": ["noninteracting particles", "noninteracting systems", "remain noninteracting"],
+          "synonyms": ["non-interactive"],
+          "antonyms": ["interacting"],
+          "register": null,
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "noninteractive",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not allowing user interaction or response",
+          "examples": ["The website is noninteractive and just shows text.", "Noninteractive media is less engaging."],
+          "collocations": ["noninteractive website", "noninteractive display", "highly noninteractive"],
+          "synonyms": ["passive"],
+          "antonyms": ["interactive"],
+          "register": null,
+          "domain": ["technology", "media"]
+        }
+      ]
+    },
+    {
+      "term": "nonintercepting",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not intercepting or stopping something in its path",
+          "examples": ["The nonintercepting trajectory avoided collision.", "Use nonintercepting paths for safety."],
+          "collocations": ["nonintercepting path", "nonintercepting mode", "remain nonintercepting"],
+          "synonyms": [],
+          "antonyms": ["intercepting"],
+          "register": "formal",
+          "domain": ["technology", "military"]
+        }
+      ]
+    },
+    {
+      "term": "noninterceptive",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not designed to intercept or capture",
+          "examples": ["Noninterceptive sensors only observe.", "The drone operates in noninterceptive mode."],
+          "collocations": ["noninterceptive system", "noninterceptive radar", "purely noninterceptive"],
+          "synonyms": [],
+          "antonyms": ["interceptive"],
+          "register": "formal",
+          "domain": ["technology", "military"]
+        }
+      ]
+    },
+    {
+      "term": "noninterchangeability",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "quality of not being able to be exchanged or swapped",
+          "examples": ["Noninterchangeability of parts caused delays.", "The treaty noted their noninterchangeability."],
+          "collocations": ["due to noninterchangeability", "problem of noninterchangeability", "strict noninterchangeability"],
+          "synonyms": [],
+          "antonyms": ["interchangeability"],
+          "register": "formal",
+          "domain": ["business", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "noninterchangeable",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not able to be exchanged or used in place of each other",
+          "examples": ["These batteries are noninterchangeable.", "The tools are noninterchangeable models."],
+          "collocations": ["noninterchangeable parts", "completely noninterchangeable", "noninterchangeable components"],
+          "synonyms": ["incompatible"],
+          "antonyms": ["interchangeable"],
+          "register": null,
+          "domain": ["general", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "noninterchangeableness",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "state of not being interchangeable",
+          "examples": ["Noninterchangeableness increased production costs.", "Their noninterchangeableness was a flaw."],
+          "collocations": ["due to noninterchangeableness", "inherent noninterchangeableness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering"]
+        }
+      ]
+    },
+    {
+      "term": "noninterchangeably",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that cannot be interchanged",
+          "examples": ["The parts function noninterchangeably.", "They are used noninterchangeably in practice."],
+          "collocations": ["operate noninterchangeably", "treated noninterchangeably"],
+          "synonyms": [],
+          "antonyms": ["interchangeably"],
+          "register": "formal",
+          "domain": ["engineering"]
+        }
+      ]
+    },
+    {
+      "term": "nonintercourse",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "lack of sexual intercourse",
+          "examples": ["The couple practiced nonintercourse intimacy.", "Nonintercourse was part of their agreement."],
+          "collocations": ["period of nonintercourse", "voluntary nonintercourse"],
+          "synonyms": ["abstinence"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "nonintercourses",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of nonintercourse; instances of lacking sexual intercourse",
+          "examples": ["Studies track nonintercourses in relationships.", "Multiple nonintercourses were noted."],
+          "collocations": ["repeated nonintercourses"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    },
+    {
+      "term": "noninterdependence",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "lack of mutual dependence between things or people",
+          "examples": ["Noninterdependence allows independent operation.", "The policy promotes noninterdependence."],
+          "collocations": ["state of noninterdependence", "economic noninterdependence"],
+          "synonyms": ["independence"],
+          "antonyms": ["interdependence"],
+          "register": "formal",
+          "domain": ["business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "noninterdependency",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "absence of interdependency",
+          "examples": ["Noninterdependency was key to the design.", "They valued noninterdependency highly."],
+          "collocations": ["complete noninterdependency"],
+          "synonyms": [],
+          "antonyms": ["interdependency"],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "noninterdependent",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not dependent on each other",
+          "examples": ["The systems are noninterdependent.", "Noninterdependent variables simplify analysis."],
+          "collocations": ["noninterdependent systems", "remain noninterdependent", "fully noninterdependent"],
+          "synonyms": ["independent"],
+          "antonyms": ["interdependent"],
+          "register": null,
+          "domain": ["science", "business"]
+        }
+      ]
+    },
+    {
+      "term": "noninterdependently",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is not interdependent",
+          "examples": ["They operate noninterdependently.", "Modules function noninterdependently."],
+          "collocations": ["work noninterdependently"],
+          "synonyms": [],
+          "antonyms": ["interdependently"],
+          "register": "formal",
+          "domain": ["business"]
+        }
+      ]
+    },
+    {
+      "term": "noninterest",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "lack of interest or charge",
+          "examples": ["The loan was at noninterest.", "Noninterest accounts are rare now."],
+          "collocations": ["noninterest loan", "noninterest bearing", "pure noninterest"],
+          "synonyms": ["interest-free"],
+          "antonyms": ["interest"],
+          "register": null,
+          "domain": ["finance", "general"]
+        }
+      ]
+    },
+    {
+      "term": "noninterests",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural; things or instances without interest",
+          "examples": ["He has no noninterests; everything fascinates him.", "Noninterests are uncommon in her profile."],
+          "collocations": ["list of noninterests"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": null,
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "noninterfaced",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not connected or interfaced with a system",
+          "examples": ["The device is noninterfaced and standalone.", "Noninterfaced software runs independently."],
+          "collocations": ["noninterfaced device", "remain noninterfaced"],
+          "synonyms": [],
+          "antonyms": ["interfaced"],
+          "register": null,
+          "domain": ["technology"]
+        }
+      ]
+    },
+    {
+      "term": "noninterference",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "act of not interfering or intervening",
+          "examples": ["The policy of noninterference worked well.", "Practice noninterference in their affairs."],
+          "collocations": ["policy of noninterference", "strict noninterference", "principle of noninterference"],
+          "synonyms": ["non-intervention"],
+          "antonyms": ["interference"],
+          "register": null,
+          "domain": ["politics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "noninterferences",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of noninterference; instances of not interfering",
+          "examples": ["Multiple noninterferences preserved peace.", "The noninterferences were appreciated."],
+          "collocations": ["series of noninterferences"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics"]
+        }
+      ]
+    },
+    {
+      "term": "noninterferer",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "someone or something that does not interfere",
+          "examples": ["The regulator acts as a noninterferer.", "Noninterferers are ideal in experiments."],
+          "collocations": ["passive noninterferer"],
+          "synonyms": [],
+          "antonyms": ["interferer"],
+          "register": "formal",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "noninterfering",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not interfering or meddling",
+          "examples": ["Take a noninterfering approach.", "Noninterfering signals are clear."],
+          "collocations": ["noninterfering method", "noninterfering role", "remain noninterfering"],
+          "synonyms": ["non-interventionist"],
+          "antonyms": ["interfering"],
+          "register": null,
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "noninterferingly",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that does not interfere",
+          "examples": ["Act noninterferingly to avoid issues.", "It operates noninterferingly."],
+          "collocations": ["function noninterferingly"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "noninterlaced",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "not interlaced or woven together; in video, not using interlaced scanning",
+          "examples": ["The video is noninterlaced for smoother playback.", "Noninterlaced threads are separate."],
+          "collocations": ["noninterlaced video", "noninterlaced display", "progressive noninterlaced"],
+          "synonyms": ["progressive"],
+          "antonyms": ["interlaced"],
+          "register": null,
+          "domain": ["technology", "general"]
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,478 @@
+```json
+{
+  "items": [
+    {
+      "term": "basin",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a round, open container for holding water or other liquids",
+          "examples": ["She filled the basin with warm water.", "The doctor washed his hands in the basin.", "Put the fruit in a basin."],
+          "collocations": ["wash basin", "hand basin", "fruit basin", "mixing basin", "basin of water"],
+          "synonyms": ["bowl", "sink"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "household"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a large area of land where water collects or drains into a river or sea",
+          "examples": ["The Amazon basin is home to many animals.", "The river flows into the Great Basin.", "Farmers depend on the river basin for water."],
+          "collocations": ["river basin", "drainage basin", "sedimentary basin", "ocean basin", "basin region"],
+          "synonyms": ["watershed", "catchment"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography", "science"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a bowl-shaped area or hole, often in the ground or on a surface",
+          "examples": ["The sinkhole formed a large basin.", "Water collected in the basin of the rock."],
+          "collocations": ["basin-shaped", "rock basin", "sink basin", "basin floor"],
+          "synonyms": ["depression", "hollow"],
+          "antonyms": ["hill", "ridge"],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "basins",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basin; round containers for liquids or large bowl-shaped land areas",
+          "examples": ["The kitchen has three basins.", "The river basins flood each year.", "Empty the basins outside."],
+          "collocations": ["hand basins", "river basins", "wash basins", "fruit basins"],
+          "synonyms": ["bowls", "sinks", "watersheds"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "basinet",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small, round steel helmet worn in the Middle Ages",
+          "examples": ["The knight wore a basinet with a visor.", "The museum displays a 14th-century basinet."],
+          "collocations": ["steel basinet", "medieval basinet", "open-faced basinet"],
+          "synonyms": ["helmet"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "military"]
+        }
+      ]
+    },
+    {
+      "term": "basinets",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basinet; small medieval helmets",
+          "examples": ["The armory held several basinets.", "Soldiers polished their basinets."],
+          "collocations": ["medieval basinets", "steel basinets"],
+          "synonyms": ["helmets"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "basils",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basil; an aromatic herb used in cooking",
+          "examples": ["She grows basils in her garden.", "Fresh basils add flavor to pasta."],
+          "collocations": ["fresh basils", "sweet basils", "holy basils"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["cooking", "botany"]
+        }
+      ]
+    },
+    {
+      "term": "basinful",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the amount a basin can hold",
+          "examples": ["She poured a basinful of water on the plants.", "Add a basinful of flour to the mix."],
+          "collocations": ["basinful of water", "basinful of flour"],
+          "synonyms": ["basin-load"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "basinfuls",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basinful; multiple amounts a basin holds",
+          "examples": ["She used two basinfuls of water.", "Fill basinfuls for the guests."],
+          "collocations": ["several basinfuls"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["everyday"]
+        }
+      ]
+    },
+    {
+      "term": "basined",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "placed or shaped like a basin",
+          "examples": ["The basined valley held rainwater."],
+          "collocations": ["basined valley", "basined area"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "basinlike",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "similar in shape to a basin",
+          "examples": ["The crater was basinlike."],
+          "collocations": ["basinlike depression"],
+          "synonyms": ["bowl-shaped"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geography"]
+        }
+      ]
+    },
+    {
+      "term": "basing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of base; founding or grounding something on a principle",
+          "examples": ["She is basing her decision on facts.", "Basing your work on research is wise."],
+          "collocations": ["basing on", "basing decisions", "basing arguments"],
+          "synonyms": ["founding", "grounding"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "basinet",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a small, round steel helmet worn in the Middle Ages",
+          "examples": ["The knight wore a basinet with a visor.", "The museum displays a 14th-century basinet."],
+          "collocations": ["steel basinet", "medieval basinet", "open-faced basinet"],
+          "synonyms": ["helmet"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["history", "military"]
+        }
+      ]
+    },
+    {
+      "term": "basinerved",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having nerves arranged like a basin in leaves (botany)",
+          "examples": ["The leaf is basinerved."],
+          "collocations": ["basinerved leaf"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "basinasal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the base and nose in anatomy",
+          "examples": ["Basinasal measurements are used in craniometry."],
+          "collocations": ["basinasal line"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "basinasial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "pertaining to the base and axis in anatomy",
+          "examples": ["Basinasial orientation in skulls."],
+          "collocations": ["basinasial axis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["anatomy"]
+        }
+      ]
+    },
+    {
+      "term": "basinal",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or resembling a basin, especially in geology",
+          "examples": ["Basinal sediments were studied.", "The basinal structure holds oil."],
+          "collocations": ["basinal sediments", "basinal deposits"],
+          "synonyms": ["basin-like"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "basilisk",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a mythical reptile-like creature that can kill with its gaze",
+          "examples": ["The basilisk is a legendary serpent.", "In the story, Harry fights the basilisk."],
+          "collocations": ["cockatrice basilisk", "legendary basilisk"],
+          "synonyms": ["cockatrice"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["mythology"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a tropical lizard that can run on water and has a crest like a crown",
+          "examples": ["The basilisk lizard escaped across the river.", "Green basilisks live in rainforests."],
+          "collocations": ["green basilisk", "common basilisk", "Jesus Christ lizard"],
+          "synonyms": ["Jesus lizard"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "basilisks",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of basilisk; mythical creatures or water-running lizards",
+          "examples": ["Legends tell of basilisks in caves.", "Several basilisks were seen by the river."],
+          "collocations": ["green basilisks"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["mythology", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "basiliscus",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "scientific genus name for the basilisk lizard",
+          "examples": ["Basiliscus is a genus of lizards."],
+          "collocations": ["genus Basiliscus"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "basiliscine",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to the basilisk lizard genus",
+          "examples": ["Basiliscine lizards run on water."],
+          "collocations": ["basiliscine species"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["biology"]
+        }
+      ]
+    },
+    {
+      "term": "basilissa",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a female ruler or queen in ancient Greek (historical term)",
+          "examples": ["Cleopatra was called basilissa."],
+          "collocations": ["Greek basilissa"],
+          "synonyms": ["queen"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history"]
+        }
+      ]
+    },
+    {
+      "term": "basilosauridae",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "extinct family of prehistoric whales",
+          "examples": ["Basilosauridae are early cetaceans."],
+          "collocations": ["family Basilosauridae"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "basilosaurus",
+      "kind": "proper_noun",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a large prehistoric whale from the Eocene epoch",
+          "examples": ["Basilosaurus fossils were found in Egypt.", "Basilosaurus measured up to 18 meters."],
+          "collocations": ["Basilosaurus fossil", "prehistoric Basilosaurus"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["paleontology"]
+        }
+      ]
+    },
+    {
+      "term": "basilweed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plant related to basil, sometimes wild basil",
+          "examples": ["Basilweed grows in fields."],
+          "collocations": ["wild basilweed"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["botany"]
+        }
+      ]
+    },
+    {
+      "term": "basilysis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a technical term in chemistry or biology for a breaking process at the base",
+          "examples": ["Basilysis occurs in some reactions."],
+          "collocations": ["chemical basilysis"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science"]
+        }
+      ]
+    },
+    {
+      "term": "basilyst",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare term for a worshipper of basil or an ancient priestess",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["religion"]
+        }
+      ]
+    },
+    {
+      "term": "basimesostasis",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare biological or medical term for a stopping process at the base",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine"]
+        }
+      ]
+    }
+  ]
+}
+```

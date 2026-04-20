@@ -1,0 +1,559 @@
+{
+  "items": [
+    {
+      "term": "score",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "An amount of points gained in a game or test.",
+          "examples": [
+            "The final score was 3–2.",
+            "She kept the score on the whiteboard.",
+            "The exam score determined his grade."
+          ],
+          "collocations": ["high score", "low score", "keep score", "score draw", "scoreboard score"],
+          "synonyms": ["points", "points tally", "results"],
+          "antonyms": ["losses", "defeat"],
+          "register": "neutral",
+          "domain": ["general", "sports", "education"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To gain points in a game or test; to record or be credited with points.",
+          "examples": [
+            "They scored a goal in the last minute.",
+            "She scored well on the test.",
+            "The team has scored in every match this season."
+          ],
+          "collocations": ["score a goal", "score a point", "score highly", "score 100%"],
+          "synonyms": ["gain points", "net", "achieve"],
+          "antonyms": ["miss", "lose"],
+          "register": "neutral",
+          "domain": ["sports", "education"]
+        },
+        {
+          "pos": "noun",
+          "definition": "A value or rating representing quality or success.",
+          "examples": [
+            "The project received a good score from reviewers.",
+            "Her score on the app rating is five stars.",
+            "The score of the movie reflected its popularity."
+          ],
+          "collocations": ["test score", "satisfaction score", "rating score"],
+          "synonyms": ["rating", "grade", "mark"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "scoreboard",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A board or display showing the scores of teams or players in a game.",
+          "examples": [
+            "The scoreboard showed a tied game at halftime.",
+            "We checked the scoreboard to see who was leading.",
+            "The scoreboard updated after each goal."
+          ],
+          "collocations": ["digital scoreboard", "flickering scoreboard", "board scoreboard"],
+          "synonyms": ["score display", "score list"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "scoreboards",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of scoreboard; multiple score displays.",
+          "examples": [
+            "The stadium has several scoreboards.",
+            "Different venues use different scoreboards."
+          ],
+          "collocations": ["stadium scoreboards", "LED scoreboards"],
+          "synonyms": ["score displays"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "scorebook",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A book used to record scores or statistics in games or tests.",
+          "examples": [
+            "The coach kept the scorebook during the match.",
+            "She compiled the scorebook after the tournament."
+          ],
+          "collocations": ["game scorebook", "official scorebook"],
+          "synonyms": ["score log", "score journal"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scorecard",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A card or form listing scores, grades, or performance indicators.",
+          "examples": [
+            "She filled out her scorecard for the golf round.",
+            "The scorecard shows the scores for each section."
+          ],
+          "collocations": ["golf scorecard", "performance scorecard", "exam scorecard"],
+          "synonyms": ["rating card", "grades card"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "education", "business"]
+        }
+      ]
+    },
+    {
+      "term": "scorecards",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of scorecard; multiple scorecards.",
+          "examples": [
+            "We reviewed the scorecards from all participants.",
+            "Scorecards were collected after the survey."
+          ],
+          "collocations": ["participant scorecards", "golf scorecards"],
+          "synonyms": ["rating cards"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "education", "sports"]
+        }
+      ]
+    },
+    {
+      "term": "scored",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of score; received points or Gareth? expressed as having been given points.",
+          "examples": [
+            "They scored the winning goal.",
+            "She scored a 95 on her test."
+          ],
+          "collocations": ["scored a goal", "scored highly", "scored well"],
+          "synonyms": ["gained points", "netted", "achieved"],
+          "antonyms": ["missed", "failed"],
+          "register": "neutral",
+          "domain": ["sports", "education"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "Having been marked or evaluated with a score.",
+          "examples": [
+            "a scored flute in the performance",
+            "the scored lines on paper"
+          ],
+          "collocations": ["scored exam", "scored paper"],
+          "synonyms": ["marked", "graded"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "scorekeeper",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who records points in a game.",
+          "examples": [
+            "The scorekeeper announced the final score.",
+            "The scorekeeper kept track of every goal."
+          ],
+          "collocations": ["official scorekeeper", "live scorekeeper"],
+          "synonyms": ["scorer", "pointkeeper"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "scorekeepers",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of scorekeeper; multiple people who record scores.",
+          "examples": [
+            "Two scorekeepers logged the events.",
+            "Scorekeepers exist at major leagues."
+          ],
+          "collocations": ["official scorekeepers"],
+          "synonyms": ["scorers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "scorekeeping",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The activity of recording scores during a game or event.",
+          "examples": [
+            "Scorekeeping is an important role in the match.",
+            "He trained in scorekeeping for the league."
+          ],
+          "collocations": ["official scorekeeping", "scorekeeping duties"],
+          "synonyms": ["recording scores", "scoring"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scoreless",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having no score; the two teams have not earned any points.",
+          "examples": [
+            "The game was scoreless at the end of regulation.",
+            "We watched a scoreless first half."
+          ],
+          "collocations": ["scoreless tie", "scoreless draw"],
+          "synonyms": ["nil-nil", "goalless"],
+          "antonyms": ["scoring", "points-scored"],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "scoreline",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A written or shown representation of the final score in a game, often in a line like 2-1.",
+          "examples": [
+            "The scoreline was 3-2 after a dramatic finish.",
+            "Fans debated the scoreline from the match."
+          ],
+          "collocations": ["final scoreline", "winning scoreline"],
+          "synonyms": ["final score", "result line"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "scorelines",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of scoreline; multiple final scores.",
+          "examples": [
+            "The league published the week’s scorelines.",
+            "They compared scorelines across games."
+          ],
+          "collocations": ["weekly scorelines"],
+          "synonyms": ["final scores"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "scorepad",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A small notebook used to record scores, often in games like billiards or bowling.",
+          "examples": [
+            "She ripped a page from the scorepad to show the score.",
+            "The scorepad kept by the umpire recorded every point."
+          ],
+          "collocations": ["scorepad notebook", "rink scorepad"],
+          "synonyms": ["scorebook", "score notebook"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "scorepads",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of scorepad; multiple scorepads.",
+          "examples": [
+            "Two scorepads were used in the tournament.",
+            "The officials handed out scorepads."
+          ],
+          "collocations": ["official scorepads"],
+          "synonyms": ["scorebooks"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "scorer",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who scores points in a game; a person who writes a score.",
+          "examples": [
+            "The top scorer in the league scored again.",
+            "The referee thanked the scorer after the game."
+          ],
+          "collocations": ["top scorer", "official scorer", "game scorer"],
+          "synonyms": ["point-scorer", "goal-scorer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "scorers",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of scorer; people who score points.",
+          "examples": [
+            "The scorers contributed to a high final score.",
+            "Two scorers were listed on the scoreboard."
+          ],
+          "collocations": ["leading scorers", "top scorers"],
+          "synonyms": ["point-scorers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports"]
+        }
+      ]
+    },
+    {
+      "term": "scores",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "More than one score; multiple points or results.",
+          "examples": [
+            "The scores from all games are posted online.",
+            "Two scores separated the teams."
+          ],
+          "collocations": ["final scores", "scores table"],
+          "synonyms": ["points", "results"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "education", "technology"]
+        },
+        {
+          "pos": "verb",
+          "definition": "To gain points or to compute; to assign scores.",
+          "examples": [
+            "They scores the matches automatically.",
+            "The app scores your answers as you go."
+          ],
+          "collocations": ["score the game", "score the test"],
+          "synonyms": ["gain points", "grade"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "education", "sports"]
+        }
+      ]
+    },
+    {
+      "term": "scoresheet",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A sheet or page listing scores or statistics.",
+          "examples": [
+            "The referee filled out the scoresheet after the match.",
+            "Keep the scoresheet handy during the competition."
+          ],
+          "collocations": ["official scoresheet", "golf scoresheet"],
+          "synonyms": ["score sheet"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scoresheets",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of scoresheet; multiple sheets listing scores.",
+          "examples": [
+            "Several scoresheets were submitted at the end.",
+            "The manager reviewed the scoresheets."
+          ],
+          "collocations": ["official scoresheets"],
+          "synonyms": ["score sheets"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "education"]
+        }
+      ]
+    },
+    {
+      "term": "scoria",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A kind of volcanic rock with reddish or dark color; rough, porous rock.",
+          "examples": [
+            "The hikers collected dark scoria rocks.",
+            "Engineers used scoria in lightweight concrete."
+          ],
+          "collocations": ["volcanic scoria", "scoria rock"],
+          "synonyms": ["lava rock"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology", "construction"]
+        }
+      ]
+    },
+    {
+      "term": "scoriac",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Relating to scoria rock; composed of or resembling scoria.",
+          "examples": [
+            "A scoriac texture gave the stone a rough surface.",
+            "Scoriac fragments were found in the field."
+          ],
+          "collocations": ["scoriac texture", "scoriac fragments"],
+          "synonyms": ["lava rock-like"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "scoriaceous",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having a texture like scoria; porous and vesicular.",
+          "examples": [
+            "The scoriaceous rock cooled rapidly.",
+            "Scoriaceous surfaces are lightweight."
+          ],
+          "collocations": ["scoriaceous rock", "scoriaceous texture"],
+          "synonyms": ["vesicular", "porous"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "scoriae",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of scoria; volcanic rocks of different types.",
+          "examples": [
+            "Geologists studied the scoriae from the crater.",
+            "Fragments of scoriae littered the slope."
+          ],
+          "collocations": ["potassium-rich scoriae"],
+          "synonyms": ["scoria rocks"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology"]
+        }
+      ]
+    },
+    {
+      "term": "scorification",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process of turning something into scorified material; the act of scorifying.",
+          "examples": [
+            "Scorification is a term used in some geological contexts."
+          ],
+          "collocations": ["scorification process"],
+          "synonyms": ["scorifying"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geology"]
+        }
+      ]
+    }
+  ]
+}
