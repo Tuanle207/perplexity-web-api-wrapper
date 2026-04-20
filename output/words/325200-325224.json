@@ -1,0 +1,550 @@
+{
+  "items": [
+    {
+      "term": "redlines",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "lines of a document or drawing that are marked to be revised or corrected",
+          "examples": [
+            "The editor sent back the contract with several redlines.",
+            "The architect reviewed the blueprints and noted the redlines."
+          ],
+          "collocations": ["redline", "redlines circulate", "print redlines", "mark up with redlines"],
+          "synonyms": ["corrections", "edits", "markup"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "business", "law"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to mark or revise a document or drawing with changes shown in red; to edit or revise",
+          "examples": [
+            "The lawyer redlines the draft before submission.",
+            "They redline the contract to include new terms."
+          ],
+          "collocations": ["redline a document", "redline the contract", "be redlined"],
+          "synonyms": ["edit", "revise", "markup"],
+          "antonyms": ["approve", "finalize"],
+          "register": "formal",
+          "domain": ["general", "business", "law"]
+        }
+      ]
+    },
+    {
+      "term": "redlining",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of marking up a document with edits in red; the process of applying redlines",
+          "examples": [
+            "Redlining slowed the contract approval process.",
+            "Redlining is common in financial agreements."
+          ],
+          "collocations": ["redlining practice", "data redlining (tech)", "stop redlining"],
+          "synonyms": ["editing", "markup", "revision"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "law"]
+        }
+      ]
+    },
+    {
+      "term": "redlinings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of redlining; multiple instances of edits or markings in red on documents",
+          "examples": [
+            "The redlinings on the draft caused several changes to the terms.",
+            "She reviewed the redlinings before sending the agreement."
+          ],
+          "collocations": ["several redlinings", "document redlinings"],
+          "synonyms": ["edits", "corrections", "markups"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "law"]
+        }
+      ]
+    },
+    {
+      "term": "redly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that is reddish or red; with a red appearance",
+          "examples": [
+            "The sun turned the sky redly at dusk.",
+            "Her cheeks glowed redly after the workout."
+          ],
+          "collocations": ["look redly", "shine redly"],
+          "synonyms": ["ruddy", "reddishly"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "redmouth",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person with a red mouth; can be a nickname or descriptive term; not common in modern standard usage",
+          "examples": [
+            "The old tale mentions a redmouth goblin.",
+            "In some regions, redmouth is used as a rough nickname."
+          ],
+          "collocations": ["redmouth figure", "redmouth goblin"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "mythology"]
+        }
+      ]
+    },
+    {
+      "term": "redneck",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a derogatory term for a rural working-class white person; can be used insultingly or reclaimed in some contexts",
+          "examples": [
+            "The character in the novel wears the stereotype of a redneck.",
+            "Some communities reclaim the word redneck with humor."
+          ],
+          "collocations": ["redneck culture", "redneck joke", "redneck immigrant"],
+          "synonyms": ["country person", "hillbilly (pejorative)", "rural redneck"],
+          "antonyms": ["city-dweller", "urbanite"],
+          "register": "informal",
+          "domain": ["general", "culture"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to or resembling a redneck; rural or conservative in style or attitudes",
+          "examples": [
+            "He drives a redneck pickup with loud exhaust.",
+            "Redneck humor can be blunt but affectionate."
+          ],
+          "collocations": ["redneck culture", "redneck humor"],
+          "synonyms": ["rural", "country", "blue-collar"],
+          "antonyms": ["urban", "cosmopolitan"],
+          "register": "informal",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "rednecked",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having the appearance or characteristics of a redneck; rustic or unsophisticated",
+          "examples": [
+            "A rednecked porch with a weathered chair stood in the yard.",
+            "They adopted a rednecked vibe for the comedy show."
+          ],
+          "collocations": ["rednecked look", "rednecked style"],
+          "synonyms": ["rustic", "country", "uncouth"],
+          "antonyms": ["refined", "urban"],
+          "register": "informal",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "rednecks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of redneck; rural working-class people, often used pejoratively or humorously",
+          "examples": [
+            "The comedy sketches stereotype rednecks.",
+            "Rednecks from the valley gathered for a barbecue."
+          ],
+          "collocations": ["rednecks gather", "redneck jokes", "redneck culture"],
+          "synonyms": ["rural people", "country folk"],
+          "antonyms": ["city-dwellers", "urbanites"],
+          "register": "informal",
+          "domain": ["general", "culture"]
+        }
+      ]
+    },
+    {
+      "term": "redness",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the condition of being red or the color red; a red appearance",
+          "examples": [
+            "Her cheeks showed a bright redness after the workout.",
+            "The skin’s redness indicated irritation."
+          ],
+          "collocations": ["skin redness", "redness fades", "visible redness"],
+          "synonyms": ["reddenness", "flush"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "exaggerated anger or anger expressed openly",
+          "examples": [
+            "He spoke with a redness in his voice when recalling the event.",
+            "Her redness of anger surprised the audience."
+          ],
+          "collocations": ["show redness", "face redness"],
+          "synonyms": ["flare-up", "intensity"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["emotional"]
+        }
+      ]
+    },
+    {
+      "term": "rednesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of redness; multiple instances or kinds of redness",
+          "examples": [
+            "The rednesses on the skin varied in intensity.",
+            "Different rednesses can indicate different causes."
+          ],
+          "collocations": ["various rednesses"],
+          "synonyms": ["reddennesses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["health", "general"]
+        }
+      ]
+    },
+    {
+      "term": "redo",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to do something again, especially to correct a mistake or improve it",
+          "examples": [
+            "I made a mistake, so I had to redo the assignment.",
+            "She decided to redo the kitchen with new cabinets."
+          ],
+          "collocations": ["redo the task", "redo the project", "redo it again"],
+          "synonyms": ["repeat", "rework", "revise"],
+          "antonyms": ["keep", "leave as is"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        },
+        {
+          "pos": "noun",
+          "definition": "an act of doing something again; a second attempt",
+          "examples": [
+            "Give it a redo next time.",
+            "The redo was scheduled for Monday."
+          ],
+          "collocations": ["take a redo", "redo attempt"],
+          "synonyms": ["retry", "second attempt"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "redock",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to connect again, especially to a dock or port; to return a vessel to a dock",
+          "examples": [
+            "The ship will redock at the harbor for repairs.",
+            "They redocked the ferry after the storm."
+          ],
+          "collocations": ["redock a ship", "redock at the port"],
+          "synonyms": ["re-dock", "relink"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["transportation", "marine"]
+        }
+      ]
+    },
+    {
+      "term": "redocked",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of redock; connected again to a dock or port",
+          "examples": [
+            "The vessel redocked after the maintenance period."
+          ],
+          "collocations": ["redocked vessel"],
+          "synonyms": ["re-docked"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["transportation", "marine"]
+        }
+      ]
+    },
+    {
+      "term": "redocket",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to place again into a docket or docketing system; to register again in formal records",
+          "examples": [
+            "They redocketed the case for a later date.",
+            "The filing was redocketed to the wrong category."
+          ],
+          "collocations": ["redocket a case", "redocket the filing"],
+          "synonyms": ["refile", "re-docket"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "administration"]
+        }
+      ]
+    },
+    {
+      "term": "redocketed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of redocket; registered again in the docket",
+          "examples": [
+            "The case was redocketed after the clerical error was found."
+          ],
+          "collocations": ["redocketed case"],
+          "synonyms": ["re-docketed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "administration"]
+        }
+      ]
+    },
+    {
+      "term": "redocketing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of placing a case again into the docket; the process of redocketing",
+          "examples": [
+            "Redocketing can delay the hearing date.",
+            "There was a backlog of redocketing at the clerk's office."
+          ],
+          "collocations": ["redocketing process"],
+          "synonyms": ["re-docketing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "administration"]
+        }
+      ]
+    },
+    {
+      "term": "redocking",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of docking again or reattachment; often used in nautical or mechanical contexts",
+          "examples": [
+            "Redocking of the shipment was completed successfully.",
+            "Redocking procedures require careful alignment."
+          ],
+          "collocations": ["redocking procedure"],
+          "synonyms": ["reattachment", "re-docking"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["transportation", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "redocks",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of redock; connects again to a dock or port",
+          "examples": [
+            "The ship redocks at the port each morning.",
+            "They redocks the vessel after maintenance."
+          ],
+          "collocations": ["redocks the ship"],
+          "synonyms": ["re-docks"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["transportation", "marine"]
+        }
+      ]
+    },
+    {
+      "term": "redocument",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to document again; to provide new documentation",
+          "examples": [
+            "The team redocumented the project with updated specifications."
+          ],
+          "collocations": ["redocument the file", "redocumentation"],
+          "synonyms": ["re-document", "document again"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "information management"]
+        }
+      ]
+    },
+    {
+      "term": "redodid",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of re-do and did; not standard, likely error or playful coinage meaning 'did again'",
+          "examples": [
+            "He redodid the task to meet the new requirements."
+          ],
+          "collocations": ["redodid the task"],
+          "synonyms": ["re-did"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "redodoing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of doing something again; informal playful form of redoing",
+          "examples": [
+            "The redodoing took longer than expected."
+          ],
+          "collocations": ["redodoing process"],
+          "synonyms": ["redoing", "redoing again"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "redodone",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past participle of redo; completed again",
+          "examples": [
+            "The task was redodone after the review."
+          ],
+          "collocations": ["redodone task"],
+          "synonyms": ["re-done"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "redoes",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of redo; to do again",
+          "examples": [
+            "She redoes her presentation to improve clarity.",
+            "If the model fails, it redone to fix errors." 
+          ],
+          "collocations": ["redoes the work", "redoes the presentation"],
+          "synonyms": ["redoes", "revamps"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "redoing",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "doing something again; in the process of being redone",
+          "examples": [
+            "I am redoing the kitchen this weekend.",
+            "They are redoing the artwork for the exhibit."
+          ],
+          "collocations": ["redoing the project", "redoing the design"],
+          "synonyms": ["reworking", "revamping"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "redolence",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a strong, pleasant, often evocative smell or fragrance; a distinctive aroma",
+          "examples": [
+            "The redolence of pine filled the forest air.",
+            "Her kitchen exuded a redolence of garlic and herbs."
+          ],
+          "collocations": ["redolence of the scene", "redolence and memory"],
+          "synonyms": ["aroma", "fragrance", "scent"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "general", "sensorial"]
+        }
+      ]
+    }
+  ]
+}

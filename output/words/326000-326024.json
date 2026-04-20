@@ -1,0 +1,504 @@
+{
+  "items": [
+    {
+      "term": "referendal",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or used in a referendum or the process of referring a matter to voters.",
+          "examples": [
+            "The referendal process requires a public vote.",
+            "They debated the referendal aspects of the proposal."
+          ],
+          "collocations": ["referendal procedure", "referendal vote", "referendal rights"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "law", "politics"]
+        }
+      ]
+    },
+    {
+      "term": "referendaries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of referendar y; individuals serving as or pertaining to a referendar,y (historical/clerical role related to reference or reference duties in certain jurisdictions).",
+          "examples": [
+            "The referendaries advised on legal references.",
+            "Several referendaries were appointed to assist the council."
+          ],
+          "collocations": ["referendaries staff", "register of referendaries"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "government", "history"]
+        }
+      ]
+    },
+    {
+      "term": "referendary",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who has the office or function of a referendary; an official who issues or deals with references, often in historical or governmental contexts.",
+          "examples": [
+            "The referendary maintained records of decrees.",
+            "A senior referendary prepared the documents for the king."
+          ],
+          "collocations": ["senior referendary", "referendary duties"],
+          "synonyms": ["referendar", "clerical officer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "government", "law"]
+        }
+      ]
+    },
+    {
+      "term": "referendaryship",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the position, rank, or duties of a referendary; the office of an official who handles reference or reference-related tasks.",
+          "examples": [
+            "Her referendaryship included archive management.",
+            "During the era, referendaryship carried significant administrative authority."
+          ],
+          "collocations": ["appoint referendaryship", "duties of referendaryship"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "government"]
+        }
+      ]
+    },
+    {
+      "term": "referendum",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a general vote by the electorate on a single political question put to them by the government.",
+          "examples": [
+            "The referendum decided the country's future.",
+            "They held a referendum on the constitutional change."
+          ],
+          "collocations": ["national referendum", "referendum vote", "referendum result"],
+          "synonyms": ["plebiscite"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "government", "general"]
+        }
+      ]
+    },
+    {
+      "term": "referendums",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of referendum; votes by the electorate on political questions.",
+          "examples": [
+            "Many referendums have shaped the nation’s laws.",
+            "Referendums vary in turnout and impact."
+          ],
+          "collocations": ["local referendums", "referendums around the world"],
+          "synonyms": ["plebiscites"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "government", "general"]
+        }
+      ]
+    },
+    {
+      "term": "referent",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the thing a word or phrase stands for; an object or concept that a term refers to.",
+          "examples": [
+            "In linguistics, the referent of 'dog' is a real animal.",
+            "Context helps identify the referent in a sentence."
+          ],
+          "collocations": ["pronoun referent", "referent identification"],
+          "synonyms": ["object of reference", "target"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "language", "general"]
+        }
+      ]
+    },
+    {
+      "term": "referential",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to references or indicating what a word or phrase refers to in context.",
+          "examples": [
+            "The text is highly referential to ancient myths.",
+            "Referential language points to the objects discussed."
+          ],
+          "collocations": ["referential meaning", "referential expression"],
+          "synonyms": ["allusive", "referent-based"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "referentialities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of referentiality; the qualities of being referential or the ways in which language refers to things.",
+          "examples": [
+            "The referentialities of the text reveal its themes.",
+            "Scholars study referentialities across languages."
+          ],
+          "collocations": ["reveal referentialities", "linguistic referentialities"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "referentiality",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of referring to something or describing the way language refers to objects, people, or ideas.",
+          "examples": [
+            "Referentiality shapes how readers interpret characters.",
+            "The referentiality of pronouns affects clarity."
+          ],
+          "collocations": ["semantic referentiality", "cultural referentiality"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "referentially",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that refers to or denotes something in language or text.",
+          "examples": [
+            "The term is used referentially to point to the concept.",
+            "She focuses referentially on earlier chapters."
+          ],
+          "collocations": ["referentially consistent", "referentially clear"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "referently",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a referent-related way; with reference to something.",
+          "examples": [
+            "The phrase is used referently in this context.",
+            "Referential cues are used referently to guide interpretation."
+          ],
+          "collocations": ["referently pointed", "referentially referent"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "referents",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of referent; things or concepts that a word or phrase stands for.",
+          "examples": [
+            "Pronouns replace nouns and refer to their referents.",
+            "Different contexts can change the referents of a sentence."
+          ],
+          "collocations": ["ambiguous referents", "identify referents"],
+          "synonyms": ["targets", "objects of reference"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "language", "general"]
+        }
+      ]
+    },
+    {
+      "term": "referment",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "historical term for something referred or returned to; in law, a formal remand or reversion of a decision." ,
+          "examples": [
+            "The referment of the case required new evidence.",
+            "In medieval law, referment procedures existed in some jurisdictions."
+          ],
+          "collocations": ["court referment", "referment proceedings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "history"]
+        }
+      ]
+    },
+    {
+      "term": "referrable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being referred to or directed to someone for help or information; able to be referred to a referral.",
+          "examples": [
+            "This issue is referrable to the specialist.",
+            "Any case that is referrable can be forwarded to the committee."
+          ],
+          "collocations": ["referrable cases", "referrable to authorities"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "law", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "referral",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an act of directing someone to another person or organization for help or information; a mention or source of business.",
+          "examples": [
+            "A referral to a specialist was made.",
+            "The clinic keeps a list of referrals."
+          ],
+          "collocations": ["medical referral", "referral letter", "customer referral"],
+          "synonyms": ["recommendation", "reference"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "referrals",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of referral; instances of directing someone to another source or recommending someone.",
+          "examples": [
+            "They track referrals to measure outreach success.",
+            "Referrals from existing customers boosted growth."
+          ],
+          "collocations": ["customer referrals", "referrals network"],
+          "synonyms": ["recommendations", "references"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "healthcare", "general"]
+        }
+      ]
+    },
+    {
+      "term": "referred",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of refer; to mention or direct someone to a source, or to send to another person for help.",
+          "examples": [
+            "She was referred to a specialist.",
+            "The document was referred to the committee."
+          ],
+          "collocations": ["referred to as", "referred to authority"],
+          "synonyms": ["sent", "directed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "law", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "referrer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who refers someone to a person or service; a source of a referral.",
+          "examples": [
+            "The doctor is a referrer for specialist services.",
+            "Your referrer can help you get a faster appointment."
+          ],
+          "collocations": ["referrer information", "referrer code"],
+          "synonyms": ["referrer source", "referring party"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "referrers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of referrer; people who refer others to a service or professional.",
+          "examples": [
+            "Referrers received a thank-you note.",
+            "The program tracks referrals from multiple referrers."
+          ],
+          "collocations": ["multiple referrers", "referrer network"],
+          "synonyms": ["referrers (plural)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "referrible",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being referred to or directed to someone for information or help.",
+          "examples": [
+            "The case is referrible to the appropriate department.",
+            "Only referrible issues should be submitted."
+          ],
+          "collocations": ["referrible case", "referrible to authority"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "law", "business"]
+        }
+      ]
+    },
+    {
+      "term": "referribleness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being referable or able to be referred; degree of suitability for referral.",
+          "examples": [
+            "High referribleness means quicker routing to specialists.",
+            "Assess the referribleness of each submission."
+          ],
+          "collocations": ["level of referribleness", "referribleness score"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "referring",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of refer; to mention or direct someone to a source or person for help.",
+          "examples": [
+            "She is referring the case to a specialist.",
+            "The article is referring to earlier findings."
+          ],
+          "collocations": ["referring to", "referring a case"],
+          "synonyms": ["directing", "sending"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "law", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "refers",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of refer; to mention or direct to a source or person.",
+          "examples": [
+            "This article refers to previous studies.",
+            "He refers patients to a specialist."
+          ],
+          "collocations": ["refers to", "refers patients"],
+          "synonyms": ["mentions", "points to"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "healthcare", "education"]
+        }
+      ]
+    },
+    {
+      "term": "refertilizable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being fertilized again or made fertile again; biologically or metaphorically capable of renewal.",
+          "examples": [
+            "In theory, the soil is refertilizable after restoration.",
+            "The field is refertilizable with proper nutrients."
+          ],
+          "collocations": ["refertilizable soil", "refertilizable resource"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "environment"]
+        }
+      ]
+    }
+  ]
+}

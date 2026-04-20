@@ -1,0 +1,498 @@
+{
+  "items": [
+    {
+      "term": "regularized",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "made to conform to a standard or rule; normalized or standardized",
+          "examples": [
+            "The data were regularized to remove outliers before analysis.",
+            "Regularized schedules help reduce confusion in training programs."
+          ],
+          "collocations": ["regularized data", "regularized form", "regularized procedure", "regularized dataset"],
+          "synonyms": ["standardized", "normalized", "conventional"],
+          "antonyms": ["irregular", "unstandardized"],
+          "register": "formal",
+          "domain": ["general", "science", "data science"]
+        }
+      ]
+    },
+    {
+      "term": "regularizer",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a parameter or function used in statistics or machine learning to prevent overfitting by penalizing complexity",
+          "examples": [
+            "The model uses a L1 regularizer to shrink coefficients.",
+            "Regularizers help improve generalization in predictive models."
+          ],
+          "collocations": ["L2 regularizer", "regularization term", "penalty term", "regularizer strength"],
+          "synonyms": ["penalty term", "constraint", "shrinkage term"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "machine learning", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "regularizes",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to make something conform to a rule or standard; to standardize or normalize",
+          "examples": [
+            "The algorithm regularizes the data by applying a penalty for complexity.",
+            "The process regularizes the input to reduce noise."
+          ],
+          "collocations": ["regularizes data", "regularizes parameters", "regularizes input"],
+          "synonyms": ["standardizes", "normalizes", "penalizes complexity"],
+          "antonyms": ["irregularize"],
+          "register": "formal",
+          "domain": ["technology", "data science"]
+        }
+      ]
+    },
+    {
+      "term": "regularizing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of making something conform to a rule or standard; applying regularization",
+          "examples": [
+            "Regularizing the dataset reduces overfitting.",
+            "Regularizing the policy ensures consistent application."
+          ],
+          "collocations": ["regularizing data", "regularizing effects", "regularizing process"],
+          "synonyms": ["standardizing", "normalizing", "penalizing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "policy", "statistics"]
+        }
+      ]
+    },
+    {
+      "term": "regularly",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "at uniform intervals; in a routine or normal way",
+          "examples": [
+            "She exercises regularly.",
+            "The bus runs regularly every 15 minutes."
+          ],
+          "collocations": ["exercise regularly", "visited regularly", "take regular breaks"],
+          "synonyms": ["consistently", "habitually", "routinely"],
+          "antonyms": ["irregularly"],
+          "register": "neutral",
+          "domain": ["everyday", "lifestyle"]
+        }
+      ]
+    },
+    {
+      "term": "regularness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being regular; consistency or evenness",
+          "examples": [
+            "The regularness of the pattern makes it easy to predict.",
+            "They appreciated the regularness of the daily schedule."
+          ],
+          "collocations": ["patterns show regularness", "regularness of routine"],
+          "synonyms": ["consistency", "evenness", "uniformity"],
+          "antonyms": ["irregularity", "variability"],
+          "register": "formal",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "regulars",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people who regularly attend a place or participate in an activity; habitual customers or supporters",
+          "examples": [
+            "The cafe's regulars know the barista by name.",
+            "She joined the regulars for weekly trivia."
+          ],
+          "collocations": ["cafe regulars", "long-time regulars", "regulars at the club"],
+          "synonyms": ["regular customers", "habituals", "patrons"],
+          "antonyms": ["newcomers", "occasional visitors"],
+          "register": "neutral",
+          "domain": ["general", "social"]
+        }
+      ]
+    },
+    {
+      "term": "regulatable",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being regulated or controlled; able to be brought under a rule or standard",
+          "examples": [
+            "The system includes regulatable parameters to optimize performance.",
+            "Regulatable processes help ensure compliance."
+          ],
+          "collocations": ["regulatable parameters", "regulatable process", "regulatable feature"],
+          "synonyms": ["controllable", "regulable"],
+          "antonyms": ["unregulatable"],
+          "register": "formal",
+          "domain": ["technology", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "regulate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to control or maintain the required standard or amount of something",
+          "examples": [
+            "The government regulates financial markets.",
+            "Companies regulate emissions to meet safety guidelines."
+          ],
+          "collocations": ["regulate markets", "regulate emissions", "regulate prices", "regulate behavior"],
+          "synonyms": ["control", "manage", "supervise"],
+          "antonyms": ["disregard", "deregulate"],
+          "register": "formal",
+          "domain": ["law", "economics", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "regulated",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "controlled by rules or authority; orderly and supervised",
+          "examples": [
+            "Regulated industries require compliance reporting.",
+            "A regulated market can protect consumers."
+          ],
+          "collocations": ["regulated industries", "regulated market", "regulated standards"],
+          "synonyms": ["controlled", "governed", "supervised"],
+          "antonyms": ["unregulated", "uncontrolled"],
+          "register": "formal",
+          "domain": ["law", "economics", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "regulates",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present tense of regulate; to control or maintain standards",
+          "examples": [
+            "The agency regulates food labeling.",
+            "He regulates the speed of the conveyor belt."
+          ],
+          "collocations": ["regulates food labeling", "regulates speed", "regulates markets"],
+          "synonyms": ["controls", "manages"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "business", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "regulating",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of controlling or maintaining standards; applying regulation",
+          "examples": [
+            "Regulating emissions is crucial for air quality.",
+            "The regulator is regulating the industry."
+          ],
+          "collocations": ["regulating emissions", "regulating industry", "regulating authority"],
+          "synonyms": ["controlling", "governing", "supervising"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["environment", "law", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "regulation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rule or directive made and maintained by an authority",
+          "examples": [
+            "Regulations require safe reporting of data.",
+            "The regulation about emissions was updated."
+          ],
+          "collocations": ["environmental regulation", "regulation compliance", "regulation changes"],
+          "synonyms": ["rule", "directive", "policy"],
+          "antonyms": ["looseness", "disregard"],
+          "register": "formal",
+          "domain": ["law", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "regulationist",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who supports or advocates regulatory policies or regulation as a primary mechanism",
+          "examples": [
+            "Regulationists argued for stricter controls on the industry.",
+            "The debate included regulationists from several policy groups."
+          ],
+          "collocations": ["regulationist advocate", "regulationist view", "regulationist policies"],
+          "synonyms": ["regulatory advocate", "pro-regulation activist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["politics", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "regulations",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "official rules or laws made by authorities to control a particular activity or industry",
+          "examples": [
+            "The regulations require clear labeling of food ingredients.",
+            "Industry regulations increased after the incident."
+          ],
+          "collocations": ["health regulations", "building regulations", "safety regulations"],
+          "synonyms": ["rules", "standards", "guidelines"],
+          "antonyms": ["exemptions", "relaxations"],
+          "register": "formal",
+          "domain": ["law", "policy", "business"]
+        }
+      ]
+    },
+    {
+      "term": "regulative",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having the function of regulating or controlling; relating to regulation",
+          "examples": [
+            "Regulative mechanisms help maintain system stability.",
+            "The regulative framework includes oversight and penalties."
+          ],
+          "collocations": ["regulative framework", "regulative mechanism", "regulative authority"],
+          "synonyms": ["regulatory", "controlling"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["policy", "law", "science"]
+        }
+      ]
+    },
+    {
+      "term": "regulatively",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that regulates or controls; with regulatory intent",
+          "examples": [
+            "The policy functioned regulatively to curb excesses.",
+            "Regulatively, the procedures were designed to ensure safety."
+          ],
+          "collocations": ["operates regulatively", "regulatively enforced"],
+          "synonyms": ["regulatoryly (rare)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["policy", "law"]
+        }
+      ]
+    },
+    {
+      "term": "regulator",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an organization or person that supervises and enforces rules",
+          "examples": [
+            "The financial regulator issued a warning.",
+            "Regulators assess compliance with safety standards."
+          ],
+          "collocations": ["financial regulator", "regulatory regulator", "independent regulator"],
+          "synonyms": ["supervisor", "watchdog", "authority"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "policy", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "regulators",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "multiple regulators; organizations or people who supervise rules",
+          "examples": [
+            "Regulators across agencies work together on standards.",
+            "Industry regulators issued new guidelines."
+          ],
+          "collocations": ["regulators across agencies", "regulators issued", "regulators role"],
+          "synonyms": ["authorities", "watchdogs"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "policy", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "regulatorship",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or office of regulating; the role or function of a regulator",
+          "examples": [
+            "Regulatorship requires careful balancing of interests.",
+            "The regulatorship of the agency evolved over decades."
+          ],
+          "collocations": ["regulatorship role", "in regulatorship", "under regulatorship"],
+          "synonyms": ["regulation", "supervision authority"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "policy", "government"]
+        }
+      ]
+    },
+    {
+      "term": "regulatory",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or concerning regulation or rules",
+          "examples": [
+            "Regulatory agencies oversee food safety.",
+            "There are regulatory hurdles in starting a new business."
+          ],
+          "collocations": ["regulatory agencies", "regulatory framework", "regulatory requirements"],
+          "synonyms": ["regulatory", "normative", "rules-based"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "policy", "business"]
+        }
+      ]
+    },
+    {
+      "term": "regulatress",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a fictitious or extremely rare feminine form historically used to denote a regulator; not common in contemporary usage",
+          "examples": [
+            "The term regulatress appears in some older texts but is hardly used today."
+          ],
+          "collocations": ["regulatress title"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature", "history"]
+        }
+      ]
+    },
+    {
+      "term": "regulatris",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or nonce word referring to a regulator; not a standard current term",
+          "examples": [
+            "Regulatris is not a standard term in modern English."
+          ],
+          "collocations": ["regulatris usage"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "reguli",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of regula in some contexts; not a standard English term",
+          "examples": [
+            "Reguli is not typically used in modern English."
+          ],
+          "collocations": ["reguli term"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "historical texts"]
+        }
+      ]
+    },
+    {
+      "term": "reguline",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "an obsolete or rare spelling variant related to regulation; not standard",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "history"]
+        }
+      ]
+    }
+  ]
+}

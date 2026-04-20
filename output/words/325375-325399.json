@@ -1,0 +1,459 @@
+{
+  "items": [
+    {
+      "term": "reductant",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a substance that reduces another substance during a chemical reaction",
+          "examples": ["The reductant donates electrons to the oxidizing agent.", "In this redox experiment, glucose acted as the reductant."],
+          "collocations": ["strong reductant", "reducing agent (as a paraphrase)", "organic reductant", "hydrogen-containing reductant"],
+          "synonyms": ["reducing agent", "electron donor"],
+          "antonyms": ["oxidant", "oxidizer"],
+          "register": "formal",
+          "domain": ["science", "chemistry", "education"]
+        }
+      ]
+    },
+    {
+      "term": "reductants",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reductant; substances that reduce another substance in a chemical reaction",
+          "examples": ["Different reductants can influence reaction rate.", "Analysts compared several reductants to optimize the process."],
+          "collocations": ["various reductants", "select reductants", "comparative reductants"],
+          "synonyms": ["reducing agents"],
+          "antonyms": ["oxidants", "oxidizers"],
+          "register": "formal",
+          "domain": ["science", "chemistry", "education"]
+        }
+      ]
+    },
+    {
+      "term": "reductase",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an enzyme that catalyzes the reduction of a chemical compound by transferring electrons",
+          "examples": ["The enzyme reductase is crucial in the metabolic pathway.", "Researchers studied a reductase involved in lipid synthesis."],
+          "collocations": ["NADH reductase", "flavin reductase", "reductase activity"],
+          "synonyms": ["reducing enzyme", "electron-transfer enzyme"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "biochemistry", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "reductases",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reductase; enzymes that catalyze reduction reactions",
+          "examples": ["Different reductases function in detoxification pathways.", "Co-factors modulate the activity of these reductases."],
+          "collocations": ["membrane reductases", "cytosolic reductases", "reductases family"],
+          "synonyms": ["reducing enzymes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["biology", "biochemistry", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "reductibility",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being capable of being reduced or simplified",
+          "examples": ["The reductibility of the problem made it easier to solve.", "Assessing reductibility helps in mathematical modeling."],
+          "collocations": ["chemical reductibility", "economic reductibility", "reductibility analysis"],
+          "synonyms": ["reducibility"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "mathematics", "education"]
+        }
+      ]
+    },
+    {
+      "term": "reductio",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a Latin term used in philosophy and rhetoric meaning argumentation that reduces to absurdity; also used in English as 'reductio ad absurdum'",
+          "examples": ["The philosopher invoked a reductio to challenge the assumption.", "In logic, reductio ad absurdum demonstrates contradiction."],
+          "collocations": ["reductio ad absurdum", "logical reductio"],
+          "synonyms": ["reductio ad absurdum", "reduction to absurdity"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["philosophy", "logic", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "reduction",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of making something smaller or less in amount, size, or importance",
+          "examples": ["There was a reduction in staff hours.", "Tax reductions can help consumers.", "The reduction of emissions is a government goal."],
+          "collocations": ["cost reduction", "skin reduction", "reduction in", "significant reduction"],
+          "synonyms": ["decrease", "simplification", "cut"],
+          "antonyms": ["increase", "expansion"],
+          "register": "formal",
+          "domain": ["business", "economics", "environment", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to make something smaller or less in amount, size, or degree",
+          "examples": ["They reduced the price by 20%.", "Efforts to reduce waste continue.", "The company reduced its energy consumption."],
+          "collocations": ["reduce costs", "reduce emissions", "reduce risk"],
+          "synonyms": ["decrease", "shorten"],
+          "antonyms": ["increase", "raise"],
+          "register": "formal",
+          "domain": ["business", "environment", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reductional",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to reduction or the act of reducing; used in biology and linguistics to describe reductive processes",
+          "examples": ["Reductional thinking may oversimplify complex problems.", "Reductional changes were observed in the dataset."],
+          "collocations": ["reductional analysis", "reductional approach"],
+          "synonyms": ["reductive"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "philosophy", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "reductionism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the belief or approach that complex systems can be understood by studying their simpler components",
+          "examples": ["Many critics accuse reductionism of ignoring emergent properties.", "In biology, reductionism is debated against holistic approaches."],
+          "collocations": ["scientific reductionism", "philosophical reductionism", "reductionism theory"],
+          "synonyms": ["atomism", "mechanism"],
+          "antonyms": ["holism", "emergentism"],
+          "register": "formal",
+          "domain": ["science", "philosophy", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "reductionisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reductionism; theories or positions that explain complex phenomena by simple parts",
+          "examples": ["Different reductionisms compete within the field.", "The paper critiques several reductionisms."],
+          "collocations": ["various reductionisms", "philosophical reductionisms"],
+          "synonyms": ["theories of reductionism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "philosophy", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "reductionist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who explains complex phenomena by reducing them to their simpler parts",
+          "examples": ["The reductionist argued that everything could be explained by chemistry.", "Some scientists view reductionists skeptically."],
+          "collocations": ["naturalistic reductionist", "pessimistic reductionist"],
+          "synonyms": ["simplist", "mechanist"],
+          "antonyms": ["holist", "emergentist"],
+          "register": "formal",
+          "domain": ["science", "philosophy", "academia"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "relating to or advocating reductionism",
+          "examples": ["A reductionist approach was adopted in the study.", "Reductionist arguments simplify too much."],
+          "collocations": ["reductionist view", "reductionist model"],
+          "synonyms": ["simplistic"],
+          "antonyms": ["holistic"],
+          "register": "formal",
+          "domain": ["science", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "reductionistic",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "characteristic of reductionism; oversimplifying complex phenomena",
+          "examples": ["The theory was criticized as reductionistic.", "Reductionistic explanations miss important interactions."],
+          "collocations": ["reductionistic explanation", "reductionistic model"],
+          "synonyms": ["simplistic", "oversimplified"],
+          "antonyms": ["holistic", "comprehensive"],
+          "register": "formal",
+          "domain": ["science", "philosophy", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "reductionists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reductionist; people who favor reductionism",
+          "examples": ["Reductionists often focus on basic mechanisms.", "Some reductionists critique emergent properties."],
+          "collocations": ["scientific reductionists", "philosophical reductionists"],
+          "synonyms": ["reductionist thinkers"],
+          "antonyms": ["holists"],
+          "register": "formal",
+          "domain": ["science", "philosophy", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "reductions",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reduction; acts or instances of making something smaller or less",
+          "examples": ["Several reductions were approved.", "Tax reductions benefit middle-income families."],
+          "collocations": ["cost reductions", "salary reductions", "emissions reductions"],
+          "synonyms": ["decreases", "cuts"],
+          "antonyms": ["increases", "increases"],
+          "register": "formal",
+          "domain": ["business", "economics", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "reductive",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "tending to simplify or reduce a complex idea to something overly simple",
+          "examples": ["Her reductive analysis missed important context.", " reductive thinking can overlook nuances."],
+          "collocations": ["reductive approach", "reductive reasoning"],
+          "synonyms": ["simplifying", "oversimplifying"],
+          "antonyms": ["holistic", "complex"],
+          "register": "formal",
+          "domain": ["science", "philosophy", "education"]
+        },
+        {
+          "pos": "adverb",
+          "definition": "in a way that reduces or simplifies something",
+          "examples": ["They presented reductively reasoned conclusions.", "The model was reductively framed to fit data."],
+          "collocations": ["reductively framed"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "reductively",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a reductive or overly simplified way",
+          "examples": ["The theory is reductively argued.", "He spoke reductively about a complex issue."],
+          "collocations": ["reductively speaking", "reductively framed"],
+          "synonyms": ["simplistically"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["language", "communication", "ethics"]
+        }
+      ]
+    },
+    {
+      "term": "reductiveness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being reductive; tendency to oversimplify",
+          "examples": ["Critics praised the depth but criticized the reductiveness.", "Academic debates often hinge on reductiveness vs. nuance."],
+          "collocations": ["the reductiveness of", "cultural reductiveness"],
+          "synonyms": ["oversimplification", "simplification"],
+          "antonyms": ["nuance", "complexity"],
+          "register": "formal",
+          "domain": ["philosophy", "criticism", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "reductivenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reductiveness; instances or qualities of reductiveness",
+          "examples": ["The article notes several reductivenesses in the argument.", "Different reductivenesses can distort the data."],
+          "collocations": ["various reductivenesses"],
+          "synonyms": ["oversimplifications"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academia", "criticism"]
+        }
+      ]
+    },
+    {
+      "term": "reductivism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a theory or view that explains phenomena by reducing them to a few basic components",
+          "examples": ["The debate highlighted reductivism in social science.", "Some scientists critique reductivism as insufficient for explaining behavior."],
+          "collocations": ["philosophical reductivism", "scientific reductivism"],
+          "synonyms": ["reductionism"],
+          "antonyms": ["holism"],
+          "register": "formal",
+          "domain": ["philosophy", "science", "academia"]
+        }
+      ]
+    },
+    {
+      "term": "reductor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or substance that reduces something, especially in chemistry or electronics",
+          "examples": ["The reductor lowered the voltage in the circuit.", "A chemical reductor was added to the solution."],
+          "collocations": ["chemical reductor", "electronic reductor"],
+          "synonyms": ["reducing agent", "reducing device"],
+          "antonyms": ["oxidizer", "oxidant"],
+          "register": "formal",
+          "domain": ["chemistry", "electronics", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "reductorial",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a narrative or account that is reduced or summarized; pertaining to a summary or outline",
+          "examples": ["The reductorial outline captured the main points.", "A reductorial reading simplified the text."],
+          "collocations": ["reductorial outline", "reductorial summary"],
+          "synonyms": ["summarizing", "condensed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature", "education", "criticism"]
+        }
+      ]
+    },
+    {
+      "term": "reductors",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reductor; devices that reduce a substance or voltage",
+          "examples": ["Several reducers and reductors were tested.", "The circuit uses two reductors to control current."],
+          "collocations": ["electrical reductors", "mechanical reductors"],
+          "synonyms": ["reducing devices"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["engineering", "electronics"]
+        }
+      ]
+    },
+    {
+      "term": "redue",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an invalid or nonstandard form; not commonly used in modern English; may refer to a mistaken spelling of 'redeem' or 'redo' depending on context",
+          "examples": ["This term is rarely used in contemporary texts."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["linguistics", "history"]
+        }
+      ]
+    },
+    {
+      "term": "redug",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to dig anew or refit a dug area; archaic or rare usage",
+          "examples": ["They began to redug the trench."],
+          "collocations": ["re-dug trench"],
+          "synonyms": ["refill? not exact; re-dig"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literature", "history", "archaeology"]
+        }
+      ]
+    },
+    {
+      "term": "reduit",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an archaic or rare form; possibly a misspelling of 'reduite' or French loanword; not standard in modern English",
+          "examples": ["The manuscript uses reduit in a few old passages."],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["linguistics", "history"]
+        }
+      ]
+    }
+  ]
+}

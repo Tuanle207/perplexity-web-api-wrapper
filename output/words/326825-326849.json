@@ -1,0 +1,499 @@
+{
+  "items": [
+    {
+      "term": "registrarships",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "plural noun",
+          "definition": "the offices or positions held by registrars, or the status of being a registrar in an organization.",
+          "examples": [
+            "The registrarships within the university were reorganized.",
+            "Historically, registrarships reflected the bureaucratic duties of record-keepers."
+          ],
+          "collocations": ["registrarships duties", "acquire registrarships", "university registrarships"],
+          "synonyms": ["registrarial positions"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "registrary",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an office or official responsible for keeping records in a court or other institution.",
+          "examples": [
+            "The registrary filed the documents with care.",
+            "As registrary, she oversaw the maintenance of archival records."
+          ],
+          "collocations": ["registrary office", "registrary duties", "registrary records"],
+          "synonyms": ["registrar", "record-keeper"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "registrate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to record or enroll something or someone in a register or list; to register.",
+          "examples": [
+            "They registrate new members each spring.",
+            "She registrates their attendance in the system."
+          ],
+          "collocations": ["registrate entries", "registrate members", "registrate data"],
+          "synonyms": ["register", "enroll"],
+          "antonyms": ["deregister", "unregister"],
+          "register": "neutral",
+          "domain": ["general", "administration"]
+        }
+      ]
+    },
+    {
+      "term": "registrated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "that has been entered or recorded in a register.",
+          "examples": [
+            "The registrated files are stored in archive room A.",
+            "Only registrated participants were allowed access."
+          ],
+          "collocations": ["registrated entries", "registrated records", "registrated data"],
+          "synonyms": ["registered"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "administration"]
+        }
+      ]
+    },
+    {
+      "term": "registrating",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "gerund",
+          "definition": "the act of recording or enrolling something or someone in a register.",
+          "examples": [
+            "Registrating new users happens daily at onboarding.",
+            "Registrating the details correctly is essential."
+          ],
+          "collocations": ["registrating data", "registrating entries", "registrating members"],
+          "synonyms": ["registering"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "information technology"]
+        }
+      ]
+    },
+    {
+      "term": "registration",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the action of recording someone's name or other information in an official list; the process of enrolling in a course, event, or system.",
+          "examples": [
+            "Her registration for the conference is complete.",
+            "Registration opens next week."
+          ],
+          "collocations": ["online registration", "registration form", "course registration", "registration fee"],
+          "synonyms": ["enrollment", "sign-up"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "registrational",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or used for registration; suitable for recording in a register.",
+          "examples": [
+            "The registrational requirements were updated.",
+            "They prepared registrational documents for submission."
+          ],
+          "collocations": ["registrational process", "registrational form", "registrational data"],
+          "synonyms": ["registrarial"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "general"]
+        }
+      ]
+    },
+    {
+      "term": "registrationist",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who specializes in registration processes or record-keeping; a registrar.",
+          "examples": [
+            "The registrationist oversaw the student enrollment on day one.",
+            "As a registrationist, he handles all consent forms."
+          ],
+          "collocations": ["registrationist duties", "hiring a registrationist", "registrationist role"],
+          "synonyms": ["registrar", "record-keeper"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "administration"]
+        }
+      ]
+    },
+    {
+      "term": "registrations",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of registration; the act or process of enrolling or being enrolled.",
+          "examples": [
+            "Registrations for the workshop are now closed.",
+            "She checked the registrations to confirm attendance."
+          ],
+          "collocations": ["late registrations", "online registrations", "registration numbers"],
+          "synonyms": ["enrollments", "sign-ups"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "events"]
+        }
+      ]
+    },
+    {
+      "term": "registrator",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a device or person that registers information or records data; a registrator.",
+          "examples": [
+            "The registrator captured all transaction details.",
+            "Install the registrator to monitor access logs."
+          ],
+          "collocations": ["data registrator", "electronic registrator", "registrator device"],
+          "synonyms": ["registrar", "registrar device"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "registrer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that records or lists information; a registrar.",
+          "examples": [
+            "The registrar and the registrer performed the task differently.",
+            "The registrer filed the forms with the registry."
+          ],
+          "collocations": ["registrer duties", "registrer office"],
+          "synonyms": ["registrar", "record-keeper"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "registries",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "plural noun",
+          "definition": "collections or official lists where information is stored, such as birth registries or academic registries.",
+          "examples": [
+            "Birth registries are maintained by the state.",
+            "The registries contain up-to-date contact information."
+          ],
+          "collocations": ["national registries", "medical registries", "registry registries"],
+          "synonyms": ["registries (plural)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "registry",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place or system where records are kept; a list of names or items; a device that records information.",
+          "examples": [
+            "The registry keeps track of all residents.",
+            "Register your product on the manufacturer’s registry."
+          ],
+          "collocations": ["birth registry", "registry office", "registry key", "country registry"],
+          "synonyms": ["record", "register"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "law", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "regitive",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "theoretical or archaic form related to religious regulation or regality; not common in modern usage.",
+          "examples": [
+            "Regitive powers were debated in historical texts."
+          ],
+          "collocations": ["regitive authority"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "regius",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Latin-derived term meaning royal or kingly; used in historical or formal titles.",
+          "examples": [
+            "Regius professor of physic was a prestigious title."
+          ],
+          "collocations": ["Regius Professor", "Regius title", "Regius mint"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "history"]
+        }
+      ]
+    },
+    {
+      "term": "regive",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to give back, restore, or supply again, especially something previously taken.",
+          "examples": [
+            "They regive the stolen funds to the rightful owner.",
+            "The team regive support after the critique."
+          ],
+          "collocations": ["regive back", "regive resources"],
+          "synonyms": ["regrant", "return"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "law"]
+        }
+      ]
+    },
+    {
+      "term": "regiven",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "given again or returned; provided anew.",
+          "examples": [
+            "The regiven permission allowed immediate access.",
+            "They received regiven instructions after the update."
+          ],
+          "collocations": ["regiven permission", "regiven details"],
+          "synonyms": ["reissued", "returned"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "regives",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of regive; to give back or restore again.",
+          "examples": [
+            "The committee regives permissions after review.",
+            "He regives the funds to the charity."
+          ],
+          "collocations": ["regives permissions", "regives funds"],
+          "synonyms": ["regrant", "return"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "regiving",
+      "kind": "word",
+          "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "gerund",
+          "definition": "the act of giving back or restoring something.",
+          "examples": [
+            "Regiving of resources was prioritized after the disaster.",
+            "They discussed regiving as part of the settlement."
+          ],
+          "collocations": ["regiving of funds", "regiving resources"],
+          "synonyms": ["returning", "regrating"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "regladden",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to load again with heavy burden or to make heavily laden.",
+          "examples": [
+            "They regladden the cart with crates.",
+            "The ship regladden its holds after restocking."
+          ],
+          "collocations": ["regladen cargo", "regladden ships"],
+          "synonyms": ["reload", "reload heavily"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reglair",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to clear or dislodge a lair; metaphorically to drive out from a secret place.",
+          "examples": [
+            "They reglair the cave of bats.",
+            "The sweep reglairs the hideout."
+          ],
+          "collocations": ["reglair animals", "reglair den"],
+          "synonyms": ["dislodge", "clear out"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reglaze",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to glaze again; to apply a new glaze or coating.",
+          "examples": [
+            "They reglaze the ceramic pot with a fresh glaze.",
+            "The window was reglazed to improve insulation."
+          ],
+          "collocations": ["reglaze pottery", "reglaze windows"],
+          "synonyms": ["reglaze", "refinish"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "home"]
+        }
+      ]
+    },
+    {
+      "term": "reglazed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "having been glazed again; covered with a new glaze.",
+          "examples": [
+            "The reglazed vase gleams on the shelf."
+          ],
+          "collocations": ["reglazed surface", "reglazed pottery"],
+          "synonyms": ["re-glazed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "home"]
+        }
+      ]
+    },
+    {
+      "term": "reglazes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of reglaze; to apply a new glaze.",
+          "examples": [
+            "She reglazes the cups every year."
+          ],
+          "collocations": ["reglazes dishes", "reglazes windows"],
+          "synonyms": ["reglazes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft", "home"]
+        }
+      ]
+    },
+    {
+      "term": "reglazing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "gerund",
+          "definition": "the act of applying a new glaze to something.",
+          "examples": [
+            "Reglazing the pottery improved its finish."
+          ],
+          "collocations": ["reglazing pottery", "reglazing surfaces"],
+          "synonyms": ["reglazing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["craft"]
+        }
+      ]
+    }
+  ]
+}

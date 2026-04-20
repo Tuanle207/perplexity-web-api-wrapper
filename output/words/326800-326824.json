@@ -1,0 +1,402 @@
+{
+  "items": [
+    {
+      "term": "regionally",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in relation to a region or regions; with respect to a particular region",
+          "examples": [
+            "Regionally, the country shows different dialects and customs.",
+            "The product is marketed regionally, not nationwide."
+          ],
+          "collocations": ["regionally aware", "regionally distinct", "regionally distributed"],
+          "synonyms": ["locally (in some contexts)", "geographically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "regionals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "people or things from a particular region; regional sports or competitions",
+          "examples": [
+            "The team won the regionals and advanced to the national finals.",
+            "Regionals often feature local teams and talents."
+          ],
+          "collocations": ["regional finals", "regionals team", "regionals competition"],
+          "synonyms": ["locals", "region inhabitants"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sport", "general"]
+        }
+      ]
+    },
+    {
+      "term": "regionary",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to a region or regions; regional in scope",
+          "examples": [
+            "regionary maps show distribution by area.",
+            "Regionary laws apply within specified districts."
+          ],
+          "collocations": ["regionary distribution", "regionary plan"],
+          "synonyms": ["regional", "regionalist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "regioned",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past participle of region; not commonly used as a stand-alone verb; may appear in specialized contexts meaning 'to divide into regions'",
+          "examples": [
+            "The country was regioned into administrative zones.",
+            "The map regioned the territory for planning."
+          ],
+          "collocations": ["regioned into", "regioned areas"],
+          "synonyms": ["divided by region", "regionalized"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "geography"]
+        }
+      ]
+    },
+    {
+      "term": "regions",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "areas or parts of a country, city, or the world that share common features",
+          "examples": [
+            "The Amazon region is rich in biodiversity.",
+            "Students come from different regions of the country."
+          ],
+          "collocations": ["mountain regions", "regional regions", "urban regions"],
+          "synonyms": ["areas", "zones", "territories"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["geography", "general"]
+        }
+      ]
+    },
+    {
+      "term": "regird",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to gird again; to encircle or surround again",
+          "examples": [
+            "They regird the wound with fresh bandages."
+          ],
+          "collocations": ["regird the waist", "regird the tree"],
+          "synonyms": ["reinclose", "reencircle"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "regisseur",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who supervises or directs the preparation of a performance or production; director",
+          "examples": [
+            "The regisseur coordinated the stage design with the actors.",
+            "In some theatres, the regisseur handles rehearsal planning."
+          ],
+          "collocations": ["the regisseur", "regisseur's advice"],
+          "synonyms": ["director", "stage manager"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["theatre", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "regisseurs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of regisseur; multiple people who supervise or direct productions",
+          "examples": [
+            "The regisseurs met to discuss the tour.",
+            "Two regisseurs shared responsibilities for the festival."
+          ],
+          "collocations": ["regisseurs meeting", "two regisseurs"],
+          "synonyms": ["directors", "stage directors"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["theatre", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "register",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an official list or record; a device for recording information",
+          "examples": [
+            "Please sign the register at the front desk.",
+            "The register of births is kept by the city."
+          ],
+          "collocations": ["name on the register", "register book"],
+          "synonyms": ["log", "record", "catalog"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "administration"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the level of formality in language or writing",
+          "examples": [
+            "The speech was written in a formal register.",
+            "Casual register is fine in emails to friends."
+          ],
+          "collocations": ["formal register", "informal register", "audio register"],
+          "synonyms": ["style", "tone"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["language", "education"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to sign up or enroll for something; to record information officially",
+          "examples": [
+            "She registered for the course last week.",
+            "Workers must register their devices with IT."
+          ],
+          "collocations": ["register for", "register the device", "register name"],
+          "synonyms": ["enroll", "sign up", "record"],
+          "antonyms": ["deregister", "unregister"],
+          "register": "neutral",
+          "domain": ["education", "technology", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to record or enroll to receive something",
+          "examples": [
+            "Registrations are open until Friday.",
+            "He registered to vote in the new district."
+          ],
+          "collocations": ["register to vote", "register online"],
+          "synonyms": ["enroll", "sign up"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["political", "general"]
+        }
+      ]
+    },
+    {
+      "term": "registerable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being registered or recorded",
+          "examples": [
+            "The invention is registerable as a patent.",
+            "Only registerable items can be entered in the system."
+          ],
+          "collocations": ["registerable under law", "registerable invention"],
+          "synonyms": ["registrable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "registrable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being registered; eligible for registration",
+          "examples": [
+            "This mark is registrable in multiple jurisdictions.",
+            "Not all products are registrable under the new policy."
+          ],
+          "collocations": ["registrable under", "registrable mark"],
+          "synonyms": ["registerable"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "business", "general"]
+        }
+      ]
+    },
+    {
+      "term": "registral",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to or concerning registers or registry entries",
+          "examples": [
+            "Registral data showed the ownership history.",
+            "The registral system tracks changes over time."
+          ],
+          "collocations": ["registral data", "registral history"],
+          "synonyms": ["register-related"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "registrant",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or organization that registers or is registered",
+          "examples": [
+            "All registrants will receive a confirmation email.",
+            "The registrant must provide identification."
+          ],
+          "collocations": ["registrant list", "new registrant"],
+          "synonyms": ["subscriber", "registrant"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "administration"]
+        }
+      ]
+    },
+    {
+      "term": "registrants",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of registrant; people or organizations that have registered",
+          "examples": [
+            "The conference announced the names of the registrants.",
+            "Registrants come from many countries."
+          ],
+          "collocations": ["list of registrants", "registered registrants"],
+          "synonyms": ["subscribers", "participants"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "administration"]
+        }
+      ]
+    },
+    {
+      "term": "registrar",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an official or organization responsible for maintaining a register or registry",
+          "examples": [
+            "The registrar keeps birth records.",
+            "He works as a registrar at the university."
+          ],
+          "collocations": ["county registrar", "registrar's office"],
+          "synonyms": ["registries officer", "registrar general"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["administration", "law"]
+        }
+      ]
+    },
+    {
+      "term": "registraries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of registrary; an office or person responsible for records",
+          "examples": [
+            "The registraries handle all recordkeeping tasks.",
+            "Different registraries may exist for birth and marriage records."
+          ],
+          "collocations": ["registraries office", "registraries staff"],
+          "synonyms": ["registrar's office", "records office"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["administration", "law"]
+        }
+      ]
+    },
+    {
+      "term": "registrars",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of registrar; officials who maintain official registers",
+          "examples": [
+            "Registrars verify documents for citizenship.",
+            "Several registrars attended the conference."
+          ],
+          "collocations": ["state registrars", "registrars' duties"],
+          "synonyms": ["registrars", "registries officers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["administration", "law"]
+        }
+      ]
+    },
+    {
+      "term": "registrarship",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the office or position of a registrar; the duties of keeping official records",
+          "examples": [
+            "Her registrarship involves managing student records.",
+            "The registrar's ship handles vital statistics."
+          ],
+          "collocations": ["registrarship duties", "in registrarship"],
+          "synonyms": ["registrarial office", "registrar position"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["administration", "law"]
+        }
+      ]
+    }
+  ]
+}
