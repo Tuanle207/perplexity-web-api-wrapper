@@ -1,0 +1,580 @@
+{
+  "items": [
+    {
+      "term": "recatalog",
+      "kind": "verb",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to catalog again or reorganize a catalog or list",
+          "examples": [
+            "They decided to recatalog the library to reflect new genres.",
+            "The project will recatalog the products by region."
+          ],
+          "collocations": [
+            "recatalog a catalog",
+            "recatalog the library",
+            "recatalog items",
+            "recatalog entries"
+          ],
+          "synonyms": ["reclassify", "reindex", "resort"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "library", "information management"]
+        }
+      ]
+    },
+    {
+      "term": "recataloged",
+      "kind": "verb",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of recatalog; having been cataloged again or reorganized in a new catalog",
+          "examples": [
+            "The items were recataloged to reflect updated classifications.",
+            "We recataloged the holdings last year."
+          ],
+          "collocations": [
+            "was recataloged",
+            "recataloged entries",
+            "recataloged items",
+            "recataloged system"
+          ],
+          "synonyms": ["reclassified", "reindexed"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "library", "information management"]
+        }
+      ]
+    },
+    {
+      "term": "recataloging",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of cataloging again or reorganizing a catalog",
+          "examples": [
+            "The recataloging of the collection took several weeks.",
+            "During recataloging, some items were relocated."
+          ],
+          "collocations": [
+            "start recataloging",
+            "progress in recataloging",
+            "recataloging process"
+          ],
+          "synonyms": ["reclassification", "reindexing"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "library", "information management"]
+        }
+      ]
+    },
+    {
+      "term": "recatalogs",
+      "kind": "verb",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of recatalog; he/she/it catalogs again",
+          "examples": [
+            "The system recatalogs new entries automatically.",
+            "They recatalogs the inventory every quarter." 
+          ],
+          "collocations": [
+            "recatalogs entries",
+            "recatalogs products",
+            "recatalogs records"
+          ],
+          "synonyms": ["reclassifies", "reindexes"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "information management"]
+        }
+      ]
+    },
+    {
+      "term": "recatalogue",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative spelling of recatalog; a catalog created or revised by recataloging",
+          "examples": [
+            "The new recatalogue was published last month.",
+            "The museum released a revised recatalogue of its artifacts."
+          ],
+          "collocations": [
+            "new recatalogue",
+            "updated recatalogue",
+            "recatalogue entries"
+          ],
+          "synonyms": ["recataloguing", "relisting"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "library", "archival"]
+        }
+      ]
+    },
+    {
+      "term": "recatalogued",
+      "kind": "verb",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of recatalogue; having been catalogued again",
+          "examples": [
+            "The collection was recatalogued and reindexed.",
+            "They recatalogued the museum's holdings last year."
+          ],
+          "collocations": [
+            "was recatalogued",
+            "recatalogued items",
+            "recatalogued records"
+          ],
+          "synonyms": ["relisted", "reclassified"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "library", "archival"]
+        }
+      ]
+    },
+    {
+      "term": "recataloguing",
+      "kind": "noun",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of recataloguing; revising a catalog",
+          "examples": [
+            "Recataloguing the collection improved search accuracy.",
+            "There was a delay during recataloguing."
+          ],
+          "collocations": [
+            "begin recataloguing",
+            "recataloguing process",
+            "recataloguing effort"
+          ],
+          "synonyms": ["recataloguing", "relisting"], 
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "library", "archival"]
+        }
+      ]
+    },
+    {
+      "term": "recatch",
+      "kind": "verb",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to catch again after losing or dropping; to retrieve",
+          "examples": [
+            "She tried to recatch the ball before it hit the ground.",
+            "He managed to recatch his breath after sprinting."
+          ],
+          "collocations": [
+            "recatch the ball",
+            "recatch a breath",
+            "recatch the subject"
+          ],
+          "synonyms": ["retrieve", "catch again"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "recatches",
+      "kind": "verb",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of recatch",
+          "examples": [
+            "He recatches his breath after the run.",
+            "She recatches the ball and continues the game."
+          ],
+          "collocations": [
+            "recatches breath",
+            "recatches the ball"
+          ],
+          "synonyms": ["retrieves", "catches again"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "recatching",
+      "kind": "verb",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of recatch; catching again or regaining",
+          "examples": [
+            "He is recatching his breath after the sprint.",
+            "They are recatching the signals to locate the source."
+          ],
+          "collocations": [
+            "recatching breath",
+            "recatching signals"
+          ],
+          "synonyms": ["retrieving", "catching again"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "technology", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "recategorize",
+      "kind": "verb",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to categorize again or place into a different category",
+          "examples": [
+            "We need to recategorize these items by product type.",
+            "The dataset was recategorized to improve filtering."
+          ],
+          "collocations": [
+            "recategorize items",
+            "recategorize data",
+            "recategorize products"
+          ],
+          "synonyms": ["reclassify", "relabel"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "data management"]
+        }
+      ]
+    },
+    {
+      "term": "recategorized",
+      "kind": "verb",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of recategorize; placed into a different category",
+          "examples": [
+            "The items were recategorized under new product lines.",
+            "We recategorized the articles after reviewing their content."
+          ],
+          "collocations": [
+            "was recategorized",
+            "recategorized items",
+            "recategorized data"
+          ],
+          "synonyms": ["reclassified", "relabelled"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "data management"]
+        }
+      ]
+    },
+    {
+      "term": "recategorizes",
+      "kind": "verb",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of recategorize",
+          "examples": [
+            "The system recategorizes entries automatically.",
+            "They recategorizes the results to reflect new criteria."
+          ],
+          "collocations": [
+            "recategorizes entries",
+            "recategorizes data"
+          ],
+          "synonyms": ["reclassifies", "relabels"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "data management"]
+        }
+      ]
+    },
+    {
+      "term": "recategorizing",
+      "kind": "noun/verb",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of recategorize; the act of recategorizing",
+          "examples": [
+            "Recategorizing the items took longer than expected.",
+            "Recategorizing improves search accuracy."
+          ],
+          "collocations": [
+            "recategorizing process",
+            "while recategorizing"
+          ],
+          "synonyms": ["reclassification", "relabeling"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "data management"]
+        }
+      ]
+    },
+    {
+      "term": "recaught",
+      "kind": "verb",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of recatch; caught again after escaping or losing",
+          "examples": [
+            "The dog recaught the frisbee.",
+            "He recaught his hat in the wind."
+          ],
+          "collocations": [
+            "recaught the ball",
+            "recaught the hat"
+          ],
+          "synonyms": ["regrasped", "retrieved"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["sports", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "recaulescence",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a rare term referring to a radiant glow or reversion to a glowing state; not common in everyday English",
+          "examples": [
+            "The mineral displayed a faint recaulescence under certain light."
+          ],
+          "collocations": [
+            "recaulescence of minerals"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["science", "literary"]
+        }
+      ]
+    },
+    {
+      "term": "recausticize",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to convert or treat (a substance) with caustic again; used in chemical processing",
+          "examples": [
+            "The process will recausticize the solution to remove impurities."
+          ],
+          "collocations": [
+            "recausticize the solution",
+            "recausticize wood pulp"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "technical",
+          "domain": ["science", "industry"]
+        }
+      ]
+    },
+    {
+      "term": "recaution",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an old or rare form of a precaution; a cautionary measure",
+          "examples": [
+            "The document lists recautions advised for travelers."
+          ],
+          "collocations": [
+            "take a recaution",
+            "safety recaution"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "recautioned",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of recaution; gave a cautionary warning",
+          "examples": [
+            "He recautioned the team about the risks involved."
+          ],
+          "collocations": [
+            "recautioned users",
+            "recautioned against"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "recautioning",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of recaution; giving warnings or cautions",
+          "examples": [
+            "The guide is recautioning visitors about steep paths."
+          ],
+          "collocations": [
+            "recautioning travelers",
+            "recautioning against"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "recautions",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "obsolete or rare plural of recaution; cautions",
+          "examples": [
+            "The ancient manuscript notes several recautions."
+          ],
+          "collocations": [
+            "multiple recautions"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "recce",
+      "kind": "abbreviation",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "short for reconnaissance; military or exploratory survey",
+          "examples": [
+            "We did a quick recce of the area before the operation.",
+            "The team sent a recce to assess the terrain."
+          ],
+          "collocations": [
+            "do a recce",
+            "recce mission",
+            "recce report"
+          ],
+          "synonyms": ["reconnaissance", "survey"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["military", "journalism", "education"]
+        }
+      ]
+    },
+    {
+      "term": "recced",
+      "kind": "verb",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of recce; conducted a reconnaissance",
+          "examples": [
+            "They recced the route before proceeding.",
+            "We recced the valley at dawn."
+          ],
+          "collocations": [
+            "recced the area",
+            "recced the route"
+          ],
+          "synonyms": ["reconnoitered", "surveyed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["military", "outdoor"]
+        }
+      ]
+    },
+    {
+      "term": "recceed",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "an obsolescent or erroneous spelling of recede; to move back",
+          "examples": [
+            "The tide may recceed during the night."
+          ],
+          "collocations": [
+            "recceed slowly"
+          ],
+          "synonyms": ["recede"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "recceing",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of recce; conducting reconnaissance",
+          "examples": [
+            "The patrol is recceing the shoreline."
+          ],
+          "collocations": [
+            "recceing the area"
+          ],
+          "synonyms": ["reconnoitering"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["military", "outdoor"]
+        }
+      ]
+    }
+  ]
+}

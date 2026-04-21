@@ -1,0 +1,574 @@
+{
+  "items": [
+    {
+      "term": "reflectiveness",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of giving back or reflecting light, sound, or thoughts; shininess or brightness that shows when something reflects.",
+          "examples": [
+            "The reflectiveness of the metal made the surface easy to spot in low light.",
+            "Her reflectiveness of the water created a clear mirror-like finish."
+          ],
+          "collocations": [
+            "high reflectiveness",
+            "surface reflectiveness",
+            "optical reflectiveness",
+            "reflectiveness of a material"
+          ],
+          "synonyms": ["brightness", "sheen", "lustre"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "science"]
+        }
+      ]
+    },
+    {
+      "term": "reflectivenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of reflectiveness; multiple qualities of reflecting or thoughtful consideration.",
+          "examples": [
+            "The reflectivenesses of different materials vary considerably.",
+            "Researchers studied the reflectivenesses of several coatings."
+          ],
+          "collocations": [
+            "multiple reflectivenesses",
+            "varying reflectivenesses"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general", "science"]
+        }
+      ]
+    },
+    {
+      "term": "reflectivities",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "properties of a surface or material that determine how well it reflects light, sound, or other waves.",
+          "examples": [
+            "The reflectivities of the coatings determine their effectiveness in telescopes.",
+            "Different wavelengths have different reflectivities."
+          ],
+          "collocations": [
+            "surface reflectivities",
+            "optical reflectivities",
+            "frequency-dependent reflectivities"
+          ],
+          "synonyms": ["reflectance", "brightness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "reflectivity",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the degree to which something reflects light, heat, or sound; the quality of being reflective.",
+          "examples": [
+            "The reflectivity of the foil is very high.",
+            "Surface roughness affects reflectivity."
+          ],
+          "collocations": [
+            "high reflectivity",
+            "low reflectivity",
+            "reflectivity spectrum",
+            "measured reflectivity"
+          ],
+          "synonyms": ["reflectance", "brightness", "sheen"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reflectogram",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a chart or diagram produced by reflecting light or sound signals to study properties of a material or tissue.",
+          "examples": [
+            "The doctor examined the gland with a reflectogram to assess its reflectivity.",
+            "In material science, a reflectogram helps analyze surface layers."
+          ],
+          "collocations": [
+            "reflectogram image",
+            "reflection-based reflectogram",
+            "NMR/ultrasound reflectogram"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["medicine", "science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "reflectograms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reflectogram; multiple reflection-based diagrams or charts.",
+          "examples": [
+            "The lab produced several reflectograms for comparison.",
+            "Researchers analyzed the reflectograms at different angles."
+          ],
+          "collocations": [
+            "multiple reflectograms",
+            "compare reflectograms"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "reflectograph",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an instrument or device used to obtain a reflective image or scan, often for scientific or archival purposes.",
+          "examples": [
+            "The historian used a reflectograph to transfer old manuscripts.",
+            "Researchers employed a reflectograph to study surface details."
+          ],
+          "collocations": [
+            "portable reflectograph",
+            "reflectograph system"
+          ],
+          "synonyms": ["reflectoscope"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "technology", "archival"]
+        }
+      ]
+    },
+    {
+      "term": "reflectographs",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reflectograph; multiple instruments or images produced by reflectographs.",
+          "examples": [
+            "The museum displays several reflectographs from the 19th century.",
+            "Different reflectographs captured unique surface details."
+          ],
+          "collocations": [
+            "several reflectographs",
+            "operate reflectographs"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "technology", "history"]
+        }
+      ]
+    },
+    {
+      "term": "reflectography",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the practice or study of creating and interpreting reflectograms and reflectographs; imaging technique based on reflection.",
+          "examples": [
+            "Reflectography is used to inspect artwork under layers of paint.",
+            "The technique revealed hidden sketches beneath the surface."
+          ],
+          "collocations": [
+            "technique of reflectography",
+            "applications of reflectography"
+          ],
+          "synonyms": ["reflectance imaging"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["art conservation", "science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "reflectometer",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an instrument that measures how much light, heat, or other waves are reflected by a surface.",
+          "examples": [
+            "The reflectometer showed high reflectance for the metal sample.",
+            "Engineers use a reflectometer to test coatings."
+          ],
+          "collocations": [
+            "portable reflectometer",
+            "digital reflectometer"
+          ],
+          "synonyms": ["reflectance meter"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "reflectometers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reflectometer; multiple devices that measure reflectance.",
+          "examples": [
+            "Several reflectometers were calibrated before testing.",
+            "Different brands of reflectometers exist."
+          ],
+          "collocations": [
+            "several reflectometers"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "engineering", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "reflectometries",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reflectometry; measurements or studies of reflectance.",
+          "examples": [
+            "The data included several reflectometries at varying wavelengths.",
+            "Reflectometry results indicated strong surface diffusion."
+          ],
+          "collocations": [
+            "reflectometry data",
+            "conduct reflectometry"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["science", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "reflectometry",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a method of measuring how light or other waves are reflected by a material to study its properties.",
+          "examples": [
+            "Reflectometry is used to analyze thin films.",
+            "In telecommunications, reflectometry helps locate faults."
+          ],
+          "collocations": [
+            "optical reflectometry",
+            "time-domain reflectometry"
+          ],
+          "synonyms": ["reflectance measurement"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["physics", "engineering", "telecommunications"]
+        }
+      ]
+    },
+    {
+      "term": "reflector",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or object that reflects light or sound, or directs it in a particular direction; a device such as a mirror or shiny surface that reflects.",
+          "examples": [
+            "The bike helmet has a reflector for safety.",
+            "The solar reflector focuses sunlight onto the panel."
+          ],
+          "collocations": [
+            "solar reflector",
+            "reflector lamp",
+            "reflector plate"
+          ],
+          "synonyms": ["mirror", "mirror-like surface", "retarder"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "reflectorise",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to equip or convert something with reflectors; to make something reflective.",
+          "examples": [
+            "They plan to reflectorise the safety vests for better visibility."
+          ],
+          "collocations": [
+            "reflectorise clothing",
+            "reflectorise vehicles"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "reflectorised",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of reflectorise; equipped with reflectors.",
+          "examples": [
+            "The jackets were reflectorised for night visibility."
+          ],
+          "collocations": [
+            "reflectorised clothing"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "reflectorises",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of reflectorise; equips or makes reflective.",
+          "examples": [
+            "The company reflectorises all delivery uniforms."
+          ],
+          "collocations": [
+            "reflectorises clothing"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "reflectorising",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "gerund or present participle of reflectorise; the act of adding reflectors.",
+          "examples": [
+            "They are reflectorising the jackets to improve visibility."
+          ],
+          "collocations": [
+            "reflectorising clothing"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "reflectorize",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to provide with reflectors or to make something reflective; to exhibit or show clearly.",
+          "examples": [
+            "They decided to reflectorize the safety gear.",
+            "The painting reflects the artist's mood; it can also reflectorize the image in lighting."
+          ],
+          "collocations": [
+            "reflectorize equipment",
+            "reflectorize clothing"
+          ],
+          "synonyms": ["reflect", "highlight"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "arts", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reflectorized",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of reflectorize; equipped with reflectors or made reflective.",
+          "examples": [
+            "The vests were reflectorized for visibility at night."
+          ],
+          "collocations": [
+            "reflectorized gear"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "reflectorizes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular present of reflectorize; makes reflective.",
+          "examples": [
+            "The manufacturer reflectorizes its safety coats."
+          ],
+          "collocations": [
+            "reflectorizes clothing"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "reflectorizing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "gerund or present participle of reflectorize; the act of adding reflectors.",
+          "examples": [
+            "They are reflectorizing the jackets before the campaign."
+          ],
+          "collocations": [
+            "reflectorizing clothing"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "safety"]
+        }
+      ]
+    },
+    {
+      "term": "reflectors",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "devices or surfaces that reflect light, sound, etc.; parts that bounce back what hits them.",
+          "examples": [
+            "Pedestrians wear reflectors for visibility.",
+            "A reflector on the bike improves safety at night."
+          ],
+          "collocations": [
+            "car reflector",
+            "reflectors on clothing",
+            "reflector strip"
+          ],
+          "synonyms": ["mirror", "reflective panel"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "reflectoscope",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an instrument that uses reflected light to examine a substance or surface; a type of viewing device.",
+          "examples": [
+            "The conservator used a reflectoscope to inspect the painting's layers."
+          ],
+          "collocations": [
+            "ultra reflectoscope",
+            "portable reflectoscope"
+          ],
+          "synonyms": ["reflectoscope (synonym)"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "art conservation", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "reflects",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to throw back light, heat, sound, or an image from a surface; to think carefully about something or to show an image or representation.",
+          "examples": [
+            "The lake reflects the mountains clearly.",
+            "She reflects on her mistakes and learns from them.",
+            "The mirror reflects your face."
+          ],
+          "collocations": [
+            "reflects the light",
+            "reflects on",
+            "reflective surface"
+          ],
+          "synonyms": ["mirror", "imagine", "consider"],
+          "antonyms": ["absorb"],
+          "register": "neutral",
+          "domain": ["general", "education", "literature"]
+        }
+      ]
+    }
+  ]
+}

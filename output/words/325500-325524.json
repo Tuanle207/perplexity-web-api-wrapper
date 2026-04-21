@@ -1,0 +1,606 @@
+{
+  "items": [
+    {
+      "term": "reedmaker",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that makes or crafts reeds (the plant stems used in musical instruments or for thatching) or reed instruments in some context",
+          "examples": [
+            "The reedmaker carefully shaped the cane to fit the clarinet mouthpiece.",
+            "In traditional crafts, a reedmaker is essential for restoring old wooden reed instruments."
+          ],
+          "collocations": [
+            "reedmaker tradition",
+            "reedmaker craftsman",
+            "reedmaker's toolkit"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reedmaking",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the craft or process of making reeds for musical instruments or similar reed-based work",
+          "examples": [
+            "Reedmaking requires precision and patience.",
+            "She studied reedmaking as part of her woodwind restoration course."
+          ],
+          "collocations": [
+            "practice reedmaking",
+            "reedmaking techniques",
+            "reedmaking workshop"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reedman",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a man who makes or repairs reeds; historically, a craftsman dealing with reed instruments",
+          "examples": [
+            "The reedman repaired the cane reed on the oboe.",
+            "Old guild records mention a skilled reedman in the town."
+          ],
+          "collocations": [
+            "reedman craftsman",
+            "reedman workshop",
+            "reedman by trade"
+          ],
+          "synonyms": ["reedmaker"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reedmen",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reedman; multiple men who make or repair reeds",
+          "examples": [
+            "The guild employed several reedmen to maintain the instruments.",
+            "Two reedmen shared the workshop space."
+          ],
+          "collocations": [
+            "reedmen guild",
+            "reedmen workshop",
+            "reedmen team"
+          ],
+          "synonyms": ["reedmakers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "reedplot",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a plot or arrangement of reeds or a plan involving reed plants; may refer to a botanical or musical context",
+          "examples": [
+            "The reedplot section of the wetland supports diverse wildlife.",
+            "A reedplot diagram helped visualize the reed arrangement."
+          ],
+          "collocations": [
+            "reedplot diagram",
+            "reedplot section",
+            "reedplot arrangement"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "reeds",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "long, thin plants that grow in wetlands; their stalks are used for thatching, weaving, or making reeds for instruments",
+          "examples": [
+            "The marsh was full of reeds swaying in the breeze.",
+            "We collected reeds to weave a basket."
+          ],
+          "collocations": [
+            "reeds in the bog",
+            "reeds bed",
+            "reeds and rushes"
+          ],
+          "synonyms": ["cane", "rushes"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reeducate",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to teach someone again or differently in order to change their beliefs, attitudes, or behaviors",
+          "examples": [
+            "The program aims to reeducate adults about healthy eating.",
+            "Efforts were made to reeducate the community on waste disposal."
+          ],
+          "collocations": [
+            "reeducate the public",
+            "reeducate workers",
+            "reeducate through campaigns"
+          ],
+          "synonyms": ["retrain", "teach_again"],
+          "antonyms": ["unlearn", "forget"],
+          "register": "formal",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reeducated",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "having been taught again or differently to change beliefs or behaviors",
+          "examples": [
+            "Many participants were reeducated about nutrition.",
+            "She felt reeducated after the awareness course."
+          ],
+          "collocations": [
+            "reeducated individuals",
+            "reeducated through programs"
+          ],
+          "synonyms": ["retrained"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reeducates",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "teaches someone again or differently to change beliefs or behaviors",
+          "examples": [
+            "The campaign reeducates citizens about recycling.",
+            "Educators reeducates the class on safe practices." 
+          ],
+          "collocations": [
+            "reeducates citizens",
+            "reeducates the workforce"
+          ],
+          "synonyms": ["retrains"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reeducating",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of teaching someone again or differently to change beliefs or behaviors",
+          "examples": [
+            "The program is reeducating people about health.",
+            "They are reeducating workers to follow new safety rules."
+          ],
+          "collocations": [
+            "reeducating people",
+            "reeducating workers"
+          ],
+          "synonyms": [" retraining "],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reeducation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of teaching someone again or differently to change beliefs or behaviors",
+          "examples": [
+            "Reeducation programs aim to reduce harmful practices.",
+            "The policy included reeducation as a condition for parole."
+          ],
+          "collocations": [
+            "reeducation programs",
+            "reeducation campaign"
+          ],
+          "synonyms": [" retraining "],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "law"]
+        }
+      ]
+    },
+    {
+      "term": "reeducations",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reeducation; instances or processes of teaching again or differently to change beliefs or behaviors",
+          "examples": [
+            "The authorities implemented several reeducations across regions.",
+            "Reeducations were part of the rehabilitation plan."
+          ],
+          "collocations": [
+            "reeducations programs",
+            "reeducations initiatives"
+          ],
+          "synonyms": [" retrainings "],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["law", "education"]
+        }
+      ]
+    },
+    {
+      "term": "reeducative",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "intended to reeducate or change beliefs and behaviors",
+          "examples": [
+            "The reeducative approach focused on evidence-based information.",
+            "They introduced reeducative measures to reduce prejudice."
+          ],
+          "collocations": [
+            "reeducative program",
+            "reeducative measures"
+          ],
+          "synonyms": ["educative"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["education", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "reedwork",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "work involving reeds, such as crafting, weaving, or construction with reed materials",
+          "examples": [
+            "The artist's reedwork created a rustic screen.",
+            "Reedwork was used in both crafts and construction."
+          ],
+          "collocations": [
+            "reedwork craft",
+            "reedwork technique"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["crafts", "art"]
+        }
+      ]
+    },
+    {
+      "term": "reedy",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "sound that is full of reeds; thin and tall with a lot of reeds; somewhat thin or tall and skinny",
+          "examples": [
+            "The reedy riverbank swung with the wind.",
+            "She had a reedy voice that carried in the hall."
+          ],
+          "collocations": [
+            "reedy sound",
+            "reedy voice",
+            "reedy stalks"
+          ],
+          "synonyms": ["thin", "gaunt"],
+          "antonyms": ["full-bodied", "robust"],
+          "register": "neutral",
+          "domain": ["nature", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reef",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a narrow ridge of rock, coral, or sand just above or below the sea surface; used to warn ships or as a feature in oceans",
+          "examples": [
+            "The ship avoided the reef near the coast.",
+            "Divers explored the colorful reef.",
+            "A reef marker stood at the cliff edge."
+          ],
+          "collocations": [
+            "coral reef",
+            "reef wall",
+            "reef navigation"
+          ],
+          "synonyms": ["shoal", "barrier"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nature", "navigation"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to fold or roll the edge of a sail or garment to reduce size or adjust for safety",
+          "examples": [
+            "They reefed the sails to slow the ship.",
+            "Reef the flag to the mast when gusts pick up."
+          ],
+          "collocations": [
+            "reef the sail",
+            "reef the mainsail"
+          ],
+          "synonyms": ["collapse", "gather"],
+          "antonyms": [],
+          "register": "nautical",
+          "domain": ["nautical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reefable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being reefed or folded to reduce area or size, especially sails",
+          "examples": [
+            "The sail is reefable for storm conditions.",
+            "They checked the reefable parts before departure."
+          ],
+          "collocations": [
+            "reefable sail",
+            "reefable option"
+          ],
+          "synonyms": ["rollable", "foldable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nautical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reefed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of reef; folded or reduced in size, especially sails",
+          "examples": [
+            "The sails were reefed during the storm.",
+            "They reefed the mainsail before proceeding."
+          ],
+          "collocations": [
+            "reefed sail",
+            "reefed mainsail"
+          ],
+          "synonyms": ["reduced", "folded"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["nautical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reefer",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who uses or sells marijuana; also a refrigerated container or vehicle",
+          "examples": [
+            "The movie depicted a reefer dealer in the 1980s.",
+            "A reefer truck keeps perishables cold during transit."
+          ],
+          "collocations": [
+            "recreational reefer",
+            "reefer truck",
+            "reefer user"
+          ],
+          "synonyms": ["stoner", "dealer", "lifer" ],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["slang", "drugs", "transport"]
+        }
+      ]
+    },
+    {
+      "term": "reefers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reefer; refrigerated containers or vehicles",
+          "examples": [
+            "The fleet includes several reefers for perishable goods.",
+            "They loaded the reefers before the shipment."
+          ],
+          "collocations": [
+            "refrigerated reefers",
+            "reefer trucks"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["transport", "logistics"]
+        }
+      ]
+    },
+    {
+      "term": "reeffish",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a species of fish, such as pollock or hake, caught in some fisheries; used in food context",
+          "examples": [
+            "They caught reeefish for the market.",
+            "The menu featured reeefish as a local specialty."
+          ],
+          "collocations": [
+            "reeffish fillet",
+            "reeffish market"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "fisheries"]
+        }
+      ]
+    },
+    {
+      "term": "reeffishes",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reeffish; multiple fish of the species",
+          "examples": [
+            "Several reeefishes were landed this morning.",
+            "They sold reeefishes at the dock."
+          ],
+          "collocations": [
+            "reeffishes catch",
+            "reeffishes market"
+          ],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "fisheries"]
+        }
+      ]
+    },
+    {
+      "term": "reefier",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "more likely to reef; more likely to cause sails to be reefed; more rugged or harsh in nautical terms",
+          "examples": [
+            "The wind grew reefier as squalls approached.",
+            "A reefier sail configuration helped manage the gusts."
+          ],
+          "collocations": [
+            "reefier wind",
+            "reefier conditions"
+          ],
+          "synonyms": ["more reefed", "more mulled"],
+          "antonyms": [],
+          "register": "nautical",
+          "domain": ["nautical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reefiest",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "most likely to reef; most suitable for reefed sails; sharpest or extreme in nautical context",
+          "examples": [
+            "The reefiest conditions called for full reefing.",
+            "They prepared for the reefiest forecast."
+          ],
+          "collocations": [
+            "reefiest conditions",
+            "reefiest wind"
+          ],
+          "synonyms": ["most reefed"],
+          "antonyms": [],
+          "register": "nautical",
+          "domain": ["nautical", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reefing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of reducing the area of a sail by folding or rolling parts of it",
+          "examples": [
+            "Reefing the sails is standard procedure in heavy winds.",
+            "They paused reefing to reassess the storm."
+          ],
+          "collocations": [
+            "sail reefing",
+            "reefing procedure"
+          ],
+          "synonyms": ["reduction", "folding"],
+          "antonyms": [],
+          "register": "nautical",
+          "domain": ["nautical", "general"]
+        }
+      ]
+    }
+  ]
+}

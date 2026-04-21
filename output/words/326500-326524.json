@@ -1,0 +1,476 @@
+{
+  "items": [
+    {
+      "term": "refuel",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to fill a vehicle or machine with fuel so it can run again",
+          "examples": [
+            "We stopped at the station to refuel the car.",
+            "The plane refuels before its long journey.",
+            "Refuel the engine and continue the trip."
+          ],
+          "collocations": ["refuel the car", "refuel the plane", "refuel tank", "refuel at a station"],
+          "synonyms": ["fill up", "top up"],
+          "antonyms": ["deplete", "empty"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "refuelable",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being refueled; able to be filled again with fuel",
+          "examples": [
+            "The refuelable tank allowed the truck to travel longer distances.",
+            "A refuelable battery would extend the drone's flight time."
+          ],
+          "collocations": ["refuelable tank", "refuelable engine", "refuelable battery"],
+          "synonyms": ["re-fuelable", "fuel-rechargeable"],
+          "antonyms": ["nonrefuelable"],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "refueled",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of refuel; filled with fuel",
+          "examples": [
+            "The helicopter was refueled after the mission.",
+            "We refueled the car during the long drive."
+          ],
+          "collocations": ["refueled the car", "refueled the helicopter", "after refueling"],
+          "synonyms": ["filled up", "topped up"],
+          "antonyms": ["emptied"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "refueling",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of filling a vehicle or machine with fuel",
+          "examples": [
+            "Refueling stopped the plane from landing on schedule.",
+            "A quick refueling break kept us on track."
+          ],
+          "collocations": ["airport refueling", "fueling/refueling stop", "refueling protocol"],
+          "synonyms": ["filling up", "re-fueling"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transport"]
+        }
+      ]
+    },
+    {
+      "term": "refuellable",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being refueled; able to be filled again with fuel",
+          "examples": [
+            "The spacecraft uses a refuellable propulsion system.",
+            "Designers considered a refuellable power supply for the rover."
+          ],
+          "collocations": ["refuellable system", "refuellable power supply"],
+          "synonyms": ["re-fuelable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "science"]
+        }
+      ]
+    },
+    {
+      "term": "refuelled",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of refuel; filled with fuel (British spelling)",
+          "examples": [
+            "The ship refuelled in the harbor at dawn.",
+            "They refuelled the generator before the storm."
+          ],
+          "collocations": ["refuelled the ship", "refuelled the generator"],
+          "synonyms": ["refueled"],
+          "antonyms": ["unrefueled"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "refuelling",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of filling with fuel (British spelling)",
+          "examples": [
+            "A quick refuelling stop kept us on schedule.",
+            "The aircraft completed its refuelling quickly."
+          ],
+          "collocations": ["refuelling stop", "aircraft refuelling", "gas station refuelling"],
+          "synonyms": ["refuelling stop"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "transport"]
+        }
+      ]
+    },
+    {
+      "term": "refuels",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of refuel; fills with fuel",
+          "examples": [
+            "The truck refuels at a station every two days.",
+            "Solar backup systems refuels the plant's energy reserves occasionally."
+          ],
+          "collocations": ["refuels the car", "refuels the plane", "refuels during operation"],
+          "synonyms": ["fills up", "top ups"],
+          "antonyms": ["depletes"],
+          "register": "neutral",
+          "domain": ["general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "refuge",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a place or state of safety or shelter; a place to hide or rest",
+          "examples": [
+            "The cave provided refuge from the storm.",
+            "People sought refuge in the library during the blackout.",
+            "The country offered refuge to refugees."
+          ],
+          "collocations": ["take refuge", "seek refuge", "asylum refuge"],
+          "synonyms": ["shelter", "haven", "sanctuary"],
+          "antonyms": ["exposure", "danger"],
+          "register": "neutral",
+          "domain": ["general", "safety", "law"]
+        }
+      ]
+    },
+    {
+      "term": "refuged",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of refuge as a transitive verb is uncommon; may appear as 'refuged' in archaic or rare forms meaning granted refuge",
+          "examples": [
+            "The settlers refuged the emigrants in their homes."
+          ],
+          "collocations": ["refuged emigrants"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "history"]
+        }
+      ]
+    },
+    {
+      "term": "refugee",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who has fled their country to seek safety elsewhere",
+          "examples": [
+            "Many refugees arrived at the border seeking asylum.",
+            "The city welcomed refugees with relief packages."
+          ],
+          "collocations": ["refugee camp", "refugee status", "refugee family"],
+          "synonyms": ["asylum seeker"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "law", "humanitarian"]
+        }
+      ]
+    },
+    {
+      "term": "refugeeism",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the ideology or practice related to refugees; not widely used in everyday English",
+          "examples": [
+            "Scholars debated refugeeism and its effects on policy."
+          ],
+          "collocations": ["refugeeism policy"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "refugeeisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of refugeeism; not common in everyday usage",
+          "examples": [
+            "Various refugeeisms emerged in academic debates."
+          ],
+          "collocations": ["different refugeeisms"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["academic", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "refugees",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of refugee; more than one person who fled their country",
+          "examples": [
+            "The refugees found temporary housing.",
+            "Refugees often need help integrating into new communities."
+          ],
+          "collocations": ["refugees welcome", "refugees camp", "refugees aid"],
+          "synonyms": ["asylum seekers (context-dependent)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "humanitarian"]
+        }
+      ]
+    },
+    {
+      "term": "refugeeship",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "rare or historical term possibly referring to status or condition of refugees; not common in modern usage",
+          "examples": [
+            "Historical records mention refugeeship in early migrations."
+          ],
+          "collocations": ["refugeeship policy"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["history", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "refuges",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of refuge; places or instances of shelter (rare; not common)",
+          "examples": [
+            "The mountain provided refuges from the cold."
+          ],
+          "collocations": ["mountain refuges"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["literary", "general"]
+        }
+      ]
+    },
+    {
+      "term": "refugia",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of refugium; a place where organisms can survive adverse conditions",
+          "examples": [
+            "Hydrothermal vents can create refugia for fragile species."
+          ],
+          "collocations": ["refugia habitats", "refugia areas"],
+          "synonyms": ["refugium sites"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "biology", "ecology"]
+        }
+      ]
+    },
+    {
+      "term": "refuging",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "gerund/participle form related to refuge; uncommon",
+          "examples": [
+            "The refuging of wildlife is an important conservation concept."
+          ],
+          "collocations": ["refuging efforts"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["ecology", "conservation"]
+        }
+      ]
+    },
+    {
+      "term": "refugium",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a refuge or safe place; in biology, a place where a population can persist",
+          "examples": [
+            "The coral reef acted as a refugium for the species during warming events.",
+            "Ecologists study refugia to understand species survival."
+          ],
+          "collocations": ["refugium site", "refugium area"],
+          "synonyms": ["refuge", "haven"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "ecology"]
+        }
+      ]
+    },
+    {
+      "term": "refulge",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to shine brightly; to radiate light (archaic/poetic usage)",
+          "examples": [
+            "The gem refulges in the sun."
+          ],
+          "collocations": ["refulges softly"],
+          "synonyms": ["glow", "shine"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "poetic"]
+        }
+      ]
+    },
+    {
+      "term": "refulgence",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a radiant splendor or glow; shining brightness",
+          "examples": [
+            "The cathedral's refulgence filled the square.",
+            "Her eyes held a quiet refulgence."
+          ],
+          "collocations": ["divine refulgence", "refulgence of dawn"],
+          "synonyms": ["radiance", "brilliance", "glow"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "art", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "refulgences",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of refulgence; multiple glows or radiances",
+          "examples": [
+            "The gallery's walls suffered from the refractions and refulgences of the glass."
+          ],
+          "collocations": ["scattered refulgences"],
+          "synonyms": ["radiances", "brilliances"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["literary", "art"]
+        }
+      ]
+    },
+    {
+      "term": "refulgency",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state of radiant brightness; intense glow",
+          "examples": [
+            "The aurora borealis displayed a rare refulgency."
+          ],
+          "collocations": ["internal refulgency", "refulgency of dawn"],
+          "synonyms": ["brightness", "brilliance"],
+          "antonyms": [],
+          "register": "literary",
+          "domain": ["science", "nature", "arts"]
+        }
+      ]
+    },
+    {
+      "term": "refulgent",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "shining brightly; radiant",
+          "examples": [
+            "The river reflected the refulgent sunset.",
+            "She wore a dress of refulgent fabric."
+          ],
+          "collocations": ["refulgent glow", "refulgent light", "refulgent beams"],
+          "synonyms": ["radiant", "brilliant", "glowing"],
+          "antonyms": ["dull", "dim"],
+          "register": "literary",
+          "domain": ["literary", "arts", "nature"]
+        }
+      ]
+    }
+  ]
+}

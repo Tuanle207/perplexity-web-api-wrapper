@@ -1,0 +1,439 @@
+{
+  "items": [
+    {
+      "term": "reh",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "short for rehabilitation or rehab facility; a brief or informal reference to the process of restoring health or function after illness or injury.",
+          "examples": ["She checked into rehab after the accident.", "The rehab for his ankle lasted six weeks."],
+          "collocations": ["drug rehab", "sobriety rehab", "rehab program"],
+          "synonyms": ["rehabilitation center", "restoration program"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["healthcare", "general", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "rehab",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "short for rehabilitation; a program or setting for restoring health, fitness, or skills after illness, injury, or addiction.",
+          "examples": ["He went to rehab for his addiction.", "The rehab helped him regain mobility."],
+          "collocations": ["drug rehab", "physical rehab", "rehab program"],
+          "synonyms": ["rehabilitation", "recovery program"],
+          "antonyms": ["relapse", "loss of function"],
+          "register": "neutral",
+          "domain": ["healthcare", "everyday", "general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to undergo rehabilitation or to provide rehabilitation treatment.",
+          "examples": ["She rehabbed her knee after the surgery.", "The clinic rehabs patients with spinal injuries."],
+          "collocations": ["rehab a knee", "rehab patients", "rehab program"],
+          "synonyms": ["rehabilitate"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "general"]
+        }
+      ]
+    },
+    {
+      "term": "rehabbed",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of rehab; to have undergone rehabilitation or to have been treated to restore health or function.",
+          "examples": ["He rehabbed his shoulder after the injury.", "She rehabbed well and returned to work."],
+          "collocations": ["rehabbed shoulder", "rehabbed successfully"],
+          "synonyms": ["rehabilitated"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "general"]
+        }
+      ]
+    },
+    {
+      "term": "rehabber",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who provides rehabilitation or who works in rehabilitation settings; could refer to a therapist or caregiver involved in rehab.",
+          "examples": ["The rehabber supervised the exercise routine.", "Talk to the rehabber about home exercises."],
+          "collocations": ["physical rehabber", "rehab therapist", "rehab clinician"],
+          "synonyms": ["therapist", "rehabilitation specialist"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "general"]
+        }
+      ]
+    },
+    {
+      "term": "rehabbers",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rehabber; multiple rehabilitation professionals or caregivers.",
+          "examples": ["The rehabbers designed a new exercise plan.", "Several rehabbers collaborated on the program."],
+          "collocations": ["rehabbers team", "rehabbers guidelines"],
+          "synonyms": ["rehabilitation specialists"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "general"]
+        }
+      ]
+    },
+    {
+      "term": "rehabbing",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of rehab; undergoing rehabilitation or performing rehabilitation activities.",
+          "examples": ["He is rehabbing his broken leg.", "She is rehabbing after a car accident."],
+          "collocations": ["rehabbing a knee", "rehabbing athletes"],
+          "synonyms": ["rehabilitating"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "general"]
+        }
+      ]
+    },
+    {
+      "term": "rehabilitant",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is undergoing rehabilitation; often used in medical or therapeutic contexts.",
+          "examples": ["The rehabilitant followed the therapy plan diligently.", "Rehabilitants visit weekly sessions."],
+          "collocations": ["rehabilitant program", "adult rehabilitant"],
+          "synonyms": ["patient", "client", "rehabilitation patient"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "general"]
+        }
+      ]
+    },
+    {
+      "term": "rehabilitants",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rehabilitant; multiple people undergoing rehabilitation.",
+          "examples": ["The center welcomes rehabilitants from many backgrounds.", "Rehabilitants shared progress notes."],
+          "collocations": ["rehabilitant group", "rehabilitant program"],
+          "synonyms": ["patients", "clients"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "general"]
+        }
+      ]
+    },
+    {
+      "term": "rehabilitate",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to help someone recover health or function after illness, injury, or addiction; to restore something to a previous good condition.",
+          "examples": ["The program aims to rehabilitate addicts.", "They rehabilitated the old building into a library."],
+          "collocations": ["rehabilitate patients", "rehabilitate a building", "rehabilitate after"],
+          "synonyms": ["restore", "recover", "revive"],
+          "antonyms": ["damage", "deteriorate"],
+          "register": "neutral",
+          "domain": ["healthcare", "general", "construction", "urban planning"]
+        }
+      ]
+    },
+    {
+      "term": "rehabilitated",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of rehabilitate; restored to health, function, or former condition.",
+          "examples": ["The patient was rehabilitated after months of therapy.", "The neglected house was rehabilitated and sold."],
+          "collocations": ["rehabilitated patient", "rehabilitated house"],
+          "synonyms": ["restored", "recovered"],
+          "antonyms": ["damaged", "deteriorated"],
+          "register": "neutral",
+          "domain": ["healthcare", "general", "architecture"]
+        }
+      ]
+    },
+    {
+      "term": "rehabilitates",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of rehabilitate; restores to health or good condition.",
+          "examples": ["The program rehabilitates drug users.", "The city rehabilitates abandoned buildings."],
+          "collocations": ["rehabilitates patients", "rehabilitates facilities"],
+          "synonyms": ["restores", "rebuilt"],
+          "antonyms": ["damages", "breaks down"],
+          "register": "neutral",
+          "domain": ["healthcare", "urban planning"]
+        }
+      ]
+    },
+    {
+      "term": "rehabilitating",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of rehabilitate; in the process of restoring health or condition.",
+          "examples": ["They are rehabilitating the riverbanks.", "She is rehabilitating after surgery."],
+          "collocations": ["rehabilitating patients", "rehabilitating a facility"],
+          "synonyms": ["restoring", "reviving"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "environment", "general"]
+        }
+      ]
+    },
+    {
+      "term": "rehabilitation",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of helping someone recover health or regain skills; a program or service for recovery.",
+          "examples": ["Physical rehabilitation helped his mobility.", "Drug rehabilitation programs are available locally."],
+          "collocations": ["physical rehabilitation", "rehabilitation program", "occupational rehabilitation"],
+          "synonyms": ["recovery", "restoration", "therapy"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "education", "general"]
+        }
+      ]
+    },
+    {
+      "term": "rehabilitationist",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a professional who specializes in rehabilitation, often in clinical or research settings.",
+          "examples": ["The rehabilitationist designed a new therapy protocol."],
+          "collocations": ["rehabilitationist consultant", "rehabilitationist team"],
+          "synonyms": ["rehabilitation therapist", "therapist"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["healthcare", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "rehabilitations",
+      "kind": "word",
+      "cefrLevel": "C2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of rehabilitation; multiple programs, facilities, or processes for rehabilitation.",
+          "examples": ["Several rehabilitationations exist in the region."],
+          "collocations": ["various rehabilitationations", "rehabilitations programs"],
+          "synonyms": ["programs of rehabilitation"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["healthcare", "policy"]
+        }
+      ]
+    },
+    {
+      "term": "rehabilitative",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to rehabilitation or helping someone recover health or abilities.",
+          "examples": ["They offered rehabilitative services.", "Rehabilitative exercises are prescribed daily."],
+          "collocations": ["rehabilitative care", "rehabilitative exercises"],
+          "synonyms": ["therapeutic", "restorative"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare", "general"]
+        }
+      ]
+    },
+    {
+      "term": "rehabitator",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "not a standard term in common usage; could be a misspelling of 'rehabilitator' or 'rehabitator' without established meaning.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "rehabitators",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "not a standard term; likely plural form of a nonstandard word; no established meaning.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "rehabilitee",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who is to be or is being rehabilitated; rarely used in modern English.",
+          "examples": ["The rehabilitee attended multiple therapy sessions."],
+          "collocations": ["rehabilitee program"],
+          "synonyms": ["rehabilitant", "patient"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "rehabs",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "informal plural for rehab; places or programs for rehabilitation.",
+          "examples": ["He visited several rehabs to find the right program."],
+          "collocations": ["drug rehabs", "rehab centers"],
+          "synonyms": ["rehabilitation centers", "recovery programs"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["healthcare", "general"]
+        }
+      ]
+    },
+    {
+      "term": "rehair",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to replace or restore hair; commonly used in hair styling or wig-making contexts.",
+          "examples": ["The stylist decided to rehair the wig."],
+          "collocations": ["rehair the wig", "rehairing process"],
+          "synonyms": ["replace hair", "re-hair"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["fashion", "cosmetics"]
+        }
+      ]
+    },
+    {
+      "term": "rehale",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "not a standard modern English term; possibly a misspelling of 'repeal' or 'regale'; no established meaning.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "rehallow",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to permit or declare again as holy; archaic or rare usage.",
+          "examples": ["They sought to rehallow the sacred site."],
+          "collocations": ["rehallow the site"],
+          "synonyms": ["rededicate", "hallow again"],
+          "antonyms": [],
+          "register": "archaic",
+          "domain": ["religion", "history"]
+        }
+      ]
+    },
+    {
+      "term": "rehammer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to hammer again; repeat the action of hammering.",
+          "examples": ["They had to rehammer the metal to fit."],
+          "collocations": ["rehammer the nail", "rehammer process"],
+          "synonyms": ["hammer again", "rehammer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["manufacturing", "crafts"]
+        }
+      ]
+    },
+    {
+      "term": "rehammered",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of rehammer; hammered again.",
+          "examples": ["The piece was rehammered to remove imperfections."],
+          "collocations": ["rehammered metal"],
+          "synonyms": ["hammered again"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["manufacturing"]
+        }
+      ]
+    }
+  ]
+}

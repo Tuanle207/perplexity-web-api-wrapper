@@ -1,0 +1,540 @@
+{
+  "items": [
+    {
+      "term": "receiptor",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or thing that receives something, especially a signal or message",
+          "examples": [
+            "The receiver acted as a receiptor for the radio signal.",
+            "In biology, a receiptor detects chemical signals."
+          ],
+          "collocations": ["receiving end", "sensory receiptor", "receptor receiptor"],
+          "synonyms": ["receiver", "receptor"],
+          "antonyms": ["sender", "emitter"],
+          "register": "formal",
+          "domain": ["general", "technology", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "receiptors",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural form of receiptor; generally refers to multiple receivers",
+          "examples": [
+            "The sensors included several receiptors to capture signals."
+          ],
+          "collocations": ["multiple receiptors", "array of receiptors"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "technology"]
+        }
+      ]
+    },
+    {
+      "term": "receipts",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a written or electronic record acknowledging that something has been paid for or received",
+          "examples": [
+            "Keep the receipt in case you need to return the item.",
+            "I asked for a receipt for my travel expenses."
+          ],
+          "collocations": ["payment receipt", "cash receipt", "sales receipt"],
+          "synonyms": ["proof of purchase", "voucher"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "business"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the act of receiving something; the state of having received",
+          "examples": [
+            "The receipt of the grant was announced yesterday."
+          ],
+          "collocations": ["receipt of funds", "on receipt of"],
+          "synonyms": ["acceptance", "acquisition"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general", "business"]
+        }
+      ]
+    },
+    {
+      "term": "receivabilities",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being receivable; the ease with which something can be received or collected as payment or value",
+          "examples": [
+            "The receivabilities of the debts were assessed before approval."
+          ],
+          "collocations": ["high receivability", "credit receivability"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "receivability",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the property of being able to be received or collected; readiness to be acquired",
+          "examples": [
+            "The receivability of donations improved after the campaign."
+          ],
+          "collocations": ["grant receivability", "receivability status"],
+          "synonyms": ["feasibility", "collectibility"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "receivable",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "an amount of money that is owed to a company or person and should be paid in the future",
+          "examples": [
+            "Accounts receivable are money owed by customers.",
+            "The company wrote off bad receivables."
+          ],
+          "collocations": ["accounts receivable", "net receivable", "uncollected receivable"],
+          "synonyms": ["debt", "amount due"],
+          "antonyms": ["payable", "obligation paid"],
+          "register": "neutral",
+          "domain": ["business", "finance"]
+        },
+        {
+          "pos": "adjective",
+          "definition": "able to be received; capable of being accepted or collected",
+          "examples": [
+            "The term is receivable after verification.",
+            "Not all claims are immediately receivable."
+          ],
+          "collocations": ["receivable asset", "receivable value"],
+          "synonyms": ["collectible"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "receivableness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being receivable; how easily something can be received or collected",
+          "examples": [
+            "The receivableness of the outstanding invoices influenced the loan terms."
+          ],
+          "collocations": ["high receivableness", "low receivableness"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "receivables",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "amounts of money owed to a company that are expected to be paid in the future",
+          "examples": [
+            "The balance of receivables rose this quarter."
+          ],
+          "collocations": ["accounts receivable", "current receivables"],
+          "synonyms": ["debts owed", "outstanding invoices"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "receivablness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "alternative spelling of receivableness; the state of being receivable",
+          "examples": [
+            "The term receivablness is rarely used in modern texts."
+          ],
+          "collocations": ["receivablness assessment"],
+          "synonyms": ["receivableness"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["linguistics", "finance"]
+        }
+      ]
+    },
+    {
+      "term": "receival",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of receiving something; the process of receiving",
+          "examples": [
+            "The receival of the package occurred yesterday."
+          ],
+          "collocations": ["upon receival", "receival date"],
+          "synonyms": ["reception", "receiving"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "receivals",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of receival; multiple instances of receiving",
+          "examples": [
+            "The project tracked several receivals over the week."
+          ],
+          "collocations": ["weekly receivals"],
+          "synonyms": ["receptions"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "receive",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to get something that is given or sent to you",
+          "examples": [
+            "Please receive these gifts with gratitude.",
+            "The city will receive the delegation tomorrow.",
+            "He received the mail this morning."
+          ],
+          "collocations": ["receive a message", "receive a gift", "receive the call"],
+          "synonyms": ["get", "obtain", "acquire"],
+          "antonyms": ["give", "send"],
+          "register": "neutral",
+          "domain": ["general", "communication", "business"]
+        },
+        {
+          "pos": "verb",
+          "definition": "to be given or offered something",
+          "examples": [
+            "She received an award for her work.",
+            "The proposal was received with enthusiasm."
+          ],
+          "collocations": ["receiving praise", "receiving grant"],
+          "synonyms": ["accept", "obtain"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "arts", "science"]
+        }
+      ]
+    },
+    {
+      "term": "received",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "generally believed or accepted; widely acknowledged",
+          "examples": [
+            "A received opinion among experts.",
+            "The received version of the story."
+          ],
+          "collocations": ["received wisdom", "received opinion"],
+          "synonyms": ["accepted", "widely held"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        },
+        {
+          "pos": "verb",
+          "definition": "past tense of receive",
+          "examples": [
+            "She received the letter yesterday."
+          ],
+          "collocations": ["received notification"],
+          "synonyms": ["got", "acquired"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "receivedness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being received or accepted; state of acceptance",
+          "examples": [
+            "The receivedness of the idea varied by audience."
+          ],
+          "collocations": ["level of receivedness"],
+          "synonyms": ["acceptance", "endorsement"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "receiver",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or device that receives signals or messages",
+          "examples": [
+            "The TV receiver was upgraded.",
+            "The radio receiver detected the signal."
+          ],
+          "collocations": ["wireless receiver", "signal receiver"],
+          "synonyms": ["recipient", "tap", "antenna"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "receivers",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of receiver; devices or people that receive",
+          "examples": [
+            "The receivers were placed in the auditorium.",
+            "Many receivers are built into modern smartphones."
+          ],
+          "collocations": ["color receivers", "set of receivers"],
+          "synonyms": ["recipients", "devices"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "receivership",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a situation where a company or property is placed under the control of a receiver, usually by court order, often because of financial trouble",
+          "examples": [
+            "The company was placed into receivership after the collapse.",
+            "During receivership, operations continued under supervision."
+          ],
+          "collocations": ["enter receivership", "court-appointed receiver"],
+          "synonyms": ["bankruptcy administration", "court-supervised administration"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "legal"]
+        }
+      ]
+    },
+    {
+      "term": "receiverships",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of receivership; multiple instances of this legal/financial arrangement",
+          "examples": [
+            "Several companies faced receiverships during the downturn."
+          ],
+          "collocations": ["multiple receiverships"],
+          "synonyms": ["bankruptcies", "administrations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["business", "law"]
+        }
+      ]
+    },
+    {
+      "term": "receives",
+      "kind": "word",
+      "cefrLevel": "A1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of receive; to get or be given something",
+          "examples": [
+            "She receives packages every day.",
+            "He receives emails from around the world."
+          ],
+          "collocations": ["receives gifts", "receives payment"],
+          "synonyms": ["gets", "acquires"],
+          "antonyms": ["gives", "sends"],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "receiving",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of receive; actively getting or accepting something",
+          "examples": [
+            "She is receiving visitors today.",
+            "They are receiving feedback from the team."
+          ],
+          "collocations": ["receiving feedback", "receiving guests"],
+          "synonyms": ["accepting", "getting"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "receivings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of receiving; acts of receiving",
+          "examples": [
+            "The warehouse tracks daily receivings."
+          ],
+          "collocations": ["daily receivings"],
+          "synonyms": ["receipts", "deliveries"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["logistics", "general"]
+        }
+      ]
+    },
+    {
+      "term": "recelebrate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to celebrate again or anew; to celebrate in a repeated way",
+          "examples": [
+            "They chose to recelebrate the milestone with a grand party."
+          ],
+          "collocations": ["recelebrate the occasion"],
+          "synonyms": ["rejoice again", "renew celebration"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "recelebrated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of recelebrate; celebrated again",
+          "examples": [
+            "They recelebrated the anniversary last year."
+          ],
+          "collocations": ["recelebrated the event"],
+          "synonyms": ["rejoiced again"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "recelebrates",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of recelebrate; celebrates again",
+          "examples": [
+            "The team recelebrates the victory each season."
+          ],
+          "collocations": ["recelebrates milestones"],
+          "synonyms": ["rejoices again"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "recelebrating",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of recelebrate; celebrating again",
+          "examples": [
+            "They are recelebrating the festival this year."
+          ],
+          "collocations": ["recelebrating the festival"],
+          "synonyms": ["rejoicing again"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["general"]
+        }
+      ]
+    }
+  ]
+}
