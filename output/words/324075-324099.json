@@ -1,0 +1,504 @@
+{
+  "items": [
+    {
+      "term": "reconstituent",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a part of something that has been reconstituted or restored to its original form",
+          "examples": [
+            "The reconstituent was added to the sample to restore its composition.",
+            "In the lab, the reconstituent helped bring the powder back to a usable solution."
+          ],
+          "collocations": ["chemical reconstituent", "reconstituent solution", "reconstituent powder"],
+          "synonyms": ["restorer", "rebuilder"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reconstitutents",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reconstituent; components that have been restored or brought back to a previous state",
+          "examples": [
+            "The reconstitutents are mixed to form the final compound.",
+            "Researchers analyzed the reconstitutents before proceeding."
+          ],
+          "collocations": ["reconstitutents mixture", "analyze reconstitutents"],
+          "synonyms": ["restorers", "rebuilders"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reconstitutable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "able to be reconstituted or restored to a previous form or state",
+          "examples": [
+            "The dried powder is reconstitutable with water.",
+            "Only certain compounds are reconstitutable in this process."
+          ],
+          "collocations": ["reconstitutable powder", "reconstitutable solution"],
+          "synonyms": ["restorable", "revivible"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reconstitute",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to restore something to its former condition or composition, often by adding water or other substance",
+          "examples": [
+            "We reconstitute the dried soup with hot water.",
+            "The archivists reconstituted the old manuscript from fragments."
+          ],
+          "collocations": ["reconstitute the powder", "reconstitute the solution", "reconstitute a sample"],
+          "synonyms": ["restore", "rehydrate", "revive"],
+          "antonyms": ["destroy", "decompose"],
+          "register": "neutral",
+          "domain": ["food", "science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reconstituted",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "restored to its original form or composition",
+          "examples": [
+            "The reconstituted soup was ready to serve.",
+            "After drying, the reconstituted powder dissolved easily."
+          ],
+          "collocations": ["reconstituted mixture", "reconstituted material"],
+          "synonyms": ["restored", "rehydrated"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["food", "science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reconstitutes",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "he/she/it restores something to its former condition or makes it usable again",
+          "examples": [
+            "The agent reconstitutes the powdered drink with water.",
+            "Researchers reconstitutes the data from archived records." 
+          ],
+          "collocations": ["reconstitutes the powder", "reconstitutes the sample"],
+          "synonyms": ["restores", "rehydrates"],
+          "antonyms": ["destroys", "degrades"],
+          "register": "neutral",
+          "domain": ["food", "science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reconstituting",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the process of restoring something to its former state",
+          "examples": [
+            "The team is reconstituting the powder for examination.",
+            "Reconstituting the culture requires careful handling."
+          ],
+          "collocations": ["reconstituting powder", "reconstituting cells"],
+          "synonyms": ["rehydrating", "restoring"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reconstitution",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of restoring something to its former state; the process of reconstituting",
+          "examples": [
+            "The reconstitution of the sample took several hours.",
+            "Reconstitution is required before the enzyme can be measured."
+          ],
+          "collocations": ["process of reconstitution", "reconstitution experiment"],
+          "synonyms": ["restoration", "rehydration"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reconstitutions",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reconstitution; instances or processes of restoring something",
+          "examples": [
+            "The lab documented several reconstitutions of the compound.",
+            "Historical reconstitutions help explain the original practices."
+          ],
+          "collocations": ["multiple reconstitutions", "historical reconstitutions"],
+          "synonyms": ["restorations", "rehydrations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "history"]
+        }
+      ]
+    },
+    {
+      "term": "reconstruct",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to build or assemble again something that was broken or destroyed",
+          "examples": [
+            "The archaeologists tried to reconstruct the ancient city from ruins.",
+            "We can reconstruct the car from the pieces we found."
+          ],
+          "collocations": ["reconstruct the city", "reconstruct the model", "reconstruct from fragments"],
+          "synonyms": ["rebuild", "restore"],
+          "antonyms": ["destroy", "dismantle"],
+          "register": "neutral",
+          "domain": ["history", "engineering", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reconstructed",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "built again after being destroyed or damaged",
+          "examples": [
+            "The reconstructed bridge opened last week.",
+            "A reconstructed portrait hangs in the museum."
+          ],
+          "collocations": ["reconstructed bridge", "reconstructed model"],
+          "synonyms": ["rebuilt", "restored"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["engineering", "history"]
+        }
+      ]
+    },
+    {
+      "term": "reconstructible",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being reconstructed",
+          "examples": [
+            "The data were found to be reconstructible from partial records.",
+            "Not all fragments are reconstructible."
+          ],
+          "collocations": ["reconstructible data", "reconstructible fragments"],
+          "synonyms": ["restorable", "rebuildable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reconstructing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the process of rebuilding or restoring something that was damaged",
+          "examples": [
+            "They are reconstructing the city after the earthquake.",
+            "The researchers are reconstructing the evolutionary history."
+          ],
+          "collocations": ["reconstructing the city", "reconstructing evidence"],
+          "synonyms": ["rebuilding", "restoring"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["urban planning", "science", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reconstruction",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of reconstructing; the process of rebuilding or restoring",
+          "examples": [
+            "Post-war reconstruction took many years.",
+            "The reconstruction of the data required careful verification."
+          ],
+          "collocations": ["economic reconstruction", "reconstruction project"],
+          "synonyms": ["restoration", "rebuilding"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["history", "engineering", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reconstructional",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to reconstruction or the process of reconstructing",
+          "examples": [
+            "The reconstructional analysis helped guide the project.",
+            "They discussed reconstructional methods in the meeting."
+          ],
+          "collocations": ["reconstructional analysis", "reconstructional methods"],
+          "synonyms": ["reconstructive", "restorative"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "engineering", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reconstructionary",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "relating to reconstruction or the theory of reconstructing",
+          "examples": [
+            "The reconstructionary theory influenced archaeological methods.",
+            "They studied reconstructionary approaches to history."
+          ],
+          "collocations": ["reconstructionary theory", "reconstructionary methods"],
+          "synonyms": ["reconstructive", "restorative"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "science"]
+        }
+      ]
+    },
+    {
+      "term": "reconstructionism",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a theory or movement emphasizing reconstruction or revival of a culture, language, or system",
+          "examples": [
+            "Reconstructionism argues for revived traditional practices.",
+            "Cultural reconstructionism influenced the curriculum."
+          ],
+          "collocations": ["cultural reconstructionism", "reconstructionism in philosophy"],
+          "synonyms": ["revivalism", "restorationism"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["culture", "philosophy", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reconstructionisms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reconstructionism; movements or theories of reconstruction",
+          "examples": [
+            "Various reconstructionisms emerged in the late century.",
+            "Scholars compared different reconstructionisms."
+          ],
+          "collocations": ["different reconstructionisms"],
+          "synonyms": ["revivalisms", "restorations"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["culture", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "reconstructionist",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who advocates or studies reconstructionism",
+          "examples": [
+            "The reconstructionist argued for linguistic revival.",
+            "Several reconstructionists participated in the symposium."
+          ],
+          "collocations": ["religious reconstructionist", "linguistic reconstructionist"],
+          "synonyms": ["revivalist", "restorer"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["culture", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "reconstructionists",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reconstructionist; people who advocate reconstructionism",
+          "examples": [
+            "The group included several reconstructionists.",
+            "Reconstructionists debated methodologies."
+          ],
+          "collocations": ["group of reconstructionists"],
+          "synonyms": ["revivalists"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["culture", "philosophy"]
+        }
+      ]
+    },
+    {
+      "term": "reconstructions",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or result of reconstructing; restored versions or explanations",
+          "examples": [
+            "Several reconstructions of the event exist.",
+            "The reconstructions helped historians visualize the scene."
+          ],
+          "collocations": ["historical reconstructions", "scientific reconstructions"],
+          "synonyms": ["restorations", "reenactments"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["history", "science"]
+        }
+      ]
+    },
+    {
+      "term": "reconstructive",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "serving to reconstruct or restore; intended to repair damage",
+          "examples": [
+            "Reconstructive surgery aims to restore function and appearance.",
+            "They studied reconstructive techniques in medicine."
+          ],
+          "collocations": ["reconstructive surgery", "reconstructive analysis"],
+          "synonyms": ["restorative", "restorative"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reconstructively",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "in a way that reconstructs or restores",
+          "examples": [
+            "The team worked reconstructively to rebuild the dataset.",
+            "Procedures were applied reconstructively to improve accuracy."
+          ],
+          "collocations": ["act reconstructively"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "reconstructiveness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being reconstructive; the ability to restore or rebuild",
+          "examples": [
+            "The reconstructiveness of the method impressed the panel.",
+            "A high level of reconstructiveness is desired in the protocol."
+          ],
+          "collocations": ["degree of reconstructiveness"],
+          "synonyms": ["restorative quality"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["science", "medicine"]
+        }
+      ]
+    },
+    {
+      "term": "reconstructor",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person or device that reconstructs; someone who rebuilds or restores",
+          "examples": [
+            "The reconstructor pieced the model together.",
+            "A surgical reconstructor assisted during the operation."
+          ],
+          "collocations": ["automatic reconstructor", "medical reconstructor"],
+          "synonyms": ["restorer", "builder"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["engineering", "medicine"]
+        }
+      ]
+    }
+  ]
+}

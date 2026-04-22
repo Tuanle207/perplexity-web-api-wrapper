@@ -1,0 +1,429 @@
+{
+  "items": [
+    {
+      "term": "recompresses",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to compress again or anew after previous compression has occurred",
+          "examples": ["The dataset is large, so we recompresses it to save space."],
+          "collocations": ["recompresses data", "recompresses files", "recompresses archives"],
+          "synonyms": ["repack", "compress again", "re-compact"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "general"]
+        }
+        ]
+    },
+    {
+      "term": "recompressing",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of compressing again; in the process of applying compression once more",
+          "examples": ["Recompressing the backup archive reduces its size before transfer."],
+          "collocations": ["recompressing data", "recompressing the archive", "recompressing files"],
+          "synonyms": ["repacking", "re-archiving"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "general"]
+        }
+        ]
+    },
+    {
+      "term": "recompression",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act or process of compressing again",
+          "examples": ["Recompression of the log files helps reduce storage needs."],
+          "collocations": ["data recompression", "lossless recompression", "compression and recompression"],
+          "synonyms": ["re-archiving", "recompression process"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "general"]
+        }
+        ]
+    },
+    {
+      "term": "recompressions",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of recompression; multiple instances of recompression",
+          "examples": ["Several recompressions were tested to optimize file size."],
+          "collocations": ["data recompressions", "several recompressions"],
+          "synonyms": ["recompression events"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "general"]
+        }
+        ]
+    },
+    {
+      "term": "recomputation",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of computing again or anew",
+          "examples": ["The model required recomputation after updating parameters."],
+          "collocations": ["recomputation", "data recomputation", "recompute calculations"],
+          "synonyms": ["recalculation", "reanalysis"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "science", "general"]
+        }
+        ]
+    },
+    {
+      "term": "recomputations",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of recomputation; multiple recalculations",
+          "examples": ["The results depended on several recomputations performed independently."],
+          "collocations": ["data recomputations", "multiple recomputations"],
+          "synonyms": ["recalculations"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "science"]
+        }
+        ]
+    },
+    {
+      "term": "recompute",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to compute again; to perform a new calculation",
+          "examples": ["If the input changes, recompute the results."],
+          "collocations": ["recompute the values", "recompute results", "recompute the estimates"],
+          "synonyms": ["recalculate", "recalculate"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "math", "general"]
+        }
+        ]
+    },
+    {
+      "term": "recomputed",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of recompute; calculated again",
+          "examples": ["The model was recomputed after incorporating new data."],
+          "collocations": ["recomputed values", "recomputed figures", "recomputed results"],
+          "synonyms": ["recalculated", "reprocessed"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "science"]
+        }
+        ]
+    },
+    {
+      "term": "recomputes",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "computes again; performs new calculations",
+          "examples": ["The program recomputes the totals automatically."],
+          "collocations": ["recomputes totals", "recomputes results", "recomputes values"],
+          "synonyms": ["recalculates"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "computer science"]
+        }
+        ]
+    },
+    {
+      "term": "recomputing",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the act of computing again",
+          "examples": ["Recomputing the totals takes a moment."],
+          "collocations": ["recomputing totals", "recomputing results"],
+          "synonyms": ["recalculating"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["technology", "general"]
+        }
+        ]
+    },
+    {
+      "term": "recon",
+      "kind": "abbreviation",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "slang for reconnaissance; a scouting or spying mission",
+          "examples": ["The squad sent a recon before the assault."],
+          "collocations": ["recon mission", "recon team", "recon data"],
+          "synonyms": ["reconnaissance", "scout"],
+          "antonyms": [],
+          "register": "informal",
+          "domain": ["military", "general"]
+        }
+        ]
+    },
+    {
+      "term": "reconceal",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to conceal again; to hide something anew",
+          "examples": ["They tried to reconceal the evidence."],
+          "collocations": ["reconceal evidence", "reconceal assets"],
+          "synonyms": ["hide again", "conceal anew"],
+          "antonyms": ["reveal", "expose"],
+          "register": "neutral",
+          "domain": ["law", "general"]
+        }
+        ]
+    },
+    {
+      "term": "reconcealment",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of concealing again; a new concealment",
+          "examples": ["The concealment was later detected during a search."],
+          "collocations": ["reconcealment of items"],
+          "synonyms": ["reconcealment process"],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["law", "general"]
+        }
+        ]
+    },
+    {
+      "term": "reconcede",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to concede again; to grant or admit once more",
+          "examples": ["They refused to reconcede the point after the ruling."],
+          "collocations": ["reconcede points", "reconcede ground"],
+          "synonyms": ["concede again", "grant again"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["law", "politics", "general"]
+        }
+        ]
+    },
+    {
+      "term": "reconceive",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to form a new concept or plan; to rethink",
+          "examples": ["We must reconceive our strategy for the new market."],
+          "collocations": ["reconceive strategy", "reconceive plan", "reconceive idea"],
+          "synonyms": ["rethink", "reimagine"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "planning", "general"]
+        }
+        ]
+    },
+    {
+      "term": "reconceived",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of reconceive; thought anew",
+          "examples": ["The project was reconceived after stakeholder feedback."],
+          "collocations": ["reconceived design", "reconceived plan"],
+          "synonyms": ["rethought", "redesigned"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "design"]
+        }
+        ]
+    },
+    {
+      "term": "reconceives",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of reconceive; forms a new concept or plan",
+          "examples": ["She reconceives the project as a collaboration."],
+          "collocations": ["reconceives strategy", "reconceives idea"],
+          "synonyms": ["rethink s", "reimagine"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "creative"]
+        }
+        ]
+    },
+    {
+      "term": "reconceiving",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of reconceive; in the process of thinking anew",
+          "examples": ["They are reconceiving the project to fit new goals."],
+          "collocations": ["reconceiving strategy", "reconceiving plan"],
+          "synonyms": ["rethinking", "reimagining"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "creative"]
+        }
+        ]
+    },
+    {
+      "term": "reconcentrado",
+      "kind": "proper_noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "likely a proper noun term; possibly a name or brand; insufficient common usage in English",
+          "examples": ["Refer to reconcentrado in regional contexts."],
+          "collocations": ["reconcentrado term usage"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["general"]
+        }
+        ]
+    },
+    {
+      "term": "reconcentrate",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to concentrate again or intensify focus or resources",
+          "examples": ["We need to reconcentrate our efforts on core activities."],
+          "collocations": ["reconcentrate resources", "reconcentrate efforts"],
+          "synonyms": ["refocus", "reallocate focus"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "management"]
+        }
+        ]
+    },
+    {
+      "term": "reconcentrated",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past participle of reconcentrate; focused again",
+          "examples": ["Resources were reconcentrated to the most critical areas."],
+          "collocations": ["reconcentrated resources"],
+          "synonyms": ["refocused"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business"]
+        }
+        ]
+    },
+    {
+      "term": "reconcentrates",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third person singular of reconcentrate; concentrates again",
+          "examples": ["The team reconcentrates its efforts on high-priority tasks."],
+          "collocations": ["reconcentrates efforts", "reconcentrates resources"],
+          "synonyms": ["refocuses"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business"]
+        }
+        ]
+    },
+    {
+      "term": "reconcentrating",
+      "kind": "verb",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of reconcentrate; concentrating again",
+          "examples": ["They are reconcentrating their investments."],
+          "collocations": ["reconcentrating resources", "reconcentrating effort"],
+          "synonyms": ["refocusing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "finance"]
+        }
+        ]
+    },
+    {
+      "term": "reconcentration",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of concentrating again; a renewed concentration",
+          "examples": ["The reconcentration of resources followed a strategic review."],
+          "collocations": ["resource reconcentration", "economic reconcentration"],
+          "synonyms": ["reconcentrating", "refocusing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "economics"]
+        }
+        ]
+    },
+    {
+      "term": "reconcentrations",
+      "kind": "noun",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reconcentration; multiple renewed concentrations",
+          "examples": ["Several reconcentrations of funds occurred over the quarter."],
+          "collocations": ["economic reconcentrations"],
+          "synonyms": ["reconcentrations"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["business", "economics"]
+        }
+        ]
+    }
+  ]
+}

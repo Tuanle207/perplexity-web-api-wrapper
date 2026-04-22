@@ -1,0 +1,505 @@
+{
+  "items": [
+    {
+      "term": "refill",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to fill something again or anew, especially by removing an empty container and putting in more of a substance",
+          "examples": [
+            "Please refill my glass with water.",
+            "She refilled the printer with ink."
+          ],
+          "collocations": ["refill the bottle", "refill a prescription", "refill with water"],
+          "synonyms": ["top up", "replenish", "recharge"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "the act of filling something again; a new supply of something put into a container",
+          "examples": [
+            "I bought a coffee refill at the cafe.",
+            "Keep the refill for later use."
+          ],
+          "collocations": ["coffee refill", "water refill", "refill bottle"],
+          "synonyms": ["top-up", "replenishment"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "refillable",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "describing a container or item that can be filled again after being emptied",
+          "examples": [
+            "This bottle is refillable and eco-friendly.",
+            "Choose refillable pens to reduce waste."
+          ],
+          "collocations": ["refillable bottle", "refillable cartridge", "refillable container"],
+          "synonyms": ["reusable", "refillable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "general", "environment"]
+        }
+      ]
+    },
+    {
+      "term": "refilled",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "filled again after being emptied",
+          "examples": [
+            "The glass was refilled when it ran dry.",
+            "I refilled my water bottle before the hike."
+          ],
+          "collocations": ["refilled glass", "refilled bottle", "refilled cartridge"],
+          "synonyms": ["replenished", "top up"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "refilling",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the process of filling something again",
+          "examples": [
+            "Refilling the gas tank takes a few minutes.",
+            "She kept refilling her cup as the party continued."
+          ],
+          "collocations": ["refilling the tank", "refilling shelves", "refilling a prescription"],
+          "synonyms": ["replenishing", "toping up"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "refills",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "additional amounts of a drink or medication poured or provided after the initial portion is used",
+          "examples": [
+            "I asked for two refills of coffee.",
+            "The doctor prescribed refills on the prescription."
+          ],
+          "collocations": ["coffee refills", "prescription refills", "refill policy"],
+          "synonyms": ["replacements", "top-ups"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "healthcare"]
+        }
+      ]
+    },
+    {
+      "term": "refilm",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to shoot again a film or movie",
+          "examples": [
+            "The studio decided to refilm scenes for better lighting.",
+            "They will refilm the finale next month."
+          ],
+          "collocations": ["refilm scenes", "refilm a movie"],
+          "synonyms": ["reshoot", "re-film"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["film", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "refilmed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "listed as past tense of refilm; shot again",
+          "examples": [
+            "The director refilmed key scenes yesterday."
+          ],
+          "collocations": ["refilmed scenes"],
+          "synonyms": ["reshot", "re-shot"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["film", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "refilming",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of filming again; a new filming session",
+          "examples": [
+            "The refilming is scheduled for next week."
+          ],
+          "collocations": ["refilming schedule"],
+          "synonyms": ["reshooting"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["film", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "refilms",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "films that are shot again or new versions of films",
+          "examples": [
+            "The studio released several refilms this year."
+          ],
+          "collocations": ["refilms release"],
+          "synonyms": ["reshoots", "re-films"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["film", "entertainment"]
+        }
+      ]
+    },
+    {
+      "term": "refilter",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to filter again to remove more impurities",
+          "examples": [
+            "If the water is cloudy, you can refilter it once more.",
+            "We need to refilter the oil to remove particles."
+          ],
+          "collocations": ["refilter water", "refilter oil"],
+          "synonyms": ["re-filter"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "refiltered",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "filtered again to remove more impurities",
+          "examples": [
+            "The liquid was refiltered to ensure clarity."
+          ],
+          "collocations": ["refiltered liquid"],
+          "synonyms": ["re-filtered"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["everyday", "general"]
+        }
+      ]
+    },
+    {
+      "term": "refiltering",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of filtering again",
+          "examples": [
+            "Refiltering helped remove tiny particles."
+          ],
+          "collocations": ["refiltering process"],
+          "synonyms": ["re-filtering"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "everyday"]
+        }
+      ]
+    },
+    {
+      "term": "refilters",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "additional filters or filtration steps",
+          "examples": [
+            "The device uses several refilters to purify the water."
+          ],
+          "collocations": ["additional refilters", "pre- and post-refilters"],
+          "synonyms": ["filters"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "refinable",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being refined or improved",
+          "examples": [
+            "The algorithm is refinable as new data arrives.",
+            "This strategy is refinable to better match user needs."
+          ],
+          "collocations": ["refinable data", "refinable approach"],
+          "synonyms": ["improvable", "enhanceable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "refinage",
+      "kind": "word",
+      "cefrLevel": "C1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of refining or smelting metals; a refining or smelting operation",
+          "examples": [
+            "The refinery process includes a refinage stage.",
+            "Refinage techniques improved the purity."
+          ],
+          "collocations": ["refinage of metals", "refinage process"],
+          "synonyms": ["refining", "smelting"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["chemistry", "industrial"]
+        }
+      ]
+    },
+    {
+      "term": "refinance",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to replace an existing loan with a new loan, usually to change terms",
+          "examples": [
+            "They plan to refinance their mortgage to get a lower rate.",
+            "The company refinances its debt every few years."
+          ],
+          "collocations": ["refinance mortgage", "refinance loan", "refinance debt"],
+          "synonyms": ["restructure debt", "re-finance"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["finance", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "refinanced",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "changed the terms of a loan by obtaining a new loan",
+          "examples": [
+            "They refinanced their mortgage last year."
+          ],
+          "collocations": ["refinanced loan", "refinanced mortgage"],
+          "synonyms": ["re-financed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["finance"]
+        }
+      ]
+    },
+    {
+      "term": "refinances",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of refinancing or the new loans obtained",
+          "examples": [
+            "The refinances helped lower monthly payments."
+          ],
+          "collocations": ["home refinances", "student loan refinances"],
+          "synonyms": ["re-finances"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["finance", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "refinancing",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of obtaining a new loan with better terms",
+          "examples": [
+            " refinancing can reduce monthly payments."
+          ],
+          "collocations": ["mortgage refinancing", "auto refinancing"],
+          "synonyms": ["re-financing"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["finance", "economy"]
+        }
+      ]
+    },
+    {
+      "term": "refinancings",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of refinancing actions or loans",
+          "examples": [
+            "Various refinancings were approved this quarter."
+          ],
+          "collocations": ["multiple refinancings"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["finance"]
+        }
+      ]
+    },
+    {
+      "term": "refind",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to find again; discover once more",
+          "examples": [
+            "They refind the lost data after backup.",
+            "She refinds her love for painting."
+          ],
+          "collocations": ["refind the clue", "refind motivation"],
+          "synonyms": ["rediscover", "refind"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "refinding",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of finding again",
+          "examples": [
+            "Refinding the document took longer than expected."
+          ],
+          "collocations": ["refinding process"],
+          "synonyms": ["rediscovery"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "refinds",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular of refind; finds again",
+          "examples": [
+            "He refinds the solution after testing different approaches."
+          ],
+          "collocations": ["refinds the solution"],
+          "synonyms": ["rediscover"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "refine",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to improve something by making small changes or removing unwanted parts",
+          "examples": [
+            "We need to refine our recipe before the banquet.",
+            "The artist refined the sketch into a finished drawing."
+          ],
+          "collocations": ["refine a plan", "refine the data", "refine skills"],
+          "synonyms": ["improve", "polish", "perfect"],
+          "antonyms": ["coarsen", "degrade"],
+          "register": "neutral",
+          "domain": ["education", "general", "creative"]
+        }
+      ]
+    },
+    {
+      "term": "refined",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "improved through careful processing or training; polished",
+          "examples": [
+            "A refined taste in music.",
+            "Refined sugar is sweeter but less healthy."
+          ],
+          "collocations": ["refined taste", "refined sugar", "refined grain"],
+          "synonyms": ["polished", "cultivated", "elegant"],
+          "antonyms": ["crude", "coarse"],
+          "register": "neutral",
+          "domain": ["general", "food", "arts"]
+        }
+      ]
+    }
+  ]
+}

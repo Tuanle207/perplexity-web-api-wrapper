@@ -1,0 +1,493 @@
+{
+  "items": [
+    {
+      "term": "recurrently",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a way that happens repeatedly or at regular intervals.",
+          "examples": [
+            "The pattern of symptoms recurs recurrently in the patient.",
+            "The event is expected to occur recurrently over the year."
+          ],
+          "collocations": ["fundamentally recurrently", "appear recurrently", "occur recurrently"],
+          "synonyms": ["repeatedly", "cyclically", "periodically"],
+          "antonyms": ["occasionally", "infrequently"],
+          "register": "neutral",
+          "domain": ["general", "medicine", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "recurrer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person or thing that recurs; something that happens again.",
+          "examples": [
+            "The recurrer of the problem needs a permanent solution.",
+            "In the analysis, the recurrer events are highlighted."
+          ],
+          "collocations": ["chief recurrer", "frequent recurrer", "recurrer of themes"],
+          "synonyms": ["repeater", "reoccurrence source"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "recurring",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Happening again and again; repeated at intervals.",
+          "examples": [
+            "He has a recurring dream about falling.",
+            "The recurring charges appear on your bill every month."
+          ],
+          "collocations": ["recurring theme", "recurring problem", "recurring cost"],
+          "synonyms": ["repeated", "persistent", "cyclic"],
+          "antonyms": ["one-off", "unrelated"],
+          "register": "neutral",
+          "domain": ["general", "education", "business"]
+        }
+      ]
+    },
+    {
+      "term": "recurringly",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a manner that recurs or happens again and again.",
+          "examples": [
+            "The issue appears recurringly in reports.",
+            "The phrase occurs recurringly in the text."
+          ],
+          "collocations": ["appear recurringly", "recurringly noted"],
+          "synonyms": ["recurrently", "cyclically"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "recurs",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To occur again after an interval; to recur.",
+          "examples": [
+            "The problem recurs despite their efforts.",
+            "Symptoms recurs in cycles."
+          ],
+          "collocations": ["problem recurs", "symptoms recurs", "recurs frequently"],
+          "synonyms": ["recur", "reappear", "repeat"],
+          "antonyms": ["cease", "disappear"],
+          "register": "neutral",
+          "domain": ["general", "medicine", "science"]
+        }
+      ]
+    },
+    {
+      "term": "recursant",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A person who repeats or reoccurs; something that recurs.",
+          "examples": [
+            "The legal document used the term recurrant to describe repeated offenders.",
+            "In biology, a recurrant mutation might appear in several generations."
+          ],
+          "collocations": ["recurrant offender", "recurrant feature"],
+          "synonyms": ["recurrent", "repeater"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["law", "biology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "recurse",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To call itself in a procedure, often in programming or mathematics; to occur again in a self-referential way.",
+          "examples": [
+            "The function will recurse until it reaches the base case.",
+            "In mathematics, we recurse to define a sequence."
+          ],
+          "collocations": ["recurse with", "will recurse", "recursively call"],
+          "synonyms": ["loop", "repeat", "self-reference"],
+          "antonyms": ["iterate non-self-referentially"],
+          "register": "neutral",
+          "domain": ["technology", "mathematics", "computer science"]
+        }
+      ]
+    },
+    {
+      "term": "recursed",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Past tense of recurse; called itself in a procedure or process.",
+          "examples": [
+            "The algorithm recursed to solve smaller subproblems.",
+            "She recursed through the data to find the base case."
+          ],
+          "collocations": ["has recursed", "recursed into"],
+          "synonyms": ["self-referenced", "recurred (in some contexts)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "computer science"]
+        }
+      ]
+    },
+    {
+      "term": "recurses",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Third-person singular of recurse; calls itself in a procedure.",
+          "examples": [
+            "The function recurses until the base case is reached.",
+            "If the condition is met, it recurses again."
+          ],
+          "collocations": ["function recurses", "recurses automatically"],
+          "synonyms": ["self-references", "repeats"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "computer science"]
+        }
+      ]
+    },
+    {
+      "term": "recursing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "Present participle of recurse; the action of calling itself in a procedure.",
+          "examples": [
+            "The algorithm is recursing on smaller inputs.",
+            "We are recursing through nested lists."
+          ],
+          "collocations": ["is recursing", "recursing through"],
+          "synonyms": ["self-referencing", "recuring"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "computer science"]
+        }
+      ]
+    },
+    {
+      "term": "recursion",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process of a function or sequence calling itself; a repeated pattern.",
+          "examples": [
+            "Recursion is a common concept in computer science.",
+            "The poem uses recursion as a structural device."
+          ],
+          "collocations": ["mathematical recursion", "recursion in programming", "self-reference recursion"],
+          "synonyms": ["self-reference", "looping"],
+          "antonyms": ["iteration"],
+          "register": "neutral",
+          "domain": ["technology", "education", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "recursions",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural of recursion; multiple instances of recursion.",
+          "examples": [
+            "The paper discusses several recursions found in the data.",
+            "Different models show different recursions in their structure."
+          ],
+          "collocations": ["multiple recursions", "recursions over time"],
+          "synonyms": ["self-references", "repeats"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "academic"]
+        }
+      ]
+    },
+    {
+      "term": "recursive",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Involving or characterized by recursion; self-referential.",
+          "examples": [
+            "The problem is solved with a recursive approach.",
+            "Recursive definitions require careful handling."
+          ],
+          "collocations": ["recursive algorithm", "recursive definition"],
+          "synonyms": ["self-referential", "iterative (in some contexts)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "education"]
+        }
+      ]
+    },
+    {
+      "term": "recursively",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adverb",
+          "definition": "In a recursive manner; in a way that involves self-reference.",
+          "examples": [
+            "The function calls itself recursively.",
+            "Systematic patterns are defined recursively."
+          ],
+          "collocations": ["call recursively", "defined recursively"],
+          "synonyms": ["self-referentially"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["technology", "mathematics"]
+        }
+      ]
+    },
+    {
+      "term": "recursiveness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The quality or state of being recursive; self-reference in structure.",
+          "examples": [
+            "Recursiveness makes the definition elegant but complex.",
+            "The text explores themes through recursiveness."
+          ],
+          "collocations": ["structural recursiveness", "linguistic recursiveness"],
+          "synonyms": ["recursivity"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["linguistics", "literature", "computer science"]
+        }
+      ]
+    },
+    {
+      "term": "recursivenesses",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Plural form of recursiveness; multiple instances of recursive quality.",
+          "examples": [
+            "The study notes several recursivenesses in the data model.",
+            "Different layers show varying recursivenesses."
+          ],
+          "collocations": ["multiple recursivenesses"],
+          "synonyms": ["recursiveness"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["computer science", "linguistics"]
+        }
+      ]
+    },
+    {
+      "term": "recurtain",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "A curtain or drape that is used again; not a standard common term in English outside specific contexts.",
+          "examples": [
+            "The theater planned to use a recur‑ curtain for a seasonal motif."
+          ],
+          "collocations": ["recurtain design"],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": ["theater", "design"]
+        }
+      ]
+    },
+    {
+      "term": "recurvant",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Uncommon or specialized term; not widely used in contemporary general English.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "recurvaria",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "Uncommon or technical term; not widely attested in general English.",
+          "examples": [],
+          "collocations": [],
+          "synonyms": [],
+          "antonyms": [],
+          "register": "null",
+          "domain": []
+        }
+      ]
+    },
+    {
+      "term": "recurvate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To bend backwards or form a bend toward the rear.",
+          "examples": [
+            "The spine recurvates slightly in this region.",
+            "Materials recurvate to fit the curved frame."
+          ],
+          "collocations": ["recurvate axis", "recurvating curve"],
+          "synonyms": ["bend back", "curvate"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "recurvated",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having been bent backwards; sharply curved.",
+          "examples": [
+            "The recurvated spine required careful medical attention."
+          ],
+          "collocations": ["recurvated form"],
+          "synonyms": ["bent back", "curved"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "recurvation",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The act or process of bending backwards; a backward curve.",
+          "examples": [
+            "Recurvation of the spine can occur in certain conditions."
+          ],
+          "collocations": ["spinal recurvation"],
+          "synonyms": ["curvature backward"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "recurvature",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "The process or state of recurve; a backward curve.",
+          "examples": [
+            "The recurvature of the arch is intentional in this design."
+          ],
+          "collocations": ["arch recurvature"],
+          "synonyms": ["reverse curvature"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["architecture", "biology"]
+        }
+      ]
+    },
+    {
+      "term": "recurve",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "To curve backward or return in a curved shape.",
+          "examples": [
+            "The bow recoils and recurve under tension.",
+            "The blade curves to recurve at the tip."
+          ],
+          "collocations": ["recurve slowly", "recurve blade"],
+          "synonyms": ["curve back", "bend"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "engineering", "craft"]
+        }
+      ]
+    },
+    {
+      "term": "recurved",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "Having curved backward; bent in a backward curve.",
+          "examples": [
+            "A recurved horn gives the animal a distinctive silhouette."
+          ],
+          "collocations": ["recurved horn", "recurved edge"],
+          "synonyms": ["bent back", "curved"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["biology", "zoology", "design"]
+        }
+      ]
+    }
+  ]
+}

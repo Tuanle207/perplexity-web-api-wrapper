@@ -1,0 +1,582 @@
+{
+  "items": [
+    {
+      "term": "refractors",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of refractor; devices or substances that cause light to change direction or to focus by refraction.",
+          "examples": [
+            "The telescope uses several refractors to collect distant light.",
+            "Glass refractors can focus sunlight onto a small spot."
+          ],
+          "collocations": ["optical refractor", "glass refractors", "telescope refractors"],
+          "synonyms": ["prism", "lens"],
+          "antonyms": ["mirror", "reflector"],
+          "register": "neutral",
+          "domain": ["science", "technology", "general"]
+        }
+      ]
+    },
+    {
+      "term": "refractory",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "difficult to control; stubborn or unmanageable.",
+          "examples": [
+            "The patient was in a refractory mood and wouldn't cooperate.",
+            "Refractory metal alloys resist high temperatures."
+          ],
+          "collocations": ["refractory behavior", "refractory material", "refractory period"],
+          "synonyms": ["unmanageable", "stubborn", "resistant"],
+          "antonyms": ["compliant", "tractable"],
+          "register": "formal",
+          "domain": ["psychology", "medicine", "materials"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a material that resists heat or doesn't burn easily; a substance that is resistant to heat.",
+          "examples": [
+            "The reactor uses a refractory lining to keep heat contained.",
+            "Refractory bricks withstand extreme temperatures."
+          ],
+          "collocations": ["refractory material", "refractory lining", "refractory brick"],
+          "synonyms": ["heat-resistant material", "insulator"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["materials", "engineering", "construction"]
+        }
+      ]
+    },
+    {
+      "term": "refracts",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "the third-person singular present of refract; to bend light as it passes through a material.",
+          "examples": [
+            "Water refracts light to create a rainbow.",
+            "The lens refracts rays to focus them on the retina."
+          ],
+          "collocations": ["refracts light", "refract a beam", "refracted ray"],
+          "synonyms": ["bend", "disperse (light)"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["physics", "science"]
+        }
+      ]
+    },
+    {
+      "term": "refracturable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being refracted; able to bend light.",
+          "examples": [
+            "Certain liquids are refracturable more than others.",
+            "The refracturable portion of the spectrum was analyzed."
+          ],
+          "collocations": ["refracturable lens", "refracturable light"],
+          "synonyms": ["refractable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["physics", "optics"]
+        }
+      ]
+    },
+    {
+      "term": "refracture",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to fracture again or a second fracture; to break or crack again after healing.",
+          "examples": [
+            "The bone may refracture if stressed too soon after surgery.",
+            "If the cast is removed, the bone could refracture."
+          ],
+          "collocations": ["refracture of bone", "risk of refracture"],
+          "synonyms": ["rebreak", "recrack"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "health"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a fracture that occurs again after healing.",
+          "examples": [
+            "The patient suffered a refracture after a fall.",
+            "X-rays showed a refracture at the original site."
+          ],
+          "collocations": ["refracture risk", "accidental refracture"],
+          "synonyms": ["rebreak", "secondary fracture"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "refractured",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of refracture; broke again after healing.",
+          "examples": [
+            "The bone refractured after the accident.",
+            "He refractured the tooth by biting hard."
+          ],
+          "collocations": ["refractured bone", "refractured tooth"],
+          "synonyms": ["re-broke", "recracked"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "refractures",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of refracture; multiple secondary fractures.",
+          "examples": [
+            "The patient has several refractures after the fall.",
+            "Refractures can complicate healing."
+          ],
+          "collocations": ["occult refractures", "refractures risk"],
+          "synonyms": ["secondary fractures"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "health"]
+        },
+        {
+          "pos": "verb",
+          "definition": "third-person plural present of refracture; they fracture again.",
+          "examples": [
+            "The bones refracture more easily in this condition.",
+            "Poor healing can lead to refractures."
+          ],
+          "collocations": ["refractures occur", "refractures risk"],
+          "synonyms": ["rebreaks", "recracks"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "health"]
+        }
+      ]
+    },
+    {
+      "term": "refracturing",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of refracturing; breaking again after healing.",
+          "examples": [
+            "Refracturing of the materials is a concern in this design.",
+            "Refracturing can weaken the structure."
+          ],
+          "collocations": ["risk of refracturing", "refracturing process"],
+          "synonyms": ["rebreakage"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["engineering", "materials"]
+        },
+        {
+          "pos": "verb",
+          "definition": "gerund of refracture; the act of fracturing again.",
+          "examples": [
+            "The bone is refracturing after the impact.",
+            "We must monitor for refracturing during rehabilitation."
+          ],
+          "collocations": ["refracturing bone", "refracturing risk"],
+          "synonyms": ["rebreaking", "recracking"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["medicine", "engineering"]
+        }
+      ]
+    },
+    {
+      "term": "refragability",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the quality of being refraggable; the ability to be refracted or broken apart and reassembled in theory.",
+          "examples": [
+            "The refragability of the crystal is high.",
+            "This material demonstrates refragability under light."
+          ],
+          "collocations": ["refragability score", "measure refragability"],
+          "synonyms": ["refrangibility"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["physics", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "refragable",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "adjective",
+          "definition": "capable of being refragable; able to be broken and reassembled in theory.",
+          "examples": [
+            "The refragable crystal can be split and rejoined.",
+            "A refragable pattern was observed in the experiment."
+          ],
+          "collocations": ["refragable crystal", "refragable pattern"],
+          "synonyms": ["refragable"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["physics", "chemistry"]
+        }
+      ]
+    },
+    {
+      "term": "refragableness",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the state or quality of being refragable; the ability to be refragable.",
+          "examples": [
+            "Refragableness affects how the material behaves under light.",
+            "Assessing refragableness helps in material design."
+          ],
+          "collocations": ["degree of refragableness", "refragableness assessment"],
+          "synonyms": ["refragability"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["physics", "materials"]
+        }
+      ]
+    },
+    {
+      "term": "refragate",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to break or separate into fragments again; to fracture anew.",
+          "examples": [
+            "The pottery was refragated into small shards.",
+            "The ancient vase refragate under pressure."
+          ],
+          "collocations": ["refragate into pieces", "refragate fracture"],
+          "synonyms": ["refracture", "shatter"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["literature", "science"]
+        }
+      ]
+    },
+    {
+      "term": "refragment",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to fragment again; to break something into fragments again.",
+          "examples": [
+            "To study the history, they refragmented the artifact.",
+            "The researchers refragmented the data into smaller groups."
+          ],
+          "collocations": ["refragment a diagram", "refragment into parts"],
+          "synonyms": ["refragmentate"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["science", "research"]
+        }
+      ]
+    },
+    {
+      "term": "refrain",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to stop yourself from doing something; to hold back.",
+          "examples": [
+            "Please refrain from talking during the lecture.",
+            "She refrains from sugar to stay healthy."
+          ],
+          "collocations": ["refrain from", "refrain yourself"],
+          "synonyms": ["avoid", "withhold"],
+          "antonyms": ["perform", "do"],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a line in a song that is repeated; a chorus.",
+          "examples": [
+            "The refrain repeats the main idea of the song.",
+            "Each chorus serves as the refrain of the piece."
+          ],
+          "collocations": ["chorus refrain", "habitual refrain"],
+          "synonyms": ["chorus", "recurring line"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "refrained",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of refrain; stopped oneself from doing something.",
+          "examples": [
+            "She refrained from commenting on the issue.",
+            "They refrained to avoid conflict."
+          ],
+          "collocations": ["refrained from", "refrained comment"],
+          "synonyms": ["avoided", "withheld"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "education"]
+        }
+      ]
+    },
+    {
+      "term": "refrainer",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "a person who refrains; someone who holds back or abstains.",
+          "examples": [
+            "The refrainer chose not to speak.",
+            "A steady refrainer, he kept quiet during the debate."
+          ],
+          "collocations": ["self-refrainer", "habitual refrainer"],
+          "synonyms": ["abstainer", "restrainer"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "refrainers",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of refrainer; people who refrain.",
+          "examples": [
+            "The refrainers of the group avoided spicy food.",
+            "Several refrainers chose not to participate."
+          ],
+          "collocations": ["group of refrainers", "refrainers at meeting"],
+          "synonyms": ["abstainers", "restrainers"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "refraining",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "present participle of refrain; the act of holding back from doing something.",
+          "examples": [
+            "She is refraining from making a judgment.",
+            "Refraining from anger helped the situation."
+          ],
+          "collocations": ["refraining from", "refraining behavior"],
+          "synonyms": ["avoiding", "withholding"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        }
+      ]
+    },
+    {
+      "term": "refrainment",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of refraining; restraint or self-control.",
+          "examples": [
+            "Refrainment is important in diplomacy.",
+            "With refrainment, the argument ended peacefully."
+          ],
+          "collocations": ["self-refrainment", "emotional refrainment"],
+          "synonyms": ["restraint", "self-control"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "refrainments",
+      "kind": "word",
+      "cefrLevel": "null",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of refrainment; acts of refraining or restraints.",
+          "examples": [
+            "Several refrainments were noted during the negotiation.",
+            "The refrainments helped de-escalate the situation."
+          ],
+          "collocations": ["multiple refrainments"],
+          "synonyms": ["restraints"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general", "psychology"]
+        }
+      ]
+    },
+    {
+      "term": "refrains",
+      "kind": "word",
+      "cefrLevel": "A2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of refrain; to hold back from doing something.",
+          "examples": [
+            "He refrains from making promises.",
+            "The city refrains from issuing a curfew."
+          ],
+          "collocations": ["refrains from", "refrain from action"],
+          "synonyms": ["avoids", "withholds"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["general"]
+        },
+        {
+          "pos": "noun",
+          "definition": "a repeated line or chorus in a song or poem; a refrain.",
+          "examples": [
+            "The refrain repeats the main idea of the song.",
+            "Listeners hummed the catchy refrain."
+          ],
+          "collocations": ["catchy refrain", "musical refrain"],
+          "synonyms": ["chorus"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["music", "literature"]
+        }
+      ]
+    },
+    {
+      "term": "reframe",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to present or consider something in a different or new way.",
+          "examples": [
+            "We need to reframe the issue to find a solution.",
+            "The documentary reframes the historical event from a local perspective."
+          ],
+          "collocations": ["reframe the question", "reframe approach"],
+          "synonyms": ["redefine", "reinterpret"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["education", "media", "general"]
+        }
+      ]
+    },
+    {
+      "term": "reframed",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "past tense of reframe; presented in a different way.",
+          "examples": [
+            "The artist reframed the story through visuals.",
+            "She reframed her argument to focus on evidence."
+          ],
+          "collocations": ["reframed narrative", "reframed perspective"],
+          "synonyms": ["reinterpreted", "redescribed"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media", "education"]
+        }
+      ]
+    },
+    {
+      "term": "reframes",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "third-person singular present of reframe; presents differently.",
+          "examples": [
+            "The campaign reframes the issue for a broader audience.",
+            "It reframes the data to emphasize trends."
+          ],
+          "collocations": ["reframes the issue", "reframe data"],
+          "synonyms": ["reinterprets", "redefines"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["media", "education"]
+        }
+      ]
+    },
+    {
+      "term": "reframing",
+      "kind": "word",
+      "cefrLevel": "B1",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the act of reframing; changing the way something is viewed.",
+          "examples": [
+            "Reframing helped the team see the problem clearly.",
+            "Cognitive reframing can reduce stress."
+          ],
+          "collocations": ["stress reframing", "reframing strategy"],
+          "synonyms": ["reinterpreting", "redefining"],
+          "antonyms": [],
+          "register": "neutral",
+          "domain": ["psychology", "education"]
+        }
+      ]
+    }
+  ]
+}

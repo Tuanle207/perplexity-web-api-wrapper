@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "term": "reconfiguration",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "the process of changing the arrangement or structure of something, especially a system or organization",
+          "examples": [
+            "The company announced a reconfiguration of its data center.",
+            "A reconfiguration of the team improved communication."
+          ],
+          "collocations": [
+            "network reconfiguration",
+            "hardware reconfiguration",
+            "office reconfiguration",
+            "system reconfiguration",
+            "layout reconfiguration"
+          ],
+          "synonyms": ["restructuring", "rearrangement", "reorganization"],
+          "antonyms": ["preservation", "stability"],
+          "register": "formal",
+          "domain": ["general", "technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "reconfigurations",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "noun",
+          "definition": "plural of reconfiguration; the processes of changing arrangements or structures of things",
+          "examples": [
+            "The update introduced several reconfigurations of the software modules.",
+            "Multiple reconfigurations were tested to optimize performance."
+          ],
+          "collocations": [
+            "software reconfigurations",
+            "network reconfigurations",
+            "data center reconfigurations"
+          ],
+          "synonyms": ["restructures", "rearrangements"],
+          "antonyms": [],
+          "register": "formal",
+          "domain": ["technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "reconfigure",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb",
+          "definition": "to change the arrangement or structure of something, especially a system or device",
+          "examples": [
+            "We will reconfigure the network to improve security.",
+            "The software can be reconfigured to fit different users."
+          ],
+          "collocations": [
+            "reconfigure the system",
+            "reconfigure the network",
+            "reconfigure settings",
+            "reconfigure hardware"
+          ],
+          "synonyms": ["rearrange", "reshape", "adjust"],
+          "antonyms": ["preserve", "maintain"],
+          "register": "formal",
+          "domain": ["technology", "business"]
+        }
+      ]
+    },
+    {
+      "term": "reconfigured",
+      "kind": "word",
+      "cefrLevel": "B2",
+      "senses": [
+        {
+          "pos": "verb (past participle)",
+          "definition": "having had its arrangement or structure changed",
+          "examples": [
+            "The reconfigured network reduced latency.",
+            "We reconfigured the workspace and added more desks."
+          ],
+          "collocations": [
+            "reconfigured layout",
+            "reconfigured network",
+            "reconfigured system"
+          ],
